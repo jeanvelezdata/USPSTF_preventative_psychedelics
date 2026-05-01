@@ -2,7 +2,7 @@
 Descriptive analyses for the alcohol-trial dataset, output to a single .docx.
 
 Inputs:
-    Alcohol_Dataset_Cleaned.xlsx   (output of clean_alcohol_dataset.py)
+    Alcohol_Dataset_Cleaned.xlsx   (output of clean_dataset.py --condition alcohol)
 
 Outputs:
     Alcohol_Descriptive_Analyses.docx   five tables for the manuscript:
