@@ -1,26 +1,30 @@
 """
-Descriptive analyses for the alcohol-trial dataset, output to a single .docx.
+Descriptive analyses for psychedelic-trial datasets, output to per-condition .docx files.
 
 Inputs:
-    Alcohol_Dataset_Cleaned.xlsx   (output of clean_dataset.py --condition alcohol)
+    <Condition>_Dataset_Cleaned.xlsx   (output of clean_dataset.py --condition <c>)
 
 Outputs:
-    Alcohol_Descriptive_Analyses.docx   five tables for the manuscript:
+    <Condition>_Descriptive_Analyses.docx   five tables for the manuscript:
         Table 1. Study Characteristics, stratified by era
         Table 2. Methodological Quality, stratified by era
         Table 3. USPSTF Indicator Gap Heat Map (52 indicators across 6 domains)
         Table 4. Outcomes Measured, stratified by era
         Table 5. Follow-up Duration Distribution
 
+Usage:
+    python descriptive_analyses.py [--condition alcohol|smoking|all]
+
 Coding conventions:
 - "% met" = proportion of all studies in the stratum where the criterion is
   positively documented. Missing/not-reported is treated as not met (strict
   USPSTF gap interpretation; documented in each table footnote).
-- Era split: Pre-1980 (n=13) vs. 2010+ (n=20). The 1980-2009 gap is empty.
+- Era split: Pre-1980 vs. 2010+. The 1980-2009 gap is empty for both conditions.
 """
 
 from __future__ import annotations
 
+import argparse
 import math
 from dataclasses import dataclass
 from pathlib import Path
@@ -35,9 +39,14 @@ from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
 from docx.shared import Cm, Inches, Pt, RGBColor
 
-_BASE  = Path(__file__).parent.parent
-INPUT  = _BASE / 'data' / 'Alcohol_Dataset_Cleaned.xlsx'
-OUTPUT = _BASE / 'tables' / 'Alcohol_Descriptive_Analyses.docx'
+_BASE = Path(__file__).parent.parent
+
+CONDITION_META: dict[str, dict] = {
+    'alcohol': {'short': 'Alcohol', 'disorder': 'Alcohol Use Disorder'},
+    'smoking': {'short': 'Smoking', 'disorder': 'Tobacco/Smoking Cessation'},
+    'opioid':  {'short': 'Opioid',  'disorder': 'Opioid Use Disorder'},
+}
+AVAILABLE_CONDITIONS = ['alcohol', 'smoking', 'opioid']
 
 
 # =============================================================================
@@ -586,14 +595,28 @@ def render_heatmap_table(doc: Document, df: pd.DataFrame, n: int) -> None:
         row_idx += 1
 
 
-def main() -> None:
-    df = pd.read_excel(INPUT)
+def generate_for_condition(condition: str) -> None:
+    meta = CONDITION_META[condition]
+    short = meta['short']
+    disorder = meta['disorder']
+    input_path = _BASE / 'data' / f'{short}_Dataset_Cleaned.xlsx'
+    output_path = _BASE / 'tables' / f'{short}_Descriptive_Analyses.docx'
+
+    if not input_path.exists():
+        print(f"WARNING: {input_path} not found — skipping {condition}.")
+        return
+
+    df = pd.read_excel(input_path)
     df['era'] = df['Year'].apply(classify_era)
 
+    n_pre  = int((df['era'] == 'Pre-1980').sum())
+    n_post = int((df['era'] == '2010+').sum())
+    n_total = len(df)
+
     strata = [
-        Stratum('All studies',  df),
-        Stratum('Pre-1980',     df[df['era'] == 'Pre-1980']),
-        Stratum('2010+',        df[df['era'] == '2010+']),
+        Stratum('All studies', df),
+        Stratum('Pre-1980',    df[df['era'] == 'Pre-1980']),
+        Stratum('2010+',       df[df['era'] == '2010+']),
     ]
 
     doc = Document()
@@ -601,18 +624,19 @@ def main() -> None:
 
     # Title
     title_p = doc.add_paragraph()
-    title_run = title_p.add_run('Descriptive Analyses — Psychedelics for Alcohol Use Disorder')
+    title_run = title_p.add_run(f'Descriptive Analyses — Psychedelics for {disorder}')
     title_run.font.name = 'Arial'
     title_run.bold = True
     title_run.font.size = Pt(15)
-    add_caption(doc, 'Five descriptive tables supporting the USPSTF evidentiary-gap '
-                     'analysis. Era split: Pre-1980 (n=13) vs. 2010+ (n=20); the '
-                     '1980–2009 interval contains zero studies.', italic=True)
+    add_caption(doc,
+                f'Five descriptive tables supporting the USPSTF evidentiary-gap analysis. '
+                f'Era split: Pre-1980 (n={n_pre}) vs. 2010+ (n={n_post}); '
+                f'the 1980–2009 interval contains zero studies.',
+                italic=True)
 
     # ---------------- Table 1 ----------------
     add_heading(doc, 'Table 1. Study Characteristics by Era')
     rows1 = build_table1(strata)
-    # Identify section-header rows in Table 1 (rows with values that are all '')
     group_rows1 = {i for i, r in enumerate(rows1) if i > 0 and all(c == '' for c in r[1:])}
     render_table(doc, rows1, col_widths=[2.7, 1.3, 1.3, 1.3],
                  group_rows=group_rows1)
@@ -632,15 +656,16 @@ def main() -> None:
                 italic=True)
 
     # ---------------- Table 3 ----------------
-    add_heading(doc, 'Table 3. USPSTF Indicator Gap Heat Map (52 Indicators × 6 Domains)')
-    add_caption(doc, 'Cell shading reflects % of all studies (n=33) meeting/reporting '
-                     'each indicator. Red = low (gap); green = high (well covered). '
-                     'For binary criteria, % is the proportion with value 1. For '
-                     'continuous/categorical variables (denoted "reported"), % is the '
-                     'proportion with any non-null value. Substance Category rows '
-                     'describe the literature\'s coverage, not USPSTF criteria per se.',
+    add_heading(doc, 'Table 3. USPSTF Indicator Gap Heat Map (52 Indicators \xd7 6 Domains)')
+    add_caption(doc,
+                f'Cell shading reflects % of all studies (n={n_total}) meeting/reporting '
+                f'each indicator. Red = low (gap); green = high (well covered). '
+                f'For binary criteria, % is the proportion with value 1. For '
+                f'continuous/categorical variables (denoted "reported"), % is the '
+                f'proportion with any non-null value. Substance Category rows '
+                f'describe the literature\'s coverage, not USPSTF criteria per se.',
                 italic=True)
-    render_heatmap_table(doc, df, n=len(df))
+    render_heatmap_table(doc, df, n=n_total)
 
     # ---------------- Table 4 ----------------
     add_heading(doc, 'Table 4. Outcome Domains Measured by Era')
@@ -662,8 +687,25 @@ def main() -> None:
                      'fraction of studies meeting common durability thresholds.',
                 italic=True)
 
-    doc.save(OUTPUT)
-    print(f"Wrote {OUTPUT}")
+    doc.save(output_path)
+    print(f"Wrote {output_path}")
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser(
+        description='Generate descriptive analysis tables for one or all conditions.'
+    )
+    parser.add_argument(
+        '--condition',
+        choices=AVAILABLE_CONDITIONS + ['all'],
+        default='all',
+        help='Condition to process (default: all available conditions).',
+    )
+    args = parser.parse_args()
+
+    conditions = AVAILABLE_CONDITIONS if args.condition == 'all' else [args.condition]
+    for condition in conditions:
+        generate_for_condition(condition)
 
 
 if __name__ == '__main__':

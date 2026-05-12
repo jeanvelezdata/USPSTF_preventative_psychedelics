@@ -33,3 +33,20 @@ CONVERSION_RULES: dict = {
     ('Johnson',     2014):  {'method': None, 'confidence': 'excluded',
                               'note': 'Single-arm abstinence rate; no comparator'},
 }
+
+# ── Tier 2 ratings ────────────────────────────────────────────────────────────
+
+TIER2_RATINGS: dict = {
+    ('Garcia-Romeu', 2015): {
+        'category': 'unclassifiable',
+        'basis':    'Subgroup comparison (quitters vs non-quitters on SOCQ); not a treatment-vs-control effect size.',
+    },
+    ('Johnson',     2016): {
+        'category': 'single_arm_positive',
+        'basis':    '60% abstinence rate at 30 months; single-arm open-label study, no comparator.',
+    },
+    ('Johnson',     2014): {
+        'category': 'single_arm_positive',
+        'basis':    '80% abstinence rate at 6 months; single-arm open-label study, no comparator.',
+    },
+}

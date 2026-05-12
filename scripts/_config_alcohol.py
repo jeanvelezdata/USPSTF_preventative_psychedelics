@@ -11,7 +11,7 @@ INPUT_FILE = 'data/Alcohol_Dataset.xlsx'
 EFFECT_SIZE_EXTRACTIONS: dict = {
     ('Bogenschutz', 2015): ("Cohen's d",                      1.383,          ''),
     ('Bogenschutz', 2022): ("Hedges' g",                      0.52,           ''),
-    ('Bowen',       1970): (None,                             None,           'Outcome not reported'),
+    ('Bowen',       1970): ('Chi-squared',                    1.408,          'df=1; 24% vs 27% good adjustment (LSD+HRTL vs control, combined); ns'),
     ('Dakwar',      2020): ('F',                              25.1,           'F preferred over NNT for Tier 1 (df reported)'),
     ('Das',         2019): ('Partial eta squared',            0.219,          ''),
     ('Denson',      1970): (None,                             None,           'Outcome not reported'),
@@ -52,8 +52,8 @@ EFFECT_SIZE_EXTRACTIONS: dict = {
 CONVERSION_RULES: dict = {
     ('Bogenschutz', 2015): {'method': 'd',     'confidence': 'clean'},
     ('Bogenschutz', 2022): {'method': 'g',     'confidence': 'clean'},
-    ('Bowen',       1970): {'method': None,    'confidence': 'excluded',
-                            'note': 'No outcome statistic reported'},
+    ('Bowen',       1970): {'method': 'chi2',  'confidence': 'approx', 'direction': -1,
+                            'note': 'χ²=1.408, p>0.05; 24% vs 27% good adjustment; treatment direction slightly negative'},
     ('Dakwar',      2020): {'method': 'F', 'df_error': 797, 'confidence': 'approx',
                             'note': 'F is interaction term with large df_error; rough'},
     ('Das',         2019): {'method': 'eta_p', 'confidence': 'clean'},
@@ -111,4 +111,97 @@ CONVERSION_RULES: dict = {
                             'note': 'Primary chi^2 (LSD vs control I, nonschiz, abstinence)'},
     ('Yoon',        2019): {'method': None,    'confidence': 'excluded',
                             'note': 'Case series 5/5 response; no comparator'},
+}
+
+# ── Tier 2 ratings ────────────────────────────────────────────────────────────
+# Applied only to studies where confidence == 'excluded' in Tier 1.
+# category: one of {negative, null, small_positive, moderate_positive,
+#                   large_positive, single_arm_positive, unclassifiable}
+# basis: one sentence explaining the classification.
+# computed_or: float — OR derived from two-group proportions (when applicable).
+
+TIER2_RATINGS: dict = {
+    ('Denson',      1970): {
+        'category': 'null',
+        'basis':    'Authors say: results obtained from statistical analysis of the data were interpreted as negative.',
+    },
+    ('Dusen',       1967): {
+        'category': 'null',
+        'basis':    'Group means virtually identical (3.97 vs 4.03); reported non-significant.',
+    },
+    ('Gent',        2024): {
+        'category': 'large_positive',
+        'basis':    'F(2,df)=6.45, p<0.01 in 3-arm RCT; overall ANOVA significant, favoring active treatment over placebo.',
+    },
+    ('Grabski',     2022): {
+        'category': 'moderate_positive',
+        'basis':    '+10.1 percentage-point difference in heavy drinking days favoring ketamine; no SD reported so Tier 1 conversion not feasible.',
+    },
+    ('Heinzerling', 2023): {
+        'category': 'large_positive',
+        'basis':    'F(6,df)=15.76 for time-by-treatment interaction, p<0.001; repeated-measures design with sustained treatment advantage.',
+    },
+    ('Jensen',      1963): {
+        'category':    'large_positive',
+        'basis':       'Computed OR=4.60 from two-group abstinence proportions (63% vs 27%); exceeds OR≥3 threshold.',
+        'computed_or': 4.60,
+    },
+    ('Johnson',     1969): {
+        'category': 'null',
+        'basis':    'Reported only as non-significant; no test statistic given.',
+    },
+    ('Kurland',     1967): {
+        'category': 'single_arm_positive',
+        'basis':    '33.3% abstinence rate at follow-up; single-arm study with no comparator group.',
+    },
+    ('Luquiens',    2025): {
+        'category': 'negative',
+        'basis':    'Risk difference = -44 percentage points in abstinence rate; treatment arm had substantially lower abstinence than comparator.',
+    },
+    ('MacLean',     1961): {
+        'category': 'single_arm_positive',
+        'basis':    '49% improvement rate; single-arm open-label study with no comparator.',
+    },
+    ('Marvania',    2024): {
+        'category': 'single_arm_positive',
+        'basis':    '51.98% within-group improvement on AASE scale; no comparator arm.',
+    },
+    ("O'Reilly",    1964): {
+        'category': 'single_arm_positive',
+        'basis':    '38% abstinence rate; single-arm study with no comparator group.',
+    },
+    ('Pagni',       2024): {
+        'category': 'single_arm_positive',
+        'basis':    'Within-subjects t(3)=5.568, p<0.05 for craving reduction on fMRI; N=4, within-subjects design, no comparator arm.',
+    },
+    ('Pahnke',      1970): {
+        'category':    'moderate_positive',
+        'basis':       'Computed OR=2.29 from two-group abstinence proportions (53% vs 33%); falls in OR 1.5-3 range.',
+        'computed_or': 2.29,
+    },
+    ('Sessa',       2021): {
+        'category': 'single_arm_positive',
+        'basis':    'Within-group reduction from 130.6 to 18.7 units/wk at 9 months; no comparator arm.',
+    },
+    ('Sessa',       2019): {
+        'category': 'single_arm_positive',
+        'basis':    '50% abstinence rate (2/4); case series with no comparator.',
+    },
+    ('Smart',       1966): {
+        'category':    'moderate_positive',
+        'basis':       'Computed OR=2.08 from two-group abstinence proportions (33.7% vs 19.6%); falls in OR 1.5-3 range.',
+        'computed_or': 2.08,
+    },
+    ('Smith',       1958): {
+        'category': 'single_arm_positive',
+        'basis':    '50% improvement rate (12/24 patients); single-arm study with no comparator.',
+    },
+    ('Thurgur',     2025): {
+        'category': 'null',
+        'basis':    'Bayesian posterior P(positive effect)=0.63; insufficient evidence above chance threshold (flat prior).',
+    },
+    ('Yoon',        2019): {
+        'category': 'single_arm_positive',
+        'basis':    '100% response rate (5/5); case series with no comparator.',
+    },
 }
