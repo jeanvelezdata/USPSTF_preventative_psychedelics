@@ -314,7 +314,7 @@ def build_table1(strata: list[Stratum]) -> list[list[str]]:
 
     # Substance class
     rows.append(['Substance studied, n (%)'] + ['' for _ in strata])
-    for sub in ['Psilocybin', 'LSD', 'Ketamine', 'MDMA']:
+    for sub in ['Psilocybin', 'LSD', 'Ketamine', 'MDMA', 'Ibogaine']:
         row(sub,
             [n_pct((to_numeric_strict(s.df[sub]) == 1).sum(), s.n) for s in strata],
             indent=True)
