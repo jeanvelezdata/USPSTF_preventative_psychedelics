@@ -142,7 +142,8 @@ def make_forest_plot(results: pd.DataFrame, out_path: Path, condition: str) -> N
     )
     lib._legend(fig)
 
-    fig.subplots_adjust(top=0.93, bottom=0.10, left=0.02, right=0.98)
+    bottom_pad = max(0.10, 1.0 / fig_h)
+    fig.subplots_adjust(top=0.93, bottom=bottom_pad, left=0.02, right=0.98)
     fig.savefig(out_path, dpi=300, bbox_inches='tight', facecolor='white')
     plt.close(fig)
 
