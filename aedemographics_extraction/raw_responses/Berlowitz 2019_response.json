@@ -11,7 +11,7 @@
       "IsObservational": "Y",
       "N": 36,
       "AE_denominator": ".",
-      "ArmScope": "psychedelic_arm",
+      "ArmScope": "psychedelic_arm", "PosResult": "Y",
       "PctFemale": 0,
       "GenderCategory": "100% male (program limited to males only, per Peruvian legal restriction on gender-specificity for this residential treatment type)",
       "PctBIPOC": ".",
@@ -31,6 +31,7 @@
   },
   "rationale": {
     "article": {
+      "PosResult": "Authors report significant pre/post improvement on nearly all primary outcomes at Bonferroni-corrected significance (ASI drug use, alcohol use, psychiatric status, social/familial relationships; CEQ craving; HADS emotional distress; WHOQOL-BREF quality of life), with only the medical status composite failing to reach significance, and the authors themselves conclude the findings 'indicate multiple positive outcomes.'",
       "Condition": "Study population is poly-substance dependent (cannabis 72.2%, alcohol 63.9%, cocaine/cocaine base paste 61.1%, opiates 13.9%, amphetamines 11.1%, tranquilizers 11.1% among completers) rather than an alcohol-specific SUD sample; cannabis was actually the most prevalent dependence diagnosis, not alcohol. Coded 'Alcohol' because alcohol dependence was the second-most-prevalent diagnosis and was the only substance-specific severity domain besides drug use given its own ASI composite subscale reported as a significant treatment outcome (p<.001, d=1.21); no enum option exists for 'polysubstance' or 'cannabis'.",
       "Substance": "Treatment is a multi-component 'Amazonian medicine' package: purging-ritual plants, dietary-forest-retreat plants, and ceremonial plants including ayahuasca (Banisteriopsis caapi). Ayahuasca is the only classic psychedelic substance specifically named; the article explicitly states the program is 'not limited to ayahuasca' and involves other unnamed Amazonian plants, so this likely understates the full intervention but is the only named psychoactive substance.",
       "N": "Two candidate Ns exist: T1 baseline/enrolled sample (n=53) and T2 completer sample with paired pre/post data (n=36). The paired-samples t-tests reported as the study's primary results (the treatment-effect analyses) used n=36, so N=36 was coded as the final analyzed sample; demographics/baseline characteristics were reported for both n=53 and n=36 in Table 1.",

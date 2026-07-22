@@ -11,7 +11,7 @@
       "IsObservational": "Y",
       "N": 12,
       "AE_denominator": 12,
-      "ArmScope": "psychedelic_arm",
+      "ArmScope": "psychedelic_arm", "PosResult": "Y",
       "PctFemale": 41.7,
       "GenderCategory": "7 male, 5 female (Table 1); no non-binary/other categories reported",
       "PctBIPOC": ".",
@@ -68,6 +68,7 @@
   },
   "rationale": {
     "article": {
+      "PosResult": "Y — the study's own results show 9/12 (60%) biologically confirmed abstinent at long-term follow-up (~30 months), and participants consistently attributed smoking cessation to psilocybin-occasioned insights, reduced withdrawal, and persisting positive changes, per the article's own primary-outcome framing.",
       "IsObservational": "This is a retrospective qualitative interview follow-up of participants from an earlier open-label, single-arm psilocybin pilot trial (Johnson et al. 2014) \u2014 no randomization, no control/comparator arm, and the intervention itself (already delivered years prior) is not being tested here; this article only collects retrospective narrative accounts. Coded Y (observational/naturalistic follow-up of a single-arm cohort), consistent with the corpus convention that open-label single-arm designs reading like case series/naturalistic cohorts are observational, but flagged since the underlying original treatment protocol was a research-administered intervention.",
       "N": "Table 1 explicitly states 'N = 12' for the analyzed qualitative sample (participants who completed the retrospective interview). The original pilot trial enrolled/treated 15; 3 declined interview and are not part of this article's analyzed sample, so N=12 (the interviewed/analyzed subset) was used rather than 15.",
       "ArmScope": "Single-arm, uncontrolled design (all 12 participants received the same psilocybin-facilitated protocol); no comparator group exists to pool against, so ArmScope = psychedelic_arm per the instruction to use this code for single-arm cohorts/case series.",

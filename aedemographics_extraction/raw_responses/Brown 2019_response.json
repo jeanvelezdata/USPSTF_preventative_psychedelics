@@ -11,7 +11,7 @@
       "IsObservational": "Y",
       "N": 44,
       "AE_denominator": ".",
-      "ArmScope": "psychedelic_arm",
+      "ArmScope": "psychedelic_arm", "PosResult": "Y",
       "PctFemale": 27.3,
       "GenderCategory": "Male/female only; Mexico 25M/5F, New Zealand 7M/7F (no non-binary/other categories reported)",
       "PctBIPOC": 6.8,
@@ -68,6 +68,7 @@
   },
   "rationale": {
     "article": {
+      "PosResult": "Y — the study's own secondary quantitative outcome (pooled BDI-II depression score) decreased significantly pre- to post-treatment (24.4±9.2 to 16.5±10.9, p<0.001), and the Discussion explicitly concludes ibogaine 'produces acute positive changes in psychological state' with effects that 'persist over time,' though the primary SCQ measure itself showed no correlation with treatment outcome.",
       "IsObservational": "Explicitly stated: 'The two studies were strictly observational, with neither investigator involved in administering ibogaine or in clinic management.' Both source studies (Mexico, New Zealand) are naturalistic treatment-site cohorts, not RCTs.",
       "N": "Abstract/Methods report a total treatment sample of 44 (Mexico n=30 + New Zealand n=14); this is the enrolled/treated population from which this article draws. Sub-analyses within the article use smaller subsamples due to missing data: SCQ n=42 (28 Mexico+14 NZ), BDI-II n=38 (24 Mexico+14 NZ), qualitative thematic analysis n=20 (13 Mexico+7 NZ). N=44 reported as the overall treated sample.",
       "Substance": "All participants received ibogaine HCl; 4 of the 30 Mexican participants additionally received a crude Tabernanthe iboga rootbark extract alongside a lower HCl dose (26 Mexican participants received HCl only).",

@@ -11,7 +11,7 @@
       "IsObservational": "Y",
       "N": 88,
       "AE_denominator": 88,
-      "ArmScope": "psychedelic_arm",
+      "ArmScope": "psychedelic_arm", "PosResult": "Y",
       "PctFemale": 27,
       "GenderCategory": "male/female (73% male, 27% female); no non-binary/other categories reported",
       "PctBIPOC": 11,
@@ -80,6 +80,7 @@
   },
   "rationale": {
     "article": {
+      "PosResult": "Study's own pre/post outcomes and authors' conclusion are clearly positive: 30% achieved sustained opioid abstinence, 41% reported abstinence >=6 months at survey time, and an additional 48% reported decreased use from pretreatment levels, with the Discussion concluding ibogaine 'is associated with reductions in opioid use, including complete abstinence, and has long-term positive psychological outcomes.'",
       "IsObservational": "Retrospective, anonymous, cross-sectional web-based survey of individuals who received ibogaine treatment in usual clinical care at a single Mexico facility (2012-2015); no randomization or controlled experimental arms \u2014 naturalistic observational/survey design consistent with corpus curation.",
       "Substance": "Primary tracked intervention is ibogaine hydrochloride. Authors disclose that Crossroads' clinical procedures changed partway through the 2012-2015 window to add 5-MeO-DMT following ibogaine for some patients, but could not determine with certainty which participants received it (anonymous survey, recall/design error) and could not formally analyze its effect (exploratory date-based analysis found no significant difference). Coded Substance as Ibogaine only since that is the formally tracked intervention; 5-MeO-DMT is a disclosed but unquantifiable confound, not a coded arm.",
       "N": "N=88 is the final analyzed sample after excluding 33 people who did not complete the main questionnaires and 13 who sought ibogaine for non-opioid substance problems, out of 134 who began the survey and 285 contacted.",

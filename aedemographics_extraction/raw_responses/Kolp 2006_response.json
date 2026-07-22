@@ -11,7 +11,7 @@
       "IsObservational": "Y",
       "N": 70,
       "AE_denominator": 2,
-      "ArmScope": "psychedelic_arm",
+      "ArmScope": "psychedelic_arm", "PosResult": "Y",
       "PctFemale": ".",
       "GenderCategory": "Both males and females treated; no cohort-wide proportion given. Two detailed case studies: one male (P.A.) and one female (J.C.).",
       "PctBIPOC": ".",
@@ -44,6 +44,7 @@
   },
   "rationale": {
     "article": {
+      "PosResult": "Across the 5 sequential KEP method iterations, abstinence rates rose progressively (25%->35%->50%->60%->~70%), and the concluding discussion states Kolp 'was finally able to clinically replicate Krupitsky et al.'s (1992) Russian findings...in effectively treating alcoholism,' with both illustrative case studies also reporting sustained abstinence at 6- and 12-month follow-up, so the study's own stated outcome is positive despite the acknowledged lack of a control group.",
       "IsObservational": "Retrospective, informally reconstructed report of clinical practice (private-practice patients treated 1996-1999, original records lost); explicitly no randomization, no control group, no blinding within this article's own data ('pilot data that is informally gathered with no use of control groups or blinds'). This is a naturalistic case-series/clinical-observation report, not an RCT, so coded Y. The article does reference a separate prior controlled trial by Krupitsky (1992) as a historical benchmark, but that is not this article's own study design.",
       "N": "No single formally 'analyzed' N is given. Abstract states KEP was administered to 'more than 70 clients'; Table 1 lists approximate patients treated per method (20+15+10+10+15=70), consistent with the abstract. Used 70, but this is explicitly an approximate, retrospectively reconstructed count, not a precise enrolled/analyzed figure (original clinical files were lost, per footnote 2).",
       "AE_denominator": "No systematic AE/safety assessment was conducted across the ~70-patient cohort. The only concretely described ketamine-session experiential content is in the two detailed case studies (P.A. and J.C.), so the denominator for the one identified AE type is coded as 2 rather than 70.",

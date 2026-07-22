@@ -2,7 +2,7 @@
 
 **Scope.** A narrow codebook (adverse events / challenging experiences + basic demographics) applied to 44 articles, producing a **standalone dataset** analyzed separately from the main 52-variable USPSTF pipeline. It does not join that pipeline.
 
-**Codebook.** Seven extracted items, from the eight-item source list in `opus_extraction_prompt_observational.md` (item 5, "% positive outcomes," is intentionally excluded — see §5). Field-by-field conventions live in the companion `observational_codebook.md`; this document covers architecture, workflow, schema, and the severity rubric.
+**Codebook.** Field-by-field conventions live in the companion `observational_codebook.md`; this document covers architecture, workflow, schema, and the severity rubric.
 
 **Execution environment.** Claude Code on a Claude subscription with token limits (no Anthropic API key). This shapes two design requirements the rest of the document builds on: the run must be **checkpointed** so a token-limit interruption resumes rather than restarts, and **archival artifacts must be written explicitly** because nothing in an orchestrated run archives itself.
 
@@ -86,11 +86,11 @@ A `SafetyReported` (Y/N) gate separates "no AEs" from "didn't look" — without 
 
 ---
 
-## 5. Demographics and excluded items
+## 5. Demographics and adapted items
 
 - **% female (item 8).** Convention is % female (AFAB if identity not reported), with the reported gender category label stored in a companion field so non-binary/other reporting is not lost.
 - **BIPOC / Indigenous (items 6, 7).** BIPOC = all non-white. Indigenous is a subset of BIPOC — reported separately (`PctIndigenous`) **and** counted within `PctBIPOC`. Hispanic/Latino ethnicity crosses racial categories and is reported inconsistently; capture as reported and note in rationale.
-- **% positive outcomes (item 5) — excluded.** Under-defined for a safety codebook (positive by which outcome, whose threshold?) and the weakest fit for a safety/demographics dataset. Not stored.
+- **Positive result (item 5, `PosResult`).** Adapted from the RCT source item `Pos Result Y/N`. The RCT wording assumes a control arm to compare against; most articles in this corpus (case series, single-arm cohorts, case reports) have none. Redefined here as directionality of the study's own primary outcome (pre/post change or the authors' stated conclusion), not significance vs. a comparator. The RCT's "cannot be determined" code becomes `Indeterminate`, for outcomes assessed but ambiguous or mixed. See `observational_codebook.md` §3 for the full field spec.
 
 ---
 

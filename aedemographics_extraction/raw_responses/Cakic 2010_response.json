@@ -11,7 +11,7 @@
       "IsObservational": "Y",
       "N": 121,
       "AE_denominator": 121,
-      "ArmScope": "psychedelic_arm",
+      "ArmScope": "psychedelic_arm", "PosResult": ".",
       "PctFemale": 14,
       "GenderCategory": "86% male; remainder (14%) presumed female (binary framing implied, not explicitly confirmed); no non-binary/other categories reported",
       "PctBIPOC": ".",
@@ -92,6 +92,7 @@
   },
   "rationale": {
     "article": {
+      "PosResult": "This is a cross-sectional survey of recreational DMT/ayahuasca users' subjective effects and use patterns, not a treatment or cessation study, so there is no primary treatment-outcome directionality to assess against this definition.",
       "IsObservational": "Cross-sectional, self-administered online survey of recreational DMT/ayahuasca users recruited via snowball sampling and an internet newsletter ad; no randomization or experimental protocol \u2014 real-world use as it naturally occurs is observed, not assigned. Clearly observational.",
       "Condition": "This is a survey characterizing recreational DMT/ayahuasca use patterns, subjective effects, and attitudes \u2014 not a study of alcohol, smoking, or opioid use disorder or their treatment. Alcohol and tobacco use appear only as concomitant lifetime/30-day drug-use covariates (Table 1: 98.3%/95.9% ever-used), not as the study's target condition. None of Alcohol/Smoking/Opioid genuinely applies, so coded '.'.",
       "Substance": "DMT was consumed via two routes reported in the article: smoked freebase DMT (98.3% of sample) and oral ayahuasca (a DMT-containing brew, 30.6% of sample). Both are the same active compound, so both are listed.",

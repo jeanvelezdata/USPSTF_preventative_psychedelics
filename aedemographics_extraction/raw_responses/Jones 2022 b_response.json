@@ -11,7 +11,7 @@
       "IsObservational": "Y",
       "N": 214505,
       "AE_denominator": ".",
-      "ArmScope": "pooled",
+      "ArmScope": "pooled", "PosResult": "Y",
       "PctFemale": ".",
       "GenderCategory": "Male/Female",
       "PctBIPOC": ".",
@@ -31,6 +31,7 @@
   },
   "rationale": {
     "article": {
+      "PosResult": "Authors state their primary finding is that lifetime use of classic psychedelics (psilocybin significantly, mescaline/peyote across several NDSS subdomains) was associated with lower/protective odds of current nicotine dependence, which they frame as the study's headline result despite LSD showing an opposite (increased-odds) association.",
       "IsObservational": "Cross-sectional secondary-data analysis of NSDUH (2015-2019) survey responses using multivariable logistic/ordinal regression on lifetime substance-use items; no randomization or research-administered intervention, so this is observational.",
       "Substance": "The 'classic psychedelics' whose lifetime use is the study's independent variable of interest are psilocybin, peyote, mescaline, and LSD; MDMA/ecstasy and other substances (heroin, PCP, cocaine, marijuana, etc.) were included only as specificity comparators, not as the psychedelics under study, so they are excluded here.",
       "N": "Text states 'unweighted N = 214,505' for the full NSDUH 2015-2019 analytic sample used in all regression models; Table 1's subgroup Ns (188,367 without ND + 26,138 with ND) sum to this figure, confirming it is the final analyzed sample, not merely enrolled.",

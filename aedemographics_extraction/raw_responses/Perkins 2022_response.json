@@ -11,7 +11,7 @@
       "IsObservational": "Y",
       "N": 8629,
       "AE_denominator": ".",
-      "ArmScope": "psychedelic_arm",
+      "ArmScope": "psychedelic_arm", "PosResult": "Y",
       "PctFemale": 47,
       "GenderCategory": "Male/Female (53% male reported; no non-binary/other category reported)",
       "PctBIPOC": ".",
@@ -56,6 +56,7 @@
   },
   "rationale": {
     "article": {
+      "PosResult": "The study's own primary result (bivariate and multivariate logistic regressions in Results, reiterated in Discussion/Conclusion) found number of times ayahuasca consumed, and drinking with an ayahuasca church, strongly and consistently associated with higher odds of never/rarely drinking alcohol, never/rarely risky drinking, and no recent other-drug use, for respondents with and without prior AUD/DUD - a lower/reduced-use association with ayahuasca use, i.e. a positive result per this survey's own primary outcome direction.",
       "IsObservational": "International online cross-sectional survey (Global Ayahuasca Project, April 2017-May 2019) of self-selected respondents reporting on naturalistic, real-world ayahuasca use; no randomization or research-administered dosing protocol, so this is observational.",
       "N": "Total survey enrollment was n=10,836, but the article states only participants who answered at least one alcohol/drug item were included in this analysis (n=8629, per abstract and Methods). Used 8629 as the final analyzed N per the field definition.",
       "PctFemale": "Abstract reports '53% male' for the full analyzed sample (n=8629); no separate overall %female figure is given, so PctFemale=47 was derived as the complement (100-53). Table 1 gives sex % separately by ayahuasca-church vs non-church subgroup (47.0% and 47.3% female respectively), consistent with this figure, but no single combined-sample percentage is printed verbatim.",

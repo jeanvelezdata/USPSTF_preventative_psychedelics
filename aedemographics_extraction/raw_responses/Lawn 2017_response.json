@@ -11,7 +11,7 @@
       "IsObservational": "Y",
       "N": 527,
       "AE_denominator": 176,
-      "ArmScope": "psychedelic_arm",
+      "ArmScope": "psychedelic_arm", "PosResult": "Indeterminate",
       "PctFemale": 28.0,
       "GenderCategory": "male/female/transgender (whole-sample categories); Ayahuasca User subgroup: female n=146 (28.0%), male/transgender counts not broken out separately for this subgroup",
       "PctBIPOC": ".",
@@ -56,6 +56,7 @@
   },
   "rationale": {
     "article": {
+      "PosResult": "Indeterminate: ayahuasca users' own AUDIT (problematic-alcohol) scores were lower than the classic-psychedelic comparison group but higher than the non-drug-using 'other respondents' group, and the cross-sectional between-group design (no pre/post or true control) leads the authors themselves to caution this may reflect reverse causation (people with alcohol problems being drawn to ayahuasca) rather than a genuine reduction, so directionality of a true 'positive result' cannot be determined with confidence.",
       "IsObservational": "Cross-sectional, self-selecting online drug-use survey (Global Drug Survey 2016); no randomization or research-administered intervention protocol \u2014 participants are naturalistic drug users reporting on their own prior use. Clear observational/naturalistic design.",
       "Condition": "Article is not an AUD-treatment study; it is a general drug-use survey that reports past-year problematic alcohol use (AUDIT scores) as a primary outcome for ayahuasca users vs. comparison groups. Coded 'Alcohol' as the closest fit among the three allowed enum values given this alcohol-outcome focus; flagged because the study population is not alcohol-use-disorder patients.",
       "Substance": "Ayahuasca is the substance of primary interest; LSD and magic mushrooms ('classic psychedelics') appear only as comparison/reference groups, not as a co-administered intervention, so excluded from this field.",

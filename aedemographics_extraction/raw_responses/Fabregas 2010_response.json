@@ -11,7 +11,7 @@
       "IsObservational": "Y",
       "N": 127,
       "AE_denominator": ".",
-      "ArmScope": "psychedelic_arm",
+      "PosResult": "Y", "ArmScope": "psychedelic_arm",
       "PctFemale": 51.2,
       "GenderCategory": "male/female (Study 1 ayahuasca-user group baseline 29M/27F, n=56; follow-up 19M/20F, n=39; Study 2 ayahuasca-user group baseline 33M/38F, n=71; follow-up 21M/18F, n=39); no non-binary/other categories reported",
       "PctBIPOC": 38.6,
@@ -31,6 +31,7 @@
   },
   "rationale": {
     "article": {
+      "PosResult": "In both jungle-based (Study 1) and urban (Study 2) cohorts, ritual ayahuasca users scored significantly lower (better) than non-user controls on the ASI Alcohol Use and Psychiatric Status subscales, and the authors' own stated conclusion is that ritual ayahuasca use 'does not appear to be associated with the deleterious psychosocial effects typically caused by other drugs of abuse,' constituting a positive own-group result despite an artifactual/explained worse Drug Use subscale score and an isolated Family/Social worsening in Study 2.",
       "IsObservational": "No randomization to ayahuasca use. Two sub-studies each compare pre-existing ritual ayahuasca users (jungle-based C\u00e9u do Mapi\u00e0 community and urban Barquinha church members) against demographically-matched non-user community controls, assessed cross-sectionally at baseline with a 1-year naturalistic follow-up. Ayahuasca exposure was observed as delivered in ongoing religious ritual practice, not assigned for research purposes, so this is a naturalistic/observational cohort-comparison design, not an RCT or interventional protocol.",
       "Condition": "The article does not target treatment of one specific SUD (alcohol, smoking, or opioid). It assesses general addiction severity (ASI composite, including Alcohol Use and Drug Use subscales) and psychosocial functioning in ritual ayahuasca users versus non-user controls, not a treatment trial for a defined substance use disorder. Coded '.' as genuinely indeterminate among the three listed enum options.",
       "Corpus/Prefix": "No explicit corpus/grouping label distinct from the substance name is given in the article; coded '.'.",

@@ -11,7 +11,7 @@
       "IsObservational": "Y",
       "N": ".",
       "AE_denominator": "Not numbered",
-      "ArmScope": "psychedelic_arm",
+      "ArmScope": "psychedelic_arm", "PosResult": "Indeterminate",
       "PctFemale": ".",
       "GenderCategory": ".",
       "PctBIPOC": ".",
@@ -104,6 +104,7 @@
   },
   "rationale": {
     "article": {
+      "PosResult": "Outcome directionality is mixed across the heterogeneous case series: the author reports clearly positive individual outcomes (e.g., the depressive patient who 'put me on my feet,' the manic-depressive alcoholic with 'improved relating...more stable performance' at 3-year follow-up, the teen schizophrenic 'successfully married and functioning' at 5-year follow-up) but also states LSD 'has no value' and 'may, in fact, be dangerous' in paranoid schizophrenics and was 'not dramatically effected' in schizo-affective depressives, with the author himself concluding only that 'further validation...is needed' rather than affirming a uniform positive result.",
       "Condition": "The study population is described as heterogeneous psychiatric patients ('most diagnostic labels but preponderantly schizophrenia and severe personality disorders'), not an alcohol/smoking/opioid-use-disorder-focused cohort. Only one incidental case (a 'manic-depressive alcoholic') involves alcohol use. Coded '.' as genuinely indeterminate/inapplicable rather than forcing an Alcohol label onto a general psychiatric case series.",
       "N": "No single cumulative sample size is given for the full ~6-year experience the article title claims. Part One (1954-57) reports 'sixty patients' over '600 episodes'; Part Two reports 'over 2,000 LSD sessions' during the following three years with no corresponding patient count; Part Three (1965 retrospective) discusses individual cases without a cohort total. Using only the Part One N=60 would understate the scope actually described, so coded '.' rather than fabricating or partial-reporting a total.",
       "AE_denominator": "AEs/safety observations are narrated across the full multi-period clinical experience (not confined to the N=60 Part One cohort), but no numeric population-at-risk is ever given for AE assessment, so coded 'Not numbered' rather than '.' since the safety concept clearly applies and is discussed throughout.",

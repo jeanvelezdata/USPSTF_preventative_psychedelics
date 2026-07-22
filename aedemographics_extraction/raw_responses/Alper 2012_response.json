@@ -11,7 +11,7 @@
       "IsObservational": "Y",
       "N": 19,
       "AE_denominator": 19,
-      "ArmScope": "psychedelic_arm",
+      "ArmScope": "psychedelic_arm", "PosResult": ".",
       "PctFemale": 21.1,
       "GenderCategory": "male/female (15 M, 4 F)",
       "PctBIPOC": ".",
@@ -116,6 +116,7 @@
   },
   "rationale": {
     "article": {
+      "PosResult": "This is a forensic case series of ibogaine-associated fatalities focused entirely on cause-of-death determination; the article never assesses or reports treatment efficacy/outcome (e.g., reduction in substance use) for these decedents or any surviving patients, so PosResult is not reported.",
       "IsObservational": "Retrospective case series based on systematic review of autopsy, toxicology, and investigative reports for a consecutive series of ibogaine-associated fatalities identified 1990-2008 via a treatment-provider network, OCME referral, and literature search; no randomization or research-administered intervention, so this is naturalistic real-world data (observational), not an RCT.",
       "Condition": "15 of 19 decedents took ibogaine for opioid detoxification (the predominant indication; 4 of these were also alcohol-dependent, 3 cocaine-dependent, 1 methamphetamine-dependent); 2 used ibogaine for spiritual/psychological purposes with no substance-abuse history; 2 for unknown reasons but with a substance-abuse history. Coded as 'Opioid' based on the plurality/predominant indication, though the population is mixed and not exclusively opioid-focused.",
       "Substance": "Ibogaine administered as the HCl salt in 14 cases, Tabernanthe iboga alkaloid extract in 2 (cases #4, #14), dried root bark in 2 (cases #13, #16), and a powder of ambiguous form (extract vs. root bark) in 1 (case #6).",

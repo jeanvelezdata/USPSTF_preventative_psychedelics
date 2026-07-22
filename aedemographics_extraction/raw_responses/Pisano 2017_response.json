@@ -11,7 +11,7 @@
       "IsObservational": "Y",
       "N": 44678,
       "AE_denominator": ".",
-      "ArmScope": "pooled",
+      "ArmScope": "pooled", "PosResult": "Y",
       "PctFemale": ".",
       "GenderCategory": "male/female (IRSEX; reported only as subgroup breakdown by psychedelic-use history, not as a single overall population figure)",
       "PctBIPOC": ".",
@@ -31,6 +31,7 @@
   },
   "rationale": {
     "article": {
+      "PosResult": "The study's own primary outcome, adapted here to the direction of association since this is a cross-sectional survey with no treatment arm, showed psychedelic use history was associated with a significant 27% reduced risk of past-year opioid dependence (weighted RR=0.73, p=0.002) and 40% reduced risk of past-year opioid abuse (weighted RR=0.60, p=0.006), a protective association the authors state is consistent with their hypothesis and conclusion.",
       "IsObservational": "Secondary, cross-sectional analysis of pooled NSDUH survey years 2008-2013 (no randomization, no intervention protocol) \u2014 the article itself calls its own design 'cross-sectional' as a limitation. Clearly observational.",
       "N": "N=44,678 is the analyzed subpopulation of adult lifetime illicit opioid users (recreational pain killer or heroin use) drawn from 228,556 total NSDUH adult respondents; this is the final analytic sample used in all reported tables/models (Tables 1-3), not the full survey N.",
       "ArmScope": "This is a population survey comparing psychedelic-experienced (18,517, 44.7% weighted) vs psychedelic-naive (55.3% weighted) respondents within the same illicit-opioid-using cohort (N=44,678). All reported N, demographic, and outcome figures span both exposed and non-exposed respondents together (e.g., Table 1 reports demographics separately for 'Yes'/'No' psychedelic-use-history columns within one N), so this is pooled rather than a psychedelic-only arm.",

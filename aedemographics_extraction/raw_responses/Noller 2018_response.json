@@ -11,7 +11,7 @@
       "IsObservational": "Y",
       "N": 14,
       "AE_denominator": ".",
-      "ArmScope": "psychedelic_arm",
+      "ArmScope": "psychedelic_arm", "PosResult": "Y",
       "PctFemale": 50,
       "GenderCategory": "50% female / 50% male (no non-binary or other categories reported)",
       "PctBIPOC": 0,
@@ -44,6 +44,7 @@
   },
   "rationale": {
     "article": {
+      "PosResult": "Coded 'Y' because the study's own primary outcome (ASI-Lite Drug composite) showed a significant reduction from baseline to 12 months (0.32 to 0.06, p=0.004), with sustained reduction or cessation of opioid use reported in 12 of 14 participants and the authors' conclusion stating ibogaine 'achieved opioid cessation or sustained reduced use in dependent individuals as measured over 12 months.'",
       "Corpus/Prefix": "No explicit corpus label in-text; set to match Condition ('Opioid') since the article is about opioid dependence treatment.",
       "N": "N=14 is the final analyzed/'completed treatment' cohort per the CONSORT-style flow diagram (Fig. 1) and all outcome tables (ASI-Lite, BDI-II, SOWS baseline N=14). This excludes the participant who died, who per the Results section ('A third patient of Provider 1 died during treatment before they were formally enrolled') was not part of the 15 formally enrolled or the 14 who completed treatment, despite the abstract's looser phrasing ('One patient enrolled in the study died during treatment'). Both statements describe the same single death; I did not treat this as a numeric inconsistency requiring exclusion, since the underlying narrative (20 interested -> 16 signed consent -> 1 died pre-enrollment -> 15 enrolled -> 1 disqualified post-treatment -> 14 completed/analyzed) reconciles consistently across the Methods, Results, and Provider-breakdown paragraphs.",
       "AE_denominator": "No formal safety-assessment population was defined; the article states 'Evaluation of safety was beyond the scope of this non-interventional study.' The one fatality occurred in a patient who was being treated by Provider 1 but had not yet been formally enrolled in the study cohort (N=14 or N=15), so no single denominator unambiguously covers both the fatality and the N=14 sample. Coded '.' rather than guessing a denominator.",

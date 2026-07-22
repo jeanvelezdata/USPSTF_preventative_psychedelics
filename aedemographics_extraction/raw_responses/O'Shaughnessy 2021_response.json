@@ -11,7 +11,7 @@
       "IsObservational": "Y",
       "N": 36,
       "AE_denominator": ".",
-      "ArmScope": "psychedelic_arm",
+      "ArmScope": "psychedelic_arm", "PosResult": "Y",
       "PctFemale": 0,
       "GenderCategory": "All male (only male inpatients are admitted to Takiwasi)",
       "PctBIPOC": ".",
@@ -31,6 +31,7 @@
   },
   "rationale": {
     "article": {
+      "PosResult": "The study's own pre/post repeated-measures results showed statistically significant, clinically positive within-treatment improvement across all measured domains (craving, stress, psychiatric symptoms, mental/physical health, spiritual well-being, neuropsychological functioning), maintained over time, so the intervention's own outcome data are unambiguously positive.",
       "IsObservational": "Explicitly stated: 'The study was observational, with repeated measures applied throughout treatment' and authors used the STROBE cohort checklist. No randomization; patients admitted via Takiwasi's usual clinical admission protocol, not an experimental arm assignment.",
       "Condition": "Coded '.' \u2014 the intervention (Takiwasi) treats general 'addiction'/poly-substance use, not alcohol use disorder specifically. Prior-30-day drug use was polysubstance (alcohol 83%, cannabis 71%, cocaine 51%, poly-drug use 66%); alcohol was the single most common substance but the study population and intervention target were not alcohol-specific.",
       "Substance": "Ayahuasca (DMT-containing decoction) is the named psychedelic administered weekly. The treatment protocol also includes other unnamed 'medicinal plants' (daily) and dietary/plant regimens as part of traditional Amazonian medicine, but these are not identified as specific psychedelic substances, so only Ayahuasca is listed.",

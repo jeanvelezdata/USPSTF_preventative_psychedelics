@@ -11,7 +11,7 @@
       "IsObservational": "Y",
       "N": 15,
       "AE_denominator": 15,
-      "ArmScope": "psychedelic_arm",
+      "ArmScope": "psychedelic_arm", "PosResult": "Y",
       "PctFemale": 0,
       "GenderCategory": "All male (patients described throughout as 'husbands'/male alcoholics; wives are the informants, not the treated population)",
       "PctBIPOC": ".",
@@ -104,6 +104,7 @@
   },
   "rationale": {
     "article": {
+      "PosResult": "All 15 LSD-group wives reported their husbands had changed for the better, with the majority rating them 'much' or 'somewhat' better overall and, though diminished by six months, still markedly more improved than the comparison-group husbands, so the study's own wife-reported outcome is positive.",
       "IsObservational": "Methods section states the LSD and comparison groups were assembled by asking successive weeks' admissions to volunteer ('while not randomly selected'), not by randomization, and the treatment itself was the unit's ongoing clinical program rather than a research-only interventional protocol. This specific paper (the wives' study) is additionally a retrospective, single-timepoint interview/survey of informants six months post-treatment, not a controlled trial of the wives. Both features support an observational/naturalistic classification.",
       "N": "This paper's actual analyzed sample is the LSD-group wives who were interviewed (15), representing 15 LSD-treated husbands, out of an original LSD-treated cohort of 28 (18 married/living with wife/locatable, of whom 15 wives consented). N=15 reflects the analyzed psychedelic-arm sample for this paper, not the original 28-patient treatment cohort. The comparison-group wives (n=11) exist but were excluded per ArmScope.",
       "ArmScope": "The article reports parallel data for an LSD group and a non-LSD comparison group (standard six-week program, no psychedelic exposure). Per instructions, only psychedelic-exposed data was extracted; comparison-group N, demographics, and outcomes were not carried into data.article/ae_events.",

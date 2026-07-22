@@ -11,7 +11,7 @@
       "IsObservational": "Y",
       "N": 31,
       "AE_denominator": ".",
-      "ArmScope": "psychedelic_arm",
+      "ArmScope": "psychedelic_arm", "PosResult": "Y",
       "PctFemale": 0,
       "GenderCategory": "All male (n=31)",
       "PctBIPOC": ".",
@@ -31,6 +31,7 @@
   },
   "rationale": {
     "article": {
+      "PosResult": "Study's own conclusion reports a satisfactory therapeutic effect (reduced/abstinent drinking) in 18 of 31 patients (58%), with 10 becoming total abstainers and 10 more reporting at least a short abstinent period with social improvement, meeting the Y threshold against the study's own outcome.",
       "IsObservational": "Retrospective/naturalistic follow-up of a clinical cohort: 31 men received a 'psycholytic cure' (LSD-25 then psilocybine) as ongoing clinical treatment since 1963, with outcomes assessed via case-record and inquiry analysis at an average 6-year follow-up. No randomization, no control/comparator arm, no experimental protocol described \u2014 coded as observational (case series with follow-up), not an RCT.",
       "N": "N=31 is the treated/analyzed cohort explicitly stated ('Thirty-one men... were the subjects'). The text later reports '18 patients (58%)' with satisfactory effect and 'the remaining 13 patients' \u2014 this is internally consistent (18+13=31, and 18/31=58.1%~58%), referring to the 13 patients without a satisfactory response, not a subtraction from the 18; no arithmetic inconsistency to flag.",
       "PctFemale": "Article states all 31 subjects were men ('Thirty-one men, age 23-62'); no female participants reported, so PctFemale=0 by direct statement rather than omission.",

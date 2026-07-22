@@ -11,7 +11,7 @@
       "IsObservational": "Y",
       "N": 343,
       "AE_denominator": 343,
-      "ArmScope": "psychedelic_arm",
+      "ArmScope": "psychedelic_arm", "PosResult": "Y",
       "PctFemale": 22.2,
       "GenderCategory": "male/female (binary reporting); Female sex 76/343 (22.2%), remainder male (abstract reports 78% male)",
       "PctBIPOC": 11.1,
@@ -68,6 +68,7 @@
   },
   "rationale": {
     "article": {
+      "PosResult": "Y — authors' own pre/post comparison showed statistically significant reductions (all p < 0.0001) in AUDIT-C score, drinks/week, AUQ craving, and DSM-5 AUD symptom count, with 83% no longer meeting AUD criteria at survey time, matching the paper's stated primary outcome and conclusion of cessation/reduction in problematic alcohol use.",
       "IsObservational": "Cross-sectional, anonymous online survey of naturalistic (non-research-administered) psychedelic use with retrospective self-report; no randomization or research-run intervention protocol \u2014 clearly observational.",
       "N": "343 is the final analyzed sample after exclusions, distinguished from the larger recruitment funnel (4095 clicked ad, 1429 met inclusion criteria and began, 512 completed the survey, 343 remained after excluding 120 for <3 months since experience, 33 for not meeting AUD symptom threshold, 16 for non-classic-psychedelic substance). All demographic and outcome tables use n=343.",
       "AE_denominator": "Adverse effects section: 305 (no persisting AE) + 21 (unsure) + 17 (yes) = 343, matching the full analyzed N; used as the AE assessment denominator.",

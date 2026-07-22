@@ -11,7 +11,7 @@
       "IsObservational": "Y",
       "N": 29,
       "AE_denominator": 29,
-      "ArmScope": "psychedelic_arm",
+      "ArmScope": "psychedelic_arm", "PosResult": "Y",
       "PctFemale": ".",
       "GenderCategory": ".",
       "PctBIPOC": ".",
@@ -428,6 +428,7 @@
   },
   "rationale": {
     "article": {
+      "PosResult": "Judged against the study's own framed primary outcome (subjective benefit from the MDMA session), the result is positive: every subject reported some benefit, all 29 described positive attitude/feeling changes, and all 9 subjects with DSM-III diagnoses reported significant relief (2 with full remission).",
       "IsObservational": "Naturalistic case series: 29 subjects self-/therapist-referred specifically for MDMA sessions in a clinical (non-research) practice, no randomization, and the authors explicitly state no placebo control group or double-blind assessment was conducted. Clearly observational, not RCT.",
       "Condition": "Coded '.' rather than Alcohol/Smoking/Opioid: subjects were referred for varied personal/therapeutic/relationship/spiritual purposes, not selected for or treated for an alcohol, smoking, or opioid use disorder. A secondary post-hoc finding (14/28 follow-up respondents reported decreased use of some mind-altering substance, including alcohol/marijuana/caffeine/tobacco/cocaine) is a general substance-use side-observation, not evidence this study targeted one of the three USPSTF conditions.",
       "Corpus/Prefix": "No explicit corpus/condition grouping label is stated in the article itself; coded '.'.",

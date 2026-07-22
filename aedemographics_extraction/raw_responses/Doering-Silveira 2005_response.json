@@ -11,7 +11,7 @@
       "IsObservational": "Y",
       "N": 41,
       "AE_denominator": ".",
-      "ArmScope": "psychedelic_arm",
+      "ArmScope": "psychedelic_arm", "PosResult": "Y",
       "PctFemale": 43.9,
       "GenderCategory": "male/female (23 male, 18 female)",
       "PctBIPOC": 24.4,
@@ -31,6 +31,7 @@
   },
   "rationale": {
     "article": {
+      "PosResult": "Y: the study's own framed primary comparison (alcohol use among ayahuasca-using adolescents vs. non-using peers) showed significantly lower last-year (46.3% vs 74.4%, p=0.016) and recent (32.5% vs 65.1%, p=0.006) alcohol use in the ayahuasca group, the paper's sole statistically significant finding.",
       "IsObservational": "Cross-sectional comparison of 41 adolescents naturalistically consuming ayahuasca within an existing religious community (UDV) versus 43 non-using peers; participants were not randomized or assigned to an ayahuasca protocol for research purposes, they were interviewed about pre-existing ritual practice. This is a naturalistic observational/cross-sectional design, not an RCT.",
       "N": "Article reports two separately-described groups: 41 ayahuasca-using adolescents and 43 non-using comparison adolescents (total N=84). Used N=41, the psychedelic-exposed (ayahuasca) group, since demographic and AE-relevant fields in this schema concern the psychedelic-exposed population specifically.",
       "ArmScope": "Set to psychedelic_arm because demographics (age, sex, ethnicity, marital/living status) are reported separately for the ayahuasca group and the comparison group, not pooled together; all N/demographic values used here come only from the ayahuasca-exposed group.",

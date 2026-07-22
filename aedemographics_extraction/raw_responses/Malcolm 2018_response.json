@@ -11,7 +11,7 @@
       "IsObservational": "Y",
       "N": 50,
       "AE_denominator": ".",
-      "ArmScope": "psychedelic_arm",
+      "ArmScope": "psychedelic_arm", "PosResult": "Y",
       "PctFemale": 39,
       "GenderCategory": "male/female (39% female)",
       "PctBIPOC": 22.5,
@@ -31,6 +31,7 @@
   },
   "rationale": {
     "article": {
+      "PosResult": "Primary outcome (COWS) and both secondary outcomes (SOWS, BSCS) showed statistically significant pre- to post-ibogaine reductions (all p<0.01), and the authors conclude ibogaine 'appears to facilitate opioid detoxification by reducing opioid withdrawal and craving,' indicating a positive result on the study's own outcomes.",
       "IsObservational": "Retrospective chart review of participants admitted to a single residential ibogaine treatment center; no randomization or comparator arm. Authors themselves describe it in the Discussion as 'an open-label and retrospective design that lacked a control group.' Clearly observational, not RCT.",
       "N": "The article reports two denominators: 50 participants analyzed for COWS (the primary outcome) and 40 for the demographic/ASI analysis (10 excluded for missing baseline ASI). N=50 was used as the final analyzed sample tied to the primary outcome (COWS); PctFemale and PctBIPOC are drawn from the n=40 demographic subset (Table 2), which is narrower than N.",
       "AE_denominator": "Coded '.' per the schema exception: SafetyReported='N' here (no AE/safety data collected or reported for this cohort), and AE_denominator never takes 'NA' even under SafetyReported='N'.",

@@ -11,7 +11,7 @@
       "IsObservational": "Y",
       "N": 75,
       "AE_denominator": 75,
-      "ArmScope": "psychedelic_arm",
+      "ArmScope": "psychedelic_arm", "PosResult": "Y",
       "PctFemale": 10.67,
       "GenderCategory": "male/female (67 male, 8 female)",
       "PctBIPOC": ".",
@@ -116,6 +116,7 @@
   },
   "rationale": {
     "article": {
+      "PosResult": "Authors report 61% overall abstinence, a statistically significant (p<0.001) increase in abstinence duration after ibogaine vs. before, and conclude in both the abstract and discussion that ibogaine \"can be a safe and effective treatment\" for stimulant/non-opiate drug dependence, meeting the study's own definition of a positive result.",
       "IsObservational": "Retrospective chart/interview review of a private clinic's real-world ibogaine treatment as delivered in usual (non-research) practice; no randomization, no comparator arm, no research-only interventional protocol -- observational cohort/case-series design.",
       "Condition": "Study population is poly-substance dependent (64% lifetime alcohol, 81% cannabis, 83% cocaine, 68% crack; 72% poly-drug users) with the paper's own framing as a stimulant/non-opioid dependence study (only 1 of 75 patients had opioid history, tobacco used by 15% but not a treatment target). Does not cleanly map to Alcohol, Smoking, or Opioid, so coded '.' per the indeterminate-case instruction.",
       "N": "75 patients had data gathered and are the basis for the core sample-level results (drug-use history, sessions, adverse reactions); some downstream sub-analyses (e.g., abstinence-duration comparisons) use smaller subsamples (n=66, n=41, etc.) due to incomplete follow-up data, but N=75 is the overall analyzed cohort.",

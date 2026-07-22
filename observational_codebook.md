@@ -1,6 +1,6 @@
 # Observational Adverse-Event / Demographics Codebook
 
-**Purpose.** Field-by-field conventions for the standalone adverse-event / demographics extraction (seven extracted items, 44 articles). Authoritative reference for the implementation pass. Architecture and workflow are in `observational_studies_system_design.md`; the source item list is `opus_extraction_prompt_observational.md`.
+**Purpose.** Field-by-field conventions for the standalone adverse-event / demographics extraction (eight extracted items, 44 articles). Authoritative reference for the implementation pass. Architecture and workflow are in `observational_studies_system_design.md`; the source item list is `opus_extraction_prompt_observational.md`.
 
 **Design principles.** Be precise, conservative, evidence-based. Assert only what is explicitly stated or clearly inferable. Never guess a number to fill a field — code it not-reported. For a *safety* dataset, the cardinal error is understating harm; every judgment call is flagged, not buried.
 
@@ -14,7 +14,7 @@
 | 2 | Severity of AE | `Severity`, `SeverityIndeterminate`, `SeveritySource`, `MeetsFDASerious`, `InterventionRequired`; article rollup `WorstSeverity` | `ae_events` / `articles` |
 | 3 | Textual description of AE | `Description`, `AE_type`, `Onset` | `ae_events` |
 | 4 | Number of participants | `N`, `AE_denominator`, `ArmScope` | `articles` |
-| 5 | % positive outcomes | **Dropped** — not extracted (see design §5) | — |
+| 5 | % positive outcomes (adapted: `Pos Result Y/N`) | `PosResult` | `articles` |
 | 6 | % BIPOC | `PctBIPOC` | `articles` |
 | 7 | % Indigenous | `PctIndigenous` | `articles` |
 | 8 | % Gender | `PctFemale`, `GenderCategory` | `articles` |
@@ -59,6 +59,7 @@ At merge, `"."` → `NaN`. Percent fields are numbers 0–100 with no `%` symbol
 | `N` | integer or `"."` | Number of participants (final analyzed sample unless the article only reports enrolled). |
 | `AE_denominator` | integer or `"Not numbered"` or `"."` | The population the AE counts were assessed over (often the safety/enrolled N, which may differ from `N`). |
 | `ArmScope` | enum | `psychedelic_arm` / `pooled` / `NA` — scope of `N`, AE counts, and demographics. Use `psychedelic_arm` when restricted to the active arm(s). |
+| `PosResult` | enum | `Y` / `N` / `Indeterminate` / `"."` — did the psychedelic intervention produce a positive result: a reported reduction in problematic substance use or improvement on the study's primary outcome? Adapted from the RCT-oriented source item (`Pos Result Y/N`) because most observational designs (case series, single-arm cohorts, case reports) have no control arm to compare against. Judge "positive" against the study's own pre/post change or the authors' stated conclusion, **not** significance vs. a comparator. `Y` = positive/improved result reported (statistical testing not required, since many designs here lack inferential comparison). `N` = null or negative result reported. `Indeterminate` = outcome assessed but directionality is unclear or mixed (replaces the RCT source's "cannot be determined" code) — note the ambiguity in `Rationale`. `"."` = outcome not reported at all. |
 | `PctFemale` | number 0–100 or `"."` | % female (AFAB if gender identity not reported). |
 | `GenderCategory` | text or `"."` | Reported gender breakdown label (e.g., "male/female", "incl. non-binary n=2"), so non-binary/other reporting is not lost. |
 | `PctBIPOC` | number 0–100 or `"."` | % Black, Indigenous, or People of Color = all non-white. Sum non-white groups if not given as one figure. Hispanic/Latino ethnicity crosses racial categories — capture as reported and note inconsistency in rationale. |

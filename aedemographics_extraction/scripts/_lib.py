@@ -14,7 +14,7 @@ from typing import Any
 ARTICLE_FIELDS: list[str] = [
     'StudyID', 'Citation', 'Title', 'Year', 'Corpus/Prefix', 'Condition',
     'Substance', 'IsObservational', 'N', 'AE_denominator', 'ArmScope',
-    'PctFemale', 'GenderCategory', 'PctBIPOC', 'PctIndigenous',
+    'PosResult', 'PctFemale', 'GenderCategory', 'PctBIPOC', 'PctIndigenous',
     'SafetyReported', 'AnyAEReported', 'NumDistinctAEs', 'NParticipantsWithAE',
     'WorstSeverity', 'text_source', 'Model', 'PromptVersion', 'RubricVersion',
     'Temperature',
@@ -36,6 +36,7 @@ PROVENANCE_FIELDS: list[str] = [
 IS_OBSERVATIONAL        = {'Y', 'N'}
 CONDITION                = {'Alcohol', 'Smoking', 'Opioid'}
 ARM_SCOPE               = {'psychedelic_arm', 'pooled', 'NA'}
+POS_RESULT               = {'Y', 'N', 'Indeterminate', '.'}
 SAFETY_REPORTED         = {'Y', 'N'}
 ANY_AE_REPORTED         = {'Y', 'N', 'NA'}
 WORST_SEVERITY          = {'Mild', 'Moderate', 'Severe', 'None', 'NA'}
@@ -138,6 +139,7 @@ ARTICLE_VALIDATORS: dict[str, Any] = {
     'N':                    lambda v: v == '.' or is_nonneg_int(v),
     'AE_denominator':       lambda v: is_int_or(v, 'Not numbered', '.'),
     'ArmScope':             lambda v: is_enum(v, ARM_SCOPE),
+    'PosResult':            lambda v: is_enum(v, POS_RESULT),
     'PctFemale':            is_percent_or_dot,
     'GenderCategory':       lambda v: isinstance(v, str),
     'PctBIPOC':             is_percent_or_dot,

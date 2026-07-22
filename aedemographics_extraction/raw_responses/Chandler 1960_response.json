@@ -11,7 +11,7 @@
       "IsObservational": "Y",
       "N": 110,
       "AE_denominator": 110,
-      "ArmScope": "psychedelic_arm",
+      "ArmScope": "psychedelic_arm", "PosResult": "Y",
       "PctFemale": 43.6,
       "GenderCategory": "male/female (62 male, 48 female; no other categories reported)",
       "PctBIPOC": ".",
@@ -140,6 +140,7 @@
   },
   "rationale": {
     "article": {
+      "PosResult": "Authors report a positive result on the study's own primary outcome (therapist-rated improvement scale): modal rating +3 'considerable improvement,' 45.5% rated considerable-or-better and 66.4% rated at least 'some improvement,' with the summary concluding most patients showed greater depth/acceleration of therapy than with prior drugless treatment.",
       "IsObservational": "Naturalistic, uncontrolled case-series review of 110 private-practice patients treated with LSD-25-assisted psychotherapy over time; no randomization or comparator arm, dosing individualized 'based upon experience' \u2014 a case series, not an RCT.",
       "Condition": "Coded '.' \u2014 this is a transdiagnostic private-practice case series (psychoneurosis, personality disorders, sociopathic disorder, etc.); only 17/110 (15.5%) carried an 'Addiction, alcohol and/or narcotic' diagnosis, so it is not an alcohol-, smoking-, or opioid-specific study population.",
       "N": "N=110 is the full analyzed/reported sample (Table 2 results, N=110). The article notes 60 had discontinued treatment and 50 were still in therapy at time of writing, but states 'no specific differences were found' between the two, so results/AE narrative are pooled across all 110.",

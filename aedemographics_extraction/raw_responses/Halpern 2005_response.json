@@ -11,7 +11,7 @@
       "IsObservational": "Y",
       "N": 61,
       "AE_denominator": 61,
-      "ArmScope": "psychedelic_arm",
+      "ArmScope": "psychedelic_arm", "PosResult": "Y",
       "PctFemale": 75.4,
       "GenderCategory": "male/female binary; 15/61 (25%) male, 46/61 (75%) female (Table 1)",
       "PctBIPOC": 100,
@@ -31,6 +31,7 @@
   },
   "rationale": {
     "article": {
+      "PosResult": "The study's own primary comparison (peyote group vs. minimal-substance comparison group on RMHI and neuropsychological measures) came out favorably for peyote users: no significant deficits on any measure, significantly better scores on 2 RMHI scales, and greater lifetime peyote use was associated with significantly better (not worse) scores on 5 of 9 RMHI scales, so PosResult='Y'.",
       "IsObservational": "Cross-sectional naturalistic comparison of three pre-existing Navajo groups (habitual NAC peyote users, former alcoholics, minimal-substance-use comparison group) recruited by history of use, not randomized or assigned to an experimental protocol. No researcher-administered dosing occurred; peyote/alcohol exposure was ongoing community/religious use observed as-is. Classified as observational (naturalistic cohort/cross-sectional).",
       "Condition": "Coded '.' because this is not an AUD/smoking/opioid treatment study of the psychedelic-exposed (peyote) group. Peyote is used as a religious sacrament by NAC members, not as an intervention for alcohol/smoking/opioid use disorder; peyote-group participants were explicitly excluded if they met alcohol-dependence criteria. The former-alcoholic group is a separate, non-psychedelic-exposed comparison arm included to validate test-battery sensitivity, not to test peyote as an AUD treatment.",
       "Substance": "Peyote (Lophophora williamsii), a mescaline-containing cactus, ingested as sacrament during NAC ceremonies; mescaline is the active hallucinogen.",

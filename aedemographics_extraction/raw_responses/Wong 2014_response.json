@@ -11,7 +11,7 @@
       "IsObservational": "Y",
       "N": 23,
       "AE_denominator": 23,
-      "ArmScope": "psychedelic_arm",
+      "ArmScope": "psychedelic_arm", "PosResult": "Y",
       "PctFemale": 39.1,
       "GenderCategory": "male/female only reported (14/23 male, 60.9%); remainder (9/23, 39.1%) inferred female, no other categories reported",
       "PctBIPOC": 13.0,
@@ -44,6 +44,7 @@
   },
   "rationale": {
     "article": {
+      "PosResult": "The study's own primary outcome (change in BZD requirements pre/post ketamine) showed a reduction at both 12 and 24 hours, and the authors' stated conclusion is that 'ketamine appears to reduce BZD requirements'; despite this not reaching statistical significance (P=0.110, 0.330), the definition does not require significance for observational designs, so PosResult = Y based on the authors' own positive-direction conclusion.",
       "IsObservational": "Retrospective cohort study: patients identified via pharmacy charges for ketamine infusions and a manual chart review (EHR); ketamine was administered per physician discretion as real-world clinical care for AWS ('not part of our institution's protocol'), not per randomized or fixed experimental protocol. No control/comparator arm, no randomization -> observational.",
       "ArmScope": "Single-arm retrospective cohort; all 23 patients received ketamine (the entire study population is psychedelic/dissociative-exposed) with no non-exposed comparator group reported, so ArmScope = psychedelic_arm rather than pooled.",
       "PctFemale": "Article reports only 'Male, n (%): 14 (60.9%)' of N=23; female % derived as 100 - 60.9 = 39.1 (9/23), not stated directly by authors.",

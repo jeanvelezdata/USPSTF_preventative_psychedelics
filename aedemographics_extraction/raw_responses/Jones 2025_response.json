@@ -11,7 +11,7 @@
       "IsObservational": "Y",
       "N": 706891,
       "AE_denominator": ".",
-      "ArmScope": "pooled",
+      "ArmScope": "pooled", "PosResult": "Indeterminate",
       "PctFemale": ".",
       "GenderCategory": "male/female (binary covariate; no sample-level percentages reported)",
       "PctBIPOC": 36.77,
@@ -31,6 +31,7 @@
   },
   "rationale": {
     "article": {
+      "PosResult": "The study's own primary result is a significant race/ethnicity-by-psilocybin interaction with mixed directionality across strata: psilocybin was associated with significantly lowered odds of OUD for White (aOR 0.84) and Hispanic (aOR 0.68) participants, but showed no significant association for Black, Indigenous, Asian, or Multiracial participants, so no single clear main-effect direction applies to the sample as a whole.",
       "IsObservational": "Cross-sectional secondary analysis of NSDUH survey data (2002-2019); author explicitly self-describes the study as 'cross-sectional' in the Discussion and Conclusion. No randomization or interventional protocol.",
       "N": "706,891 is the final analytic sample explicitly stated in both the Abstract and Methods ('included all participants aged 18 years and older in the analyses (N = 706,891)'), not merely an enrolled/screened total.",
       "AE_denominator": "This study reports no adverse-event or safety assessment at all (see SafetyReported). Per schema, AE_denominator uses '.' rather than 'NA' even when SafetyReported = 'N'.",

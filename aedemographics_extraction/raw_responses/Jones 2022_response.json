@@ -11,7 +11,7 @@
       "IsObservational": "Y",
       "N": 214505,
       "AE_denominator": ".",
-      "ArmScope": "pooled",
+      "ArmScope": "pooled", "PosResult": "Y",
       "PctFemale": ".",
       "GenderCategory": "Male/female only, reported stratified by OUD status, not as a single sample-wide figure (Non-OUD: 48.2% male/51.8% female; Has-OUD: 58.4% male/41.6% female; weighted %).",
       "PctBIPOC": ".",
@@ -31,6 +31,7 @@
   },
   "rationale": {
     "article": {
+      "PosResult": "The study's primary and repeatedly emphasized finding is that lifetime psilocybin use was associated with significantly lowered odds of past-year OUD (aOR: 0.70, 95% CI [0.60, 0.83]), replicating Pisano et al. and framed as the headline result in the abstract, results, and conclusion, so this is coded as a positive/protective association.",
       "IsObservational": "This is a secondary cross-sectional analysis of existing NSDUH (2015-2019) survey data using survey-weighted multivariable logistic regression to test associations between self-reported lifetime psychedelic use and past-year OUD diagnosis. There is no randomization, no researcher-administered intervention, and no experimental protocol \u2014 participants' psychedelic exposure is naturalistic/self-reported prior use. This is an observational (cross-sectional survey) design.",
       "Substance": "The study's independent variables were lifetime use (yes/no) of the four most frequently used classic psychedelics in NSDUH: psilocybin, peyote, mescaline, and LSD (Method, 'Independent variables and covariates'). These are naturalistic self-reported exposures, not administered treatments, but are listed per the field's guidance to report substances 'as reported.'",
       "N": "Method section states 'we included all adults aged >= 18 years from the NSDUH in our analyses (total unweighted N = 214,505)' \u2014 this is the final analyzed sample, not merely an enrolled/eligible count, so no ambiguity.",

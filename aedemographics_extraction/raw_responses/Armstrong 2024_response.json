@@ -11,7 +11,7 @@
       "IsObservational": "Y",
       "N": 45,
       "AE_denominator": ".",
-      "ArmScope": "psychedelic_arm",
+      "ArmScope": "psychedelic_arm", "PosResult": "Y",
       "PctFemale": 0,
       "GenderCategory": "Male 100% (no other gender categories reported)",
       "PctBIPOC": 9,
@@ -31,6 +31,7 @@
   },
   "rationale": {
     "article": {
+      "PosResult": "Alcohol use (the study's primary outcome, AUDIT-C) showed a statistically significant, large reduction from pre-treatment to 1-month follow-up that was maintained through 6 months (p<.001, partial eta squared=.62), and the authors' own conclusion states the treatment 'is an effective and robust treatment to reduce problematic alcohol use.'",
       "IsObservational": "Naturalistic clinical program evaluation / prospective chart review conducted during 'standard clinical operations'; explicitly described in the Discussion as lacking any controls ('control group, randomization, and blinding'). No randomized allocation to arms. Clearly observational.",
       "N": "N=45 is the final analyzed sample: of 99 Veterans who received treatment, 86 completed the pre-treatment survey, and of those, 45 screened positive for risky alcohol use (AUDIT-C ≥4) and were 'included in the current analysis.' An intention-to-treat/last-observation-carried-forward approach was used for missing follow-up data within this N=45.",
       "ArmScope": "Single-arm naturalistic treatment program — all 45 participants received the same ibogaine + 5-MeO-DMT protocol; there is no separate comparator arm, so N, demographics are inherently restricted to the psychedelic-treated group.",

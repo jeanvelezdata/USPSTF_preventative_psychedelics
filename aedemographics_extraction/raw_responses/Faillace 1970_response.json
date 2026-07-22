@@ -11,7 +11,7 @@
       "IsObservational": "N",
       "N": 12,
       "AE_denominator": 11,
-      "ArmScope": "psychedelic_arm",
+      "ArmScope": "psychedelic_arm", "PosResult": "N",
       "PctFemale": 0,
       "GenderCategory": "Male (inferred; all individually discussed subjects referred to with he/his pronouns, no female pronouns used, no explicit gender statement given)",
       "PctBIPOC": ".",
@@ -68,6 +68,7 @@
   },
   "rationale": {
     "article": {
+      "PosResult": "Set to N: the authors' own stated conclusion is negative, with only 2 of 12 (17%) subjects showing improvement attributable to drug treatment at 2-year follow-up and the discussion explicitly concluding hallucinogenic drugs 'appear to have limited therapeutic value' and were 'not of striking benefit' for chronic alcoholism.",
       "IsObservational": "Borderline call, flagged per prompt guidance on open-label single-arm trials. The paper being extracted is framed as a naturalistic 2-year follow-up survey (mail/in-person contact, no new intervention delivered in this paper), which reads observationally. However, its own Methods section describes the underlying treatment as a structured research protocol in which 'the drugs DPT, DET and 6-FDET were administered in a random design' at fixed doses (0.7/1.0/1.3 mg/kg) with continuous physiological monitoring in a dedicated research ward -- i.e., randomization to arms and an interventional protocol run for research purposes, not usual care. Set to 'N' on the strength of that explicit randomized/interventional treatment design; a human reviewer may reasonably override to 'Y' given the follow-up-survey framing of this specific paper and the lack of any control/comparator group.",
       "N": "Set to 12 (enrolled cohort; 'Twelve chronic, nonpsychotic alcoholic patients volunteered...', age range/mean reported for this group). Two-year follow-up OUTCOME data was obtained on only 11 of the 12 (Subject 12 was lost to follow-up). Separately, the closing summary paragraph states 'Of the 18 subjects, three were relatively stable, eight were drinking or hospitalized... and one subject was lost to follow-up' -- this '18' is internally inconsistent with 'Twelve chronic alcoholic patients... were evaluated' in the same paragraph and with every other N given in the article (and 3+8+1=12, not 18). Per input-fidelity instructions this is reported as printed and flagged, not silently 'corrected'; N=12 was used based on the overwhelming consistency of that figure elsewhere, not by decoding the '18'.",
       "AE_denominator": "Set to 11 -- the population for whom 2-year follow-up data (during which the coded AEs occurred) was actually obtained, per 'data was obtained on 11 of the 12 subjects.' The 12th subject (lost to follow-up) is excluded from this denominator.",

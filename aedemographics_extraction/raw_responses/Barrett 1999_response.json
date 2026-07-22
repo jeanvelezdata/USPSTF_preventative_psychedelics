@@ -11,7 +11,7 @@
       "IsObservational": "Y",
       "N": 22,
       "AE_denominator": "Not numbered",
-      "ArmScope": "psychedelic_arm",
+      "ArmScope": "psychedelic_arm", "PosResult": "Y",
       "PctFemale": 13.6,
       "GenderCategory": "19 male, 3 female of 22 total interviewed (Results narrative, spelled out as \"Nineteen males and three females\"); Table 1's n=17 codable-data subsample comprises 14 male, 3 female",
       "PctBIPOC": ".",
@@ -43,7 +43,7 @@
     ]
   },
   "rationale": {
-    "article": {
+    "article": { "PosResult": "The article's own framed primary outcome (attenuation of subjective alcohol effects by concurrent LSD/psilocybin use, not drinking reduction) was met: Results/Discussion report a striking antagonism, with 100% of LSD users showing at least partial (mostly complete) blockade of alcohol's subjective effects and the majority of psilocybin users showing a diminished response, which the authors themselves summarize as alcohol's subjective effects being 'antagonized by LSD and, to a lesser extent, by psilocybin.'",
       "IsObservational": "Retrospective, self-report structured-interview study using snowball sampling to characterize naturalistic/recreational co-use of alcohol with LSD or psilocybin. No randomization, no researcher-administered drug protocol -- participants are describing past personal drug-use experiences. Classified as observational (naturalistic/retrospective self-report), not an RCT or interventional design.",
       "N": "Genuine internal inconsistency in the article, not an OCR/font-encoding artifact: Methods states (in cleanly decodable text -- ligatures/punctuation only, digits unaffected) 'Of the 14 individuals contacted, three declined to participate, leaving a final sample of 11 subjects.' Results separately states, in plain spelled-out English words with no font-encoding involved, 'Nineteen males and three females were interviewed for the present study' (19+3=22). These cannot both be the same figure. I did not construct any digit-substitution/cipher theory to reconcile them (per instructions). Instead I cross-checked against a third, independently legible source: Table 1 contains exactly 17 subject rows, of which exactly 3 are coded female (subjects H, R, S) and 14 male. Results states 4 subjects were excluded entirely from interaction analysis (no intoxicating alcohol+drug co-use) plus 1 excluded for uncodable responses = 5 excluded. 22 (19M+3F) minus 5 excluded = 17, matching Table 1's row count exactly, and the female count (3) matches exactly between Results and Table 1, consistent with all 5 exclusions having been male (19-5=14, matching Table 1's male count). This three-way arithmetic convergence (spelled-out Results total, Table 1 row count, Table 1 gender counts) supports 22 as the total interviewed/enrolled sample, with 'final sample of 11' in Methods appearing to be an error inconsistent with the rest of the article. I report N=22 as the enrolled/interviewed sample; note that only 17 of these 22 had codable data for the primary LSD-alcohol comparison (fewer still for some psilocybin sub-analyses), so N should be read as enrolled rather than uniformly analyzed. Flagging for human review given the unresolved Methods discrepancy.",
       "PctFemale": "3/22 = 13.6%, using N=22 per the reasoning above (3 females stated explicitly in Results and independently corroborated by Table 1's 3 female rows).",

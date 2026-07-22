@@ -11,7 +11,7 @@
       "IsObservational": "Y",
       "N": 40,
       "AE_denominator": "Not numbered",
-      "ArmScope": "psychedelic_arm",
+      "ArmScope": "psychedelic_arm", "PosResult": "Y",
       "PctFemale": ".",
       "GenderCategory": ".",
       "PctBIPOC": ".",
@@ -79,7 +79,7 @@
     ]
   },
   "rationale": {
-    "article": {
+    "article": { "PosResult": "Table 1's clean diagnostic-category counts sum to 27/40 (16 much improved/abstinent + 11 improved/reduced intake) vs 13/40 unchanged across both groups, and the authors state the results were 'sufficiently encouraging to warrant more extensive trials,' so the study's own reported outcome is positive.",
       "Title": "OCR renders the title as 'fUse of d-Lysergie Acid Diethylamide in the Treatment of Alcoholism I'; the leading 'f', the 'e/c' swap in 'Lysergie', and the trailing 'I' (a footnote marker for the funding acknowledgement) are read through as standard ligature/OCR artifacts per the input-fidelity rule, not as content changes.",
       "IsObservational": "No randomization or control arm; all patients were admitted to hospital and treated with LSD (with mescaline for non-responders) as a naturalistic case series, with outcomes tracked via A.A./family/physician follow-up. This is a single-arm treatment case series, not an RCT, so IsObservational = Y.",
       "N": "Summary states plainly 'A report on the therapeutic efforts of LSD in 40 alcoholic patients is presented' (Group I n=24 + Group II n=16). Note: the text elsewhere prints Group I's size as 'The results will be discussed in two groups: Group I, the original 9.4 patients discussed in another paper by Smith (1)' -- '9.4' is an obvious OCR garble of '24', inconsistent with the clean, legible Table 1 diagnostic-category counts (8 + 12 + 4 = 24) and with 40 - 16 = 24. Per the input-fidelity rule I did not construct a decode theory to 'fix' 9.4; instead I used the directly and cleanly printed total N=40 from the Summary, and derived Group I=24 only via straightforward addition of Table 1's own clean digits, not from the garbled figure.",

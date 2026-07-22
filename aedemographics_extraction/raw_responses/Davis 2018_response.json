@@ -11,7 +11,7 @@
       "IsObservational": "Y",
       "N": 73,
       "AE_denominator": "Not numbered",
-      "ArmScope": "psychedelic_arm",
+      "ArmScope": "psychedelic_arm", "PosResult": "Y",
       "PctFemale": 30,
       "GenderCategory": "Male/Female binary breakdown reported: Male 70%, Female 30% (no non-binary/other category reported)",
       "PctBIPOC": 10,
@@ -104,6 +104,7 @@
   },
   "rationale": {
     "article": {
+      "PosResult": "Positive result: 81% of the 73 participants (59) were classified by the authors as treatment responders (never used opioids again or decreased use) on the study's own pre/post opioid-use outcome, and the title, abstract, and discussion explicitly report positive persisting psychosocial changes associated with ibogaine detoxification.",
       "IsObservational": "Secondary data analysis of a larger retrospective, anonymous web-based survey of patients who had already received one week of fee-for-service ibogaine detoxification at a residential clinic in Mexico (Davis et al. 2017 cohort). No randomization, no research-controlled dosing protocol; treatment was delivered as usual clinical care and surveyed retrospectively. Coded Y.",
       "Corpus/Prefix": "No substance/condition grouping prefix or corpus label given in the text beyond the Condition/Substance fields; coded '.'.",
       "N": "Final analyzed sample after exclusions (285 contacted -> 134 responded -> 88 in main outcome paper -> 73 completed persisting-effects measures) is 73; this is the denominator used for the demographic and quantitative PEQ analyses reported here.",

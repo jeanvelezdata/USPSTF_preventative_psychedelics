@@ -2,6 +2,7 @@
 
 ## Agin-Liebes 2021
 ### Article
+- **PosResult**: Among respondents with alcohol misuse/AUD (the condition coded for this study), the majority (76%; n=48 of n=72) self-reported improvement in their alcohol condition following mescaline use, per the study's own pre/post comparison rather than a between-arm comparison.
 - **IsObservational**: Cross-sectional naturalistic online survey of self-selected mescaline users (author-described as 'cross-sectional study' in Discussion limitations); no randomization or investigator-administered intervention, so coded observational (Y).
 - **Condition**: Article analyzes five psychiatric/SUD subgroups (depression, anxiety, PTSD, alcohol misuse/AUD, drug misuse/DUD). Of the three condition options in scope for this review (Alcohol/Smoking/Opioid), only alcohol misuse/AUD is explicitly broken out as its own subgroup (n=72); DUD is a broad, non-opioid-specific drug-use category and smoking/nicotine is not addressed anywhere in the article, so 'Alcohol' is coded, though the study is not AUD-specific overall.
 - **N**: 452 is the final analyzed sample after excluding 22 respondents who could not specify mescaline type and 3 who were under 18 (from an initial 477 who completed the survey), so this is the final analyzed N, not merely enrolled/consented N.
@@ -18,6 +19,7 @@
 
 ## Alper 1999
 ### Article
+- **PosResult**: Authors report 25/33 (76%) fully resolved opioid withdrawal without drug seeking through 72 hours and conclude the series 'appears to provide some evidence for the efficacy of ibogaine in acute opioid withdrawal,' indicating a positive result on the study's own primary outcome despite one fatality and a few non-responders/relapsers.
 - **IsObservational**: Retrospective case series of 33 patients drawn from an existing informal, non-medical ibogaine treatment network, selected from 41 cases reviewed at a 1995 NIDA meeting; 'open label' here describes uncontrolled real-world delivery observed as-treated, not a randomized or controlled experimental research protocol, so coded observational (Y).
 - **ArmScope**: Single-arm case series; all 33 patients received ibogaine with no comparator arm, so N, AE counts, and demographics are inherently scoped to the psychedelic (ibogaine) arm.
 - **N**: Table 2 explicitly gives N=33 as the analyzed/reported cohort (after excluding 8 of the original 41 NIDA-meeting cases for non-opioid-dependence or missing post-treatment observation); used 33, not 41.
@@ -35,6 +37,7 @@
 
 ## Alper 2012
 ### Article
+- **PosResult**: This is a forensic case series of ibogaine-associated fatalities focused entirely on cause-of-death determination; the article never assesses or reports treatment efficacy/outcome (e.g., reduction in substance use) for these decedents or any surviving patients, so PosResult is not reported.
 - **IsObservational**: Retrospective case series based on systematic review of autopsy, toxicology, and investigative reports for a consecutive series of ibogaine-associated fatalities identified 1990-2008 via a treatment-provider network, OCME referral, and literature search; no randomization or research-administered intervention, so this is naturalistic real-world data (observational), not an RCT.
 - **Condition**: 15 of 19 decedents took ibogaine for opioid detoxification (the predominant indication; 4 of these were also alcohol-dependent, 3 cocaine-dependent, 1 methamphetamine-dependent); 2 used ibogaine for spiritual/psychological purposes with no substance-abuse history; 2 for unknown reasons but with a substance-abuse history. Coded as 'Opioid' based on the plurality/predominant indication, though the population is mixed and not exclusively opioid-focused.
 - **Substance**: Ibogaine administered as the HCl salt in 14 cases, Tabernanthe iboga alkaloid extract in 2 (cases #4, #14), dried root bark in 2 (cases #13, #16), and a powder of ambiguous form (extract vs. root bark) in 1 (case #6).
@@ -58,6 +61,7 @@
 
 ## Anderson 2019
 ### Article
+- **PosResult**: The article has no single primary outcome to assess against; its own core finding is 'emergent parallelism'—nearly every domain (mood, self-efficacy, focus, energy, cognition, anxiety, physiology) was reported as both a benefit and a matched challenge by respondents (e.g., 92.9% improved mood vs. 41.5 challenge-reports of impaired mood; 18.0% physiological discomfort vs. 3.0% physiological enhancement), and the Discussion explicitly frames results as exploratory/inconclusive rather than net-positive or net-negative, so directionality is coded Indeterminate.
 - **IsObservational**: Explicitly a 'cross-sectional, retrospective, anonymous online survey' of 278 microdosers with no experimental manipulation; Discussion states 'this study was observational, not experimental.' It is a primary study with its own participant sample (N=278), not merely a methods/codebook-development paper without a patient population — the codebook is a data-analytic product built FROM this study's own survey respondents, so all extractable fields are populated from this sample.
 - **Condition**: Study population is a general community sample of psychedelic microdosers (LSD/psilocybin users recruited via Reddit), not selected on the basis of alcohol, smoking, or opioid use disorder. Reduced alcohol/tobacco use appears only as a secondary self-reported behavioral outcome for a subset, not as an inclusion criterion or study focus, so none of Alcohol/Smoking/Opioid applies; coded '.'.
 - **N**: 278 is the final analyzed sample ('The sample analysed in the present study includes the 278 respondents that answered the MDBC questions'), broken into LSD-only (195), psilocybin-only (50), and both (33).
@@ -84,6 +88,7 @@
 
 ## Armstrong 2024
 ### Article
+- **PosResult**: Alcohol use (the study's primary outcome, AUDIT-C) showed a statistically significant, large reduction from pre-treatment to 1-month follow-up that was maintained through 6 months (p<.001, partial eta squared=.62), and the authors' own conclusion states the treatment 'is an effective and robust treatment to reduce problematic alcohol use.'
 - **IsObservational**: Naturalistic clinical program evaluation / prospective chart review conducted during 'standard clinical operations'; explicitly described in the Discussion as lacking any controls ('control group, randomization, and blinding'). No randomized allocation to arms. Clearly observational.
 - **N**: N=45 is the final analyzed sample: of 99 Veterans who received treatment, 86 completed the pre-treatment survey, and of those, 45 screened positive for risky alcohol use (AUDIT-C ≥4) and were 'included in the current analysis.' An intention-to-treat/last-observation-carried-forward approach was used for missing follow-up data within this N=45.
 - **ArmScope**: Single-arm naturalistic treatment program — all 45 participants received the same ibogaine + 5-MeO-DMT protocol; there is no separate comparator arm, so N, demographics are inherently restricted to the psychedelic-treated group.
@@ -98,6 +103,7 @@
 
 ## Barbosa 2018
 ### Article
+- **PosResult**: Both the Results (significantly lower current alcohol/tobacco use disorder in UDV vs. Brazilian norms, and regression showing ceremonial attendance and years of membership negatively predict alcohol/tobacco use and use-disorder) and the Conclusions ('current levels of alcohol and tobacco dependence were lower in ayahuasca users compared to the general population... attendance and consumption of ayahuasca were likely the causal factors') report a clearly positive result on the study's own primary outcome, so PosResult='Y'.
 - **IsObservational**: Cross-sectional survey (Design section: '1,947 UDV volunteers... surveyed... between March 2009 and August 2011') of self-selected religious ayahuasca users, compared descriptively/statistically to an external historical normative dataset (2005 Brazilian household survey). No randomization, no researcher-administered dosing protocol, no controlled arms — participants used ayahuasca as part of their pre-existing religious practice, observed as-is. Clearly observational.
 - **Condition**: The article gives essentially equal, parallel treatment to Alcohol Use Disorder and Tobacco Use Disorder throughout (title, all four results tables, both hierarchical regression sets) — genuinely a dual-focus study, not separable into a 'primary' substance by any textual signal. Coded Condition='Alcohol' as a forced single-value pick per the schema (alcohol is named first in the title and the Introduction's opening paragraphs foreground AUD before tobacco), but this is a coin-flip choice: a parallel record for Tobacco/Smoking with identical N, demographics, and design would be equally valid, and the tobacco-specific findings (Tables 3–6, tobacco regression models) are of equal weight in the article and are not captured under this Condition value.
 - **N**: Article states 'A total of 1,947 members of UDV 18+ years old were evaluated' (abstract, Design), used here as the overall recruited/evaluated N. However, no single 'final analytic sample' N is given — per-variable valid-N in Table 1 ranges from 1,901 (employment) to 1,946 (geographic area) due to item non-response, and the regression models (Tables 5–6) run on still smaller listwise-complete subsets (e.g., N=1,559 for the alcohol-use-disorder model). Reported the article's own headline total (1,947) rather than any one analysis-specific N.
@@ -109,6 +115,7 @@
 
 ## Barrett 1999
 ### Article
+- **PosResult**: The article's own framed primary outcome (attenuation of subjective alcohol effects by concurrent LSD/psilocybin use, not drinking reduction) was met: Results/Discussion report a striking antagonism, with 100% of LSD users showing at least partial (mostly complete) blockade of alcohol's subjective effects and the majority of psilocybin users showing a diminished response, which the authors themselves summarize as alcohol's subjective effects being 'antagonized by LSD and, to a lesser extent, by psilocybin.'
 - **IsObservational**: Retrospective, self-report structured-interview study using snowball sampling to characterize naturalistic/recreational co-use of alcohol with LSD or psilocybin. No randomization, no researcher-administered drug protocol -- participants are describing past personal drug-use experiences. Classified as observational (naturalistic/retrospective self-report), not an RCT or interventional design.
 - **N**: Genuine internal inconsistency in the article, not an OCR/font-encoding artifact: Methods states (in cleanly decodable text -- ligatures/punctuation only, digits unaffected) 'Of the 14 individuals contacted, three declined to participate, leaving a final sample of 11 subjects.' Results separately states, in plain spelled-out English words with no font-encoding involved, 'Nineteen males and three females were interviewed for the present study' (19+3=22). These cannot both be the same figure. I did not construct any digit-substitution/cipher theory to reconcile them (per instructions). Instead I cross-checked against a third, independently legible source: Table 1 contains exactly 17 subject rows, of which exactly 3 are coded female (subjects H, R, S) and 14 male. Results states 4 subjects were excluded entirely from interaction analysis (no intoxicating alcohol+drug co-use) plus 1 excluded for uncodable responses = 5 excluded. 22 (19M+3F) minus 5 excluded = 17, matching Table 1's row count exactly, and the female count (3) matches exactly between Results and Table 1, consistent with all 5 exclusions having been male (19-5=14, matching Table 1's male count). This three-way arithmetic convergence (spelled-out Results total, Table 1 row count, Table 1 gender counts) supports 22 as the total interviewed/enrolled sample, with 'final sample of 11' in Methods appearing to be an error inconsistent with the rest of the article. I report N=22 as the enrolled/interviewed sample; note that only 17 of these 22 had codable data for the primary LSD-alcohol comparison (fewer still for some psilocybin sub-analyses), so N should be read as enrolled rather than uniformly analyzed. Flagging for human review given the unresolved Methods discrepancy.
 - **PctFemale**: 3/22 = 13.6%, using N=22 per the reasoning above (3 females stated explicitly in Results and independently corroborated by Table 1's 3 female rows).
@@ -125,6 +132,7 @@
 
 ## Berlowitz 2019
 ### Article
+- **PosResult**: Authors report significant pre/post improvement on nearly all primary outcomes at Bonferroni-corrected significance (ASI drug use, alcohol use, psychiatric status, social/familial relationships; CEQ craving; HADS emotional distress; WHOQOL-BREF quality of life), with only the medical status composite failing to reach significance, and the authors themselves conclude the findings 'indicate multiple positive outcomes.'
 - **Condition**: Study population is poly-substance dependent (cannabis 72.2%, alcohol 63.9%, cocaine/cocaine base paste 61.1%, opiates 13.9%, amphetamines 11.1%, tranquilizers 11.1% among completers) rather than an alcohol-specific SUD sample; cannabis was actually the most prevalent dependence diagnosis, not alcohol. Coded 'Alcohol' because alcohol dependence was the second-most-prevalent diagnosis and was the only substance-specific severity domain besides drug use given its own ASI composite subscale reported as a significant treatment outcome (p<.001, d=1.21); no enum option exists for 'polysubstance' or 'cannabis'.
 - **Substance**: Treatment is a multi-component 'Amazonian medicine' package: purging-ritual plants, dietary-forest-retreat plants, and ceremonial plants including ayahuasca (Banisteriopsis caapi). Ayahuasca is the only classic psychedelic substance specifically named; the article explicitly states the program is 'not limited to ayahuasca' and involves other unnamed Amazonian plants, so this likely understates the full intervention but is the only named psychoactive substance.
 - **N**: Two candidate Ns exist: T1 baseline/enrolled sample (n=53) and T2 completer sample with paired pre/post data (n=36). The paired-samples t-tests reported as the study's primary results (the treatment-effect analyses) used n=36, so N=36 was coded as the final analyzed sample; demographics/baseline characteristics were reported for both n=53 and n=36 in Table 1.
@@ -137,6 +145,7 @@
 
 ## Brown 2018
 ### Article
+- **PosResult**: The study's primary outcome, ASIC Drug Use score, was significantly improved relative to pretreatment baseline at every posttreatment time point (1-12 months, p<.001), and 50% of subjects reported no opioid use at 1-month follow-up, with the authors' own conclusion stating ibogaine 'appeared to have a substantive treatment effect' on drug use, so PosResult is coded Y.
 - **IsObservational**: Methods explicitly state 'this observational study' assesses outcomes 'without modifying the independent variable' and that 'investigators had no role in administering ibogaine or clinical management'; treatment was delivered as usual care by independent private clinics on a fee-for-service basis, not per a research-controlled protocol, and there is no randomization or comparator arm. Coded Y.
 - **Substance**: Primary substance is ibogaine HCl (mean total dose 1,540 ± 920 mg). Five of the 30 subjects additionally received a crude extract of T. iboga root bark (mean dose 1610 ± 1650 mg) alongside ibogaine HCl. Coded Substance as 'Ibogaine' since this is the extraction/treatment for the entire sample; the co-administered crude extract in a subset is noted here rather than as a separate substance value.
 - **N**: Analyzed sample is N=30 (all enrolled subjects). Follow-up n available declined over time (20, 19, 14, 17, 14 at 1/3/6/9/12 months respectively; SOWS returned on 27), but the primary statistical analyses (paired t-tests) used the full enrolled N=30 with missing follow-up values imputed to pretreatment baseline, so N=30 was used as the article's stated analyzed sample size.
@@ -148,6 +157,7 @@
 
 ## Brown 2019
 ### Article
+- **PosResult**: Y — the study's own secondary quantitative outcome (pooled BDI-II depression score) decreased significantly pre- to post-treatment (24.4±9.2 to 16.5±10.9, p<0.001), and the Discussion explicitly concludes ibogaine 'produces acute positive changes in psychological state' with effects that 'persist over time,' though the primary SCQ measure itself showed no correlation with treatment outcome.
 - **IsObservational**: Explicitly stated: 'The two studies were strictly observational, with neither investigator involved in administering ibogaine or in clinic management.' Both source studies (Mexico, New Zealand) are naturalistic treatment-site cohorts, not RCTs.
 - **N**: Abstract/Methods report a total treatment sample of 44 (Mexico n=30 + New Zealand n=14); this is the enrolled/treated population from which this article draws. Sub-analyses within the article use smaller subsamples due to missing data: SCQ n=42 (28 Mexico+14 NZ), BDI-II n=38 (24 Mexico+14 NZ), qualitative thematic analysis n=20 (13 Mexico+7 NZ). N=44 reported as the overall treated sample.
 - **Substance**: All participants received ibogaine HCl; 4 of the 30 Mexican participants additionally received a crude Tabernanthe iboga rootbark extract alongside a lower HCl dose (26 Mexican participants received HCl only).
@@ -168,6 +178,7 @@
 
 ## Cakic 2010
 ### Article
+- **PosResult**: This is a cross-sectional survey of recreational DMT/ayahuasca users' subjective effects and use patterns, not a treatment or cessation study, so there is no primary treatment-outcome directionality to assess against this definition.
 - **IsObservational**: Cross-sectional, self-administered online survey of recreational DMT/ayahuasca users recruited via snowball sampling and an internet newsletter ad; no randomization or experimental protocol — real-world use as it naturally occurs is observed, not assigned. Clearly observational.
 - **Condition**: This is a survey characterizing recreational DMT/ayahuasca use patterns, subjective effects, and attitudes — not a study of alcohol, smoking, or opioid use disorder or their treatment. Alcohol and tobacco use appear only as concomitant lifetime/30-day drug-use covariates (Table 1: 98.3%/95.9% ever-used), not as the study's target condition. None of Alcohol/Smoking/Opioid genuinely applies, so coded '.'.
 - **Substance**: DMT was consumed via two routes reported in the article: smoked freebase DMT (98.3% of sample) and oral ayahuasca (a DMT-containing brew, 30.6% of sample). Both are the same active compound, so both are listed.
@@ -184,6 +195,7 @@
 
 ## Chandler 1960
 ### Article
+- **PosResult**: Authors report a positive result on the study's own primary outcome (therapist-rated improvement scale): modal rating +3 'considerable improvement,' 45.5% rated considerable-or-better and 66.4% rated at least 'some improvement,' with the summary concluding most patients showed greater depth/acceleration of therapy than with prior drugless treatment.
 - **IsObservational**: Naturalistic, uncontrolled case-series review of 110 private-practice patients treated with LSD-25-assisted psychotherapy over time; no randomization or comparator arm, dosing individualized 'based upon experience' — a case series, not an RCT.
 - **Condition**: Coded '.' — this is a transdiagnostic private-practice case series (psychoneurosis, personality disorders, sociopathic disorder, etc.); only 17/110 (15.5%) carried an 'Addiction, alcohol and/or narcotic' diagnosis, so it is not an alcohol-, smoking-, or opioid-specific study population.
 - **N**: N=110 is the full analyzed/reported sample (Table 2 results, N=110). The article notes 60 had discontinued treatment and 50 were still in therapy at time of writing, but states 'no specific differences were found' between the two, so results/AE narrative are pooled across all 110.
@@ -204,6 +216,7 @@
 
 ## Chwelos 1959
 ### Article
+- **PosResult**: Table 1's clean diagnostic-category counts sum to 27/40 (16 much improved/abstinent + 11 improved/reduced intake) vs 13/40 unchanged across both groups, and the authors state the results were 'sufficiently encouraging to warrant more extensive trials,' so the study's own reported outcome is positive.
 - **Title**: OCR renders the title as 'fUse of d-Lysergie Acid Diethylamide in the Treatment of Alcoholism I'; the leading 'f', the 'e/c' swap in 'Lysergie', and the trailing 'I' (a footnote marker for the funding acknowledgement) are read through as standard ligature/OCR artifacts per the input-fidelity rule, not as content changes.
 - **IsObservational**: No randomization or control arm; all patients were admitted to hospital and treated with LSD (with mescaline for non-responders) as a naturalistic case series, with outcomes tracked via A.A./family/physician follow-up. This is a single-arm treatment case series, not an RCT, so IsObservational = Y.
 - **N**: Summary states plainly 'A report on the therapeutic efforts of LSD in 40 alcoholic patients is presented' (Group I n=24 + Group II n=16). Note: the text elsewhere prints Group I's size as 'The results will be discussed in two groups: Group I, the original 9.4 patients discussed in another paper by Smith (1)' -- '9.4' is an obvious OCR garble of '24', inconsistent with the clean, legible Table 1 diagnostic-category counts (8 + 12 + 4 = 24) and with 40 - 16 = 24. Per the input-fidelity rule I did not construct a decode theory to 'fix' 9.4; instead I used the directly and cleanly printed total N=40 from the Summary, and derived Group I=24 only via straightforward addition of Table 1's own clean digits, not from the garbled figure.
@@ -218,6 +231,7 @@
 
 ## Davis 2017
 ### Article
+- **PosResult**: Study's own pre/post outcomes and authors' conclusion are clearly positive: 30% achieved sustained opioid abstinence, 41% reported abstinence >=6 months at survey time, and an additional 48% reported decreased use from pretreatment levels, with the Discussion concluding ibogaine 'is associated with reductions in opioid use, including complete abstinence, and has long-term positive psychological outcomes.'
 - **IsObservational**: Retrospective, anonymous, cross-sectional web-based survey of individuals who received ibogaine treatment in usual clinical care at a single Mexico facility (2012-2015); no randomization or controlled experimental arms — naturalistic observational/survey design consistent with corpus curation.
 - **Substance**: Primary tracked intervention is ibogaine hydrochloride. Authors disclose that Crossroads' clinical procedures changed partway through the 2012-2015 window to add 5-MeO-DMT following ibogaine for some patients, but could not determine with certainty which participants received it (anonymous survey, recall/design error) and could not formally analyze its effect (exploratory date-based analysis found no significant difference). Coded Substance as Ibogaine only since that is the formally tracked intervention; 5-MeO-DMT is a disclosed but unquantifiable confound, not a coded arm.
 - **N**: N=88 is the final analyzed sample after excluding 33 people who did not complete the main questionnaires and 13 who sought ibogaine for non-opioid substance problems, out of 134 who began the survey and 285 contacted.
@@ -237,6 +251,7 @@
 
 ## Davis 2018
 ### Article
+- **PosResult**: Positive result: 81% of the 73 participants (59) were classified by the authors as treatment responders (never used opioids again or decreased use) on the study's own pre/post opioid-use outcome, and the title, abstract, and discussion explicitly report positive persisting psychosocial changes associated with ibogaine detoxification.
 - **IsObservational**: Secondary data analysis of a larger retrospective, anonymous web-based survey of patients who had already received one week of fee-for-service ibogaine detoxification at a residential clinic in Mexico (Davis et al. 2017 cohort). No randomization, no research-controlled dosing protocol; treatment was delivered as usual clinical care and surveyed retrospectively. Coded Y.
 - **Corpus/Prefix**: No substance/condition grouping prefix or corpus label given in the text beyond the Condition/Substance fields; coded '.'.
 - **N**: Final analyzed sample after exclusions (285 contacted -> 134 responded -> 88 in main outcome paper -> 73 completed persisting-effects measures) is 73; this is the denominator used for the demographic and quantitative PEQ analyses reported here.
@@ -257,6 +272,7 @@
 
 ## Doering-Silveira 2005
 ### Article
+- **PosResult**: Y: the study's own framed primary comparison (alcohol use among ayahuasca-using adolescents vs. non-using peers) showed significantly lower last-year (46.3% vs 74.4%, p=0.016) and recent (32.5% vs 65.1%, p=0.006) alcohol use in the ayahuasca group, the paper's sole statistically significant finding.
 - **IsObservational**: Cross-sectional comparison of 41 adolescents naturalistically consuming ayahuasca within an existing religious community (UDV) versus 43 non-using peers; participants were not randomized or assigned to an ayahuasca protocol for research purposes, they were interviewed about pre-existing ritual practice. This is a naturalistic observational/cross-sectional design, not an RCT.
 - **N**: Article reports two separately-described groups: 41 ayahuasca-using adolescents and 43 non-using comparison adolescents (total N=84). Used N=41, the psychedelic-exposed (ayahuasca) group, since demographic and AE-relevant fields in this schema concern the psychedelic-exposed population specifically.
 - **ArmScope**: Set to psychedelic_arm because demographics (age, sex, ethnicity, marital/living status) are reported separately for the ayahuasca group and the comparison group, not pooled together; all N/demographic values used here come only from the ayahuasca-exposed group.
@@ -269,6 +285,7 @@
 
 ## Fabregas 2010
 ### Article
+- **PosResult**: In both jungle-based (Study 1) and urban (Study 2) cohorts, ritual ayahuasca users scored significantly lower (better) than non-user controls on the ASI Alcohol Use and Psychiatric Status subscales, and the authors' own stated conclusion is that ritual ayahuasca use 'does not appear to be associated with the deleterious psychosocial effects typically caused by other drugs of abuse,' constituting a positive own-group result despite an artifactual/explained worse Drug Use subscale score and an isolated Family/Social worsening in Study 2.
 - **IsObservational**: No randomization to ayahuasca use. Two sub-studies each compare pre-existing ritual ayahuasca users (jungle-based Céu do Mapià community and urban Barquinha church members) against demographically-matched non-user community controls, assessed cross-sectionally at baseline with a 1-year naturalistic follow-up. Ayahuasca exposure was observed as delivered in ongoing religious ritual practice, not assigned for research purposes, so this is a naturalistic/observational cohort-comparison design, not an RCT or interventional protocol.
 - **Condition**: The article does not target treatment of one specific SUD (alcohol, smoking, or opioid). It assesses general addiction severity (ASI composite, including Alcohol Use and Drug Use subscales) and psychosocial functioning in ritual ayahuasca users versus non-user controls, not a treatment trial for a defined substance use disorder. Coded '.' as genuinely indeterminate among the three listed enum options.
 - **Corpus/Prefix**: No explicit corpus/grouping label distinct from the substance name is given in the article; coded '.'.
@@ -281,6 +298,7 @@
 
 ## Faillace 1970
 ### Article
+- **PosResult**: Set to N: the authors' own stated conclusion is negative, with only 2 of 12 (17%) subjects showing improvement attributable to drug treatment at 2-year follow-up and the discussion explicitly concluding hallucinogenic drugs 'appear to have limited therapeutic value' and were 'not of striking benefit' for chronic alcoholism.
 - **IsObservational**: Borderline call, flagged per prompt guidance on open-label single-arm trials. The paper being extracted is framed as a naturalistic 2-year follow-up survey (mail/in-person contact, no new intervention delivered in this paper), which reads observationally. However, its own Methods section describes the underlying treatment as a structured research protocol in which 'the drugs DPT, DET and 6-FDET were administered in a random design' at fixed doses (0.7/1.0/1.3 mg/kg) with continuous physiological monitoring in a dedicated research ward -- i.e., randomization to arms and an interventional protocol run for research purposes, not usual care. Set to 'N' on the strength of that explicit randomized/interventional treatment design; a human reviewer may reasonably override to 'Y' given the follow-up-survey framing of this specific paper and the lack of any control/comparator group.
 - **N**: Set to 12 (enrolled cohort; 'Twelve chronic, nonpsychotic alcoholic patients volunteered...', age range/mean reported for this group). Two-year follow-up OUTCOME data was obtained on only 11 of the 12 (Subject 12 was lost to follow-up). Separately, the closing summary paragraph states 'Of the 18 subjects, three were relatively stable, eight were drinking or hospitalized... and one subject was lost to follow-up' -- this '18' is internally inconsistent with 'Twelve chronic alcoholic patients... were evaluated' in the same paragraph and with every other N given in the article (and 3+8+1=12, not 18). Per input-fidelity instructions this is reported as printed and flagged, not silently 'corrected'; N=12 was used based on the overwhelming consistency of that figure elsewhere, not by decoding the '18'.
 - **AE_denominator**: Set to 11 -- the population for whom 2-year follow-up data (during which the coded AEs occurred) was actually obtained, per 'data was obtained on 11 of the 12 subjects.' The 12th subject (lost to follow-up) is excluded from this denominator.
@@ -294,6 +312,7 @@
 
 ## Garcia-Romeu 2019
 ### Article
+- **PosResult**: Y — authors' own pre/post comparison showed statistically significant reductions (all p < 0.0001) in AUDIT-C score, drinks/week, AUQ craving, and DSM-5 AUD symptom count, with 83% no longer meeting AUD criteria at survey time, matching the paper's stated primary outcome and conclusion of cessation/reduction in problematic alcohol use.
 - **IsObservational**: Cross-sectional, anonymous online survey of naturalistic (non-research-administered) psychedelic use with retrospective self-report; no randomization or research-run intervention protocol — clearly observational.
 - **N**: 343 is the final analyzed sample after exclusions, distinguished from the larger recruitment funnel (4095 clicked ad, 1429 met inclusion criteria and began, 512 completed the survey, 343 remained after excluding 120 for <3 months since experience, 33 for not meeting AUD symptom threshold, 16 for non-classic-psychedelic substance). All demographic and outcome tables use n=343.
 - **AE_denominator**: Adverse effects section: 305 (no persisting AE) + 21 (unsure) + 17 (yes) = 343, matching the full analyzed N; used as the AE assessment denominator.
@@ -310,6 +329,7 @@
 
 ## Greer 1986
 ### Article
+- **PosResult**: Judged against the study's own framed primary outcome (subjective benefit from the MDMA session), the result is positive: every subject reported some benefit, all 29 described positive attitude/feeling changes, and all 9 subjects with DSM-III diagnoses reported significant relief (2 with full remission).
 - **IsObservational**: Naturalistic case series: 29 subjects self-/therapist-referred specifically for MDMA sessions in a clinical (non-research) practice, no randomization, and the authors explicitly state no placebo control group or double-blind assessment was conducted. Clearly observational, not RCT.
 - **Condition**: Coded '.' rather than Alcohol/Smoking/Opioid: subjects were referred for varied personal/therapeutic/relationship/spiritual purposes, not selected for or treated for an alcohol, smoking, or opioid use disorder. A secondary post-hoc finding (14/28 follow-up respondents reported decreased use of some mind-altering substance, including alcohol/marijuana/caffeine/tobacco/cocaine) is a general substance-use side-observation, not evidence this study targeted one of the three USPSTF conditions.
 - **Corpus/Prefix**: No explicit corpus/condition grouping label is stated in the article itself; coded '.'.
@@ -342,6 +362,7 @@
 
 ## Halpern 2005
 ### Article
+- **PosResult**: The study's own primary comparison (peyote group vs. minimal-substance comparison group on RMHI and neuropsychological measures) came out favorably for peyote users: no significant deficits on any measure, significantly better scores on 2 RMHI scales, and greater lifetime peyote use was associated with significantly better (not worse) scores on 5 of 9 RMHI scales, so PosResult='Y'.
 - **IsObservational**: Cross-sectional naturalistic comparison of three pre-existing Navajo groups (habitual NAC peyote users, former alcoholics, minimal-substance-use comparison group) recruited by history of use, not randomized or assigned to an experimental protocol. No researcher-administered dosing occurred; peyote/alcohol exposure was ongoing community/religious use observed as-is. Classified as observational (naturalistic cohort/cross-sectional).
 - **Condition**: Coded '.' because this is not an AUD/smoking/opioid treatment study of the psychedelic-exposed (peyote) group. Peyote is used as a religious sacrament by NAC members, not as an intervention for alcohol/smoking/opioid use disorder; peyote-group participants were explicitly excluded if they met alcohol-dependence criteria. The former-alcoholic group is a separate, non-psychedelic-exposed comparison arm included to validate test-battery sensitivity, not to test peyote as an AUD treatment.
 - **Substance**: Peyote (Lophophora williamsii), a mescaline-containing cactus, ingested as sacrament during NAC ceremonies; mescaline is the active hallucinogen.
@@ -353,6 +374,7 @@
 
 ## Johnson 2017
 ### Article
+- **PosResult**: The study's own primary outcome (smoking cessation/reduction) was positive: 38.3% reported complete cessation and 27.9% reported persisting reduction (66.2% combined) after the reference psychedelic experience, and the Discussion concludes psychedelics 'may hold considerable potential in the treatment of tobacco... addiction,' judged against the study's own results/conclusion rather than a comparator arm.
 - **IsObservational**: Retrospective cross-sectional anonymous online survey of naturalistic (non-laboratory) psychedelic use; no randomization or researcher-administered intervention protocol -- clearly observational.
 - **N**: 1273 individuals completed the survey (enrolled), but 915 were excluded (163 non-serotonergic drug, 329 inconsistent responses, 423 <12 months since experience); N=358 is the final analyzed sample per Table 1/2/3 and is used here.
 - **Substance**: Multiple 5-HT2AR agonists were eligible/reported: Table 3 'Drug associated with smoking cessation/reduction' lists Psilocybin, LSD, DMT, Ayahuasca, and an 'Other' category (morning glory, mescaline, peyote, San Pedro) which the Methods section names individually as inclusion-eligible substances; listed all as comma-separated per the reported taxonomy.
@@ -370,6 +392,7 @@
 
 ## Jones 2022
 ### Article
+- **PosResult**: The study's primary and repeatedly emphasized finding is that lifetime psilocybin use was associated with significantly lowered odds of past-year OUD (aOR: 0.70, 95% CI [0.60, 0.83]), replicating Pisano et al. and framed as the headline result in the abstract, results, and conclusion, so this is coded as a positive/protective association.
 - **IsObservational**: This is a secondary cross-sectional analysis of existing NSDUH (2015-2019) survey data using survey-weighted multivariable logistic regression to test associations between self-reported lifetime psychedelic use and past-year OUD diagnosis. There is no randomization, no researcher-administered intervention, and no experimental protocol — participants' psychedelic exposure is naturalistic/self-reported prior use. This is an observational (cross-sectional survey) design.
 - **Substance**: The study's independent variables were lifetime use (yes/no) of the four most frequently used classic psychedelics in NSDUH: psilocybin, peyote, mescaline, and LSD (Method, 'Independent variables and covariates'). These are naturalistic self-reported exposures, not administered treatments, but are listed per the field's guidance to report substances 'as reported.'
 - **N**: Method section states 'we included all adults aged >= 18 years from the NSDUH in our analyses (total unweighted N = 214,505)' — this is the final analyzed sample, not merely an enrolled/eligible count, so no ambiguity.
@@ -381,6 +404,7 @@
 
 ## Jones 2022 b
 ### Article
+- **PosResult**: Authors state their primary finding is that lifetime use of classic psychedelics (psilocybin significantly, mescaline/peyote across several NDSS subdomains) was associated with lower/protective odds of current nicotine dependence, which they frame as the study's headline result despite LSD showing an opposite (increased-odds) association.
 - **IsObservational**: Cross-sectional secondary-data analysis of NSDUH (2015-2019) survey responses using multivariable logistic/ordinal regression on lifetime substance-use items; no randomization or research-administered intervention, so this is observational.
 - **Substance**: The 'classic psychedelics' whose lifetime use is the study's independent variable of interest are psilocybin, peyote, mescaline, and LSD; MDMA/ecstasy and other substances (heroin, PCP, cocaine, marijuana, etc.) were included only as specificity comparators, not as the psychedelics under study, so they are excluded here.
 - **N**: Text states 'unweighted N = 214,505' for the full NSDUH 2015-2019 analytic sample used in all regression models; Table 1's subgroup Ns (188,367 without ND + 26,138 with ND) sum to this figure, confirming it is the final analyzed sample, not merely enrolled.
@@ -393,6 +417,7 @@
 
 ## Jones 2025
 ### Article
+- **PosResult**: The study's own primary result is a significant race/ethnicity-by-psilocybin interaction with mixed directionality across strata: psilocybin was associated with significantly lowered odds of OUD for White (aOR 0.84) and Hispanic (aOR 0.68) participants, but showed no significant association for Black, Indigenous, Asian, or Multiracial participants, so no single clear main-effect direction applies to the sample as a whole.
 - **IsObservational**: Cross-sectional secondary analysis of NSDUH survey data (2002-2019); author explicitly self-describes the study as 'cross-sectional' in the Discussion and Conclusion. No randomization or interventional protocol.
 - **N**: 706,891 is the final analytic sample explicitly stated in both the Abstract and Methods ('included all participants aged 18 years and older in the analyses (N = 706,891)'), not merely an enrolled/screened total.
 - **AE_denominator**: This study reports no adverse-event or safety assessment at all (see SafetyReported). Per schema, AE_denominator uses '.' rather than 'NA' even when SafetyReported = 'N'.
@@ -405,6 +430,7 @@
 
 ## Kolp 2006
 ### Article
+- **PosResult**: Across the 5 sequential KEP method iterations, abstinence rates rose progressively (25%->35%->50%->60%->~70%), and the concluding discussion states Kolp 'was finally able to clinically replicate Krupitsky et al.'s (1992) Russian findings...in effectively treating alcoholism,' with both illustrative case studies also reporting sustained abstinence at 6- and 12-month follow-up, so the study's own stated outcome is positive despite the acknowledged lack of a control group.
 - **IsObservational**: Retrospective, informally reconstructed report of clinical practice (private-practice patients treated 1996-1999, original records lost); explicitly no randomization, no control group, no blinding within this article's own data ('pilot data that is informally gathered with no use of control groups or blinds'). This is a naturalistic case-series/clinical-observation report, not an RCT, so coded Y. The article does reference a separate prior controlled trial by Krupitsky (1992) as a historical benchmark, but that is not this article's own study design.
 - **N**: No single formally 'analyzed' N is given. Abstract states KEP was administered to 'more than 70 clients'; Table 1 lists approximate patients treated per method (20+15+10+10+15=70), consistent with the abstract. Used 70, but this is explicitly an approximate, retrospectively reconstructed count, not a precise enrolled/analyzed figure (original clinical files were lost, per footnote 2).
 - **AE_denominator**: No systematic AE/safety assessment was conducted across the ~70-patient cohort. The only concretely described ketamine-session experiential content is in the two detailed case studies (P.A. and J.C.), so the denominator for the one identified AE type is coded as 2 rather than 70.
@@ -420,6 +446,7 @@
 
 ## Langner 1965
 ### Article
+- **PosResult**: Outcome directionality is mixed across the heterogeneous case series: the author reports clearly positive individual outcomes (e.g., the depressive patient who 'put me on my feet,' the manic-depressive alcoholic with 'improved relating...more stable performance' at 3-year follow-up, the teen schizophrenic 'successfully married and functioning' at 5-year follow-up) but also states LSD 'has no value' and 'may, in fact, be dangerous' in paranoid schizophrenics and was 'not dramatically effected' in schizo-affective depressives, with the author himself concluding only that 'further validation...is needed' rather than affirming a uniform positive result.
 - **Condition**: The study population is described as heterogeneous psychiatric patients ('most diagnostic labels but preponderantly schizophrenia and severe personality disorders'), not an alcohol/smoking/opioid-use-disorder-focused cohort. Only one incidental case (a 'manic-depressive alcoholic') involves alcohol use. Coded '.' as genuinely indeterminate/inapplicable rather than forcing an Alcohol label onto a general psychiatric case series.
 - **N**: No single cumulative sample size is given for the full ~6-year experience the article title claims. Part One (1954-57) reports 'sixty patients' over '600 episodes'; Part Two reports 'over 2,000 LSD sessions' during the following three years with no corresponding patient count; Part Three (1965 retrospective) discusses individual cases without a cohort total. Using only the Part One N=60 would understate the scope actually described, so coded '.' rather than fabricating or partial-reporting a total.
 - **AE_denominator**: AEs/safety observations are narrated across the full multi-period clinical experience (not confined to the N=60 Part One cohort), but no numeric population-at-risk is ever given for AE assessment, so coded 'Not numbered' rather than '.' since the safety concept clearly applies and is discussed throughout.
@@ -434,6 +461,7 @@
 
 ## Lawn 2017
 ### Article
+- **PosResult**: Indeterminate: ayahuasca users' own AUDIT (problematic-alcohol) scores were lower than the classic-psychedelic comparison group but higher than the non-drug-using 'other respondents' group, and the cross-sectional between-group design (no pre/post or true control) leads the authors themselves to caution this may reflect reverse causation (people with alcohol problems being drawn to ayahuasca) rather than a genuine reduction, so directionality of a true 'positive result' cannot be determined with confidence.
 - **IsObservational**: Cross-sectional, self-selecting online drug-use survey (Global Drug Survey 2016); no randomization or research-administered intervention protocol — participants are naturalistic drug users reporting on their own prior use. Clear observational/naturalistic design.
 - **Condition**: Article is not an AUD-treatment study; it is a general drug-use survey that reports past-year problematic alcohol use (AUDIT scores) as a primary outcome for ayahuasca users vs. comparison groups. Coded 'Alcohol' as the closest fit among the three allowed enum values given this alcohol-outcome focus; flagged because the study population is not alcohol-use-disorder patients.
 - **Substance**: Ayahuasca is the substance of primary interest; LSD and magic mushrooms ('classic psychedelics') appear only as comparison/reference groups, not as a co-administered intervention, so excluded from this field.
@@ -452,6 +480,7 @@
 
 ## Malcolm 2018
 ### Article
+- **PosResult**: Primary outcome (COWS) and both secondary outcomes (SOWS, BSCS) showed statistically significant pre- to post-ibogaine reductions (all p<0.01), and the authors conclude ibogaine 'appears to facilitate opioid detoxification by reducing opioid withdrawal and craving,' indicating a positive result on the study's own outcomes.
 - **IsObservational**: Retrospective chart review of participants admitted to a single residential ibogaine treatment center; no randomization or comparator arm. Authors themselves describe it in the Discussion as 'an open-label and retrospective design that lacked a control group.' Clearly observational, not RCT.
 - **N**: The article reports two denominators: 50 participants analyzed for COWS (the primary outcome) and 40 for the demographic/ASI analysis (10 excluded for missing baseline ASI). N=50 was used as the final analyzed sample tied to the primary outcome (COWS); PctFemale and PctBIPOC are drawn from the n=40 demographic subset (Table 2), which is narrower than N.
 - **AE_denominator**: Coded '.' per the schema exception: SafetyReported='N' here (no AE/safety data collected or reported for this cohort), and AE_denominator never takes 'NA' even under SafetyReported='N'.
@@ -462,6 +491,7 @@
 
 ## Noller 2018
 ### Article
+- **PosResult**: Coded 'Y' because the study's own primary outcome (ASI-Lite Drug composite) showed a significant reduction from baseline to 12 months (0.32 to 0.06, p=0.004), with sustained reduction or cessation of opioid use reported in 12 of 14 participants and the authors' conclusion stating ibogaine 'achieved opioid cessation or sustained reduced use in dependent individuals as measured over 12 months.'
 - **Corpus/Prefix**: No explicit corpus label in-text; set to match Condition ('Opioid') since the article is about opioid dependence treatment.
 - **N**: N=14 is the final analyzed/'completed treatment' cohort per the CONSORT-style flow diagram (Fig. 1) and all outcome tables (ASI-Lite, BDI-II, SOWS baseline N=14). This excludes the participant who died, who per the Results section ('A third patient of Provider 1 died during treatment before they were formally enrolled') was not part of the 15 formally enrolled or the 14 who completed treatment, despite the abstract's looser phrasing ('One patient enrolled in the study died during treatment'). Both statements describe the same single death; I did not treat this as a numeric inconsistency requiring exclusion, since the underlying narrative (20 interested -> 16 signed consent -> 1 died pre-enrollment -> 15 enrolled -> 1 disqualified post-treatment -> 14 completed/analyzed) reconciles consistently across the Methods, Results, and Provider-breakdown paragraphs.
 - **AE_denominator**: No formal safety-assessment population was defined; the article states 'Evaluation of safety was beyond the scope of this non-interventional study.' The one fatality occurred in a patient who was being treated by Provider 1 but had not yet been formally enrolled in the study cohort (N=14 or N=15), so no single denominator unambiguously covers both the fatality and the N=14 sample. Coded '.' rather than guessing a denominator.
@@ -473,6 +503,7 @@
 
 ## Noorani 2018
 ### Article
+- **PosResult**: Y — the study's own results show 9/12 (60%) biologically confirmed abstinent at long-term follow-up (~30 months), and participants consistently attributed smoking cessation to psilocybin-occasioned insights, reduced withdrawal, and persisting positive changes, per the article's own primary-outcome framing.
 - **IsObservational**: This is a retrospective qualitative interview follow-up of participants from an earlier open-label, single-arm psilocybin pilot trial (Johnson et al. 2014) — no randomization, no control/comparator arm, and the intervention itself (already delivered years prior) is not being tested here; this article only collects retrospective narrative accounts. Coded Y (observational/naturalistic follow-up of a single-arm cohort), consistent with the corpus convention that open-label single-arm designs reading like case series/naturalistic cohorts are observational, but flagged since the underlying original treatment protocol was a research-administered intervention.
 - **N**: Table 1 explicitly states 'N = 12' for the analyzed qualitative sample (participants who completed the retrospective interview). The original pilot trial enrolled/treated 15; 3 declined interview and are not part of this article's analyzed sample, so N=12 (the interviewed/analyzed subset) was used rather than 15.
 - **ArmScope**: Single-arm, uncontrolled design (all 12 participants received the same psilocybin-facilitated protocol); no comparator group exists to pool against, so ArmScope = psychedelic_arm per the instruction to use this code for single-arm cohorts/case series.
@@ -487,6 +518,7 @@
 
 ## O'Shaughnessy 2021
 ### Article
+- **PosResult**: The study's own pre/post repeated-measures results showed statistically significant, clinically positive within-treatment improvement across all measured domains (craving, stress, psychiatric symptoms, mental/physical health, spiritual well-being, neuropsychological functioning), maintained over time, so the intervention's own outcome data are unambiguously positive.
 - **IsObservational**: Explicitly stated: 'The study was observational, with repeated measures applied throughout treatment' and authors used the STROBE cohort checklist. No randomization; patients admitted via Takiwasi's usual clinical admission protocol, not an experimental arm assignment.
 - **Condition**: Coded '.' — the intervention (Takiwasi) treats general 'addiction'/poly-substance use, not alcohol use disorder specifically. Prior-30-day drug use was polysubstance (alcohol 83%, cannabis 71%, cocaine 51%, poly-drug use 66%); alcohol was the single most common substance but the study population and intervention target were not alcohol-specific.
 - **Substance**: Ayahuasca (DMT-containing decoction) is the named psychedelic administered weekly. The treatment protocol also includes other unnamed 'medicinal plants' (daily) and dietary/plant regimens as part of traditional Amazonian medicine, but these are not identified as specific psychedelic substances, so only Ayahuasca is listed.
@@ -498,6 +530,7 @@
 
 ## Perkins 2022
 ### Article
+- **PosResult**: The study's own primary result (bivariate and multivariate logistic regressions in Results, reiterated in Discussion/Conclusion) found number of times ayahuasca consumed, and drinking with an ayahuasca church, strongly and consistently associated with higher odds of never/rarely drinking alcohol, never/rarely risky drinking, and no recent other-drug use, for respondents with and without prior AUD/DUD - a lower/reduced-use association with ayahuasca use, i.e. a positive result per this survey's own primary outcome direction.
 - **IsObservational**: International online cross-sectional survey (Global Ayahuasca Project, April 2017-May 2019) of self-selected respondents reporting on naturalistic, real-world ayahuasca use; no randomization or research-administered dosing protocol, so this is observational.
 - **N**: Total survey enrollment was n=10,836, but the article states only participants who answered at least one alcohol/drug item were included in this analysis (n=8629, per abstract and Methods). Used 8629 as the final analyzed N per the field definition.
 - **PctFemale**: Abstract reports '53% male' for the full analyzed sample (n=8629); no separate overall %female figure is given, so PctFemale=47 was derived as the complement (100-53). Table 1 gives sex % separately by ayahuasca-church vs non-church subgroup (47.0% and 47.3% female respectively), consistent with this figure, but no single combined-sample percentage is printed verbatim.
@@ -517,6 +550,7 @@
 
 ## Pisano 2017
 ### Article
+- **PosResult**: The study's own primary outcome, adapted here to the direction of association since this is a cross-sectional survey with no treatment arm, showed psychedelic use history was associated with a significant 27% reduced risk of past-year opioid dependence (weighted RR=0.73, p=0.002) and 40% reduced risk of past-year opioid abuse (weighted RR=0.60, p=0.006), a protective association the authors state is consistent with their hypothesis and conclusion.
 - **IsObservational**: Secondary, cross-sectional analysis of pooled NSDUH survey years 2008-2013 (no randomization, no intervention protocol) — the article itself calls its own design 'cross-sectional' as a limitation. Clearly observational.
 - **N**: N=44,678 is the analyzed subpopulation of adult lifetime illicit opioid users (recreational pain killer or heroin use) drawn from 228,556 total NSDUH adult respondents; this is the final analytic sample used in all reported tables/models (Tables 1-3), not the full survey N.
 - **ArmScope**: This is a population survey comparing psychedelic-experienced (18,517, 44.7% weighted) vs psychedelic-naive (55.3% weighted) respondents within the same illicit-opioid-using cohort (N=44,678). All reported N, demographic, and outcome figures span both exposed and non-exposed respondents together (e.g., Table 1 reports demographics separately for 'Yes'/'No' psychedelic-use-history columns within one N), so this is pooled rather than a psychedelic-only arm.
@@ -530,6 +564,7 @@
 
 ## Rydzynski 1978
 ### Article
+- **PosResult**: Study's own conclusion reports a satisfactory therapeutic effect (reduced/abstinent drinking) in 18 of 31 patients (58%), with 10 becoming total abstainers and 10 more reporting at least a short abstinent period with social improvement, meeting the Y threshold against the study's own outcome.
 - **IsObservational**: Retrospective/naturalistic follow-up of a clinical cohort: 31 men received a 'psycholytic cure' (LSD-25 then psilocybine) as ongoing clinical treatment since 1963, with outcomes assessed via case-record and inquiry analysis at an average 6-year follow-up. No randomization, no control/comparator arm, no experimental protocol described — coded as observational (case series with follow-up), not an RCT.
 - **N**: N=31 is the treated/analyzed cohort explicitly stated ('Thirty-one men... were the subjects'). The text later reports '18 patients (58%)' with satisfactory effect and 'the remaining 13 patients' — this is internally consistent (18+13=31, and 18/31=58.1%~58%), referring to the 13 patients without a satisfactory response, not a subtraction from the 18; no arithmetic inconsistency to flag.
 - **PctFemale**: Article states all 31 subjects were men ('Thirty-one men, age 23-62'); no female participants reported, so PctFemale=0 by direct statement rather than omission.
@@ -544,6 +579,7 @@
 
 ## Sarett 1966
 ### Article
+- **PosResult**: All 15 LSD-group wives reported their husbands had changed for the better, with the majority rating them 'much' or 'somewhat' better overall and, though diminished by six months, still markedly more improved than the comparison-group husbands, so the study's own wife-reported outcome is positive.
 - **IsObservational**: Methods section states the LSD and comparison groups were assembled by asking successive weeks' admissions to volunteer ('while not randomly selected'), not by randomization, and the treatment itself was the unit's ongoing clinical program rather than a research-only interventional protocol. This specific paper (the wives' study) is additionally a retrospective, single-timepoint interview/survey of informants six months post-treatment, not a controlled trial of the wives. Both features support an observational/naturalistic classification.
 - **N**: This paper's actual analyzed sample is the LSD-group wives who were interviewed (15), representing 15 LSD-treated husbands, out of an original LSD-treated cohort of 28 (18 married/living with wife/locatable, of whom 15 wives consented). N=15 reflects the analyzed psychedelic-arm sample for this paper, not the original 28-patient treatment cohort. The comparison-group wives (n=11) exist but were excluded per ArmScope.
 - **ArmScope**: The article reports parallel data for an LSD group and a non-LSD comparison group (standard six-week program, no psychedelic exposure). Per instructions, only psychedelic-exposed data was extracted; comparison-group N, demographics, and outcomes were not carried into data.article/ae_events.
@@ -560,6 +596,7 @@
 
 ## Schenberg 2014
 ### Article
+- **PosResult**: Authors report 61% overall abstinence, a statistically significant (p<0.001) increase in abstinence duration after ibogaine vs. before, and conclude in both the abstract and discussion that ibogaine "can be a safe and effective treatment" for stimulant/non-opiate drug dependence, meeting the study's own definition of a positive result.
 - **IsObservational**: Retrospective chart/interview review of a private clinic's real-world ibogaine treatment as delivered in usual (non-research) practice; no randomization, no comparator arm, no research-only interventional protocol -- observational cohort/case-series design.
 - **Condition**: Study population is poly-substance dependent (64% lifetime alcohol, 81% cannabis, 83% cocaine, 68% crack; 72% poly-drug users) with the paper's own framing as a stimulant/non-opioid dependence study (only 1 of 75 patients had opioid history, tobacco used by 15% but not a treatment target). Does not cleanly map to Alcohol, Smoking, or Opioid, so coded '.' per the indeterminate-case instruction.
 - **N**: 75 patients had data gathered and are the basis for the core sample-level results (drug-use history, sessions, adverse reactions); some downstream sub-analyses (e.g., abstinence-duration comparisons) use smaller subsamples (n=66, n=41, etc.) due to incomplete follow-up data, but N=75 is the overall analyzed cohort.
@@ -581,6 +618,7 @@
 
 ## Thomas 2013
 ### Article
+- **PosResult**: Study's own primary outcome (4WSUS problematic substance use) declined for alcohol, tobacco and cocaine with statistically significant reduction in cocaine use, psychosocial measures (mindfulness, empowerment, hopefulness, quality of life) improved significantly, and all interviewed participants reported a positive impact on their lives, so authors' own pre/post comparison and stated conclusions indicate a positive result.
 - **IsObservational**: Naturalistic, single-arm 'preliminary observational study' of community retreats delivered as real-world addiction treatment (not a randomized/controlled research protocol); no randomization, no comparator arm, described explicitly as observational throughout.
 - **Condition**: Study targets broad 'problematic substance use' in a First Nations community, tracking alcohol, tobacco, cannabis, cocaine, and opioids together (Table 3/4); no single substance among Alcohol/Smoking/Opioid is the exclusive target, though authors note alcohol and cocaine were identified by participants as substances of primary concern. Coded '.' as genuinely indeterminate among the three enum options.
 - **N**: 18 originally recruited; 2 chose not to attend the retreats; 16 attended; of those, 1 left after night 1 (before any ayahuasca ceremony, which occurred on nights 2 and 3) and 3 more had missing follow-up data; 12 participants had complete data and are the basis for all reported psychosocial/statistical results, so N=12 is used as the final analyzed sample.
@@ -597,6 +635,7 @@
 
 ## Wong 2014
 ### Article
+- **PosResult**: The study's own primary outcome (change in BZD requirements pre/post ketamine) showed a reduction at both 12 and 24 hours, and the authors' stated conclusion is that 'ketamine appears to reduce BZD requirements'; despite this not reaching statistical significance (P=0.110, 0.330), the definition does not require significance for observational designs, so PosResult = Y based on the authors' own positive-direction conclusion.
 - **IsObservational**: Retrospective cohort study: patients identified via pharmacy charges for ketamine infusions and a manual chart review (EHR); ketamine was administered per physician discretion as real-world clinical care for AWS ('not part of our institution's protocol'), not per randomized or fixed experimental protocol. No control/comparator arm, no randomization -> observational.
 - **ArmScope**: Single-arm retrospective cohort; all 23 patients received ketamine (the entire study population is psychedelic/dissociative-exposed) with no non-exposed comparator group reported, so ArmScope = psychedelic_arm rather than pooled.
 - **PctFemale**: Article reports only 'Male, n (%): 14 (60.9%)' of N=23; female % derived as 100 - 60.9 = 39.1 (9/23), not stated directly by authors.

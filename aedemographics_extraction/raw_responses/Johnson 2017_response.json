@@ -11,7 +11,7 @@
       "IsObservational": "Y",
       "N": 358,
       "AE_denominator": 358,
-      "ArmScope": "psychedelic_arm",
+      "ArmScope": "psychedelic_arm", "PosResult": "Y",
       "PctFemale": 14.5,
       "GenderCategory": "male/female (306 male, 85.5%; 52 female, 14.5%; no non-binary/other category reported)",
       "PctBIPOC": 14.2,
@@ -68,6 +68,7 @@
   },
   "rationale": {
     "article": {
+      "PosResult": "The study's own primary outcome (smoking cessation/reduction) was positive: 38.3% reported complete cessation and 27.9% reported persisting reduction (66.2% combined) after the reference psychedelic experience, and the Discussion concludes psychedelics 'may hold considerable potential in the treatment of tobacco... addiction,' judged against the study's own results/conclusion rather than a comparator arm.",
       "IsObservational": "Retrospective cross-sectional anonymous online survey of naturalistic (non-laboratory) psychedelic use; no randomization or researcher-administered intervention protocol -- clearly observational.",
       "N": "1273 individuals completed the survey (enrolled), but 915 were excluded (163 non-serotonergic drug, 329 inconsistent responses, 423 <12 months since experience); N=358 is the final analyzed sample per Table 1/2/3 and is used here.",
       "Substance": "Multiple 5-HT2AR agonists were eligible/reported: Table 3 'Drug associated with smoking cessation/reduction' lists Psilocybin, LSD, DMT, Ayahuasca, and an 'Other' category (morning glory, mescaline, peyote, San Pedro) which the Methods section names individually as inclusion-eligible substances; listed all as comma-separated per the reported taxonomy.",
