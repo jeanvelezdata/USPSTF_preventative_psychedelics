@@ -1,0 +1,75 @@
+{
+  "data": {
+    "article": {
+      "StudyID": "Thomas 2013",
+      "Citation": "Thomas G, et al. Ayahuasca-Assisted Therapy for Addiction: Results from a Preliminary Observational Study in Canada. Current Drug Abuse Reviews. 2013.",
+      "Title": "Ayahuasca-Assisted Therapy for Addiction: Results from a Preliminary Observational Study in Canada",
+      "Year": 2013,
+      "Corpus/Prefix": ".",
+      "Condition": ".",
+      "Substance": "Ayahuasca",
+      "IsObservational": "Y",
+      "N": 12,
+      "AE_denominator": "Not numbered",
+      "ArmScope": "psychedelic_arm",
+      "PctFemale": ".",
+      "GenderCategory": ".",
+      "PctBIPOC": 100,
+      "PctIndigenous": 100,
+      "SafetyReported": "Y",
+      "AnyAEReported": "Y",
+      "NumDistinctAEs": 2,
+      "NParticipantsWithAE": ".",
+      "WorstSeverity": "Mild",
+      "text_source": "born-digital",
+      "Model": "claude-sonnet-5",
+      "PromptVersion": "ae_extraction_prompt_v1",
+      "RubricVersion": "severity_rubric_v1",
+      "Temperature": 1
+    },
+    "ae_events": [
+      {
+        "AE_ID": "Thomas 2013_AE01",
+        "StudyID": "Thomas 2013",
+        "AE_type": "AE",
+        "Description": "Some participants purged (vomited) during ayahuasca ceremonies; authors describe as common, not necessarily adverse",
+        "Onset": "in-session",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "rubric",
+        "InterventionRequired": "N",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Thomas 2013_AE02",
+        "StudyID": "Thomas 2013",
+        "AE_type": "AE",
+        "Description": "Some participants reported initial difficulty incorporating the retreat experience into day-to-day life",
+        "Onset": "post-session-acute",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "Y",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "N"
+      }
+    ]
+  },
+  "rationale": {
+    "article": {
+      "IsObservational": "Naturalistic, single-arm 'preliminary observational study' of community retreats delivered as real-world addiction treatment (not a randomized/controlled research protocol); no randomization, no comparator arm, described explicitly as observational throughout.",
+      "Condition": "Study targets broad 'problematic substance use' in a First Nations community, tracking alcohol, tobacco, cannabis, cocaine, and opioids together (Table 3/4); no single substance among Alcohol/Smoking/Opioid is the exclusive target, though authors note alcohol and cocaine were identified by participants as substances of primary concern. Coded '.' as genuinely indeterminate among the three enum options.",
+      "N": "18 originally recruited; 2 chose not to attend the retreats; 16 attended; of those, 1 left after night 1 (before any ayahuasca ceremony, which occurred on nights 2 and 3) and 3 more had missing follow-up data; 12 participants had complete data and are the basis for all reported psychosocial/statistical results, so N=12 is used as the final analyzed sample.",
+      "AE_denominator": "The article states no serious adverse consequences were reported to the research team/band health office, but never frames this as an assessment over an explicit numbered safety population. Candidate denominators (18 recruited, 16 who attended, 15 who received at least one ayahuasca dose after excluding the pre-ceremony dropout, 12 fully analyzed) are all derivable but none is explicitly designated by the authors as the safety-assessed group, so coded 'Not numbered' rather than inferring a specific figure.",
+      "ArmScope": "Single-arm naturalistic cohort/case-series design with no comparator group; every reported N, AE, and demographic value comes from ayahuasca-exposed participants only.",
+      "PctBIPOC": "Article states 'Twelve participants were recruited for the first retreat...with six new participants recruited for the September retreat...all were members of the same coastal First Nations band' \u2014 i.e., all 18 recruited (and by extension the analyzed 12) were Indigenous, so coded 100.",
+      "PctIndigenous": "Same basis as PctBIPOC above; entire recruited/analyzed sample described as First Nations band members, so PctIndigenous = PctBIPOC = 100.",
+      "PctFemale": "No aggregate sex/gender breakdown of the N=12 (or N=18) sample is reported anywhere in the article. Individual genders are given only for participants quoted in the qualitative interview excerpts (a non-exhaustive subset of the 11 interviewees), which is insufficient to compute or characterize a whole-sample percentage.",
+      "NumDistinctAEs": "Two distinct AE types identified: (1) purging/vomiting during ayahuasca ceremonies, and (2) initial difficulty incorporating the retreat experience into daily life. A third candidate event \u2014 'one left following the first night due to a pre-existing health condition' \u2014 was deliberately excluded: per the retreat-day schedule (Day 1 = arrival/orientation only; first ayahuasca ceremony occurs Day 2 evening), this participant withdrew before receiving any ayahuasca, so the event is not treatment-emergent and was not coded as an ae_events row. This exclusion decision is flagged for human review given the safety-dataset's bias against understating harm.",
+      "WorstSeverity": "Both coded AEs are Mild; consistent with authors' own statement that 'there were no serious adverse health or psychological consequences reported to either the research team or the band's health office after the retreats.'"
+    },
+    "ae_events": {
+      "Thomas 2013_AE01": "Purging (vomiting) is explicitly characterized by the authors as a common, expected, non-adverse physiological response during ayahuasca ceremonies with no indication of intervention or persistence beyond the session \u2014 meets the rubric's 'expected acute drug effect' default of Mild. InterventionRequired coded N by inference (no intervention mentioned for this well-understood, routinely expected effect), not an explicit author statement.",
+      "Thomas 2013_AE02": "Reported only as 'some participants suggested...some initial difficulty' with no count, duration, functional-impairment detail, or intervention mentioned \u2014 graded Mild per the rubric's default for under-specified AEs and flagged SeverityIndeterminate=Y."
+    }
+  }
+}

@@ -1,0 +1,1 @@
+EXCLUDED from extraction dispatch — not a primary observational study with its own patient population/AE dataset (systematic review, narrative review, or non-clinical piece). User-confirmed 2026-07-21. Not extracted; intentionally absent from raw_responses and downstream articles.csv.

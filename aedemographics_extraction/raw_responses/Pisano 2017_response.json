@@ -1,0 +1,47 @@
+{
+  "data": {
+    "article": {
+      "StudyID": "Pisano 2017",
+      "Citation": "Pisano VD, et al. The association of psychedelic use and opioid use disorders among illicit users in the United States. Journal of Psychopharmacology. 2017.",
+      "Title": "The association of psychedelic use and opioid use disorders among illicit users in the United States",
+      "Year": 2017,
+      "Corpus/Prefix": ".",
+      "Condition": "Opioid",
+      "Substance": "LSD, Mescaline, Psilocybin, Peyote, San Pedro cactus, DMT, DET, Ayahuasca",
+      "IsObservational": "Y",
+      "N": 44678,
+      "AE_denominator": ".",
+      "ArmScope": "pooled",
+      "PctFemale": ".",
+      "GenderCategory": "male/female (IRSEX; reported only as subgroup breakdown by psychedelic-use history, not as a single overall population figure)",
+      "PctBIPOC": ".",
+      "PctIndigenous": ".",
+      "SafetyReported": "N",
+      "AnyAEReported": "NA",
+      "NumDistinctAEs": "NA",
+      "NParticipantsWithAE": "NA",
+      "WorstSeverity": "NA",
+      "text_source": "born-digital",
+      "Model": "claude-sonnet-5",
+      "PromptVersion": "ae_extraction_prompt_v1",
+      "RubricVersion": "severity_rubric_v1",
+      "Temperature": 1
+    },
+    "ae_events": []
+  },
+  "rationale": {
+    "article": {
+      "IsObservational": "Secondary, cross-sectional analysis of pooled NSDUH survey years 2008-2013 (no randomization, no intervention protocol) \u2014 the article itself calls its own design 'cross-sectional' as a limitation. Clearly observational.",
+      "N": "N=44,678 is the analyzed subpopulation of adult lifetime illicit opioid users (recreational pain killer or heroin use) drawn from 228,556 total NSDUH adult respondents; this is the final analytic sample used in all reported tables/models (Tables 1-3), not the full survey N.",
+      "ArmScope": "This is a population survey comparing psychedelic-experienced (18,517, 44.7% weighted) vs psychedelic-naive (55.3% weighted) respondents within the same illicit-opioid-using cohort (N=44,678). All reported N, demographic, and outcome figures span both exposed and non-exposed respondents together (e.g., Table 1 reports demographics separately for 'Yes'/'No' psychedelic-use-history columns within one N), so this is pooled rather than a psychedelic-only arm.",
+      "PctFemale": "Article reports % female only stratified by psychedelic-use-history subgroup (34.4% among psychedelic users vs 50.7% among non-users, Table 1, IRSEX) \u2014 no single overall-population % female is given, and combining the two weighted subgroup percentages into one population estimate would require an assumption not stated in the article, so coded not-reported per the 'never guess a number' instruction.",
+      "PctBIPOC": "Same issue as PctFemale: race (NEWRACE2) is reported only as separate weighted breakdowns for psychedelic users vs non-users (Table 1), not as a single overall-population race distribution, so an overall %BIPOC cannot be extracted without assuming a combination method not specified in the article.",
+      "PctIndigenous": "Same limitation as PctBIPOC \u2014 Non-Hispanic Native American % is given only per psychedelic-use subgroup (0.8% users, 0.6% non-users), not overall.",
+      "SafetyReported": "This is an NSDUH secondary epidemiological association study (psychedelic-use history vs. past-year opioid abuse/dependence risk ratios); it contains no assessment or discussion of adverse events, challenging experiences, or safety outcomes from psychedelic use \u2014 only self-reported lifetime substance-use history and DSM-IV abuse/dependence criteria. No AE/safety data exists in the text to extract.",
+      "AE_denominator": "Per schema instructions this field is never 'NA' even when SafetyReported='N'; coded '.' since no safety assessment was performed and thus no AE-assessed population exists.",
+      "Substance": "Study defines 'classic psychedelic use' (variable LIFEHAL) as lifetime use of LSD, mescaline, psilocybin, peyote, San Pedro cactus, DMT/DET, or ayahuasca; it explicitly excludes MDMA, designer tryptamines/phenethylamines, Salvia divinorum, and dissociatives (ketamine, ibogaine) from this definition.",
+      "Condition": "Study's primary outcomes are past-year opioid (prescription pain killer and heroin) abuse and dependence among illicit opioid users, per DSM-IV criteria using NSDUH ABUSEANL/HER and DEPNDANL/HER variables."
+    },
+    "ae_events": {}
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "data": {
+    "article": {
+      "StudyID": "Garcia-Romeu 2019",
+      "Citation": "Garcia-Romeu A, et al. Cessation and reduction in alcohol consumption and misuse after psychedelic use. Journal of Psychopharmacology. 2019.",
+      "Title": "Cessation and reduction in alcohol consumption and misuse after psychedelic use",
+      "Year": 2019,
+      "Corpus/Prefix": ".",
+      "Condition": "Alcohol",
+      "Substance": "Psilocybin, LSD, Ayahuasca, DMT, Other (e.g., peyote, San Pedro)",
+      "IsObservational": "Y",
+      "N": 343,
+      "AE_denominator": 343,
+      "ArmScope": "psychedelic_arm",
+      "PctFemale": 22.2,
+      "GenderCategory": "male/female (binary reporting); Female sex 76/343 (22.2%), remainder male (abstract reports 78% male)",
+      "PctBIPOC": 11.1,
+      "PctIndigenous": ".",
+      "SafetyReported": "Y",
+      "AnyAEReported": "Y",
+      "NumDistinctAEs": 3,
+      "NParticipantsWithAE": 17,
+      "WorstSeverity": "Moderate",
+      "text_source": "born-digital",
+      "Model": "claude-sonnet-5",
+      "PromptVersion": "ae_extraction_prompt_v1",
+      "RubricVersion": "severity_rubric_v1",
+      "Temperature": 1
+    },
+    "ae_events": [
+      {
+        "AE_ID": "Garcia-Romeu 2019_AE01",
+        "StudyID": "Garcia-Romeu 2019",
+        "AE_type": "AE",
+        "Description": "Persisting adverse effects post-experience (e.g., anxiety, headache), largely rated not severe/slightly severe",
+        "Onset": "unknown",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "Y",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Garcia-Romeu 2019_AE02",
+        "StudyID": "Garcia-Romeu 2019",
+        "AE_type": "AE",
+        "Description": "Panic attacks; spiritual/existential crisis (participant-described, self-rated extreme severity)",
+        "Onset": "unknown",
+        "Severity": "Moderate",
+        "SeverityIndeterminate": "Y",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Garcia-Romeu 2019_AE03",
+        "StudyID": "Garcia-Romeu 2019",
+        "AE_type": "AE",
+        "Description": "Loss of ability to think clearly and significantly altered mind, described as indescribable (self-rated extreme severity)",
+        "Onset": "unknown",
+        "Severity": "Moderate",
+        "SeverityIndeterminate": "Y",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "N"
+      }
+    ]
+  },
+  "rationale": {
+    "article": {
+      "IsObservational": "Cross-sectional, anonymous online survey of naturalistic (non-research-administered) psychedelic use with retrospective self-report; no randomization or research-run intervention protocol \u2014 clearly observational.",
+      "N": "343 is the final analyzed sample after exclusions, distinguished from the larger recruitment funnel (4095 clicked ad, 1429 met inclusion criteria and began, 512 completed the survey, 343 remained after excluding 120 for <3 months since experience, 33 for not meeting AUD symptom threshold, 16 for non-classic-psychedelic substance). All demographic and outcome tables use n=343.",
+      "AE_denominator": "Adverse effects section: 305 (no persisting AE) + 21 (unsure) + 17 (yes) = 343, matching the full analyzed N; used as the AE assessment denominator.",
+      "ArmScope": "Single-arm naturalistic online survey with no comparator/control group; entire sample is psychedelic-exposed by inclusion criteria, so scored psychedelic_arm per the instruction that single-arm surveys are not 'NA'.",
+      "PctBIPOC": "Only a 'White' race category is reported in Table 1 (305/343 = 88.9%), with no breakdown of specific non-white subgroups. PctBIPOC computed as the complement, 100 - 88.9 = 11.1. 'Hispanic' (20, 5.8%) is reported as a separate ethnicity item and was NOT summed into BIPOC, since Hispanic/Latino respondents could overlap with those coded 'White' and adding it would risk double-counting/fabricating a breakdown not given in the text.",
+      "PctIndigenous": "No Indigenous-specific race/ethnicity category is reported anywhere in the article; coded not-reported.",
+      "NumDistinctAEs": "The 'Adverse effects' section reports one aggregate category of persisting adverse effects (n=17, 5%; examples given: anxiety, headache \u2014 not individually counted per symptom) plus two individually described severe cases (quoted verbatim), for 3 distinct ae_events entries. Note: Table 4 ('Alcohol withdrawal symptoms after psychedelic experience', ~19 symptom categories with n and severity-vs-prior-quit-attempt comparisons) was deliberately EXCLUDED from ae_events. Those symptoms are explicitly framed as withdrawal from reduced/stopped alcohol use and compared against severity during prior (non-psychedelic) quit attempts \u2014 i.e., attributed to alcohol cessation itself, not to the psychedelic substance as a drug adverse effect. This is a non-obvious scoping judgment call flagged for human review; a reviewer applying a broader AE definition might want Table 4 included.",
+      "NParticipantsWithAE": "Coded as 17, the count of respondents who affirmatively reported persisting adverse effects. An additional 21 (6%) reported being 'unsure' whether they had persisting adverse effects \u2014 a third response option not captured by NParticipantsWithAE's Y/N-style count. This 'unsure' group is not added to the 17 (to avoid overstating a confirmed AE count), but is flagged here because the text states the two extreme-severity cases came from 'among these 38' (i.e., the unsure+yes pool combined, 21+17), so the exact subgroup (unsure vs. yes) each of the 2 severe cases belongs to is not fully disambiguated by the article.",
+      "WorstSeverity": "Maximum severity across the 3 ae_events = Moderate. The two individually described cases were self-labeled 'extreme severity' by the respondents themselves on the study's own severity response scale \u2014 this is a participant self-rating, not a CTCAE grade or an author/clinician-assigned SAE flag, so per the severity-source precedence rule the fixed rubric was applied rather than deferring to the label. Graded Moderate (self-reported persisting psychological distress/functional impact) rather than Severe because the text documents no FDA seriousness criterion (no hospitalization, life-threatening event, suicidality, or persistent disability described)."
+    },
+    "ae_events": {
+      "Garcia-Romeu 2019_AE01": "Graded Mild because the majority (~two-thirds) of these 17 respondents rated their persisting effects as 'not severe or slightly severe'. SeverityIndeterminate=Y because the severity of the remaining ~third is not specified, this entry aggregates two example symptom types (anxiety, headache) rather than one fully individuated AE, and no intervention/outcome detail is given. Onset coded unknown because 'persisting adverse effects beyond the period of acute drug action' does not specify hours-days vs. weeks+, and reference experiences ranged from 4 months to 10+ years before the survey.",
+      "Garcia-Romeu 2019_AE02": "Description is the participant's verbatim quoted language ('Panic attacks. Spiritual, existential crisis'). Graded Moderate per rubric despite the respondent's own 'extreme severity' label, because that label is a subjective survey self-rating, not a CTCAE grade or clinician/author SAE determination (see severity-source precedence). No FDA seriousness criterion is documented (no hospitalization, suicidality, or life-threatening event reported), so Severe was not applied. SeverityIndeterminate=Y because duration, functional impact, and whether any intervention occurred are not reported. Onset unknown for the same reasons as AE01.",
+      "Garcia-Romeu 2019_AE03": "Description condensed from the participant's verbatim quote ('loss of the ability to think clearly and a significantly altered mind that is undescribable [sic]'). Same reasoning as AE02: self-rated 'extreme severity' by the respondent but no CTCAE grade, SAE flag, or FDA-seriousness detail (hospitalization, persistent disability, etc.) provided in the text, so rubric-graded Moderate with SeverityIndeterminate=Y. Onset unknown for the same reasons as AE01."
+    }
+  }
+}

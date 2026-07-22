@@ -1,0 +1,23 @@
+Manual correction by dispatch orchestrator, 2026-07-22.
+
+Field: data.article.NParticipantsWithAE
+Subagent's original value: "Not numbered"
+Corrected to: "."
+
+Reason: The subagent correctly followed the prompt's missingness-conventions
+table, which (incorrectly, inherited from a pre-existing inconsistency in
+observational_codebook.md) listed NParticipantsWithAE among the fields where
+"Not numbered" is valid. The field's own specific type definition (both in
+the codebook §3 and the prompt's schema table) has always been integer /
+"." / "NA" only — no "Not numbered". This was a genuine spec bug, not a
+subagent error: the general summary table and the field-specific definition
+contradicted each other, and the subagent followed the (wrong) general one.
+
+The subagent's underlying reasoning ("the 3 identified AE/challenging-
+experience types cannot be reliably resolved to a unique participant
+count... no formal AE-participant tally exists in the article") is sound
+and is semantically equivalent to "." for this field.
+
+observational_codebook.md and ae_extraction_prompt_v1.md were both corrected
+to remove NParticipantsWithAE from the "Not numbered" applies-to list, so
+this should not recur in later batches.

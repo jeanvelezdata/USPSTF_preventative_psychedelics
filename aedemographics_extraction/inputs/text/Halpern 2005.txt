@@ -1,0 +1,1280 @@
+Psychological and Cognitive Effects of Long-Term
+Peyote Use Among Native Americans
+John H. Halpern, Andrea R. Sherwood, James I. Hudson, Deborah Yurgelun-Todd,
+and Harrison G. Pope Jr.
+Background: Hallucinogens are widely used, both by drug abusers and by peoples of traditional cultures who ingest these substances
+for religious or healing purposes. However, the long-term residual psychological and cognitive effects of hallucinogens remain poorly
+understood.
+Methods: We recruited three groups of Navajo Native Americans, age 18–45: 1) 61 Native American Church members who regularly
+ingested peyote, a hallucinogen-containing cactus; 2) 36 individuals with past alcohol dependence, but currently sober at least 2
+months; and 3) 79 individuals reporting minimal use of peyote, alcohol, or other substances. We administered a screening interview,
+the Rand Mental Health Inventory (RMHI), and ten standard neuropsychological tests of memory and attentional/executive functions.
+Results: Compared to Navajos with minimal substance use, the peyote group showed no significant deficits on the RMHI or any
+neuropsychological measures, whereas the former alcoholic group showed significant deficits (p  .05) on every scale of the RMHI and
+on two neuropsychological measures. Within the peyote group, total lifetime peyote use was not significantly associated with
+neuropsychological performance.
+Conclusions: We found no evidence of psychological or cognitive deficits among Native Americans using peyote regularly in a
+religious setting. It should be recognized, however, that these findings may not generalize to illicit hallucinogen users.
+Key Words: Hallucinogens, alcoholism, cognition, psychological
+testing, Native Americans, religion
+I
+llicit use of hallucinogens is widespread and increasing in the
+United States (Johnston et al 2003); between 1999-2001,
+more than 2 million Americans tried lysergic acid diethylam-
+ide (LSD) for the first time. Despite longstanding concerns about
+the possible toxicity of these compounds (Halpern and Pope
+1999; Halpern et al 2004), knowledge regarding their long-term
+psychological and cognitive effects remains limited. Studies of
+the residual cognitive effects of hallucinogens are conflicting and
+subject to substantial methodological problems (Halpern and
+Pope 1999). In particular, hallucinogen users in virtually all
+studies had also used many other illicit drugs, making it difficult
+to determine which substances contributed to observed deficits.
+Other possible confounding variables included subjects’ premor-
+bid cognitive deficits, current psychopathology, and acute or
+recent intoxication with alcohol or other drugs (Halpern and
+Pope 1999; Halpern et al 2004; Parrott 2001).
+To assess the residual effects of long-term hallucinogen use,
+one should ideally examine individuals with extensive exposure
+to hallucinogens, but minimal exposure to other drugs. To our
+knowledge, only one large population in the United States offers
+this opportunity: the 300,000 Native Americans who regularly
+(and legally) (American Indian Religious Freedom Act Amend-
+ments of 1994) ingest the peyote cactus (Lophophora williamsii),
+which contains the hallucinogen mescaline (-3,4,5-trimethoxy-
+phenethylamine), as a religious sacrament during all-night prayer
+ceremonies in the Native American Church (NAC) (Aberle 1966;
+La Barre 1989; Slotkin 1956; Stewart 1987). NAC members accept
+peyote as a God-given medicine offering spiritual and physical
+healing for the betterment of all Native peoples. NAC members
+may attend prayer ceremonies as often as two or three nights in
+a week or as infrequently as once a year, but most members
+attend on average one ceremony a month. Many NAC members
+will therefore ingest peyote hundreds or thousands of times in
+their lifetime but, in adherence to their faith, strictly abstain from
+alcohol or other drugs, except for smoking tobacco at times of
+prayer. Thus, working with these Native Americans offers a
+unique opportunity to examine the long-term effects of a hallu-
+cinogen in isolation from other confounding substances.
+Mescaline is a particularly interesting hallucinogen to study,
+since its structure is partially homologous to LSD (Nichols et al
+1977) and it has historically been used as a reference standard in
+hallucinogen research, with the psychoactive potency of other
+hallucinogens expressed in “mescaline units” (Shulgin et al 1969;
+Snyder and Merril 1967). Though mescaline has the lowest
+potency of the orally active naturally-derived hallucinogens
+(1:2500 to 1:4000 mescaline:LSD), a full dose (200 to 400 mg) has
+a long duration of action, with peak effects 2 to 4 hours after
+consumption, declining over the next 8 hours (Grinspoon and
+Bakalar 1997; Nichols 2004). The physiological and psychologi-
+cal effects of mescaline are similar to LSD: both are sympatho-
+mimetic, profoundly alter perception of self and reality, increase
+suggestibility, and intensify emotions. With both substances,
+some users experience a deeply mystical/transcendental state,
+while others (especially those ill-prepared or with strong histo-
+ries of mental illness) experience dysphoric symptoms. In com-
+parison to LSD, mescaline is described as more sensual and
+perceptual and less altering of thought and sense of self (Grin-
+spoon and Bakalar 1997). However, in one double-blind clinical
+trial, subjects were not able to distinguish mescaline from LSD
+(Hollister and Sjoberg 1964). A psychoactive dose of mescaline is
+contained in the amount of peyote typically consumed by an
+adult member in a NAC ceremony. The mechanism of action of
+mescaline, like psilocybin and LSD, is hypothesized at the
+molecular level to result from its effects as a partial agonist of
+5-HT2a receptors within the central nervous system (Nichols
+2004).
+From the Biological Psychiatry Laboratory (JHH, JIH, HGP), Alcohol and Drug
+Abuse Research Center, and the Cognitive Neuroimaging Laboratory
+(DY-T), Harvard Medical School, McLean Hospital, Belmont, Massachu-
+setts; Department of Psychology (ARS), University of New Mexico, Albu-
+querque, New Mexico.
+Address reprint requests to Dr. John Halpern, McLean Hospital, 115
+Mill Street, Belmont, MA 02478-9106; E-mail: john_halpern@hms.
+harvard.edu.
+Received January 6, 2005; revised May 11, 2005; accepted June 30, 2005.
+BIOL PSYCHIATRY 2005;58:624–631
+0006-3223/05/$30.00
+doi:10.1016/j.biopsych.2005.06.038
+© 2005 Society of Biological Psychiatry
+
+
+Peyote is also of interest because it is reputed to be an
+effective treatment for alcoholism when used in the NAC reli-
+gious context (Albaugh and Anderson 1974; Bergman 1971;
+Blum et al 1977; Calabrese 1997; Garrity 2000; Menninger 1971;
+Roy 1973). Of course these reported benefits might be primarily
+attributable to participation in the NAC religion, rather than to
+peyote itself. Notably, however, the efficacy of hallucinogens for
+treating substance dependence is also supported by anthropo-
+logical reports from other traditional societies (de Rios et al
+2002), by animal studies using the botanical hallucinogen iboga-
+ine (Glick and Maisonneuve 2000), and by human studies using
+LSD (Halpern 1996). Thus it seems possible that peyote and other
+hallucinogens might have specific pharmacological properties of
+potential value for treating substance dependence. Before further
+investigating any such possible clinical effects, however, it would
+seem important to establish whether hallucinogens produce
+adverse residual effects of their own – a possibility that has
+dampened enthusiasm for research in this area over the last few
+decades (Grob 1994).
+In light of these considerations, we approached members of
+the Navajo Nation to perform psychological and neuropsycho-
+logical evaluations of NAC members. This group represented a
+large group of potential study participants: among 255,000
+enrolled members of the Navajo tribe, about one third are NAC
+members, and almost all of these individuals live on tribal land or
+close by. We also recruited two comparison groups of Navajos –
+one reporting virtually no peyote or other substance use, and
+one reporting past alcohol dependence – since alcohol repre-
+sents a serious problem among many Native Americans (Lama-
+rine 1988; Mail and Johnson 1993; Manson et al 1992). We
+included the former alcoholic group not only because of its
+public health importance, but also to assess the sensitivity of our
+test battery.
+Methods and Materials
+With the assistance of a Navajo case finder, we recruited three
+groups of Navajos aged 18–45: 1) NAC members who had
+ingested peyote on at least 100 occasions (the peyote group); 2)
+a former alcoholic group reporting at least five years of drinking
+more than 50 12-ounce beers (or equivalent) per week, but
+currently sober at least 2 months; and 3) a comparison group
+reporting minimal use of any substance.
+We performed all evaluations off the reservation of Navajo
+Nation. After complete description of the study to the subjects,
+written informed consent (approved by the McLean Hospital
+Institutional Review Board) was obtained. At a baseline evalua-
+tion, a trained psychiatrist recorded demographic information,
+medical history, comprehensive substance use history, and life-
+time history of psychiatric disorders as determined by semi-
+structured questions. We then administered the Rand Mental
+Health Inventory (RMHI; Davies et al 1988; Veit and Ware 1983)
+and the Tan Reading Subtest of the Wide Range Achievement
+Test-3 (WRAT-3; Jastak Associates 1993). In addition, we admin-
+istered a breathalyzer (Alco-Sensor IV, Intoximeters, Inc., St.
+Louis, Missouri) to candidates for the former alcoholic group and
+interviewed a close contact of each candidate to confirm duration of
+sobriety. A formal neurological assessment was not conducted.
+We excluded participants reporting 1) a history of head injury
+or other medical condition that might affect cognitive function; 2)
+current use of psychoactive medications; 3) lifetime use of
+cocaine, stimulants, opioids, sedative-hypnotics, hallucinogens
+other than peyote, or hydrocarbon inhalants more than 10 times,
+or cannabis more than 100 times; 4) for the former alcoholic and
+comparison groups, lifetime use of peyote more than 5 times; 5)
+for the peyote and comparison groups, consumption of more
+than 5 alcohol-containing beverages per day continuously for
+one month or more at any time, or any other alcohol consump-
+tion qualifying for a diagnosis of alcohol dependence in accor-
+dance with the Diagnostic and Statistical Manual of Mental
+Disorders (DSM-IV; American Psychiatric Association 1994); 6)
+English reading skills below the third-grade level, as indicated by
+a score of less than 30 on the WRAT-3; and 7) evidence of a
+current DSM-IV Axis I disorder (American Psychiatric Association
+1994) other than simple or social phobia.
+Table 1. Demographic Features of the Peyote Group, Former Alcoholic Group, and Comparison Group
+Demographic Featurea
+Peyote Group
+(n  61)
+Former Alcoholic
+Group
+(n  36)
+Comparison Group
+(n  79)
+Peyote vs.
+Comparison Group
+Alcohol vs.
+Comparison Group
+p Valueb
+p Valueb
+Sex, Male
+15 (25)
+20 (56)
+14 (18)
+.40
+.004
+Age
+31 [23, 37]
+34 [30, 40]
+29 [23, 37]
+.94
+.003
+Ever Married
+38 (62)
+26 (72)
+47 (59)
+.86
+.22
+Education, High School or Less
+26 (46)
+26 (72)
+44 (56)
+.56
+.43
+Middle or Upper Middle Classc
+30 (50)
+7 (21)
+33 (42)
+.26
+.05
+Telephone in Home
+46 (75)
+21 (58)
+55 (70)
+.57
+.21
+Lifetime Episodes of Peyote Use
+300 [150, 500]
+0 [0, 2]
+0 [0, 2]
+.001
+.98
+Lifetime Episodes of Cannabis Use
+0 [0, 2]
+10 [1, 45]
+0 [0, 2]
+.23
+.001
+Lifetime Alcoholic Drinks
+10 [4, 175]
+48200 [33400, 88750]
+75 [5, 788]
+.067
+.001
+Years of Substance Used
+21 [15, 28]
+9.1 [6.0, 13.8]
+—
+—
+—
+WRAT-3 Score
+46 [43, 50]
+44.5 [41, 48.75]
+45 [41, 51]
+.41
+.86
+WAIS-R Vocabulary Score
+28 [20, 37]
+27 [20, 37]
+28 [22, 37]
+.58
+.59
+Days between Last Substance Use
+and Testingd
+35 [17, 92]
+247 [146, 365]
+—
+—
+—
+aShown as n (%) for proportions and median [interquartile range] for continuous variables. See text for deﬁnitions of terms.
+bDifferences between peyote group and comparison group and between former alcoholic group and comparison group completed separately by Fisher’s
+exact test for categorical variables and by Wilcoxon rank sum test for continuous variables.
+cHollingshead-Redich classes 2 or 3 (there were no participants in class 1). Note that n  60 for peyote group, 33 for former alcoholic group and 78 for
+comparison group because of missing data.
+d“Substance” refers to peyote in the case of the peyote group and alcohol in the case of the former alcoholic group.
+J.H. Halpern et al
+BIOL PSYCHIATRY 2005;58:624–631 625
+www.sobp.org/journal
+
+
+We
+specifically
+screened
+the
+80
+potential
+participants
+(Figure 1) in the peyote group for a history of hallucinogen
+persisting perception disorder (“flashbacks”) (Halpern and Pope
+2003); none reported this condition. We did not formally ask
+members of the peyote group about tolerance to peyote, as we
+are aware of no evidence that tolerance develops with the intermit-
+tent pattern of use that described most NAC members; we also did
+not hear any anecdotal descriptions of individuals requiring pro-
+gressively larger doses.
+Participants satisfying all criteria were invited to return for a
+battery of neuropsychological tests, chosen to assess particularly
+for impairment in memory and attentional/executive functions.
+The test battery was similar to the batteries administered in our
+previous studies of cannabis users (Pope et al 2001a) and MDMA
+users (Halpern et al 2004), as well as in published studies of
+alcoholism (Grant 1987). For the present study, however, we
+focused almost entirely on nonverbal measures, because we
+doubted the reliability of Western verbal tests in Navajo partici-
+pants, many of whom had grown up speaking Diné (the Navajo
+language) rather than English. This problem is illustrated by
+participants’ performance on the vocabulary subscale of the
+Wechsler Adult Intelligence Test-Revised (WAIS-R; Wechsler
+1981), where the three study groups achieved similar mean
+scores – but all fell about 1.3 standard deviations below average
+scores for normative Western populations (Table 1). By contrast,
+participants’ performance was generally comparable to Western
+norms on nonverbal tests (see Results below) – suggesting that
+these tests were less vulnerable to linguistic or cultural bias.
+Peyote group participants were asked to perform these tests at
+least seven days after their most recent peyote meeting; all others
+were tested within four weeks of the baseline evaluation. On the
+day of testing, an investigator, blinded to group status, first
+administered a breathalyzer test to ensure that participants were
+alcohol-free. She then administered a battery of neuropsycho-
+logical tests that included the 1) Vocabulary Subtest of the
+WAIS-R (as already noted above); 2) WAIS-R Digit Span Subtest;
+3) WAIS-R Digit Symbol Subtest; 4) WAIS-R Block Design
+Subtest; 5) Rey-Osterreith Complex Figure Test (ROCF; Osterri-
+eth 1944); 6) Wisconsin Card Sort Test (WCST; Heaton 1981); 7)
+Nonverbal portions of the Wechsler Memory Scale (WMS; Wech-
+sler 1945); 8) Stroop Test (Stroop 1935; MacLeod 1991); 9) Ravens
+Progressive Matrices (Burke 1985); and 10) Trail-Making Tests A
+and B from the Halstead-Reitan Battery (Trails A and B; Reitan
+and Wolfson 1993).
+Using statistical methods similar to those of our previous
+study of cannabis users (Pope et al 2001a), we compared the
+Subjects Selected as Candidates for Study on 
+Basis of Screen 
+N = 311
+  Excluded because subject did not meet 
+substance use criteria for any of the three 
+groups
+N = 69
+Candidates for 
+Comparison Group
+N = 99
+Candidates for Peyote 
+Group
+N = 80
+Candidates for Former 
+Alcoholic Group
+N = 63
+Excluded (Mother may 
+have drunk while pregnant)
+N = 2
+Excluded (Mother may 
+have drunk while pregnant) 
+N = 2
+Excluded (Actively drinking 
+or insufficient sobriety) 
+N = 6
+WRAT Score < 15
+ N = 1
+WRAT Score < 15
+N = 3
+WRAT Score < 15
+N = 4
+Neurological Disorders
+Head Injury N = 1
+Seizure Disorder N = 2
+Neurological Disorders
+Head Injury N = 1
+Neurological Disorders
+Head Injury N = 3
+Psychiatric Disorders
+OCD N = 2
+MDD N = 2
+Psychiatric Disorders
+MDD N = 3
+Bipolar Disorder N = 1
+Anxiety Disorder N = 1
+Psychiatric Disorders
+OCD N = 2
+Psychotic Disorder N = 2
+MDD N = 1
+Accepted For Study But Did 
+Not Return For Testing 
+N = 12
+Accepted For Study But Did 
+Not Return For Testing 
+N = 7
+Accepted For Study But Did 
+Not Return For Testing 
+N = 7
+Excluded (Child present at 
+test session) N = 1
+Completed Subjects
+N = 61
+Completed Subjects
+N = 79
+Completed Subjects
+N = 36
+Figure1.Flowchartshowingsubjectsscreenedand
+withdrawn
+(1999-2003).
+WRAT,
+Wide
+Range
+Achievement Test-3; OCD, obsessive compulsive
+disorder; MDD, major depressive disorder.
+626 BIOL PSYCHIATRY 2005;58:624–631
+J.H. Halpern et al
+www.sobp.org/journal
+
+
+peyote group with the comparison group, and the former
+alcoholic group with the comparison group, separately using
+multivariate linear regression, adjusting for age and sex. We also
+repeated the analyses while restricting the sample to the 152
+participants reading at least at an eighth-grade level (WRAT-3
+scores of at least 40). Finally, within the peyote group, we
+assessed the association between log-transformed lifetime epi-
+sodes of peyote use and scores on all test measures.
+Because of correlations between many test measures, it was
+difficult to calculate an appropriate correction for multiple com-
+parisons. Accordingly, the significance levels of findings are
+shown without correction. Thus some of the differences, espe-
+cially those with modest levels of significance, might represent
+chance associations. We address this issue further in the Discus-
+sion section below.
+Results
+We performed baseline interviews on 311 Navajos, of whom
+135 were excluded or failed to return for the neuropsychological
+testing visit, leaving final samples of 61 participants in the peyote
+group, 36 in the former alcoholic group, and 79 in the compar-
+ison group (Figure 1). The groups differed somewhat in age and
+gender distribution, but were similar in level of education,
+reading skills, and English vocabulary (Table 1) – although all
+groups displayed lower mean English vocabulary scores than the
+fiftieth percentile of Western populations, as discussed above.
+On the RMHI, the former alcoholic group reported signifi-
+cantly greater pathology than the comparison group on all 9 of
+the mental health scales, whereas the peyote group showed no
+significant differences from the comparison group on most scales
+and scored significantly better on 2 (Table 2).
+The neuropsychological tests yielded no significant differ-
+ences between the peyote and comparison groups on any
+measure, whereas the former alcoholic group showed poorer
+performance on the immediate condition of the ROCF and on
+total perseverations on the WCST (Table 3). On the ROCF, the
+former alcoholic group showed greater deficits when compared
+directly to the peyote group (for example, on the immediate
+condition, the estimated difference [SE] was 4.0 [1.3]; p  .002).
+The restricted sample of participants with WRAT-3 scores of at
+least 40 (comprising 56 [92%] of the participants in the peyote
+group, 32 [89%] in the former alcoholic group, and 64 [81%] in the
+comparison group) yielded little change in the estimated differ-
+ences between the peyote and comparison groups on any
+measures. The former alcoholic group, however, showed slightly
+greater deficits relative to the comparison group on virtually all of
+the measures in Tables 2 and 3. For example, on the WAIS-R
+Block Design subtest, the estimated difference between the
+alcoholic group and the comparison group widened to 4.5
+[1.9], p  .017; on the Digit-Symbol Subtest, the difference
+became 4.9 [2.6], p  .062.
+Finally, within the peyote group, no associations between
+log-transformed lifetime peyote use and any neuropsychological
+test measure approached significance (p .1 in all cases; see
+Table 4). On the RMHI measures, however, greater lifetime
+peyote use was associated with significantly better scores on five
+of the nine scales, including the composite Mental Health Index
+(see Table 5 for details).
+Discussion
+The residual psychological and cognitive effects of long-term
+hallucinogen use are poorly understood, in part because most
+previous studies have evaluated hallucinogen users who were
+also heavy users of other illicit drugs – making it difficult to
+identify any effects specific to hallucinogens themselves. These
+effects deserve further study – first, because illicit hallucinogen
+use is widespread and growing in Western cultures, and second,
+because many members of traditional cultures, including some
+300,000 Native Americans, regularly use hallucinogens as reli-
+gious sacraments.
+We administered the RMHI and a battery of nonverbal
+neuropsychological tests to 61 Navajo longstanding participating
+members of the NAC. We compared this group to 79 Navajos
+reporting minimal lifetime use of peyote or any other substance,
+Table 2. Scores on Psychological Measures in the Peyote Group, Former Alcoholic Group, and Comparison Group
+Measurea
+Peyote vs. Comparison
+Group
+Alcohol vs. Comparison
+Group
+Peyote
+Group
+(n  61)b
+Former Alcoholic
+Group
+(n  36)b
+Comparison
+Group
+(n  79)b
+Estimated Mean
+Differencec (SE)
+p Value
+Estimated Mean
+Differencec (SE)
+p Value
+Rand Mental Health Inventory
+Anxiety
+18.0 (6.4)
+24.1 (7.7)
+18.6 (6.2)
+.7 (1.2)
+.55
+6.1 (1.5)
+.001
+Depression
+7.1 (2.5)
+10 (3.6)
+7.3 (2.8)
+.3 (.5)
+.60
+2.8 (.7)
+.001
+Loss of Behavioral/Emotional
+Control
+15.7 (5)
+21.8 (7.3)
+17.2 (6)
+1.4 (1.0)
+.18
+5.2 (1.4)
+.001
+General Positive Affect
+48.2 (6.5)
+41.1 (9.6)
+44.6 (7.3)
+3.6 (1.4)
+.008
+3.6 (1.8)
+.045
+Emotional Ties
+10.4 (2.1)
+8.4 (2.6)
+10 (2.0)
+.4 (.4)
+.30
+1.4 (.5)
+.006
+Life Satisfaction
+4.8 (0.9)
+4.4 (1.2)
+4.7 (0.9)
+.05 (.2)
+.77
+.4 (.2)
+.05
+Psychological Distress
+45 (14.1)
+61.7 (19.6)
+47.8 (15.2)
+2.9 (2.8)
+.31
+15.4 (3.7)
+.001
+Psychological Well-Being
+68.1 (9.5)
+57.9 (13.5)
+63.3 (10.3)
+4.8 (1.9)
+.015
+5.3 (2.6)
+.041
+Mental Health Index
+189.0 (21.7)
+162.3 (31.4)
+181.7 (23.3)
+7.3 (4.4)
+.10
+21 (5.9)
+.001
+aHigher scores indicate more of the construct; for the overall Mental Health Index, higher scores indicate better mental health. All scores are shown as
+mean (SD) for each group.
+bBecauseofmissingresponsesonsomeofthequestions,thenumberofparticipantsusedtocomputemeanscalescoresrangesfrom56to61inthepeyote
+group, 33–35 in the former alcoholic group, and 71–79 in the comparison group.
+cDifferences represent peyote group minus comparison group and former alcoholic group minus comparison group, respectively, by linear regression
+adjusted for age and sex (see text).
+J.H. Halpern et al
+BIOL PSYCHIATRY 2005;58:624–631 627
+www.sobp.org/journal
+
+
+and 36 Navajos reporting at least 5 years of alcohol dependence,
+but currently sober at least 2 months. The peyote group showed
+no significant differences from the comparison group on most
+scales of the RMHI and scored significantly better on 2 scales. We
+also found no significant differences between the peyote group
+and comparison group on any of the neuropsychological mea-
+sures. Moreover, within the peyote group, log-transformed life-
+time episodes of peyote use showed no significant associations
+with neuropsychological measures and were associated with
+significantly better scores on several RMHI measures. These
+findings suggest that long-term use of this hallucinogenic sub-
+stance, at least when ingested as a bona fide sacrament, is not
+associated with adverse residual psychological or cognitive
+effects.
+By contrast, we found highly significant psychological deficits
+and a few significant neuropsychological deficits in the former
+alcoholic group. The latter findings (decreased visuospatial
+memory on the ROCF and increased perseverations on the
+WCST) suggest that some deficits in frontal lobe functions may
+persist long after alcohol consumption has ceased. Although
+these deficits were modest, it should be noted that the former
+alcoholic participants were young individuals, reporting a me-
+dian of 8 months of abstinence from alcohol, and screened to
+exclude cases with major neurological or psychiatric disorders or
+Table 3. Non Verbal Neuropsychological Test Scores for Peyote, Former Alcoholic, and Comparison Groups
+Peyote vs. Comparison
+Group
+Alcohol vs. Comparison
+Group
+Scorea
+Peyote
+Group
+(n  61)
+Former Alcoholic
+Group
+(n  36)
+Comparison
+Group
+(n  78)
+Estimated Mean
+Differencef (SE)
+p Value
+Estimated Mean
+Differencef (SE)
+p Value
+Auditory Continuous Performance Testb
+Inattention Errors
+.9 (1.4)
+.7 (1.5)
+.9 (1.7)
+.0 (.3)
+.95
+.2 (.4)
+.57
+Impulsivity Errors
+.6 (.9)
+.7 (1.1)
+.4 (.7)
+.2 (.1)
+.21
+.3 (.2)
+.13
+Total errors
+1.5 (1.9)
+1.4 (1.9)
+1.4 (2.1)
+.2 (.3)
+.82
+.1 (.4)
+.85
+Ray-Osterreith Complex Figure:
+Copy Condition
+33.9 (2.1)
+33.0 (2.8)
+33.6 (2.1)
+.3 (.4)
+.42
+.5 (.5)
+.21
+Immediate recall
+23.6 (6.1)
+20.1 (5.6)
+22.2 (5.9)
+1.2 (1.0)
+.22
+2.6 (1.3)
+.03
+Delayed recall
+22.9 (5.7)
+19.9 (8.0)
+21.5 (5.3)
+1.2 (.9)
+.19
+2.0 (1.2)
+.09
+Halstead-Reitan Battery:
+Trails A time, sec.
+23.9 (8.3)
+27.1 (13.7)
+23.9 (7.0)
+.5 (1.4)
+.74
+1.1 (1.8)
+.55
+Trails A errors
+.2 (.5)
+.2 (.4)
+.2 (.4)
+.0 (.1)
+1.0
+.1 (.1)
+.51
+Trails B time, sec.
+63.6 (20.6)
+71.6 (30.5)
+61.6 (16.9)
+1.1 (3.5)
+.76
+1.7 (4.5)
+.70
+Trails B errors
+.4 (1.0)
+.6 (.8)
+.5 (.7)
+.1 (.1)
+.43
+.0 (.2)
+.94
+Stroop Test:c
+Color Naming Time, sec.
+62.8 (10.4)
+61.1 (11.7)
+62.0 (10.7)
+.6 (1.9)
+.73
+1.7 (2.4)
+.50
+Color Naming, errors
+2.1 (1.5)
+1.8 (1.5)
+2.2 (1.7)
+.1 (.3)
+.78
+.3 (.3)
+.36
+Word Reading Time, sec.
+51.1 (9.8)
+48.3 (8.4)
+48.4 (8.8)
+2.6 (1.6)
+.10
+.4 (2.1)
+.83
+Word Reading, errors
+1.3 (1.3)
+1.0 (1.1)
+.9 (1.2)
+.4 (.2)
+.10
+.2 (.3)
+.55
+Color Interference Time, sec.
+115.1 (22.6)
+116.8 (23.4)
+114.7 (23.2)
+.1 (4.0)
+.99
+3.3 (5.2)
+.53
+Color Interference, errors
+4.6 (3.7)
+4.8 (3.7)
+5.0 (4.1)
+.4 (.7)
+.53
+.0 (.9)
+.97
+Wechsler Adult Intelligence Scale, Revised:
+Digit Span, forward
+6.2 (1.7)
+6.8 (1.8)
+6.4 (2.0)
+.3 (.3)
+.38
+.3 (.4)
+.54
+Digit Span, backwards
+6.1 (1.9)
+6.0 (1.5)
+6.2 (2.0)
+.1 (.3)
+.71
+.0 (.4)
+.91
+Digit Span, total
+12.3 (3.1)
+12.8 (2.6)
+12.6 (3.4)
+.4 (.5)
+.47
+.5 (.7)
+.43
+Block Design
+35.0 (8.5)
+35.5 (8.3)
+35.5 (8.1)
+1.9 (1.3)
+.16
+3.1 (1.7)
+.08
+Digit-Symbol
+63.3 (9.7)
+59.0 (13.5)
+86.1 (11.5)
+2.1 (1.6)
+.26
+3.9 (2.4)
+.10
+Ravens Progressive Matrices:
+42.4 (5.2)
+41.1 (8.0)
+42.2 (7.2)
+.3 (1.3)
+.80
+.2 (1.7)
+.91
+Wechsler Memory Scale:
+Figures, immediate
+11.3 (1.9)
+11.4 (2.1)
+11.3 (2.0)
+.1 (.3)
+.57
+.2 (.4)
+.63
+Figures, delayed
+12.2 (1.4)
+11.9 (1.7)
+11.9 (1.9)
+.3 (.3)
+.30
+.0 (.4)
+.91
+Wisconsin Card Sort Test:d
+Categories, Deck 1
+2.8 (1.4)
+2.8 (1.4)
+2.7 (1.5)
+.1 (.2)
+.75
+.1 (.3)
+.70
+Categories, Deck 2
+3.3 (1.7)
+3.1 (1.7)
+3.3 (1.8)
+.1 (.3)
+.64
+.1 (.4)
+.82
+Total categories
+6.1 (2.8)
+5.7 (2.7)
+6.0 (2.9)
+.1 (.5)
+.77
+.0 (.8)
+.96
+Perseverations, Deck 1
+2.5 (.6)
+2.4 (.5)
+2.3 (.8)
+.2 (.1)
+.17
+.2 (.2)
+.14
+Perseverations, Deck 2
+1.8 (.8)
+1.9 (.9)
+1.7 (.7)
+.1 (.1)
+.43
+.1 (.2)
+.57
+Total perseverationse
+2.8 (.6)
+2.9 (.5)
+2.7 (.8)
+.2 (.1)
+.10
+.3 (.2)
+.04
+aRepresents raw score unless otherwise stated. All scores are shown as mean (SD) for each group.
+bn  76 in the comparison group.
+cn  60 in the peyote group.
+dn  80 in the peyote group, 35 in the former alcoholic group, and 75 in the comparison group.
+eLog-transformed values because of skewed distribution.
+fDifferences represent peyote group minus comparison group, former alcoholic group minus comparison group, respectively, by linear regression
+adjusted for age and sex (see text).
+628 BIOL PSYCHIATRY 2005;58:624–631
+J.H. Halpern et al
+www.sobp.org/journal
+
+
+a history of any other substance abuse. A less rigorously selected
+group of former alcoholic individuals might have performed
+more poorly. Notably, the former alcoholic participants reported
+more cannabis consumption than the other two groups (see
+Table 1), although by design no participant exceeded 100
+lifetime episodes of cannabis use. However, cannabis use seems
+unlikely to explain the neuropsychological and psychological
+deficits in the former alcoholic group, since we have shown in a
+previous study that even individuals reporting a median of
+20,000 lifetime episodes of cannabis use displayed virtually no
+detectable neuropsychological test deficits after a 28-day wash-
+out (Pope et al 2001a).
+Several limitations of our study should be considered. First,
+selection effects likely influenced our recruitment efforts; for
+example, individuals with severe cognitive deficits might have
+been less likely to volunteer for the study. However, selection
+bias would not occur unless there were differential effects across
+groups – a less likely possibility, since all groups were recruited
+in the same manner. A related consideration is that we excluded
+a few candidates from each group on screening because of
+current psychiatric disorders (see Figure 1). However, these
+exclusions were infrequent and similar across groups, so that
+differential effects across groups were again likely minimal.
+Second, we cannot exclude the possibility of residual confound-
+ing, either due to unmeasured confounders or inadequate ad-
+justment for measured confounders. For example, participants in
+the three groups might have differed in terms of baseline
+cognitive ability prior to ever ingesting peyote or alcohol. Third,
+participants’ histories were obtained by self-report without ex-
+ternal validation, except as indicated above. However, partici-
+pants were screened without knowledge of the “right” answers
+needed for acceptance into the study, thus reducing the chances
+of false responses. These three limitations are inherent to all
+naturalistic studies of the long-term effects of substance use; we
+have discussed these methodological issues in detail in previous
+publications (Pope et al 2001b, Pope 2002).
+Fourth, as noted earlier, it is difficult to calculate an appro-
+priate correction for multiple comparisons in the present study,
+because many of the measures – such as, for example, the
+subscales of the RMHI, or scores on various cognitive tests of
+memory – were very closely correlated with one another.
+Therefore, a simple Bonferroni correction, dividing the alpha
+level by the total number of comparisons, would tend to
+over-correct, possibly causing many type II errors (failing to
+reject the null hypothesis when in fact a genuine difference
+exists). Given these considerations, we have presented the
+findings without correction for multiple comparisons; readers
+should therefore recognize that some findings of modest signif-
+icance (e.g., p values between .01 and .05) may represent chance
+associations. However, we would note in passing that all signif-
+icant differences between the former alcoholic group and the
+comparison group were in the same direction, arguing that the
+findings cannot easily be ascribed to chance.
+Fifth, the cross-sectional study design limits our ability to
+draw causal inferences. For example, the superior psychological
+functioning of the peyote group and inferior psychological
+functioning of the former alcoholic group are probably not
+exclusively due to pharmacological effects of peyote or alcohol
+Table 5. Association Between Log-Transformed Lifetime Peyote Use and
+Rand Mental Health Inventory Scores
+Estimated Mean
+Differenceb (SE)
+p Value
+Rand Mental Health Inventory:a
+Anxiety
+2.5 (.9)
+.005
+Depression
+.8 (.3)
+.017
+Loss of Behavioral/Emotional
+Control
+1.9 (.7)
+.010
+General Positive Affect
+1.0 (1.0)
+.32
+Emotional Ties
+.1 (.3)
+.67
+Life Satisfaction
+.07 (.1)
+.59
+Psychological Distress
+5.7 (1.9)
+.005
+Psychological Well-Being
+1.4 (1.4)
+.31
+Mental Health Index
+7.1 (3.1)
+.024
+aHigher scores indicate more of the construct; for the overall Mental
+Health Index, higher scores indicate better mental health. Because of miss-
+ing responses on some of the questions, the number of participants used to
+compute mean scale scores ranges from 58 to 61.
+bRepresents estimated change in score for every increase of 1 in log
+(episodes of peyote use) (SE), by linear regression, adjusted for age and sex.
+Table 4. Association Between Log-Transformed Lifetime Peyote Use and
+Neuropsychological Test Scores
+Estimated Mean
+Differencec (SE)
+p Value
+Auditory Continuous Performance Test:
+Inattention Errors
+.1 (.2)
+.80
+Impulsivity Errors
+.1 (.1)
+.27
+Total errors
+.1 (.3)
+.75
+Rey-Osterreith Complex Figure:
+Copy Condition
+.2 (.3)
+.44
+Immediate recall
+.5 (.8)
+.53
+Delayed recall
+.1 (.8)
+.87
+Halstead-Reitan Battery:
+Trails A time, sec.
+.9 (.9)
+.31
+Trails A errors
+.0 (.1)
+.74
+Trails B time, sec.
+.8 (3.0)
+.79
+Trails B errors
+.0 (.1)
+.94
+Stroop Test:a
+Color Naming Time, sec.
+1.4 (1.8)
+.38
+Color Naming, errors
+.1 (.2)
+.59
+Word Reading Time, sec.
+2.2 (1.4)
+.12
+Word Reading, errors
+.1 (.2)
+.57
+Color Interference Time, sec.
+3.5 (3.3)
+.30
+Color Interference, errors
+.0 (.5)
+.93
+Wechsler Adult Intelligence Scale, Revised:
+Digit Span, forward
+.0 (.2)
+.92
+Digit Span, backwards
+.1 (.3)
+.54
+Digit Span, total
+.2 (.4)
+.73
+Block Design
+.2 (1.2)
+.85
+Digit-Symbol
+2.2 (1.3)
+.08
+Ravens Progressive Matrices:
+.3 (1.2)
+.82
+Wechsler Memory Scale:
+Figures, immediate
+.2 (.3)
+.40
+Figures, delayed
+.1 (.2)
+.47
+Wisconsin Card Sort Test:a
+Categories, Deck 1
+.0 (.2)
+.98
+Categories, Deck 2
+.3 (.3)
+.31
+Total categories
+.3 (.4)
+.54
+Perseverations, Deck 1
+.1 (.1)
+.27
+Perseverations, Deck 2
+.0 (.1)
+.66
+Total perseverationsb
+.1 (.1)
+.22
+an  60 participants.
+bLog-transformed values because of skewed distribution.
+cRepresents estimated change in score for every increase of 1 in log
+(episodes of peyote use) (SE), by linear regression, adjusted for age and sex.
+n  61 participants unless otherwise stated.
+J.H. Halpern et al
+BIOL PSYCHIATRY 2005;58:624–631 629
+www.sobp.org/journal
+
+
+themselves, but also due to sociocultural or psychological fac-
+tors.
+Sixth, it is possible that our test battery was not sensitive
+enough to detect residual deficits from peyote use. Arguing
+against this possibility is that our tests readily detected signif-
+icant psychological and cognitive deficits in the former alco-
+holic group, despite the lower statistical power of compari-
+sons involving this smaller group. Thus, although we cannot
+exclude a type II error with the peyote group, it seems
+unlikely that we would have missed a psychological or
+cognitive deficit of major clinical significance. Of course, more
+complicated tasks, not performed in this study, might yet
+reveal differences in functioning not detected by the instru-
+ments that we used.
+Our findings have public health importance for several
+reasons. Most important, for the Native Americans who use
+peyote as a religious sacrament, it appears that this practice
+does not cause residual psychological or neuropsychological
+deficits detectable in the battery of tests that we administered.
+These observations also offer reassurance regarding the more
+than 10,000 NAC members who serve in the United States
+Armed Services; we find no evidence that a history of peyote
+use would compromise the psychological or cognitive abilities
+of these individuals.
+It is not clear whether our findings with peyote would
+apply to other types of hallucinogens. Although mescaline
+resembles other hallucinogens in certain respects, it may differ
+in other respects; for example, it does not appear to produce
+“flashbacks” (hallucinogen persisting perceptual disorder) in
+the manner of LSD. Therefore, we cannot exclude the possi-
+bility that long-term use of chemically different hallucinogens
+(such as LSD or psilocybin) might produce adverse residual
+effects, even if peyote does not. In any event, further studies
+of the residual effects of these substances—especially in
+populations with minimal exposure to other types of drugs—
+are warranted.
+We wish to acknowledge the enormous contributions made
+by study case-finder Eugene Beyale (in memoriam), by team
+research assistants Michael Bauer, Casandra Clark, Geoffrey
+Cohane, and Doreen Montag, and by the Honorable Victor J.
+Clyde. To the members, delegates, and officers of the Native
+American Church of North America and the people of Navajo
+Nation, we extend our deepest gratitude and appreciation for
+your advice and assistance in community outreach and
+encouraging cultural sensitivity and respect.
+This research was funded by grants from the National
+Institute on Drug Abuse (K23-DA00494 and DA10346); Har-
+vard Medical School (the Ethel Dupont-Warren Fellowship
+and the Peter Livingston Fellowship); the Heffter Research
+Institute; and the Multidisciplinary Association for Psyche-
+delic Studies.
+Aberle DF (1966): The Peyote Religion Among the Navaho, 1st ed. Chicago, IL:
+Aldine Publishing Company.
+Albaugh BJ, Anderson PO (1974): Peyote in the treatment of alcoholism
+among Native Americans. Am J Psychiatry 131:1247–1250.
+American Indian Religious Freedom Act Amendments of 1994 (1994): 108
+Statute 3124 Public Law 103-344. 42 USC.
+AmericanPsychiatricAssociation(1994):DiagnosticandStatisticalManualof
+Mental Disorders, 4th ed. Washington, DC: American Psychiatric Press.
+Bergman RL (1971): Navajo peyote use: Its apparent safety. Am J Psychiatry
+128:695–699.
+Blum K, Futterman SL, Pascarosa P (1977): Peyote, a potential ethnopharma-
+cologic agent for alcoholism and other drug dependencies: Possible
+biochemical rationale. Clin Toxicol 11:459–472.
+Burke HR (1985): Raven’s Progressive Matrices: More on norms, reliability,
+and validity. J Clin Psychol 41:231–235.
+CalabreseJD(1997):SpiritualhealingandhumandevelopmentintheNative
+American Church: Toward a cultural psychiatry of peyote. Psychoanal
+Rev 84:237–255.
+Davies AR, Sherbourne CD, Peterson JR, Ware JE (1988): Scoring Manual:
+Adult Health Status and Patient Satisfaction Measures Used in RAND’s
+Health Insurance Experiment. Santa Monica, CA: RAND Corporation.
+de Rios MD, Grob CS, Baker JR (2002): Hallucinogens and redemption. J Psy-
+choactive Drugs 34:239–248.
+Garrity JF (2000): Jesus, peyote, and the holy people: Alcohol abuse and the
+ethos of power in Navajo healing. Med Anthropol Q 14:521–542.
+Glick SD, Maisonneuve IM (2000): Development of novel medications for
+drug addiction. The legacy of an African shrub. Ann N Y Acad Sci 909:
+88–103.
+Grant I (1987): Alcohol and the brain: Neuropsychological correlates. J Con-
+sult Clin Psychol 55:310–324.
+Grinspoon L, Bakalar JB (1997): Psychedelic Drugs Reconsidered. New York:
+The Lindesmith Center.
+Grob CS (1994): Psychiatric research with hallucinogens: What have we
+learned? Yearbook for Ethnomedicine and the Study of Consciousness
+3:91–112.
+Halpern JH (1996): The use of hallucinogens in the treatment of addiction.
+Addict Res 4:177–189.
+Halpern JH, Pope HG (1999): Do hallucinogens cause residual neuropsycho-
+logical toxicity? Drug Alcohol Depend 53:247–256.
+Halpern JH, Pope HG (2003): Hallucinogen persisting perception disorder:
+What
+do
+we
+know
+after
+50
+years?
+Drug
+Alcohol
+Depend
+69:109–119.
+Halpern JH, Pope HG, Sherwood AR, Barry S, Hudson JI, Yurgelun-Todd D
+(2004): Residual neuropsychological effects of illicit 3,4-methyl-
+enedioxymethamphetamine (MDMA) in individuals with minimal expo-
+sure to other drugs. Drug Alcohol Depend 75:135–147.
+Heaton R (1981): Wisconsin Card Sorting Test Manual. Odessa, FL: Psycholog-
+ical Assessment Resources.
+Hollister LE, Sjoberg BM (1964): Clinical syndromes and biochemical alter-
+ations following mescaline, lysergic acid diethylamide, psilocybin, and a
+combination of the three psychomimetic drugs. Compr Psychiatry 20:
+170–178.
+Jastak Associates (1993): Wide Range Achievement Test, Revision 3. Division
+of Wide Range, 15 Ashley Place, Suite 1A, Wilmington, DE 19804-1314.
+Johnston LD, O’Malley PM, Bachman JG (2003): Monitoring the Future na-
+tional results on adolescent drug use: Overview of key ﬁndings, 2002. Be-
+thesda, MD: National Institute on Drug Abuse.
+La Barre W (1989): The Peyote Cult, 5th ed. Tulsa: University of Oklahoma
+Press.
+Lamarine RJ (1988): Alcohol abuse among Native Americans. J Community
+Health 13:143–155.
+MacLeod C (1991): Half a century of research on the Stroop effect: An
+integrative review. Psychol Bull 109:163–203.
+Mail PD, Johnson S (1993): Boozing, snifﬁng, and toking: An overview of the
+past, present, and future of substance use by American Indians. Am
+Indian Alsk Native Ment Health Res 5:1–33.
+Manson S, Shore J, Baron A, Ackerson L, Neligh G (1992): Alcohol abuse and
+dependence among American Indians. In: Helzer JE, Canino GJ, editors.
+Alcoholism in North America, Europe, and Asia. New York: Oxford Univer-
+sity Press, pp 119–130.
+Menninger K (1971): Discussion of Bergman RL (1971): Navajo peyote use: Its
+apparent safety (Am J Psychiatry 128:695-699). Am J Psychiatry 128:699.
+Nichols DE (2004): Hallucinogens. Pharmacol Ther 101:131–181.
+Nichols DE, Pﬁster WR, Yim GKW, Cosgrove RJ (1977): A new view of the struc-
+tural relationship between LSD and mescaline. Brain Res Bull 2:169–171.
+Osterrieth P (1944): Le test de copie d’une ﬁgure complexe. Archives de
+Psychologie 30:206–356.
+Parrott AC (2001): Human psychopharmacology of Ecstasy (MDMA): A re-
+view of 15 years of empirical research. Hum Psychopharmacol 16:
+557–577.
+Pope HG (2002): Cannabis, cognition, and residual confounding. JAMA 287:
+1172–1174.
+630 BIOL PSYCHIATRY 2005;58:624–631
+J.H. Halpern et al
+www.sobp.org/journal
+
+
+Pope HG, Gruber AJ, Hudson JI, Huestis MA, Yurgelun-Todd D (2001a):
+Neuropsychological performance in long-term cannabis users. Arch Gen
+Psychiatry 58:909–915.
+PopeHG,GruberAJ,Yurgelun-ToddD(2001b):Residualneuropsychological
+effects of cannabis. Curr Psychiatry Rep 3:507–512.
+Reitan R, Wolfson D (1993): The Halstead-Reitan Neuropsychological Test Bat-
+tery: Theory and Clinical Interpretation, 2nd ed. Tuson, AZ: Neuropsychol-
+ogy Press.
+Roy C (1973): Indian peyotists and alcohol (letter to the editor). Am J Psychi-
+atry 130:329–330.
+Shulgin AT, Sargent T, Naranjo C (1969): Structure–activity relationships of
+one-ring psychotomimetics. Nature 221:537–541.
+SlotkinJS(1956):ThePeyoteReligion:AStudyinIndian-WhiteRelations,1sted.
+Glencoe, IL: The Free Press.
+Snyder SH, Merril CR (1967): A quantum-chemical correlate of hallucinogen-
+esis. In: Himwich HE, Kety SS, Smythies JR, editors. Amines and Schizo-
+phrenia. Oxford: Pergamon Press, pp 229–245.
+Stewart O (1987): Peyote Religion: A History, 1st ed. Tulsa: University of Okla-
+homa Press.
+Stroop J (1935): Studies of interference in serial verbal reactions. J Exp Psy-
+chol 18:643–662.
+Veit CT, Ware JE (1983): The structure of psychological distress and
+well-being in general populations. J Consult Clin Psychol 51:730–
+742.
+Wechsler D (1945): A standardized memory scale for clinical use. J Clin
+Psychol 19:87–95.
+Wechsler D (1981): Wechsler Adult Intelligence Scale-Revised Manual. Cleve-
+land, OH: Psychological Corp.
+J.H. Halpern et al
+BIOL PSYCHIATRY 2005;58:624–631 631
+www.sobp.org/journal

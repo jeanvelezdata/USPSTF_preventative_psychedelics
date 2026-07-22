@@ -1,0 +1,1872 @@
+Send Orders of Reprints at reprints@benthamscience.net 
+30 
+Current Drug Abuse Reviews, 2013, 6, 30-42 
+ 
+ 
+ 
+Ayahuasca-Assisted Therapy for Addiction: Results from a Preliminary 
+Observational Study in Canada 
+Gerald Thomas*,1, Philippe Lucas1, N. Rielle Capler2, Kenneth W. Tupper3 and Gina Martin1 
+1Centre for Addictions Research of British Columbia, University of Victoria, Canada 
+2Interdisciplinary Graduate Studies Program, University of British Columbia, Canada 
+3School of Population and Public Health, University of British Columbia, Canada 
+Abstract: Introduction: This paper reports results from a preliminary observational study of ayahuasca-assisted treatment 
+for problematic substance use and stress delivered in a rural First Nations community in British Columbia, Canada. 
+Methods: The “Working with Addiction and Stress” retreats combined four days of group counselling with two expert-led 
+ayahuasca ceremonies. This study collected pre-treatment and six months follow-up data from 12 participants on several 
+psychological and behavioral factors related to problematic substance use, and qualitative data assessing the personal 
+experiences of the participants six months after the retreat. 
+Findings: Statistically significant (p < 0.05) improvements were demonstrated for scales assessing hopefulness, 
+empowerment, mindfulness, and quality of life meaning and outlook subscales. Self-reported alcohol, tobacco and cocaine 
+use declined, although cannabis and opiate use did not; reported reductions in problematic cocaine use were statistically 
+significant. All study participants reported positive and lasting changes from participating in the retreats. 
+Conclusions: This form of ayahuasca-assisted therapy appears to be associated with statistically significant improvements 
+in several factors related to problematic substance use among a rural aboriginal population. These findings suggest 
+participants may have experienced positive psychological and behavioral changes in response to this therapeutic approach, 
+and that more rigorous research of ayahuasca-assisted therapy for problematic substance use is warranted. 
+Keywords: addiction, ayahuasca, cocaine, substance dependence, substance use, harm reduction. 
+BACKGROUND 
+ 
+Ayahuasca is a psychotropic brew prepared from the 
+Amazonian vine Banisteriopsis caapi and leaves of the bush 
+Psychotria viridis. These plants contain, respectively, 
+harmala alkaloids and dimethyltryptamine (DMT), which 
+when ingested in combination orally induce several hours of 
+a dream-like altered state of consciousness characterized by 
+intense visual, auditory, ideational and emotional effects [1, 
+2]. The presumed biochemical mechanism of action for 
+ayahuasca brews includes presence of beta-carboline 
+monoamine oxidase inhibitors (harmala alkaloids) coupled 
+with dimethyltryptamine, a compound that acts on specific 
+serotonin receptors, particularly 5-HT2A receptors [3, 4]. 
+ 
+Ayahuasca has traditionally been drunk in ritual contexts 
+by Amazonian indigenous and mestizo peoples for a variety 
+of divinatory, magical, spiritual, aesthetic and other cultural 
+purposes, including as a diagnostic aid and herbal remedy in 
+folk healing practices [5]. In the late 20th and early 21st 
+centuries, ayahuasca drinking became a transnational 
+phenomenon through increased tourism to the Amazon, 
+ceremonies regularly conducted by itinerant ayahuasqueros  
+(i.e., individuals trained to administer ayahuasca within an 
+Amazonian folk healing ritual context) in the global North, 
+ 
+ 
+*Address correspondence to this author at the Centre for Addictions 
+Research of British Columbia, Canada; Tel: 250-494-8188;  
+Fax: 250-494-8255; E-mail: gthomas@okanaganresearch.com 
+and a few Brazilian ayahuasca religions establishing active 
+spiritual communities in countries around the world [6, 7]. 
+The transnational expansion of ayahuasca has been 
+accompanied by growing scientific interest in the brew’s 
+potential therapeutic or salutogenic value. Preliminary 
+research has shown ayahuasca has promise for alleviating 
+some mental disorders and for providing other long-term 
+health and social benefits among regular drinkers of the brew 
+in ritualized and religious community contexts [4, 8-11]. 
+ 
+Importantly, the ritual use of ayahuasca does not 
+typically produce health or psychosocial problems such as 
+addiction [12-14]. Rather, ceremonial ayahuasca drinking 
+has been correlated with lower amounts or severities of 
+substance dependence. For example, Grob et al. [9] found 
+that among a randomly selected group of União do Vegetal 
+(or UDV, a Brazilian ayahuasca church) members, a 
+majority reported a prior history of moderate to severe 
+problems with alcohol or other drugs, but all had stopped 
+using substances other than ayahuasca (including tobacco) 
+after joining the church and attributed their improved health 
+behaviors to ayahuasca drinking. The UDV subjects also 
+reported less excitability and impulsivity, and more 
+confidence and optimism compared with matched-control 
+community members who did not use ayahuasca [9]. 
+Fábregas et al. [13] examined addiction severity among 56 
+people belonging to two different Brazilian ayahuasca 
+churches (UDV and Santo Daime), and found higher lifetime 
+illicit drug use but lower past-month use of alcohol and no  
+ 
+1874-4745/13 $58.00+.00 
+© 2013 Bentham Science Publishers 
+
+
+Ayahuasca-Assisted Therapy for Addiction 
+Current Drug Abuse Reviews, 2013, Vol. 6, No. 1     31 
+use of psychoactive drugs other than ayahuasca and cannabis 
+in the last 30 days, compared with matched controls from the 
+community. In interviews with 32 members of a U.S.-based 
+chapter of the Santo Daime church, Halpern et al. [10] found 
+that, of 24 who reported past substance abuse or dependence, 
+all but two were in sustained remission and all five with 
+prior alcohol dependence attributed their recovery to 
+participation in the church’s rituals. However, all these 
+studies involve subjects who are regular and committed 
+members of religious communities, so it remains unclear 
+whether fewer reported substance use problems can be 
+attributed to the ayahuasca drinking rather than being a 
+church member. 
+ 
+The use of ayahuasca as a remedy to help overcome drug 
+addictions is a fundamental aspect of treatment programs at 
+Takiwasi, a therapeutic community based in Tarapoto, Peru 
+[15]. The Takiwasi approach incorporates various aspects of 
+traditional Amazonian folk medicine (including the use of 
+various medicinal jungle plants, in addition to ayahuasca), 
+communitarian residence and psychotherapy. Similarly, in 
+the 
+state 
+of 
+Amazonas, 
+Brazil, 
+the 
+Instituto 
+de 
+Etnopsicología Amazónica Aplicada (or IDEAA) runs a 
+treatment program that combines the ritual use of ayahuasca 
+with complementary psycho-social rehabilitation methods 
+[16]. Although these programs claim improved health 
+outcomes for patients who complete them, neither has been 
+evaluated with sufficient scientific rigor to provide definitive 
+evidence of the success of their approaches. Nevertheless, 
+evidence from members of Brazilian ayahuasca churches, as 
+well as claims of treatment success from Takiwasi and 
+IDEAA, has led researchers to speculate on possible 
+neurochemical, psychological or transcendent mechanisms 
+of ayahuasca’s purported therapeutic action [3, 4, 17, 18]. 
+ 
+In Canada, First Nations and Aboriginal peoples have 
+been disproportionately affected by illnesses and social 
+problems that are the legacies of colonialism and consequent 
+territorial and cultural dislocation [19], including substance 
+dependence 
+(although 
+considerable 
+variation 
+in 
+epidemiology of addiction exists across this heterogeneous 
+sub-population) [20]. However, current approaches to 
+treating addictions—especially to alcohol and cocaine—
+continue to be of limited success [21], despite decades of 
+research. Dr. Gabor Maté, a Canadian physician specialized 
+in addictions medicine and experienced in working with 
+Aboriginal people [22], became interested in the potential 
+value of ayahuasca as an adjunct to group therapy in 2009. 
+He began conducting occasional multi-day “Working with 
+Addiction 
+and 
+Stress” 
+retreats 
+in 
+partnership 
+with 
+ayahuasqueros from Peru and British Columbia (the retreat 
+team), reporting positive outcomes for participants from the 
+general Canadian population with a variety of psychological 
+health conditions and illness severities. The retreat team 
+refined the structure, pacing and other elements of their 
+approach over the course of several retreats conducted with 
+mostly non-aboriginal Canadian participants in 2009 and 
+2010. This allowed the retreat team to establish procedures 
+for enhancing interpersonal rapport and creating a coherent 
+therapeutic context prior to the sessions conducted with the 
+First Nations participants observed in this study. 
+ 
+ 
+ 
+The retreat team’s work with ayahuasca came to the 
+attention of a rural aboriginal First Nations band in 
+southwestern British Columbia, which invited the team to 
+conduct retreats for community members with substance 
+dependence or other habitual behavioral problems, such as 
+problem gambling. The band’s health office was interested 
+in exploring whether a traditional indigenous practice from 
+South America might help address some of the past trauma 
+and consequent health issues that its community members 
+were experiencing and that Western medical and legal 
+approaches have not been reliably effective at curtailing. 
+ 
+Following the decision to provide this treatment to 
+members of the community, the band’s health office offered 
+the authors of this article (the research team) an opportunity 
+to conduct an observational study of the retreats in order to 
+more systematically document and assess the effects of the 
+treatment. Funding for the study was secured through 
+philanthropic donations to the Multidisciplinary Association 
+of Psychedelic Studies (MAPS) and through an anonymous 
+donor. In February 2011, members of the research and retreat 
+teams met with the band Council and band Elders to discuss 
+the retreats and obtained their consent for the study. At the 
+request of the band leadership, the band’s health office 
+agreed to closely monitor participants for any adverse 
+psychological or other reactions following the retreats. 
+Subsequently, two retreats were conducted, one in June 2011 
+and the other in September 2011. 
+PURPOSE 
+ 
+The objective of this research was to assess the impact 
+that this form of ayahuasca-assisted group therapy may have 
+on several measures of mental and behavioral health related 
+to addiction. The primary outcomes of interest relate to the 
+ability of participants to consciously and consistently make 
+choices that promote long-term psychological, emotional, 
+and physical well-being rather than acting compulsively on 
+immediate urges based on conscious or unconscious 
+emotional needs and/or unhealthy psychological patterning 
+(i.e., addiction) [22]. We posited that this novel form of 
+therapy could enhance the ability of participants to make 
+conscious healthy choices and resist unhealthy urges by 
+eliciting improvements in several attributes related to 
+problematic substance use [21]. 
+ 
+Specifically, we collected data to assess the following 
+propositions: 
+• 
+that participation in the ayahuasca ceremonies in the 
+context of the “Working with Addiction and Stress” 
+retreats would be associated with improvements in 
+mindfulness, 
+emotional 
+regulation, 
+personal 
+empowerment, hopefulness and quality of life in 
+study participants; and, 
+• 
+that participation in the retreats would be associated 
+with reductions in problematic substance use. 
+• 
+Semi-structured interviews conducted six months 
+after the retreats provided additional qualitative data 
+from participants’ reflections on the outcomes of their 
+experiences. 
+ 
+
+
+32     Current Drug Abuse Reviews, 2013, Vol. 6, No. 1 
+Thomas et al. 
+METHODS 
+Observational Study Procedures 
+ 
+Ethics review and approval was provided by the 
+Institutional Review Board Services (IRBS), an independent 
+research ethics review board. The band’s health office 
+notified the community of the retreats and recruited 
+potentially eligible participants. Twelve participants were 
+recruited for the first retreat in June 2011 with six new 
+participants recruited for the September retreat; all were 
+members of the same coastal First Nations band and most 
+were residents of the community. Approximately two weeks 
+prior to each retreat, a member of the research team 
+contacted registered participants and asked if they would be 
+willing to participate in the research study. After expressing 
+interest, all potential participants were informally screened 
+for inclusion criteria (voluntary attendance and the ability to 
+communicate in English), and exclusion criteria (under age 
+18; have drunk ayahuasca in the past; taking selective 
+serotonin reuptake inhibitor or monoamine oxidase inhibitor 
+medications; currently experiencing psychosis or have 
+experienced a psychotic break in the recent past). The latter 
+two exclusion criteria pertained not to the research 
+methodology per se, but to safety precautions relating to 
+potential 
+medical 
+contraindications 
+from 
+the 
+pharmacokinetics of ayahuasca, and so had already been 
+initially screened by the retreat team. 
+ 
+Those who met the criteria for participation (n = 18) were 
+invited to attend a group orientation session at the band’s 
+health office several hours before the start of the retreat. At 
+the group orientation, inclusion/exclusion criteria were 
+formally verified, written consent (after further explaining 
+purpose, procedures and potential risks/benefits of the 
+research) was obtained, and initial self-administered surveys 
+were conducted to collect baseline data on a number of 
+psychological and behavioral factors related to problematic 
+substance use. The particular psychometric instruments used 
+in this study—the Difficulty in Emotion Regulation Scale 
+(DERS), the Philadelphia Mindfulness Scale (PHLMS), the 
+Empowerment Scale (ES), the Hope Scale (HS), the McGill 
+Quality of Life survey (MQL), and the 4 Week Substance 
+Use Scale (4WSUS)—all measure aspects of psychological 
+health that relate in some way to problematic substance use; 
+more explicit rationales for their inclusion are discussed in 
+detail below. 
+ 
+Immediately following the end of the retreats, the State of 
+Consciousness Questionnaire (SOCQ) was administered to 
+participants to assess the nature and intensity of their 
+ayahuasca experiences. Two weeks after the completion of 
+the retreat, the six baseline instruments were re-administered 
+(for the first follow-up at two weeks, the 4WSUS was 
+modified to assess substance use during the previous 14 
+days). Participants were subsequently contacted again four 
+weeks following the retreats, and monthly thereafter for five 
+months, for further data collection using the same six 
+measures. Additionally, at the urging of several study 
+participants, the research team added a short semi-structured 
+interview, subsequent to amended ethics approval, as part of 
+the final follow-up session to collect qualitative data about 
+participant experiences and impressions during and after the 
+retreats (Table 1). 
+ 
+A total of seven post-retreat follow-up assessments were 
+conducted, most in person in a group setting at the band’s 
+health office. In cases where the participant was not living in 
+the community or otherwise unable to attend the in-person 
+follow-up session, follow-ups were conducted by telephone, 
+and occasionally the instruments were completed by the 
+participant on their own time and returned to the research 
+team. A $20 gift certificate to a grocery store was offered to 
+every participant for each follow-up session, and meals were 
+provided at in-person sessions. 
+Observational Study Instruments and Rationales for 
+their Use 
+ 
+Difficulty in Emotion Regulation Scale (DERS) is a 
+validated 36-item questionnaire designed to assess the 
+degree to which subjects are able to engage in goal directed 
+behavior and refrain from impulsive behavior when 
+confronted with negative emotion and that has acceptable 
+test/retest reliability; therefore, it is suitable for use in 
+evaluations of substance dependence treatment [23]. 
+ 
+Rationale: Desires to regulate both positive and negative 
+emotional states have long been recognized as important 
+motivating factors for substance use [24]. More recently, 
+research has illuminated details about the process of 
+emotional regulation and in particular the role of emotional 
+dysregulation in various forms of psychopathology, 
+including substance dependence [25, 26]. In recent decades, 
+evidence-based approaches that focus on improving emotion 
+regulation have emerged as forms of treatment for substance 
+dependence. For example, Dialectic Behavior Therapy 
+(DBT) is a treatment modality that has been shown to reduce 
+problematic substance use in some clients by teaching them 
+basic skills related to the healthy regulation of emotions [27]. 
+Also in recent years, scholars have documented that reduced 
+emotional intelligence, a concept developed to assess various 
+aspects of emotional functioning, is associated with more 
+intensive tobacco smoking, alcohol consumption and illicit 
+drug use [28]. As is the case with most of the factors 
+assessed in this study, healthy emotion regulation is viewed 
+as a protective factor while emotion dysregulation (e.g., 
+chronic and automatic self-distraction when experiencing 
+negative emotions such as fear) is considered a risk factor for 
+problematic substance use. 
+ 
+Philadelphia Mindfulness Scale (PHLMS) is a 20-item 
+validated instrument that assesses the two components of 
+mindfulness posited to have salutary effects on substance 
+dependence (awareness of the present moment and 
+acceptance) and that has been used with various clinical and 
+non-clinical subjects [29]. 
+ 
+Rationale: Long-term substance use has been shown to 
+negatively affect certain psychological and behavioral 
+factors required for healthy functioning, including: attention 
+and inhibitory control, the salience of and response to reward 
+stimuli, and the ability to maintain perspective in response to 
+strong emotional states [30]. Mindfulness training, with its 
+focus on assisting substance users to be fully aware of the 
+present moment and to cultivate acceptance of their 
+emotions, can address the affective deficiencies sometimes 
+associated with problematic substance use. A review of 51 
+published studies showed that mindfulness practice can 
+
+
+Ayahuasca-Assisted Therapy for Addiction 
+Current Drug Abuse Reviews, 2013, Vol. 6, No. 1     33 
+influence the brain, the autonomic nervous system, stress 
+hormones, the immune system, and health behaviors 
+including problematic substance use [31]. A more recent 
+review of five controlled studies found that mindfulness 
+training improved outcomes for substance dependent clients 
+over control conditions by allowing them to: 1) accept 
+unusual physical sensations that might be confused with 
+withdrawal symptoms, 2) decentre from a strong urge and 
+not act impulsively, 3) reduce the susceptibility to act in 
+response to a drug cue, 4) maintain perspective in response 
+to strong emotional states and decrease dysfunctional 
+avoidance, and 5) increase the saliency of natural reinforcers 
+[32]. Several empirically validated forms of treatment for 
+substance dependence and mood disorders are based on or 
+incorporate mindfulness training, including: mindfulness-
+based relapse prevention [33], mindfulness-based stress 
+reduction [34], Acceptance and Commitment Therapy (ACT) 
+[35], Dialectical Behaviour Therapy (DBT) [36], and 
+Cognitive Behavioral Therapy (CBT) [37]. Further, since 
+aspects of the group counselling provided by the retreat team 
+during the workshops are specifically directed at enhancing 
+present-moment awareness and acceptance of participants, 
+this measure was included to assess the mindfulness of 
+participants before and after the intervention to assess 
+improvement and see if it was correlated with reductions in 
+substance use. 
+ 
+Empowerment Scale (ES) is a 28-item questionnaire 
+assessing psychological and social empowerment over five 
+dimensions: self-efficacy/self-esteem, power/powerlessness, 
+affecting change, optimism/control over future, righteous 
+anger, and group/community action. The scale was 
+constructed through a process involving consumers of 
+mental health services and demonstrates acceptable internal 
+consistency [38]. Several of the scale’s sub-factors (i.e., self-
+efficacy/self-esteem, 
+power/powerlessness, 
+community 
+activism, and optimism-control over the future) have been 
+shown to be associated with patterns of problematic 
+substance use. 
+ 
+Rationale: Psychological and social empowerment have 
+been identified as effective components of prevention and 
+health promotion interventions due to their ability to: 1) 
+increase a sense of personal control, and 2) enhance beliefs 
+in the ability of people to act to change their own lives [39]. 
+The issue of empowerment appears to be particularly 
+important for those who have experienced trauma [40]. 
+Following this logic, elements directed at enhancing 
+empowerment have been incorporated into substance use 
+prevention 
+and 
+addiction 
+treatment 
+programs 
+for 
+marginalized youth (including American Indian youths), 
+women who have experienced trauma, and marginalized 
+ethnic minorities [41-44]. We included empowerment as an 
+independent factor in this observational study of participants 
+drawn from a First Nation band, due specifically to the 
+documented inter-generational trauma that this population 
+has experienced over the last several generations and the 
+documented relationship between trauma, powerlessness and 
+problematic substance use [45]. 
+ 
+Hope Scale (HS) is a 12-item psychometric questionnaire 
+providing a behaviorally relevant measure of hopefulness by 
+assessing the presence of successful agency (goal-directed 
+determination) and pathways (planning of ways to meet 
+goals) in study participants. 
+ 
+Rationale: Although there is some debate as to whether 
+depression and substance dependence are directly causal to 
+one another or whether they simply share common 
+etiological 
+roots, 
+their 
+co-occurrence 
+is 
+widely 
+acknowledged. 
+Specifically, 
+epidemiological 
+research 
+consistently verifies that depression is relatively common 
+among substance dependent individuals, and problematic 
+substance use is relatively common among those with a 
+primary diagnosis of depression [46]. The association 
+between hopelessness and substance dependence is so 
+fundamental, in fact, that in their work to identify basic 
+personality traits associated with increased risk of substance 
+use problems, researchers from Canada and elsewhere 
+identify “hopelessness” as one of four main at-risk 
+personality traits [the others are anxiety sensitivity, sensation 
+seeking and impulsivity) [47]. At the same time, 
+hopefulness—here defined in terms of agency (goal-directed 
+determination) and pathways (planning of ways to meet 
+goals)—has been shown to be a protective factor against 
+psychological problems such as depression and behavioral 
+problems such as substance dependence, and so was 
+included in the study to assess changes in these measures 
+stemming from participation in the “Working with Addiction 
+and Stress” retreats. 
+ 
+McGill Quality of Life (MQL) survey is a 17-item 
+questionnaire that has been validated for use with clinical 
+palliative care patients assessing quality of life along four 
+Table 1. 
+Schedule of Application of Survey Instruments 
+ 
+ 
+Orientation Meeting  
+(Pre Treatment) 
+Immediately Following Last  
+Session of the Retreat 
+Week 2 
+Week 4/ Months 2-6  
+(Total of 6 Assessments) 
+Month 6 
+DERS 
+X 
+ 
+X 
+X 
+ 
+PHLMS 
+X 
+ 
+X 
+X 
+ 
+MQL 
+X 
+ 
+X 
+X 
+ 
+ES 
+X 
+ 
+X 
+X 
+ 
+HS 
+X 
+ 
+X 
+X 
+ 
+4WSUS 
+X 
+ 
+X 
+X 
+ 
+SOCQ 
+ 
+X 
+ 
+ 
+ 
+Qualitative interview 
+ 
+ 
+ 
+ 
+X 
+
+
+34     Current Drug Abuse Reviews, 2013, Vol. 6, No. 1 
+Thomas et al. 
+subscales: physical symptoms, psychological symptoms, 
+outlook on life, and meaningful existence. 
+ 
+Rationale: There is theory and some evidence that quality 
+of life and wellness can influence substance dependence 
+patterns, with higher life quality posited to be a protective 
+and rehabilitative factor and lower quality of life posited to 
+be a risk factor, especially for relapse [48, 49]. In this study, 
+quality of life is interpreted as both an independent factor 
+potentially influencing patterns of substance use, and a 
+dependent variable that we predict would increase when the 
+wholly 
+independent 
+factors 
+(emotional 
+regulation, 
+mindfulness, hopefulness and empowerment) increased. It 
+was chosen for this study because it includes existential 
+elements related to mattering (i.e., the meaning of life) as 
+well as measures of physical and psychological well-being 
+[50]. The existential aspect is important for this study given 
+the reported effects of ayahuasca on subjective perceptions 
+of the meaning and nature of existence [51]. 
+ 
+4 Week Substance Use Scale (4WSUS) is an 11-item 
+questionnaire based on the World Health Organization’s 
+Alcohol, Smoking and Substance Involvement Screening 
+Test (ASSIST) questionnaire that screens for the hazardous 
+use of various legal and illegal psychoactive substances, 
+including prescription drugs. 
+ 
+Rationale: The ASSIST questionnaire is a valid and 
+reliable screen for problematic substance use [52], which has 
+been employed in prevalence studies in several countries, 
+including Canada [53, 54]. The 4WSUS is the main 
+behavioral outcome variable for this study. We modified the 
+4WSUS slightly to assess use over the past two weeks rather 
+than the past four weeks for the first follow-up so that 
+shorter-term changes in substance use patterns could be 
+identified. Like the ASSIST, the 4WSUS measures 
+problematic substance use by assessing the levels and 
+patterns of use of various substances (i.e., alcohol, tobacco, 
+cannabis, opiates, depressants, hallucinogens, inhalants, and 
+prescription drugs) and several related elements, including 
+the frequency and intensity of cravings for use and also 
+harms resulting from the subject’s substance use. In our 
+findings, we report on substance use two ways: 1) did the 
+participant report using the substance at baseline and at six 
+months (yes/no)?; and 2) did the 4WSUS scores for each 
+participant change significantly from baseline to month six? 
+ 
+In addition to collecting data using the instruments 
+described above, immediately following completion of the 
+retreats, the States of Consciousness Questionnaire (SOCQ), 
+which assesses the nature and intensity of experiences during 
+the two ayahuasca ceremonies, was administered to all 
+participants in a group setting. Data from the SOCQ is not 
+included in this analysis, but will be reported on in future 
+papers. 
+ 
+In summary, we selected the various psychological and 
+behavioral instruments listed above based on a holistic 
+interpretation of the bio-psycho-social-spiritual model of 
+human behavior, trauma and substance dependence. Our 
+model identifies four inter-related factors that have been 
+shown to affect patterns of substance use (i.e., emotional 
+regulation, mindfulness, empowerment and hopefulness), 
+one factor that is both a potential influencer of patterns of 
+substance use and an outcome measure that explicitly 
+includes existential elements (McGill Quality of Life), and 
+the main outcome measure that assesses problematic 
+substance use (4WSUS). 
+ 
+After hearing from a number of participants that the 
+questionnaires and surveys were not capturing the totality of 
+their experience, the study team sought and was granted 
+ethics approval to add a short semi-structured interview as 
+part of the seventh follow-up session to collect qualitative 
+data about their experience of the retreat in their own words. 
+The interviews focused on three questions: 
+1. 
+Did the stress and addiction retreat have any impact 
+on your life (Y or N)? 
+2. 
+On a scale of one to ten, with one being extremely 
+negative and ten being extremely positive, how would 
+you rank the effects of the stress and addiction retreat 
+on your life? 
+3. 
+Please describe how this experience a) impacted your 
+connection to yourself, others, and nature or spirit; b) 
+affected your substance use; c) differed from past 
+drug treatments or therapies. 
+ 
+The questions about connection were asked to capture the 
+participant’s experiences that were not addressed in the 
+survey instruments we had pre-selected, but arose in 
+discussions during the retreats and follow-ups. 
+Statistical Analysis Procedures 
+ 
+Scale scores were calculated for the following measures: 
+mindfulness, 
+empowerment, 
+emotional 
+regulation, 
+hopefulness and quality of life (which included five sub-
+scales: overall quality of life [one question], physical 
+symptoms, psychological symptoms, outlook, and meaning). 
+Missing values were imputed by using the mean of the valid 
+responses when fewer than 20% of the questions were 
+missing for each scale of a participant. Imputations were 
+necessary for less than 5% of questions overall, so should 
+not substantially affect the statistical validity of the analysis. 
+ 
+The Four Week Substance Use Survey (4WSUS) was 
+used to assess problematic substance use. Scores were based 
+on three questions assessing frequency and patterns of 
+substance use, desire to use (cravings), and harm from use. 
+Due to variation in the timing of the follow ups, the time 
+frame assessed by the substance use survey also varied: at 
+baseline participants were asked about their substance use in 
+the past four weeks, in the first follow up they were asked 
+about substance use in the past two weeks, and for the rest of 
+the six post-treatment follow ups the retrospective time 
+frame was again extended to four weeks. The 4WSUS 
+scoring ranges from 0-39 (with the exception of tobacco, 
+which ranges from 0-31), with higher values indicating more 
+problematic use. As the 4WSUS questions did not all use the 
+same scale for each item, no imputations were done. 
+ 
+Since the same participants were measured in each phase 
+of the study, a one-group repeated-measures ANOVA was 
+conducted on each of the scale measures—emotional 
+regulation, mindfulness, empowerment, hope and all quality 
+of life subscales—to statistically assess any changes over 
+time. In order to retain the highest number of completed 
+cases in the analyses, the means of the second and third, the 
+
+
+Ayahuasca-Assisted Therapy for Addiction 
+Current Drug Abuse Reviews, 2013, Vol. 6, No. 1     35 
+fourth and fifth, and the sixth and seventh survey scale 
+scores were aggregated to deal with missing follow-up 
+surveys; this provided five temporal data points in total for 
+each subject and each scale. The baseline and first follow-up 
+were not aggregated, as the majority of participants 
+completed these. When using a repeated-measures design, an 
+important assumption is that of sphericity (the variances 
+between all possible pairs are equal). Sphericity was tested 
+using Mauchly’s W; if Mauchly’s W < 0.05, then we 
+concluded that significant differences exist between the 
+variance of differences, and sphericity was not met. If 
+sphericity was not met, corrections were applied to the 
+degrees of freedom using one or a set of correction methods 
+[55]. Further, if a measure showed significant differences 
+between time points, a trend analysis was conducted. Finally, 
+as four participants received the intervention twice (n=4), a 
+second repeated-measures ANOVA was conducted, which 
+included an interaction term between having done the study 
+twice and the scale scores over time. 
+ 
+Additionally, 
+the 
+semi-structured 
+interviews 
+were 
+recorded and transcribed for subsequent analysis. Answers to 
+the first two questions were quantified, and content analysis 
+was conducted on answers to the third question to identify 
+information useful for interpreting the quantitative findings. 
+THE INTERVENTION: “WORKING WITH ADDICT-
+ION AND STRESS” RETREATS 
+ 
+The retreats involved participants assembling for four 
+consecutive days and three nights in the band’s longhouse 
+(traditional community ceremonial space), which had been 
+blessed by band elders in preparation for these special 
+events. The longhouse was prepared by spreading cedar 
+boughs over the large dirt floor, similar to preparations for 
+the band’s traditional Coast Salish dance rituals [56], which 
+take place over the winter months. 
+ 
+Participants resided at the longhouse for the full length of 
+the retreat, with meals prepared on-site by a local caterer and 
+in accordance with the traditional strict dietary requirements 
+of Shipibo (Peruvian Amazonian indigenous) ayahuasca 
+ceremonies. This included restrictions on meat, sugar, 
+alcohol, salt and other strong seasonings. Members of the 
+research team were invited to be present as observers 
+throughout the retreat, including the ayahuasca ceremonies. 
+ 
+The retreats incorporated two ayahuasca ceremonies, one 
+on the second and one on the third evening, led by a Shipibo 
+master ayahuasquero and three (non-aboriginal) Canadian 
+apprentice ayahuasqueros. While not overtly religious 
+events, ayahuasca ceremonies in the Peruvian indigenous 
+tradition typically have the solemnity of a serious spiritual 
+practice [57]. The retreat team provided the ayahuasca brew, 
+which had been ritually prepared according to Shipibo 
+customs. At various intervals during the four days, the retreat 
+team led group talk therapy sessions to elicit personal 
+reflection and insights about traumatic life experiences and 
+consequent 
+emotional 
+and 
+psychological 
+responses, 
+including compulsions such as dependent substance use. 
+ 
+ 
+Day 1 of the Retreat 
+ 
+Participants arrived in the mid-afternoon and laid down 
+mattresses and bedding in a circle. After dinner, the retreat 
+team arrived and was greeted by a local First Nations spirit-
+keeper with songs of welcome, strength and courage for the 
+participants, healers and the research team. A round of 
+introductions then took place, after which the retreat team 
+explained the process that was about to take place over the 
+next few days. 
+Day 2, Morning/Afternoon 
+ 
+The retreat team arrived at about 10 a.m. After a silent 
+meditation, the retreat team led a discussion to elicit 
+reflection by participants about their addictions or 
+compulsive behaviours—loosely resembling Prochaska et 
+al.’s stages of changes and decisional balance for problem 
+behaviors 
+[58]—which 
+provided 
+an 
+opportunity 
+for 
+individuals to re-conceptualize their own addictions beyond 
+personal weaknesses or shortcomings. 
+ 
+Beyond the self-introspection that was encouraged the 
+first morning, the group setting created a sense of shared 
+empathy and understanding, and a safe space for 
+forthcoming exploration into the multi-generational trauma 
+endured by retreat participants. The afternoon continued with 
+further psychosomatic (e.g. breathing, meditation) exercises 
+and group sharing/counseling. 
+Day 2, Evening 
+ 
+After dinner and a sweat lodge ceremony, all participants 
+gathered back in the longhouse to share their intentions for 
+the ayahuasca ceremony. At approximately 9: 00 p.m. 
+participants sat or lay on their beds in the large darkened 
+room, and were individually invited to sit in front of the 
+master ayahuasquero to drink a small glass (50-100 
+millilitres) of ayahuasca, after which all light sources were 
+shut off. After about an hour of silence, the ayahuasqueros 
+began to chant icaros (traditional chants believed to assist in 
+healing), which continued for the duration of the experience 
+(4-5 hours). During the ceremony, some participants purged 
+(i.e., vomited, a common and not necessarily adverse effect 
+of ayahuasca) and each participant was invited to sit in front 
+of the ayahuasquero to receive a soplada, a chant (sung in 
+Shipibo, Quechua or Spanish) selected for that individual 
+and accompanied by blowing of perfume or mapacho 
+(Amazonian tobacco) smoke on them. At approximately  
+3:00 a.m., the ceremony ended, the retreat team left for the 
+night, while participants slept in the longhouse under the 
+supervision of the observers from the band’s health office. 
+Day 3 
+ 
+The next morning began with unstructured dialogue 
+about the previous evening’s experience among participants 
+during breakfast, followed by a more formal debrief with the 
+retreat team. The second ayahuasca ceremony took place on 
+the third night with all participants present, although  
+ 
+ 
+
+
+36     Current Drug Abuse Reviews, 2013, Vol. 6, No. 1 
+Thomas et al. 
+(over the course of the two different retreats) one of the 
+twelve participants chose not to drink ayahuasca on the 
+second night. 
+Day 4 
+ 
+There was a final debrief on the morning of the last day 
+of the retreat, and the first retreat ended with the participants 
+presenting the retreat team leaders with gifts. All participants 
+left the site of the retreat before noon, with the band’s health 
+office agreeing to monitor them for any potential adverse 
+after-effects. 
+RESULTS – PSYCHOSOCIAL AND SUBSTANCE USE 
+MEASURES 
+ 
+The results we report are from the twelve participants 
+who attended at least one retreat and had no missing data 
+when all imputations were done and when we combined the 
+second and third, fourth and fifth, and sixth and seventh. Of 
+the 18 participants originally recruited, two ultimately chose 
+not to participate in the retreats, one left following the first 
+night due to a pre-existing health condition, and three others 
+completed the retreats and some of the follow-ups but had 
+missing 
+data. 
+Additionally, 
+while 
+some 
+participants 
+suggested they had some initial difficulty in incorporating 
+the retreat experience into their day-to-day lives, there were 
+no serious adverse health or psychological consequences 
+reported to either the research team or the band’s health 
+office after the retreats. For the twelve who were retained in 
+the study, mindfulness, empowerment, hopefulness, quality of 
+life-meaning, and quality of life-outlook showed statistically 
+significant 
+improvements 
+over 
+time 
+(p<.05). 
+While 
+emotional regulation, quality of life-overall and quality of 
+life-psychological all showed improvements, these changes 
+were not statistically significant (Table 2). 
+ 
+Quality of life-meaning showed a significant linear 
+component and also a quadratic component: it increased 
+from baseline at the first follow up and then decreased before 
+increasing again consistently after the third data point (Fig. 
+1), whereas mindfulness and hope had a significant linear 
+component indicating continued increase over time (Figs. 2, 
+3). As such, we suggest that improvement in these psycho-
+social and behavioral measures immediately following the 
+retreats and over the 6 month follow-up period could be 
+interpreted as contributing to alleviation of problematic 
+substance use following ayahuasca-assisted therapy for 
+problematic substance use. 
+ 
+Figs. (1-3) show the changes in average scale scores for 
+quality of life-meaning, mindfulness, and hopefulness over 
+the study period. The reliability of the psychosocial scales at 
+baseline ranged from Cronbach’s alpha = 0.408 to 0.929, 
+with both hope and mindfulness having alphas lower than 
+0.700, which is typically used as the cut-off to determine 
+good internal validity for a psychometric measure. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. (1). Average quality of life-meaning score. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. (2). Average mindfulness score. 
+ 
+Table 3 shows the proportion of participants (among 
+those who completed the seventh follow-up) who reported 
+using each type of substance in the four weeks prior to 
+baseline and the four weeks prior to the seventh (six-month) 
+follow-up. As with the psychosocial scales, the follow-ups 
+were aggregated so that the means of follow-up two and 
+Table 2. 
+Results of Repeated-Measures ANOVA – Psychosocial Scales 
+ 
+Scale 
+F Score 
+P Value 
+n 
+Cronbach’s Alpha 
+hope 
+3.14 
+.023 
+12 
+0.456 
+empowerment 
+5.07 
+.002 
+10 
+0.702 
+mindfulness  
+2.76 
+.041 
+11 
+0.408 
+emotional regulation 
+1.96 
+.124 
+9 
+0.929 
+quality of life- overall 
+2.05 
+.105 
+11 
+n/a 
+quality of life- psy 
+2.52 
+.055 
+12 
+0.736 
+quality of life- meaning 
+4.36 
+.005 
+12 
+0.879 
+quality of life- outlook 
+4.43 
+.004 
+12 
+0.925 
+*Sphericity is assumed as Mauchly’s W is > .05 for all measures. 
+aLower scores equal greater emotional regulation. 
+
+
+Ayahuasca-Assisted Therapy for Addiction 
+Current Drug Abuse Reviews, 2013, Vol. 6, No. 1     37 
+three, four and five as well as six and seven were used. 
+These data indicate that alcohol, tobacco and cocaine were 
+used by fewer participants in the four weeks preceding the 
+seventh and final follow up than in the four weeks before 
+attending the retreat (baseline). The past-month use of 
+cannabis and opiates showed no change in use during the 
+study. One participant reported using hallucinogens during 
+the last 4 weeks of the study, resulting in an increase in the 
+proportion of users from baseline of 9.1%. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. (3). Average hope score. 
+Table 3. 
+Proportion of those who Responded that they had 
+Used a Substance at Baseline and the Last Follow-
+Up, of those who Completed the 7th Follow-Up 
+ 
+Proportion that had  
+Used at Baseline (%) 
+Proportion that had  
+Used at Last Follow-Up (%) 
+Substance 
+n = 11 
+n = 11 
+Tobacco 
+81.8 
+63.6 
+Alcohol* 
+50 
+20 
+Cannabis 
+45.5 
+45.5 
+Cocaine* 
+60 
+0 
+Amphetamine 
+0 
+0 
+Inhalants 
+0 
+0 
+Sedatives 
+18.2 
+18.2 
+Hallucinogens 
+0 
+9.1 
+Opioids 
+9.1 
+9.1 
+* n= 10; 1 participant did not answer the question at one phase. 
+ 
+ 
+Fig. (4) shows changes in the 4WSUS scores measuring 
+changes in participants’ levels and patterns of use, cravings 
+and substance-related harm for the substances used by at 
+least 40% of the participants at baseline—tobacco, alcohol, 
+cannabis and cocaine. 4WSUS scores decreased for all 
+substances except cannabis, with statistically significant 
+reductions documented for problematic cocaine use over the 
+study period. 
+RESULTS – SEMI-STRUCTURED INTERVIEWS 
+ 
+Interviews were conducted with eleven study participants 
+at the seventh data collection session to collect additional 
+qualitative information about the effects they felt the retreats 
+had on their lives. All eleven participants who completed the 
+semi-structured interviews said that the retreats had some  
+ 
+impact on their lives, and when asked to rank the experience 
+of the retreats on a scale from 1 (extremely negative) to 10 
+(extremely positive), the mean was 7.95 (n = 11), with eight 
+participants ranking it as 8 or higher, and no one ranking it 
+below 5. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. (4). Changes in 4WSUS scores for tobacco, alcohol, cannabis 
+and cocaine. 
+ 
+The following quotations are excerpts from interviews 
+with participants responding to questions about a) the impact 
+of the retreats on their relationship with themselves, others, 
+and with nature or spirit; b) how the retreats affected their 
+use of substances; and c) how the retreat experience differed 
+from other types of treatments or therapies they had 
+encountered. 
+Connection with Self 
+ 
+S1 (male, age 30): “With my last experience with the 
+ayahuasca, I really faced myself. Like, my fear, my anger. 
+Which really, I think is a big part of my addictions. Like, 
+running away from myself pretty much. And I think I 
+overcame that in the ceremonies. That was a pretty big deal 
+for me . . . I wish I was introduced to it [ayahuasca] like 
+twenty years ago. It could have saved me a lot of time and 
+trouble.” 
+ 
+S2 (female, age 41): “[The retreat] affected my life in 
+giving me another chance at life rather than being stuck in 
+my addiction and just living for my addiction. . . . I realize 
+that I deserve a better life and I love myself. And I have 
+more respect for myself. And the honesty that, just being 
+honest with myself and others, had a major impact . . . 
+[Ayahuasca] really opened my eyes. It was like I was shut 
+down [before drinking ayahuasca]. My mind and my eyes 
+were shut down to everything. After the retreat I felt like a 
+brick was lifted off of my shoulders and I was just feeling 
+free.” 
+Connection with Others 
+ 
+S3 (male, age 56): “It’s opened up where I felt I had a 
+door closed to allow and to be, to allow my close family 
+members inside me. It’s a . . . I can’t describe it right now 
+but, I see the changes in my grandkids’ response towards me, 
+and they are always like, want to be around, around me and 
+my wife so, it’s lots to tell you there. Safety I guess, from 
+our change.” 
+ 
+S5 (male, age 51): “With my relationships, I think it’s 
+coming a lot better with my family now. Because I wasn’t 
+really seeing my family. I just wanted to stick by myself, but 
+nowadays I’m spending more time with my family now.” 
+0
+2
+4
+6
+8
+10
+12
+14
+baseline
+follow-up 1
+follow-up 2/3
+follow-up 4/5
+follow-up 6/7
+4WSUS score
+Tobacco
+Alcohol
+Cannabis
+Cocaine
+
+
+38     Current Drug Abuse Reviews, 2013, Vol. 6, No. 1 
+Thomas et al. 
+Connection with Spirit and Nature 
+ 
+S6 (female, age 19): “A week or two after [the retreat] I 
+was just waking up every morning at like five, six in the 
+morning and going outside and . . . I just sat and stared at the 
+trees and the wind for like two hours, I would sit outside and 
+it was just beautiful. I’ve never noticed it that much ever in 
+my life. And after I had the ayahuasca it was just amazing, 
+the connection with nature.” 
+ 
+S7 (female, age 49): “I got my spirit back, for one. 
+Nature, like it’s saying “wake up and smell the coffee.” Like 
+it’s so beautiful outside, and where was all that all this time? 
+You know, I was just living [with] a black cloud over me. 
+And the black cloud’s been removed basically. Because life 
+is a lot nicer than it ever was. You know? I go spirit bathing 
+every morning.” 
+Substance Use 
+ 
+S2 (female, age 41): “Before the ceremony I was 
+struggling with my addiction, crack cocaine, for many years. 
+And when I went to this retreat, it more or less helped me 
+release the hurt and pain that I was carrying around and 
+trying to bury that hurt and pain with drugs and alcohol. Ever 
+since this retreat I’ve been clean and sober. So it had a major 
+impact on my life in a positive way . . . My family is back in 
+my life. My daughter is back at home. And, we are getting 
+closer and closer every day as time goes on.” 
+ 
+S3 (male, age 56): “No cravings whatsoever for the crack 
+cocaine or drinking, whatsoever. It’s pretty strong that 
+Ayahuasca as far as removing that craving, that desire, that 
+habit, or however you want to describe it, for me it’s not 
+even there.” 
+Differed from Past Treatment or Therapies 
+ 
+S1 (male, age 30): “I had no sense of spirituality before 
+really, coming clean and sober even while I was going 
+through, like AA and NA. They tell you to reach your higher 
+power or whatever. I thought that was a bunch of bull. But 
+after the retreats I’ve really opened up to spirituality big 
+time. I smudge every night before bed. I pray. I, you know, I 
+say thanks to whatever is out there, you know?” 
+ 
+S8 (male, age 55): “Other treatments [for my addiction] 
+sort of like scraped the surface as they say. This one got 
+deep, deep into myself, which I’ve never admitted to or 
+confronted I guess you could say in the other treatments. 
+And this was just a mind-bending experience, boy! [laughs]. 
+I can’t believe what I saw and who I talked to, like my mom 
+and my dad and my granddaughter who are in the next world 
+there [i.e., have passed away]. And it really, really touched 
+me deeply and I think about that every day.” 
+ 
+As these comments from participants illustrate, the semi-
+structured interviews proved useful in increasing our 
+understanding of how the “Working with Addiction and 
+Stress” retreats and the incorporation of ayahuasca 
+ceremonies affected the lives of participants in the short and 
+medium term, while also highlighting the limitations of 
+purely quantitative methods in studying the subjective 
+impacts of this kind of therapy. A more comprehensive 
+analysis and discussion of the qualitative results of this study 
+and the States of Consciousness Questionnaire will be the 
+subject of a future publication. 
+DISCUSSION 
+ 
+We found that participating in the “Working with 
+Addiction and Stress” retreats correlated with improvements 
+in several cognitive and behavioral states—including 
+enhanced 
+mindfulness, 
+personal 
+empowerment 
+and 
+hopefulness—which we hypothesized may be associated 
+with recovery from problematic substance use. Participating 
+in the retreats also correlated with improvements in quality 
+of life (meaning and outlook), and subjective feelings of 
+connection with self, others, spirit and nature. The results 
+also suggest that this form of ayahuasca-assisted group 
+therapy may be associated with reductions in substance use, 
+particularly reductions in problematic cocaine use. The 
+changes in substance use reported by participants by the end 
+of the study period—that is, that cocaine, alcohol and 
+tobacco use declined, whereas cannabis, sedative and opiate 
+use did not—may reflect the fact that in some cases the latter 
+substances were medically prescribed. Some participants 
+reported being in a methadone maintenance program (which 
+was not a criterion for exclusion from the study) and others 
+reported using medical cannabis under the recommendation 
+of a physician. Of note is the fact that cocaine and alcohol 
+were identified as the substances of primary concern by the 
+majority of participants. 
+ 
+These findings suggest that this novel form of treatment 
+may facilitate positive health changes, including reduced 
+problematic cocaine use, in a rural aboriginal population. 
+The entheogenic use of ayahuasca may have functional 
+effects similar to those of peyote, which is used ceremonially 
+by aboriginal members of the Native American Church 
+without any evident psychological or cognitive deficits [59], 
+and has historically been incorporated into addiction 
+treatment interventions for aboriginal populations [60]. Our 
+findings are also consistent with scientific evidence on the 
+utility of psychedelic substances—such as LSD, mescaline 
+and psilocybin—as therapeutic agents for treating addiction 
+and catalysts for personal transformation [61-64]. It may be 
+that ayahuasca can function to increase the personality trait 
+of openness, demonstrated experimentally to be a correlation 
+of mystical or spiritual experiences induced by psilocybin (a 
+close analog of one of ayahuasca’s psychoactive chemical 
+constituents, DMT) [65]. In light of the limited success of 
+currently available medical treatments for treating substance 
+dependence in aboriginal populations, further research 
+efforts, including randomized controlled trials, are necessary 
+to determine whether and how ayahuasca might be added to 
+available approaches for treating drug or other addictions. 
+ 
+This study of ayahuasca-assisted group therapy has a 
+number of limitations. The small-scale observational study 
+design was limited to eighteen convenience sample 
+participants who self-identified as having an interest in 
+participating in the retreats, with 2 who ultimately chose not 
+to attend the retreats, one drop-out on the second day of the 
+first retreat, and three whom the researchers lost contact with 
+during the six-month follow-up period. This limited number, 
+along with the absence of any matched controls, makes it 
+impossible to assign direct causality to the treatment or to 
+determine whether the findings may be generalizable to other 
+
+
+Ayahuasca-Assisted Therapy for Addiction 
+Current Drug Abuse Reviews, 2013, Vol. 6, No. 1     39 
+populations. Also, the study was not designed to assess the 
+relative effects of the group therapy work, other ancillary 
+potentially therapeutic elements (spirit baths, sweat lodges), 
+the pharmacological action of the ayahuasca, or the 
+psychodynamic context of the retreats combining these 
+various elements, and did not track whether participants were 
+involved in other forms of treatment during the follow-up 
+period. Further, all substance use measures were based on 
+self-report, and could not be verified by independent means, 
+such as urine or blood toxicology screens. 
+ 
+Additionally, it is possible that the intercultural bridging 
+occasioned by the ceremonies may have introduced a 
+confounding, 
+although 
+not 
+necessarily 
+undesirable, 
+salutogenic effect to the retreats. The connection between the 
+Shipibo Amazonian and North American indigenous 
+peoples, in the context of the former sharing an important 
+ceremonial healing practice, may have had positive 
+therapeutic effects on its own, independent of the ayahuasca 
+drinking. Either way, it is not possible from this study to 
+make any claims whether the observed positive effects of 
+ayahuasca-assisted therapy may be generalizable to other 
+First Nations peoples in Canada, or to other aboriginal 
+peoples elsewhere in the world. 
+ 
+Another limitation arises from the pharmacology of 
+ayahuasca, a brew made from two plants that contain a 
+number of alkaloids whose relative concentrations vary 
+according to circadian timing of harvest and preparation [66, 
+67]. As there was no scientific chemical analysis of the brew 
+drunk during the ceremonies at the retreats, and as 
+participants received varying amounts (determined by the 
+ayahuasqueros using traditional healing knowledge and 
+criteria), it is not possible to know the amounts or relative 
+concentrations of the psychoactive components ingested or 
+whether any outcomes were dose dependent. Nevertheless, 
+as the participants’ qualitative interview reports suggest, the 
+effects of the brew were characteristic of ayahuasca 
+phenomenology and therefore do not suggest any concerns 
+about its composition or potency. It must also be noted that 
+one participant opted to drink ayahuasca only once during 
+the retreat, however our analysis was unable to account for 
+any differences between outcomes for this participant versus 
+the rest who drank both nights. 
+ 
+Finally, one unforeseen limitation was that four 
+individuals who participated in the first retreat also 
+participated in the second; thus, one-third of 12 participants 
+participated in two retreats, and two-thirds only one retreat. 
+Given the small number of participants, and that the minor 
+differences in outcomes of the repeat participants and of 
+those who participated in only one retreat were not 
+significant, no conclusion can be drawn from our data on the 
+potential harms/benefits of additional treatments. Future 
+research should include more participants, potentially with 
+some doing one treatment and others doing two or more in 
+order to determine whether there are harms/benefits to repeat 
+treatments. 
+CONCLUSION 
+ 
+Our results suggest that this form of ayahuasca-assisted 
+therapy for stress and addiction was correlated with 
+statistically 
+significant 
+improvements 
+in 
+mindfulness, 
+empowerment, hopefulness and quality of life-outlook and 
+quality of life-meaning. It may also have contributed to 
+statistically significant reductions in cocaine use. The 
+findings of this research on ayahuasca-assisted treatment for 
+addictions, although preliminary, corroborate those of 
+previous studies showing salutogenic effects of ceremonial 
+ayahuasca drinking. 
+ 
+Given the potential to decrease the personal suffering and 
+social costs associated with addiction, further research on 
+ayahuasca-assisted 
+addictions 
+treatment 
+is 
+warranted. 
+Clinical trials with people who have had poor outcomes with 
+conventional psychological or pharmacological addiction 
+treatments would help determine which adjunct therapeutic 
+approaches might produce the best outcomes for particular 
+populations, and further our understanding of ayahuasca-
+assisted treatments for problematic substance use. 
+ADDENDUM – LEGAL STATUS OF AYAHUASCA IN 
+CANADA 
+ 
+At the time that the retreats described in this study were 
+conducted, Health Canada had provided a recommendation for 
+approval “in principle” to exempt certain forms of ceremonial 
+ayahuasca use from the Canadian Controlled Drugs and 
+Substances Act [68]. The investigation into ayahuasca by Health 
+Canada’s Office of Controlled Substances between 2001 and 
+2008 found the potential risks to be minimal when the brew is 
+used in traditional ceremonial contexts and participants 
+carefully screened [69]. Despite this preliminary positive signal 
+regarding the low risk potential and thus tolerability of 
+ceremonial ayahuasca use, in November 2011 Health Canada 
+reprimanded Dr. Maté and threatened him with legal action if he 
+continued his work with ayahuasca as an addictions treatment 
+[70]. In October 2012, against the 2008 recommendation of 
+department staff, the federal Health Minister Leona Aglukkaq 
+denied a request for legal exemption for ceremonial ayahuasca 
+use. The Minister decreed that the Amazonian brew was an 
+illicit preparation of controlled substances, and that tolerance for 
+its ceremonial use would not be in the public interest [71]. 
+CONFLICT OF INTEREST 
+ 
+The authors confirm that this article content has no 
+conflict of interest. 
+ACKNOWLEDGEMENTS 
+ 
+The authors would like to thank the retreat participants 
+who shared their experience with us, the First Nations band 
+that made the study possible, Dr. Gabor Maté and his retreat 
+team for allowing us to observe their work, the 
+Multidisciplinary Association for Psychedelic Studies, Dr. 
+Bronner’s Soaps, the Riverstyx Foundation and TIDES 
+Canada for providing generous financial support for the 
+research, and Scott MacDonald, Ilsa Jerome, Brian Rush and 
+the journal’s anonymous reviewers for helpful feedback on 
+earlier drafts of this paper. 
+APPENDIX 
+ 
+Table 4 shows that cocaine ASSIST scores, which 
+combine assessments of frequency of use, desire to use and 
+harm from use into a scale designed to assess severity of 
+
+
+40     Current Drug Abuse Reviews, 2013, Vol. 6, No. 1 
+Thomas et al. 
+problematic use, showed significant improvements between 
+study follow-ups, while tobacco ASSIST scores improved 
+marginally. Examining the tests of with-in subject contrasts 
+for the cocaine ASSIST scores we find a significant (p = 
+0.003) linear component of cocaine over time. 
+Table 4. 
+Results of Repeated-Measures ANOVA –ASSIST 
+Scores 
+ 
+Scale 
+F Score 
+P Value 
+n 
+Tobacco* 
+2.54 
+.057 
+10 
+Alcohol** 
+2.74 
+.091 
+10 
+Cannabis* 
+1.21 
+.958 
+9 
+Cocaine** 
+7.96 
+.003 
+11 
+*Sphericity is assumed as Mauchly’s W is > .05. 
+**Sphericity is not assumed as Mauchly’s W is < .05; Greenhouse-Geisser adjustment 
+is used to test significance; Huyh-Feldt adjustments confirms significance or non-
+significance at the .05 level. 
+ 
+ 
+Table 5 show the results of the analysis that examined the 
+between group effects. There was no significant interaction 
+between the groups and trend indicating no significant 
+difference between the changes over time between those who 
+participated in two retreats and those who participated in 
+one. Overall quality of life and outlook showed significant 
+between group effects with both these measures being lower 
+ 
+Table 5. 
+Results of Repeated-Measures MANOVA Showing 
+Significance of having Participated in One vs Two 
+Retreats – Psychosocial Scales 
+ 
+Scale 
+Interaction 
+p Value 
+Treatment 
+ p Value 
+Treatment  
+Twice  
+n 
+Treatment  
+Once 
+ n 
+hope 
+.201 
+.629 
+4 
+8 
+empowerment 
+.500 
+.072 
+4 
+6 
+mindfulness  
+.322 
+.939 
+3 
+8 
+emotional  
+regulation 
+.673 
+.769 
+3 
+6 
+Quality of 
+ life- overall 
+.218 
+.035 
+4 
+7 
+Quality of  
+life- psy 
+.311 
+.409 
+4 
+8 
+Quality of  
+life- meaning 
+.629 
+.079 
+4 
+8 
+Quality of  
+life- outlook 
+.276 
+.001 
+4 
+8 
+ 
+in those who received two treatments. If those that received 
+the treatment twice are removed from the analysis, the 
+quality of life-overall measure is not significant (F=1.63, 
+p=.199, sphericity assumed) and outlook is significant 
+(F=3.22, p=.027, sphericity assumed). Due to the small 
+number who had the treatment twice, analysis could not be 
+conducted on this group alone as the n is too small to test the 
+assumption of sphericity. 
+ 
+REFERENCES 
+[1] 
+Shanon B. The antipodes of the mind: Charting the phenomenology 
+of the ayahuasca experience. Oxford: Oxford University Press; 
+2002. 
+[2] 
+Riba J, Rodriguez-Fornells A, Urbano G, et al. Subjective effects 
+and tolerability of the South American psychoactive beverage 
+Ayahuasca in healthy volunteers. Psychopharmacology 2001; 154: 
+85-95. 
+[3] 
+Brierley DI, Davidson C. Developments in harmine pharmacology 
+– implications for ayahuasca use and drug-dependence treatment. 
+Prog Neuropsychopharmacol Biological Psychiatry 2012; 39(3): 
+263-72. 
+[4] 
+McKenna DJ. Clinical investigations of the therapeutic potential of 
+ayahuasca: Rationale and regulatory challenges. Pharmacol 
+Therapeut 2004; 102(2): 111-29. 
+[5] 
+Beyer SV. Singing to the plants: A guide to mestizo shamanism in 
+the upper Amazon. Albuquerque, NM: University of New Mexico 
+Press; 2009. 
+[6] 
+Labate BC, Jungaberle H, editors. The internationalization of 
+ayahuasca. Zürich: Lit Verlag; 2011. 
+[7] 
+Tupper KW. The globalization of ayahuasca: Harm reduction or 
+benefit maximization? Int J Drug Policy 2008; 19(4): 297-303. 
+[8] 
+Barbosa PCR, Mizumoto S, Bogenschutz MP, Strassman RJ. 
+Health status of ayahuasca users. Drug Testing Analysis 2012; 4(7-
+8): 601-9. 
+[9] 
+Grob 
+CS, 
+McKenna 
+DJ, 
+Callaway 
+JC, 
+et 
+al. 
+Human 
+psychopharmacology of hoasca, a plant hallucinogen used in ritual 
+context in Brazil. J Nervous Mental Disease 1996; 184(2): 86-94. 
+[10] 
+Halpern JH, Sherwood AR, Passie T, Blackwell KC, Ruttenber AJ. 
+Evidence of health and safety in American members of a religion 
+who use a hallucinogenic sacrament. Med Sci Monitor 2008; 14(8): 
+SR15-SR22. 
+[11] 
+Santos RG, Landeira-Fernandez J, Strassman RJ, Motta V, Cruz 
+APM. Effects of ayahuasca on psychometric measures of anxiety, 
+panic-like and hopelessness in Santo Daime members. J 
+Ethnopharmacol 2007; 112(3): 507-13. 
+[12] 
+Doering-Silveira E, Lopez E, Grob CS, et al. Ayahuasca in 
+adolescence: A neuropsychological assessment. J Psychoactive 
+Drugs 2005; 37(2): 123-8. 
+[13] 
+Fábregas JM, González D, Fondevila S, et al. Assessment of 
+addiction severity among ritual users of ayahuasca. Drug Alcohol 
+Dependence 2010; 111(3): 257-61. 
+[14] 
+Gable RS. Risk assessment of ritual use of oral dimethyltryptamine 
+(DMT) and harmala alkaloids. Addiction 2007; 102(1): 24-34. 
+[15] 
+Mabit J. Ayahuasca in the treatment of addictions. In: Winkelman 
+MJ, Roberts TB, editors. Psychedelic medicine: New evidence for 
+hallucinogenic substances as treatments. Westport, CT: Praeger 
+Publishers; 2007. p. 87-105. 
+[16] 
+Labate BC, Santos RGd, Anderson B, Mercante M, Barbosa PCR. 
+The treatment and handling of substance dependence with 
+ayahuasca: Reflections on current and future research. In: Labate 
+BC, MacRae E, editors. Ayahuasca, ritual and religion in Brazil. 
+London: Equinox Publishing; 2010. p 205-27. 
+[17] 
+Liester MB, Prickett JI. Hypotheses regarding the mechanisms of 
+ayahuasca in the treatment of addictions. J Psychoactive Drugs 
+2012; 44(3): 200-8. 
+[18] 
+Bogenschutz MP, Pommy JM. Therapeutic mechanisms of classic 
+hallucinogens in the treatment of addictions: From indirect 
+evidence to testable hypotheses. Drug Testing Analysis 2012; 4(7-
+8): 543-55. 
+[19] 
+Health Canada. A statistical profile on the health of First Nations in 
+Canada: Determinants of health, 1999 to 2003. Ottawa: Health 
+Canada, First Nations and Inuit Health Branch; 2009. 
+[20] 
+MacMillan HL, MacMillan AB, Offord DR, Dingle JL. Aboriginal 
+health. Canadian Med Assoc J 1996; 155(11): 1569-78. 
+[21] 
+Gossop M, Marsden J, Stewart D, Kidd T. The National Treatment 
+Outcome Research Study (NTORS): 4-5 year follow-up results. 
+Addiction 2003; 98(3): 291-303. 
+[22] 
+Maté G. In the realm of hungry ghosts: Close encounters with 
+addiction. Toronto: Vintage Canada; 2008. 
+[23] 
+Gratz KL, Roemer L. Multidimensional assessment of emotion 
+regulation and dysregulation: Development, factor structure, and 
+initial validation of the difficulties in emotion regulation scale. J 
+Psychopathol Behavioral Assessment 2004; 26(1): 41-54. 
+ 
+
+
+Ayahuasca-Assisted Therapy for Addiction 
+Current Drug Abuse Reviews, 2013, Vol. 6, No. 1     41 
+[24] 
+Jones BT, Corbin W, Fromme K. A review of expectancy theory 
+and alcohol consumption. Addiction 2002; 96(1): 57-72. 
+[25] 
+Werner K, Gross JJ. Emotional regulation and expectancy theory: 
+A conceptual framework. In: Kring AM, Sloan DM, editors. 
+Emotional regulation and psychopathology: A transdiagnostic 
+approach to etiology and treatment. New York: Guilford Press; 
+2010. p. 13-37. 
+[26] 
+Murphy A, Taylor E, Elliott R. The detrimental effects of 
+emotional process dysregulation on decision-making in substance 
+dependence. Frontiers Integrative Neurosci 2012; 6(101): 1-24. 
+[27] 
+Azizi A, Borjali A, Golzari M. The effectiveness of emotion 
+regulation training and cognitive therapy on the emotional and 
+addictional problems of substance abusers. Iranian J Psychiatry 
+2010; 5(2): 60-5. 
+[28] 
+Kun B, Demetrovics Z. Emotional intelligence and addictions: A 
+statistic review. Substance Use Misuse 2010; 45(7-8): 1131-60. 
+[29] 
+Cardaciotto L, Herbert JD, Forman EM, Moitra E, Farrow V. The 
+assessment of present-moment awareness and acceptance: The 
+Philadelphia Mindfulness Scale. Assessment 2008; 15(2): 204-23. 
+[30] 
+Hoppes K. The application of mindfulness-based cognitive 
+interventions in the treatment of co-occurring addictive and mood 
+disorders. CNS Spectrums 2006; 11(11): 829-51. 
+[31] 
+Greeson JM. Mindfulness research update: 2008. J Evidence-Based 
+Complimentary Alternative Med 2008; 14(1): 10-8. 
+[32] 
+Skanavi S, Laqueille X, Aubin HJ. Mindfulness based interventions 
+for addictive disorders: A review. Encephale 2011; 37(5): 379-87. 
+[33] 
+Bowen S, Chawla N, Collins SE, et al. Mindfulness-based relapse 
+prevention for substance use disorders: A pilot efficacy trial. 
+Substance Abuse 2009; 30(4): 295-305. 
+[34] 
+Miller JJ, Fletcher K, Kabat-Zinn J. Three-year follow-up and 
+clinical implications of a mindfulness meditation-based stress 
+reduction intervention in the treatment of anxiety disorders. 
+General Hospital Psychiatry 1995; 17(3): 192-200. 
+[35] 
+Strosahl KD, Hayes SC, Bergan J, Romano P. Assessing the field 
+effectiveness of acceptance and commitment therapy: An example 
+of the manipulated training research method. Behavior Therap 
+1998; 29(1): 35-63. 
+[36] 
+Robins CJ, Chapman AL. Dialectical behavior therapy: Current 
+status, recent developments, and future directions. J Personality 
+Disorders 2004; 18(1): 73-89. 
+[37] 
+Sipe WE, Eisendrath SJ. Mindfulness-based cognitive therapy: 
+theory and practice. Canadian J Psychiatry 2012; 57(2): 63-9. 
+[38] 
+Rogers ES, Chamberlin J, Ellison ML, Crean T. A consumer-
+constructed scale to measure empowerment among users of mental 
+health services. Psychiatric Services 1997; 48(8): 1042-7. 
+[39] 
+Wallerstein N, Bernstein E. Empowerment education: Freire's ideas 
+adapted to health education. Health Edu Behavior 1988; 15(4): 
+379-94. 
+[40] 
+Fallot RD, Harris M. The Trauma Recovery and Empowerment 
+Model (TREM): Conceptual and practical issues in a group 
+intervention for women. Community Mental Health J 2002; 38(6): 
+475-85. 
+[41] 
+Berg M, Coman E, Schensul JJ. Youth action research for 
+prevention: A multi-level intervention designed to increase efficacy 
+and empowerment among urban youth. Am J Community Psychol 
+2009; 43(3-4): 345-59. 
+[42] 
+Aguilera S, Plasencia AV. Culturally appropriate HIV/AIDS and 
+substance abuse prevention programs for urban native youth. J 
+Psychoactive Drugs 2005; 37(3): 299-304. 
+[43] 
+Fallot RD, Harris M. Integrated trauma services teams for women 
+survivors with alcohol and other drug problems and co-occurring 
+mental disorders. Alcoholism Treatment Quarterly 2004; 22(3-4): 
+181-99. 
+[44] 
+Blume AW, Lovato LV. Empowering the disempowered: Harm 
+reduction with racial/ethnic minority clients. J Clin Psychol 2009; 
+66(2): 189-200. 
+[45] 
+Harris M. Trauma recovery and empowerment: A clinician's guide 
+for working with women in groups. New York: Free Press; 1998. 
+[46] 
+Rush B, Urbanoski K, Bassani D, et al. Prevalence of co-occurring 
+substance use and other mental disorders in the Canadian 
+population. Canadian J Psychiatry 2008; 53(12): 800-9. 
+[47] 
+Woicik PA, Stewart SH, Pihl RO, Conrod PJ. The substance use 
+risk profile scale: A scale measuring traits linked to reinforcement-
+specific substance use profiles. Addictive Behaviors 2009; 34(12): 
+1042-55. 
+[48] 
+Clarke PB. The relationship between wellness, emotion regulation, 
+and relapse in adult outpatient substance abuse clients [Ph.D. 
+dissertation]. Greensboro, NC: University of North Carolina; 2012. 
+[49] 
+Marlatt G, Gordon J. Determinants of relapse: Implications for the 
+maintenance of behavior change. In: Davidson PO, Davidson SM, 
+editors. Behavioral medicine: Changing health lifestyles. New 
+York: Brunner/Mazel; 1980. p. 410-52. 
+[50] 
+Cohen SR, Mount BM, Bruera E, Provost M, Rowe J, Tong K. 
+Validity of the McGill Quality of Life Questionnaire in the 
+palliative 
+care 
+setting: 
+A 
+multi-centre 
+Canadian 
+study 
+demonstrating the importance of the existential domain Palliative 
+Medicine 1997; 11(3): 3-20. 
+[51] 
+Shanon B. The epistemics of ayahuasca visions. Phenomenol 
+Cognitive Sci 2010; 9(2): 263-80. 
+[52] 
+World Health Organization. The ASSIST project - Alcohol, 
+smoking and substance involvement screening test 2010 [updated 
+2010; cited]; Available from: http://www.who.int/substance_abuse/ 
+activities/assist/en/index.html. 
+[53] 
+Adlaf EM, Begin P, Sawka E, editors. Canadian Addiction Survey 
+(CAS): A national survey of Canadians' use of alcohol and other 
+drugs: Prevalence of use and related harms—detailed report. 
+Ottawa: Canadian Centre on Substance Abuse; 2005. 
+[54] 
+Humeniuk R, Ali R, Babor TF, et al. Validation of the alcohol, 
+smoking and substance involvement screening test (ASSIST). 
+Addiction 2008; 103(6): 1039-47. 
+[55] 
+Field A. Discovering statistics using SPSS. 2nd ed. London: Sage 
+Publishing; 2005. 
+[56] 
+Jilek WG. Indian healing: Shamanic ceremonialism in the Pacific 
+Northwest. Surrey, BC: Hancock House; 1982. 
+[57] 
+Fotiou E. Working with “la medicina”: Elements of healing in 
+contemporary ayahuasca rituals. Anthropol Consciousness 2012; 
+23(1): 6-27. 
+[58] 
+Prochaska JO, Velicer WF, Rossi JS, et al. Stages of change and 
+decisional balance for 12 problem behaviors. Health Psychol 1994; 
+13(1): 39-46. 
+[59] 
+Halpern JH, Sherwood AR, Hudson JI, Yurgelun-Todd D, Pope 
+HG. Psychological and cognitive effects of long-term peyote use 
+among Native Americans. Biological Psychiatry 2005; 58(8): 624-
+31. 
+[60] 
+Albaugh BJ, Anderson PO. Peyote in the treatment of alcoholism 
+among American Indians. Am J Psychiatry 1974; 131(11): 1247-
+50. 
+[61] 
+Griffiths RR, Richards WA, McCann U, Jesse R. Psilocybin can 
+occasion mystical-type experiences having substantial and 
+sustained 
+personal 
+meaning 
+and 
+spiritual 
+significance. 
+Psychopharmacology 2006; 187(3): 268-83. 
+[62] 
+Griffiths R, Richards W, Johnson M, McCann U, Jesse R. 
+Mystical-type experiences occasioned by psilocybin mediate the 
+attribution of personal meaning and spiritual significance 14 
+months later. J Psychopharmacol 2008; 22(6): 621-32. 
+[63] 
+Krebs TS, Johansen PØ. Lysergic acid diethylamide (LSD) for 
+alcoholism: Meta-analysis of randomized controlled trials. J 
+Psychopharmacol 2012; 26(7): 994-1002. 
+[64] 
+Winkelman MJ, Roberts TB, editors. Psychedelic medicine: New 
+evidence for hallucinogenic substances as treatments. Westport, 
+CT: Praeger Publishers; 2007. 
+[65] 
+MacLean KA, Johnson MW, Griffiths RR. Mystical experiences 
+occasioned by the hallucinogen psilocybin lead to increases in the 
+personality domain of openness. J Psychopharmacol 2011; 25(11): 
+1453-61. 
+[66] 
+Callaway JC. Various alkaloid profiles in decoctions of 
+Banisteriopsis caapi. J Psychoactive Drugs 2005; 37(2): 151-5. 
+[67] 
+Callaway JC, Brito GS, Neves ES. Phytochemical analyses of 
+Banisteriopsis caapi and Psychotria viridis. J Psychoactive Drugs 
+2005; 37(2): 145-50. 
+[68] 
+Tupper KW. Ayahuasca, entheogenic education & public policy 
+[Ph.D. dissertation]. Vancouver: University of British Columbia; 
+2011. 
+Available 
+from:  
+http://www.kentupper.com/resources/Ayahuasca+Entheogenic+Ed
+uc+$26+Public+Policy+-+Tupper+2011.pdf 
+[69] 
+Office of Controlled Substances. Exemption under Section 56 of 
+the Controlled Drugs and Substances Act (Public Interest) 
+Regarding the Use of Daime Tea for Religious Purposes. Ottawa: 
+Health 
+Canada; 
+February 
+2008; 
+Available 
+from:  
+http://www.bialabate.net/wp-
+
+
+42     Current Drug Abuse Reviews, 2013, Vol. 6, No. 1 
+Thomas et al. 
+content/uploads/2008/08/Santo_Daime_Exemption_Health_Canada
+_IAS_2008.pdf 
+[70] 
+Posner M. B.C. doctor agrees to stop using Amazonian plant to 
+treat 
+addictions. 
+November 
+9, 
+2011; 
+Available 
+from: 
+http://www.theglobeandmail.com/life/health/new-health/health-
+news/bc-doctor-agrees-to-stop-using-amazonian-plant-to-treat-
+addictions/article2231413/. 
+[71] 
+Aglukkaq L. Letter to Dr. J. Rochester. Ottawa; October 23, 2012; 
+Available 
+from: 
+http://www.bialabate.net/wp-
+content/uploads/2008/08/CeudoMontreal_HC-Response-Letter-23-
+Oct-2012-2.pdf 
+
+ 
+Received: January 16, 2013 
+Revised: January 31, 2013 
+Accepted: February 8, 2013 
+ 

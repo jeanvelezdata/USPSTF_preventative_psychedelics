@@ -1,0 +1,102 @@
+{
+  "data": {
+    "article": {
+      "StudyID": "Davis 2017",
+      "Citation": "Davis AK, Barsuglia JP, Windham-Herman AM, Lynch M, Polanco M. Subjective effectiveness of ibogaine treatment for problematic opioid consumption: Short- and long-term outcomes and current psychological functioning. Journal of Psychedelic Studies. 2017.",
+      "Title": "Subjective effectiveness of ibogaine treatment for problematic opioid consumption: Short- and long-term outcomes and current psychological functioning",
+      "Year": 2017,
+      "Corpus/Prefix": ".",
+      "Condition": "Opioid",
+      "Substance": "Ibogaine",
+      "IsObservational": "Y",
+      "N": 88,
+      "AE_denominator": 88,
+      "ArmScope": "psychedelic_arm",
+      "PctFemale": 27,
+      "GenderCategory": "male/female (73% male, 27% female); no non-binary/other categories reported",
+      "PctBIPOC": 11,
+      "PctIndigenous": ".",
+      "SafetyReported": "Y",
+      "AnyAEReported": "Y",
+      "NumDistinctAEs": 4,
+      "NParticipantsWithAE": ".",
+      "WorstSeverity": "Mild",
+      "text_source": "born-digital",
+      "Model": "claude-sonnet-5",
+      "PromptVersion": "ae_extraction_prompt_v1",
+      "RubricVersion": "severity_rubric_v1",
+      "Temperature": 1
+    },
+    "ae_events": [
+      {
+        "AE_ID": "Davis 2017_AE01",
+        "StudyID": "Davis 2017",
+        "AE_type": "AE",
+        "Description": "74% of participants endorsed experiencing physical discomfort during ibogaine treatment; no detail on nature, duration, or clinical management given.",
+        "Onset": "in-session",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "Y",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Davis 2017_AE02",
+        "StudyID": "Davis 2017",
+        "AE_type": "challenging_experience",
+        "Description": "51% endorsed experiencing fear during the ibogaine session; expected challenging-experience phenomenology with no reported intervention or lasting impairment.",
+        "Onset": "in-session",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "Y",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Davis 2017_AE03",
+        "StudyID": "Davis 2017",
+        "AE_type": "challenging_experience",
+        "Description": "49% endorsed seeing frightening images during the ibogaine session; in-session perceptual challenging experience, no further detail reported.",
+        "Onset": "in-session",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "Y",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Davis 2017_AE04",
+        "StudyID": "Davis 2017",
+        "AE_type": "challenging_experience",
+        "Description": "36% endorsed recalling and experiencing difficult memories from their past during the ibogaine session; no detail on distress or duration.",
+        "Onset": "in-session",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "Y",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "N"
+      }
+    ]
+  },
+  "rationale": {
+    "article": {
+      "IsObservational": "Retrospective, anonymous, cross-sectional web-based survey of individuals who received ibogaine treatment in usual clinical care at a single Mexico facility (2012-2015); no randomization or controlled experimental arms \u2014 naturalistic observational/survey design consistent with corpus curation.",
+      "Substance": "Primary tracked intervention is ibogaine hydrochloride. Authors disclose that Crossroads' clinical procedures changed partway through the 2012-2015 window to add 5-MeO-DMT following ibogaine for some patients, but could not determine with certainty which participants received it (anonymous survey, recall/design error) and could not formally analyze its effect (exploratory date-based analysis found no significant difference). Coded Substance as Ibogaine only since that is the formally tracked intervention; 5-MeO-DMT is a disclosed but unquantifiable confound, not a coded arm.",
+      "N": "N=88 is the final analyzed sample after excluding 33 people who did not complete the main questionnaires and 13 who sought ibogaine for non-opioid substance problems, out of 134 who began the survey and 285 contacted.",
+      "AE_denominator": "Table 2 subjective-effects percentages are reported for the 'Full sample' column (n=88, i.e., 68 responders + 20 non-responders). The article does not give an explicit per-item denominator for Table 2 (a note about n=67-68 due to missing data applies to Table 1 demographics, not explicitly extended to Table 2), so AE_denominator is assumed = N (88).",
+      "SafetyReported": "This article is not framed as a clinical AE/safety study \u2014 it has no dedicated safety endpoint, no CTCAE/SAE grading, and no report of medical complications, hospitalizations, or deaths, despite describing cardiac monitoring during dosing. It does report a study-specific, unvalidated 'acute subjective effects of ibogaine' Likert scale (Table 2) in which 4 of 15 items describe negative/challenging phenomenology (physical discomfort, fear, frightening images, recalling difficult memories) rather than positive/neutral effects. Per the codebook's instruction not to silently fold challenging-experience phenomenology into a null AE count, these four items were extracted as AE/challenging-experience events, so SafetyReported/AnyAEReported were coded Y. The Discussion explicitly recommends future research 'evaluate the safety of this treatment using a rigorous controlled design,' underscoring that no formal safety evaluation was conducted here.",
+      "NumDistinctAEs": "Counted as the 4 negative/challenging items from the 15-item acute-effects scale in Table 2 (physical discomfort, fear, frightening images, difficult memories recalled); the other 11 items describe neutral or positive phenomenology (visions, insight, spirituality, bliss, etc.) and were not coded as AEs.",
+      "NParticipantsWithAE": "Table 2 gives only per-item endorsement percentages of the full sample; the article never reports a combined count/percentage of participants endorsing >=1 of these items, so this cannot be derived without assuming independence/overlap.",
+      "WorstSeverity": "All four extracted events defaulted to Mild under the rubric's under-specified-AE rule (no intervention, escalation, or seriousness signal reported for any of them), so WorstSeverity = Mild.",
+      "PctBIPOC": "Table 1 reports ethnicity as a single aggregate figure: White/Caucasian 89% vs. Non-White/Other 11%; no subgroup breakdown to sum.",
+      "PctIndigenous": "Not broken out separately from the 'Non-White/Other' aggregate in Table 1.",
+      "ArmScope": "Single-arm naturalistic survey of ibogaine-treated patients only, with no non-exposed comparator group; the entire N=88 sample is psychedelic-exposed, so ArmScope = psychedelic_arm per the schema's guidance for single-arm cohorts/surveys."
+    },
+    "ae_events": {
+      "Davis 2017_AE01": "Physical discomfort endorsed by 74% on an unvalidated, study-specific acute-effects Likert scale; no detail on nature, severity, duration, or clinical management, so severity defaulted to Mild and flagged indeterminate per the rubric's under-specified-AE rule. Onset coded in-session as the item measures 'acute subjective effects' during the ibogaine experience; the article does not distinguish which of ibogaine's multi-hour dosing phases the discomfort occurred in.",
+      "Davis 2017_AE02": "Fear endorsed by 51%; classic Barrett-CEQ-sense challenging-experience phenomenology, expected during ibogaine dosing per the rubric's core adaptation principle. No intervention need, escalation, or post-session persistence reported, so graded Mild and flagged indeterminate (only a Likert endorsement, no detail).",
+      "Davis 2017_AE03": "Frightening images endorsed by 49%; in-session perceptual/challenging-experience item on the same unvalidated scale, no further detail on intensity or consequence, graded Mild and flagged indeterminate.",
+      "Davis 2017_AE04": "Recalling/experiencing difficult memories endorsed by 36%; judgment call to include this as a challenging-experience event given its negative framing alongside the fear/frightening-images items on the same acute-effects scale, distinct from clearly positive insight/reframing items (e.g., 'gained insight into past trauma'). No distress level, duration, or intervention detail given, so graded Mild and flagged indeterminate."
+    }
+  }
+}

@@ -1,0 +1,1075 @@
+RESEARCH
+Open Access
+Psychedelic microdosing benefits and
+challenges: an empirical codebook
+Thomas Anderson1*
+, Rotem Petranker2*, Adam Christopher3, Daniel Rosenbaum4, Cory Weissman4,
+Le-Anh Dinh-Williams5, Katrina Hui4 and Emma Hapke4
+Abstract
+Background: Microdosing psychedelics is the practice of consuming very low, sub-hallucinogenic doses of a
+psychedelic substance, such as lysergic acid diethylamide (LSD) or psilocybin-containing mushrooms. According to
+media reports, microdosing has grown in popularity, yet the scientific literature contains minimal research on this
+practice. There has been limited reporting on adverse events associated with microdosing, and the experiences of
+microdosers in community samples have not been categorized.
+Methods: In the present study, we develop a codebook of microdosing benefits and challenges (MDBC) based on
+the qualitative reports of a real-world sample of 278 microdosers.
+Results: We describe novel findings, both in terms of beneficial outcomes, such as improved mood (26.6%) and
+focus (14.8%), and in terms of challenging outcomes, such as physiological discomfort (18.0%) and increased
+anxiety (6.7%). We also show parallels between benefits and drawbacks and discuss the implications of these
+results. We probe for substance-dependent differences, finding that psilocybin-only users report the benefits of
+microdosing were more important than other users report.
+Conclusions: These mixed-methods results help summarize and frame the experiences reported by an active
+microdosing community as high-potential avenues for future scientific research. The MDBC taxonomy reported here
+informs future research, leveraging participant reports to distil the highest-potential intervention targets so research
+funding can be efficiently allocated. Microdosing research complements the full-dose literature as clinical
+treatments are developed and neuropharmacological mechanisms are sought. This framework aims to inform
+researchers and clinicians as experimental microdosing research begins in earnest in the years to come.
+Keywords: Psychedelic, Microdosing, LSD, Psilocybin, Grounded theory, Mood, Depression, Anxiety, Self-efficacy,
+Open science
+Introduction
+The practice of microdosing psychedelics involves ingest-
+ing sub-hallucinogenic amounts of a psychedelic sub-
+stance (e.g. LSD, psilocybin) and has recently grown in
+popularity. The number of popular media accounts and
+book-length treatments of microdosing has been growing
+[1–7]. Online microdosing communities have grown to
+the tens of thousands with more than 40,000 users sub-
+scribing to the /r/microdosing subreddit (/r/microdosing
+subreddit, Reddit Inc, San Francisco, CA, USA). This
+public interest speaks to a social need for scientific studies
+to inform the public about the effects of microdosing.
+Initial scientific investigations of microdosing are just be-
+ginning [8–11] (Rosenbaum D, Weissman C, Hapke E, Hui
+K, Petranker R, Dinh-Williams L-A, et al.: Microdosing
+psychedelic substances: demographics, psychiatric comor-
+bidities, and comorbid substance use, in preparation) and
+future directions remain unclear. While full-dose psyche-
+delic research is growing in prominence and outcomes
+from full-dose studies can certainly inform microdosing
+studies, focusing solely on known full-dose outcomes could
+result in missing unanticipated benefits and challenges spe-
+cific to microdosing. As such, beginning with an open, ex-
+ploratory approach could result in a better understanding
+© The Author(s). 2019 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+(http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+* Correspondence: metathomas.anderson@mail.utoronto.ca;
+rotem@boredomlab.org
+1Department of Psychology, University of Toronto, Mississauga, Canada
+2Clinical Psychology, York University, Toronto, Canada
+Full list of author information is available at the end of the article
+Anderson et al. Harm Reduction Journal           (2019) 16:43 
+https://doi.org/10.1186/s12954-019-0308-4
+
+
+of the potential benefits and challenges specific to micro-
+dosing. The present study aims to provide a data-driven
+taxonomy describing the positive and negative experiences
+reported by microdosers from an open-ended analysis of
+microdosing-specific
+outcomes,
+summarizing
+high-
+potential avenues for focused experimental investigations.
+The benefits of full-dose psychedelics
+While more than a thousand early studies linked psyche-
+delic use with beneficial effects [12], there was a 40-year
+pause on psychedelic research following the prohibition of
+these substances [13]. Despite continued prohibition, mod-
+ern research has revealed the promising potential of LSD
+and psilocybin for treating alcohol and tobacco depend-
+ence [14–17], depression [18, 19], and end-of-life anxiety
+[20–22], while related research on 3,4-methylenedioxy-
+methamphetamine (MDMA) has shown great promise for
+treating post-traumatic stress disorder [23]. Psychedelics
+can also increase openness and occasion mystical-type ex-
+periences in healthy controls [24–26]. As full-dose psyche-
+delics appear to aide in the relief of severe, chronic
+psychiatric conditions (e.g. depression, anxiety, PTSD),
+milder mental health concerns may plausibly be treated by
+lower, recurring doses. This is especially worth considering
+if certain full-dose outcomes are found to rely on purely
+pharmacologic mechanisms rather than primarily on phe-
+nomenological experiences [27].
+Limiting microdosing research to topics that have been
+investigated in full-dose research could prematurely
+overlook unpredicted and potentially distinct microdos-
+ing outcomes. Full-dose research has employed various
+focal assessments of symptomatology, mood, and per-
+sonality that are likely applicable to microdosing re-
+search, but due to the low doses and lack of perceptual
+alteration intended in microdosing, other full-dose phe-
+nomena, such as ego dissolution and mystical-type experi-
+ences, are less relevant to microdosing research. Instead,
+as a means of preparing for a broad range of outcomes,
+the present work solicited open-ended reports of benefits
+and challenges. Additionally, as psychedelic substances act
+on distinct yet overlapping neural receptor sites, it seems
+plausible that distinct patterns could emerge for different
+substances. The present study thus included microdosers
+who used LSD, psilocybin, or both.
+The challenges of full-dose psychedelics
+While psychedelics appear to have considerable potential
+benefits and low physiological risks [28–30], full-dose ex-
+periences can put participants under considerable psycho-
+logical risk [31]. In a survey targeting participants that had
+at least one challenging experience (“bad trip”) with psilo-
+cybin mushrooms, 39% of respondents rated their full-dose
+experiences as among the top 5 most psychologically diffi-
+cult/challenging experiences of their lives [32]. Griffiths et
+al. [20] used both “high” (22 mg/70 kg) and “low” (1 or 3
+mg/70 kg) doses of psilocybin as experimental and control
+conditions, respectively. A dose-response effect could be
+seen such that in the high-dose condition, 32% of par-
+ticipants reported physiological discomfort whereas
+only 12% reported the same in the low-dose condition;
+likewise, 26% reported anxiety in the high-dose condition
+versus 15% in the low-dose condition [20]. Delayed-onset
+headaches are another possible side-effect of full-dose
+psilocybin [33].
+To mitigate these risks, Johnson et al. [31] proposed
+safety guidelines for use with full-dose psychedelic sub-
+stances, which rely on managing participant inclusion
+and having a comfortable, guided clinical setting. As
+microdosing does not involve the intensity of experience
+present in full-dose research, challenging experiences
+may be less likely. One may, however, anticipate that less
+frequent, less intense versions of full-dose challenges
+could be present even at the very low doses used in
+microdosing (e.g. restlessness instead of insomnia, mild
+anxiety instead of fear, mild headaches). As the study of
+microdosing is in its infancy, we could also expect there
+to be challenges that fall beyond the scope of reports
+based on full doses; the present study thus preferred
+open-ended surveying of drawbacks over pre-existing
+focal questionnaires.
+Methods
+The present study
+In this study, we explored the benefits and challenges expe-
+rienced by microdosers in a cross-sectional, retrospective,
+anonymous online survey. Respondents reported their sub-
+jective microdosing benefits and challenges (MDBCs) and
+the subjective importance of each outcome. We then used
+a grounded theory approach [34] to identify commonly-
+reported MDBCs and thereby deliver an empirical MDBC
+taxonomy to support future microdosing research. We
+also explored whether microdosing substances (LSD-
+only versus psilocybin-only versus LSD and psilocybin)
+were associated with different outcomes.
+This study was part of a larger project that reported on
+the demographic and psychiatric comorbidities of the sam-
+ple (Rosenbaum D, Weissman C, Hapke E, Hui K,
+Petranker R, Dinh-Williams L-A, et al.: Microdosing psy-
+chedelic substances: demographics, psychiatric comorbidi-
+ties, and comorbid substance use, in preparation) as well
+as a paper that addressed pre-registered hypotheses con-
+cerning mental health, personality, and creativity vari-
+ables [8].
+Grounded theory method
+Microdosers were prompted to provide up to three ben-
+efits and up to three challenges associated with micro-
+dosing in small on-screen text boxes, resulting in short
+Anderson et al. Harm Reduction Journal           (2019) 16:43 
+Page 2 of 10
+
+
+phrases (e.g. “Amplified emotions and better under-
+standing of them”, “Fear of unknown effects, since its
+[sic] not studied”) or in one- or two-word responses (e.g.
+“Creativity”, “Better mood”, “Illegal”, “Too Energetic”).
+The coding authors (TA and AC) independently coded
+these benefits and challenges using the principles of
+classic grounded theory [34–36]. Discrepant codes were
+periodically discussed until a final set of codes was agreed
+upon (i.e. saturation was reached). These codes were hier-
+archically built into three layers of abstraction: codes (level
+one) were grouped under sub-categories (level two), which
+were grouped under categories (level three). This hier-
+archy was iteratively discussed and changes were agreed
+upon over five refining passes. We incorporated the dic-
+tion used by the respondents where possible to better re-
+flect the data-driven nature of the final codebook (see
+Additional file 1 and full online codebook; [37]).
+Inter-rater agreement was calculated separately for
+benefits and challenges and at each level (code, sub-
+category, category). Agreement was above 85% at every
+level (benefit code 85.1%, benefit sub-category 89.2%,
+benefit category 92.6%; challenge code 85.7%, challenge
+sub-category 86.9%, challenge category 88.5%). Each re-
+port was coded twice, once by each coding author, and
+the sum of coded items in each category was halved;
+as a result, the frequency of any given category can
+be a non-integer value (e.g. 807.5 coded benefits,
+603.5 coded challenges; “Empirical codebook: benefits
+of microdosing” and “Empirical codebook: challenges
+of microdosing” sections).
+Respondents
+Participation was voluntary under informed consent, in
+accord with the Declaration of Helsinki, and was non-
+remunerative. The sample analysed in the present study
+includes the 278 respondents that answered the MDBC
+questions after indicating they had experience with
+microdosing LSD-only, psilocybin-only, or both LSD
+and psilocybin; respondents that indicated they used
+other substances to microdose (e.g. DMT, Salvia divi-
+norum) are not included in the present report, allowing
+us to focus our efforts on the most commonly reported
+microdosing substances that are most likely to be stud-
+ied in future research. Recruitment was primarily via the
+online forum “Reddit” (Reddit Inc, San Francisco, CA,
+USA). Reddit is an online forum with self-organizing
+sub-groups, called “subreddits”, which curate content for
+their “subscribers”. These subreddits discuss topics of
+mutual interest, making these communities potential
+pools of willing participants akin to other crowdsourcing
+approaches, e.g. Amazon mTurk, CrowdFlower, Prolific
+[38]. Compared to the US population, Reddit users tend
+to be younger, educated or seeking a college education,
+and present in a male-to-female ratio of approximately
+2:1 [39] thus this sample’s generalizability is limited to
+modern Western populations. In the present sample, re-
+spondents had a mean age of 27.8 (SD 8.9); age was
+non-normally distributed with an interquartile range of
+21–31 years (median 26.0, range 16–63). Most participants
+were male (M 237, F 31, other 10), heterosexual (N = 211,
+other 57), and white or European (N = 234, other 44). For a
+more comprehensive breakdown of all survey respondents,
+see our epidemiological report, which includes reports on
+psychiatric disorders (Rosenbaum D, Weissman C, Hapke
+E, Hui K, Petranker R, Dinh-Williams L-A, et al.:
+Microdosing psychedelic substances: demographics, psy-
+chiatric comorbidities, and comorbid substance use, in
+preparation). Microdosers from the following subreddits
+were
+solicited:
+Microdosing,
+Nootropics,
+Psychonaut,
+RationalPsychonaut, Tryptonaut, Drugs, LSD, shrooms,
+DMT, researchchemicals, and SampleSize [40].
+Design and questionnaires
+Respondents completed a survey about their microdosing
+history including microdosing regimen (substance, dose,
+etc.), subjective benefits and challenges of microdosing, the
+importance of these benefits and challenges, and focal
+questions concerning behaviour and consumption changes.
+For concision, the numerous variables collected but not
+discussed here are not described here; many are discussed
+in our previous work [8] (Rosenbaum D, Weissman C,
+Hapke E, Hui K, Petranker R, Dinh-Williams L-A, et al.:
+Microdosing psychedelic substances: demographics, psy-
+chiatric comorbidities, and comorbid substance use, in
+preparation) and the complete survey is available online
+[41]. Here we focus on questions concerning microdosing
+benefits and challenges (MDBCs), health behaviours, and
+substance-use changes.
+Microdosing benefits and challenges (MDBCs)
+Microdosing respondents reported up to three benefits
+and three drawbacks of microdosing psychedelics. They
+also gave each outcome a rating of subjective importance
+on a sliding scale from 0 to 100 [42].
+Improved health behaviours and reduced consumption
+Microdosing respondents indicated whether they had, as
+a result of microdosing, experienced improvements in
+each of the following domains: mood, anxiety, meditative
+practice, exercise, eating habits, and sleep. They also
+indicated whether they had reduced their use of any of
+the following substances: caffeine, alcohol, cannabis, to-
+bacco, psychiatric prescription medications, and illicit
+substances. These questions appeared on the page after
+the open-ended benefits and challenges questions to
+avoid contamination via priming.
+Anderson et al. Harm Reduction Journal           (2019) 16:43 
+Page 3 of 10
+
+
+Results
+Microdosing substances
+Respondents reported the substance they used to micro-
+dose and were removed if they indicated using sub-
+stances other than LSD or psilocybin. This sample
+includes 278 respondents in three categories: LSD-only
+(N = 195), psilocybin-only (N = 50), and respondents that
+have microdosed with LSD and psilocybin (N = 33).
+Empirical codebook: benefits of microdosing
+Grounded theory analyses resulted in a total of 807.5
+coded benefits of microdosing. Taxonomy-building re-
+sulted in 46 codes organized into 21 sub-categories and
+11 categories. The most frequently reported codes were
+improved mood (12.8%), improved focus (10.0%), cre-
+ativity (9.4%), and improved energy (7.6%).
+Categories of benefit
+This summary provides descriptions of the 11 categories
+of benefits that were distiled from participant reports
+(Fig. 1). As per grounded theory, the naming conventions
+for codes reflect the language used by respondents, but
+more flexibility was introduced as needed at higher orders
+of abstraction. Full descriptions of every code are available
+in the full codebook (see Additional file 1).
+Improved mood (26.6%, 215 reports): This most fre-
+quently reported benefit-category captures all codes re-
+lated to mood improvements: happiness, well-being,
+peace, calm, and reductions in depressive symptoms. Also
+included are reports of improved outlook, appreciation of
+life, optimism, spiritual and emotional insights, and being
+more in touch with emotions.
+Improved focus (14.8%, 119.5 reports): This benefit-
+category
+references
+codes
+concerning
+focus
+and
+concentration, conscious awareness, mindfulness, and
+increased engagement and attentiveness.
+Creativity (12.9%, 104 reports): This category includes
+creativity per se, as well as meta-creative processes, e.g.
+shifting perspectives, divergent thinking, curiosity, and
+openness.
+Self-efficacy (11.3%, 91.5 reports): This category refer-
+ences improvements in self-efficacy (motivation/ambition,
+productivity, confidence, sense of agency) and self-care
+(introspection, meditation, and other behaviours facilitat-
+ing mental health).
+Improved energy (10.5%, 84.5 reports): This category
+includes codes referencing “improved energy” per se, as
+well as alertness, wakefulness, and stimulation.
+Social benefits (7.6%, 61 reports): This category ref-
+erences various socially facilitating benefits such as
+extraversion, empathy, sense of connection, and verbal
+fluency.
+Cognitive benefits (5.8%, 47 reports): This category con-
+cerns cognitive enhancement (understanding, problem-
+solving), clarity of thought (clear headedness, lucidity),
+and memory.
+Reduced anxiety (4.2%, 34 reports): References to anx-
+iety reduction and social-anxiety reduction fit in this
+category.
+Physiological enhancement (3.0%, 24 reports): This
+category concerns biological processes including en-
+hanced senses (especially visual), cardiovascular en-
+durance, sleep quality, and reduced migraines and/or
+headaches.
+Other perceived benefits (2.2%, 18 reports): This cat-
+egory was a catch-all for otherwise uncategorized codes.
+These include the novelty of the experience itself, the
+ability to control the dose, the lack of side-effects, and
+Fig. 1 Categories of microdosing benefits and challenges. Values indicate percentage endorsement of outcomes. Values were generated through
+open-ended responses, and thus magnitude is descriptive and should be used for hypothesis generation. These data indicate reported outcomes,
+not confirmed effects
+Anderson et al. Harm Reduction Journal           (2019) 16:43 
+Page 4 of 10
+
+
+other miscellany. This category also includes 1 report
+that there were no beneficial effects.
+Reduced symptoms (other) (1.1%, 9 reports): Refer-
+ences to stress reduction, reduced sensitivity to trauma,
+and references to reduced substance dependence (e.g.
+quitting smoking) are included.
+Empirical codebook: challenges of microdosing
+Grounded theory coding resulted in a total of 603.5
+coded challenges of microdosing. Taxonomy-building re-
+sulted in 44 codes organized into 23 sub-categories and
+11 categories. The most frequently reported low-level
+codes were illegality (10.8%), dose accuracy (9.1%), poor
+focus (8.8%), and anxiety (5.3%).
+Categories of challenges
+As above, this summary provides extended descriptions
+of the 11 categories of challenge (Fig. 1).
+Illegality (29.5%, 178 reports): This category captures
+codes concerning the illegality of psychedelic microdos-
+ing substances per se, as well as codes concerning the
+consequences thereof. These include dosing challenges
+associated with unregulated substances (e.g. taking too
+much or too little), the availability of the substance (i.e.
+dealing with the black market), and cost of the sub-
+stance. Also included is the social stigma surrounding
+the use of these substances and feeling the need to hide
+one’s activity from others.
+Physiological discomfort (18.0%, 108.5 reports): This
+category concerns physically detrimental challenges includ-
+ing disrupted senses (visual), temperature dysregulation,
+numbing/tingling, insomnia, gastrointestinal distress, re-
+duced appetite, and increased migraines and/or headaches.
+Impaired focus (8.8%, 53 reports): This challenge category
+references codes concerning poor focus, distractibility, and
+absent-mindedness.
+Increased anxiety (6.7%, 40.5 reports): References to
+increased anxiety (general, social, existential) fit in this
+category.
+Impaired energy (7.2%, 43.5 reports): This category
+includes codes referencing both excessive energy (rest-
+lessness, jitters) and inadequate energy (fatigue, drow-
+siness, brain fog).
+Impaired mood (6.9%, 41.5 reports): This category
+includes codes related to mood deterioration (sadness,
+discontent, irritability), emotional difficulties (over-
+emotionality, mood swings), and impaired outlook
+(fear, feeling unusual).
+Social interference (2.6%, 15.5 reports): This category
+references various socially impairing challenges such as
+awkwardness, oversharing, and difficulties with sentence-
+production in social settings.
+Cognitive interference (2.3%, 14 reports): This category
+concerns confusion, disorientation, racing thoughts, and
+poor memory.
+Self-interference (1.2%, 7.5 reports): This category refer-
+ences codes concerning self-processing concerns (dissoci-
+ation, depersonalization) and self-sabotaging (rumination,
+over-analysis).
+Other perceived challenges (10.6%, 64 reports): This
+category was a catch-all for otherwise uncategorized codes.
+These include the unknown risk-effect profile of microdos-
+ing itself, the need to prepare and remember to dose, refer-
+ences specifically citing that there were no challenges
+(1.5%), and other miscellany. This category also includes
+reports that there were no beneficial effects (0.6%). Fur-
+thermore, this category includes substance-related con-
+cerns regarding taste, pupil dilation, and duration of
+effects, and also concerns about negative drug interactions.
+Increased symptoms (other) (6.2%, 37.5 reports): Ref-
+erences to after effects (psychological dependence and
+concerns about potential addiction, substance tolerance,
+comedown or hangover) and also more concerning, but
+rare, adverse psychological events (0.7%).
+Benefits and challenges by microdosing substance
+Subjective importance ratings were non-normally distrib-
+uted thus Wilcoxon signed rank tests were used to com-
+pare between substances. There was a significant difference
+between the subjective rated importance of benefits
+based on substance (W = 3658, p < 0.01, N1 = 195,
+N2 = 50, d = 0.353) with psilocybin-only microdosers
+(median = 87.83, SD = 15.76) rating benefits as signifi-
+cantly more important than LSD-only microdosers
+(median = 76.67, SD = 14.59); there were no differences
+found relative to respondents using both LSD and
+psilocybin (median = 82.33, SD = 14.28, ps > 0.14). The
+substance-related difference between subjective import-
+ance
+of
+challenges
+was
+non-significant
+(W = 3841.5,
+p = 0.56, N1 = 177, N2 = 46, d = 0.079) with psilocybin-only
+microdosers (median = 47.67, SD = 24.98) rating chal-
+lenges equivalently to LSD-only microdosers (median =
+47.5, SD = 24.65); there were no differences found relative
+to respondents using both LSD and psilocybin (median =
+51.67, SD = 23.79, ps > 0.66). Rates at which specific MDBC
+categories were reported did not differ between LSD-
+only, psilocybin-only, and LSD and psilocybin respon-
+dents (benefits χ2(20) = 17.26, p = 0.636; challenges
+χ2(20) = 7.73, p = 0.994).
+Improvements and reductions
+After reporting open-ended outcomes, participants an-
+swered targeted questions concerning behavioural im-
+provements
+and
+substance-use
+reductions
+(Fig.
+2).
+Respondents reported improved mood (92.9%), anxiety
+(59.2%), meditative practice (49.1%), exercise (49.1%),
+Anderson et al. Harm Reduction Journal           (2019) 16:43 
+Page 5 of 10
+
+
+eating habits (36.0%), and sleep (28.8%). They also indi-
+cated reduced use of caffeine (44.2%), alcohol (42.3%),
+cannabis (30.3%), tobacco (21.0%), psychiatric prescrip-
+tion medications (16.9%), and illicit substances (16.1%).
+Discussion
+Surveying extant communities of microdosers allowed
+for the creation of an initial qualitative taxonomy of
+MDBCs. These empirically-grounded MDBCs can in-
+form future microdosing research by leveraging partici-
+pant reports for high-potential intervention targets so
+research time and funding can be efficiently allocated.
+For example, microdosers often report changes in mood,
+focus, and creativity thus these constructs should be tar-
+geted in future intervention research. Concerns of
+physiological discomfort and restlessness were also com-
+monly reported thus they should also be monitored.
+While the improvements and reductions reported by
+respondents sound promising, they cannot be disen-
+tangled from expectation and placebo effects or recall
+biasses. Furthermore, the MDBC findings cannot indi-
+cate causation as this study was observational, not ex-
+perimental. With these caveats in mind, we discuss how
+researchers can use these initial findings in their future
+studies. While necessarily inconclusive due to their ex-
+ploratory nature, these results point to potential thera-
+peutic
+effects
+warranting
+future
+placebo-controlled
+microdosing research.
+Emergent parallelism
+Major parallels between benefits and challenges emerged
+among outcomes. Specifically, each category of outcome
+is seen as both a benefit and a challenge, other than cre-
+ativity and illegality (Table 1). This kind of mirroring
+suggests two hypotheses concerning microdosing: (1)
+placebo effects and expectancy play a major role in re-
+ported effects and/or (2) individual differences moderate
+reported effects.
+The first and most parsimonious hypothesis that could
+explain the parallelism between benefits and challenges
+is that the effects cancel out and nothing replicable is
+happening. The presence of opposite outcomes with a
+net-zero effect is what might be expected in an inactive
+condition dominated by noise. For example, if microdos-
+ing has no effect, random variation might result in some
+participants reporting decreased anxiety while others re-
+port increased anxiety. It may also be the case that
+microdosing interacts with expectancy in some way, en-
+hancing the effect of expectancy and thus the outcomes
+could differ even more than anticipated based on the
+Fig. 2 Percentage of microdosers endorsing improved behaviours and reductions in substance-use. Prevalence rate should be used for
+hypothesis generation as these data indicate reported outcomes, not confirmed effects. *Note: Anxiety refers to improvements to anxiety-related
+experiences, not to increased experience of anxiety
+Table 1 Parallels between benefits and challenges
+Outcome
+category
+Benefit category
+Challenge category
+Mood
+Improved mood
+Impaired mood
+Self
+Self-efficacy
+Self-interference
+Focus
+Improved focus
+Impaired focus
+Social
+Social benefits
+Social interference
+Energy
+Improved energy
+Impaired energy
+Cognitive
+Cognitive benefits
+Cognitive interference
+Anxiety
+Reduced anxiety
+Increased anxiety
+Physiological
+Physiological enhancement
+Physiological discomfort
+Symptoms
+Reduced symptoms (other)
+Increased symptoms (other)
+Other
+Other perceived benefits
+Other perceived challenges
+Anderson et al. Harm Reduction Journal           (2019) 16:43 
+Page 6 of 10
+
+
+mind-set of the microdoser. Indeed, “set and setting” are
+major components of full-dose psychedelic use and ex-
+pectancy is understood to greatly alter the outcome po-
+tentials of full-dose psychedelics [31]. Perhaps “set and
+setting” are also of importance in microdosing, though
+this remains to be tested. Indeed, each of the constructs
+described in this taxonomy should be directly tested in
+placebo-controlled trials.
+Nevertheless,
+there
+are
+plausible
+pharmacological
+mechanisms of action for microdosing, and it is possible
+that individual differences in genetically mediated sub-
+stance metabolism, psychopathological diagnoses and
+personality, and momentary interpretations of interocep-
+tive signals affect how microdosing outcomes manifest.
+The HTR2A gene, which encodes the serotonin 5HT-2A
+receptor, can have various mutations [43] which, along-
+side other genetic and epigenetic influences, play a role
+in how 5HT-2A agonists, including LSD and psilocybin,
+are processed neuropharmacologically. As such, individ-
+ual differences in receptor sensitivity may moderate
+optimal microdosing doses, substance choice, and dosing
+schedule. Genetic and epigenetic factors also influence
+psychopathology and personality, which can moderate
+responses to psychedelics [44]. For example, a person
+with a mood disorder (e.g. major depression) may find
+that microdosing has a different effect than a person
+scoring in the healthy range on a depression inventory.
+One possibility is that increasing between-network func-
+tional connectivity could disrupt the patterned use of
+cortical
+networks
+overly
+favoured
+under
+a
+specific
+pathology (e.g. to disrupt the greater functional connect-
+ivity between the DMN and subgenual prefrontal cortex
+seen in depression; [45]). In contrast, altering the func-
+tional connectivity in a healthy brain could plausibly
+produce undesirable activity rather than maintain healthy
+network coherence [46, 47]. Indeed, even in non-
+pathological participants, top-down interpretations of
+interoceptive events could cast physiological experi-
+ences (e.g. arousal) in a negative light (e.g. restless-
+ness) rather than a positive one (e.g. wakefulness).
+These different interpretations may be amenable to
+intervention
+by
+preparing
+participants
+for
+certain
+physiological outcomes [31] whereas the genetic, epi-
+genetic, and psychopathological features could consti-
+tute
+more
+stable
+predictors.
+These
+moderation
+hypotheses remain for future research.
+While parallelism emerged, not all categories were
+equally reported on both sides of the benefit/challenge
+divide (Fig. 3). When calculating the difference between
+how often categories of benefits were reported versus
+how often the parallel challenge-category was reported,
+the three largest differences in raw reporting rates were
+mood being more often improved (215 as benefit versus
+41.5 as challenge), self-efficacy being more often in-
+creased (91.5 benefit, 7.5 challenge), and physiological
+response being more often discomforting (24 benefit,
+108.5 challenge). These categories may provide especially
+promising starting points for future microdosing re-
+search. Anxiety was closest to even with the difference
+being only 6.5 reports (34 benefit, 40.5 challenge).
+Fig. 3 Difference in raw count of reported benefits and challenges. Positive values indicate greater endorsement of benefits in the indicated
+category; negative values reflect greater endorsement of challenges. Comparisons are exploratory thus differences, regardless of magnitude,
+should be used for hypothesis generation. These data indicate perceived outcomes and do not indicate confirmed effects
+Anderson et al. Harm Reduction Journal           (2019) 16:43 
+Page 7 of 10
+
+
+Unique outcomes
+Parallelism between benefits and challenges was not uni-
+versal. The taxonomy includes both unique beneficial and
+detrimental outcomes: (1) creativity and (2) illegality.
+Creativity was the third most common benefit cat-
+egory, and there was no opposite challenge (i.e. partici-
+pants did not report that microdosing made them less
+creative or more closed-minded). Microdosers report en-
+hanced creativity and meta-creative processes, such as
+perspective-shifting/divergent thinking and openness/curi-
+osity. These findings accord with other findings that
+microdosers have higher creativity than non-microdosers
+[8, 11] and with full-dose research showing increased
+openness after full-dose psilocybin [24]. Early psychedelic
+research preliminarily investigated creativity enhancement
+and problem-solving [48], and this exciting topic could
+again be subject to study. Future studies should initially
+measure various aspects of creativity—e.g. divergent
+thinking, convergent thinking, insight [8, 11, 49, 50]—
+to inform more focal investigations on how microdos-
+ing may affect creativity.
+Illegality was the most commonly reported microdosing
+challenge. It is notable that the most frequently reported
+“outcome” is a socio-cultural circumstance, not an out-
+come of microdosing per se. Psychedelics were made il-
+legal by the UN Convention on Psychotropic Substances
+in 1971 and remain so today [13, 51]. Illegality has re-
+sulted in a thriving black market economy for illicit sub-
+stances, both in-person and online [52]. This unregulated
+criminal market results in unpredictable substance purity,
+dose accuracy, supply availability, and cost. Illegality has
+further societal consequences, namely the social stigma
+associated with substance use, even though psychedelic
+substances have a relatively benign safety profile com-
+pared to other substances, including several legal sub-
+stances [53]. As such, researchers have begun calling for
+the legal rescheduling of psychedelic substances [54].
+Improvements and reductions
+In addition to the emergent qualitative categories, par-
+ticipants reported on several a priori focal outcomes
+(Fig. 2). Nine-tenths of respondents endorsed that
+microdosing improved their mood, which is in agree-
+ment with improved mood being the most commonly
+reported benefit-category. Anxiety improvement was
+also notable with 59% of respondents indicating this
+benefit. These rates of reported improvement suggest fu-
+ture research into microdosing for mood and anxiety
+may be warranted, complementing the recent work
+treating depression and anxiety with psilocybin [19, 20].
+Participants also indicated decreased use of caffeine, al-
+cohol, cannabis, and tobacco (Fig. 2). These findings align
+with research on full-dose psychedelics: LSD and psilo-
+cybin may promote reduced alcohol abuse [14, 16], and
+psilocybin can have potent long-term reductions in smok-
+ing [55]. Microdosing could be investigated as a potential
+complement, supplement, or alternative to full-dose inter-
+ventions for smoking cessation or substance use disorders.
+Limitations and future directions
+The intent of the present study was to inform empirically-
+grounded data-collection initiatives by providing high-
+potential outcomes deserving of further study, while also
+showcasing challenges that warrant measurement and
+suitable caution. The intent of the present study was not
+to make causal claims. We employed no experimental ma-
+nipulation or longitudinal component, could not control
+for substance purity, schedule, or dose, nor for prior ex-
+perience with full-dose psychedelics, and we cannot ac-
+count for recall bias or placebo effects. MDBCs described
+here reflect the reports of microdosers, but we cannot
+claim that these perceived outcomes are causally related
+to microdosing. LSD and psilocybin were the most fre-
+quently used substances and, as microdosing continues to
+be culturally, scientifically, and clinically relevant, it will be
+important
+to
+establish
+dose-dependent
+outcomes
+of
+microdosing and to consider the different contexts in
+which micro- and full doses may be variably appropriate,
+including when they may complement each other.
+Our participant recruitment strategy relied on self-
+selection and sampled primarily from Reddit; this strategy
+may have introduced demographic biasses, and these data
+should not be considered epidemiologically definitive (see
+Rosenbaum et al. (Rosenbaum D, Weissman C, Hapke E,
+Hui K, Petranker R, Dinh-Williams L-A, et al.: Microdos-
+ing psychedelic substances: demographics, psychiatric co-
+morbidities, and comorbid substance use, in preparation)
+for further discussion). More than 70% of the sample re-
+ported countries of Anglo-cultural origin, and this sample
+is limited in the sense that it does not reflect a random
+sampling of the human population. We sought a sample
+of psychedelic microdosers, a group that may not be ran-
+domly distributed in the population, thus this convenience
+sample is still informative. Nevertheless, future interven-
+tion work should endeavour to recruit more inclusive and
+representative samples.
+Qualitative research is, by its nature, biassed by the re-
+search team and their coding decisions. MDBCs were
+processed by two interdependent coders (TA and AC)
+that iteratively constructed the agreed-upon codebook.
+Hypothesis-driven coding was avoided to maintain code-
+integrity [36] and, supporting transparency and re-
+analysis, both the coded and raw data have been made
+available [41]. Another taxonomy could emerge from
+different investigators pursuing more targeted research
+questions, so these MDBCs should not be taken as de-
+finitive. The present taxonomy offers a foundation from
+which future focal research can be built.
+Anderson et al. Harm Reduction Journal           (2019) 16:43 
+Page 8 of 10
+
+
+Ultimately,
+pre-registered
+randomized
+placebo-
+controlled trials (RCTs) of microdosing psychedelics are
+needed to test its safety and efficacy. Using the MDBC
+taxonomy as a starting point, appropriate measures can
+be included to investigate the causal outcomes of micro-
+dosing and the mechanisms underlying those outcomes.
+The potential of microdosing is not yet well understood,
+but the benefits reported in this taxonomy suggest po-
+tential novel research avenues for psychedelic-based
+pharmacotherapeutic treatment of depression, anxiety,
+ADHD, smoking cessation, and substance use disorders.
+Exploring the potential of microdosing for creativity is
+also warranted.
+Conclusion
+Here we provide an initial taxonomy of benefits and chal-
+lenges associated with psychedelic microdosing, which
+compliments the other reports built from this larger micro-
+dosing research project [8] (Rosenbaum D, Weissman C,
+Hapke E, Hui K, Petranker R, Dinh-Williams L-A, et al.:
+Microdosing psychedelic substances: demographics, psychi-
+atric comorbidities, and comorbid substance use, in prepar-
+ation). The findings presented here suggest a number of
+potential microdosing research avenues, though experimen-
+tal, hypothesis-driven studies are needed. The MDBC tax-
+onomy, behavioural improvements, and substance-use
+reductions warrant RCTs to test therapeutic safety and effi-
+cacy of microdosing psychedelics. Online microdosing
+communities have grown to the tens of thousands, speaking
+to a social need for scientific study to inform the public
+about the effects of microdosing. Microdosing research
+could help inform future psychedelic research by investigat-
+ing the potential for mixing or contrasting micro- and full-
+dose psychedelic psychotherapies. We call researchers to
+do this work following the principles of open science and
+share our resources accordingly [41]. After a 40-year mora-
+torium, the psychedelic renaissance has begun: rigorous sci-
+entific methods can now be used to investigate psychedelics
+as potential medicines and for “the betterment of well
+people” [1].
+Additional file
+Additional file 1: The complete code hierarchy is available in Additional
+file 1. (PDF 89 kb)
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+Acknowledgements
+Not applicable (the authors cite no acknowledgements.)
+Authors’ contributions
+TA, RP, DR, CW, LDW, KH, and EM designed the study. TA and AC analysed
+and interpreted the qualitative data. TA and RP were major contributors in
+writing the manuscript. All authors read and approved the final manuscript.
+Funding
+Not applicable (this work involved no specific funding.)
+Availability of data and materials
+The dataset supporting the conclusions of this article is available on the
+Open Science Framework (osf.io/g5cwy/).
+Ethics approval and consent to participate
+This study was approved by the University of Toronto Social Sciences,
+Humanities and Education REB (Protocol #34862). Human participation was
+voluntary under informed consent, in accord with the Declaration of Helsinki,
+and was non-remunerative.
+Consent for publication
+Not applicable
+Competing interests
+The authors declare that they have no competing interests.
+Author details
+1Department of Psychology, University of Toronto, Mississauga, Canada.
+2Clinical Psychology, York University, Toronto, Canada. 3Department of
+Medicine, University of Toronto, Toronto, Canada. 4Department of Psychiatry,
+University of Toronto, Toronto, Canada. 5Department of Psychological Clinical
+Science, University of Toronto at Scarborough, Toronto, Canada.
+Received: 28 February 2019 Accepted: 16 May 2019
+References
+1.
+Pollan M. The trip treatment. 2015 [cited 2018 Nov 16]; Available from:
+https://www.newyorker.com/magazine/2015/02/09/trip-treatment
+2.
+Pollan M. How to change your mind: what the new science of psychedelics
+teaches us about consciousness, dying, addiction, depression, and
+transcendence: Penguin; 2018. p. 558.
+3.
+Leonard A. How LSD microdosing became the hot new business trip.
+Rolling Stone. 2015 [cited 2018 Jul 9]. Available from: https://www.
+rollingstone.com/culture/culture-news/how-lsd-microdosing-became-the-
+hot-new-business-trip-64961/
+4.
+Solon O. Under pressure, Silicon Valley workers turn to LSD microdosing.
+Wired UK. 2016 [cited 2018 Jul 9]; Available from: http://www.wired.co.uk/
+article/lsd-microdosing-drugs-silicon-valley
+5.
+Anderson T, Petranker R. “Microdosers” of LSD and magic mushrooms are
+wiser and more creative. The Conversation. 2018 [cited 2018 Nov 14].
+Available from: http://theconversation.com/microdosers-of-lsd-and-magic-
+mushrooms-are-wiser-and-more-creative-101302
+6.
+Eligh B. Rethinking psychedelics: U of T study looks at the practice of
+microdosing to ease anxiety and sharpen focus. University of Toronto News.
+2018 [cited 2018 Aug 29]; Available from: https://www.utoronto.ca/news/
+rethinking-psychedlics-u-t-study-looks-practice-microdosing-ease-anxiety-
+and-sharpen-focus
+7.
+Ghosh I. How and why people “microdose” tiny hits of psychedelic drugs.
+CBC. 2018 [cited 2018 Aug 29]; Available from: https://www.cbc.ca/news/
+health/microdosing-pschedelics-study-1.4771647
+8.
+Anderson T, Petranker R, Rosenbaum D, Weissman CR, Dinh-Williams L-A,
+Hui K, et al. Microdosing psychedelics: personality, mental health, and
+creativity differences in microdosers. Psychopharmacology (Berl). 2019 [cited
+2019 Jan 2]; Available from: https://doi.org/10.1007/s00213-018-5106-2
+9.
+Johnstad PG. Powerful substances in tiny amounts: an interview study of
+psychedelic microdosing. Nord Stud Alcohol Drugs. 2018;35(1):39–51.
+10.
+Polito V, Stevenson D. A systematic study of microdosing psychedelics.
+PsyArXiv. 2018 [cited 2018 Jul 5]; Available from: https://psyarxiv.com/cw9qs/
+11.
+Prochazkova L, Lippelt DP, Colzato LS, Kuchar M, Sjoerds Z, Hommel B.
+Exploring the effect of microdosing psychedelics on creativity in an open-
+label natural setting. Psychopharmacology (Berl). 2018 [cited 2018 Oct 25];
+Available from: https://doi.org/10.1007/s00213-018-5049-7
+Anderson et al. Harm Reduction Journal           (2019) 16:43 
+Page 9 of 10
+
+
+12.
+Grinspoon L, & Bakalar JB. Psychedelic drugs reconsidered. New York: Basic
+Books. 1979;221–223.
+13.
+United Nations. The International Drug Control Conventions. 2013;10.
+14.
+Krebs TS, Johansen P-Ø. Lysergic acid diethylamide (LSD) for alcoholism:
+meta-analysis of randomized controlled trials. J Psychopharmacol (Oxf).
+2012;26(7):994–1002.
+15.
+Johnson MW, Garcia-Romeu A, Cosimano MP, Griffiths RR. Pilot study of the
+5-HT2AR agonist psilocybin in the treatment of tobacco addiction. J
+Psychopharmacol Oxf Engl. 2014;28(11):983–92.
+16.
+Bogenschutz MP, Forcehimes AA, Pommy JA, Wilcox CE, Barbosa PCR,
+Strassman RJ. Psilocybin-assisted treatment for alcohol dependence: a
+proof-of-concept study. J Psychopharmacol Oxf Engl. 2015;29(3):289–99.
+17.
+Noorani T, Garcia-Romeu A, Swift TC, Griffiths RR, Johnson MW. Psychedelic
+therapy for smoking cessation: qualitative analysis of participant accounts. J
+Psychopharmacol (Oxf). 2018;32(7):756–69.
+18.
+Rucker JJ, Jelen LA, Flynn S, Frowde KD, Young AH. Psychedelics in the
+treatment of unipolar mood disorders: a systematic review. J
+Psychopharmacol (Oxf). 2016;30(12):1220–9.
+19.
+Carhart-Harris RL, Bolstridge M, Day CMJ, Rucker J, Watts R, Erritzoe DE, et al.
+Psilocybin with psychological support for treatment-resistant depression:
+six-month follow-up. Psychopharmacology (Berl). 2018;235(2):399–408.
+20.
+Griffiths RR, Johnson MW, Carducci MA, Umbricht A, Richards WA, Richards BD,
+et al. Psilocybin produces substantial and sustained decreases in depression
+and anxiety in patients with life-threatening cancer: a randomized double-
+blind trial. J Psychopharmacol Oxf Engl. 2016;30(12):1181–97.
+21.
+Ross S, Bossis A, Guss J, Agin-Liebes G, Malone T, Cohen B, et al. Rapid and
+sustained symptom reduction following psilocybin treatment for anxiety
+and depression in patients with life-threatening cancer: a randomized
+controlled trial. J Psychopharmacol Oxf Engl. 2016;30(12):1165–80.
+22.
+Reiche S, Hermle L, Gutwinski S, Jungaberle H, Gasser P, Majić T.
+Serotonergic hallucinogens in the treatment of anxiety and depression in
+patients suffering from a life-threatening disease: a systematic review. Prog
+Neuropsychopharmacol Biol Psychiatry. 2018;81:1–10.
+23.
+Mithoefer MC, Mithoefer AT, Feduccia AA, Jerome L, Wagner M, Wymer J, et
+al. 3,4-methylenedioxymethamphetamine (MDMA)-assisted psychotherapy
+for post-traumatic stress disorder in military veterans, firefighters, and police
+officers: a randomised, double-blind, dose-response, phase 2 clinical trial.
+Lancet Psychiatry. 2018;5(6):486–97.
+24.
+MacLean KA, Johnson MW, Griffiths RR. Mystical experiences occasioned by
+the hallucinogen psilocybin lead to increases in the personality domain of
+openness. J Psychopharmacol Oxf Engl. 2011;25(11):1453–61.
+25.
+Griffiths RR, Johnson MW, Richards WA, Richards BD, McCann U, Jesse R.
+Psilocybin occasioned mystical-type experiences: immediate and persisting
+dose-related effects. Psychopharmacology (Berl). 2011;218(4):649–65.
+26.
+Liechti ME. Modern Clinical Research on LSD. Neuropsychopharmacology.
+2017;42:2114.
+27.
+Hendricks PS. Awe: a putative mechanism underlying the effects of classic
+psychedelic-assisted psychotherapy. Int Rev Psychiatry. 2018;30(4):331–42.
+28.
+Halpern JH, Pope HG. Do hallucinogens cause residual neuropsychological
+toxicity? Drug Alcohol Depend. 1999;53(3):247–56.
+29.
+van Amsterdam J, Opperhuizen A, van den Brink W. Harm potential of
+magic mushroom use: a review. Regul Toxicol Pharmacol. 2011;59(3):423–9.
+30.
+Johnson MW, Griffiths RR, Hendricks PS, Henningfield JE. The abuse
+potential of medical psilocybin according to the 8 factors of the Controlled
+Substances Act. Neuropharmacology. 2018;142:143–66.
+31.
+Johnson MW, Richards WA, Griffiths RR. Human hallucinogen research:
+guidelines for safety. J Psychopharmacol Oxf Engl. 2008;22(6):603–20.
+32.
+Carbonaro TM, Bradstreet MP, Barrett FS, MacLean KA, Jesse R, Johnson MW,
+et al. Survey study of challenging experiences after ingesting psilocybin
+mushrooms: acute and enduring positive and negative consequences. J
+Psychopharmacol (Oxf). 2016;30(12):1268–78.
+33.
+Johnson MW, Sewell RA, Griffiths RR. Psilocybin dose-dependently causes
+delayed, transient headaches in healthy volunteers. Drug Alcohol Depend.
+2012;123(1–3):132–40.
+34.
+Corbin JM. Grounded theory. J Posit Psychol. 2017;12(3):301–2.
+35.
+Corbin JM, Strauss A. Grounded theory research: procedures, canons, and
+evaluative criteria. Qual Sociol. 1990;13(1):3–21.
+36.
+Stol K, Ralph DP, FitzGerald B. Grounded theory in software engineering
+research: a critical review and guidelines. In 2016 [cited 2017 Mar 30].
+Available from: https://researchspace.auckland.ac.nz/handle/2292/29124
+37.
+Anderson T, Petranker R, Dinh-Williams L-A. An empirical codebook of
+microdosing benefits and challenges [Internet]. 2018 [cited 2018 Dec 20].
+Available from: https://osf.io/qwu4s/
+38.
+Peer E, Brandimarte L, Samat S, Acquisti A. Beyond the Turk: alternative
+platforms for crowdsourcing behavioral research. J Exp Soc Psychol.
+2017;70:153–63.
+39.
+Sattelberg W. The demographics of Reddit: who uses the site?. Tech Junkie.
+2018 [cited 2018 Aug 22]. Available from: https://www.techjunkie.com/
+demographics-reddit/
+40.
+Anderson T. Reddit user “oredna”, Thomas Anderson, PhD Student. reddit.
+2017 [cited 2018 Sep 9]. Available from: https://www.reddit.com/user/oredna/
+41.
+Anderson T, Petranker R, Dinh-Williams L-A. Demography of microdosing
+community survey. Open Science Framework. 2017 [cited 2018 Jul 6].
+Available from: https://osf.io/g5cwy/
+42.
+Matejka J, Glueck M, Grossman T, Fitzmaurice G. The effect of visual
+appearance on the performance of continuous sliders and visual analogue
+scales. In: Proceedings of the 2016 CHI Conference on Human Factors in
+Computing Systems. New York: ACM; 2016. p. 5421–5432. (CHI ’16). [cited
+2017 Jun 13] Available from: http://doi.acm.org/10.1145/2858036.2858063
+43.
+National Library of Medicine (US). Genetics home reference. HTR2A gene. 2018
+[cited 2018 Nov 15]. Available from: https://ghr.nlm.nih.gov/gene/HTR2A
+44.
+Barrett FS, Johnson MW, Griffiths RR. Neuroticism is associated with
+challenging experiences with psilocybin mushrooms. Personal Individ Differ.
+2017;117:155–60.
+45.
+Hamilton JP, Farmer M, Fogelman P, Gotlib IH. Depressive rumination, the
+default-mode network, and the dark matter of clinical neuroscience. Biol
+Psychiatry. 2015;78(4):224–30.
+46.
+Bowyer SM. Coherence a measure of the brain networks: past and present.
+Neuropsychiatr Electrophysiol. 2016;2(1):1.
+47.
+Decker S, Fillmore PT, Roberts A. Coherence: The measurement and
+application of brain connectivity. NeuroRegulation. 2017;4(1):3.
+48.
+Harman WW, McKim RH, Mogar RE, Fadiman J, Stolaroff MJ. Psychedelic
+agents in creative problem-solving: a pilot study. Psychol Rep. 1966;
+19(1):211–27.
+49.
+Lin W-L, Hsu K-Y, Chen H-C, Chang W. Different attentional traits, different
+creativities. Think Ski Creat. 2013;9:96–106.
+50.
+Webb ME, Little DR, Cropper SJ. Insight is not in the problem: investigating
+insight in problem solving across task types. Front Psychol. 2016 [cited 2018 Jun
+2];7. Available from: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5035735/
+51.
+UNODC. Final act of the United Nations conference for the adoption of a
+protocol on psychotropic substances. In: The International Drug Control
+Conventions. United Nations Office on Drugs and Crime; 2013. p. 71–75.
+[cited 2018 Aug 9] Available from: http://www.un-ilibrary.org/drugs-crime-
+and-terrorism/the-international-drug-control-conventions_814e78a6-en
+52.
+Taylor H. Hit men, drugs and malicious teens: the darknet is going
+mainstream. CNBC. 2016 [cited 2018 Aug 9]; Available from: https://www.
+cnbc.com/2016/05/18/hit-men-drugs-and-malicious-teens-the-darknet-is-
+going-mainstream.html
+53.
+Nutt DJ, King LA, Phillips LD. Drug harms in the UK: a multicriteria decision
+analysis. Lancet. 2010;376(9752):1558–65.
+54.
+Rucker JJH. Psychedelic drugs should be legally reclassified so that
+researchers can investigate their therapeutic potential. BMJ. 2015;350:h2902.
+55.
+Johnson MW, Garcia-Romeu A, Griffiths RR. Long-term follow-up of
+psilocybin-facilitated smoking cessation. Am J Drug Alcohol Abuse. 2017;
+43(1):55–60.
+Anderson et al. Harm Reduction Journal           (2019) 16:43 
+Page 10 of 10

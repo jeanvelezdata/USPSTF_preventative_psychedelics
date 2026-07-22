@@ -1,0 +1,77 @@
+{
+  "data": {
+    "article": {
+      "StudyID": "Lawn 2017",
+      "Citation": "Lawn W, et al. Well-being, problematic alcohol consumption and acute subjective drug effects in past-year ayahuasca users: a large, international, self-selecting online survey. Scientific Reports. 2017.",
+      "Title": "Well-being, problematic alcohol consumption and acute subjective drug effects in past-year ayahuasca users: a large, international, self-selecting online survey",
+      "Year": 2017,
+      "Corpus/Prefix": ".",
+      "Condition": "Alcohol",
+      "Substance": "Ayahuasca",
+      "IsObservational": "Y",
+      "N": 527,
+      "AE_denominator": 176,
+      "ArmScope": "psychedelic_arm",
+      "PctFemale": 28.0,
+      "GenderCategory": "male/female/transgender (whole-sample categories); Ayahuasca User subgroup: female n=146 (28.0%), male/transgender counts not broken out separately for this subgroup",
+      "PctBIPOC": ".",
+      "PctIndigenous": ".",
+      "SafetyReported": "Y",
+      "AnyAEReported": "Y",
+      "NumDistinctAEs": "Not numbered",
+      "NParticipantsWithAE": ".",
+      "WorstSeverity": "Mild",
+      "text_source": "born-digital",
+      "Model": "claude-sonnet-5",
+      "PromptVersion": "ae_extraction_prompt_v1",
+      "RubricVersion": "severity_rubric_v1",
+      "Temperature": 1
+    },
+    "ae_events": [
+      {
+        "AE_ID": "Lawn 2017_AE01",
+        "StudyID": "Lawn 2017",
+        "AE_type": "both",
+        "Description": "Subjective rating of negative effects while high; ayahuasca rated higher than LSD/magic mushrooms (mean 3.88/10 vs 3.07/2.72), among new users",
+        "Onset": "in-session",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "Y",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Lawn 2017_AE02",
+        "StudyID": "Lawn 2017",
+        "AE_type": "AE",
+        "Description": "Authors attribute ayahuasca's higher negative-effects rating partly to its 'well-known vomit-inducing effects'; not separately quantified in this sample",
+        "Onset": "in-session",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "Y",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "N"
+      }
+    ]
+  },
+  "rationale": {
+    "article": {
+      "IsObservational": "Cross-sectional, self-selecting online drug-use survey (Global Drug Survey 2016); no randomization or research-administered intervention protocol \u2014 participants are naturalistic drug users reporting on their own prior use. Clear observational/naturalistic design.",
+      "Condition": "Article is not an AUD-treatment study; it is a general drug-use survey that reports past-year problematic alcohol use (AUDIT scores) as a primary outcome for ayahuasca users vs. comparison groups. Coded 'Alcohol' as the closest fit among the three allowed enum values given this alcohol-outcome focus; flagged because the study population is not alcohol-use-disorder patients.",
+      "Substance": "Ayahuasca is the substance of primary interest; LSD and magic mushrooms ('classic psychedelics') appear only as comparison/reference groups, not as a co-administered intervention, so excluded from this field.",
+      "N": "527 is the total 'Ayahuasca Users' (past-year use) group, the denominator used for most group-comparison analyses. Individual sub-analyses have smaller valid-case Ns due to missing data (e.g., age n=515, well-being n=521, AUDIT n=458, mental-illness n=~518) \u2014 paper explicitly reports valid percentages rather than absolute percentages where data are missing.",
+      "AE_denominator": "No formal AE ascertainment was conducted. The only quantified negative-effect measure is the 'negative effects when high' 0-10 rating in Table 3, drawn from the subsample whose last new drug tried was ayahuasca (n=176 for that specific item, out of 191 who reported route of administration and 192 total in that subgroup).",
+      "ArmScope": "All reported N, demographic, and effect-rating values used here are drawn exclusively from the Ayahuasca User subgroup (or the ayahuasca-first-time-try subsample), never pooled with the Classic Psychedelic or Other Respondent comparison groups.",
+      "PctBIPOC": "Race/ethnicity not collected or reported; only country of residence, gender, and age were captured as demographic variables.",
+      "PctIndigenous": "Not reported \u2014 no race/ethnicity data collected.",
+      "SafetyReported": "The survey did not conduct formal clinical AE surveillance. It included a subjective 0-10 Likert item ('the negative effects while high') and a 'risk of harm following a session of use' item as part of a standard drug-effects-profile battery (also covering pleasure, strength, comedown, urge, value-for-money), plus a Discussion-section reference to ayahuasca's 'well-known vomit-inducing effects.' Coded Y because some safety-relevant signal is present, but it is a global subjective rating/background reference rather than itemized AE case reporting \u2014 flagged for reviewer judgment.",
+      "AnyAEReported": "Negative-effects rating and vomiting are mentioned but never presented as counted/discrete AE occurrences with a participant count, so treated as 'reported but not counted.'",
+      "NumDistinctAEs": "No countable AE types with case counts are given; only an aggregate 0-10 negative-effects rating and a qualitative mention of vomiting as a known ayahuasca effect (not quantified for this sample).",
+      "WorstSeverity": "Both identified events (negative-effects rating, vomiting reference) are framed as expected, transient, acute-dosing phenomena with no reported intervention, hospitalization, or persistent impairment, so both default to Mild per the rubric's 'expected acute drug effects default here' rule."
+    },
+    "ae_events": {
+      "Lawn 2017_AE01": "Coded AE_type='both' because the underlying survey item ('negative effects while high') is a composite rating that could reflect either physiological discomfort (AE-like) or challenging in-session psychological phenomenology (CEQ-like); article gives no further breakdown. SeverityIndeterminate='Y' because only a mean/SD group rating is available, with no description of specific symptoms, duration, or intervention \u2014 defaulted to Mild per the under-specified-AE rule in the severity rubric.",
+      "Lawn 2017_AE02": "Vomiting is named explicitly in the Discussion as a 'well-known' effect of ayahuasca used by the authors to help explain the higher negative-effects rating, but no count, proportion, or severity detail is given for this specific sample \u2014 SeverityIndeterminate='Y', defaulted to Mild absent any intervention/seriousness signal. Flagged since this is inferred from discussion-section background knowledge rather than a directly measured study finding."
+    }
+  }
+}

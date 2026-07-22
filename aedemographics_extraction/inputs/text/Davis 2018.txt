@@ -1,0 +1,1218 @@
+A Mixed Method Analysis of Persisting Effects Associated with 
+Positive Outcomes Following Ibogaine Detoxification
+Alan K. Davis, PhD [Research Fellow],
+Behavioral Pharmacology Research Unit Department of Psychiatry and Behavioral Sciences, 
+Johns Hopkins University School of Medicine, 5510 Nathan Shock Drive, Baltimore, MD 21224
+Elise Renn, BS [Research Assistant],
+Crossroads Treatment Center, Rosarito, Mexico
+Austin-Marley Windham-Herman, BS [Medical Student],
+Yale School of Medicine, New Haven, CT & Research Assistant, Crossroads Treatment Center, 
+Rosarito, Mexico
+Martin Polanco, MD [Medical Director], and
+Crossroads Treatment Center, Rosarito, Mexico
+Joseph P. Barsuglia, PhD [Director of Assessment and Research]
+Crossroads Treatment Center, Rosarito, Mexico
+Abstract
+We examined persisting effects, self-perceived challenges, and potential benefits associated with 
+positive outcomes following ibogaine detoxification using data collected as part of a larger online 
+retrospective study of patients (n=73) who received treatment for chronic opioid use in Mexico 
+between 2012 and 2015. A mixed-methods design was used comparing treatment responders 
+versus non-responders, as well as content coding of themes from open-ended questions. Most 
+participants reported positive persisting effects of ibogaine detoxification (e.g., enhanced personal 
+sense of gratitude and authenticity, and meaning and appreciation for life). Compared to non-
+responders, treatment responders endorsed greater persisting changes in their ability to tolerate 
+difficult/painful feelings, capacity for coping with stress, and reduced unhealthy anger. Treatment 
+responders reported greater change in subjective levels of inner peace, joy, feelings of love/
+openheartedness, and experiences of sacredness in life. Qualitative analyses revealed that 
+treatment responders reported a heightened sense of spiritual awareness and greater connection to 
+their intra/inter-personal relationships after ibogaine detoxification. Notable challenges of ibogaine 
+detoxification included psychological and health-related difficulties during treatment and 
+challenges with post-treatment integration. Findings highlight the persisting effects associated with 
+positive response to ibogaine detoxification and possible post-treatment needs (i.e., more 
+integration/aftercare resources). Future research using rigorous experimental designs is needed.
+Corresponding Author Tele: 704-219-1733; alan.kooi.davis@gmail.com. 
+Author’s Contributions: The first three authors were responsible for study conceptualization and were responsible for data analyses 
+and manuscript writing and initial editing. Remaining authors assisted with conceptualization, data collection, study design, or 
+manuscript editing. All authors approve submission of this manuscript.
+HHS Public Access
+Author manuscript
+J Psychoactive Drugs. Author manuscript; available in PMC 2019 September 01.
+Published in final edited form as:
+J Psychoactive Drugs. 2018 ; 50(4): 287–297. doi:10.1080/02791072.2018.1487607.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+
+Keywords
+Ibogaine; Heroin; Prescription Opioids; Persisting Effects
+Introduction
+Opioid use disorder is now a public health epidemic in the United States (U.S.) and Europe 
+(Degenhardt et al. 2010). Approximately 12% of individuals diagnosed with a substance use 
+disorder are addicted to some form of opioid (SAMHSA 2015) and rates are higher among 
+vulnerable populations (e.g., U.S. military veterans, chronic pain patients; Samoylenko et al. 
+2010; Sehgal, Manchikanti, & Smith 2012). The U.S. president recently declared the opioid 
+crisis, “a public health emergency”, with estimates that more than 59,000 lives were lost in 
+2016 due to opioids (Davis 2017; Johnson & Wagner 2017), making overdose the primary 
+cause of accidental death in the U.S. (Center for Disease Control and Prevention 2016). 
+Opioid Maintenance Therapies (OMTs) are the standard treatment for detoxification and 
+managing withdrawal in the U.S. OMTs often require long-term administration and have 
+hazardous long-term effects (Tennant 2013; Upadhyay et al. 2010; Andersen et al. 2011), 
+perpetuate dependency, demonstrate limited efficacy (Ling & Compton 2005; Nielsen et al. 
+2016; Stotts, Dodrill, & Kosten 2009; Veilleux et al. 2010; Weiss et al. 2011) and there is a 
+shortage of providers to meet current demand (National Council on Alcoholism and Drug 
+Dependence 2016; Saloner & Karthikeyan 2015).
+One potential treatment for this population is detoxification with ibogaine. Ibogaine 
+hydrochloride is a plant-derived compound that attenuates opioid withdrawal, and reduces 
+drug use and craving to opioids, as well as other addictive substances (Schenberg et al 
+2014). Ibogaine improves mood (Brown & Alper 2017) and appears to engender novel 
+psychological insights through its dream-like properties, often bringing users through a half-
+day immersion in visual imagery and autobiographical memories (Schenberg et. al 2017). 
+Ibogaine’s mechanism of action appears to foster adaptive changes in the opioid and 
+dopamine pathways, antagonism of NMDA and nicotinic acetylcholine receptors, and an 
+increased expression of glial-derived neurotropic factor (GDNF) (Brown & Alper 2017).
+Despite the Schedule I status of ibogaine in the U.S., international studies have documented 
+its efficacy in treating opioid dependence in clinical populations (e.g., Alper et al. 1999; 
+Bastiaans 2004; Brown & Alper 2017; Davis et al., 2017; Mash et al. 2001; Noller, 
+Frampton, & Yazar-Klosinski 2017). In recent observational and longitudinal studies, 
+patients who received one course of ibogaine treatment demonstrated rapid reductions in 
+withdrawal symptoms and durable improvements in drug use, and legal and social 
+functioning (Brown & Alper 2017; Noller et al 2017). In earlier studies, a single ibogaine 
+treatment was associated with acute reductions in substance use and improvements in 
+psychosocial domains including depression, anxiety, and interpersonal functioning 
+(Bastiaans 2004; Mash et. al 2001).
+Although these studies have demonstrated positive clinical outcomes associated with 
+ibogaine detoxification, little is known about the acute and persisting subjective effects of 
+ibogaine treatment. For example, qualitative reports from patients in Brazil revealed that 
+Davis et al.
+Page 2
+J Psychoactive Drugs. Author manuscript; available in PMC 2019 September 01.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+
+ibogaine treatment led to long-term improvements in family and social relationships, 
+increased engagement in academic and professional activities, improved quality of life, self-
+efficacy, and coping (Schenberg et al. 2016). Moreover, a phenomenological analysis 
+showed that the long-term effects were associated with accounts of the ibogaine experience 
+which included enhanced memory retrieval connected to substance use, perception of the 
+future including simulations of the future with or without drug use, cognitive effects of 
+“brain resetting,” and spiritual phenomena such as connecting with deceased ancestors and 
+spiritual entities (Schenberg et al. 2017). These reports highlight aspects of the qualitative 
+and visionary aspects of the acute ibogaine experience and its subsequent effects. However, 
+the small sample sizes of these investigations, coupled with the possible heterogeneity of 
+ibogaine patients across cultures, and the lack of examination of whether treatment-response 
+is associated with persisting effects of ibogaine, limits understanding of this topic and thus 
+warrants further investigation.
+Identifying differences in perceived benefits/challenges and persisting effects associated 
+with ibogaine between individuals with positive treatment responses (i.e., abstinence and 
+reduction of use) versus negative treatment response (i.e., no change in use or use increased) 
+could assist clinicians and researchers in designing more effective adjunctive psychosocial or 
+environmental interventions. Therefore, the present study addresses these questions by 
+evaluating the persisting psychosocial effects associated with ibogaine treatment and 
+comparing the differences in persisting effects between those with and without a positive 
+treatment response among people with chronic opioid use. The second aim of this study is to 
+evaluate patients’ self-reported perceptions of the benefits, and the personal changes 
+resulting from, and challenges associated with, ibogaine detoxification. We also examine 
+differences in subjective reports as a function of whether participants had a positive or 
+negative treatment response (based on post-detoxification patterns of opioid use).
+Method
+Recruitment Procedure
+The present study is a secondary data analysis from a larger retrospective study evaluating 
+the subjective effectiveness of ibogaine treatment among a sample of chronic opioid users 
+who received treatment at an inpatient clinic in Mexico (Davis et al., 2017). Details 
+regarding recruitment and procedures are provided elsewhere (see Davis et al., 2017). Past 
+patients were contacted via phone and email to participate in an anonymous web-based 
+survey. Of the 285 people who were contacted, 134 (47%) responded to this contact, 
+consented to participate, and began filling out the survey. However, 33 did not complete all 
+measures and 13 reported seeking treatment for problems associated with another substance 
+(e.g., alcohol). Of the 88 participants included in the main outcome publication (Davis et al., 
+2017), 15 did not complete our measures of the persisting psychosocial effects of ibogaine 
+and were excluded from the present study. Thus, the final sample was comprised of 73 
+participants. All procedures were approved from an independent Institutional Review Board 
+(Solutions IRB).
+Davis et al.
+Page 3
+J Psychoactive Drugs. Author manuscript; available in PMC 2019 September 01.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+
+Treatment setting and content
+All participants received one week of detoxification treatment with ibogaine on a fee for 
+service basis at a clinic in Mexico. This residential setting provided care for adults (18–60) 
+with substance use disorders and co-occurring mental health problems. Patients at this clinic 
+undergo a physical examination with a staff physician. Each patient is administered 
+ibgogaine hydrochloride (Voacanga-derived) which is imported from Phytostan Enterprises, 
+Inc. and is Good Manufacturing Practice (GMP) certified. All patients received cardiac 
+monitoring, intravenous saline and electrolytes, and medical monitoring during their 
+ibogaine session. Further details about the setting can be found in the main outcomes 
+manuscript (Davis et al., 2017).
+Measures
+Opioid consumption before and after ibogaine detoxification.—Participants were 
+asked about their primary substance use (i.e., prescription opioids or heroin), whether there 
+was a secondary substance for which they were seeking treatment, how many years of 
+consumption they had prior to treatment, the number of days using primary substance in the 
+30 days prior to treatment, their patterns of consuming opioids after ibogaine detoxification 
+compared to pre-treatment patterns (i.e., abstinent, increased, decreased, stayed the same), 
+and whether any opioids had been consumed during the six months prior to this survey.
+Persisting effects of ibogaine.—Persisting subjective effects of ibogaine were assessed 
+using a modified version of the Persisting Effects Questionnaire (Pahnke 1969; Doblin 1991; 
+Griffiths et al. 2006). This questionnaire was originally used to measure changes in attitudes, 
+moods, behavior, and spiritual experience in several studies that evaluated the lasting effects 
+of psilocybin (Griffiths et al. 2008; 2011). We modified the 145-item questionnaire used by 
+Griffiths et al (2006) to reduce response burden and eliminate item redundancy. Specifically, 
+the original questionnaire included items that have similar content but are measured in two 
+ways as a function of valence (i.e., whether an item being measured has increased and 
+whether the item being measured has decreased). Therefore, we collapsed all of these pairs 
+of opposite valence items into one item each with a response option that captured whether 
+the item being measured had decreased or increased (from −2 “Significantly decreased” to 
++2 “Significantly increased”) since the participant’s ibogaine treatment. This reduced the 
+item pool from 145 to 70 items. An additional 24 items were excluded from the 
+questionnaire because they were ambiguous (e.g., “Your life has a diminished dynamic 
+quality”) or redundant with other items (e.g., “Your experience of sacredness in daily life has 
+increased” and “You experience profound sacredness more frequently”). The remaining 46 
+items comprised the modified version of the questionnaire (see Table 2 for items).
+Qualitative items regarding ibogaine treatment.—We asked three open-ended 
+questions examining participants’ perceptions of their treatment experiences: 1) “Describe 
+any personal changes that you believe occurred as a direct result of your ibogaine treatment 
+experience (e.g., emotional health, identity, substance use, addictive behaviors, relationships, 
+spirituality, physical health, etc.),” 2) What is the greatest benefit that you received from 
+ibogaine treatment?,” and 3) “What was the most challenging part of your ibogaine 
+treatment experience?”
+Davis et al.
+Page 4
+J Psychoactive Drugs. Author manuscript; available in PMC 2019 September 01.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+
+Demographics.—Participants reported demographic information including age, gender, 
+sexual orientation, ethnicity, and relationship status.
+Data Analyses
+We conducted frequency counts of demographic characteristics, and primary substance use 
+and treatment history variables using the entire sample (n=73). For the quantitative analysis 
+of responses to items from the persisting effects of ibogaine questionnaire we evaluated 
+means and standard deviations. Next, the sample was split into two subgroups based on 
+treatment response following ibogaine treatment (i.e., treatment responder = never used 
+primary substance again, decreased use; treatment non-responder = no change in use, use 
+increased). Using treatment response as an independent variable, we then conducted a series 
+of t-test analyses, and effect size (Cohen’s d) calculations, to evaluate whether there were 
+differences in mean rating of persisting effects of ibogaine treatment between subgroups. 
+Only those items where both the t-test was significant at a conservative cutoff (p < .01) and 
+the effect size was large (>.80) were interpreted as meaningfully different between 
+subgroups in order to reduce the likelihood of Type I error. All quantitative analyses were 
+conducted using SPSS version 23.
+For the qualitative analysis of open-ended questions examining the personal changes, 
+greatest benefits, and challenges associated with ibogaine treatment, we conducted a content 
+analysis (Casterle et al. 2012; Miles and Huberman 1994) to allocate each participant’s 
+response to a list of themes that were derived from each set of responses from the open-
+ended questions. We started with the Preparation for Coding Process described by Casterlé 
+et al (2012), which consisted of reading all open-ended responses, generating a list of 
+potential themes, and refining themes when they were not initially supported by the 
+responses. Following this, in the Actual Coding Process, we used a list of themes for each 
+open-ended question to generate a list of concepts used to define each theme and then 
+assigned each theme a numerical code (e.g., 1, 2, 3, 4, etc.) to link a participant comment to 
+the associated theme. Absolute number of utterances that were coded into each theme within 
+each open-ended question were then calculated. Last, we used the same independent variable 
+(i.e., treatment response) in the quantitative analysis to separate utterances for comparison 
+by qualitative responses.
+Results
+Characteristics of sample and pre-treatment substance use and treatment history
+Most participants were male (70%), approximately one-half (49%) were between the ages of 
+18 and 34, and 90% reported that they were White/Caucasian (Table 1). Almost equal 
+proportions reported they sought treatment for problematic prescription opioid (52%) or 
+heroin (48%) consumption. Most participants (71%) had been using heroin or prescription 
+opioids for at least four years, many of whom (21%) had been using for at least 10 years 
+prior to treatment, and most (58%) reported that it had been at least one year since their 
+ibogaine treatment. Overall, 26 (36%) reported never using opioids again, 33 (45%) reported 
+decreased use, 11 (15%) reported no change in their opioid use, and 3 (4%) reported 
+increased use following ibogaine treatment. Thus, 81% were classified as treatment 
+Davis et al.
+Page 5
+J Psychoactive Drugs. Author manuscript; available in PMC 2019 September 01.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+
+responders (i.e., never used opioids again or use decreased after treatment) and 19% were 
+classified as non-responders (i.e., use stayed the same or increased after treatment). 
+Furthermore, 58% of the sample reported that it had been at least one year since treatment, 
+and one-quarter of them indicated that it had been more than two years since treatment 
+(Table 1).
+Persisting attributions of the effects of ibogaine treatment and differences in functioning 
+by treatment responder subgroup
+Item means of the persisting effects of ibogaine questionnaire in the total sample indicate 
+that most participants believed that they had experienced positive changes in psychological, 
+behavioral, and social functioning after ibogaine treatment (Table 2). For the sample overall, 
+participants reported the greatest positive changes in psychosocial functioning, which 
+included changes in their sense of gratitude, ability to be a more authentic person, sense of 
+meaning in life, appreciation for life, sense of life being interconnected, quality of 
+relationships, importance of spirituality in life, sense of values, and acceptance of others 
+(highest endorsed items with M’s > 0.84). Further, statistically significant differences in 
+positive effects were associated with ibogaine treatment. Specifically, compared to 
+participants in the non-responder subgroup, those in the treatment responder subgroup had 
+significantly greater positive changes in their sense of gratitude, ability to be a more 
+authentic person, sense of meaning in life, appreciation for life, experience of inner peace, 
+feelings of love and openheartedness, experience of joy or bliss, experience of sacredness in 
+daily life, ability to tolerate difficult or painful feelings, and capacity for coping with stress, 
+and they experienced a significant decrease in feelings of unhealthy anger (d’s > 0.80, p’s <.
+01).
+Qualitative analysis of persisting subjective ibogaine experiences and challenges related 
+to treatment
+Regarding persisting experiences related to personal changes, treatment responders reported 
+a total of 106 utterances and treatment non-responders reported a total of 17 utterances. 
+Table 3 (top half), reveals that the most frequently mentioned themes across both groups 
+were psychological changes (32% of utterances by treatment responders and 35% of 
+utterances by treatment non-responders; “it gave me a new outlook on life” “increase in 
+clarity, drive, pursuit of happiness, freedom”), and SUD symptom relief (32% of treatment 
+responders; “decreased craving” “I am not an addict anymore”). Treatment non-responders 
+made no utterance regarding changes in spirituality or one’s relationship to self and others, 
+compared to approximately 17% of the utterances made by treatment responders (Table 3).
+Regarding the greatest benefits associated with ibogaine treatment, treatment responders 
+provided a total of 90 utterances and treatment non-responders provided a total of 14 
+utterances. Table 3 (lower half) shows that the most frequently mentioned themes were 
+psychological benefit (41% of utterances by treatment responders and 64% of utterances by 
+treatment non-responders and ; “felt alive finally” “depression and anxiety gone”) and SUD 
+symptom relief (44% of treatment responders and 29% of treatment non-responders; “no 
+more heroin” “rapid detox from opiates” “no more cravings, drug dreams”). Treatment non-
+Davis et al.
+Page 6
+J Psychoactive Drugs. Author manuscript; available in PMC 2019 September 01.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+
+responders did not mention any emotional and spiritual benefits, however these themes 
+comprised 11% of the utterances in the treatment responder group.
+Last, when reporting the greatest challenge of one’s ibogaine detoxification, treatment 
+responders provided a total of 121 utterances and treatment non-responders provided a total 
+of 29 utterances (Table 4). The most frequently expressed challenges occurred post-
+treatment (61% of all utterances). Among the utterances associated with post-treatment 
+challenges, the most frequently mentioned theme was difficulty with incorporating their 
+ibogaine experience into their daily lives (i.e., integration; 23% of treatment responders and 
+21% of treatment non-responders). The challenges that occurred during treatment comprised 
+33% of all utterances with the most frequently reported themes being psychological 
+challenges (12% of treatment responders) and health-related problems (21% of treatment 
+non-responders). Pre-treatment challenges were mentioned the most infrequently (less than 
+1% in both groups) and included psychological, emotional, or health-related problems.
+Discussion
+To our knowledge, this is the largest published sample of opioid users’ persisting effects 
+following ibogaine detoxification. Qualitative and quantitative analyses yielded an array of 
+subjective changes, as well as challenges, following ibogaine administration. Our findings 
+are consistent with several studies (Bastiaans 2004; Mash et al. 2001; Schenberg et al. 2016; 
+2017), documenting cessation and reduction of chronic substance use and reductions in 
+craving and withdrawal (Davis et al. 2017), and also a spectrum of reported changes in 
+emotional, spiritual, social, and health-related outcomes following ibogaine detoxification. 
+This study builds upon prior work by examining a larger variety of psychosocial changes 
+using a modified questionnaire of persisting effects and examining differences in these 
+effects as a function of treatment response. Taken together, results support the notion that 
+ibogaine patients experience persisting benefits associated with a change in gratitude, 
+authenticity, and sense of meaning in life, although those who are able to decrease or quit 
+using opioids (i.e., treatment responders) reported the most benefit in these areas.
+Results also revealed that treatment responders endorsed comparatively greater persistent 
+increases in positive affect (peace, love, joy), affective coping ability (stress, painful 
+feelings), and reductions in negative affect (anger, stress). These findings are consistent with 
+behavioral theory wherein negative reinforcement (i.e., substance use helps one avoid a 
+negative affective state) is itself an important predictor of the development and maintenance 
+of a substance use disorder (Blume 2001). It is possible that ibogaine detoxification has 
+secondary benefits associated with emotional regulation, which would be consistent with the 
+theoretical implication that improving emotional regulation enhances recovery from a 
+substance use disorder (Yi-Yuan, Tang, & Posner 2016). However, these temporal 
+associations are speculative, given the cross-sectional nature of the data, and future research 
+should examine this hypotheses using a longitudinal design.
+In addition to affect regulation and other persisting psychological benefits, participants 
+indicated that they experienced persisting effects related to social and interpersonal 
+relationships (e.g., quality of relationships, acceptance of others). Consistent with evidence 
+Davis et al.
+Page 7
+J Psychoactive Drugs. Author manuscript; available in PMC 2019 September 01.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+
+suggesting that isolation from social relationships predicts future substance use (Baarendse, 
+Limpens, & Vanderschuren 2014; Lesscher et al. 2015), this study demonstrates that 
+ibogaine detoxification is associated with increased sense of interpersonal and social 
+connection, which were experienced to a greater degree by treatment responders compared 
+to non-responders. We speculate that the benefits of ibogaine detoxification (reductions in 
+craving and withdrawal) are in part maintained by pre-existing social supports that the 
+patient is able to re-engage with following treatment. However, it could also be that 
+persisting changes associated with interpersonal connections are a result of enhanced ability 
+to make new social connections. Either of these hypotheses, if supported, suggest that 
+ibogaine treatment may be enhanced when families and significant others are included in the 
+process of preparation or recovery/integration, or by connecting patients to mutual support 
+groups or assisting them in developing new social connections following treatment.
+Results also highlight the importance of persisting psychological and spiritual insights 
+gained during the ibogaine session, which were reported to a higher degree in treatment 
+responders compared to non-responders. This raises the question of whether the insightful or 
+mystical effects engendered by ibogaine are a necessary component of the experience, 
+similar to the mystical experience found to be associated with persisting changes following 
+psilocybin administration in clinical trials (e.g., Griffiths et al., 2006; 2011), and thus 
+required to catalyze a therapeutic outcome. Although research using non-psychedelic 
+congeners of the ibogaine molecule (e.g., 18-methoxycoronaridine; Rezvani et al. 2016) 
+supports the potential of this substance in reducing substance use in animal models, these 
+endeavors may limit the therapeutic role of the acute psychedelic experience in humans. For 
+example, research on the applications of LSD and psilocybin in the treatment of addiction 
+demonstrate their efficacy is in part due to their ability to occasion mystical experiences 
+which in turn have lasting effects on personality and outlook (Bogenschutz & Johnson, 
+2016). Thus, the role of the psychedelic experience can be one of visions and breakthrough 
+psychological insights that are not merely an unwanted side effect but are a primary 
+therapeutic mechanism. This hypothesis awaits future research using rigorous experimental 
+designs.
+Study limitations should be considered when interpreting these results. First, we recruited 
+participants who received ibogaine detoxification from only one facility, most of whom were 
+white and male, and individuals who received treatment elsewhere or who are from diverse 
+backgrounds, may have experienced different persisting effects. Our response rate was 47% 
+of all possible patients with contact information from this clinic, and it is possible that 
+patients who were not reached or who declined to participate differed in their persisting 
+experiences associated with ibogaine detoxification. Our results are also dependent upon 
+factors associated with retrospective recall and social desirability. Similarly, although 
+participants were asked about their experiences in relation to ibogaine, it is possible that 
+their attributions are better accounted for by other aspects of their residential detoxification 
+experience, such as the social support experienced by the staff of the treatment facility or the 
+cumulative effects of the multiple psychosocial and medical treatments attempted by patients 
+prior to this treatment. Moreover, we used a modified version of a measure assessing the 
+persisting effects associated with ibogaine detoxification and, due to our small sample size, 
+Davis et al.
+Page 8
+J Psychoactive Drugs. Author manuscript; available in PMC 2019 September 01.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+
+we were unable to examine the psychometric properties of this modified questionnaire. 
+Consequently, the reliability and validity of this scale should be examined in future studies.
+These limitations notwithstanding, study findings have several implications. For example, 
+future analyses should include prospective measures of multiple domains of emotional, 
+social, and spiritual functioning following ibogaine interventions in order to develop 
+predictive models for assessing factors associated with efficacy of the ibogaine 
+detoxification treatment experience. Further, continuing to examine patient experiences 
+using qualitative or mixed-methods in research on ibogaine can be useful in developing more 
+robust theoretical models surrounding short- and long-term ibogaine outcomes, as the data in 
+humans are still negligible. Grounded qualitative approaches (Strauss & Juliet, 1994) could 
+be used to capture the phenomenology of this under-researched compound. Last, we 
+recommend that researchers continue to elucidate what aspects of treatment appear to be 
+beneficial or challenging for patients, which could inform current treatment practices in 
+international jurisdictions where ibogaine is an available treatment option. In terms of 
+clinical applications, clinicians who provide this intervention should know that the most 
+frequently mentioned challenge in our sample was difficulty with integrating the acute 
+effects of their ibogaine experience into their daily lives following treatment, for both 
+treatment responders and non-responders. Therefore, such integration/aftercare needs could 
+come in the form of connecting patients to some form of residential or outpatient 
+psychological support (e.g., therapist, addiction recovery coach) in their home environment 
+or to maintain such supports with patients via telementalhealth by providers associated with 
+their treatment facility. Providing such services, especially to those with low levels of family 
+or other social support, may contribute to a positive treatment response.
+Acknowledgements:
+The participants for sharing their time and insights regarding their experiences. The authors would also like to thank 
+Kirsten J Lauritsen and Michelle Joyner for their assistance with coding open-ended responses.
+Funding Sources: During his work on this study, Dr. Davis was initially funded by an NIAAA training grant 
+(#007747) and subsequently on NIDA T32 training grant (#07209). Dr. Barsuglia was employed by Crossroads 
+Treatment Center as Director of Assessment and Research and Dr. Polanco was the medical director and owner of 
+Crossroads Treatment Center during data collection and initial data analysis.
+References
+Alper KR, Lotsof HS, Frenken GM, Luciano DJ, & Bastiaans J 1999 Treatment of acute opioid 
+withdrawal with ibogaine. The American Journal on Addictions / American Academy of 
+Psychiatrists in Alcoholism and Addictions 8: 234–42. http://doi.org/10.1080/105504999305848
+Andersen JM, Olaussen CF, Ripel Å, Mørland J 2011 Long-term methadone treatment impairs novelty 
+preference in rats both when present and absent in brain tissue. Pharmacol Biochem Behav 98: 412–
+16. [PubMed: 21352846] 
+Baarendse P, Limpens J, & Vanderschuren L 2014 Disrupted social development enhances the 
+motivation for cocaine in rats. Psychopharmacology 231: 1695–1704. [PubMed: 24311358] 
+Bastiaans E 2004 Life after Ibogaine: An exploratory study of the long-term effects of ibogaine 
+treatment on drug addicts. Retrieved from www.ibogaine.desk.nl/ibogaine_udi_bastiaans.pdf
+Bogenschutz MP, & Johnson MW 2016 Classic hallucinogens in the treatment of addictions. Progress 
+In Neuro-Psychopharmacology & Biological Psychiatry 64: 250–58. doi:10.1016/j.pnpbp.
+2015.03.002 [PubMed: 25784600] 
+Davis et al.
+Page 9
+J Psychoactive Drugs. Author manuscript; available in PMC 2019 September 01.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+
+Brown TK, & Alper K 2017 Treatment of opioid use disorder with ibogaine: detoxification and drug 
+use outcomes. The American Journal of Drug and Alcohol Abuse 0: 1–13. http://doi.org/
+10.1080/00952990.2017.1320802
+Casterlé B, Gastmans C, Bryon E, & Denier Y 2012 QUAGOL: A guide for qualitative data analysis. 
+International Journal of Nursing Studies 49: 360–71. doi:10.1016/j.ijnurstu.2011.09.012. [PubMed: 
+21996649] 
+Center for Disease Control and Prevention. 2016 Drug overdose deaths in the United States hit record 
+numbers in 2014. Retrieved June 21, 2016, from https://www.cdc.gov/drugoverdose/epidemic/.
+Davis JH 2017 Trump declares the opioid crisis a “Public Health Emergency.” NY Times. Retrieved 
+from https://www.nytimes.com/2017/10/26/us/politics/trump-opioid-crisis.html
+Davis AK, Barsuglia J, Windam-Herman M, Lynch M & Polanco M (2017). Effectiveness of Ibogaine-
+assisted treatment for problematic opioid consumption: Short- and long-term outcomes and current 
+psychological functioning. Journal of Psychedelic Studies, 1, 65–73. https://doi.org/
+10.1556/2054.01.2017.009 [PubMed: 30272050] 
+Degenhardt L, Charlson F, Mathers B, et al. 2014 The global epidemiology and burden of opioid 
+dependence: Results from the global burden of disease 2010 study. Addiction109:1320–33. 
+[PubMed: 24661272] 
+Doblin R 1991 Pahnke’s Good Friday experiment: a long-term follow-up and methodological critique. 
+Journal of Transpersonal Psychology 23:1–28.
+Fernandez JW 1982 Bwiti: An Ethnography of the Religious Imagination in Africa. Princeton, NJ: 
+Princenton University Press.
+Griffiths RR, Johnson MW, Richards WA, Richards BD, McCann U, & Jesse R 2011 Psilocybin 
+occasioned mystical-type experiences: Immediate and persisting dose-related effects. 
+Psychopharmacology 218: 649–65. http://doi.org/10.1007/s00213-011-2358-5 [PubMed: 
+21674151] 
+Griffiths RR, Richards WA, McCann U, & Jesse R 2006 Psilocybin can occasion mystical experiences 
+having substantial and sustained personal meaning and spiritual significance. Psychopharmacology 
+187: 268–83. [PubMed: 16826400] 
+Griffiths RR, Richards WA, Johnson MW, McCann UD, Jesse R, Griffiths RR, … McCann UD 2008 
+Mystical-type experiences occasioned by psilocybin mediate the attribution of personal meaning 
+and spiritual significance 14 months later. Journal of Psychopharmacology 22: 621–32. http://
+doi.org/10.1177/0269881108094300 [PubMed: 18593735] 
+Heink A, Katsikas S, & Lange-Altman T 2017 Examination of the Phenomenology of the Ibogaine 
+Treatment Experience: Role of Altered States of Consciousness and Psychedelic Experiences. 
+Journal of Psychoactive Drugs 0: 1–8. http://doi.org/10.1080/02791072.2017.1290855
+Johnson J, & Wagner J 2017 Trump declares the opioid crisis a public health emergency. Retrieved 
+from https://www.washingtonpost.com/news/post-politics/wp/2017/10/26/trump-plans-to-declare-
+the-opioid-crisis-a-public-health-emergency/?utm_term=.0391096cc23d
+Keith T 2016 Politics In Real Life: Dying From Overdose While Waiting For Treatment. National 
+Public Radio. http://www.npr.org/2016/05/12/477652738/politics-in-real-life-dying-from-
+overdose-while-waiting-for-treatment.
+Lesscher HM, Spoelder M, Rotte MD, Janssen MJ, Hesseling P, Lozeman-van’t Klooster JG, & ... 
+Vanderschuren LJ 2015 Early social isolation augments alcohol consumption in rats. Behavioural 
+Pharmacology 26: 673–s80. doi:10.1097/FBP.0000000000000165 [PubMed: 26325660] 
+Ling W & Compton P 2005 Recent advances in the treatment of opiate addiction. Clin Neurosci Res 5: 
+161–67.
+MacLean KA, Johnson MW, & Griffiths RR 2011 Mystical experiences occasioned by the 
+hallucinogen psilocybin lead to increases in the personality domain of openness. Journal of 
+Psychopharmacology 25: 1453–61. http://doi.org/10.1177/0269881111420188 [PubMed: 
+21956378] 
+Mash DC, Kovera CA, Pablo J, et al. 2001 Ibogaine in the treatment of heroin withdrawal. The 
+Alkaloids 56: 155–71. [PubMed: 11705106] 
+Miles M, and Huberman A 1994 Qualitative data analysis: An expanded sourcebook, 2nd ed. 
+Thousand Oaks, CA: Sage Publications.
+Davis et al.
+Page 10
+J Psychoactive Drugs. Author manuscript; available in PMC 2019 September 01.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+
+National Council on Alcoholism and Drug Dependence NCADD. 2016 Shortage of Addiction 
+Treatment Personnel Intensifies as Opioid Crisis Worsens. Retrieved from https://www.ncadd.org/
+blogs/in-the-news/shortage-of-addiction-treatment-personnel-intensifies-as-opioid-crisis-worsens.
+Nielsen S, Larance B, Degenhardt L, Gowing L, Kehler C, & Lintzeris N 2016 Opioid agonist 
+treatment for pharmaceutical opioid dependent people. Cochrane Database of Systematic Reviews, 
+2016. http://doi.org/10.1002/14651858.CD011117.pub2.
+Noller GE, Frampton CM, & Yazar-Klosinski B 2017 Ibogaine treatment outcomes for opioid 
+dependence from a twelve-month follow-up observational study. The American Journal of Drug 
+and Alcohol Abuse 0: 1–10. http://doi.org/10.1080/00952990.2017.1310218
+Pahnke WN 1969 Psychedelic drugs and mystical experience. International Journal of Psychiatry in 
+Clinical Practice 5: 149–62.
+Rezvani AH, Cauley MC, Slade S, Wells C, Glick S, Rose JE, & Levin ED 2016 Acute oral 18-
+methoxycoronaridine 18-MC decreases both alcohol intake and IV nicotine self-administration in 
+rats. Pharmacology, Biochemistry And Behavior 150–151: 153–57. doi:10.1016/j.pbb.2016.10.010
+Saloner B, & Karthikeyan S 2015 Changes in Substance Abuse Treatment Use Among Individuals 
+With Opioid Use Disorders in the United States, 2004–2013. Journal of the American Medical 
+Association. Retrieved from http://jama.jamanetwork.com/article.aspx?
+articleid=2456156\npapers3://publication/doi/10.1001/jama.2015.10345.
+Samoylenko V, Rahman MM, Tekwani BL, et al. 2010 Banisteriopsis caapi, a unique combination of 
+MAO inhibitory and antioxidative constituents for the activities relevant to neurodegenerative 
+disorders and Parkinson’s disease. J Ethnopharmacol 127: 357–67. [PubMed: 19879939] 
+Schenberg EE, de Castro Comis MA, Chaves BR, & da Silveira DX 2014 Treating drug dependence 
+with the aid of ibogaine: a retrospective study. Journal of Psychopharmacology 28: 993–1000. 
+http://doi.org/10.1177/0269881114552713 [PubMed: 25271214] 
+Schenberg EE, de Castro Comis MA, Alexandre JFM, Tófoli LF, Chaves BDR & da Silveria DX 2016 
+Treating drug dependence with the aid of ibogaine: A qualitative study. Journal of Psychedelic 
+Studies 1: 10–19. http://doi.org/10.1556/2054.01.2016.002
+Schenberg EE, de Castro Comis MA, Alexandre JFM, Chaves BDR, Tófoli LF, & da Silveria DX 2017 
+A phenomenological analysis of the subjective experience elicited by ibogaine in the context of a 
+drug dependence treatment. Journal of Psychedelic Studies 0: 1–10. http://doi.org/
+10.1556/2054.01.2017.007
+Sehgal N, Manchikanti L, & Smith HS 2012 Prescription opioid abuse in chronic pain: a review of 
+opioid abuse predictors and strategies to curb opioid abuse. Pain Physician 15: 67–92.
+Stotts AL, Dodrill CL, Kosten TR 2009 Opioid dependence treatment: options in pharmacotherapy. 
+Expert Opin Pharmacotherapy 10: 1727–40.
+Strauss A, & Juliet C 1994 Grounded Theory Methodology: An Overview In Denzin N & Lincoln Y 
+Handbook of Qualitative Research. 1st ed. pp. 273–284.
+Studerus E, Kometer M, Hasler F, & Vollenweider FX 2011 Acute, subacute and long-term subjective 
+effects of psilocybin in healthy humans: a pooled analysis of experimental studies. Journal of 
+Psychopharmacology 25: 1434–52. http://doi.org/10.1177/0269881110382466 [PubMed: 
+20855349] 
+Substance Abuse and Mental Health Services Administration, Center for Behavioral Health Statistics 
+and Quality. 2015 Behavioral health trends in the United States: Results from the 2014 National 
+Survey on Drug Use and Health. Rockville, MD: Substance Abuse and Mental Health Services 
+Administration Retrieved from http://www.samhsa.gov/data/sites/default/files/NSDUH-
+FRR1-2014/NSDUH-FRR1-2014.pdf
+Tennant F. Improvement in Physiologic but Not Hormonal Functions After 10 Years of Opioid 
+Treatment; 29th Annual Meeting of the American Academy of Pain Medicine AAPM; Fort 
+Lauderdale, Florida. 2013. 
+Upadhyay J, Maleki N, Potter J, Elman I, Rudrauf D, Knudsen J, … Borsook D 2010 Alterations in 
+brain structure and functional connectivity in prescription opioid-dependent patients. Brain 133: 
+2098–2114. http://doi.org/10.1093/brain/awq138 [PubMed: 20558415] 
+Davis et al.
+Page 11
+J Psychoactive Drugs. Author manuscript; available in PMC 2019 September 01.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+
+Veilleux JC, Colvin PJ, Anderson J, York C, & Heinz AJ 2010 A review of opioid dependence 
+treatment: Pharmacological and psychosocial interventions to treat opioid addiction. Clin Psychol 
+Rev 30: 55–166.
+Vestal C 2016 Waiting lists grow for medicine to fight opioid addiction. The Huffington Post. http://
+www.huffingtonpost.com/entry/opioid-addiction-treatment_us_56bcb1a5e4b08ffac1241b63.
+Weiss RD, Potter JS, Fiellin DA, et al. 2011 Adjunctive counseling during brief and extended 
+buprenorphine-naloxone treatment for prescription opioid dependence: a 2-phase randomized 
+controlled trial. Arch Gen Psychiatry 68:1238–46. [PubMed: 22065255] 
+Tang Y, Tang R, & Posner MI 2016 Mindfulness meditation improves emotion regulation and reduces 
+drug abuse. Drug and Alcohol Dependence 163: S13–S18. doi:10.1016/j.drugalcdep.2015.11.041 
+[PubMed: 27306725] 
+Davis et al.
+Page 12
+J Psychoactive Drugs. Author manuscript; available in PMC 2019 September 01.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Davis et al.
+Page 13
+Table 1.
+Demographic history, pre-Ibogaine substance use for full sample and treatment responder and non-responder subgroups
+Characteristic
+Full sample (n=73)
+%
+Treatment responders (n=59)a
+%
+Treatment non-responders (n=14)a
+%
+X2 statistic
+Age
+6.472
+   18-24
+8
+7
+14
+   25-34
+41
+36
+64
+   35-54
+38
+42
+21
+   55+
+12
+15
+0
+Gender
+2.067
+   Male
+70
+66
+86
+   Female
+30
+34
+14
+Ethnicity
+1.837
+   White/Caucasian
+90
+88
+100
+   Non-White/Other
+10
+11
+0
+Relationship Status
+1.264
+   Single/Divorced
+66
+63
+79
+   Married/Partnered
+34
+37
+21
+Time Since Ibogaine Treatment
+1.281
+   Less than 1 year
+43
+43
+43
+   1-2 years
+33
+31
+43
+   2 years or more
+25
+27
+14
+Primary Substance
+3.827*
+   Heroin
+48
+42^
+71^
+   Prescription Opioids
+52
+58^
+29^
+Number of years using primary substance prior to Ibogaine treatment
+1.445
+   Less than 1 year
+6
+5
+7
+   1-3 years
+24
+22
+36
+   4-6 years
+32
+32
+29
+   7-9 years
+18
+19
+14
+   10 or more years
+21
+22
+14
+J Psychoactive Drugs. Author manuscript; available in PMC 2019 September 01.
+
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Davis et al.
+Page 14
+*p < .05
+Note. Totals may not sum to 100% due to rounding
+^Values marked with this superscript within a row are significantly different from one another.
+aResponder categories were created by combining treatment response subgroups. Participants were considered Responders if they reported that they never returned to using or if their use had decreased and 
+Non-responders were those participants who reported that there was no change in their substance use following treatment or that their use had increased.
+J Psychoactive Drugs. Author manuscript; available in PMC 2019 September 01.
+
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Davis et al.
+Page 15
+Table 2
+Item means and standard deviations of the persisting effects of ibogaine questionnaire, and comparison of item means between treatment response groups 
+(responders vs. non-responders).
+Item (in descending order of overall mean score)
+Overall
+Sample
+(N=73)
+M(SD)
+Treatment
+Responders
+(N=59)
+M(SD)
+Treatment
+Non-responders
+(N=14)a
+M(SD)
+t-value
+Cohen’s d
+Your gratitude or sense of gratefulness has…
+1.04 (1.15)
+1.24 (1.06)
+0.21 (1.19)
+−3.18**
+.91†
+Your ability to be a more authentic person has…
+1.00 (1.05)
+1.17 (0.29)
+0.29 (1.07)
+−2.97**
+1.12†
+The sense of meaning in your life has…
+0.99 (1.09)
+1.19 (0.99)
+0.14 (1.10)
+−3.47**
+1.27†
+Your appreciation for life has…
+0.96 (1.07)
+1.14 (1.01)
+0.21 (1.05)
+−3.05**
+.90†
+Your sense of life being interconnected has…
+0.88 (0.95)
+0.97 (0.95)
+0.46 (0.88)
+−1.76
+.56
+The quality of your relationships has…
+0.86 (1.09)
+0.98 (1.04)
+0.31 (1.18)
+−2.07*
+.60
+The importance of spirituality in your life has…
+0.86 (0.97)
+0.95 (0.99)
+0.46 (0.78)
+−1.66
+.55
+Your sense of values (e.g., what is important in your life) has…
+0.85 (0.92)
+0.97 (0.93)
+0.36 (0.75)
+−2.28*
+.72
+Your acceptance of others has…
+0.85 (0.84)
+0.90 (0.85)
+0.64 (0.84)
+−1.02
+.31
+Your mental flexibility/open-mindedness has…
+0.78 (0.98)
+0.88 (1.00)
+0.31 (0.75)
+−1.94
+.64
+Your desire for serving others has…
+0.78 (1.00)
+0.90 (0.85)
+0.29 (0.99)
+−2.10*
+.66
+Your interpersonal empathy (e.g., sharing others’ feelings) has…
+0.78 (0.93)
+0.88 (0.93)
+0.36 (0.84)
+−1.93
+.59
+Your connection to the God of your understanding/ultimate reality/higher power has…
+0.78 (0.94)
+0.86 (0.96)
+0.38 (0.77)
+−1.69
+.55
+The degree of intimacy with your loved ones has…
+0.77 (1.03)
+0.86 (1.04)
+0.36 (0.93)
+−1.67
+.51
+Your experience of inner peace (i.e., centeredness, serenity, Calmness, contentment) has…
+0.77 (1.11)
+0.95 (1.06)
+0.00 (1.04)
+−3.03**
+.90†
+Your feelings of love and openheartedness have…
+0.75 (1.13)
+0.97 (1.02)
+−0.14 (1.17)
+−3.57**
+1.01†
+Your sense of inner authority in your life has
+0.73 (1.23)
+0.86 (1.20)
+0.14 (1.23)
+−2.02*
+.59
+Your feelings of certainty about the reality of unconditional love (also called divine love, metta, or grace) have…
+0.72 (1.00)
+0.81 (0.99)
+0.31 (0.95)
+−1.68
+.52
+Your degree of mental clarity has…
+0.70 (1.09)
+0.81 (1.09)
+0.21 (0.98)
+−1.88
+.58
+The degree to which your spiritual practice has provided you with a sense of emotional support has…
+0.69 (0.97)
+0.78 (0.97)
+0.31 (0.95)
+−1.60
+.49
+Your ability to be more at home in the present moment has…
+0.65 (1.09)
+0.76 (1.04)
+0.15 (1.21)
+−1.86
+.54
+Your sensitivity to the needs of others has…
+0.65 (0.86)
+0.73 (0.85)
+0.31 (0.86)
+−1.62
+.49
+Your level or sense of hopefulness has…
+0.64 (1.36)
+0.83 (1.33)
+−0.14 (1.23)
+−2.50*
+.76
+J Psychoactive Drugs. Author manuscript; available in PMC 2019 September 01.
+
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Davis et al.
+Page 16
+Item (in descending order of overall mean score)
+Overall
+Sample
+(N=73)
+M(SD)
+Treatment
+Responders
+(N=59)
+M(SD)
+Treatment
+Non-responders
+(N=14)a
+M(SD)
+t-value
+Cohen’s d
+You experience of joy or bliss has…
+0.63 (1.12)
+0.83 (1.04)
+−0.21 (1.12)
+−3.34**
+.96†
+Your belief in some form of continuance after death has…
+0.62 (1.04)
+0.69 (1.07)
+0.31 (0.86)
+−1.22
+.39
+Your self-confidence/self-assurance has…
+0.60 (1.18)
+0.76 (1.09)
+−0.07 (1.33)
+−2.47*
+.68
+Your feelings of being inspired or having inspiration have…
+0.53 (1.11)
+0.68 (1.09)
+−0.07 (1.00)
+−2.35*
+.72
+Your capacity to be playful has…
+0.47 (1.09)
+0.61 (1.03)
+−0.14 (1.17)
+−2.39*
+.68
+The impact past traumas have on your current emotional well-being has…
+0.47 (0.94)
+0.54 (0.92)
+0.14 (1.03)
+−1.43
+.41
+Your ability to focus your attention has…
+0.47 (1.12)
+0.58 (1.05)
+0.00 (1.30)
+−1.76
+.49
+Your experience of sacredness in daily life has…
+0.47 (1.15)
+0.68 (1.12)
+−0.46 (0.78)
+−3.48**
+1.18†
+Your ability to tolerate difficult or painful feelings has…
+0.44 (1.14)
+0.66 (1.08)
+−0.54 (0.88)
+−3.75***
+1.22†
+Your decision making ability has…
+0.42 (1.08)
+0.49 (1.07)
+0.14 (1.10)
+−1.09
+.32
+You level of impulsivity has…
+0.42 (0.91)
+0.46 (0.92)
+0.29 (0.91)
+−0.63
+.19
+Your capacity for coping with stress has…
+0.41 (1.05)
+0.59 (0.97)
+−0.36 (1.08)
+−3.23**
+.93†
+Time spent in quiet meditation or prayer has…
+0.39 (1.07)
+0.47 (1.10)
+0.00 (0.82)
+−1.46
+.48
+Your ability to access helpful forms of therapy (e.g., counseling, yoga, recovery groups, etc.) has…
+0.38 (0.97)
+0.47 (1.01)
+0.00 (0.68)
+−1.67
+.55
+Your ability to have healthy sleep and rest has…
+0.37 (1.22)
+0.54 (1.21)
+−0.36 (1.09)
+−2.58*
+.78
+Your creativity has…
+0.30 (1.02)
+0.42 (0.99)
+−0.21 (1.05)
+−2.15*
+.62
+Your level of interpersonal conflict has…
+0.30 (1.02)
+0.42 (0.99)
+−0.21 (1.05)
+−2.15*
+.62
+Your concern with thoughts and feeling about your body has…
+0.15 (0.95)
+0.14 (0.90)
+0.21 (1.19)
+0.28
+.07
+Your apprehensiveness about your own death has…
+−0.25 (1.10)
+−0.29 (1.10)
+−0.08 (1.12)
+0.63
+.19
+Your feelings of anxiety or nervousness have…
+−0.42 (1.20)
+−0.56 (1.19)
+0.14 (1.10)
+2.01*
+.61
+Your feelings of unhealthy anger (e.g., bitterness, hostility, scorn) have…
+−0.62 (1.15)
+−0.81 (1.04)
+0.21 (1.25)
+3.19**
+.89†
+Your feelings of unhealthy or unhelpful guilt have…
+−0.62 (1.15)
+−0.85 (1.10)
+0.00 (1.18)
+2.57*
+.75
+Your feelings of sadness or depression have…
+−0.63 (1.18)
+−0.78 (1.16)
+0.00 (1.11)
+2.28*
+.69
+Note. Items in bold text were bot statistically significant at p < .01 and had an effect size >.80.
+*p < .05
+**p < .01;
+J Psychoactive Drugs. Author manuscript; available in PMC 2019 September 01.
+
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Davis et al.
+Page 17
+***p < .001
+†Large effect size (>0.80)
+aNs range from 13-14 due to missing data
+J Psychoactive Drugs. Author manuscript; available in PMC 2019 September 01.
+
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Davis et al.
+Page 18
+Table 3
+Open-ended responses to two questions regarding the long-term effects of ibogaine detoxification by treatment 
+response group (i.e., responder versus non-responder).
+Long-term Effects: Personal Changes
+Number of Utterances (% of group)
+Theme
+Exemplar Quote
+Treatment
+responders
+(N=59)
+Treatment
+non-responders
+(N=14)
+Emotional
+9 (8%)
+2 (12%)
+ “I am no longer afraid of death”
+ “I have a great deal less fear in my life”
+Spiritual
+9 (8%)
+0 (0%)
+ “…more in tune spiritually”
+Psychological
+34 (32%)
+6 (35%)
+ “it gave me a new outlook on life”
+ “increase in clarity, drive, pursuit of happiness, freedom”
+Health-related
+10 (9%)
+6 (35%)
+ “able to sleep better at night”
+ “practice yoga daily, changed diet”
+SUD Symptom Relief
+34 (32%)
+3 (17%)
+ “decreased craving”
+ “I am not an addict anymore”
+Relationship to Self and Others
+10 (9%)
+0 (0%)
+ “reconnected to my true self”
+ “my relationship with my wife improved”
+Long-term Effects: Greatest Benefit
+Number of Utterances (% of group)
+Theme
+Exemplar Quote
+Treatment
+responders
+(N=59)
+Treatment
+non-responders
+(N=14)
+Emotional
+4 (4%)
+0 (0%)
+ “self love”
+Spiritual
+7 (9%)
+0 (0%)
+ “put me on a path to spiritual awareness”
+Psychological
+37 (41%)
+9 (64%)
+ “felt alive finally”
+ “depression and anxiety gone”
+Health-related
+2 (2%)
+1 (7%)
+ “(ibogaine) ended my digestive problems”
+SUD Symptom Relief
+40 (44%)
+4 (29%)
+ “no more heroin”
+ “rapid detox from opiates”
+ “no more cravings, drug dreams”
+J Psychoactive Drugs. Author manuscript; available in PMC 2019 September 01.
+
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Davis et al.
+Page 19
+Table 4
+Open-ended responses to one question regarding the challenges associated with ibogaine detoxification by 
+treatment response group (i.e., responder versus non-responder).
+Number of Utterances (% of group)
+Theme
+Exemplar Quote
+Treatment
+responders
+(N=59)
+Treatment
+non-responders
+(N=14)
+Pre-treatment
+Psychological
+5 (4%)
+0 (0%)
+ “the unknown”
+Emotional
+3 (2%)
+0 (0%)
+ “being afraid… to do something illegal”
+Health-related
+1 (1%)
+0 (0%)
+“finding a vein for an IV”
+During treatment
+Ibogaine Itself
+10 (8%)
+2 (7%)
+ “the treatment itself”
+Psychological
+14 (12%)
+4 (14%)
+ “being committed to the process”
+Health-related
+ “being without cannabis”
+13 (11%)
+6 (21%)
+Post-treatment
+Integration
+ “the 4 weeks after…”
+28 (23%)
+6 (21%)
+Staying off Opiates
+10 (8%)
+3 (10%)
+ “adjusting to a new and sober life”
+Exhaustion/Fatigue
+7 (6%)
+2 (7%)
+ “sleeping after treatment”
+Emotional
+11 (9%)
+1 (3%)
+ “uncomfortable and raw feelings”
+Health-related
+14 (12%)
+4 (14%)
+ “the restlessness afterward”
+Cost-related
+5 (4%)
+1 (3%)
+ “paying for it”
+J Psychoactive Drugs. Author manuscript; available in PMC 2019 September 01.

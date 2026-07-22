@@ -1,0 +1,14 @@
+{
+  "StudyID": "Barbosa 2018",
+  "prompt_file": "prompts/ae_extraction_prompt_v1.md",
+  "prompt_version": "ae_extraction_prompt_v1",
+  "rubric_version": "severity_rubric_v1",
+  "text_file": "inputs/text/Barbosa 2018.txt",
+  "text_source": "born-digital",
+  "citation": "Barbosa PCR, et al. Assessment of Alcohol and Tobacco Use Disorders Among Religious Users of Ayahuasca. Frontiers in Psychiatry. 2018.",
+  "year": 2018,
+  "model": "claude-sonnet-5",
+  "temperature": 1,
+  "temperature_note": "Not directly configurable via Claude Code Task-tool subagent dispatch; platform default, not an experimentally-controlled 0.",
+  "dispatched_at": "2026-07-22T00:34:45Z"
+}

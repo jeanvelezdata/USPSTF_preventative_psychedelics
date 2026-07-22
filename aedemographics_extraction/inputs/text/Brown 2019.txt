@@ -1,0 +1,1194 @@
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=ujpd20
+Journal of Psychoactive Drugs
+ISSN: 0279-1072 (Print) 2159-9777 (Online) Journal homepage: www.tandfonline.com/journals/ujpd20
+Ibogaine and Subjective Experience:
+Transformative States and
+Psychopharmacotherapy in the Treatment of
+Opioid Use Disorder
+Thomas K. Brown, Geoff E. Noller & Julie O. Denenberg
+To cite this article: Thomas K. Brown, Geoff E. Noller & Julie O. Denenberg (2019) Ibogaine
+and Subjective Experience: Transformative States and Psychopharmacotherapy in the
+Treatment of Opioid Use Disorder, Journal of Psychoactive Drugs, 51:2, 155-165, DOI:
+10.1080/02791072.2019.1598603
+To link to this article:  https://doi.org/10.1080/02791072.2019.1598603
+Published online: 09 Apr 2019.
+Submit your article to this journal 
+Article views: 916
+View related articles 
+View Crossmark data
+Citing articles: 14 View citing articles 
+
+
+ARTICLE
+Ibogaine and Subjective Experience: Transformative States and
+Psychopharmacotherapy in the Treatment of Opioid Use Disorder
+Thomas K. Brown, Ph.D.a, Geoff E. Noller, Ph.D.b, and Julie O. Denenberg, M.A.c
+aAcademic Enrichment Programs, UC San Diego, La Jolla, CA, USA; bDepartment of General Practice and Rural Health, School of Medicine,
+University of Otago, Aotearoa, New Zealand; cDepartment of Family Medicine and Public Health, UC San Diego, La Jolla, CA, USA
+ABSTRACT
+This article examines the therapeutic potential of ibogaine, a powerful oneiric alkaloid derived
+from Tabernanthe iboga, through exploring the subjective experiences of 44 participants from two
+observational treatment studies for opioid use disorder. Following treatment with ibogaine HCl,
+the participants (Mexico, n = 30; New Zealand, n = 14) completed the States of Consciousness
+Questionnaire (SCQ) to quantify the magnitude of their psychotropic experience. Participants
+were asked to provide written transcripts of their experiences, with those supplied being analyzed
+thematically through an iterative process, to produce a set of coded themes. Mean SCQ scores in
+many domains exceeded 0.6, the cutoff score for a “complete mystical experience,” with 43% of
+participants achieving this in more than five of seven domains. Qualitative data described multiple
+phenomenological themes, including auditory and visual phenomena. Ibogaine’s strong oneiric
+action promoted cyclic visions leading to confronting realizations involving remorse and regret for
+participants’ actions towards others, but also release from feelings of guilt and worthlessness.
+Many participants reported feeling a sense of spiritual transformation. We propose that the
+reported experiences support the meaningfulness of ibogaine’s oneiric effects as a discrete
+element in its capacity for healing, which is distinct from pharmacological actions associated
+with reduced withdrawal and craving.
+ARTICLE HISTORY
+Received 3 January 2019
+Revised 19 February 2019
+Accepted 15 March 2019
+KEYWORDS
+Ibogaine; opioids;
+hallucinogen; oneiric
+psychedelic drug treatment
+Introduction
+What has become a global movement for ibogaine
+treatment began with a serendipitous discovery by
+a single person. In June of 1962, Howard Lotsof, then
+a 19-year-old heroin-dependent member of a group of
+lay drug experimenters living in Brooklyn, received
+some ibogaine from a friend, who told him to expect
+a 36-hour “trip.”
+He took the ibogaine unsuspecting of the eventually
+profound implications. About 23 hours after the onset
+of the drug’s effects, and long after the intense visual
+hallucinations
+subsided,
+Lotsof
+slept.
+He
+awoke
+refreshed three hours later. And it dawned on him
+that he was not in withdrawal and his perception of
+heroin as a comforting drug had changed: “I now
+viewed heroin as a drug which emulated death. And
+the very next thought into my mind was ‘I prefer life to
+death’” (Lotsof 2007).
+Soon, others in the drug experimentation group
+reported similar results. Eventually, Lotsof was granted
+five patents for ibogaine treatment for dependence on
+a variety of substances and, by 1990, ibogaine treatment
+sites were being run by proponents involved with
+addict self-help groups in Amsterdam and New York
+City (Alper, Beal, and Kaplan 2001).
+This nascent movement grew rapidly, with over
+3,400 people receiving ibogaine treatment by 2006,
+most
+for
+opioid
+dependence
+(Alper,
+Lotsof,
+and
+Kaplan 2008). By 2017, there were about 80 treatment
+sites globally (Brown 2017). Several thousand ibogaine
+treatments have provided anecdotal evidence of ibo-
+gaine’s efficacy, and of its capacity to facilitate pro-
+found alterations of consciousness.
+With three recent publications, the scientific evi-
+dence of the efficacy of ibogaine treatment is growing.
+These include Schenberg et al. (2014), showing efficacy
+with increased periods of abstinence from problem
+substances, primarily cocaine, following detoxification.
+Two observational studies provided evidence that ibo-
+gaine is effective in treating opioid use disorder. Both
+Brown and Alper (2018) and Noller, Frampton, and
+Yazar-Klosinski (2018) found that ibogaine is useful
+in acute opioid detoxification, significantly reducing
+CONTACT Geoff E. Noller
+geoff.noller@otago.ac.nz
+Department of General Practice and Rural Health, School of Medicine, University of Otago,
+Dunedin Campus, PO Box 56, Dunedin 9054, Aotearoa, New Zealand
+Color versions of one or more of the figures in the article can be found online at www.tandfonline.com/ujpd.
+JOURNAL OF PSYCHOACTIVE DRUGS
+2019, VOL. 51, NO. 2, 155–165
+https://doi.org/10.1080/02791072.2019.1598603
+© 2019 Taylor & Francis Group, LLC
+
+
+withdrawal symptoms as measured by the Subjective
+Opioid Withdrawal Scale (Handelman et al. 1987).
+Both also showed, using the Addiction Severity Index
+(ASI; McLellan et al. 1999), that Drug Use Severity
+scores were significantly reduced 12 months following
+treatment. One study, based at treatment sites in
+Mexico (Brown and Alper 2018), also found significant
+improvements in ASI Family and Social Status sub-
+scores at all follow-up time points from one to 12
+months following treatment. The other study, based
+in
+New
+Zealand
+(Noller,
+Frampton,
+and
+Yazar-
+Klosinski 2018), showed that ibogaine treatment was
+associated with improvement in depression symptoms
+at one month and 12 months following treatment, as
+measured by the Beck Depression Inventory-II (BDI-II;
+Beck, Steer, and Brown 1996).
+Despite the efficacy demonstrated by these studies,
+as well as numerous pre-clinical studies demonstrating
+that ibogaine ameliorates withdrawal-like symptoms
+and reduces drug self-administration in animal models
+(Baumann
+et
+al.
+2001;
+Glick,
+Maisonneuve,
+and
+Szumlinski 2000), understanding ibogaine’s efficacy in
+treating substance use disorders is limited.
+Numerous pharmacologically based theories have
+been offered to explain ibogaine’s efficacy (Alper 2001;
+Mačiulaitis et al. 2008; Popik et al. 1995). In this article,
+however, we examine the possibility that at least some of
+its efficacy is mediated through the intense hallucino-
+genic experiences that the drug often engenders.
+Method
+The data reported in the following are derived from
+two observational studies of ibogaine treatment for
+opioid dependence. The studies described outcomes
+from ibogaine treatments in Mexico (lead investigator
+TKB) and New Zealand (lead investigator GN), and full
+methods are reported elsewhere (Brown and Alper
+2018; Noller, Frampton, and Yazar-Klosinski 2018).
+Research procedures used for this report received prior
+ethics approval from the Human Research Review
+Committee at the California Institute of Integral Studies
+(Mexico) and the Health and Disabilities Multi-region
+Ethics Committee (New Zealand).
+The two studies were strictly observational, with
+neither investigator involved in administering ibogaine
+or in clinic management. Treatment consisted of
+administration of ibogaine hydrochloride (HCl) over
+the course of one to five days, followed by a clinic
+stay of three to six days. New Zealand participants
+received an average of 31.4 ± 7.6 mg/kg of ibogaine
+HCl during treatment, while 26 Mexican participants
+received an average of 22.5 ± 10.1 mg/kg; i.e.,
+significantly lower than the New Zealand participants
+(t-test, p = 0.018). The remaining four Mexican parti-
+cipants received an average of 9.9 ± 7.8 mg/kg ibogaine
+HCl and additionally received 18.7 ± 17.3 mg/kg of
+a crude extract of T. iboga rootbark.
+The treatment samples consisted of 30 clients of
+private Mexican clinics and 14 from New Zealand
+clinics, treated on a fee-for-service basis. All partici-
+pants in both studies had sought treatment with ibo-
+gaine for opioid detoxification, having met DSM-IV
+criteria for Opioid Dependence with Physiological
+Dependence
+on
+Opioids
+(American
+Psychiatric
+Association 2000). Exclusion criteria included receiving
+treatment for substance use disorders other than opioid
+dependence, previous ibogaine treatment, and exhibit-
+ing any physical or psychosocial problems preventing
+compliance with study requirements.
+The Mexico study sample comprised 25 men and
+five women with an average age of 29.0 ± 9.0 years.
+Twenty-seven were Caucasian, one Hispanic, and two
+other ethnicities. They had used opioids an average of
+29.0 days out of the previous 30 before treatment and
+had undergone an average of 3.1 prior treatments for
+opioid dependence.
+The New Zealand treatment sample consisted of
+seven women and seven men with an average age of
+38 ± 4.8 years, all Caucasian. They had used opioids an
+average of 28.8 days out of the previous 30 before
+treatment and had undergone an average of 4.7 prior
+treatments for opioid dependence.
+Quantitative measures
+The primary quantitative outcome measure was the
+States of Consciousness Questionnaire (SCQ; Griffiths
+et al. 2006), used to assess the alterations of conscious-
+ness experienced during the ibogaine treatment. The
+SCQ has seven subscales; participants are considered to
+have had a “complete mystical experience” if their score
+on either or both of the “internal unity” and “external
+unity” subscales, as well as on all five of the other
+subscales, is greater than or equal to 60% of the max-
+imum possible score on that scale (Griffiths et al. 2006).
+The SCQ was administered to individuals within one to
+four days after treatment. Data from all 14 of the New
+Zealand participants and 28 in the Mexico study were
+included in the analysis; for two in the Mexico study,
+the SCQ was either not administered or was lost.
+The secondary quantitative measure was the Beck
+Depression Inventory-II (BDI-II; Beck, Steer, and
+Brown 1996), administered initially within two days
+before treatment and subsequently within one to four
+days after treatment when the individual was still in
+156
+T. K. BROWN ET AL.
+
+
+residence at the clinic. All 14 New Zealand participants
+completed this measure at both time points, as did 24
+of the 30 Mexico participants. Analysis of the BDI-II
+scores
+(two-tailed
+t-test)
+compared
+pre-treatment
+scores with post-treatment scores for each study and
+for the pooled data from the two studies (n = 38).
+Qualitative interviews and method
+As immediately post-treatment as was practicable, partici-
+pants were asked to describe their ibogaine experiences.
+Seven of the New Zealand participants and 13 of the
+Mexico participants provided sufficient text to be included
+in the textual analysis. Other participants provided nothing
+(11), drawings (11), or limited text (2). A comparison of the
+two groups (included in thematic analysis, n = 20 versus
+not included, n = 24) found no differences in any demo-
+graphic measures identified, and no differences in baseline
+BDI-II scores or ibogaine HCl dosages.
+The resultant qualitative data from the 20 contribut-
+ing participants in the two studies was analyzed using
+a generic inductive thematic analysis (Thomas 2006).
+This was conducted through an iterative process invol-
+ving comparison across the transcripts, assisted by Atlas.
+ti 8 for Macintosh (ATLAS.ti 2018) qualitative analysis
+software. Descriptive codes were established and orga-
+nized into higher-order thematic categories, with the
+analysis proceeding through several iterations until the
+coding
+structure
+was
+resolved
+to
+the
+researchers’
+satisfaction. The plausibility and explanatory value of
+the categories were independently assessed to confirm
+credibility or internal validity (Onwuegbuzie and Leech
+2007) by GN and TKB, both of whom are anthropolo-
+gists experienced in the study of psychotropic phenom-
+enology. Quotations from study participants (identified
+only by participant number and site) are used to con-
+textualize themes derived from the analysis.
+Results
+Quantitative results
+Figure 1 shows the mean SCQ subscores for participants
+in both samples in each of seven domains of mystical
+experience. Average subscores in the New Zealand sample
+ranged from 0.48 to 0.72 and for the Mexican sample
+from 0.49 to 0.64. The means across all subscores were
+0.60 ± 0.22 in the New Zealand sample and 0.56 ± 0.24 for
+the Mexican sample. The mean scores in three domains
+are above 0.6, the cutoff score for a “complete mystical
+experience” (two in the Mexican study and four in the
+New Zealand study), indicating that the average experi-
+ence was moderately strong. Comparison of the two sam-
+ples also shows that the SCQ profiles in Figure 1 are very
+similar, as the mean scores in each domain are within one
+standard deviation of each other.
+Figure 2 shows that 10 of the 42 participants (24%)
+achieved “complete mystical experiences” as determined
+Figure 1. Mean SCQ subscales scores for seven domains of mystical experiences in two observational studies for the treatment of
+opioid dependence in Mexico (n= 28) and New Zealand (n = 14).
+JOURNAL OF PSYCHOACTIVE DRUGS
+157
+
+
+by the SCQ, having reached scores of 0.6 or higher in all
+six domains (with “Internal Unity” and “External Unity”
+merged). Nearly as many (n = 8) reached scores of 0.6 or
+higher in five of the six domains. Over 20% (n = 9) did not
+reach the 0.6 level in any domain, suggesting wide varia-
+tion in the intensity of the ibogaine treatment experience.
+Two-tailed t-tests of the mean cumulative SCQ
+scores for opioid-abstinent participants versus relapsed
+participants at 1, 6, and 12 months' post-treatment
+found no significant relationship between the two
+groups at any of these times.
+BDI–II
+Analysis of pooled data (n = 38) revealed that the BDI-II
+scores decreased significantly (p < 0.001) from pre-
+treatment (mean 24.4 ± 9.2) to post-treatment (16.5 ± 10.9).
+Qualitative results
+A number of themes emerged from the iterative analy-
+sis of written material generated by participants.
+Overall, 20 of the 44 participants from both groups
+contributed written descriptions of their experiences
+with ibogaine’s psychotropic effects, with similar pro-
+portions from each site; i.e., the Mexican study (13,
+43%) and the New Zealand study (7, 50%).
+At the initial coding, 18 themes of varying significance
+emerged, which were then grouped under three higher-
+order constructs: Vison Content, Perceptions, and Process.
+After discussion, coded themes were placed in relation to
+their higher-order themes based initially on the time or
+phase during the ibogaine experience that a given the-
+matic element occurred to the participant. Subsequently,
+the relative weighting attributed to a given theme, based
+on the number of utterances identifying it, was also
+applied as an organizing principle. Reviewing this analysis
+produced a further theme (Remorse & Regret) under
+Process. Finally, themes were reconfigured and linked in
+relational networks under their respective higher-order
+constructs (fourth iteration of analysis, Figure 3). Inter-
+rater reliability was calculated using Cohen’s kappa (k =
+0.46; McHugh, 2012). While space allows for detailed
+discussion of selected themes only, Table 1 displays all
+themes along with illustrative quotes.
+Higher-order constructs
+The higher-order constructs in Table 1 (Vision content,
+Perceptions, Process) facilitated grouping sets of themes,
+based on general content, prominence within partici-
+pants’ aggregated experience, and temporality of occur-
+rence during the vision.
+Early on in participants’ experiences, the Visions which
+ibogaine is renowned for seemed either to emerge from
+the auditory phenomena or be blended with them. This
+both links the theme Colors with auditory effects and also
+suggests synesthesia, a phenomenon associated with
+enhanced memory (Rothen, Meier, and Ward 2012).
+Other commonly occurring visionary elements included
+references to African images involving Bwiti practitioners,
+as well as Spirit beings, including representations of Iboga.
+Even more prevalent was imagery associated with the
+Figure 2. Range in number of mystical experience domains across two observational studies for the treatment of opioid dependence
+in Mexico (n = 28) and New Zealand (n = 14).
+158
+T. K. BROWN ET AL.
+
+
+cosmos, space, and spaceships (Table 1, Planets, Earth,
+cosmic images).
+The construct Perceptions was used to group themes
+that captured elements of participants’ experiences that
+appeared more cognitively engaging to them. Thus, while
+the Physical experience of the vision relates to perceived
+sensation, participants seemed generally to be describing
+more objective phenomena, as the Table 1 quote suggests.
+Perceptions identifying Negative references to the
+impact of drug taking were commonly reported during
+the second, more contemplative phase of participants’
+experience. These implied self-awareness of partici-
+pants’ situation at the time of treatment and were
+linked closely with the associated theme in Table 1,
+References to family, which appeared to stimulate both
+insight and confrontation for participants.
+The theme Cleansing/healing captures similar per-
+ceptions noted by several participants, with its respec-
+tive quote identifying physical healing of bodies and
+brains. The sense of transformation implied by this was
+closely aligned with the theme Sense of oneness with
+everything. The Table 1 quote reflecting this theme was
+also coded with Cleansing/healing. Figure 3 sets out the
+relational
+network
+for
+the
+higher-order
+construct
+Process, which is described in greater detail in the
+following, as well as referenced in Table 1.
+The themes represented in Figure 3 are in a more
+dynamic relationship to each other than those previously
+described. Along with the hierarchic ordering (signifying
+temporality) with, e.g., Reviewing one’s life preceding
+Confrontation, Letting go, and Transformation, there is
+also a lateral process, where themes to the left in Figure 3
+precede those to the right. For example, the theme
+Anxiety represents an emotional state participants experi-
+enced at the commencement of, or even prior to, their
+treatment, as seen in Table 1.
+Reviewing one’s life was a frequently reported experi-
+ence (21 references) for those undergoing treatment,
+commonly associated not only with pre-existing anxi-
+ety, but also with regret for past transgressions:
+I saw my whole life as if it were on an old film—
+flickering past in black and white imagery, things
+I hadn’t remembered or wanted…. There was a lot of
+time spent looking at my childhood and my parents and
+sisters. (007, New Zealand)
+Similarly, Remorse & regret and Negative thoughts &
+feelings were associated with each other, and with
+Reviewing one’s life, which was not necessarily confined
+to what participants had lived, but also perceived futures:
+I then, for what felt like hours, saw my future as
+a heroin addict. I was in and out of prison for a long
+time till I was old and decrepit and alone. (S11, Mexico)
+Most intently, I recall feelings of remorse, sorrow, and
+grief. And loss—hopelessness that I could never have
+back all the love that I threw away. (S21, Mexico)
+The dynamic nature of the themes grouped under
+the construct Process is reflected in the major theme of
+Confrontation (20 references):
+Figure 3. Final iteration of thematic analysis, showing higher-order construct Process and associated themes, and its relational
+network, where themes are in dynamic relation to each other, either unidirectionally or mutually.
+JOURNAL OF PSYCHOACTIVE DRUGS
+159
+
+
+It was all very chaotic. I was not in control. I would try
+to hold on to beautiful, loving images of memories but
+they fell away into space. (S21, Mexico)
+Depression, suicidal ideations became profound. While
+being aware that I can’t do it [suicide]. Sadness at the
+thought of it. Very uncomfortable on many levels. (S25,
+Mexico)
+References to Confrontation were also associated with
+the recognition of Empathy for self and others by partici-
+pants, for others in their lives, but also for themselves:
+I was also able to begin to see how, because I felt so
+unlovable, I paid in one way or another for love. I was
+able to stop that and open myself up to real love for
+maybe the first time in my adult life. (S2, Mexico)
+I was overwhelmed with the remorse and the waste and loss,
+feeling empathy with my family over all their hopes for me
+dashed by my relentless pursuit of drugs. (S21, Mexico)
+Associated
+with
+observations
+reflecting
+both
+Confrontation and Empathy for self and others were
+references grouped under the theme Letting go. For
+example, the experience reported in the earlier quote
+by participant S2 was described as resulting from the
+following experience:
+I must let go of things I identify with, but this is very
+difficult to because it feels like I am dying, or falling
+apart, and letting go of all these things I think are me is
+scary. (S5, Mexico)
+I just saw myself lying there motionless. I believe this is
+one of the biggest transformative parts of my experience,
+because I suddenly realized that my family would be ok
+if I were dead. (S007, New Zealand)
+As the previous quote from S007 suggests, the theme
+Letting go was closely aligned with the most prominent
+Table 1. Higher-order constructs, grouped themes, and examples of related quotes at the third iteration of thematic analysis.
+Higher-Order
+Construct
+Grouped Themes
+(Number of Utterances, n= x)
+Examples of Quotes
+Vision content
+Auditory effects (n = 15)
+“The first thing I began to notice was auditory—the sound like a water bottle caught in
+suction. A suction sound that turned into an insectoid buzzing sound.” (S21, Mexico)
+Visions (n = 21)
+“I remember one of the Bwiti slightly trembled and the Iboga spirit shook like a rattle.” (S018,
+New Zealand)
+African images (n = 9)
+“I also saw African things, wilderness, lions. Tribesmen. And this cycle was repetitive.” (S23,
+Mexico)
+Colors (n = 7)
+“Music was enhanced, and the sound was morphed into angelic sounds and colors.” (S5,
+Mexico)
+Spirit being (n = 9)
+“My first vision was of an African man who was very small in stature. He came and sat on my
+bed. I remember being really pleased to see him. I knew that he only had love for me and was
+there to help.” (S007, New Zealand)
+Planets, Earth, cosmic images (n = 16)
+“We flew through the solar systems and came back to Earth.” (S21, Mexico)
+“The visions I remember most were Sci-Fi, like Star Wars.” (S005, New Zealand)
+Perceptions
+Physical experience of vision (n = 15)
+“I felt my withdrawal symptoms begin to subdue. I felt a band of numbing ecstasy string
+across my body which took all the withdrawal away.” (S18, Mexico)
+Negative references to impact of drug
+taking (n = 7)
+“I was mournful of the damage I’d done to my body and to my relationships with family and
+friends.” (S28, Mexico)
+References to family (n = 15)
+“There was some really horrible stuff, like my father saying: You stupid little bitch!” (S008, New
+Zealand)
+“I saw my family from young to older and how everything has been and how I affected them.”
+(S9, Mexico)
+Cleansing/healing (n = 8)
+“My brain was being repaired, rewired. When it passed over bits that needed damage control
+it would pop the damaged bit, like bubble wrap.” (S019, New Zealand)
+Sense of oneness with everything (n = 7) “I then was traveling at super luminal speeds in this sense of the infinite for several hours
+where I saw random colors, shapes and images of rebuilding occurring. I think it was my
+brain showing me my receptors being repaired and rebuilt.” (S18, Mexico)
+Process
+Anxiety (n = 4)
+“On the day of my treatment, I remember sitting on the step outside my house, unable to stop
+shaking and trying not to back out of the plan that we had so carefully made.” (S007, New
+Zealand)
+Reviewing one’s life (n = 21)
+“I kept seeing clips—real memories, of high-school girlfriends and playing music with friends
+—but then also clips of the present day in an alternate reality where I hadn’t squandered so
+much love or compassion that had been offered to me.” (S21, Mexico)
+Negative thoughts and feelings (n = 10)
+“Many of these thoughts were reflections of my past, mainly my failures. When these feelings
+became intense I became very overwhelmed and upset at times.” (S15, Mexico)
+Empathy (n = 9)
+“I was also able to begin to see how, because I felt so unlovable, I paid in one way or another
+for love. I was able to stop that and open myself up to real love for maybe the first time in my
+adult life.” (S2, Mexico)
+Confrontation (n = 20)
+“In the various body motions crippled in pain I would feel the Iboga spirit meeting me in
+a wrestling combat.” (S018, New Zealand)
+Letting go (n = 12)
+“Around the time of my father’s death, I had acquired from Dad a relentless and very negative
+voice in my head. During my journey, this voice left me. It was extraordinary! It was like
+a tape loop in my head broke and the tape spun off into space. It was so noticeable that
+I could sense the space in my mind that was freed up by its departure.” (S2, Mexico)
+Transformation (n = 32)
+“I awoke 3 days later in tears of joy KNOWING that I was never alone and never would be
+alone and that death is just a doorway to another reality.” (S18, Mexico)
+160
+T. K. BROWN ET AL.
+
+
+theme in the analysis, Transformation (32 references).
+Utterances captured by this theme tended to occur towards
+the conclusion of participants’ ibogaine experiences:
+The light is pure bliss, convergence with the ultimate rea-
+lity, freedom from suffering, enlightenment! (S5, Mexico)
+Ibogaine fundamentally changed something within me,
+I had done detoxes before but always gone back. After
+ibogaine, I had absolutely no desire to use drugs. (S007,
+New Zealand)
+Discussion
+The preceding thematic analysis supports existing
+descriptions of altered states of consciousness experi-
+enced by those administered ibogaine, specifically for
+treatment of substance use disorders (Davis et al. 2017,
+2018; Frenken 2001; Rodger 2018). This is particularly
+so where the characteristics of ibogaine visions are
+described, with auditory hallucinations especially com-
+mon. The latter are remarkably consistent, even for
+specific sounds, with the “buzzing” reported in our
+study frequently described by others. For example,
+Heink, Katsikas, and Lange-Altman (2017) found that
+89% of 27 individuals noted this. Interestingly, as
+described in the preceding section, some participants
+in our studies appeared to experience this buzzing in
+combination with colors. This phenomenon (synesthe-
+sia) has been reported elsewhere, with Rodger (2018)
+referencing the dream-like state induced by ibogaine
+reflecting a different set of rules, not only of content
+but also of structure, through a combination of “cogni-
+tive, emotional and sensory synesthesia.”
+Many other vision and treatment experience phe-
+nomena described by the participants are likewise
+reported elsewhere. These include: African motifs,
+together with animals and humans; spirit and other
+religious beings; cosmological references and move-
+ment through space; reviewing one’s life, particularly
+where this involves relatives and friends; feelings of
+remorse, sadness, and confrontation; and ultimately,
+elements of transcendence (Alper 2001; Camlin et al.
+2018; Goutarel, Gollnhofer, and Sillans 1993; Heink,
+Katsikas,
+and
+Lange-Altman
+2017;
+Lotsof
+and
+Alexander 2001; Rodger 2018; Schenberg et al. 2017;
+Schenberg et al. 2016).
+Nonetheless, while these elements are consistently
+reported, research describing them tends to focus on
+quantifying intensity of experience and frequency of
+occurring elements, as well as their categorization
+(Camlin et al. 2018; Heink, Katsikas, and Lange-
+Altman 2017), thereby framing them as adjunctive epi-
+phenomena relative to the more quantifiable treatment
+effects
+of
+reduction
+in
+craving,
+withdrawal,
+and
+improved mood, regularly referenced as measures of
+ibogaine’s efficacy (Brown and Alper 2018; Glick,
+Maisonneuve,
+and
+Szumlinski
+2000;
+Mash
+2010;
+Noller, Frampton, and Yazar-Klosinski 2018).
+This perspective is not universal, however, with
+Rodger (2018) drawing attention to the debate over the
+significance of ibogaine’s “hallucinogenic” properties. He
+argues that many of those treated for substance use
+disorders “accord their ‘visionary experience’ during
+treatment with ibogaine central place in their healing
+journey” (Rodger 2018, 78). Here, Rodger is recognizing
+the earlier work of Naranjo, who during the 1960s
+employed ibogaine in low doses (3–5 mg/kg) over multi-
+ple psychotherapeutic sessions (1975), observing he was
+“more impressed by the enduring effects resulting from
+ibogaine sessions than by those from sessions conducted
+with any other drug” (Naranjo 1969, 219). That there is
+intrinsic value in the psychotropic effects of ibogaine is
+a view we also hold, and with this in mind, we return to
+an analysis of ibogaine’s psychological mechanisms and
+key themes described in the preceding section.
+It is evident from our quantitative data that the
+administration of ibogaine produces acute positive
+changes in psychological state. Data reported for the
+New Zealand sample (Noller, Frampton, and Yazar-
+Klosinski 2018) showed a sustained improvement in
+mood for participants at 12 months (p < 0.001).
+Taken together, the pooled data presented here and
+previously reported for the New Zealand sample sug-
+gest that beneficial psychological effects of treatment
+are immediate and that they persist over time. This
+persistence of positive treatment outcomes suggests
+that the immediate reductions in depression symptoms
+are not merely a placebo effect or a temporary shift
+related to the brief stay at the clinic, away from the
+individual’s usual environment.
+The variation we showed in mystical experience as
+determined by the SCQ data (Figure 2) might in part be
+explained by the pharmacokinetics of ibogaine. These
+are influenced by potential disparities in CYP2D6
+metabolism of the parent drug into noribogaine,
+demonstrated by both phenotyping (Glue et al. 2015)
+and genotyping (Mash et al. 2001) of participants dosed
+with ibogaine. Indeed, Mash et al. (2018, 1998) reported
+an absence of oneiric effects in two CYP2D6 ultra-rapid
+metabolizers. This variability suggests that ibogaine’s
+psychotropic effects may be less consistent than those
+commonly reported for what are sometimes referred to
+as the classical hallucinogens (MacLean, Johnson, and
+Griffiths 2011; Nichols 2004).
+Rodger (2018), however, comments that ibogaine is
+not
+a
+classical
+hallucinogen.
+By
+this,
+he
+is
+JOURNAL OF PSYCHOACTIVE DRUGS
+161
+
+
+acknowledging Alper’s (2001) observation that the state
+induced by ibogaine appears to have more in common
+with dreams than hallucinations. This “oneirophrenic”
+nature of ibogaine has been recognized for some time.
+Naranjo uses the term to describe drug-induced states
+characterized by an absence of psychotic symptoms
+while retaining what he refers to as “primary process
+thinking,” where the capacity for fantasy is enhanced
+without interference with ego functions (Naranjo 1969,
+210–211; see also Turner 1963). This usage is endorsed
+by more recent studies, with Schenberg et al. (2017, 82)
+agreeing that “oneiric” is a more useful description of
+ibogaine’s affect than “psychedelic” or “hallucinogen.”
+In discussing the type of experiences quoted earlier,
+Goutarel, Gollnhofer, and Sillans (1993, 15) comment
+that such ideation might be described as symbolic uncon-
+scious material that is made conscious through the pro-
+cess of active dreaming, whereby “the ego of a mature
+person is compelled to become aware of his or her deep-
+rooted former error.” Similarly, psychiatrist Leo Zeff, who
+treated patients with ibogaine in the 1960s, observed that
+it compels people to confront repressed conflicts, saying
+that the ibogaine experience “is a place where people will
+confront blocks… if they have been unwilling to accept
+them or believe them or often try to deny them. A truth
+that they’re trying to deny…. Ibogaine won’t let you do
+that” (Stolaroff 2004, 89).
+Impact on family, remorse, and regret are also
+themes that have been reported elsewhere. For example,
+Schenberg et al. (2017) identified “Emotional effects”
+that captured “Reliving childhood experiences” and
+“Fear and distress due to past wrongdoings.” Coupled
+with other aspects of the ibogaine experience (e.g., the
+powerful physiological effects), these authors suggested
+that the simulation of past traumas, difficult memories,
+and threats had the potential to impact positively on
+the people experiencing them.
+The individual’s growing awareness of the impact of
+their behavior, frequently emphasized by recycling of
+images, events, and experiences over hours in ibogaine’s
+oneirophrenic vision, is a challenging process and forces
+Confrontation. Participants taking ibogaine are forced to
+reflect on their behavior and how it has impacted their
+lives, family, and friends; they come to accept that they
+might yet be able to forgive themselves and also be
+forgiven by those they have affected. This potentially
+leads to a growing sense of Empathy for others and
+oneself, and the potential letting go of guilt. Thus,
+Heink, Katsikas, and Lange-Altman (2017) reported
+that 85% of their participants conveyed that they had
+gained relief from guilt. Such relief facilitates the possi-
+bility of personal Transformation, which was our analy-
+sis’ most frequently identified theme. In our view,
+transformation is a significant element in both the ibo-
+gaine experience itself and in the healing of those suffer-
+ing substance use disorders (e.g., Kellog 1993).
+Rodger (2018) discusses at length the fear encoun-
+tered by those undergoing ibogaine treatment, the
+importance of the mechanism of Letting go during the
+experience, and that going through this process is
+“almost invariably described as necessary for psycholo-
+gical or spiritual growth… as a gateway to transcen-
+dental positions.” Furthermore, Rodger (2018) suggests
+that the presence of a therapist, with their knowledge
+and experience, provides an awareness of support to
+patients, thereby facilitating their “letting go” while
+maintaining a sense of “feeling held” at a deeper level
+during their treatment. While this view is not universal
+(e.g., Beal and de Rienzo 1997), it is endorsed by con-
+temporary studies (e.g., Schenberg et al. 2017) as well as
+Frenken (2001), who commented that the ibogaine
+experience per se does not necessarily equip a person
+with the relevant skills to interpret and approach
+revealed psychological material in a constructive way.
+For many experiencing ibogaine, the psychotropic
+effects are psychologically profound and lead to far-
+reaching transformations. This was evident for those
+whose experiences have been described here and as
+quantified by the SCQ (Figures 1 and 2). It is also the
+case elsewhere with numerous studies, whether specifi-
+cally exploring the effects of ibogaine (Camlin et al. 2018;
+Rodger 2018, 2014; Heink, Katsikas, and Lange-Altman
+2017; Schenberg et al. 2017; Lotsof and Alexander 2001;
+Naranjo 1974, 1969) or other hallucinogens (Griffiths
+et al. 2008; Hood 1975; MacLean, Johnson, and Griffiths
+2011; Pahnke and Richards 1996), emphasizing the
+transformative impact of what has been referred to as
+the classic mystical experience, incorporating the dimen-
+sions of unity, noetic quality, sacredness, positive mood,
+transcendence of time/space, and ineffability (MacLean
+et al. 2012). Nonetheless, we observed no statistically
+significant relationship between the magnitude of parti-
+cipants’ experiences as measured by the SCQ and treat-
+ment outcome. This lack of significant association
+between participants’ experiences and magnitude of
+effect has been reported elsewhere; for example, by
+Heink, Katsikas, and Lange-Altman (2017), where the
+5d-ASC (Dittrich, Lamparter, and Maurer 2011) vari-
+ables showed no correlation between either withdrawal
+symptoms or their effectiveness variable. Interestingly,
+both of these instruments were developed in conjunction
+with assessing peak experiences induced by classical
+hallucinogens (i.e., psilocybin and LSD). Therefore, it
+may be that ibogaine’s unique properties require the
+development of an instrument sensitive to its oneiric
+effects.
+162
+T. K. BROWN ET AL.
+
+
+Nonetheless, the phenomena described earlier are
+likewise recognized in more traditional treatment con-
+texts for their facility in achieving lasting positive treat-
+ment outcomes (Galanter et al. 2013). It is probable,
+therefore, that as with other substances that have
+demonstrated a lasting impact on those experiencing
+their effects—for example, psilocybin (Griffiths et al.
+2008)—in the context of drug treatment, the powerful
+effects of ibogaine have an influential role to play in the
+observed positive outcomes of ibogaine-assisted ther-
+apy, and therefore require further attention.
+Finally, having noted the potentially positive outcomes
+associated with ibogaine, as a final caveat reinforced by
+the New Zealand observational study that reported
+a death in treatment (Noller, Frampton, and Yazar-
+Klosinski 2018), there also remain fundamental concerns
+about its safety. While these may relate to various factors,
+including patient co-morbidities (Alper, Stajic, and Gill
+2012), as the earlier discussion concerning CYP2D6 meta-
+bolism suggests (Glue et al. 2015; Mash et al. 2018),
+further clinical work is warranted, including confirming
+clear guidelines regarding appropriate pre-treatment test-
+ing of prospective patients.
+This study has several limitations, including the rela-
+tively unstructured manner in which the qualitative reports
+were collected from participants. Further, those contribut-
+ing reports represent a convenience sample, as participants
+were asked if they wished to provide a description.
+Additionally, recalling Zinberg’s (1984) famous analysis,
+all of those providing narrative reports on their ibogaine
+experiences did so in the context of being treated for opioid
+dependence. These factors limit generalizability of reported
+experiences. While this is to some extent offset by all
+participants having been administrated the SCQ, its timing
+was not coordinated across participants in both groups,
+unlike how the instrument was administered in psilocybin
+studies (e.g., Griffiths et al. 2006; MacLean et al. 2012). Last,
+we cannot yet quantitatively demonstrate a correlation
+between the intensity of the experiences, as measured by
+the SCQ, and positive treatment outcomes. This is partly
+due to small sample sizes, and to the large number of
+dropouts, particularly from the Mexican study, which
+reduced statistical power. As commented upon previously,
+however, further research could address the need for quan-
+titative studies correlating changes in consciousness with
+ibogaine treatment outcomes through the development of
+instruments more sensitive to its unique effects.
+This study examined the impact of the ibogaine’s
+psychotropic effects on outcomes for treating drug
+dependence,
+specifically
+opioid
+use
+disorder.
+Consequently, it was proposed that the experiences peo-
+ple have during their ibogaine treatment are not simply
+meaningless epiphenomena overshadowed by observable
+attenuation of cravings, withdrawals, and acutely ele-
+vated mood, but due to the powerful sense of meaning
+ibogaine’s visions and related phenomena provide to
+those experiencing ibogaine. They, in fact, generate sig-
+nificant traction for lasting change in people’s lives.
+Acknowledgments
+The authors wish to acknowledge those participants who
+took part in the MAPS-sponsored observational studies for
+the ibogaine treatment of opioid dependence, in Mexico and
+New Zealand. The authors also acknowledge
+Multidisciplinary
+Association
+for
+Psychedelic
+Studies
+(MAPS),
+The Star Trust,
+Professor Paul Glue for comments on an earlier draft of
+the manuscript,
+Sandi Hartman (posthumous),
+Clare Wilkins,
+Jeffrey Israel,
+Christine M. Clark, M.D.,
+Tanea Paterson,
+Kirsty Mcleod, and
+Matt Bowden.
+Disclosure statement
+No potential conflict of interest was reported by the authors.
+Funding
+This work was supported by the The Star Trust [01];
+Multidisciplinary Association for Psychedelic Studies (MAPS)
+[IO4A].
+References
+Alper, K. R. 2001. Ibogaine: A review. The Alkaloids:
+Chemistry and Biology 56:1–38.
+Alper, K. R., D. Beal, and C. D. Kaplan. 2001. A contemporary
+history of ibogaine treatment. The Alkaloids: Chemistry and
+Biology 56:249–81.
+Alper, K. R., H. S. Lotsof, and C. D. Kaplan. 2008. The ibogaine
+medical subculture. Journal of Ethnopharmacology 115:9–24.
+doi:10.1016/j.jep.2007.08.034.
+Alper, K. R., M. Stajic, and J. R. Gill. 2012. Fatalities temporally
+associated with the ingestion of ibogaine. Journal of Forensic
+Science 57:398–412. doi:10.1111/j.1556-4029.2011.02008.x.
+American Psychiatric Association. 2000. Diagnostic and sta-
+tistical manual of mental disorders, text revision (DSM- IV-
+TR). Washington, DC: American Psychiatric Association.
+ATLAS.ti. 2018. ATLAS.ti 8.3.1 for Mac. Berlin: Scientific soft-
+ware development GmbH.
+Baumann, M. H., J. Pablo, S. F. Ali, R. B. Rothman, and
+D. C. Mash. 2001. Comparative neuropharmacology of
+ibogaine and its O-desmethyl metabolite, noribogaine.
+The Alkaloids: Chemistry and Biology 56:79–113.
+Beal,D.,andP.deRienzo.1997.Reportonthestatenislandproject.
+The ibogaine story. Brooklyn, New York: Autonomedia.
+JOURNAL OF PSYCHOACTIVE DRUGS
+163
+
+
+Beck, A. T., R. A. Steer, and G. K. Brown. 1996. Beck depres-
+sion inventory-II. San Antonio 78 (2):490–98.
+Brown, T. K. 2017. Evidence for the efficacy and transforma-
+tive power of ibogaine in the treatment of substance depen-
+dence. Oakland, California, USA: Psychedelic Science 2017.
+Brown, T. K., and K. R. Alper. 2018. Treatment of opioid use
+disorder with ibogaine: Detoxification and drug use
+outcomes. The American Journal of Drug and Alcohol
+Abuse 44 (1):24–36. doi:10.1080/00952990.2017.1320802.
+Camlin, T. J., D. Eulert, A. T. Horvath, S. F. Bucky,
+J. P. Barsuglia, and M. Polanco. 2018. A phenomenological
+investigation into the lived experience of ibogaine and its
+potential to treat opioid use disorders. Journal of Psychedelic
+Studies 2 (1):1–12. doi:10.1556/2054.2018.004.
+Davis, A. K., E. Renn, A. Windham-Herman, M. Polanco,
+and J. P. Barsuglia. 2018. A mixed-method analysis of
+persisting effects associated with positive outcomes follow-
+ing ibogaine detoxification”. Journal of Psychoactive Drugs
+50 (4):287–97. doi:10.1080/02791072.2018.1487607.
+Davis, A. K., J. P. Barsuglia, A. Windham-Herman, M. Lynch, and
+M. Polanco. 2017. Subjective effectiveness of ibogaine treat-
+ment
+for
+problematic
+opioid
+consumption:
+Short-and
+long-term outcomes and current psychological functioning.
+Journal
+of
+Psychedelic
+Studies
+1:65–73.
+doi:10.1556/
+2054.01.2017.009.
+Dittrich, A., D. Lamparter, and M. Maurer. 2011. 5D-ASC:
+Questionnaire for the assessment of altered states of con-
+sciousness: A short introduction. Zurich, Switzerland: PSIN
+PLUS Publications.
+Frenken, G. 2001. From the roots up: Ibogaine and addict
+self-help. The Alkaloids: Chemistry and Biology 56:283–92.
+Galanter, M., H. Dermatis, S. Post, and C. Sampson. 2013.
+Spirituality-based recovery from drug addiction in the
+twelve-step fellowship of narcotics anonymous. Journal of
+Addiction
+Medicine
+7
+(3):189–95.
+doi:10.1097/
+ADM.0b013e31828a0265.
+Glick, S. D., I. M. Maisonneuve, and K. K. Szumlinski. 2000. 18-
+Methoxycoronaridine (18-MC) and ibogaine: Comparison
+of antiaddictive efficacy, toxicity, and mechanisms of action.
+Annals of the New York Academy of Sciences 914 (1):369–86.
+doi:10.1111/j.1749-6632.2000.tb05211.x.
+Glue, P., H. Winter, K. Garbe, H. Jakobi, A. Lyudin,
+Z. Lenagh-Glue, and C. Tak Hung. 2015. Influence of
+CYP2D6 activity on the pharmacokinetics and pharmaco-
+dynamics of a single 20 mg dose of ibogaine in healthy
+volunteers. The Journal of Clinical Pharmacology 55
+(6):680–87. doi:10.1002/jcph.471.
+Goutarel,
+R.,
+O.
+Gollnhofer,
+and
+R.
+Sillans.
+1993.
+Pharmacodynamics and therapeutic applications of iboga
+and
+ibogaine.
+Psychedelic
+Monographs
+and
+Essays
+6:70–111.
+Griffiths,
+R.
+R.,
+W.
+A.
+Richards,
+M.
+W.
+Johnson,
+U. D. McCann, and R. Jesse. 2008. Mystical-type experi-
+ences occasioned by psilocybin mediate the attribution of
+personal meaning and spiritual significance 14 months
+later.
+Journal
+of
+Psychopharmacology
+22
+(6):621–32.
+doi:10.1177/0269881108094300.
+Griffiths, R. R., W. A. Richards, U. McCann, and R. Jesse.
+2006. Psilocybin can occasion mystical-type experiences
+having substantial and sustained personal meaning and
+spiritual
+significance.”.
+Psychopharmacology
+187
+(3):268–83. doi:10.1007/s00213-006-0457-5.
+Heink,
+A.,
+S.
+Katsikas,
+and
+T.
+Lange-Altman.
+2017.
+Examination of the phenomenology of the ibogaine treat-
+ment experience: Role of altered states of consciousness
+and psychedelic experiences. Journal of Psychoactive Drugs
+49 (3):201–08. doi:10.1080/02791072.2017.1290855.
+Hood, R. W., Jr. 1975. The construction and preliminary
+validation of a measure of reported mystical experience.
+Journal for the Scientific Study of Religion 14:29–41.
+doi:10.2307/1384454.
+Kellogg, S. 1993. Identity and recovery. Psychotherapy:
+Theory, Research, Practice, Training 30 (2):235.
+Lotsof, H. S. 2007. Howard Lotsof (RIP) speaks about
+ibogain. Accessed October 27, 2018. https://www.youtube.
+com/watch?v=TezytTw72Bg.
+Lotsof, H. S., and N. E. Alexander. 2001. Case studies of
+ibogaine treatment: Implications for patient management
+studies. The Alkaloids: Chemistry and Biology 56:293–313.
+Mačiulaitis, R., V. Kontrimavičiūtė, F. M. M. Bressolle, and
+V.
+Briedis.
+2008.
+Ibogaine,
+an
+anti-addictive
+drug:
+Pharmacology and time to go further in development.
+A narrative review. Human & Experimental Toxicology 27
+(3):181–94. doi:10.1177/0960327107087802.
+MacLean, K. A., J. S. Leoutsakos, M. W. Johnson, and
+R. R. Griffiths. 2012. Factor analysis of the mystical experience
+questionnaire: A study of experiences occasioned by the hal-
+lucinogen psilocybin. Journal for the Scientific Study of Religion
+51 (4):721–37. doi:10.1111/j.1468-5906.2012.01685.x.
+MacLean, K. A., M. W. Johnson, and R. R. Griffiths. 2011.
+Mystical experiences occasioned by the hallucinogen psi-
+locybin lead to increases in the personality domain of
+openness.
+Journal
+of
+Psychopharmacology
+25
+(11):1453–61. doi:10.1177/0269881111420188.
+Mash, D. C. 2010. Ibogaine therapy for substance abuse
+disorders. In: Brizer, D, Castaneda, R., editors. Clinical
+Addictions Psychiatry. Cambridge University Press. pp.
+50–60.
+Mash, D. C., C. A. Kovera, B. E. Buck, M. D. Norenberg,
+P. Shapshak, W. L. Hearn, and J. U. A. N. Sanchez-Ramos.
+1998.
+Medication
+development
+of
+ibogaine
+as
+a pharmacotherapy for drug dependence. Annals of the
+New
+York
+Academy
+of
+Sciences
+844
+(1):274–92.
+doi:10.1111/j.1749-6632.1998.tb08242.x.
+Mash, D. C., C. A. Kovera, J. Pablo, R. Tyndale, F. R. Ervin,
+J. D. Kamlet, and W. L. Hearn. 2001. Ibogaine in the
+treatment of heroin withdrawal. The Alkaloids: Chemistry
+and Biology 56:155–71.
+Mash, D. C., L. Duque, B. Page, and K. Allen-Ferdinand.
+2018.
+Ibogaine
+detoxification
+transitions
+opioid
+and
+cocaine abusers between dependence and abstinence:
+Clinical observations and treatment outcomes. Frontiers
+in Pharmacology 9:529. doi:10.3389/fphar.2018.00529.
+McHugh, M. L. 2012. Interrater reliability: The kappa
+statistic.
+Biochemia
+medica:
+Biochemia
+medica
+22
+(3):276–82. doi:10.11613/BM.2012.031.
+McLellan, A. T., J. Cacciola, D. Carise, and T. H. Coyne.
+1999. Addiction severity index–lite (clinical training ver-
+sion). Philadelphia, PA: Treatment Research Institute.
+Naranjo, C. 1969. Psycotherapeutic possibilities of new
+fantasy-enhancing
+drugs.
+Clinical
+Toxicology
+2
+(2):209–24. doi:10.3109/15563656908990930.
+Naranjo, C. 1974. The healing journey. New York, NY:
+Ballantine Books.
+164
+T. K. BROWN ET AL.
+
+
+Nichols, D. E. 2004. Hallucinogens. Pharmacology and
+Therapeutics 101 (2):131–81. doi:10.1016/j.pharmthera.
+2003.11.002.
+Noller, G. E., C. M. Frampton, and B. Yazar-Klosinski. 2018.
+Ibogaine treatment outcomes for opioid dependence from
+a
+twelve-month
+follow-up
+observational
+study.
+The
+American Journal of Drug and Alcohol Abuse 44 (1):37–46.
+Onwuegbuzie, A. J., and N. L. Leech. 2007. Validity and
+qualitative research: An oxymoron? Quality & Quantity
+41 (2):233–49. doi:10.1007/s11135-006-9000-3.
+Pahnke, W. N., and W. A. Richards. 1966. Implications of
+LSD and experimental mysticism. Journal of Religion and
+Health 5 (3):175–208. doi:10.1007/BF01532646.
+Popik, P., R. T. Layer, and P. Skolnick. 1995. 100 years of
+ibogaine: Neurochemical and pharmacological actions of
+a putative anti-addictive drug. Pharmacological Reviews 47
+(2):235–54.
+Rodger, J. 2018. Understanding the healing potential of ibo-
+gaine through a comparative and interpretive phenomen-
+ology
+of
+the
+visionary
+experience.
+Anthropology
+of
+Consciousness 29 (1):77–119. doi:10.1111/anoc.12088.
+Rothen, N., B. Meier, and J. Ward. 2012. Enhanced memory
+ability:
+Insights
+from
+synaesthesia.
+Neuroscience
+&
+Biobehavioral
+Reviews
+36
+(8):1952–63.
+doi:10.1016/j.
+neubiorev.2012.05.004.
+Schenberg, E. E., M. A. de Castro Comis, B. R. Chaves, and
+D. X. Silveira. 2014. Treating drug dependence with the aid of
+ibogaine: A retrospective study. Journal of Psychopharmacology
+28 (11):993–1000. doi:10.1177/0269881114552713.
+Schenberg, E. E., M. A. de Castro Comis, J. F. M. Alexandre,
+B. D. R. Chaves, L. F. Tófoli, and D. X. Da Silveira. 2016.
+Treating drug dependence with the aid of ibogaine:
+A qualitative study. Journal of Psychedelic Studies 1
+(1):10–19. doi:10.1556/2054.01.2016.002.
+Schenberg, E. E., M. A. de Castro Comis, J. F. M. Alexandre,
+L. F. Tófoli, B. D. Rasmussen Chaves, and D. X. Da
+Silveira. 2017. A phenomenological analysis of the subjec-
+tive experience elicited by ibogaine in the context of a drug
+dependence treatment. Journal of Psychedelic Studies 1
+(2):74–83. doi:10.1556/2054.01.2017.007.
+Stolaroff, M. J. 2004. The secret chief revealed. Santa Cruz:
+Multidisciplinary Association for Psychedelic Studies.
+Thomas, D. R. 2006. A general inductive approach for ana-
+lyzing qualitative evaluation data. American Journal of
+Evaluation 27 (2):237–46. doi:10.1177/1098214005283748.
+Turner, W. J. 1963. Experiences with primary process
+thinking. Psychiatric Quarterly 37 (3):476–88.
+Zinberg, N. E. 1984. Drug, set, and setting: The basis for
+controlled intoxicant use. New Haven, Connecticut: Yale
+University Press.
+JOURNAL OF PSYCHOACTIVE DRUGS
+165

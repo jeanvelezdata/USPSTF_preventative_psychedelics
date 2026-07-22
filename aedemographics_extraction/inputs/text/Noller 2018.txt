@@ -1,0 +1,1219 @@
+The American Journal of Drug and Alcohol Abuse
+Encompassing All Addictive Disorders
+ISSN: 0095-2990 (Print) 1097-9891 (Online) Journal homepage: www.tandfonline.com/journals/iada20
+Ibogaine treatment outcomes for opioid
+dependence from a twelve-month follow-up
+observational study
+Geoﬀrey E. Noller, Chris M. Frampton & Berra Yazar-Klosinski
+To cite this article: Geoﬀrey E. Noller, Chris M. Frampton & Berra Yazar-Klosinski (2018)
+Ibogaine treatment outcomes for opioid dependence from a twelve-month follow-up
+observational study, The American Journal of Drug and Alcohol Abuse, 44:1, 37-46, DOI:
+10.1080/00952990.2017.1310218
+To link to this article:  https://doi.org/10.1080/00952990.2017.1310218
+© 2018 the Author(s). Published with license
+by Taylor & Francis.
+View supplementary material 
+Published online: 12 Apr 2017.
+Submit your article to this journal 
+Article views: 46800
+View related articles 
+View Crossmark data
+Citing articles: 64 View citing articles 
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=iada20
+
+
+ORIGINAL ARTICLE
+Ibogaine treatment outcomes for opioid dependence from a twelve-month
+follow-up observational study
+Geoffrey E. Noller, PhDa, Chris M. Frampton, PhDb, and Berra Yazar-Klosinski, PhDc
+aDepartment of General Practice & Rural Health, Dunedin School of Medicine, Dunedin, New Zealand; bDepartment of Psychological
+Medicine, University of Otago, Christchurch, New Zealand; cEmployee receiving full time salary support from the Multi-disciplinary
+Association of Psychedelic Studies (MAPS), a tax-exempt charity funding research and education, Santa Cruz, CA, USA
+ABSTRACT
+Background: The psychoactive indole alkaloid ibogaine has been associated with encouraging treat-
+ment outcomes for opioid dependence. The legal status of ibogaine in New Zealand provides a
+unique opportunity to evaluate durability of treatment outcomes. Objective: To examine longitudinal
+treatment effects over a 12-month period among individuals receiving legal ibogaine treatment for
+opioid dependence. Method: This observational study measured addiction severity as the primary
+outcome in 14 participants (50% female) over 12 months post-treatment using the Addiction Severity
+Index-Lite (ASI-Lite) following a single ibogaine treatment by either of two treatment providers.
+Secondary effects on depression were assessed via the Beck Depression Inventory-II (BDI-II). The
+Subjective Opioid Withdrawal Scale (SOWS) was collected before and immediately after treatment to
+measure opioid withdrawal symptoms. Results: Nonparametric comparisons via Friedman Test
+between baseline and 12-month follow-up for participants completing all interviews (n = 8) showed
+a significant reduction for the ASI-Lite drug use (p = 0.002) composite score. Reductions in BDI-II scores
+from baseline to 12-month follow-up were also significant (p < 0.001). Significant reductions in SOWS
+scores for all participants (n = 14) were also observed acutely after treatment (p = 0.015). Patients with
+partial data (n = 4) also showed reductions in ASI-Lite drug use scores and family/social status
+problems. One patient enrolled in the study died during treatment.
+Conclusion: A single ibogaine treatment reduced opioid withdrawal symptoms and achieved
+opioid cessation or sustained reduced use in dependent individuals as measured over 12 months.
+Ibogaine’s legal availability in New Zealand may offer improved outcomes where legislation
+supports treatment providers to work closely with other health professionals.
+ARTICLE HISTORY
+Received 23 June 2016
+Revised 11 February 2017
+Accepted 20 March 2017
+KEYWORDS
+Ibogaine; opioid
+dependence; psychedelics;
+opioid detoxification; legal
+availability; opioid
+withdrawal
+Introduction
+Opioid dependence is a debilitating condition asso-
+ciated with increased morbidity and mortality, limited
+treatment response, and high relapse rate (1). Patients
+suffer from fractured relationships, depression, inability
+to maintain employment, diminished cognitive and
+psychosocial functioning, and high healthcare costs
+(2). Annual prevalence of opioid dependence was esti-
+mated in 2007 to be 0.4% of the world population and
+0.325% of the New Zealand population aged 15–64 (3).
+Overprescribing and insufficient monitoring of opioids,
+including those approved to treat substance use disor-
+ders, have contributed to increased prevalence in recent
+years in the United States (U.S.) (4). Reducing opioid-
+related overdoses and deaths requires a comprehensive
+effort combining detoxification, behavioral, psychoana-
+lytic, and counseling therapies with all available phar-
+macotherapies (5). Nonetheless even with combined
+medication-assisted therapies, consistently achieving
+remission is difficult due to lack of adherence, under-
+utilization, and limited or ineffective adoption by treat-
+ment providers (5,6). Collectively these phenomena add
+urgency to the search for solutions to opioid depen-
+dence and its accompanying risks.
+The present epidemic of opioid dependence justifies
+consideration of novel therapeutic options. Ibogaine
+treatment, associated with reduced opioid use, attenua-
+tion of withdrawal symptoms, and cessation of cravings
+(7), offers an underutilized yet promising option in
+response to the limitations of available treatments.
+Ibogaine is a psychoactive indole alkaloid with stimula-
+tory and hallucinogenic effects that is derived from the
+root bark of the West African shrub Tabernanthe iboga.
+Iboga’s powerful psychedelic properties remain a central
+component of ceremonial use in the Bwiti religion among
+the Gabonese Fang people of West Africa, who still incor-
+porate iboga in religious ritual, with lower doses of the
+CONTACT Geoffrey E. Noller, PhD
+geoff.noller@otago.ac.nz
+Department of General Practice & Rural Health, Dunedin School of Medicine, PO Box 56,
+Dunedin 9054; 55 Hanover Street, Dunedin Central Dunedin 9016
+THE AMERICAN JOURNAL OF DRUG AND ALCOHOL ABUSE
+2018, VOL. 44, NO. 1, 37–46
+http://dx.doi.org/10.1080/00952990.2017.1310218
+© 2018. Geoffrey E. Noller, Chris M. Frampton, and Berra Yazar-Klosinski. Published with license by Taylor & Francis.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives License (http://creativecommons.org/licenses/by-nc-nd/4.0/),
+which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited, and is not altered, transformed, or built upon in any way.
+
+
+root bark used as a stimulant and appetite suppressant (8).
+Purified ibogaine hydrochloride (HCl) was previously
+marketed, at 5–8 mg doses used 3–4 times per day,
+under the trade name Lambarene in France (1939–1970)
+as an antidepressant and enhancer of mental and physical
+ability (9).
+Ibogaine’s potential for treating opioid dependence was
+discovered in 1962 by Howard Lotsof, based on personal
+experience and anecdotal reports. Doses up to 19 mg/kg
+were associated with attenuation of opioid withdrawal and
+craving, as well as cessation of use (10,11). In contrast to
+most pharmacotherapies which require ongoing mainte-
+nance doses, ibogaine is typically administered as a single-
+dose treatment on a few occasions as an adjunct to a
+detoxification treatment model. This treatment regimen
+helps to mitigate risk of adverse events associated with
+ibogaine. In two Phase 1 studies using very low doses, single
+20 mg doses of ibogaine were well tolerated (N = 21), with
+no effect on vital signs and no adverse effects (9,12); how-
+ever, typical doses used for opioid dependence treatment in
+New Zealand are much higher. Based on in vitro studies
+and one case report, the principle risk associated with
+ibogaine is cardiotoxicity resulting from blockade of repo-
+larizing potassium channels and retarded repolarization of
+the ventricular action potential simultaneous with QT
+interval prolongation (13). This sequence may lead to life-
+threatening torsades de pointes (TdP) arrhythmias and
+sudden death in rare instances.
+Putative anti-addiction properties of ibogaine led to
+extensive studies of acute effects in dependent human
+volunteers with hazardous opioid use to explore the
+risk/benefit profile, summarized in Table 1. These studies
+support reproducible indications of effectiveness and an
+acceptable risk/benefit profile of ibogaine in the treatment
+of opioid dependence and withdrawal, as opioid depen-
+dence has a pooled relative mortality risk (RR) of 2.38
+(95% CI: 1.79–3.17) even while in treatment. Out of
+treatment
+mortality
+risk
+was
+much
+greater
+(14).
+Ibogaine and its active metabolite noribogaine were
+found to have numerous direct and indirect functional
+targets with complex pharmacology in studies aiming to
+elucidate mechanism of action (15). Most recently, nor-
+ibogaine was found to be the principal active moeity
+responsible for interrupting psychological and physiolo-
+gical effects of opiate dependence in rats, with profound
+implications for effects in humans (16).
+The present study describes a prospective observational
+case series of 14 participants seeking ibogaine treatment for
+opioid dependence. The study aimed to contribute infor-
+mation on durability of ibogaine treatment outcomes cov-
+ering 12-month post-treatment, which was lacking from
+prior studies. Undertaking this research in New Zealand
+received further impetus with the 2009 scheduling of ibo-
+gaine, by New Zealand’s medical regulatory body Medsafe,
+as a non-approved medicine (17). Thus, unlike many other
+regulatory environments, ibogaine is available via legal
+prescription in New Zealand. The location of the study
+was chosen to encourage participants to honestly report
+outcomes without concern of legal consequence and to take
+advantage of the ability of treatment providers to share
+information about the patient when covered by appropriate
+release forms. This study evaluated durable effects of ibo-
+gaine on severity of opioid dependence. Acute withdrawal
+symptoms and long-term depression symptoms were also
+evaluated as potential contributors to treatment response.
+Evaluation of safety was beyond the scope of this non-
+interventional study. Results are intended to support design
+of future studies on prevention of relapse of opioid depen-
+dence after single-dose ibogaine treatment.
+Methods
+Ethical review, treatment providers, and
+participants
+All participants were treated in accordance with ethical
+guidelines for health and disability research in New
+Zealand to ensure it met or exceeded established ethical
+standards. The study was evaluated and approved by the
+Health and Disabilities Multi-region Ethics Committee in
+February 2012 (Ethics Reference # MEC/11/11/095). Per
+the International Conference of Harmonization (ICH)
+definition, this was a non-interventional/observational
+study on the effects of ibogaine prescribed in accordance
+with regulatory authorization in a manner clearly separated
+from the decision of including participants in the study.
+Participants who independently sought treatment were
+recruited through two ibogaine providers offering treat-
+ments on a fee-for-service basis (hereafter Provider 1 and
+Provider 2). Provider 1 offered ibogaine treatment at a
+clinic located in the far north of New Zealand’s North
+Island utilizing a medically qualified physician. Provider 2
+was a registered addictions counselor who offered ibo-
+gaine treatment in a private practice setting, in collabora-
+tion with the treating physician of each client and a
+community health psychiatrist. Both providers offered a
+period of post-treatment supervision extending beyond
+the typical three days of treatment, during which food
+intake, exercise, and sleep was monitored. Patients of
+Provider 1 remained in care for periods extending beyond
+a week post-treatment. Provider 2’s patients usually left
+their direct care within four days post-treatment. Despite
+Provider 1’s greater treatment volume, they contributed
+only one participant due to limited engagement with this
+38
+G. E. NOLLER ET AL.
+
+
+study. Although Provider 2 treated fewer patients con-
+current with the study period, they ultimately contributed
+13 of the 14 participants described in the present study.
+Study participants were required to meet the following
+inclusion criteria: They had to voluntarily seek treatment
+without coercion; had independently contacted treatment
+providers seeking treatment; were over the age of 18 years;
+able to communicate in English; provided contact infor-
+mation for a close affiliate whom the researcher would
+contact for corroborating data; and committed to regular
+contact for twelve-month post-treatment via phone or
+Skype. Prospective participants meeting any of the follow-
+ing criteria were excluded: those seeking ibogaine treat-
+ment for any reason other than opioid dependence; had
+received ibogaine treatment on a previous occasion; in the
+opinion of the investigators participants had any personal,
+situational, health, social, or other issue that would pre-
+vent full adherence to study requirements; and those
+unable to give informed consent.
+Drug
+All participants were orally administered staggered doses
+of ibogaine HCL (200 mg capsules). Initially, both provi-
+ders imported ibogaine HCL (98.5%) from a European
+manufacturer through a registered New Zealand pharma-
+ceutical importer. Subsequently Provider 2 switched to
+using Remogen™, a Canadian product, assessed by HPLC
+as 99.5% pure ibogaine HCl. Of 14 participants, 42.9%
+received Remogen™.
+Participants ingested their last dose of opioids between
+12 and 33 hours (mean 20.2, s.d. 9.6) before ibogaine
+treatment. All participants were fasted prior to dosing.
+Participants received 25–55 mg/kg (mean 31.4, s.d. 7.6) of
+ibogaine with concomitant benzodiazepine and sleep aids
+in most cases. Treatments typically commenced in the
+early evening and involved multiple doses over 24–96
+hours (mean 57 hours). Initial dosage was selected based
+on patient characteristics (psychological and physical
+health, age, fitness, drug use) and provider experience.
+Dosage was adjusted based on patient response and pro-
+vider assessment through observation and questioning
+(SOWS scores, changes in proprioception, interoception,
+mood). A “test” dose of 200 mg, administered when the
+provider determined the patient was sufficiently in with-
+drawal, was followed between 1 and 4 hours by a larger
+dose (typically 400–600 mg), then more rapidly by smaller
+doses (e.g., 200 mg at 20 minute intervals) until the
+provider determined the appropriate level of dosing had
+been achieved. Administration of ibogaine was within the
+purview of the providers, as the investigator (GN) was
+solely involved in an observational capacity and was not
+present during treatments. Per New Zealand regulations,
+providers were responsible for selection and determining
+medical eligibility of participants. All aspects of medical
+care were documented in provider medical records.
+Data collection and outcome measures
+Data were collected over 14 interviews. These included
+pretreatment baseline (interview 1); an interview immedi-
+ately post-treatment (interview 2); and twelve-month inter-
+views (interviews 3–14, corresponding to post-treatment
+months 1–12). Table 2 lists the schedule of interviews,
+along with the outcome measures administered during
+each interview.
+Table 1. Published reports of Ibogaine administrations to opioid-dependent patients.
+Study
+N
+Dependence*
+Period Assessed Post-Tx
+Dosage Ibogaine HCl
+Outcomes
+(Withdrawal [WD], Craving [CR], Use)
+Sheppard 1994 (33)
+7
+o
+≤14 weeks
+11.7–25 mg/kg
+No WD
+Use @ 2 days (n = 4)
+No use @ 14 weeks (n = 3)
+CR Not reported
+Luciano 1998 (34)
+3
+2 (c) 1 (h)
+24 hours
+20–25 mg/kg
+No WD
+Use, CR Not reported
+Alper 1999 (11)
+33‡
+h, m
+≤72 hours
+6–29 mg/kg
+No WD/CR/Use (n = 25)
+No WD but use post-Tx (n = 4)
+WD/CR and Use post-Tx (n = 1) 1
+fatality
+Mash 2000 (35)
+27
+h, c
+≤14 days Post-Tx
+500, 600, 800mg (e.g., 8–12 mg/kg)
+Aggregate reduction in BDI
+(p = .0005);
+1 month
+ASI (p = .0001)
+Post-Tx
+WD/CR Not reported
+Mash 2001 (27)
+32
+h, m
+12–72 hr
+800 mg
+WD reduced ≤72 hours (p <.05)
+Post-Tx
+CR Not reported
+Bastiaans 2004 (36)
+21
+o (n = 18)
+Retro-spective ≈22 months
+Unspecified dose (n = 18) “extract”
+(typically 50–70% ibogaine; n = 3)
+48% treated twice
+No use @ 7 days (n = 19)
+No use primary drug ≈1.5 yrs (n = 9)
+No use at 3.5yrs (n = 5) (anecdotal)
+CR Not reported
+*h = heroin, m = methadone, o = opioids, c = cocaine, Tx = treatment
+‡Includes the 7 participants from [27].
+THE AMERICAN JOURNAL OF DRUG AND ALCOHOL ABUSE
+39
+
+
+The New Zealand-based investigator (GN), who was
+trained in administration of the Addiction Severity Index
+Lite (ASI-Lite) and Beck Depression Inventory-II (BDI-
+II), conducted all the interviews at treatment sites in
+person, at baseline and immediately post-treatment.
+Baseline data were collected as close to the treatment
+time as feasible, typically either the preceding day or on
+the day of treatment. For subsequent visits, the same
+investigator collected data in person for 28.6% of partici-
+pants, with the remaining participants assessed during
+Skype or phone call interviews. Two participants pre-
+ferred to complete mailed responses.1 Verification inter-
+views with affiliates were conducted by phone. At baseline
+and post-treatment interviews (except interview 2), the
+investigator would attempt contact with participants’
+affiliates to independently verify responses, for example,
+for current substance use, aftercare, mood, and level of
+social support. Additional interviews where the outcome
+measures were not administered comprised brief conver-
+sations between the investigator and participants at inter-
+views 4, 6, 7, 9, 10, and 13. Attempts were also made to
+contact participants’ affiliates at these times.
+The primary outcome measure was the ASI-Lite (18).
+This was administered pretreatment at baseline and at
+months 1, 3, 6, 9, and 12 post-treatment. The instrument
+uses a 40-minute clinical interview to indicate problem
+severity in seven life areas commonly affected by sub-
+stance use disorders: medical status, employment, alcohol
+use, other drug use, legal status, family and social relation-
+ships, and psychiatric status. Symptoms and problems are
+measured over the preceding 30 days, with higher scores
+representing greater severity (19).
+The BDI-II was administered for the assessment of
+depression symptoms (20) at baseline, immediately post-
+treatment, and at 3-month intervals, generally corre-
+sponding with administration of the ASI. The Subjective
+Opioid Withdrawal Scale (SOWS) was administered as
+close as feasible pre- and post-treatment by the investiga-
+tor to determine participants’ experience of withdrawal
+symptoms (21). It was also administered by each provider
+subsequent to the baseline data collection, to determine
+level of subject withdrawal immediately prior to admin-
+istration of ibogaine, and up to 72 hours post-initial dos-
+ing to assess subject response during treatment.
+Biological verification of drug use data post-treatment
+involved two random urine screens during the follow-up
+period, with a third final screen at the time of their last
+interview (interview 14). Participants were asked to com-
+plete screens within 24 hours of administration of the
+ASI-Lite. Arrangements were made with various testing
+facilities and laboratories accessible to participants, and all
+expenses associated with testing were met. Participants
+received a $10 gift voucher for each follow-up interview
+they participated in, up to a maximum of $120 for all
+twelve post-treatment interviews. Study oversight was
+provided on behalf of the Multidisciplinary Association
+for Psychedelic Studies by the third author (BY).
+Statistical methods
+Descriptive statistics including means, standard deviations,
+ranges, frequencies, and percentages were used to summar-
+ize data. Friedman’s nonparametric ANOVA was used to
+test for significant patterns of change over time for the ASI-
+Lite subscales, BDI-II, and SOWS scores. Where significant
+effects were identified with these analyses incorporating all
+assessment times, these were further explored using
+Wilcoxon signed rank tests to compare individual assess-
+ment times with those at baseline. The sample size was too
+small to usefully explore any differential sub-group effects
+by site. An alpha level of 0.05 was used for all tests.
+Statistical analysis was performed by the statistician and
+second author (CF) using IBM SPSS v23.
+Results
+Twenty people who sought ibogaine treatment with
+the two providers indicated interest during the
+Table 2. Schedule of subject interviews (14) and data collection,
+with outcome measures to 12-months post-tx.
+Interview
+Months
+Post-tx
+ASI
+BDI
+SOWS
+Drug Screen
+Talk
+1
+Pre-tx
+X
+X
+X
+2
+Post-tx
+X
+X
+3
+1
+X
+X
+4
+2
+X
+5
+3
+X
+X
+6
+4
+X
+7
+5
+X
+8
+6
+X
+X
+X
+9
+7
+X
+10
+8
+X
+11
+9
+X
+X
+X
+12
+10
+X
+13
+11
+X
+14
+12
+X
+X
+X
+1The researchers were aware of the potential validity problems recognised to be associated with self-completion of the
+ASI-Lite [see 34]. In both cases, however, participants firmly expressed their preference for this approach. One subject
+identified a lack of time to complete interviews, primarily due to his demanding job. The second subject expressed
+concerns about anonymity regarding supplying drug use-related information by phone, which he had done up to
+interview 8. Both of these participants were amongst the few who provided full drug screens to corroborate their data.
+40
+G. E. NOLLER ET AL.
+
+
+enrollment period (Figure 1). Three declined to
+participate
+in
+the
+study,
+and
+one
+person
+was
+declined treatment by their provider due to con-
+cerns about post-treatment safety. Sixteen partici-
+pants signed the study Information and Consent
+Form and 15 were enrolled into the study. One
+person died during their treatment, and a second
+person was disqualified from the study upon review
+of their treatment, due to leaving the treatment
+before it had been completed to the satisfaction of
+the Provider. The data reported here describes post-
+treatment outcomes for 14 participants administered
+ibogaine for opioid dependence.
+Participants’ age ranged between 28 and 47 years
+(mean 38; s.d. 4.8), 50% were female, and all identified
+as Caucasian. Participants had moderate comorbid
+depression symptoms at baseline (mean 22.1; s.d.
+10.8). They had previously received an average of 4.7
+treatments for substance dependence (range 0–20),
+with 58% of these being detoxification. At the time
+of treatment, 71% (n = 10) were receiving methadone
+maintenance treatment (MMT; see Supplementary
+Table S1). Data from the ASI-Lite show that in the
+thirty-day period prior to baseline interviews partici-
+pants had on average used opioids for approximately
+28.8 days. Methadone was most commonly reported as
+Inquired about participation
+(n = 20)
+Excluded (n = 5)
+Not meeting inclusion criteria
+(n = 1)
+Declined to participate
+(n = 3)
+Not treated
+(n=1)
+Enrolled (n = 15)
+Completed treatment
+(n = 14)
+Treated
+Allocation
+Enrollment
+Follow up
+Lost to follow up 
+(n = 2) 
+completed 11 months (n=2)
+(had relapsed)
+Withdrew after 6 months
+(n = 1) (had relapsed)
+Analysis
+Analyzed (n = 14)
+Died during treatment
+(n = 1)
+Figure 1. CONSORT diagram showing participant flow through observational study.
+THE AMERICAN JOURNAL OF DRUG AND ALCOHOL ABUSE
+41
+
+
+the primary drug of dependence (n = 10), followed by
+codeine (dihydrocodeine) (n = 3) and poppy seeds (n
+= 1). Despite all those receiving MMT considering
+methadone as their most problematic drug, six also
+reported using other opioids in the preceding thirty
+days, that is, morphine sulfate (n = 3),2 dihydroco-
+deine (n = 2), and buprenorphine (n = 1).
+During treatment 10 of Provider 2’s 13, subjects
+were administered ondansetron (4–8 mg); 5 received
+diazepam 5–25 mg; and 1 received zopiclone (7.5 mg).
+Provider 1 also administered diazepam (30 mg) and
+zopiclone (15 mg) to their single participant in the
+study during treatment. Overall, two participants were
+enrolled via Provider 1, with one subsequently lost to
+treatment at 11-months and a second disqualified from
+the study immediately following treatment as their
+Provider revealed they had not completed treatment.
+A third patient of Provider 1 died during treatment
+before they were formally enrolled. Of 13 participants
+enrolled through Provider 2, one voluntarily left the
+study at eight months and a second was lost to follow
+up at 11 months post-treatment. The fatality was the
+subject of two investigations, a coronial inquiry and the
+second involving New Zealand’s Health and Disability
+Commissioner (HDC). The latter, completed first,
+described the treatment provider as being in breach of
+their duty of care but did not offer a medical explana-
+tion for the death (22). The coroner’s ruling generally
+supported the HDC’s findings.
+SOWS assessments showed a significant reduction in
+withdrawal symptoms from baseline, that is, pre-
+administration up to 24 hours post-administration
+assessment (p = 0.015). Although this reduction was
+slightly greater
+at
+the second
+post-administration
+SOWS assessment (≥42 hours), it did not reach statis-
+tical significance, likely due to sample size limitations
+(Table 3). The SOWS was administered multiple times
+by providers during treatment to determine the need
+for further dosing of patients.
+Of the seven ASI-Lite subscales, only the Drug
+component showed a statistically significant decrease
+over time (p = 0.002). As seen in Table 4, there was a
+decrease in excess of 80% in the score from 0.32 to
+0.06 from baseline to 12 months (p = 0.004). Of the
+remaining composite score categories, the majority
+show nonsignificant decreases over twelve months,
+with the notable exception of the Medical compo-
+nent, which actually increased significantly from
+0.00 to 0.34 (p < 0.05), suggesting an increase in
+participants’ reported health problems or motivation
+to seek medical care.
+The BDI-II scores decreased significantly over time
+(p < 0.001) with a significant reduction seen at 1-month
+post-treatment (mean = 22.1 v 9.3) and continuing to
+the final 12-month assessment (mean = 4.4) (Table 5),
+indicating a reduction in depression severity.
+Researchers were unable to consistently collect urine
+drug test data corroborating ASI-Lite reported drug
+use. For participants providing samples testing negative
+for opioids, percentages were recorded for some parti-
+cipants at three months (n = 8), six months (n = 7), and
+12 months (n = 8) post-treatment. Over these periods
+only small percentages of participants tested positive
+for opioids: one subject each at three and six months
+(12.5% and 14.3% of observed cases, respectively), and
+two participants (25.0% of observed cases) at 12
+Table 3. SOWS scores comparing pre-administration baseline
+with post-administration 12–24 hours, and baseline with post-
+administration 42–84 hours.
+Mean
+N
+Std
+p Value
+Baseline
+25.21
+14
+12.57
+0.015*
+12–24 hours
+14.21
+14
+14.08
+Baseline
+24.00
+6
+16.84
+0.070
+42–84 hours
+8.50
+6
+3.72
+*p
+<
+0.05
+compared
+with
+baseline
+(reduction
+in
+mean
+indicates
+improvement).
+Table 4. ASI summary statistics at baseline and 12-month fol-
+low-up.
+Baseline
+12-month Follow-up
+Average score
+N
+mean (std)
+N
+mean (std)
+Medical
+8
+0.00 (0.00)
+8
+0.34 (0.40)*
+Employment
+8
+0.37 (0.40)
+8
+0.22 (0.33)
+Alcohol
+8
+0.16 (0.26)
+8
+0.08 (0.08)
+Drug
+8
+0.32 (0.07)
+8
+0.06 (0.08)**
+Legal
+8
+0.00 (0.00)
+8
+0.01 (0.04)
+Family/Social
+8
+0.11 (0.15)
+8
+0.09 (0.13)
+Psychiatric
+8
+0.11 (0.15)
+8
+0.05 (0.11)
+*p < 0.05 compared with baseline
+**p < 0.01 compared with baseline.
+Table 5. BDI-II scores at baseline; immediately post-treatment;
+and at 1-, 3-, 6-, 9-, and 12-month follow-up.
+BDI
+Treatment (Tx) time
+N
+mean total score
+(std)
+p Value (time x cf
+baseline)
+Pre-Tx (Baseline)
+14
+22.1 (10.8)
+Immediate post-tx
+14
+16.4 (12.3)
+0.102
+1- month post-tx
+13
+9.3 (7.6)
+0.013
+3-months post-tx
+13
+6.2 (5.3)
+0.002
+6-months post-tx
+12
+7.8 (9.9)
+0.008
+9-months post-tx
+12
+8.8 (10.6)
+0.008
+12-months post-tx
+11
+4.4.25 (5.3)
+0.004
+2There is very limited street heroin in New Zealand, with only 16% of regular Needle Exchange attendees reporting its use
+in the preceding month [40]. For this reason New Zealand users of morphine sulphate (“misties” or “MST’s”) typically
+combine (“double”) it with acetic anhydride, thereby producing diamorphine (aka heroin).
+42
+G. E. NOLLER ET AL.
+
+
+months. ASI-Lite data for participants reporting posi-
+tive opioid use in the preceding 30 days exceeded the
+incidence of positive urine drug findings and were 43%
+(three months; n = 14), 50% (six months; n = 14) and
+45% (12 months; n = 11). Reductions both in other
+drug use and alcohol use were reported by 21% of
+participants (n = 14) each, at three and six months.
+Of the 11 participants remaining at twelve months, 55%
+reported reduced other drug use and 36% reduced
+alcohol use.
+Discussion
+The present study reports treatment outcomes for
+opioid dependent participants during 12 months fol-
+lowing single-dose ibogaine administration and extends
+earlier work identifying ibogaine’s effectiveness in treat-
+ing opioid dependence. Consistent with preceding stu-
+dies,
+evidence
+showed
+significant
+attenuation
+of
+withdrawal, sustained reduction in drug craving/use,
+and cessation of use in some cases.
+These outcomes, particularly the sustained reduction
+and/or cessation of opioid use reported by 12 of 14
+participants, are comparable with the success of cur-
+rently accepted treatments, including those reported
+from wide-ranging analyses and combined interven-
+tions reviewed previously (6). This analysis, covering
+28 trials (n = 2945 participants) of 12 psychosocial
+interventions combined with the pharmacological treat-
+ments, showed an advantage for treatments in combi-
+nation for abstinence only (RR 1.15, 95% CI [1.01–
+1.32]). Measures showing nonsignificant outcomes
+included retention in treatment, adherence, psychiatric
+symptoms, and depression.
+Where interventions aim for detoxification and cessa-
+tion (i.e., as with ibogaine), outcomes are even more
+modest. This was evident in a multi-site US study mea-
+suring buprenorphine stabilization and tapering to cessa-
+tion of opioids, by opioid-free urine tests for two
+outpatient groups, a 7-day taper group (n = 255) and a
+28-day taper group (n = 261) (23). There were no differ-
+ences in abstinence rates between 7- and 28-day taper
+groups at 1-month (18% both groups) and 3-month fol-
+low-ups (12% 7-day vs. 13% 28-day taper). While the
+present study’s small numbers preclude conclusive com-
+parison, by contrast, outcomes described above in
+Table 6, indicating that a consistently higher proportion
+of participants returned negative urine drug screens at
+three (87.5%), six (85.7%), and 12 months (75%),
+respectively.
+Evidence from the current study showing attenuation
+of withdrawal substantiates earlier experimental research
+referencing
+ibogaine’s
+“significant
+pharmacologically
+mediated effect” on opioid withdrawal (24). This is parti-
+cularly relevant in a country like New Zealand, where
+methadone, a long acting synthetic opioid with a corre-
+spondingly lengthy withdrawal period, is the most com-
+monly injected opioid (25). That 71% of the present
+study’s participants sought ibogaine treatment for depen-
+dence on methadone perhaps also explains the increase
+observed in the ASI-Lite Medical composite score from
+baseline to 12-months (0.00 to 0.34, p < 0.05) described in
+Table 4. This reflects higher reporting of physical discom-
+fort post-treatment, with methadone cessation likely
+exacerbating preexisting medical conditions such as
+chronic pain, a phenomenon described elsewhere (26).
+The observed significant effect may also act as a proxy
+measure further substantiating cessation of opioid use in
+lieu of some participants’ missing drug test data.
+The significant, sustained reductions in BDI-II scores
+(Table 5; p < 0.001), similarly supports earlier research
+identifying reductions in depressive symptoms post-ibo-
+gaine treatment (27). These results are interesting as they
+incorporate all available data from 12 months (n = 11)
+and not only the eight completers (Table 4). Thus, it was
+notable during follow-up that even participants who did
+not cease opioid use entirely described their ibogaine
+experience in positive terms. A typical comment was
+that treatment had provided participants with insight
+into their situation. Baseline BDI-II data suggested that
+eight participants would have met criteria for moderate
+or worse depression and four participants for mild
+depression. Nonetheless, at baseline, only three partici-
+pants
+were
+taking
+prescribed
+antidepressants
+(Venlafaxine, Citalopram). Of these, two ceased use
+post-treatment. Following treatment four participants
+intermittently reported antidepressant use (prescribed),
+with three of these ultimately being unsuccessfully trea-
+ted for their opioid use. Future studies should include a
+measure of anxiety in addition to depression to assess the
+contributions of these symptoms to treatment response,
+remission, and relapse.
+Finally, with five participants reporting benzodiaze-
+pine use in the 30 days preceding treatment (one pre-
+scribed), the research team considered the possibility that
+pretreatment anxiety might have inflated baseline BDI-II
+scores. This concern was mitigated, however, by the
+Table 6. Percentages of participants in observed cases report-
+ing urine screen data for opioid use at 3, 6, and 12 months
+post-ibogaine treatment.
+Months Post-Tx (Total N)
+Missing N
+Positive N (%)
+Negative N (%)
+3 months (14)
+6
+1 (12.5%)
+7 (87.5%)
+6 months (14)
+7
+1 (14.3%)
+6 (85.7%)
+12 months* (11)
+3
+2 (25.0%)
+6 (75.0%)
+*By 12 months one subject had withdrawn and two had been lost to
+follow-up.
+THE AMERICAN JOURNAL OF DRUG AND ALCOHOL ABUSE
+43
+
+
+understanding that analyses of the BDI-II suggest it is
+capable of differentiating between depression and anxiety
+(28,29). Interestingly, at one month, post-treatment six
+participants (43%) reported benzodiazepine use (five pre-
+scribed), while at 12 months, only one of the remaining 11
+participants reported this.
+Despite the study’s evidence of positive outcomes, it
+remains that there are also specific risks associated with
+ibogaine. The most salient of these concerns is mortality
+temporally associated with treatment. Given the death
+during treatment of one subject pre-enrolled in the pre-
+sent study, this issue is of particular significance. As
+described above, the New Zealand death was the subject
+of two investigations, with a coronial inquiry supporting
+the earlier ruling of a failed duty of care by the treatment
+provider (22). The coroner, however, also noted a lack of
+Post-Mortem and forensic evidence indicating any sig-
+nificant cardiac pathology or history, or other definable
+cause of death. Consequently, report suggests that the
+death was very likely “related to ibogaine ingestion and
+most
+probably
+related
+to
+a
+cardiac
+arrhythmia.”
+Nonetheless, given the positive outcomes reported in
+this study and in a recent study of treatments in Mexico
+that both suggest that treatments are likely to continue
+(30), it is appropriate to discuss what is clearly a risk.
+Ibogaine-related fatalities in treatment have been
+reported in detail for 19 individuals from 1990 to 2008,
+known to have died within 1.5–76 hours of taking ibo-
+gaine (31). This thorough review of all available autopsy,
+toxicological, and investigative reports did not suggest a
+characteristic syndrome of neurotoxicity. Rather, it sug-
+gested that advanced preexisting medical comorbidities,
+primarily cardiovascular, and/or the misuse of a range of
+substances explained or contributed to 12 of the 14 cases
+for which there was adequate postmortem data. Seizures
+from alcohol and benzodiazepine withdrawal and the
+uninformed use of ethnopharmacological forms of ibo-
+gaine were considered other apparent risk factors.
+The metabolism of ibogaine by cytochrome P450
+enzyme CYP2D6 into noribogaine through the first-pass
+process has implications for clinical safety (12), with
+5–10% of Caucasians lacking the gene required for the
+enzyme’s synthesis (32). In poor CYP2D6 metabolizers,
+active moiety (ibogaine plus noribogaine) is projected to
+be approximately two-fold higher than in individuals
+having standard metabolic function. Noribogaine’s long
+half-life, recently reported as 28–49 hours (9), also sug-
+gests the potential for high plasma levels of noribogaine
+with multiple ibogaine treatments over a period of several
+days as observed in the present study. Although clinical
+pharmacology studies in patients with impaired hepatic
+function are yet to be conducted, it may be prudent to
+genotype potential ibogaine patients and to reduce the
+intended dose in cases of hepatic impairment or conco-
+mitant medications with CYP2D6 inhibition (12).
+Regarding New Zealand treatments, inquiries subse-
+quent to the conclusion of the study revealed that
+although official reporting on New Zealand treatments
+is voluntary and, therefore, data are incomplete, the
+two providers collectively reported treating 83 patients
+(Provider 1, 53 patients; Provider 2, 30 patients). It
+seems likely, however, that more than 100 treatments
+occurred during the time of the study, that is, between
+2012 and 2015. Notwithstanding the death reported
+here, in New Zealand ibogaine treatment currently,
+remains legal and has not been subject to any specific
+sanctions as a response to the fatality.
+Despite the fatality, due to ibogaine being available by
+prescription in New Zealand, structural mechanisms
+within the treatment context exist to reduce ibogaine’s
+potential risks in that country. These are promoted
+through the legal availability of ibogaine, for example,
+where patients, ibogaine providers, and other health pro-
+fessionals are all able to openly engage with the treatment
+process. This process is clearly facilitated by legal access to
+ibogaine, an approach emphasized by Provider 2 in their
+treatment of participants in the present study. The possi-
+bility of improved treatment safety through regulation,
+however, is most likely to occur where there is a will
+amongst all stakeholders to develop a set of robust clinical
+guidelines or preferably national standards. These must
+apply to and be adhered to by all treatment providers,
+regardless of putative experience, skill, or qualification. In
+this regard, it is interesting to note that the New Zealand
+fatality occurred at a clinic run by a qualified medical
+practitioner
+with
+considerable
+emergency
+medicine
+experience who nonetheless was adjudged to have failed
+in their duty of care.
+While this study has provided further evidence sup-
+porting ibogaine’s effectiveness in reducing opioid with-
+drawal, cravings and use over an extended period, it
+nonetheless has a number of weaknesses. Chief among
+these is the study’s method, with its reliance on a small (n
+= 14) convenience sample already intending treatment.
+Additionally, this group was also filtered by the treatment
+providers prior to indicating interest in participation to
+the investigator. The small sample size further decreased
+with attrition and partial datasets. Finally, while attempts
+were made to ensure accuracy of drug use data through
+random testing and interviewing significant others, these
+efforts were not achieved consistently with all partici-
+pants. Consequently, the sample is not representative,
+which limits generalizability.
+Despite noted limitations, this study has demonstrated
+that for some opioid-dependent individuals, ibogaine
+treatment can be effective in significantly reducing opioid
+44
+G. E. NOLLER ET AL.
+
+
+withdrawal, craving and depressed mood, and reducing
+or ceasing opioid use. Given the modest success of exist-
+ing treatments, some of which involve extensive, repeated
+administration and considerable risk, and the significant
+increase in opioid dependence globally, it seems prudent
+to more seriously examine the place of ibogaine in the
+context of treating this intractable problem. Therefore,
+support for further research into non-traditional options
+such as ibogaine is urgently needed to improve clinical
+outcomes of opioid dependence.
+Acknowledgments
+The authors wish to acknowledge Kenneth Alper, M.D.,
+Associate Professor of Psychiatry and Neurology New York
+University School of Medicine New York; Professor Paul
+Glue, Chair of Psychological Medicine, School of Medical
+Sciences, University of Otago, Dunedin, New Zealand; and
+Allison Feduccia, Ph.D., MAPS Clinical Trial Leader, for com-
+ments on earlier drafts of the manuscript. Ben Shechet and
+Colin Hennigan (MAPS) provided data management support.
+Financial disclosures
+Geoffrey E. Noller: Independent researcher receiving pay-
+ment for study conduct over three years from funding
+sources listed below.
+Chris M. Frampton: Reports no relevant financial conflicts
+Berra Yazar-Klosinski: Employee receiving full time salary
+support from MAPS over three years, a tax-exempt charity
+funding research and education
+Funding
+Research was supported by grants from the Multidisciplinary
+Association of Psychedelic Studies (MAPS; a tax-exempt
+charity funding research and education) and The Star Trust.
+References
+1. Cornish R, Macleod J, Strang J, Vickerman P, Hickman
+M. Risk of death during and after opiate substitution
+treatment in primary care: prospective observational
+study in UK General Practice Research Database. BMJ
+2010;341:c5475.
+2. Kolodny A, Courtwright DT, Hwang CS, Kreiner P,
+Eadie JL, Clark TW, et al. The prescription opioid and
+heroin crisis: a public health approach to an epidemic
+of addiction. Annu Rev Public Health 2015;36:559–574.
+3. Adamson SJ, Deering DE, Sellman JD, Sheridan J,
+Henderson C, Robertson R, et al. An estimation of
+the prevalence of opioid dependence in New Zealand.
+Int J Drug Policy 2012;23:87–89.
+4. Rudd RA, Aleshire N, Zibbell JE, Gladden RM.
+Increases in Drug and Opioid Overdose Deaths–
+United
+States,
+2000–2014.
+MMWR
+Morb
+Mortal
+Wkly Rep 2016;64:1378–1382.
+5. Volkow
+ND,
+Frieden
+TR,
+Hyde
+PS,
+Cha
+SS.
+Medication-assisted
+therapies–tackling
+the
+opioid-
+overdose epidemic. N Engl J Med 2014;370:2063–2066.
+6. Amato L, Minozzi S, Davoli M, Vecchi S, Ferri M,
+Mayet S. Psychosocial combined with agonist mainte-
+nance treatments versus agonist maintenance treat-
+ments alone for treatment of opioid dependence.
+Cochrane Database Syst Rev 2008:CD004147.
+7. Popik P, Layer RT, Skolnick P. 100 years of ibogaine:
+neurochemical and pharmacological actions of a putative
+anti-addictive drug. Pharmacol Rev 1995;47:235–253.
+8. Fernandez JW, Fernandez RL. “Returning to the path”:
+the use of iboga[ine] in an equatorial African ritual
+context and the binding of time, space, and social
+relationships. Alkaloids Chem Biol 2001;56:235–247.
+9. Glue P, Lockhart M, Lam F, Hung N, Hung CT,
+Friedhoff L. Ascending-dose study of noribogaine in
+healthy volunteers: pharmacokinetics, pharmacody-
+namics, safety, and tolerability. J Clin Pharmacol
+2015;55:189–194.
+10. Lotsof HS, Alexander NE. Case studies of ibogaine
+treatment: implications for patient management strate-
+gies. Alkaloids Chem Biol 2001;56:293–313.
+11. Alper KR, Lotsof HS, Frenken GM, Luciano DJ,
+Bastiaans J. Treatment of acute opioid withdrawal
+with ibogaine. Am J Addict 1999;8:234–242.
+12. Glue P, Winter H, Garbe K, Jakobi H, Lyudin A,
+Lenagh-Glue Z, et al. Influence of CYP2D6 activity
+on the pharmacokinetics and pharmacodynamics of a
+single 20 mg dose of ibogaine in healthy volunteers. J
+Clin Pharmacol 2015;55:680–687.
+13. Koenig X, Kovar M, Boehm S, Sandtner W, Hilber K.
+Anti-addiction drug ibogaine inhibits hERG channels:
+a cardiac arrhythmia risk. Addict Biol 2014;19:237–239.
+14. Degenhardt L, Bucello C, Mathers B, Briegleb C, Ali H,
+Hickman M, et al. Mortality among regular or depen-
+dent users of heroin and other opioids: a systematic
+review and meta-analysis of cohort studies. Addiction
+2011;106:32–51.
+15. Brown TK. Ibogaine in the treatment of substance
+dependence. Curr Drug Abuse Rev 2013;6:3–16.
+16. Mash DC, Ameer B, Prou D, Howes JF, Maillet EL.
+Oral noribogaine shows high brain uptake and anti-
+withdrawal effects not associated with place preference
+in rodents. J Psychopharmacol 2016;30:688–697.
+17. Medsafe.
+Minutes
+of
+the
+42nd
+Meeting
+of
+the
+Medicines Classification Committee. Available from:
+http://www.medsafe.govt.nz/profs/class/mccmin03
+nov2009.htm [last accessed February 2016]. 2009 [cited
+2016]; Minutes from NZ organizaiton meeting].
+18. McLellan T, Cacciola J, Carise D, Coyne TH. Addiction
+Severity Index Lite-CF. Clinical/Training Version 1999;
+Available from: Sept 2014 http://m.breining.edu/
+ASILite112909.pdf.
+19. McLellan AT, Luborsky L, Cacciola J, Griffith J, Evans
+F, Barr HL, et al. New data from the Addiction Severity
+Index. Reliability and validity in three centers. J Nerv
+Ment Dis 1985;173:412–423.
+20. Beck AT, Steer RA, Brown GK. Manual for the beck
+depression
+inventory-II.
+San
+Antonio,
+TX:
+Psychological Corporation 1996;1:82.
+THE AMERICAN JOURNAL OF DRUG AND ALCOHOL ABUSE
+45
+
+
+21. Handelsman L, Cochrane KJ, Aronson MJ, Ness R,
+Rubinstein KJ, Kanof PD. Two new rating scales for opiate
+withdrawal. Am J Drug Alcohol Abuse 1987;13:293–308.
+22. Health and Disability Commissioner. A Report by the
+Health and Disability Commissioner. Available from:
+http://www.hdc.org.nz/media/289826/13hdc00966.pdf
+[last accessed 18 February 2016]. Coroner’s report: New
+Zealand Health and Disability Commissioner. 2015.
+Report No.: 13HDC00966.
+23. Ling W, Hillhouse M, Domier C, Doraimani G, Hunter J,
+Thomas C, et al. Buprenorphine tapering schedule and
+illicit opioid use. Addiction 2009;104:256–265.
+24. Alper KR, Lotsof HS, Kaplan CD. The ibogaine medi-
+cal subculture. J Ethnopharmacol 2008;115:9–24.
+25. Noller G, Henderson C. Report of the National Needle
+Exchange Blood-borne Virus Seroprevalence Survey.
+[BBVNEX2013] to the New Zealand Ministry of Health.
+Christchurch, New Zealand: National Office of the New
+Zealand Needle Exchange Programme; 2014.
+26. Winstock AR, Lintzeris N, Lea T. “Should I stay or should
+I go?” Coming off methadone and buprenorphine treat-
+ment. Int J Drug Policy 2011;22:77–81.
+27. Mash DC, Kovera CA, Pablo J, Tyndale R, Ervin FR,
+Kamlet JD, et al. Ibogaine in the treatment of heroin
+withdrawal. Alkaloids Chem Biol 2001;56:155–171.
+28. Mathew RJ, Swihart AA, Weinman ML. Vegetative
+symptoms in anxiety and depression. Br J Psychiatry
+1982;141:162–165.
+29. Beck AT. Depression: Clinical, experimental, and
+theoretical aspects. Philadelphia, PA: University of
+Pennsylvania Press; 1967.
+30. Brown T. Results from the MAPS Mexico-based
+Ibogaine Study. 5th Global Ibogaine Conference;
+2016 March 14–16; Tepoztlan, Mexico.
+31. Alper KR, Stajic M, Gill JR. Fatalities temporally asso-
+ciated with the ingestion of ibogaine. J Forensic Sci
+2012;57:398–412.
+32. Gonzalez FJ, Meyer UA. Molecular genetics of the
+debrisoquin-sparteine
+polymorphism.
+Clin
+Pharmacol Ther 1991;50:233–238.
+33. Sheppard SG. A preliminary investigation of ibogaine:
+case reports and recommendations for further study. J
+Subst Abuse Treat 1994;11:379–385.
+34. Luciano D. Observations on treatment with ibo-
+gaine. Am J Addict 1998;7:89–90.
+35. Mash DC, Kovera CA, Pablo J, Tyndale RF, Ervin FD,
+Williams IC, et al. Ibogaine: complex pharmacoki-
+netics, concerns for safety, and preliminary efficacy
+measures. Ann N Y Acad Sci 2000;914:394–401.
+36. Bastiaans E. Life after ibogaine: an exploratory
+study of the long-term effects of ibogaine treatment
+on
+drug
+addicts.
+Doctorandus
+thesis
+Vrije
+Universiteit
+Amsterdam,
+Faculty
+of
+Medicine.
+Available from: https://www.iceers.org/docs/
+science/iboga/Bastiaans%20E_Life_After_Ibogaine.
+pdf [last accessed 2004].
+46
+G. E. NOLLER ET AL.

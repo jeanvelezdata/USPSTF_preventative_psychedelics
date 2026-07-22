@@ -1,0 +1,78 @@
+{
+  "data": {
+    "article": {
+      "StudyID": "Perkins 2022",
+      "Citation": "Perkins D, et al. Associations between ayahuasca consumption in naturalistic settings and current alcohol and drug use: results of a large international cross-sectional survey. Drug and Alcohol Review. 2022.",
+      "Title": "Associations between ayahuasca consumption in naturalistic settings and current alcohol and drug use: results of a large international cross-sectional survey",
+      "Year": 2022,
+      "Corpus/Prefix": ".",
+      "Condition": "Alcohol",
+      "Substance": "Ayahuasca",
+      "IsObservational": "Y",
+      "N": 8629,
+      "AE_denominator": ".",
+      "ArmScope": "psychedelic_arm",
+      "PctFemale": 47,
+      "GenderCategory": "Male/Female (53% male reported; no non-binary/other category reported)",
+      "PctBIPOC": ".",
+      "PctIndigenous": ".",
+      "SafetyReported": "Y",
+      "AnyAEReported": "Y",
+      "NumDistinctAEs": 2,
+      "NParticipantsWithAE": ".",
+      "WorstSeverity": "Mild",
+      "text_source": "born-digital",
+      "Model": "claude-sonnet-5",
+      "PromptVersion": "ae_extraction_prompt_v1",
+      "RubricVersion": "severity_rubric_v1",
+      "Temperature": 1
+    },
+    "ae_events": [
+      {
+        "AE_ID": "Perkins 2022_AE01",
+        "StudyID": "Perkins 2022",
+        "AE_type": "challenging_experience",
+        "Description": "Extent of extreme fear or panic experienced during an ayahuasca session (0-10 self-report item, analyzed as a covariate).",
+        "Onset": "in-session",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "Y",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Perkins 2022_AE02",
+        "StudyID": "Perkins 2022",
+        "AE_type": "AE",
+        "Description": "Number of emotional/psychological 'integration difficulties' (PHQ-4 based, plus nightmares/disconnection items) in the weeks-months after drinking ayahuasca; analyzed as a covariate.",
+        "Onset": "delayed",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "Y",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "N"
+      }
+    ]
+  },
+  "rationale": {
+    "article": {
+      "IsObservational": "International online cross-sectional survey (Global Ayahuasca Project, April 2017-May 2019) of self-selected respondents reporting on naturalistic, real-world ayahuasca use; no randomization or research-administered dosing protocol, so this is observational.",
+      "N": "Total survey enrollment was n=10,836, but the article states only participants who answered at least one alcohol/drug item were included in this analysis (n=8629, per abstract and Methods). Used 8629 as the final analyzed N per the field definition.",
+      "PctFemale": "Abstract reports '53% male' for the full analyzed sample (n=8629); no separate overall %female figure is given, so PctFemale=47 was derived as the complement (100-53). Table 1 gives sex % separately by ayahuasca-church vs non-church subgroup (47.0% and 47.3% female respectively), consistent with this figure, but no single combined-sample percentage is printed verbatim.",
+      "PctBIPOC": "Article reports region of residence (Brazil, other Latin America, Europe, North America, Australia/NZ, Asia/Middle East) but no race/ethnicity breakdown; region is not a valid proxy for BIPOC status, so coded not-reported.",
+      "PctIndigenous": "No participant-level Indigenous-identity data reported; historical mentions of Indigenous South American ayahuasca use describe the substance's traditional origins, not this survey's sample composition.",
+      "Condition": "Study examines current use of alcohol and a wide range of other drugs (cannabis, cocaine, meth, ecstasy, LSD, mushrooms, tranquilisers, opiates, ketamine, NPS, heroin) alongside ayahuasca use. Alcohol is a dedicated, heavily emphasized outcome (its own consumption/risky-drinking tables, AUD-specific subgroup models), so coded Condition='Alcohol', but flagging that the study is genuinely multi-substance in scope.",
+      "AE_denominator": "Methods state 'any adverse effects experienced' was collected as part of the survey, and 'extreme fear'/'integration difficulties' items were administered, but no specific N or valid-response count is given for these particular items (unlike Table 1 items, which report per-item (n)). Coded not-reported rather than assuming it equals the overall analytic N=8629.",
+      "SafetyReported": "Methods explicitly state the survey collected 'any adverse effects experienced,' plus two AE-adjacent measured constructs: a single-item 0-10 'extreme fear or panic' during sessions, and a PHQ-4-based 'integration difficulties' symptom count (nightmares, feeling disconnected, etc.) in the weeks/months after use. These constitute an assessment of safety-relevant experience, even though the article never reports simple descriptive incidence for them.",
+      "AnyAEReported": "Both 'extreme fear' and 'integration difficulties' appear as continuous covariates with statistically significant associations across multiple regression models (Tables 2-3), which is only possible if these scores have non-zero variance in the sample, i.e., some respondents scored above zero on these AE-adjacent measures. No descriptive prevalence % or mean/SD is printed for either item, so this is inferential rather than a stated incidence figure - flagged as a non-obvious call. The dedicated 'any adverse effects experienced' survey item mentioned in Methods is never analyzed or reported anywhere in Results/Discussion/Tables.",
+      "NumDistinctAEs": "Two distinct named AE-adjacent constructs are identifiable in the text: (1) extreme fear/panic during sessions, (2) integration difficulties post-session. The separately-collected 'any adverse effects experienced' item is mentioned in Methods but never named/detailed further or analyzed, so it was not counted as a third distinct, identifiable type.",
+      "NParticipantsWithAE": "No count or percentage of participants experiencing extreme fear, integration difficulties, or 'any adverse effects' is printed anywhere in the article - only regression coefficients relating these continuous scores to substance-use outcomes.",
+      "WorstSeverity": "Both identified AE-adjacent constructs lack any intervention, outcome, or seriousness signal (no clinical intervention, hospitalization, or persistence-beyond-measurement-window detail given), so both default to Mild per the under-specified-AE rule, making WorstSeverity=Mild.",
+      "ArmScope": "Naturalistic cross-sectional survey of ayahuasca drinkers only; the 'ayahuasca church' vs 'other contexts' split compared in Table 1 is a within-exposed-sample comparison (both subgroups are ayahuasca-experienced), not an exposed-vs-unexposed comparator arm, so the entire reported N/AE/demographic data is psychedelic-exposed only."
+    },
+    "ae_events": {
+      "Perkins 2022_AE01": "Classified as challenging_experience (CEQ-sense, in-session fear/panic during dosing) per the rubric's core adaptation principle. No intervention, duration, or outcome detail is given beyond the 0-10 self-report scale itself, so severity defaults to Mild with SeverityIndeterminate=Y. The item is never described with a mean, SD, or % endorsing high fear in the article text - only its regression coefficient is reported.",
+      "Perkins 2022_AE02": "Classified as AE (not challenging_experience) because it describes post-session symptoms (PHQ-4 anxiety/depression items plus nightmares, disturbing thoughts, feeling disconnected/alone) occurring in the weeks-to-months after use, not in-session dosing phenomenology. Onset coded 'delayed' since the article's own timeframe description ('weeks or months') exceeds the hours-to-days 'post-session-acute' band. No severity, intervention, or persistence-beyond-window detail is given, so defaulted to Mild with SeverityIndeterminate=Y."
+    }
+  }
+}

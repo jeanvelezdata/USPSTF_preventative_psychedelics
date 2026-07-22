@@ -1,0 +1,46 @@
+{
+  "data": {
+    "article": {
+      "StudyID": "Fabregas 2010",
+      "Citation": "Fabregas JM, et al. Assessment of addiction severity among ritual users of ayahuasca. Drug and Alcohol Dependence. 2010.",
+      "Title": "Assessment of addiction severity among ritual users of ayahuasca",
+      "Year": 2010,
+      "Corpus/Prefix": ".",
+      "Condition": ".",
+      "Substance": "Ayahuasca",
+      "IsObservational": "Y",
+      "N": 127,
+      "AE_denominator": ".",
+      "ArmScope": "psychedelic_arm",
+      "PctFemale": 51.2,
+      "GenderCategory": "male/female (Study 1 ayahuasca-user group baseline 29M/27F, n=56; follow-up 19M/20F, n=39; Study 2 ayahuasca-user group baseline 33M/38F, n=71; follow-up 21M/18F, n=39); no non-binary/other categories reported",
+      "PctBIPOC": 38.6,
+      "PctIndigenous": ".",
+      "SafetyReported": "N",
+      "AnyAEReported": "NA",
+      "NumDistinctAEs": "NA",
+      "NParticipantsWithAE": "NA",
+      "WorstSeverity": "NA",
+      "text_source": "born-digital",
+      "Model": "claude-sonnet-5",
+      "PromptVersion": "ae_extraction_prompt_v1",
+      "RubricVersion": "severity_rubric_v1",
+      "Temperature": 1
+    },
+    "ae_events": []
+  },
+  "rationale": {
+    "article": {
+      "IsObservational": "No randomization to ayahuasca use. Two sub-studies each compare pre-existing ritual ayahuasca users (jungle-based C\u00e9u do Mapi\u00e0 community and urban Barquinha church members) against demographically-matched non-user community controls, assessed cross-sectionally at baseline with a 1-year naturalistic follow-up. Ayahuasca exposure was observed as delivered in ongoing religious ritual practice, not assigned for research purposes, so this is a naturalistic/observational cohort-comparison design, not an RCT or interventional protocol.",
+      "Condition": "The article does not target treatment of one specific SUD (alcohol, smoking, or opioid). It assesses general addiction severity (ASI composite, including Alcohol Use and Drug Use subscales) and psychosocial functioning in ritual ayahuasca users versus non-user controls, not a treatment trial for a defined substance use disorder. Coded '.' as genuinely indeterminate among the three listed enum options.",
+      "Corpus/Prefix": "No explicit corpus/grouping label distinct from the substance name is given in the article; coded '.'.",
+      "N": "Article reports two sub-studies with separate ayahuasca-user and comparison-group Ns at baseline and 1-year follow-up (Study 1: 56 ayahuasca users/56 controls at baseline, 39/49 at follow-up; Study 2: 71 ayahuasca users/59 controls at baseline, 39/19 at follow-up). Per ArmScope=psychedelic_arm, N reflects only ayahuasca-exposed participants, summed across the two sub-studies at baseline (56+71=127), since baseline is the primary enrolled/analyzed sample for the demographic (Table 1) and cross-sectional ASI (Table 2) comparisons. Follow-up analyzed ayahuasca-user subsamples were smaller (39+39=78) due to longitudinal attrition ('experimental mortality' noted by the authors).",
+      "ArmScope": "The article reports demographics and outcomes separately by group (ayahuasca users vs. comparison controls) rather than as a single mixed figure, but since it includes non-exposed comparator participants, extracted N/demographic values were scoped to the ayahuasca-exposed participants only (excluding controls) to keep the safety/demographics fields specific to the psychedelic-exposed population, consistent with 'psychedelic_arm' usage.",
+      "PctFemale": "Combined female count across both ayahuasca-user sub-samples at baseline: Study 1 aya 27F/56 + Study 2 aya 38F/71 = 65/127 = 51.2%.",
+      "PctBIPOC": "Non-white (Mestizos+Asian+Black) among ayahuasca-user baseline samples only: Study 1 aya (n=56): Mestizos 15 + Asian 1 + Black 0 = 16 -> 16/56. Study 2 aya (n=71): Mestizos 31 + Asian 1 + Black 1 = 33 -> 33/71. Combined: (16+33)/(56+71) = 49/127 = 38.6%.",
+      "PctIndigenous": "Race was reported using categories White/Mestizos/Asian/Black; no distinct 'Indigenous' category was reported for either ayahuasca-user sample, even though the jungle-based group is drawn from an Amazonian community. Coded '.' as not reported rather than inferring from Mestizo counts.",
+      "SafetyReported": "The article assesses addiction severity (ASI) and sociodemographic/substance-use history; it does not report or discuss adverse events, tolerability, or safety monitoring related to ayahuasca use at any point. Coded SafetyReported='N', cascading AnyAEReported/NumDistinctAEs/NParticipantsWithAE/WorstSeverity to 'NA' and AE_denominator to '.' per the schema's exception for that field."
+    },
+    "ae_events": {}
+  }
+}

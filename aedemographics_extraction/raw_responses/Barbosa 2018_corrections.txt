@@ -1,0 +1,15 @@
+Manual correction by dispatch orchestrator, 2026-07-22.
+
+Field: data.article.AE_denominator
+Subagent's original value: "NA"
+Corrected to: "."
+
+Reason: AE_denominator's type is restricted to integer / "Not numbered" / "." only
+(see observational_codebook.md §3 and ae_extraction_prompt_v1.md schema table) —
+"NA" is not a valid value for this field even though the general missingness
+convention table allows "NA" for most fields. The subagent's stated rationale
+("the concept of an AE-count denominator does not apply") is semantically
+equivalent to "." for this specific field; this is a mechanical type-convention
+fix, not a change to the subagent's substantive judgment. The prompt
+(ae_extraction_prompt_v1.md) was subsequently updated to call out this
+exception explicitly to prevent recurrence in later batches.

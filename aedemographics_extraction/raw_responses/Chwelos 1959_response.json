@@ -1,0 +1,97 @@
+{
+  "data": {
+    "article": {
+      "StudyID": "Chwelos 1959",
+      "Citation": "Chwelos N, Blewett DB, Smith CM, Hoffer A. Use of d-Lysergic Acid Diethylamide in the Treatment of Alcoholism. Quarterly Journal of Studies on Alcohol. 1959.",
+      "Title": "Use of d-Lysergic Acid Diethylamide in the Treatment of Alcoholism",
+      "Year": 1959,
+      "Corpus/Prefix": ".",
+      "Condition": "Alcohol",
+      "Substance": "LSD, Mescaline",
+      "IsObservational": "Y",
+      "N": 40,
+      "AE_denominator": "Not numbered",
+      "ArmScope": "psychedelic_arm",
+      "PctFemale": ".",
+      "GenderCategory": ".",
+      "PctBIPOC": ".",
+      "PctIndigenous": ".",
+      "SafetyReported": "Y",
+      "AnyAEReported": "Y",
+      "NumDistinctAEs": 4,
+      "NParticipantsWithAE": ".",
+      "WorstSeverity": "Mild",
+      "text_source": "born-digital",
+      "Model": "claude-sonnet-5",
+      "PromptVersion": "ae_extraction_prompt_v1",
+      "RubricVersion": "severity_rubric_v1",
+      "Temperature": 1
+    },
+    "ae_events": [
+      {
+        "AE_ID": "Chwelos 1959_AE01",
+        "StudyID": "Chwelos 1959",
+        "AE_type": "challenging_experience",
+        "Description": "Varying degrees of tension or depression during the LSD experience, interfering with the therapeutic relationship",
+        "Onset": "in-session",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "Y",
+        "SeveritySource": "rubric",
+        "InterventionRequired": "N",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Chwelos 1959_AE02",
+        "StudyID": "Chwelos 1959",
+        "AE_type": "challenging_experience",
+        "Description": "Withdrawal and paranoia reactions during experience, making discussion difficult; occurred in 7 of 24 Group I patients (only 1 improved)",
+        "Onset": "in-session",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "Y",
+        "SeveritySource": "rubric",
+        "InterventionRequired": "N",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Chwelos 1959_AE03",
+        "StudyID": "Chwelos 1959",
+        "AE_type": "AE",
+        "Description": "Nausea and other somatic complaints during early phases of the LSD experience; described as not unusual",
+        "Onset": "in-session",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "rubric",
+        "InterventionRequired": "N",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Chwelos 1959_AE04",
+        "StudyID": "Chwelos 1959",
+        "AE_type": "both",
+        "Description": "Illusions, hallucinations, paranoid delusions (reference/influence/persecution/grandeur), thought disorder, perceptual distortion, severe anxiety commonly reported during sessions",
+        "Onset": "in-session",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "Y",
+        "SeveritySource": "rubric",
+        "InterventionRequired": "N",
+        "MeetsFDASerious": "N"
+      }
+    ]
+  },
+  "rationale": {
+    "article": {
+      "Title": "OCR renders the title as 'fUse of d-Lysergie Acid Diethylamide in the Treatment of Alcoholism I'; the leading 'f', the 'e/c' swap in 'Lysergie', and the trailing 'I' (a footnote marker for the funding acknowledgement) are read through as standard ligature/OCR artifacts per the input-fidelity rule, not as content changes.",
+      "IsObservational": "No randomization or control arm; all patients were admitted to hospital and treated with LSD (with mescaline for non-responders) as a naturalistic case series, with outcomes tracked via A.A./family/physician follow-up. This is a single-arm treatment case series, not an RCT, so IsObservational = Y.",
+      "N": "Summary states plainly 'A report on the therapeutic efforts of LSD in 40 alcoholic patients is presented' (Group I n=24 + Group II n=16). Note: the text elsewhere prints Group I's size as 'The results will be discussed in two groups: Group I, the original 9.4 patients discussed in another paper by Smith (1)' -- '9.4' is an obvious OCR garble of '24', inconsistent with the clean, legible Table 1 diagnostic-category counts (8 + 12 + 4 = 24) and with 40 - 16 = 24. Per the input-fidelity rule I did not construct a decode theory to 'fix' 9.4; instead I used the directly and cleanly printed total N=40 from the Summary, and derived Group I=24 only via straightforward addition of Table 1's own clean digits, not from the garbled figure.",
+      "Substance": "LSD was the primary agent (200-400 mcg oral), but the text states non-responders to LSD 'subsequently received a larger dose of mescaline in an attempt to get a response,' so mescaline was also administered as treatment to a subset; both are listed.",
+      "AE_denominator": "The narrative 'side effects' passage (tension/depression, withdrawal/paranoia, nausea) is not tied to an explicit denominator (unclear if it describes Group I n=24, from the cited Smith (1) report, or the full N=40 sample). Only the withdrawal/paranoia sub-finding gives an explicit count (7 of Group I's 24). Coded 'Not numbered' since safety was clearly assessed/reported but no single denominator is stated for the overall side-effect summary.",
+      "ArmScope": "Single-arm case series -- every patient in the sample received LSD and/or mescaline; there is no non-exposed comparator group, so ArmScope = psychedelic_arm."
+    },
+    "ae_events": {
+      "Chwelos 1959_AE01": "Described only as 'varying degrees of tension or depression during the experience' with no detail on duration, frequency, or whether any intervention was given; defaulted to Mild per the rubric's expected-transient-effect guidance and flagged SeverityIndeterminate=Y. InterventionRequired inferred N because no pharmacological/medical intervention of any kind is mentioned anywhere in the methods (only supportive staff presence and verbalization), combined with the article's explicit statement that no patient's condition was aggravated by treatment.",
+      "Chwelos 1959_AE02": "Withdrawal and paranoia are described together as a single reaction pattern (consistent with the article's own 'type 4' paranoid/withdrawal experience framework later in the Discussion). The article gives a count for this event (7 of Group I's 24) but no intervention/duration detail, so Mild with SeverityIndeterminate=Y. The article's blanket statement that 'no permanent side effects were noted' supports non-persistence, but the intervention axis remains unspecified.",
+      "Chwelos 1959_AE03": "Nausea and somatic complaints during the early/acute phase map directly onto the rubric's explicit Mild exemplar list ('transient anxiety, nausea, headache...'), and the article calls this 'not unusual' (i.e., expected), so graded Mild without flagging indeterminate.",
+      "Chwelos 1959_AE04": "Drawn from the Discussion's list of 'changes most commonly reported by subjects' (item 9, 'Psychotic changes'), which names illusions, hallucinations, paranoid delusions, thought disorder, perceptual distortion, and severe anxiety as part of the LSD experience generally, not as a counted incident in this sample. No per-patient counts, duration, or intervention data are given, so this is treated as challenging-experience phenomenology per the rubric ('high CEQ score alone -> Mild unless accompanied by intervention need or persistence') rather than escalated on the basis of the words 'psychotic' or 'severe anxiety' alone. Flagged SeverityIndeterminate=Y given the lack of individual-level detail. Coded AE_type='both' because some listed elements (paranoid delusions, thought disorder, hallucinations) read as more clinically AE-like than pure in-session CEQ phenomenology."
+    }
+  }
+}

@@ -1,0 +1,2396 @@
+PAPER
+TOXICOLOGY
+Kenneth R. Alper,1 M.D.; Marina Stajic´,2 Ph.D.; and James R. Gill,3 M.D.
+Fatalities Temporally Associated with the
+Ingestion of Ibogaine
+ABSTRACT: Ibogaine is a naturally occurring psychoactive plant alkaloid that is used globally in medical and nonmedical settings for opioid
+detoxification and other substance use indications. All available autopsy, toxicological, and investigative reports were systematically reviewed for the
+consecutive series of all known fatalities outside of West Central Africa temporally related to the use of ibogaine from 1990 through 2008. Nineteen
+individuals (15 men, four women between 24 and 54 years old) are known to have died within 1.5–76 h of taking ibogaine. The clinical and post-
+mortem evidence did not suggest a characteristic syndrome of neurotoxicity. Advanced preexisting medical comorbidities, which were mainly cardio-
+vascular, and⁄or one or more commonly abused substances explained or contributed to the death in 12 of the 14 cases for which adequate
+postmortem data were available. Other apparent risk factors include seizures associated with withdrawal from alcohol and benzodiazepines and the
+uninformed use of ethnopharmacological forms of ibogaine.
+KEYWORDS:
+forensic science, toxicology, ibogaine, iboga alkaloid, substance abuse, human, fatality, opioid, opioid detoxification,
+ethnopharmacology
+The iboga alkaloids are a group of monoterpene indole alkaloids,
+some of which reportedly reduce the self-administration of drugs of
+abuse and opiate withdrawal symptoms in animal models and
+humans (1,2). Ibogaine (Fig. 1), the most extensively studied iboga
+alkaloid, occurs in the root bark of the West African Apocynaceous
+shrub Tabernanthe iboga Baill. In Gabon, eboga, the scrapings of
+the root bark, has been used as a psychopharmacological sacrament
+in the Bwiti religion for several centuries (3,4). Elsewhere, includ-
+ing North America, Europe, and South Africa, ibogaine is used for
+the purpose of acute opioid detoxification, and to reduce craving
+and maintain abstinence from opioids and other abused substances
+including stimulants and alcohol, as well as for psychological or
+spiritual purposes (5).
+Ibogaine is used most frequently as a single oral dose in the
+range of 10–25 mg⁄kg of body weight for the specific indication
+of detoxification from opioids (5,6). It is most commonly used in
+the form of the hydrochloride (HCl), which certificates of analysis
+typically indicate is 95–98% pure, with present retail prices in the
+range of c. $125–$250 USD per gram. Ibogaine is also used in the
+form of alkaloid extracts or dried root bark (Fig. 2).
+Ibogaine is a schedule I substance in the United States, and simi-
+larly is illegal in France, Denmark, Sweden, Belgium, Switzerland,
+and Australia. However, it is unregulated in most countries, where
+it is neither illegal nor officially approved. Lay providers administer
+ibogaine in nonmedical settings and have accounted for the
+majority of treatments (5). Ibogaine is administered in medical set-
+tings in countries such as Mexico and South Africa, where physi-
+cians
+have
+the
+legal
+prerogative
+to
+prescribe
+unapproved
+medications.
+Published case series and individual accounts regarding ibogaine
+for opioid detoxification tend to be consistent with regard to rapid
+remission of acute withdrawal symptoms following a single admin-
+istration that is subsequently sustained without further ibogaine
+treatment or the use of opioids (1,6,7). This effect of ibogaine
+appears to be pharmacologically mediated and not accounted for
+by placebo, which has clinically negligible effects in opioid detoxi-
+fication (8–10). In the naloxone-precipitated withdrawal model of
+opioid detoxification, iboga alkaloids have attenuated opioid with-
+drawal signs in 13 of 14 independent replications in two rodent
+and two primate species (11–24). Ibogaine administered to rats or
+mice as a single dose reduces the self-administration of morphine
+(25–28), cocaine (26,29,30), and alcohol (31,32), with sustained
+treatment effects for 48–72 h averaged for an entire sample, and an
+even longer duration in individual animals (25,26,28,30). The
+serum half-life of ibogaine in the rat is c. 1–2 h (33,34), indicating
+that the prolonged effect on self-administration outlasts the presence
+of ibogaine itself, without compelling evidence that it is mediated
+by a long-lived metabolite (35).
+Ibogaine does not appear to be an abused substance. The
+National Institute on Drug Abuse (NIDA) did not identify potential
+abuse as an issue in the context of its research program on iboga-
+ine, which included preclinical testing and the development of a
+clinical trial protocol (1). Animals do not self-administer 18-meth-
+oxycoronaridine (18-MC), a closely structurally related ibogaine
+congener with the same effects as ibogaine on self-administration
+and withdrawal in preclinical models (36). Aversive side effects
+such as nausea and ataxia limit ibogaine’s potential for abuse.
+Ibogaine potentiates the lethality of opioids (33,37–39). This is
+apparently because of an enhancement of opioid signaling (1,40),
+and not because of binding at opioid receptors as an agonist (such
+1Departments of Psychiatry and Neurology, New York University School
+of Medicine, 550 First Avenue, New York, NY 10016.
+2Department of Forensic Toxicology, New York City Office of Chief
+Medical Examiner and Department of Forensic Medicine, New York Uni-
+versity School of Medicine, 520 First Avenue, New York, NY 10016.
+3New York City Office of Chief Medical Examiner and Department of
+Forensic Medicine, New York University School of Medicine, 520 First
+Avenue, New York, NY 10016.
+Received 28 July 2010; and in revised form 17 Nov. 2010; accepted 20
+Nov. 2010.
+J Forensic Sci, March 2012, Vol. 57, No. 2
+doi: 10.1111/j.1556-4029.2011.02008.x
+Available online at: onlinelibrary.wiley.com
+398
+ 2012 American Academy of Forensic Sciences
+
+
+as methadone) or antagonist. Doses of ibogaine used in opioid
+detoxification do not produce signs of overdose in individuals who
+lack tolerance to opioids, such as African Bwiti adepts, or individu-
+als in non-African contexts who take ibogaine for psychological or
+spiritual purposes or the treatment of addiction to substances other
+than opioids. If ibogaine was acting as an opioid agonist, it would
+not be tolerated by opioid-nave individuals because the methadone
+dosage of 60–100 mg⁄day that is used to stabilize withdrawal
+symptoms in the maintenance treatment of opioid-dependent
+patients (41) substantially exceeds the estimated LD50 of 40–50 mg
+in humans who are not pharmacologically tolerant to opioids (42).
+Other evidence that ibogaine alters signaling through opioid recep-
+tors but is not itself an orthosteric agonist includes its potentiation
+of morphine analgesia in the absence of a direct analgesic effect
+(22,38,39,43–47). Ciba Pharmaceutical patented the use of ibogaine
+to reduce tolerance to opioid analgesics in 1957 (47).
+Although ibogaine contains an indole ring and is designated as a
+‘‘hallucinogen,’’ it is pharmacologically distinct from the ‘‘classi-
+cal’’ hallucinogens such as LSD, mescaline, or psilocybin, which
+are thought to act by binding as agonists to the serotonin type 2A
+(5-HT2A) receptor (48). Serotonin agonist or releasing activity does
+not appear to explain ibogaine’s effects in opioid withdrawal
+(2,49). There is no anecdotal or preclinical evidence for a signifi-
+cant effect of classical hallucinogens in acute opioid withdrawal,
+and in the animal model ablation of 90% of the raphe, the major
+serotonergic nucleus of the brain does not significantly affect the
+expression of opioid withdrawal (50). Descriptions of subjective
+experiences associated with ibogaine differ from those associated
+with the classical hallucinogens (5,48,51). The visual effects of
+classical hallucinogens are typically most strongly experienced with
+the eyes open and limited to alterations of colors, textures, and pat-
+terns. In contrast, the psychoactive state associated with ibogaine is
+experienced most intensely with the eyes closed and has been
+described as ‘‘oneiric’’ and likened to a ‘‘waking dream,’’ with
+Iboga alkaloid
+R1
+R2
+R3
+Ibogaine
+OCH3
+H
+H
+Noribogaine
+OH
+H
+H
+Ibogamine
+H
+H
+H
+Ibogaline 
+OCH3
+OCH3
+H
+Tabernanthine
+H
+OCH3
+H
+Voacangine
+OCH3
+H
+CO2CH3
+FIG. 1—Chemical structures of ibogaine and its major metabolite norib-
+ogaine, and the alkaloids ibogamine, ibogaline, tabernanthine, and voacan-
+gine that co-occur with ibogaine in T. iboga. In the Chemical Abstracts
+system the positions of R1, R2, and R3 on the ibogamine parent structural
+skeleton are respectively numbered 12, 13 and 18, whereas in the Le Men
+and Taylor system these same positions are numbered 10, 11 and 16.
+FIG. 2—Forms of availability of ibogaine: Ibogaine is available in form of the hydrochloride (HCl) dried root bark, or alkaloid extract. The upper left
+photo shows 96% pure ibogaine HCl in the form of powder in the upper left quadrant of the photo. In the lower left quadrant of the photo are five capsules.
+The four lighter colored capsules contain 96% pure ibogaine HCl; the smaller two contain 120 mg and the larger two contain 250 mg respectively. The larg-
+est capsule is darker and contains 330 mg of 85% ibogaine HCl. In the lower right quadrant of the photo is ground dried root bark. The upper right photo
+shows alkaloid extract with an estimated total iboga alkaloid content of about 40–50%. The lower photo shows a partially scraped dried Tabernanthe iboga
+root, with external bark layer, an inner bark layer, and wood. The alkaloid content is mainly concentrated in the inner root bark layer, which is exposed
+along the lower border of the bare wood in left middle portion of the photo (photos courtesy of Robert Bovenga Payne and Rocky Caravelli).
+ALPER ET AL.
+• FATALITIES TEMPORALLY ASSOCIATED WITH THE INGESTION OF IBOGAINE
+399
+
+
+interrogatory verbal exchanges involving ancestral and archetypal
+beings, and movement and navigation within visual landscapes.
+Another frequently described experience is panoramic memory, the
+recall of a rapid, dense succession of vivid autobiographical visual
+memories. Mechanistically, these subjective experiences associated
+with ibogaine might possibly suggest functional muscarinic cholin-
+ergic effects, which are prominent in the mechanisms of dreaming
+and memory (52). In animals, ibogaine is reported to enhance spa-
+tial memory retrieval (53,54), and to produce an atropine-sensitive
+EEG rhythm (55,56), commonly regarded as a model of REM
+sleep (57).
+Ibogaine’s highest affinity receptor interactions are as an agonist
+at the r2 receptor, and an antagonist at the N-methyl-d-aspartate-
+type (NMDA) glutamate and a3b4 nicotinic acetylcholine recep-
+tors (1,2,58). Initially, ibogaine’s mechanism of action in drug
+self-administration and withdrawal was hypothesized to involve
+NMDA receptor antagonism (59); however, this hypothesis is now
+viewed as unlikely because the synthetic ibogaine congener 18-
+MC has negligible NMDA receptor affinity but is equally effec-
+tive as ibogaine in reducing withdrawal and self-administration in
+the animal model (2). Studies of iboga alkaloids and nicotinic
+agents (60–64) provide some support for antagonism of the a3b4
+nicotinic receptor as a possible mechanism of action with regard
+to drug craving and self-administration but do not appear to
+explain detoxification in the setting of extensive physical depen-
+dence on opioids. Likewise, the increased expression of glial cell-
+derived neurotrophic factor may mediate reduction in drug craving
+and self-administration (32) but does not explain ibogaine’s effect
+in opioid detoxification.
+Ibogaine was administered to human subjects in a clinical Phase
+I dose escalation study under a physician-initiated Investigational
+New Drug Application approved by the FDA in 1993 (65). The
+study was eventually discontinued because of disputes related to
+contractual and intellectual property issues (66); however, the avail-
+able safety data indicated no adverse events (65). Most of the
+available preclinical pharmacological, toxicological, and pharmaco-
+kinetic data on ibogaine are derived from research supported by
+NIDA between 1991 and 1995. NIDA eventually ended its iboga-
+ine project without having initiated a clinical trial apparently
+because of its high cost and complexity relative to NIDA’s existing
+resources (1). Ibogaine’s underlying structure cannot be patented
+because it is naturally occurring, which limits the financial incen-
+tive for its development. Ibogaine continues to be used in unregu-
+lated contexts with associated risks because of a lack of clinical
+and pharmaceutical standards (5).
+Deaths have occurred temporally related to the use of ibogaine.
+This article presents a systematic review of all available autopsy,
+toxicological, and investigative reports on the consecutive series
+consisting of all known fatalities temporally related to the use of ib-
+ogaine that have occurred outside of West Central Africa from
+1990 through 2008.
+Materials and Methods
+The Institutional Review Board of the New York University
+School of Medicine and the General Counsel of the New York City
+Office of Chief Medical Examiner (OCME) approved this research.
+Identification of Cases
+This series spans the time interval beginning with the first
+reported fatality in 1990 (1) until December 2008. Eighteen of the
+19 fatalities in this series were found through contact with ibogaine
+treatment providers since the mid-1990s (5,6,67,68). One of these
+fatalities was also investigated by the OCME (69) as are all unex-
+pected, violent, and suspicious deaths in New York City. One fatal-
+ity
+was
+found
+by
+literature
+search
+(70).
+The
+ethnographic
+methodology and access to the network of the providers of iboga-
+ine treatment and other participants in the ibogaine subculture are
+described in detail elsewhere (5,67).
+All fatalities were followed up by contact with appropriate
+medico-legal death investigation agencies to obtain all available
+autopsy and toxicology reports, inquest testimony, and other inves-
+tigative reports. In addition to documentary evidence, in most
+instances, treatment providers and other first-hand observers of the
+death scene were interviewed. Systematic evaluation of the litera-
+ture included Medline searches from 1966 to June 2010 utilizing
+PubMed and ISI Web of Knowledge with the search terms ‘‘iboga-
+ine’’ combined with ‘‘death’’ or ‘‘fatality’’ in addition to searches of
+periodical and nonindexed ‘‘grey’’ literature as described elsewhere
+(5,67).
+Analytical Toxicology
+Various methodologies for toxicological analysis of ibogaine
+(molecular weight 310.44) have been previously described, includ-
+ing liquid chromatography with flourimetric detection (71), gas
+chromatography⁄mass spectrometry (GC⁄MS) (72–76) liquid chro-
+matography⁄mass spectrometry (LC-MS) (70,75,77–80), and liquid
+chromatography-tandem mass spectrometry (LC-MS⁄MS) (81–83).
+There is a potential for confusion because of the use of two differ-
+ent schemes for numbering the iboga alkaloid parent ibogamine
+skeleton (84), the Chemical Abstracts system, which is common in
+the biological and medical literature, and the Le Men and Taylor
+system, which tends to be favored by natural products and synthetic
+chemists and is also frequently encountered in the biological
+literature (see Fig. 1).
+Ibogaine screening usually is not included in most routine foren-
+sic toxicological laboratories and a suspicion of use is required for
+analysis, which is typically performed by a referral laboratory. For
+two fatalities in this series (cases #3 and #10 in Table 1), the
+Forensic Toxicology Laboratory at the OCME performed the analy-
+sis. The presence of ibogaine was confirmed by GC⁄MS and the
+concentration determined using GC with a nitrogen phosphorus
+detector (69).
+Cause of Death
+The certified cause of death is included in Table 1, entitled
+‘‘Official cause of death.’’ The certified cause of death is that which
+is indicated by the official documentation, that is, autopsy report or
+death certificate, by the local authority that investigated and
+recorded the death. The available documentation varied greatly with
+regard to investigative rigor, level of detail, and geographic location
+of the official entity that issued the report. As an approach to con-
+trolling for this variance, a coauthor (JRG, a board-certified foren-
+sic pathologist) made a determination regarding the cause of each
+death on the basis of all available data, which in addition to the
+official documentation, included any information that was provided
+by treatment providers and other first-hand observers of the death
+scene, or friends and acquaintances of the decedent. Table 1 pro-
+vides the conclusions of this systematic, critical evaluation of all
+available evidence in the far right-hand column entitled ‘‘Proximate
+cause of death.’’
+The cause of death is defined as the original, etiologically spe-
+cific, underlying medical condition that initiates the lethal sequence
+400
+JOURNAL OF FORENSIC SCIENCES
+
+
+TABLE 1—Worldwide known fatalities outside of West Central Africa temporally associated with the ingestion of ibogaine, 1990–2008.
+Age ⁄ Gender,
+Reason for
+Ibogaine Use
+Country
+Year
+Circumstance
+Time Interval
+from Most
+Recent
+Ingestion of
+Ibogaine
+Until Death
+Ibogaine Form,
+Dose
+Ibogaine
+(Blood, mg ⁄ L
+or mg ⁄ kg)
+Other
+Toxicology
+(mg ⁄ L)
+Other Autopsy
+or Historical
+Findings
+Official Cause
+of Death
+Proximate Cause
+of Death
+1
+44 F
+Psychological ⁄
+spiritual (1)
+France
+1990
+Witnessed
+to become
+unre-
+sponsive
+during
+treatment
+4 h
+Ibogaine
+HCl
+300 mg (c.
+4.5 mg ⁄ kg)
+0.24
+Liver: 0.17
+Kidney: 0.3
+Negative
+Hypertension;
+prior left
+ventricular
+myocardial infarct,
+marked
+3-vessel coronary
+artery
+atherosclerosis,
+inverted T waves
+noted on EKG
+3 months prior to
+death
+Acute heart
+failure
+(autopsy)
+Acute ibogaine
+intoxication.
+Contributing
+conditions:
+atherosclerotic
+and hypertensive
+cardiovascular
+disease
+2
+24 F
+Opioid
+detoxification (6)
+Netherlands
+1993
+Died during
+ibogaine
+treatment;
+gurgling
+sounds
+19 h
+Ibogaine HCl
+29 mg ⁄ kg
+Cardiac: 0.74
+Femoral vein:
+0.75
+Morphine:
+‘‘trace’’ <0.01
+Noribogaine:
+Cardiac: 11.28
+Femoral
+vein: 3.96
+Charred tin foil
+found in room
+Undetermined;
+role of ibogaine
+unknown due to
+lack of information
+relating levels to
+toxic effects
+(autopsy)
+Acute intoxication
+due to the
+combined
+effects of
+ibogaine and
+morphine
+3
+36 M
+Opioid
+detoxification,
+cocaine
+dependence (69)
+USA
+1999
+Found dead
+at home.
+A syringe
+found near
+body
+8–9 h
+Ibogaine HCl;
+believed to be
+16–20 mg ⁄ kg
+Subclavian
+vein: 9.3
+Brain: 18.6
+Liver: 18.1
+Benzoyl-
+ecgonine: 0.6
+Opiates: 0.1
+(Morphine:
+<0.1)
+Depression,
+adverse life
+events prior to
+treatment;
+decedent was
+aware of dangers
+of use of cocaine
+or heroin
+concurrently
+with ibogaine
+Acute intoxication
+due to the
+combined effects
+of opiates, cocaine,
+and ibogaine
+(autopsy)
+Acute intoxication
+due to the
+combined effects
+of opiates,
+cocaine, and
+ibogaine
+4
+40 M
+Opioid
+detoxification
+United
+Kingdom
+2000
+Died in
+bathroom;
+vomited
+immediately
+prior to death
+40 h
+Tabernanthe
+iboga alkaloid
+extract 6 g
+administered
+over c. 6 h
+0.36
+Other toxicology:
+negative
+Noribogaine:
+detected
+Ibogamine:
+detected
+Hepatitis C with
+liver fibrosis,
+pulmonary and
+cerebral edema
+Fatal reaction to
+Tabernanthe iboga
+preparation.
+Contributing
+condition:
+Hepatitis C
+(autopsy)
+Acute ibogaine
+intoxication
+5.
+35 F
+Psychological ⁄
+spiritual
+Germany
+2002
+Found dead
+in bed
+(complained
+of not feeling
+well the
+day before)
+1.5 h
+Ibogaine HCl
+500 mg
+(c. 8 mg ⁄ kg)
+Unknown
+Unknown
+Childhood
+heart surgery
+congenital,
+moderate
+coronary artery
+atherosclerosis
+Heart
+failure ⁄
+intoxication
+(autopsy)
+Acute ibogaine
+intoxication
+(unknown if
+other drugs
+involved).
+Contributing
+conditions:
+atherosclerotic
+cardiovascular
+disease
+Continued.
+ALPER ET AL.
+• FATALITIES TEMPORALLY ASSOCIATED WITH THE INGESTION OF IBOGAINE
+401
+
+
+TABLE 1—Continued.
+Age ⁄ Gender,
+Reason for
+Ibogaine Use
+Country
+Year
+Circumstance
+Time Interval
+from Most
+Recent
+Ingestion of
+Ibogaine
+Until Death
+Ibogaine Form,
+Dose
+Ibogaine
+(Blood, mg ⁄ L
+or mg ⁄ kg)
+Other
+Toxicology
+(mg ⁄ L)
+Other Autopsy
+or Historical
+Findings
+Official Cause
+of Death
+Proximate Cause
+of Death
+6.
+32 M
+Opioid
+detoxification
+(self-administered
+by opiate abuser)
+USA
+2003
+Found dead
+in bed at his
+residence
+Unknown
+Bag of brown
+powder at scene
+that tested
+positive for
+ibogaine
+(alkaloid
+extract
+vs
+powdered
+dried root
+bark)
+Cardiac: 0.95
+Femoral
+vein: 1.5
+Liver: 8.0
+Urine: 26
+Vitreous: 0.54
+Gastric: 2.9
+Bile: 0.54
+Benzoylecgonine
+0.1
+Methadone:
+<0.1
+Nordiazepam:
+<0.1
+Moderate
+coronary
+artery
+atherosclerotic
+stenosis.
+History of opiate
+abuse, and had
+been in
+methadone
+maintenance
+treatment
+at time
+of death
+Ibogaine
+intoxication.
+Contributing
+conditions:
+atherosclerotic
+cardiovascular
+disease,
+cocaine use
+(autopsy)
+Acute ibogaine
+intoxication.
+Contributing
+conditions:
+atherosclerotic
+cardiovascular
+disease,
+chronic
+cocaine abuse
+7
+54 M
+Opioid
+detoxification,
+alcohol
+dependence
+Mexico
+2003
+Died at
+ibogaine
+treatment
+facility
+60 h
+Ibogaine HCl
+13 mg ⁄ kg
+Unknown
+Unknown
+Obesity, chronic
+alcoholism,
+smoker
+(unclear if
+autopsy was
+performed;
+report
+unavailable)
+Pulmonary
+thromboembolism
+(death
+certificate)
+Insufficient
+information
+8
+45 M
+Opioid
+detoxification,
+alcohol
+dependence
+Mexico
+2004
+Died at
+ibogaine
+treatment
+facility
+20 h
+Ibogaine HCl
+15 mg ⁄ kg
+Unknown
+Unknown
+Chronic
+alcoholism,
+obesity, cardiac
+pacemaker
+Acute hemorrhagic
+pancreatitis.
+Contributing
+conditions:
+Chronic
+alcoholism,
+obesity, opiate
+pain medication
+dependency
+(autopsy)
+Acute
+hemorrhagic
+pancreatitis
+(during
+ibogaine
+treatment)
+complicating
+chronic
+alcoholism
+9
+48 F
+Opioid
+detoxification
+Mexico
+(autopsied
+in the US)
+2005
+Died at
+ibogaine
+treatment
+facility
+2 days
+Ibogaine HCl
+14 mg ⁄ kg
+0.82
+Liver: 0.72
+Diazepam: 0.06
+Oxazepam:
+0.39
+Temazepam (trace)
+Prior gastric
+bypass surgery
+with 135 lb
+weight loss in
+8 months
+preceding death.
+Fibromyalgia,
+benzodiazepine
+dependence that
+was not
+disclosed
+to treatment
+providers
+Sudden cardiac
+death due to
+acute myocardial
+infarct due to
+acute coronary
+syndrome.
+Contributing
+conditions:
+Fibromyalgia,
+chronic pain
+medication
+dependency
+(autopsy)
+Acute myocardial
+infarct due to
+coronary artery
+atherosclerosis
+during ibogaine
+therapy for
+opiate
+dependence
+complicating
+chronic
+fibromyalgia
+Continued.
+402
+JOURNAL OF FORENSIC SCIENCES
+
+
+TABLE 1—Continued.
+Age ⁄ Gender,
+Reason for
+Ibogaine Use
+Country
+Year
+Circumstance
+Time Interval
+from Most
+Recent
+Ingestion of
+Ibogaine
+Until Death
+Ibogaine Form,
+Dose
+Ibogaine
+(Blood, mg ⁄ L
+or mg ⁄ kg)
+Other
+Toxicology
+(mg ⁄ L)
+Other Autopsy
+or Historical
+Findings
+Official Cause
+of Death
+Proximate Cause
+of Death
+10
+43 M
+Opioid
+detoxification,
+alcohol
+dependence
+USA
+2005
+Witnessed
+cardiac arrest
+during self-
+administered
+ibogaine treatment.
+Witnessed apparent
+generalized
+tonic-clonic
+seizure 17 h after
+ibogaine ingestion
+27 h
+Ibogaine HCl,
+dose unknown
+2.8
+Diazepam: 0.03
+Trimetho-
+benzamide: 0.85
+Benzoylecgonine:
+detected
+Ibogamine,
+ibogaline:
+detected
+Dilated
+cardiomyopathy,
+coronary
+artery
+atherosclerosis,
+pulmonary
+edema
+Hepatitis B
+Valvular
+heart disease.
+Contributing
+conditions:
+Dilated
+cardiomyopathy
+(autopsy)
+Acute ibogaine
+intoxication.
+Contributing
+conditions:
+Mitral
+insufficiency
+with dilated
+cardiomyopathy
+11
+51 M
+Opioid
+detoxification,
+methamphetamine
+and alcohol
+dependence
+Mexico
+2005
+Died at ibogaine
+treatment facility
+24 h
+Ibogaine HCl
+12 mg ⁄ kg
+Unknown
+Unknown
+Autopsy not
+performed
+Cardiorespiratory
+arrest due to
+acute myocardial
+infarction (death
+certificate,
+clinical diagnosis
+of attending
+physician)
+Insufficient
+information
+12
+38 M
+Opioid
+detoxification
+Mexico
+2006
+Died at ibogaine
+treatment facility.
+Found dead within
+1 h of having last
+been seen alive
+12 h
+Ibogaine HCl
+13 mg ⁄ kg
+Unknown
+Cocaine and
+morphine
+metabolites
+Cutaneous
+abscesses,
+hepatitis.
+Autopsy was
+done, but
+inadequate for
+determination of
+a proximate
+cause of death
+Pulmonary
+thromboembolism
+(death certificate)
+Insufficient
+information
+13
+48 M
+Unknown (70)
+France
+2006
+Ingested root bark
+of Tabernanthe
+iboga followed by
+vomiting and
+dyspnea
+53 h
+18 ‘‘soup-spoons’’ of
+a mixture of
+powdered
+Tabernanthe iboga
+root bark and
+sweetened condensed
+milk over 10 h
+Vena cava: 6.6
+Femoral vein: 5.4
+Brain: 12.5
+Liver: 40.5
+Other
+toxicology:
+negative
+Noribogaine:
+Vena cava: 15.5
+Femoral vein: 5.6
+Brain: 18.7
+Liver: 50.5
+Ibogamine:
+detected
+Pulmonary
+edema.
+Buprenorphine
+tablets and
+‘‘different objects
+and burned-out
+parts of plants
+found at the
+death
+scene suggested
+that some sort of
+esoteric ritual
+may have taken
+place.’’ History
+of substance
+abuse
+Acute ibogaine
+intoxication
+(autopsy)
+Acute ibogaine
+intoxication
+(unknown if
+other drugs
+involved)
+Continued.
+ALPER ET AL.
+• FATALITIES TEMPORALLY ASSOCIATED WITH THE INGESTION OF IBOGAINE
+403
+
+
+TABLE 1—Continued.
+Age ⁄ Gender,
+Reason for
+Ibogaine Use
+Country
+Year
+Circumstance
+Time Interval
+from Most
+Recent
+Ingestion of
+Ibogaine
+Until Death
+Ibogaine Form,
+Dose
+Ibogaine
+(Blood, mg ⁄ L
+or mg ⁄ kg)
+Other
+Toxicology
+(mg ⁄ L)
+Other Autopsy
+or Historical
+Findings
+Official Cause
+of Death
+Proximate Cause
+of Death
+14
+28 M
+Opioid
+detoxification
+The Netherlands
+2006
+Fluctuating
+level of
+consciousness
+following
+immersion in a
+warm bath
+for a 4-h period
+prior to death.
+Subject was
+observed and at no
+time was his head
+underwater, ruling
+out drowning
+76 h
+Tabernanthe
+iboga alkaloid
+extract, 7.5
+grams over
+c. 18 h
+Unknown
+Quantitative
+toxicology results
+not available
+but ibogaine
+and cannabinoid
+concentrations
+reportedly ‘‘low.’’
+Negative for
+other drugs
+of abuse
+and ethanol
+Choroid plexus
+papilloma
+involving
+hippocampus
+with hypoxic
+damage to
+hippocampus.
+Large duodenal
+ulcer with
+accumulation of
+blood in
+duodenum
+Not conclusive
+regarding
+proximal
+cause of death.
+Possible causal
+and ⁄ or
+contributing
+factors were
+hemorrhagic
+complications
+of duodenal
+ulcer, increased
+intracranial
+pressure resulting
+from obstruction
+of third ventricle,
+and ⁄ or partial
+seizures originating
+from the temporal
+lobe
+‘‘Toxicological
+cause not likely’’
+(autopsy)
+Hemorrhagic
+complications
+of duodenal
+ulcer
+15
+30 M
+Opioid
+detoxification
+South Africa
+2006
+‘‘Gurgling sounds’’
+on expiration.
+Died en route to
+hospital after
+appearing to
+respond to
+resuscitative
+efforts
+8 h
+Ibogaine HCl
+17 mg ⁄ kg
+(1.75 g)
+Single dose
+Not tested
+Not tested
+Autopsy not
+performed
+‘‘Cardio-respiratory
+collapse
+secondary to drug
+related illness’’
+(death certificate)
+Insufficient
+information
+16
+27 M
+Unknown
+France
+2006
+Discovered dead
+in meditation
+room at a center
+oriented
+toward
+psychological ⁄
+spiritual use
+£20 h
+Powdered root
+bark (7.2% ibogaine,
+0.6% ibogamine).
+The actual
+amount ingested
+was not provided
+in the report.
+The medical
+examiner estimated
+13 teaspoons at
+1.5-g dried
+bark ⁄ teaspoon
+would have
+been required to
+achieve the
+measured
+ibogaine blood
+concentration
+Peripheral
+blood
+immediately
+following
+death: 0.65
+Peripheral
+blood at
+autopsy
+8 days
+following
+death: 1.27
+Peripheral blood
+immediately
+following death:
+Methadone: 0.077
+Diazepam: 0.413
+Oxazepam: 0.09
+Temazepam: 0.04
+Ibogamine: 0.05
+Peripheral blood at
+autopsy 8 days
+following death:
+Ibogamine: 0.10
+History of
+dependence
+on multiple
+substances
+including crack
+cocaine,
+benzodiazepines,
+and alcohol
+Drug overdose
+due to ibogaine,
+methadone,
+diazepam, and
+temazepam
+(autopsy)
+Acute
+intoxication
+due to the
+combined
+effects of
+ibogaine,
+methadone, and
+diazepam
+Continued.
+404
+JOURNAL OF FORENSIC SCIENCES
+
+
+TABLE 1—Continued.
+Age ⁄ Gender,
+Reason for
+Ibogaine Use
+Country
+Year
+Circumstance
+Time Interval
+from Most
+Recent
+Ingestion of
+Ibogaine
+Until Death
+Ibogaine Form,
+Dose
+Ibogaine
+(Blood, mg ⁄ L
+or mg ⁄ kg)
+Other
+Toxicology
+(mg ⁄ L)
+Other Autopsy
+or Historical
+Findings
+Official Cause
+of Death
+Proximate Cause
+of Death
+17
+45 M
+Opioid
+detoxification
+USA
+2006
+Found dead in
+bed following
+ibogaine treatment
+at a private
+residence
+8–12 h
+Ibogaine HCl
+22 mg ⁄ kg
+1.4
+Diazepam:
+77 ng ⁄ ml
+Fentanyl:
+1.2 ng ⁄ ml
+Norfentanyl:
+1.5 ng ⁄ ml
+Qualitative
+urine screen
+detected
+Oxycodone,
+Alpha-
+hydroxyalprazolam,
+Oxazepam,
+Temazepam,
+Ephedrine ⁄
+pseudo-ephedrine
+Hepatic steatosis
+Mixed drug
+intoxication
+(autopsy)
+Acute
+intoxication
+due to the
+combined effects
+of ibogaine,
+fentanyl, and
+diazepam
+18
+33 M
+Opioid
+detoxification,
+crack cocaine
+dependence
+Mexico
+2007
+Died at ibogaine
+treatment facility
+6.5 h
+Ibogaine HCl
+11 mg ⁄ kg
+Not tested
+Not tested.
+History of
+having been
+caught using
+crack cocaine in
+the bathroom
+during a prior
+admission to the
+clinic
+Family history
+of pulmonary
+thromboembolism
+in patient’s father.
+Autopsy was
+done, but
+inadequate for
+determination of
+a proximate
+cause of death
+Pulmonary
+thromboembolism
+(death
+certificate,
+clinical diagnosis
+of attending
+physician present
+at time of death)
+Insufficient
+information
+19
+41 M
+Opioid
+detoxification,
+cocaine
+dependence
+Mexico
+(autopsied
+in the US)
+2007
+Died at
+ibogaine
+treatment
+facility.
+Developed
+shortness of
+breath
+and became
+unresponsive
+during
+ibogaine
+treatment
+6 h
+Ibogaine HCl
+13 mg ⁄ kg
+(1080 mg)
+Not tested
+Not tested
+Cardiac
+hypertrophy
+Triglycerides:
+397 mg ⁄ dL
+Fatal arrhythmia
+during drug
+addiction
+treatment with
+cardiac
+hypertrophy
+(autopsy)
+Acute ibogaine
+intoxication
+(unknown if
+other drugs
+involved).
+Contributing
+conditions:
+Cardiac
+hypertrophy
+ALPER ET AL.
+• FATALITIES TEMPORALLY ASSOCIATED WITH THE INGESTION OF IBOGAINE
+405
+
+
+of events (85). A competent cause of death includes the proximate
+(underlying) cause, defined as that which in a natural and continu-
+ous
+sequence,
+unbroken
+by
+any
+efficient
+intervening
+cause,
+produces the fatality and without which the end result would not
+have occurred. Contributing conditions were additional disorders
+contributory to death but unrelated to the underlying cause of
+death.
+The conclusion that death was caused by an acute intoxication
+requires that three conditions be met: the toxicological results are
+within the range typically encountered in such fatalities, the history
+and circumstances are consistent with a fatal intoxication, and the
+autopsy fails to disclose a disease or physical injury that has an
+extent or severity inconsistent with continued life (86). In deaths
+caused by drug intoxication with more than one drug in concentra-
+tions greater than trace amounts, it is customary to include all of
+the identified drugs in the cause of death.
+Results
+We report a summary of 19 ibogaine-associated deaths that have
+occurred worldwide between 1990 and 2008 including the probable
+causes of death based on the available clinical and pathologic infor-
+mation (see Table 1). There were 15 men and four women with a
+mean age of 39.1 € 8.6 years ranging from 24 to 54 years. In 18
+decedents, the estimated time intervals were available from the
+most recent ingestion of ibogaine in any form until death, and the
+mean interval was 24.6 € 21.8 h and ranged from 1.5 to 76 h. In
+one other fatality (case #6) the time interval between death and the
+time when the decedent was last noted to be alive was 20 h, the
+decedent had been dead for at least several hours at the time the
+body was found. The time interval from the most recent ingestion
+of ibogaine until death in this instance was likely less than 76 h,
+but it was not included in the calculation of the mean interval.
+Fifteen individuals took ibogaine for the indication of opioid
+detoxification, four of who were also dependent on alcohol, three
+on cocaine, and one on methamphetamine. Two individuals used it
+for a spiritual⁄psychological purpose and had no known substance
+abuse history, and two took it for unknown reasons but had a his-
+tory of substance abuse. Ibogaine was given as the HCl form in 14
+instances, as an alkaloid extract in two (cases #4 and #14), dried
+root bark in two (cases #13 and #16), and a brown powder that
+was probably either root bark or alkaloid extract in another (case
+#6). In the 12 fatalities where ibogaine was given as the HCl and a
+dose was reported, the mean dose was 14.3 € 6.1 mg⁄kg (range
+4.5–29 mg⁄kg). In the 10 fatalities in which ibogaine blood con-
+centrations were determined, the mean was 2.38 € 3.08 mg⁄L
+(range 0.24–9.3 mg⁄L), obtained at a mean of 25.5 € 17.8 h fol-
+lowing the ingestion of ibogaine (range 4–53 h). In addition, com-
+monly abused drugs (including benzodiazepines, cocaine, opiates,
+and methadone) were detected in eight of 11 decedents on whom
+toxicological analysis for abused substances was performed.
+Twelve of the decedents had medical comorbidities including
+liver disease, peptic ulcer disease, brain neoplasm, hypertensive and
+atherosclerotic cardiovascular disease, and obesity. Among the three
+decedents in which no other drugs of abuse were detected in post-
+mortem toxicology analysis, one had advanced heart disease and
+another had liver fibrosis. Full toxicology and autopsy results were
+not available in eight and five decedents, respectively.
+Discussion
+In this series, 19 deaths occurred between 1990 and 2008, with
+an interval of 76 h or fewer between the most recent ingestion of
+ibogaine and death. In 14 instances, an autopsy was performed that
+allowed the determination of the proximate cause of death. The
+lack of clinical and pharmaceutical controls in settings in which ib-
+ogaine has been given, and the limited data regarding toxic concen-
+trations of ibogaine in humans make the determination of the
+causes of these deaths difficult. Nonetheless, advanced comorbidi-
+ties and contributing conditions appear to include preexisting medi-
+cal, particularly cardiovascular disease, and drug use around the
+time of treatment.
+This series of fatalities is consecutive in the sense that it repre-
+sents a systematic application of an intensive methodology for iden-
+tifying cases over the time interval spanned by this study. It is
+possible that additional fatalities may have occurred which were
+missed by death investigation agencies and this study. In the United
+States, this could relate to the surreptitiousness regarding the use of
+ibogaine because of its status as a schedule I substance, and indi-
+viduals aware that ibogaine was used in temporal association with
+a fatal outcome might be reluctant to disclose that history. Without
+investigative information about the recent use of ibogaine, special-
+ized analysis for ibogaine may not be performed. Under these cir-
+cumstances, the cause of death of an individual treated with
+ibogaine for a substance use indication could be certified as a typi-
+cal multidrug intoxication, particularly in view of the likelihood of
+detecting other drugs of abuse in these deaths. In most of the
+world, however, ibogaine is not illegal. In this series, outside of the
+United States, ibogaine was not illegal at the time of occurrence of
+the fatality in any country in which the fatality occurred.
+In at least five instances, providers contacted the first author
+immediately regarding the death, and in a number of others,
+another individual close to the provider relayed the information,
+usually with the provider’s consent. Their motivation to disclose
+this information included the wish to understand the causality of
+the death and prevent a future occurrence, abreaction regarding a
+traumatic event, and anxiety regarding legal liability. In a country
+in which ibogaine is not illegal, however, concealing its use is not
+necessarily perceived to be, or actually safer than disclosing it.
+Regardless of their distress regarding a death, experienced treatment
+providers such as those in Mexico or the Netherlands were aware
+that they did not face significant legal consequences. In a prior
+study by the first author of this article that surveyed the settings
+and extent of ibogaine use (5), it was estimated that 20–30% of the
+actual total number of ibogaine treatments had been missed by that
+study. Six of the series of 19 fatalities in this article occurred in
+settings and circumstances that are likely to have otherwise been
+hidden from the medical ethnographic study mentioned previously
+(5). While it is likely that some deaths temporally related to the
+use of ibogaine escaped inclusion in this series, it is also possible
+that treatments that are associated with a fatal outcome may come
+to attention relatively more frequently than those that are not.
+For the purpose of this discussion, the terms ‘‘proximate cause’’
+and ‘‘contributing condition’’ are used as they are defined previ-
+ously in the methods section and appear in the extreme right-hand
+column of Table 1. A striking factor in this series of deaths is the
+identification of a comorbidity or intoxication (in addition to iboga-
+ine) that could adequately explain or contribute to the death in 12
+of 14 decedents that have adequate postmortem data. There are
+multiple possible pathways by which ibogaine may cause or con-
+tribute to death in these instances and include toxicological interac-
+tions with substances of abuse and direct cardiac effects.
+Cardiac disease was a contributing condition or proximate cause
+in six deaths, suggesting cardiac mechanisms are an important
+mediator of fatal outcomes. Although preclinical toxicological test-
+ing by NIDA did not indicate prolongation of the QT interval (87),
+406
+JOURNAL OF FORENSIC SCIENCES
+
+
+it has been observed during ibogaine treatments with continuous
+EKG monitoring (88). Blockade of the potassium voltage-gated ion
+channel encoded by the human ether-a-go-go-related gene (hERG)
+is regarded as the most common cause of drug-related QT prolon-
+gation (89,90), which is associated with torsades de pointes (TdP),
+a morphologically distinctive polymorphic ventricular tachycardia.
+The effect of ibogaine differs from that of the hERG channel
+antagonist WAY-123.398 in studies of chromaffin cells (91–93);
+however, ibogaine is an hERG channel antagonist in the low
+micromolar range in human embryonic kidney tsA-201 cells (94).
+Ibogaine
+has
+low
+micromolar
+affinity
+for
+sodium
+channels
+(2,95,96), which might also possibly relate to cardiac risk in view
+of the possible association of sodium channel blockade with slow-
+ing of intraventricular conduction and the subsequent development
+of a re-entrant circuit resulting in ventricular tachyarrhythmia
+(89,97), and there is evidence for altered sodium channel function-
+ing in some drug-induced forms of long QT syndrome (98–101).
+QT prolongation is also regarded as a general correlate of car-
+diac instability that is associated with arrhythmias other than TdP
+(89,102,103), and with multiple risk factors relevant to the present
+study including bradycardia, coronary artery disease, dilated cardio-
+myopathy, recent myocardial infarction, ventricular hypertrophy,
+and liver disease (89,104). Bradycardia has been reported in
+humans in association with the ingestion of ibogaine in medical
+(88,105) and nonmedical (106) settings, and in some preclinical
+studies (33,36,107,108). The frequently altered nutritional status of
+substance abusers puts them at risk of hypomagnesemia and hypo-
+kalemia (90), which are associated with QT prolongation, as are
+bulimia and anorexia (109). Methadone is associated with QT pro-
+longation, particularly in the presence of other drugs (110). Alcohol
+or cocaine use is associated with prolongation of the QT interval
+both acutely (111,112) and during withdrawal (113–115). In
+patients with alcohol dependence, QT prolongation has been
+observed to persist for 7 days after the last intake of alcohol (116),
+and withdrawal seizures contribute further independent and additive
+risk (114). Epileptic seizures, even in the absence of substance use
+or withdrawal, are an independent risk factor for QT prolongation
+(117).
+A case report of QT prolongation and ventricular arrhythmia in
+association with the ingestion of T. iboga alkaloid extract (118)
+illustrates the variety of potential arrhythmogenic factors in the
+clinically uncontrolled settings in which ibogaine has been used.
+The patient survived in that case, which is not included in this pres-
+ent series. The patient had taken ‘‘Indra,’’ an apocryphal brand of
+alkaloid extract that subsumes multiple sources of diverse origin,
+composition, and conditions of storage (67). Multiple confounding
+risk factors for QT prolongation and ventricular arrhythmia were
+present. The patient had presented with a witnessed generalized
+tonic-clonic seizure (GTCS) in the setting of acute alcohol with-
+drawal with hypomagnesemia and hypokalemia. Although the
+report made no mention of toxicological testing for illicit drugs, the
+patient had a prior history of cocaine abuse and a history of buli-
+mia and had been purging prior to admission.
+Bradycardia is a functional effect of potential medical signifi-
+cance that could possibly involve muscarinic cholinergic transmis-
+sion. Ibogaine binds with reported affinities in the 10–30 lM range
+to M1 and M2 muscarinic cholinergic receptors and is generally
+assumed to act as an agonist (1,2); however, functional studies have
+not been performed. Although ibogaine is concentrated in brain tis-
+sue relative to serum in the animal model (119) and in the two
+cases reported here that reported on brain levels (cases #3 and
+#13), an older literature (120,121), as well as more recent data
+(122), indicates that the inhibition of acetylcholinesterase by
+ibogaine in vitro is negligible over the range of ibogaine concentra-
+tions observed in both blood and brain in this series. It is unclear
+whether the apparent association of ibogaine with bradycardia could
+possibly be related to orthosteric agonist actions at muscarinic cho-
+linergic receptors, or to effects involving sodium channels (123) or
+other signal transduction pathways.
+Pulmonary thromboembolism (PE) was the reported cause of
+death in three deaths (cases #7, #12, and #18) all of which
+occurred in Mexico. Two were not under direct observation at the
+time of the death. In all three of these cases, autopsy reports were
+inadequate as a basis for the determination of a proximate cause of
+death due the lack of evidence of systematic examination of the
+lungs and pulmonary vasculature. In Mexico, the death certificate
+provides the clinical conclusion reached by the physician who pro-
+nounced the death. In case #18, the attending physician patient
+observed the patient directly and based the clinical diagnostic
+impression of PE on acute dyspnea, tachypnea, and desaturation
+indicated by pulse oximetry. Although an adequate autopsy is lack-
+ing, the clinical picture mentioned previously is frequently seen
+with PE (124), and in instances where there is verification by a
+subsequent autopsy, the prospective clinical diagnosis of PE is less
+commonly falsely positive than falsely negative (125). The dece-
+dent had a family history of PE, and if he did indeed die from
+venous thrombotic disease, the family history suggests a possible
+etiological contribution because of genetic risk (126). Other possi-
+ble risk factors for PE include travel to the treatment location (127)
+and⁄or inactivity and immobility during the treatment (128). Intra-
+venous drug use is a risk factor for deep venous thrombosis
+(129–131), and hence for PE, and appears to be associated with
+injection per se, independent of the use of opioids versus other
+substances (132).
+In this series, there appeared to be no clinical or postmortem evi-
+dence suggestive of a characteristic syndrome of neurotoxicity. Ib-
+ogaine’s r2 agonist activity potentiates excitatory transmission in
+the olivocerebellar projection, where the redundancy of inputs to
+cerebellar Purkinje cells renders them vulnerable to excitotoxic
+injury (133,134). This is believed to be the mechanism of degener-
+ation of cerebellar Purkinje cells observed in rats given substan-
+tially larger dosages of ibogaine than those used to study drug self-
+administration and withdrawal (135). Subsequent research found no
+evidence of neurotoxicity in the primate (65) or mouse (136) at
+dosages that produced cerebellar degeneration in the rat, or in the
+rat at dosages used in studies of drug self-administration and with-
+drawal (137). Neuropathological examination revealed no evidence
+of degenerative changes in a woman who had received four sepa-
+rate doses of ibogaine ranging between 10 and 30 mg⁄kg over a
+15-month interval prior to her death due to a mesenteric artery
+thrombosis with small bowel infarction 25 days after her last inges-
+tion of ibogaine (65).
+In one fatality in this series, a GTCS occurred (case #10), which
+might have been due to alcohol or benzodiazepine withdrawal. In
+another death (case #14), a brain neoplasm might have explained
+the possibility of complex partial seizures mentioned in the autopsy
+report. The neurodegeneration observed in the rat following high
+dosages of ibogaine has mainly involved the cerebellum (134,135),
+which is an unlikely location for a seizure focus in humans. Sei-
+zures originating from the cerebellum in humans appear to be lim-
+ited to rare instances in which a focus is located in a tumor mass
+distinct from normal cerebellar tissue, most commonly a gangliogli-
+oma (138). Furthermore, cerebellar stimulation is viewed as a pos-
+sible antiepileptic treatment (139), and ibogaine has been observed
+to protect against convulsions in animal models (140–142), which
+has been attributed to NMDA antagonist activity. Ibogaine causes
+ALPER ET AL.
+• FATALITIES TEMPORALLY ASSOCIATED WITH THE INGESTION OF IBOGAINE
+407
+
+
+serotonin release in selected brain regions in the animal model
+(49), and seizures are sometimes seen in serotonin syndrome (143),
+but characteristic features of serotonin syndrome such as hyperther-
+mia or rigidity were not present and a clinical picture suggestive of
+serotonin syndrome does not appear to have been evident in this
+series.
+The apparent potentiation of both the analgesic (22,38,39,43–47)
+and toxic (33,37–39) effects of opioids by ibogaine may be medi-
+ated by enhanced transduction of signaling via opioid receptors
+(40), which might have been a factor in deaths involving the use
+of opioids in temporal proximity to the ingestion of ibogaine. In
+one fatality (case #2), it appeared that the decedent smoked heroin
+following ibogaine treatment and shortly before death (6). Toxico-
+logical analysis detected a low morphine concentration that none-
+theless was in the range measured in human subjects within
+30 min after inhalation of volatilized heroin (144), similar to the
+method of smoking heroin by heating tin foil known as ‘‘chasing
+the dragon’’ (145), and suggests possible potentiation of opioid tox-
+icity by ibogaine in this death. Ibogaine increases cocaine-induced
+stereotypic motor behavior in the animal model (146), suggesting
+that ibogaine might also potentiate the toxicity of stimulants as
+well as opioids.
+Postmortem toxicological analysis detected commonly abused
+drugs in eight of the 11 cases in which toxicological analysis was
+performed in this series. When considering a drug intoxication
+death because of multiple substances, it usually is not possible to
+differentiate the individual roles and complex interactions of these
+substances in causing the death. These deaths typically are certified
+as intoxications because of the combined effects of all substances
+detected. Therefore, it is not possible to determine whether the
+deaths in which drugs of abuse were detected were because of ib-
+ogaine alone, to one or more of the drugs of abuse, or a combina-
+tion. There is also a general effect of the number of abused
+substances, with a larger number associated with a greater risk of
+death independent of the identity of specific substances involved
+(147). The unexplained variance of lethal outcome as a function of
+dose further adds to the difficulty of the determination of causality
+for ibogaine and drugs of abuse. For example, morphine concentra-
+tions associated with heroin overdose overlap substantially with
+concentrations obtained from living current heroin users (148),
+which may relate to the wide ranges of tolerance among opioid-
+dependent individuals, and within the same individual at different
+time points.
+Systemic disease is a confounding factor that contributes to the
+mortality associated with substance use and further complicates the
+identification of the cause of death. The risk of death may represent
+a complex interaction involving a substance of abuse against a
+backdrop of systemic medical illness related to addiction. For
+example, the risk of death from opioid overdose is associated with
+cardiac hypertrophy and atherosclerotic disease (149), which were
+contributing conditions in this case series and which in turn are
+associated with a history of methamphetamine and cocaine use
+(150,151). The role of advanced preexisting medical comorbidities
+in this series of fatalities appears to be an instance of a more gen-
+eral association between systemic disease and risk of fatal overdose
+(149).
+The reported elimination half-life of ibogaine in humans is on
+the order of 4–7 h (7,70), and that of noribogaine is apparently
+longer (7,35). Ibogaine is relatively lipophilic and accumulates pref-
+erentially in tissues containing a high density of lipids, such as
+brain or fat (119). Ibogaine undergoes demethylation to noribogaine
+via cytochrome P450 2D6 (CYP2D6) (152), which is expressed in
+the brain (153), where noribogaine may be ‘‘trapped’’ because it is
+more polar than ibogaine and may cross the blood–brain barrier
+more slowly. Postmortem redistribution of drugs and drug metabo-
+lites may occur due to passive drug release from drug reservoirs,
+cell autolysis, and putrefaction (154,155). In the three instances in
+which peripheral and cardiac concentrations of ibogaine were
+reported (cases #2, #6, and #13), the concentrations from the femo-
+ral and cardiac or vena cava sites were similar. However, the two
+that reported noribogaine concentrations (cases #2 and #13) demon-
+strated evidence for postmortem redistribution of noribogaine with
+ratios of c. 3:1 between cardiac and peripheral blood. The one
+instance that reported ibogaine concentrations at two time points
+(case #16) indicated 0.65 mg⁄L in blood at autopsy and 1.27 mg⁄L
+days following death.
+The available data do not provide a basis for a reliable estimate
+of toxic concentrations of ibogaine. In humans administered fixed
+oral doses of ibogaine of 10 mg⁄kg, mean peak blood levels were
+0.74 € 0.08 and 0.90 € 0.17 mg⁄L in extensive and poor CYP2D6
+metabolizers, respectively (7). In series of cases reported here, the
+mean dosage was 14.3 € 6.1 mg⁄kg (range 4.5–29 mg⁄kg), and
+the mean blood level was 2.38 € 3.08 mg⁄L. The presence of coin-
+toxicants and comorbidities, difference in dosages used, and the
+higher variance in dosages and blood levels in the present series
+does not provide for a meaningful comparison regarding a lethal
+dosage or level in humans.
+In the rat, the animal model that is predominantly used in
+research on ibogaine, the dose that is usually used in models of
+drug self-administration and opioid withdrawal is 40 mg⁄kg admin-
+istered intraperitoneally (i.p.) (1,2). This dose is approximately one-
+third of the LD50 of ibogaine administered i.p. (33), which in turn
+is approximately one-half to one-third of the LD50 by the intraga-
+stric route of administration (33,156). The animal data indicate a
+significant effect of abused substances on toxicity associated with
+ibogaine (33,37–39), and taken together with the clinical evidence
+for the effect systemic disease on fatal overdose (149) suggests that
+interactions involving cointoxicants and medical comorbidities pre-
+clude a reasonable estimate regarding a lethal dosage or level of ib-
+ogaine in humans.
+Cointoxicants or contributing medical comorbidities were not
+reported in only two fatalities for which there were an adequate
+postmortem examination and toxicological analysis (cases #4 and
+#13). These two deaths involved the ingestion of crude alkaloid
+extract in one case, and root bark in the other. The overall compo-
+sition, age, and origin of these sources of ibogaine are unknown.
+The iboga alkaloid content of T. iboga root bark extracts depends,
+among other factors, on the extraction method. The total alkaloid
+content of the root bark is c. 2–8% of the dry weight of the root
+bark, about half of which is iboga alkaloids, 80% of which is ib-
+ogaine (157,158). Utilization of water-soluble extractants yields an
+extract with an alkaloid fraction composed of c. 40% ibogaine,
+10% related iboga alkaloids, and 50% other alkaloids, whereas uti-
+lization of an organic solvent such as acetone or methanol yields
+a total alkaloid fraction with relatively less non-iboga alkaloid con-
+tent (157). Other iboga alkaloids that co-occur with ibogaine in
+T. iboga root bark include ibogamine, ibogaine, tabernanthine, and
+voacangine (157–159) (see Fig. 1). The overall iboga alkaloid
+composition of T. iboga alkaloid extracts may range from c. 15%
+to 50% (157) (C. Jenks, personal communication). Sources of ib-
+ogaine HCl are restricted and tend to be known to providers,
+and certificates of analysis have generally been available and
+corroborated when verified by independent laboratories, which up
+to the present time has distinguished ibogaine from the counterfeit-
+ing and adulteration seen with commonly abused ‘‘street’’ drugs
+(160).
+408
+JOURNAL OF FORENSIC SCIENCES
+
+
+Inexperience and lack of information regarding the use of ethno-
+pharmacological forms of ibogaine may itself constitute a salient
+domain of risk, independent of the uncertain composition of alka-
+loid extracts and the undefined potential toxicity of the alkaloids
+that co-occur with ibogaine in T. iboga root bark. For example,
+one decedent (case #13) (70) may have ingested an amount of
+dried T. iboga root bark in excess of that which would typically be
+given in a full Bwiti initiation ceremony (5). The blood ibogaine
+concentration in this case was the second highest in the series, even
+though it was measured an estimated 53 h after ingestion, and does
+not take into account the likely presence of other alkaloids. This
+case additionally suggests that the bioavailability of the alkaloid
+content of dried root bark may be high.
+The incidence of fatalities may have decreased in the recent past.
+As indicated in Table 1, in 2008, there were no known fatalities,
+and in 2007, there were 2. In contrast, there were a total of nine
+fatalities that occurred in 2005 and 2006. It is unlikely that this
+reflects a decline in the number of individuals treated, which
+appears to be continuing the trend of growth evident over the last
+decade (5). Greater recognition of medical risk on the part of treat-
+ment providers may have been a factor in the apparent reduction in
+the incidence of fatalities. Pretreatment screening including basic
+blood chemistries and EKG, the exclusion of patients with signifi-
+cant medical, particularly cardiac illness, and the recognition of the
+need to stabilize physical dependence on alcohol and benzodiaze-
+pines prior to ibogaine treatment has gradually become more
+widely accepted norms in the settings of ibogaine use (161). This
+might to a significant extent reflect the collective, cumulative expe-
+rience of the fatal outcomes presented here.
+In conclusion, in this series of 19 cases, advanced preexisting
+medical comorbidities, which were mainly cardiovascular, and⁄or
+one or more commonly abused substances explained or contributed
+to the death in 12 of the 14 cases for which adequate postmortem
+data were available. Significant factors in this series appear to
+include preexisting medical, particularly cardiovascular disease,
+possible PE, drug use during treatment, seizures associated with
+withdrawal from alcohol and benzodiazepines, and the uninformed
+use of ethnopharmacological forms of ibogaine.
+Acknowledgment
+We gratefully acknowledge the valuable assistance of How-
+ard Lotsof in identifying cases and providing documents.
+References
+1. Alper KR. Ibogaine: a review. Alkaloids Chem Biol 2001;56:1–38.
+2. Glick SD, Maisonneuve IM, Szumlinski KK. Mechanisms of action of
+ibogaine: relevance to putative therapeutic effects and development of
+a safer iboga alkaloid congener. Alkaloids Chem Biol 2001;56:39–53.
+3. Fernandez JW. Bwiti: an ethnography of religious imagination in
+Africa. Princeton, NJ: Princeton University Press, 1982.
+4. Fernandez JW, Fernandez RL. ‘‘Returning to the path’’: the use of ib-
+oga[ine] in an equatorial African ritual context and the binding of time,
+space, and social relationships. Alkaloids Chem Biol 2001;56:235–47.
+5. Alper KR, Lotsof HS, Kaplan CD. The ibogaine medical subculture. J
+Ethnopharmacol 2008;115(1):9–24.
+6. Alper KR, Lotsof HS, Frenken GM, Luciano DJ, Bastiaans J. Treatment of
+acute opioid withdrawal with ibogaine. Am J Addict 1999;8(3):234–42.
+7. Mash DC, Kovera CA, Pablo J, Tyndale R, Ervin FR, Kamlet JD,
+et al. Ibogaine in the treatment of heroin withdrawal. Alkaloids Chem
+Biol 2001;56:155–71.
+8. Gowing L, Ali R, White JM. Buprenorphine for the management of
+opioid withdrawal. Cochrane Database Syst Rev 2009 (3):Art. No.
+CD002025.
+9. Gowing L, Farrel M, Ali R, White JM. Alpha2-adrenergic agonists for
+the management of opioid withdrawal. Cochrane Database Syst Rev
+2009 (2):Art. No. CD002024.
+10. Amato L, Davoli M, Minozzi S, Ali R, Ferri M. Methadone at tapered
+doses for the management of opioid withdrawal. Cochrane Database
+Syst Rev 2009 (3):Art. No. CD003409.
+11. Panchal V, Taraschenko OD, Maisonneuve IM, Glick SD. Attenuation
+of morphine withdrawal signs by intracerebral administration of 18-
+methoxycoronaridine. Eur J Pharmacol 2005;525(1–3):98–104.
+12. Rho B, Glick SD. Effects of 18-methoxycoronaridine on acute signs of
+morphine withdrawal in rats. Neuroreport 1998;9(7):1283–5.
+13. Maisonneuve IM, Keller RW Jr, Glick SD. Interactions between iboga-
+ine, a potential anti-addictive agent, and morphine: an in vivo microdi-
+alysis study. Eur J Pharmacol 1991;199(1):35–42.
+14. Parker LA, Burton P, McDonald RV, Kim JA, Siegel S. Ibogaine inter-
+feres with motivational and somatic effects of naloxone-precipitated
+withdrawal from acutely administered morphine. Prog Neuropsycho-
+pharmacol Biol Psychiatry 2002;26(2):293–7.
+15. Dzoljic ED, Kaplan CD, Dzoljic MR. Effect of ibogaine on naloxone-
+precipitated withdrawal syndrome in chronic morphine-dependent rats.
+Arch Int Pharmacodyn Ther 1988;294:64–70.
+16. Glick SD, Rossman K, Rao NC, Maisonneuve IM, Carlson JN. Effects
+of ibogaine on acute signs of morphine withdrawal in rats: indepen-
+dence from tremor. Neuropharmacology 1992;31(5):497–500.
+17. Sharpe LG, Jaffe JH. Ibogaine fails to reduce naloxone-precipitated with-
+drawal in the morphine-dependent rat. Neuroreport 1990;1(1):17–9.
+18. Cappendijk SL, Fekkes D, Dzoljic MR. The inhibitory effect of norhar-
+man on morphine withdrawal syndrome in rats: comparison with iboga-
+ine. Behav Brain Res 1994;65(1):117–9.
+19. Popik P, Layer RT, Fossom LH, Benveniste M, Geter-Douglass B,
+Witkin JM, et al. NMDA antagonist properties of the putative antiad-
+dictive drug, ibogaine. J Pharmacol Exp Ther 1995;275(2):753–60.
+20. Layer RT, Skolnick P, Bertha CM, Bandarage UK, Kuehne ME, Popik
+P. Structurally modified ibogaine analogs exhibit differing affinities for
+NMDA receptors. Eur J Pharmacol 1996;309(2):159–65.
+21. Leal MB, Michelin K, Souza DO, Elisabetsky E. Ibogaine attenuation
+of morphine withdrawal in mice: role of glutamate N-methyl-D-aspar-
+tate
+receptors.
+Prog
+Neuropsychopharmacol
+Biol
+Psychiatry
+2003;27(5):781–5.
+22. Frances B, Gout R, Cros J, Zajac JM. Effects of ibogaine on naloxone-
+precipitated withdrawal in morphine-dependent mice. Fundam Clin
+Pharmacol 1992;6(8–9):327–32.
+23. Aceto MD, Bowman ER, Harris LS, May EL. Dependence studies of
+new compounds in the rhesus monkey and mouse (1991). NIDA Res
+Monogr 1992;119:513–58.
+24. Koja T, Fukuzaki K, Kamenosono T, Nishimura A, Nagata R, Lukas
+SE. Inhibition of opioid abstinent phenomena by Ibogaine. 69th Annual
+Meeting of the Japanese Pharmacological Society, March 20–23, 1996.
+Jpn J Pharmacol 1996;71(Suppl. 1):89.
+25. Glick SD, Rossman K, Steindorf S, Maisonneuve IM, Carlson JN.
+Effects and aftereffects of ibogaine on morphine self-administration in
+rats. Eur J Pharmacol 1991;195(3):341–5.
+26. Glick SD, Kuehne ME, Raucci J, Wilson TE, Larson D, Keller RW Jr,
+et al. Effects of iboga alkaloids on morphine and cocaine self-adminis-
+tration in rats: relationship to tremorigenic effects and to effects on
+dopamine release in nucleus accumbens and striatum. Brain Res
+1994;657(1–2):14–22.
+27. Glick SD, Pearl SM, Cai J, Maisonneuve IM. Ibogaine-like effects of
+noribogaine in rats. Brain Res 1996;713(1–2):294–7.
+28. Glick SD, Maisonneuve IM, Pearl SM. Evidence for roles of kappa-
+opioid and NMDA receptors in the mechanism of action of ibogaine.
+Brain Res 1997;749(2):340–3.
+29. Sershen H, Hashim A, Lajtha A. Ibogaine reduces preference for
+cocaine consumption in C57BL ⁄ 6By mice. Pharmacol Biochem Behav
+1994;47(1):13–9.
+30. Cappendijk SL, Dzoljic MR. Inhibitory effects of ibogaine on cocaine
+self-administration in rats. Eur J Pharmacol 1993;241(2–3):261–5.
+31. Rezvani AH, Overstreet DH, Lee YW. Attenuation of alcohol intake
+by ibogaine in three strains of alcohol-preferring rats. Pharmacol Bio-
+chem Behav 1995;52(3):615–20.
+32. He DY, McGough NN, Ravindranathan A, Jeanblanc J, Logrip ML,
+Phamluong K, et al. Glial cell line-derived neurotrophic factor medi-
+ates the desirable actions of the anti-addiction drug ibogaine against
+alcohol consumption. J Neurosci 2005;25(3):619–28.
+33. Dhahir HI. A comparative study on the toxicity of ibogaine and seroto-
+nin [Doctoral Thesis]. Indianapolis (IN): Indiana University, 1971.
+ALPER ET AL.
+• FATALITIES TEMPORALLY ASSOCIATED WITH THE INGESTION OF IBOGAINE
+409
+
+
+34. Baumann MH, Rothman RB, Pablo JP, Mash DC. In vivo neurobiolog-
+ical effects of ibogaine and its O-desmethyl metabolite, 12-hydroxyi-
+bogamine
+(noribogaine),
+in
+rats.
+J
+Pharmacol
+Exp
+Ther
+2001;297(2):531–9.
+35. Pearl SM, Hough LB, Boyd DL, Glick SD. Sex differences in ibogaine
+antagonism of morphine-induced locomotor activity and in ibogaine
+brain
+levels
+and
+metabolism.
+Pharmacol
+Biochem
+Behav
+1997;57(4):809–15.
+36. Glick SD, Maisonneuve IM, Hough LB, Kuehne ME, Bandarage UK.
+(€)-18-Methoxycoronaridine: a novel iboga alkaloid congener having
+potential anti-addictive efficacy. CNS Drug Rev 1999;5(1):27–42.
+37. MPI Research. Determination of the acute interaction of combined ib-
+ogaine and morphine in rats. MPI Research Identification: 693-082. Ib-
+ogaine Drug Master File Volume 8. Bethesda, MD: National Institute
+on Drug Abuse (NIDA), 1996;1–377.
+38. Schneider JA, McArthur M. Potentiation action of ibogaine (bogadin
+TM) on morphine analgesia. Experientia 1956;12(8):323–4.
+39. Bhargava HN, Cao YJ. Effects of noribogaine on the development of
+tolerance to antinociceptive action of morphine in mice. Brain Res
+1997;771(2):343–6.
+40. Rabin RA, Winter JC. Ibogaine and noribogaine potentiate the inhibi-
+tion of adenylyl cyclase activity by opioid and 5-HT receptors. Eur J
+Pharmacol 1996;316(2–3):343–8.
+41. Fareed A, Casarella J, Amar R, Vayalapalli S, Drexler K. Methadone
+maintenance dosing guideline for opioid dependence, a literature
+review. J Addict Dis 2010;29(1):1–14.
+42. Corkery JM, Schifano F, Ghodse AH, Oyefeso A. The effects of metha-
+done and its role in fatalities. Hum Psychopharmacol 2004;19(8):565–76.
+43. Bagal AA, Hough LB, Nalwalk JW, Glick SD. Modulation of mor-
+phine-induced antinociception by ibogaine and noribogaine. Brain Res
+1996;741(1–2):258–62.
+44. Cao YJ, Bhargava HN. Effects of ibogaine on the development of tol-
+erance to antinociceptive action of mu-, delta- and kappa-opioid recep-
+tor agonists in mice. Brain Res 1997;752(1–2):250–4.
+45. Bhargava HN, Cao YJ, Zhao GM. Effects of ibogaine and noribogaine
+on the antinociceptive action of mu-, delta- and kappa-opioid receptor
+agonists in mice. Brain Res 1997;752(1–2):234–8.
+46. Sunder Sharma S, Bhargava HN. Enhancement of morphine antinoci-
+ception by ibogaine and noribogaine in morphine-tolerant mice. Phar-
+macology 1998;57(5):229–32.
+47. Schneider JA, inventor Ciba Pharmaceutical Products Inc., Summit,
+N.J., assignee. Tabernanthine, Ibogaine Containing Analgesic Composi-
+tions. US patent 2,817,623. 1957.
+48. Nichols DE. Hallucinogens. Pharmacol Ther 2004;101(2):131–81.
+49. Wei D, Maisonneuve IM, Kuehne ME, Glick SD. Acute iboga alkaloid
+effects on extracellular serotonin (5-HT) levels in nucleus accumbens
+and striatum in rats. Brain Res 1998;800(2):260–8.
+50. Caille S, Espejo EF, Koob GF, Stinus L. Dorsal and median raphe
+serotonergic system lesion does not alter the opiate withdrawal syn-
+drome. Pharmacol Biochem Behav 2002;72(4):979–86.
+51. Alper KR, Lotsof HS. The use of ibogaine in the treatment of addic-
+tions. In: Winkelman M, Roberts T, editors. Psychedelic medicine.
+Westport, CT: Praeger ⁄ Greenwood Publishing Group, 2007;43–66.
+52. Cantero JL, Atienza M, Stickgold R, Kahana MJ, Madsen JR, Kocsis
+B. Sleep-dependent theta oscillations in the human hippocampus and
+neocortex. J Neurosci 2003;23(34):10897–903.
+53. Popik P. Facilitation of memory retrieval by the ‘‘anti-addictive’’ alka-
+loid, ibogaine. Life Sci 1996;59(24):PL379–85.
+54. Helsley S, Fiorella D, Rabin RA, Winter JC. Effects of ibogaine on
+performance in the 8-arm radial maze. Pharmacol Biochem Behav
+1997;58(1):37–41.
+55. Depoortere H. Neocortical rhythmic slow activity during wakefulness
+and paradoxical sleep in rats. Neuropsychobiology 1987;18(3):160–8.
+56. Schneider JA, Sigg EB. Neuropharmacological studies on ibogaine, an
+indole alkaloid with central-stimulant properties. Ann N Y Acad Sci
+1957;66(3):765–76.
+57. Leung LS. Generation of theta and gamma rhythms in the hippocam-
+pus. Neurosci Biobehav Rev 1998;22(2):275–90.
+58. Popik P, Skolnick P. Pharmacology of ibogaine and ibogaine-related
+alkaloids. Alkaloids Chem Biol 1998;52:197–231.
+59. Skolnick P. Ibogaine as a glutamate antagonist: relevance to its puta-
+tive antiaddictive properties. Alkaloids Chem Biol 2001;56:55–62.
+60. Pace CJ, Glick SD, Maisonneuve IM, He LW, Jokiel PA, Kuehne ME,
+et al. Novel iboga alkaloid congeners block nicotinic receptors and
+reduce drug self-administration. Eur J Pharmacol 2004;492(2–3):
+159–67.
+61. Taraschenko OD, Panchal V, Maisonneuve IM, Glick SD. Is antago-
+nism of a3b4 nicotinic receptors a strategy to reduce morphine depen-
+dence? Eur J Pharmacol 2005;513(3):207–18.
+62. Glick SD, Maisonneuve IM, Kitchen BA, Fleck MW. Antagonism of
+a3b4 nicotinic receptors as a strategy to reduce opioid and stimulant
+self-administration. Eur J Pharmacol 2002;438(1–2):99–105.
+63. Fryer JD, Lukas RJ. Noncompetitive functional inhibition at diverse,
+human nicotinic acetylcholine receptor subtypes by bupropion, phen-
+cyclidine, and ibogaine. J Pharmacol Exp Ther 1999;288(1):88–92.
+64. Glick SD, Maisonneuve IM, Kitchen BA. Modulation of nicotine self-
+administration in rats by combination therapy with agents blocking
+alpha 3 beta 4 nicotinic receptors. Eur J Pharmacol 2002;448(2–
+3):185–91.
+65. Mash DC, Kovera CA, Buck BE, Norenberg MD, Shapshak P, Hearn
+WL, et al. Medication development of ibogaine as a pharmacotherapy
+for drug dependence. Ann N Y Acad Sci 1998;844:274–92.
+66. Deborah Mash v. NDA International, Inc., Case Number: 96-3712,
+CIV Moreno. United States District Court, District of Southern Florida,
+Miami Division; 1997; Ammended Complaint.
+67. Alper KR, Beal D, Kaplan CD. A contemporary history of ibogaine in
+the United States and Europe. Alkaloids Chem Biol 2001;56:249–81.
+68. Alper KR, Glick SD, Cordell GA, editors. Ibogaine: Proceedings of the
+First International Conference (also published as The Alkaloids Chem-
+istry and Biology Vol. 56). San Diego, CA: Academic Press, 2001.
+69. Marker EK, Stajic M. Ibogaine related fatality. 40th meeting of The
+International Association of Forensic Toxicologists (TIAFT), 2002 Oral
+presentation No. 59, August 30; Paris, France. 2002.
+70. Kontrimavicˇiut_e V, Mathieu O, Mathieu-Daud JC, Vainauskas P, Cas-
+per T, Baccino E, et al. Distribution of ibogaine and noribogaine in a
+man following a poisoning involving root bark of the Tabernanthe ib-
+oga shrub. J Anal Toxicol 2006;30(7):434–40.
+71. Kontrimavicˇiut_e V, Larroque M, Briedis V, Margout D, Bressolle F.
+Quantitation of ibogaine and 12-hydroxyibogamine in human plasma
+by liquid chromatography with fluorimetric detection. J Chromatogr B
+Analyt Technol Biomed Life Sci 2005;822(1–2):285–93.
+72. Gallagher CA, Hough LB, Keefner SM, Seyed-Mozaffari A, Archer S,
+Glick SD. Identification and quantification of the indole alkaloid ibog-
+aine in biological samples by gas chromatography-mass spectrometry.
+Biochem Pharmacol 1995;49(1):73–9.
+73. Alburges ME, Foltz RL, Moody DE. Determination of ibogaine and
+12-hydroxy-ibogamine in plasma by gas chromatography-positive ion
+chemical ionization-mass spectrometry. J Anal Toxicol 1995;19(6):
+381–6.
+74. Hearn WL, Pablo J, Hime GW, Mash DC. Identification and quantita-
+tion of ibogaine and an o-demethylated metabolite in brain and biologi-
+cal
+fluids
+using
+gas
+chromatography-mass
+spectrometry.
+J
+Anal
+Toxicol 1995;19(6):427–34.
+75. Beyer J, Drummer OH, Maurer HH. Analysis of toxic alkaloids in
+body samples. Forensic Sci Int 2009;185(1–3):1–9.
+76. Ley FR, Jeffcoat AR, Thomas BF. Determination of ibogaine in
+plasma by gas chromatography—chemical ionization mass spectrome-
+try. J Chromatogr A 1996;723(1):101–9.
+77. Kontrimavicˇiut_e V, Breton H, Barnay F, Mathieu-Daud JC, Bressolle
+FMM. Liquid chromatography-electrospray mass spectrometry determi-
+nation of ibogaine and 12-hydroxy-ibogamine in human urine. Chroma-
+tographia 2006;63(11–12):533–41.
+78. Kontrimavicˇiut_e V, Breton H, Mathieu O, Mathieu-Daud JC, Bressolle
+FM. Liquid chromatography-electrospray mass spectrometry determina-
+tion of ibogaine and noribogaine in human plasma and whole blood.
+Application to a poisoning involving Tabernanthe iboga root. J Chro-
+matogr B Analyt Technol Biomed Life Sci 2006;843(2):131–41.
+79. Lepine F, Milot S, Zamir L, Morel R. Liquid chromatographic ⁄ mass
+spectrometric determination of biologically active alkaloids in extracts
+of Peschiera fuschiaefolia. J Mass Spectrom 2002;37(2):216–22.
+80. Bogusz MJ, Maier RD, Kruger KD, Kohls U. Determination of com-
+mon drugs of abuse in body fluids using one isolation procedure and
+liquid chromatography—atmospheric-pressure chemical-ionization mass
+spectromery. J Anal Toxicol 1998;22(7):549–58.
+81. Bjçrnstad K, Beck O, Helander A. A multi-component LC-MS ⁄ MS
+method for detection of ten plant-derived psychoactive substances in
+urine. J Chromatogr B Analyt Technol Biomed Life Sci 2009;877(11–
+12):1162–8.
+82. Chze M, Lenoan A, Deveaux M, Ppin G. Determination of ibogaine
+and noribogaine in biological fluids and hair by LC-MS ⁄ MS after Tab-
+ernanthe iboga abuse Iboga alkaloids distribution in a drowning death
+case. Forensic Sci Int 2008;176(1):58–66.
+410
+JOURNAL OF FORENSIC SCIENCES
+
+
+83. Bjçrnstad K, Hultn P, Beck O, Helander A. Bioanalytical and clinical
+evaluation of 103 suspected cases of intoxications with psychoactive
+plant materials. Clin Toxicol (Phila) 2009;47(6):566–72.
+84. Alper KR, Cordell GA. A note concerning the numbering of the iboga
+alkaloids. In: Alper KR, Glick SD, Cordell GA, editors. Ibogaine: Pro-
+ceedings of the First International Conference (also published as The
+Alkaloids Chemistry and Biology Vol. 56). San Diego: Academic
+Press, 2001;xxiii–xxiv.
+85. Adams VI, Flomenbaum MA, Hirsch CS. Trauma and disease. In:
+Spitz WU, editor. Spitz and Fisher’s medicolegal investigation of
+death. Springfield, IL: Charles C Thomas, 2006;436–59.
+86. Adelson L. The pathology of homicide. Springfield, IL: Charles C
+Thomas, 1974.
+87. MPI Research. Re-evaluation of repeat dose oral toxicity study of ibog-
+aine HCl in dogs: Pathology peer review of Southern Research Study
+B06-TXD-5. MPI Research Identification: 693-085. NIDA Ibogaine
+Drug Master File Volume 13. Bethesda, MD: National Institute on
+Drug Abuse (NIDA), 1996;686–707.
+88. Kamlet J. Safety issues and cardiac side-effects in the administration
+of ibogaine HCl. International Drug Policy Reform Conference, Albu-
+querque, New Mexico, November 14, 2009, [Video] http://vimeo.com/
+7843758 (accessed November 25, 2011).
+89. van Noord C, Eijgelsheim M, Stricker BHC. Drug- and non-drug-asso-
+ciated QT interval prolongation. Br J Clin Pharmacol 2010;70(1):16–
+23.
+90. Kannankeril P, Roden DM, Darbar D. Drug-induced long QT syn-
+drome. Pharmacol Rev 2010;62(4):760–81.
+91. Mah SJ, Tang Y, Liauw PE, Nagel JE, Schneider AS. Ibogaine acts at
+the nicotinic acetylcholine receptor to inhibit catecholamine release.
+Brain Res 1998;797(1):173–80.
+92. Schneider AS, Nagel JE, Mah SJ. Ibogaine selectively inhibits nicotinic
+receptor-mediated catecholamine release. Eur J Pharmacol 1996;317(2–
+3):R1–2.
+93. Gullo F, Ales E, Rosati B, Lecchi M, Masi A, Guasti L, et al. ERG
+K+ channel blockade enhances firing and epinephrine secretion in rat
+chromaffin cells: the missing link to LQT2-related sudden death?
+FASEB J 2003;17(2):330–2.
+94. Kovar M, Koenig X, Mike , Cervenka R, Lukcs P, Todt H, et al.
+The anti-addictive drug ibogaine modulates voltage-gated ion channels
+and may trigger cardiac arrhythmias. BMC Pharmacol 2011;11(Suppl.
+2):A1.
+95. Deecher DC, Teitler M, Soderlund DM, Bornmann WG, Kuehne ME,
+Glick SD. Mechanisms of action of ibogaine and harmaline congeners
+based on radioligand binding studies. Brain Res 1992;571(2):242–7.
+96. Sweetnam PM, Lancaster J, Snowman A, Collins JL, Perschke S, Bau-
+er C, et al. Receptor binding profile suggests multiple mechanisms of
+action are responsible for ibogaine’s putative anti-addictive activity.
+Psychopharmacology (Berl) 1995;118(4):369–76.
+97. Lu HR, Rohrbacher J, Vlaminckx E, Van Ammel K, Yan GX, Gallach-
+er DJ. Predicting drug-induced slowing of conduction and pro-arrhyth-
+mia: identifying the ‘bad’ sodium current blockers. Br J Pharmacol
+2010;160(1):60–76.
+98. Lim KS, Jang IJ, Kim BH, Kim J, Jeon JY, Tae YM, et al. Changes in
+the QTc interval after administration of flecainide acetate, with and
+without coadministered paroxetine, in relation to cytochrome P450
+2D6 genotype: data from an open-label, two-period, single-sequence
+crossover
+study
+in
+healthy
+Korean
+male
+subjects.
+Clin
+Ther
+2010;32(4):659–66.
+99. Antzelevitch C. Ionic, molecular, and cellular bases of QT-interval pro-
+longation and torsade de pointes. Europace 2007;9(Suppl. 4):4–15.
+100. Kuhlkamp V, Mewis C, Bosch R, Seipel L. Delayed sodium channel
+inactivation mimics long QT syndrome 3. J Cardiovasc Pharmacol
+2003;42(1):113–7.
+101. Wu L, Guo DL, Li H, Hackett J, Yan GX, Jiao Z, et al. Role of late
+sodium current in modulating the proarrhythmic and antiarrhythmic
+effects of quinidine. Heart Rhythm 2008;5(12):1726–34.
+102. Roden DM. Keep the QT interval: it is a reliable predictor of ventricu-
+lar arrhythmias. Heart Rhythm 2008;5(8):1213–5.
+103. Hondeghem LM. QT prolongation is an unreliable predictor of ventric-
+ular arrhythmia. Heart Rhythm 2008;5(8):1210–2.
+104. Farkas AS, Nattel S. Minimizing repolarization-related proarrhythmic risk
+in drug development and clinical practice. Drugs 2010;70(5):573–603.
+105. Mash DC, Allen-Ferdinand K, Mayor M, Kovera CA, Ayafor JF, Wil-
+liams IC, et al. Ibogaine: clinical observations of safety after single
+oral dose administrations. In: Harris LS, editor. Problems of Drug
+Dependence, 1998: Proceedings of the 60th Annual Scientific Meeting,
+The College on Problems of Drug Dependence Inc.; 1998 June 12–17;
+Scottsdale, AZ. NIDA Research Monograph 179. Bethesda, MD:
+National Institute on Drug Abuse, 1998;294.
+106. Samorini G. The initiation rite in the Bwiti religion (Ndea Narizanga
+Sect, Gabon). Jahrbuch fr Ethnomedizin und Bewusstseinsforschung
+1998;6–7:39–56.
+107. Binienda ZK, Pereira F, Alper K, Slikker W Jr, Ali SF. Adaptation to
+repeated
+cocaine
+administration
+in
+rats.
+Ann
+N
+Y
+Acad
+Sci
+2002;965:172–9.
+108. Schneider JA, Rinehart RK. Analysis of the cardiovascular action of
+ibogaine hydrochloride. Arch Int Pharmacodyn Ther 1957;110(1):92–
+102.
+109. Takimoto Y, Yoshiuchi K, Kumano H, Yamanaka G, Sasaki T, Suema-
+tsu H, et al. QT interval and QT dispersion in eating disorders. Psycho-
+ther Psychosom 2004;73(5):324–8.
+110. Pacini M, Maremmani AGJ, Dell’Osso L, Maremmani I. Opioid treat-
+ment and ‘‘long-QT syndrome (LQTS)’’: a critical review of the litera-
+ture. Heroin Addict Relat Clin Probl 2009;11(4):21–8.
+111. Aasebø W, Erikssen J, Jonsbu J, Stavem K. ECG changes in patients
+with acute ethanol intoxication. Scand Cardiovasc J 2007;41(2):79–84.
+112. Hoffman RS. Treatment of patients with cocaine-induced arrhythmias:
+bringing
+the
+bench
+to
+the
+bedside.
+Br
+J
+Clin
+Pharmacol
+2010;69(5):448–57.
+113. Otero-Anton E, Gonzalez-Quintela A, Saborido J, Torre JA, Virgos A,
+Barrio E. Prolongation of the QTc interval during alcohol withdrawal
+syndrome. Acta Cardiol 1997;52(3):285–94.
+114. Cuculi F, Kobza R, Ehmann T, Erne P. ECG changes amongst patients
+with alcohol withdrawal seizures and delirium tremens. Swiss Med
+Wkly 2006;136(13–14):223–7.
+115. Levin KH, Copersino ML, Epstein D, Boyd SJ, Gorelick DA. Longitu-
+dinal ECG changes in cocaine users during extended abstinence. Drug
+Alcohol Depend 2008;95(1–2):160–3.
+116. Kino M, Imamitchi H, Morigutchi M, Kawamura K, Takatsu T. Car-
+diovascular status in asymptomatic alcoholics, with reference to the
+level of ethanol-consumption. Br Heart J 1981;46(5):545–51.
+117. Brotherstone R, Blackhall B, McLellan A. Lengthening of corrected
+QT during epileptic seizures. Epilepsia 2010;51(2):221–32.
+118. Hoelen DW, Spiering W, Valk GD. Long-QT syndrome induced by
+the antiaddiction drug ibogaine. N Engl J Med 2009;360(3):308–9.
+119. Hough LB, Pearl SM, Glick SD. Tissue distribution of ibogaine after
+intraperitoneal
+and
+subcutaneous
+administration.
+Life
+Sci
+1996;58(7):PL119-22.
+120. Vincent D, Lagreu R. Sur la cholinestrase du pancras. tude de son
+comportement en prsence d’inhibiteurs (ibogane, cafine, srine)
+comparativement avec les cholinesterases du srum et du cerveau. [On
+pancreatic cholinesterase. Comparative study of its behavior in the
+presence of inhibitors (ibogaine, caffeine and physostigmine) with
+brain and serum cholinesterases]. Bulletin De La Societe De Chimie
+Biologique 1949;31(5–6):1043–5.
+121. Vincent D, Sero I. Action inhibitrice de Tabernanthe iboga sur la chol-
+inestrase du srum (Inhibitory effect of Tabernanthe iboga on serum
+cholinesterase). C R Seances Soc Biol Fil 1942;136:612–4.
+122. Alper K, Reith MEA, Sershen H. Ibogaine and the inhibition of acetyl-
+cholinesterase. J Ethnopharmacol 2012; in press. doi: 10.1016/j.jep.
+2011.12.006
+123. Kolecki PF, Curry SC. Poisoning by sodium channel blocking agents.
+Crit Care Clin 1997;13(4):829–48.
+124. Torbicki A, van Beek EJR, Charbonnier B, Meyer G, Morpurgo M,
+Palla A, et al. Guidelines on diagnosis and management of acute pul-
+monary embolism. Eur Heart J 2000;21(16):1301–36.
+125. Mandelli V, Schmid C, Zogno C, Morpurgo M. ‘‘False negatives’’ and
+‘‘false positives’’ in acute pulmonary embolism: a clinical-postmortem
+comparison. Cardiologia 1997;42(2):205–10.
+126. Ely SE, Gill JR. Fatal pulmonary thromboembolism and hereditary
+thrombophilias. J Forensic Sci 2005;50(2):411–8.
+127. Chandra D, Parisini E, Mozaffarian D. Meta-analysis: travel and
+risk for venous thromboembolism. Ann Intern Med 2009;151(3):
+180–90.
+128. Pottier P, Hardouin JB, Lejeune S, Jolliet P, Gillet B, Planchon B.
+Immobilization and the risk of venous thromboembolism. A meta-anal-
+ysis on epidemiological studies. Thromb Res 2009;124(4):468–76.
+129. McColl MD, Tait RC, Greer IA, Walker ID. Injecting drug use is a
+risk factor for deep vein thrombosis in women in Glasgow. Br J Hae-
+matol 2001;112(3):641–3.
+130. Cooke VA, Fletcher AK. Deep vein thrombosis among injecting drug
+users in Sheffield. Emerg Med J 2006;23(10):777–9.
+ALPER ET AL.
+• FATALITIES TEMPORALLY ASSOCIATED WITH THE INGESTION OF IBOGAINE
+411
+
+
+131. Syed FF, Beeching NJ. Lower-limb deep-vein thrombosis in a general
+hospital: risk factors, outcomes and the contribution of intravenous
+drug use. QJM 2005;98(2):139–45.
+132. Masoomi M, Ramezani MA, Shahriari S, Shahesmaeeli A, Mirzaeepour
+F. Is opium addiction a risk factor for deep vein thrombosis? A case-
+control study. Blood Coagul Fibrinolysis 2010;21(2):109–12.
+133. Bowen WD. Sigma receptors and iboga alkaloids. Alkaloids Chem
+Biol 2001;56:173–91.
+134. O’Hearn E, Molliver ME. The olivocerebellar projection mediates ib-
+ogaine-induced degeneration of Purkinje cells: a model of indirect,
+trans-synaptic excitotoxicity. J Neurosci 1997;17(22):8828–41.
+135. O’Hearn E, Molliver ME. Degeneration of Purkinje cells in parasagittal
+zones of the cerebellar vermis after treatment with ibogaine or harma-
+line. Neuroscience 1993;55(2):303–10.
+136. Scallet AC, Ye X, Rountree R, Nony P, Ali SF. Ibogaine produces
+neurodegeneration in rat, but not mouse, cerebellum. Neurohistological
+biomarkers of Purkinje cell loss. Ann N Y Acad Sci 1996;801:217–26.
+137. Molinari HH, Maisonneuve IM, Glick SD. Ibogaine neurotoxicity: a
+re-evaluation. Brain Res 1996;737(1–2):255–62.
+138. Harvey AS, Jayakar P, Duchowny M, Resnick T, Prats A, Altman N,
+et al. Hemifacial seizures and cerebellar ganglioglioma: an epilepsy
+syndrome of infancy with seizures of cerebellar origin. Ann Neurol
+1996;40(1):91–8.
+139. Vanburen JM, Wood JH, Oakley J, Hambrecht F. Preliminary evalu-
+ation of cerebellar stimulation by double-blind stimulation and bio-
+logical criteria in treatment of epilepsy. J Neurosurg 1978;48(3):
+407–16.
+140. Geter-Douglass B, Witkin JM. Behavioral effects and anticonvulsant
+efficacies of low-affinity, uncompetitive NMDA antagonists in mice.
+Psychopharmacology (Berl) 1999;146(3):280–9.
+141. Chen K, Kokate TG, Donevan SD, Carroll FI, Rogawski MA. Ibogaine
+block of the NMDA receptor: in vitro and in vivo studies. Neurophar-
+macology 1996;35(4):423–31.
+142. Leal MB, de Souza DO, Elisabetsky E. Long-lasting ibogaine protec-
+tion against NMDA-induced convulsions in mice. Neurochem Res
+2000;25(8):1083–7.
+143. Boyer EW, Shannon M. The serotonin syndrome. N Engl J Med
+2005;352(11):1112–20.
+144. Jenkins AJ, Keenan RM, Henningfield JE, Cone EJ. Pharmacokinetics
+and
+pharmacodynamics
+of
+smoked
+heroin.
+J
+Anal
+Toxicol
+1994;18(6):317–30.
+145. Strang J, Griffiths P, Gossop M. Heroin smoking by ‘chasing the dra-
+gon’: origins and history. Addiction 1997;92(6):673–83.
+146. Szumlinski KK, Maisonneuve IM, Glick SD. Differential effects of ib-
+ogaine on behavioural and dopamine sensitization to cocaine. Eur J
+Pharmacol 2000;398(2):259–62.
+147. Br	dvik L, Berglund M, Frank A, Lindgren A, Lçwenhielm P. Number
+of addictive substances used related to increased risk of unnatural
+death: a combined medico-legal and case-record study. BMC Psychia-
+try 2009;9:48.
+148. Darke S, Sunjic S, Zador D, Prolov T. A comparison of blood toxicol-
+ogy of heroin-related deaths and current heroin users in Sydney, Aus-
+tralia. Drug Alcohol Depend 1997;47(1):45–53.
+149. Darke S, Kaye S, Duflou J. Systemic disease among cases of fatal opi-
+oid toxicity. Addiction 2006;101(9):1299–305.
+150. Knuepfer MM. Cardiovascular disorders associated with cocaine use:
+myths and truths. Pharmacol Ther 2003;97(3):181–222.
+151. Kaye S, McKetin R, Duflou J, Darke S. Methamphetamine and cardio-
+vascular
+pathology:
+a
+review
+of
+the
+evidence.
+Addiction
+2007;102(8):1204–11.
+152. Obach RS, Pablo J, Mash DC. Cytochrome P4502D6 catalyzes the O-
+demethylation of the psychoactive alkaloid ibogaine to 12-hydroxyi-
+bogamine. Drug Metab Dispos 1998;26(8):764–8.
+153. Miksys S, Rao Y, Hoffmann E, Mash DC, Tyndale RF. Regional and
+cellular expression of CYP2D6 in human brain: higher levels in alco-
+holics. J Neurochem 2002;82(6):1376–87.
+154. Pelissier-Alicot AL, Gaulier JM, Champsaur P, Marquet P. Mecha-
+nisms underlying postmortem redistribution of drugs: a review. J Anal
+Toxicol 2003;27(8):533–44.
+155. Moriya F, Hashimoto Y. Redistribution of basic drugs into cardiac
+blood from surrounding tissues during early-stages postmortem. J
+Forensic Sci 1999;44(1):10–6.
+156. Southern Research Institute. Acute oral toxicity study of ibogaine HCI
+in rats. Southern Research Study B06-TXR-6. Ibogaine Drug Master
+File Volume 4. Bethesda, MD: National Institute on Drug Abuse
+(NIDA), 1993;1–219.
+157. Jenks CW. Extraction studies of Tabernanthe iboga and Voacanga
+africana. Nat Prod Lett 2002;16(1):71–6.
+158. Kontrimavicˇiut_e V, Mathieu O, Balas L, Escale R, Blayac JP, Bressolle
+FMM. Ibogaine and noribogaine: structural analysis and stability stud-
+ies. Use of LC-MS to determine alkaloid contents of the root bark of
+Tabernanthe iboga. J Liq Chromatogr Relat Technol 2007;30:1077–92.
+159. Dickel DF, Holden CL, Maxfield RC, Paszek LE, Taylor WI. The
+alkaloids of Tabernanthe iboga. Part III. Isolation studies. J Am Chem
+Soc 1958;80(1):123–5.
+160. Gill JR, Hayes JA, DeSouza IS, Marker E, Stajic M. Ecstasy (MDMA)
+deaths in New York City: a case series and review of the literature. J
+Forensic Sci 2002;47(1):121–6.
+161. Lotsof HS, Wachtel B. Manual for ibogaine therapy screening, safety,
+monitoring and aftercare, Second Revision, 2003, [Downloadable PDF]
+http://www.ibogaine.desk.nl/manual.html
+(accessed
+November
+25,
+2011).
+Additional information and reprint requests:
+Kenneth R. Alper, M.D.
+Associate Professor of Psychiatry and Neurology
+New York University School of Medicine
+Brain Research Laboratories
+8th Floor Old Bellevue Administration Building
+462 First Avenue
+New York, NY 10016
+E-mail: kra1@nyu.edu
+412
+JOURNAL OF FORENSIC SCIENCES

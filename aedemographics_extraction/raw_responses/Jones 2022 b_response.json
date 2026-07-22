@@ -1,0 +1,46 @@
+{
+  "data": {
+    "article": {
+      "StudyID": "Jones 2022 b",
+      "Citation": "Jones G, Lipson J, Nock MK. Associations between classic psychedelics and nicotine dependence in a nationally representative sample. Scientific Reports. 2022.",
+      "Title": "Associations between classic psychedelics and nicotine dependence in a nationally representative sample",
+      "Year": 2022,
+      "Corpus/Prefix": ".",
+      "Condition": "Smoking",
+      "Substance": "Psilocybin, Peyote, Mescaline, LSD",
+      "IsObservational": "Y",
+      "N": 214505,
+      "AE_denominator": ".",
+      "ArmScope": "pooled",
+      "PctFemale": ".",
+      "GenderCategory": "Male/Female",
+      "PctBIPOC": ".",
+      "PctIndigenous": ".",
+      "SafetyReported": "N",
+      "AnyAEReported": "NA",
+      "NumDistinctAEs": "NA",
+      "NParticipantsWithAE": "NA",
+      "WorstSeverity": "NA",
+      "text_source": "born-digital",
+      "Model": "claude-sonnet-5",
+      "PromptVersion": "ae_extraction_prompt_v1",
+      "RubricVersion": "severity_rubric_v1",
+      "Temperature": 1
+    },
+    "ae_events": []
+  },
+  "rationale": {
+    "article": {
+      "IsObservational": "Cross-sectional secondary-data analysis of NSDUH (2015-2019) survey responses using multivariable logistic/ordinal regression on lifetime substance-use items; no randomization or research-administered intervention, so this is observational.",
+      "Substance": "The 'classic psychedelics' whose lifetime use is the study's independent variable of interest are psilocybin, peyote, mescaline, and LSD; MDMA/ecstasy and other substances (heroin, PCP, cocaine, marijuana, etc.) were included only as specificity comparators, not as the psychedelics under study, so they are excluded here.",
+      "N": "Text states 'unweighted N = 214,505' for the full NSDUH 2015-2019 analytic sample used in all regression models; Table 1's subgroup Ns (188,367 without ND + 26,138 with ND) sum to this figure, confirming it is the final analyzed sample, not merely enrolled.",
+      "ArmScope": "N, Table 1 demographics, and all regression models pool everyone in the NSDUH sample (both those who ever used a classic psychedelic and those who never did) together, split only by nicotine-dependence status, not by psychedelic-exposure status, so this is 'pooled' rather than a psychedelic-exposed-only arm.",
+      "PctFemale": "Table 1 reports sex only stratified by nicotine-dependence outcome (48% male/52% female among no-ND, N=188,367 unweighted; 53% male/47% female among ND, N=26,138 unweighted), with percentages that are survey-weighted while the N's shown are unweighted sample sizes. Combining a weighted % with an unweighted N would produce an invalid recomputed overall percentage, and no single overall %female is reported directly, so coded not-reported.",
+      "PctBIPOC": "Same issue as PctFemale: Table 1's race/ethnicity breakdown (Non-Hispanic White, Black, Native American/Alaska Native, Native Hawaiian/Pacific Islander, Asian, more-than-one-race, Hispanic) is given only stratified by nicotine-dependence status as weighted percentages against unweighted subgroup Ns, with no overall-sample figure reported; summing weighted subgroup percentages using unweighted N as a combining weight would not yield a valid whole-sample estimate, so coded not-reported.",
+      "PctIndigenous": "Same stratification/weighting problem as PctBIPOC above (Non-Hispanic Native American/Alaska Native category reported only per ND-status subgroup, not overall), so coded not-reported; also inherently bounded by the not-reported PctBIPOC figure.",
+      "SafetyReported": "This article is an epidemiological association study (odds of nicotine dependence by lifetime substance-use history) using NSDUH survey data; it reports no adverse events, safety outcomes, or clinical monitoring of any kind, so SafetyReported = N and the downstream AE fields are NA per the three-state missingness convention.",
+      "AE_denominator": "Per schema, AE_denominator is coded '.' rather than 'NA' even though SafetyReported = N, since this field never takes NA."
+    },
+    "ae_events": {}
+  }
+}

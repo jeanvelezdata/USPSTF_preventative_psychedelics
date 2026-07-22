@@ -1,0 +1,91 @@
+{
+  "data": {
+    "article": {
+      "StudyID": "Brown 2019",
+      "Citation": "Brown TK, Noller GE, Denenberg JO. Ibogaine and Subjective Experience: Transformative States and Psychopharmacotherapy in the Treatment of Opioid Use Disorder. Journal of Psychoactive Drugs. 2019.",
+      "Title": "Ibogaine and Subjective Experience: Transformative States and Psychopharmacotherapy in the Treatment of Opioid Use Disorder",
+      "Year": 2019,
+      "Corpus/Prefix": ".",
+      "Condition": "Opioid",
+      "Substance": "Ibogaine",
+      "IsObservational": "Y",
+      "N": 44,
+      "AE_denominator": ".",
+      "ArmScope": "psychedelic_arm",
+      "PctFemale": 27.3,
+      "GenderCategory": "Male/female only; Mexico 25M/5F, New Zealand 7M/7F (no non-binary/other categories reported)",
+      "PctBIPOC": 6.8,
+      "PctIndigenous": ".",
+      "SafetyReported": "Y",
+      "AnyAEReported": "Y",
+      "NumDistinctAEs": 3,
+      "NParticipantsWithAE": ".",
+      "WorstSeverity": "Severe",
+      "text_source": "born-digital",
+      "Model": "claude-sonnet-5",
+      "PromptVersion": "ae_extraction_prompt_v1",
+      "RubricVersion": "severity_rubric_v1",
+      "Temperature": 1
+    },
+    "ae_events": [
+      {
+        "AE_ID": "Brown 2019_AE01",
+        "StudyID": "Brown 2019",
+        "AE_type": "challenging_experience",
+        "Description": "Participant-reported anxiety at treatment commencement/prior to dosing (theme, n=4 utterances); e.g. inability to stop shaking (S007, NZ)",
+        "Onset": "unknown",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Brown 2019_AE02",
+        "StudyID": "Brown 2019",
+        "AE_type": "both",
+        "Description": "Participant (S25, Mexico) described profound depression and suicidal ideation during ibogaine vision; explicitly stated awareness of no intent/ability to act on it",
+        "Onset": "in-session",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "Y",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Brown 2019_AE03",
+        "StudyID": "Brown 2019",
+        "AE_type": "AE",
+        "Description": "Death during ibogaine treatment reported in companion New Zealand study (Noller et al. 2018), cited in Discussion as a safety caveat",
+        "Onset": "unknown",
+        "Severity": "Severe",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "Y"
+      }
+    ]
+  },
+  "rationale": {
+    "article": {
+      "IsObservational": "Explicitly stated: 'The two studies were strictly observational, with neither investigator involved in administering ibogaine or in clinic management.' Both source studies (Mexico, New Zealand) are naturalistic treatment-site cohorts, not RCTs.",
+      "N": "Abstract/Methods report a total treatment sample of 44 (Mexico n=30 + New Zealand n=14); this is the enrolled/treated population from which this article draws. Sub-analyses within the article use smaller subsamples due to missing data: SCQ n=42 (28 Mexico+14 NZ), BDI-II n=38 (24 Mexico+14 NZ), qualitative thematic analysis n=20 (13 Mexico+7 NZ). N=44 reported as the overall treated sample.",
+      "Substance": "All participants received ibogaine HCl; 4 of the 30 Mexican participants additionally received a crude Tabernanthe iboga rootbark extract alongside a lower HCl dose (26 Mexican participants received HCl only).",
+      "PctFemale": "Not given as a single pooled figure. Mexico: 5F/30; New Zealand: 7F/14. Pooled: (5+7)/44 = 27.3%.",
+      "PctBIPOC": "Not given as a single pooled figure. Mexico: 27 Caucasian, 1 Hispanic, 2 other ethnicities (non-white = 3/30); New Zealand: 14/14 Caucasian (non-white = 0). Pooled: 3/44 = 6.8%. Treated 'Hispanic' and 'other ethnicities' as non-white consistent with the article's own Caucasian/non-Caucasian framing.",
+      "PctIndigenous": "No Indigenous-specific ethnicity category reported for either site (Mexico: Caucasian/Hispanic/other; New Zealand: all Caucasian) \u2014 coded not-reported rather than 0, since absence of a category is not confirmation of zero Indigenous participants.",
+      "ArmScope": "Single-arm ibogaine-treated cohort (Mexico + New Zealand sites) with no comparator/non-exposed group; all N/AE/demographic values pertain only to psychedelic-exposed participants.",
+      "SafetyReported": "This article's own primary results concern SCQ mystical-experience scores, BDI-II depression change, and qualitative thematic content \u2014 it is not a structured safety-monitoring paper. However, it explicitly surfaces two safety-relevant events in the text (see AE02, AE03 rationale), so SafetyReported/AnyAEReported are coded Y per the instruction that understating harm is the cardinal error; flagged for human review given the non-standard, partly-borrowed nature of these signals.",
+      "AnyAEReported": "See SafetyReported rationale \u2014 coded Y based on the death (cited from a companion paper, Discussion section) and the suicidal-ideation quote (surfaced via qualitative coding, not structured AE monitoring), not from a dedicated AE results section.",
+      "NumDistinctAEs": "3 distinct types identified: anxiety (challenging-experience theme), suicidal ideation (qualitative quote), death (cited from companion NZ paper). No structured AE count was conducted by the authors.",
+      "NParticipantsWithAE": "Coded 'Not numbered' because the 3 identified AE/challenging-experience types cannot be reliably resolved to a unique participant count \u2014 the anxiety theme reflects 4 coded utterances (not necessarily 4 distinct participants) and no formal AE-participant tally exists in the article.",
+      "WorstSeverity": "Driven by the death event (AE03), the only item graded Severe.",
+      "AE_denominator": "No consistent AE-assessment denominator exists: the death is cited from the companion NZ paper's cohort (size not restated in this article), and the suicidal-ideation quote emerged from the n=20 qualitative subsample. Coded '.' because no coherent AE-assessment population is specified."
+    },
+    "ae_events": {
+      "Brown 2019_AE01": "Theme 'Anxiety' (Table 1, Process construct, n=4 utterances) describes anxiety at commencement of/prior to treatment as well as in-session (e.g., S007: 'unable to stop shaking' before treatment). Graded Mild per rubric default for expected/transient anxiety with no reported intervention or persistence beyond the dosing period. Onset coded 'unknown' because the described anxiety spans pre-treatment/commencement rather than mapping cleanly to in-session/post-session-acute/delayed.",
+      "Brown 2019_AE02": "Participant S25 (Mexico) described profound depression and suicidal ideation during their ibogaine vision, explicitly noting awareness that they 'can't do it' \u2014 no attempt, plan, or intervention reported. Per the rubric's under-specified-AE rule (no intervention/outcome/seriousness signal present), this defaults to Mild with SeverityIndeterminate=Y. Flagged explicitly for human-reviewer attention given the safety-sensitive nature of suicidal-ideation content, consistent with the instruction that understating harm is the cardinal error for this dataset. MeetsFDASerious coded N because no attempt/hospitalization/intervention was reported, though this is uncertain given the sparse detail (surfaced via qualitative coding, not structured safety assessment).",
+      "Brown 2019_AE03": "Article states, as a Discussion-section safety caveat: 'the New Zealand observational study that reported a death in treatment (Noller, Frampton, and Yazar-Klosinski 2018)'. This is cited from the companion paper rather than assessed directly by this article's own methods; it is unclear whether the death occurred among the n=14 NZ participants whose SCQ/BDI-II/qualitative data are analyzed here or a broader NZ cohort in that companion study. Graded Severe (CTCAE Grade 5 / FDA death criterion) regardless of this ambiguity. Onset coded 'unknown' because timing relative to dosing vs. the multi-day clinic stay is not specified. InterventionRequired coded '.' \u2014 not reported."
+    }
+  }
+}

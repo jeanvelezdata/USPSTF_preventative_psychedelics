@@ -1,0 +1,45 @@
+{
+  "data": {
+    "article": {
+      "StudyID": "Halpern 2005",
+      "Citation": "Halpern JH, Sherwood AR, Hudson JI, Yurgelun-Todd D, Pope HG Jr. Psychological and Cognitive Effects of Long-Term Peyote Use Among Native Americans. Biological Psychiatry. 2005.",
+      "Title": "Psychological and Cognitive Effects of Long-Term Peyote Use Among Native Americans",
+      "Year": 2005,
+      "Corpus/Prefix": ".",
+      "Condition": ".",
+      "Substance": "Peyote",
+      "IsObservational": "Y",
+      "N": 61,
+      "AE_denominator": 61,
+      "ArmScope": "psychedelic_arm",
+      "PctFemale": 75.4,
+      "GenderCategory": "male/female binary; 15/61 (25%) male, 46/61 (75%) female (Table 1)",
+      "PctBIPOC": 100,
+      "PctIndigenous": 100,
+      "SafetyReported": "Y",
+      "AnyAEReported": "N",
+      "NumDistinctAEs": 0,
+      "NParticipantsWithAE": 0,
+      "WorstSeverity": "None",
+      "text_source": "born-digital",
+      "Model": "claude-sonnet-5",
+      "PromptVersion": "ae_extraction_prompt_v1",
+      "RubricVersion": "severity_rubric_v1",
+      "Temperature": 1
+    },
+    "ae_events": []
+  },
+  "rationale": {
+    "article": {
+      "IsObservational": "Cross-sectional naturalistic comparison of three pre-existing Navajo groups (habitual NAC peyote users, former alcoholics, minimal-substance-use comparison group) recruited by history of use, not randomized or assigned to an experimental protocol. No researcher-administered dosing occurred; peyote/alcohol exposure was ongoing community/religious use observed as-is. Classified as observational (naturalistic cohort/cross-sectional).",
+      "Condition": "Coded '.' because this is not an AUD/smoking/opioid treatment study of the psychedelic-exposed (peyote) group. Peyote is used as a religious sacrament by NAC members, not as an intervention for alcohol/smoking/opioid use disorder; peyote-group participants were explicitly excluded if they met alcohol-dependence criteria. The former-alcoholic group is a separate, non-psychedelic-exposed comparison arm included to validate test-battery sensitivity, not to test peyote as an AUD treatment.",
+      "Substance": "Peyote (Lophophora williamsii), a mescaline-containing cactus, ingested as sacrament during NAC ceremonies; mescaline is the active hallucinogen.",
+      "N / ArmScope": "This corpus targets psychedelic-exposed populations; reported N, AE data, and demographics reflect the peyote (NAC) group only (n=61 completed/analyzed, per Table 1 and Figure 1 flowchart), not pooled with the non-exposed former-alcoholic or comparison groups. Hence ArmScope='psychedelic_arm'.",
+      "AE_denominator": "Set to 61, the analyzed peyote-group sample across which neuropsychological/psychological (RMHI) outcomes were assessed and found non-significant vs. comparison group. Note: HPPD ('flashback') screening specifically was conducted on a larger pre-exclusion pool of 80 peyote-group candidates (Methods: 'We specifically screened the 80 potential participants... in the peyote group for a history of hallucinogen persisting perception disorder... none reported this condition'), a broader denominator than the final analyzed N=61; flagged here for reviewer awareness.",
+      "PctFemale": "Table 1 reports 'Sex, Male: 15 (25%)' of n=61 in the peyote group. Female = 61-15=46, i.e., 46/61=75.4%.",
+      "PctBIPOC / PctIndigenous": "All peyote-group participants are Navajo Native Americans recruited via the Navajo Nation (Methods: 'we recruited three groups of Navajos aged 18-45'); no non-Native subgroup is reported, so both PctBIPOC and PctIndigenous = 100.",
+      "SafetyReported / AnyAEReported": "The study is not an acute-dosing AE-monitoring trial, but it explicitly assessed safety/residual-effect outcomes for the peyote group in two ways: (1) direct HPPD ('flashback') screening of 80 candidates, none positive; (2) RMHI and neuropsychological test battery, which found 'no significant deficits' and, if anything, significantly better scores than the comparison group on some measures, with no significant adverse associations with lifetime peyote-use dose. No adverse residual psychological, cognitive, or HPPD findings were reported for the peyote group anywhere in the article, so AnyAEReported='N', NumDistinctAEs=0, NParticipantsWithAE=0, WorstSeverity='None', with zero ae_events rows."
+    },
+    "ae_events": {}
+  }
+}

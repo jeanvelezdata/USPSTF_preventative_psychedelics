@@ -1,0 +1,14 @@
+{
+  "StudyID": "Armstrong 2024",
+  "prompt_file": "prompts/ae_extraction_prompt_v1.md",
+  "prompt_version": "ae_extraction_prompt_v1",
+  "rubric_version": "severity_rubric_v1",
+  "text_file": "inputs/text/Armstrong 2024.txt",
+  "text_source": "born-digital",
+  "citation": "Armstrong SB, Xin Y, Sepeda ND, Polanco M, Averill LA, Davis AK. Prospective associations of psychedelic treatment for co-occurring alcohol misuse and posttraumatic stress symptoms among United States Special Operations Forces Veterans. Military Psychology. 2024.",
+  "year": 2024,
+  "model": "claude-sonnet-5",
+  "temperature": 1,
+  "temperature_note": "Not directly configurable via Claude Code Task-tool subagent dispatch; platform default, not an experimentally-controlled 0.",
+  "dispatched_at": "2026-07-22T00:34:00Z"
+}

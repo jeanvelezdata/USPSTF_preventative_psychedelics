@@ -1,0 +1,1472 @@
+An online survey of tobacco smoking cessation associated with 
+naturalistic psychedelic use
+Matthew W. Johnson, PhD1, Albert Garcia-Romeu, PhD1, Patrick S. Johnson, PhD2, Roland 
+R. Griffiths, PhD1,3
+1Department of Psychiatry and Behavioral Sciences, Johns Hopkins University School of 
+Medicine, Baltimore, MD, USA.
+2Department of Psychology, California State University, Chico, CA.
+3Department of Neuroscience, Johns Hopkins University School of Medicine, Baltimore, MD, 
+USA.
+Abstract
+Data suggest psychedelics such as psilocybin and lysergic acid diethylamide (LSD) may hold 
+therapeutic potential in the treatment of addictions, including tobacco dependence. This 
+retrospective cross-sectional anonymous online survey characterized 358 individuals (52 females) 
+who reported having quit or reduced smoking after ingesting a psychedelic in a non-laboratory 
+setting ≥1 year ago. On average, participants smoked 14 cigarettes/day for 8 years, and had 5 
+previous quit attempts before their psychedelic experience. Of the 358 participants, 38% reported 
+continuous smoking cessation after psychedelic use (quitters). Among quitters, 74% reported >2 
+years abstinence. Of the 358 participants, 28% reported a persisting reduction in smoking 
+(reducers), from a mode of 300 cigarettes/month before, to a mode of 1 cigarette/month after the 
+experience. Among reducers, 62% reported >2 years of reduced smoking. Finally, 34% of the 358 
+participants (relapsers) reported temporary smoking reduction before returning to baseline 
+smoking levels, with a mode time range to relapse of 3–6 months. Relapsers rated their 
+psychedelic experience significantly lower in personal meaning and spiritual significance than 
+both other groups. Participants across all groups reported less severe affective withdrawal 
+symptoms (e.g. depression, craving) after psychedelic use compared with previous quit attempts, 
+suggesting a potential mechanism of action for psychedelic-associated smoking cessation/
+reduction. Changes in life priorities/values were endorsed as the most important psychological 
+factor associated with smoking cessation/reduction. Results suggest psychedelics may hold 
+promise in treating tobacco addiction as potentially mediated by spiritual experience, changed 
+priorities/values, and improved emotional regulation.
+Keywords
+hallucinogen; tobacco; smoking cessation; nicotine; addiction; psilocybin; psychedelic; mystical 
+experience
+Corresponding author: Matthew W. Johnson, 5510 Nathan Shock Drive, Baltimore, MD 21224-6823, USA, mwj@jhu.edu, Phone: 
+410-550-0056, Fax: 410-550-0030. 
+HHS Public Access
+Author manuscript
+J Psychopharmacol. Author manuscript; available in PMC 2019 September 20.
+Published in final edited form as:
+J Psychopharmacol. 2017 July ; 31(7): 841–850. doi:10.1177/0269881116684335.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+
+Introduction
+Converging evidence suggests that structured administration of serotonin 2A receptor (5-
+HT2AR) agonist hallucinogens (i.e. psychedelics) may be an effective aid in the treatment of 
+addiction (Bogenschutz et al., 2015; Garcia-Romeu et al., 2016; Johnson et al., 2014; Ross, 
+2012; Sessa and Johnson, 2015). Observational studies have reported addiction recovery 
+associated with the ceremonial use of 5-HT2AR agonists such as peyote and ayahuasca 
+among indigenous cultures and syncretic religions (Albaugh and Anderson, 1974; Bergman, 
+1971; Blum et al., 1977; Calabrese, 1997; de Rios et al., 2002; Garrity, 2000; Halpern, 1996; 
+Pascarosa and Futterman, 1976; Prue, 2013; Roy, 1973; Thomas et al., 2013). A meta-
+analysis of randomized clinical trials from the 1960s and 1970s also found that structured 
+administration of lysergic acid diethylamide (LSD) in the treatment of alcoholism resulted in 
+significantly less alcohol misuse than randomized control conditions at initial follow-up, 
+with a robust effect size (odds ratio: 1.96; Krebs and Johansen, 2012).
+Research with psilocybin in healthy volunteers also shows effects that may be consistent 
+with therapeutic potential for addiction treatment, including positive behavior change as 
+assessed by blinded community observers (Griffiths et al., 2006, 2011), increased 
+personality openness (MacLean et al., 2011), and high ratings of psychedelic session 
+personal meaning and spiritual significance present 14 months (Griffiths et al., 2008), and 25 
+years (Doblin, 1991; Pahnke, 1963) after psilocybin administration. Moreover, 
+neuroscientific studies have discovered biological effects of psychedelics, including 
+alterations in default mode network activation and changes in amygdala and anterior 
+cingulate cortex reactivity to negative cues (Carhart-Harris et al., 2012, 2016; Kraehenmann 
+et al., 2014; Palhano-Fontes et al., 2015; Petri et al., 2014; Preller et al., 2016), and it is 
+plausible that these may mediate acute and persisting beneficial effects of psychedelics.
+The authors recently conducted an open-label pilot-study suggesting that the 5-HT2AR 
+agonist psilocybin may be a safe and promising adjunct to cognitive-behavioral smoking 
+cessation treatment, with 80% of participants (N=15) demonstrating biologically verified 
+smoking abstinence at 6-month follow-up (Johnson et al., 2014). The lack of control 
+condition and open-label study design prohibit definitive conclusions about efficacy. 
+However, these success rates substantially exceed those for the most efficacious accepted 
+smoking cessation treatments (typically <35% abstinence rates at 6 months; Cahill et al., 
+2014; Mottillo et al., 2009).
+No reports in the scientific literature have described tobacco smoking cessation resulting 
+from non-clinical use of 5-HT2AR agonists, although anecdotal evidence suggests that such 
+accounts are not uncommon. Clinical psychologist Leo Zeff described how spontaneous 
+reflections about tobacco smoking during an LSD experience in the 1960s prompted his own 
+subsequent life-long smoking abstinence (Stolaroff, 2004). Similar reports attributing 
+smoking cessation to psilocybin or other psychedelic use have appeared on websites related 
+to psychoactive substances such as Erowid (http://www.erowid.org).
+These anecdotal reports of smoking cessation or reduction attributed to use of psychedelics 
+in non-treatment contexts complement clinical studies that suggest psychedelics have anti-
+Johnson et al.
+Page 2
+J Psychopharmacol. Author manuscript; available in PMC 2019 September 20.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+
+addiction effects. Therefore, to inform the clinical application of psychedelics in treating 
+addiction, the present survey study characterized reports of smoking cessation or reduction 
+attributed to psychedelic use among psychedelic users. The study examined factors 
+associated with longer durations of abstinence, sustained abstinence vs. relapse, and 
+cessation vs. reduction. We hypothesized that more personally meaningful and spiritually 
+significant experiences would be associated with greater smoking cessation success. Online 
+surveys have been used successfully in the past to identify trends in the natural ecology of 
+drug use that would have otherwise been unknown from clinical laboratory research 
+(McCambridge et al., 2005; Winstock et al., 2011, 2014). Although such a survey by itself 
+cannot directly address the potential causal role of psychedelics in smoking cessation, it can 
+complement laboratory research, for example, by identifying conditions for which 
+psychedelic use is associated with persisting tobacco smoking cessation.
+Method
+This anonymous (i.e. no name or IP address recorded) survey was conducted online via 
+SurveyMonkey (http://www.surveymonkey.com) from September 2013 to May 2014. 
+Recruitment advertisements which included a link to the survey were distributed via social 
+media (http://www.facebook.com, http://www.reddit.com), and on websites visited by 
+individuals interested in psychedelics, including Erowid, Shroomery (http://
+www.shroomery.org), and the Multidisciplinary Association for Psychedelic Studies website 
+(http://www.maps.org). Recruitment materials solicited individuals who had, “quit or 
+reduced smoking after a psychedelic experience.” The stated goal of the survey was “to learn 
+more information about whether psychedelic drugs are associated with reduction or 
+cessation of cigarette smoking… [and] to characterize people’s experiences in non-
+laboratory settings in which taking a psychedelic may have led to reducing or quitting 
+smoking.”
+The survey took approximately 40 minutes to complete. Only individuals who reported 
+quitting or reducing cigarette smoking, even temporarily, after the use of the following 5-
+HT2AR agonist psychedelics were included: psilocybin (“magic”) mushrooms, LSD, 
+morning glory seeds, mescaline, peyote cactus, San Pedro cactus, dimethyltryptamine 
+(DMT), and ayahuasca. Other inclusion criteria were that participants be at least 18 years of 
+age, and were able to speak, read, and write English fluently. Participants received no 
+compensation for their response. This study was approved by the Institutional Review Board 
+of the Johns Hopkins University School of Medicine, and all participants provided informed 
+consent by choosing to complete the survey after the presentation of introductory 
+information.
+Measures.
+The full survey is available online (Supporting Information). Demographic information, 
+current non-psychedelic drug use, and lifetime psychedelic use were collected. The survey 
+assessed participants’ previous smoking behavior, including number of cigarettes smoked 
+per day (CPD) before the psychedelic experience to which they attributed their subsequent 
+smoking cessation or reduction (hereafter referred to as “reference psychedelic experience”). 
+Johnson et al.
+Page 3
+J Psychopharmacol. Author manuscript; available in PMC 2019 September 20.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+
+Questions also assessed previous serious quit attempts (≥ 1 day) and associated withdrawal 
+symptoms. Participants indicated categorically whether they were totally abstinent from 
+smoking since their reference psychedelic experience, had a persisting reduction in their 
+smoking since the reference psychedelic experience, or had a temporary reduction in their 
+smoking after the reference psychedelic experience that later ended in relapse. Those who 
+endorsed a persisting reduction in smoking since the reference psychedelic experience were 
+asked to characterize their current smoking rate as falling into one of these four categories: ≤ 
+1 cig./month, ≤ 1 cig./week, ≤ 1 cig./day, or ≥ 1 cig./day.
+Participants provided detailed information regarding their reference psychedelic experience. 
+This included data on the drug used, the setting in which the experience took place, the 
+intention for taking the drug, and the incidence of any adverse effects, or other behavioral 
+changes attributed to this psychedelic experience. Participants were asked whether or not 
+they found their reference psychedelic experience to be personally meaningful and spiritual 
+or mystical in nature, and to retrospectively rate the personal meaning and spiritual 
+significance of their reference psychedelic experience. Participants were also asked to 
+endorse potential mechanisms of change attributed to their psychedelic-associated smoking 
+cessation or reduction. Additional measures described below were used to probe 
+relationships between constructs hypothesized to affect smoking cessation outcomes or the 
+nature of the reference psychedelic experience. A series of hypothetical decision-making 
+assessments were also conducted, which are not reported here.
+Fagerström Test for Cigarette Dependence (FTCD).—The FTCD is a 6-item 
+questionnaire widely used to characterize the level of dependence of cigarette smokers 
+(Heatherton et al., 1991; Fagerström, 2012). The FTCD was completed retrospectively, with 
+items referring to smoking behavior in the 6-month period prior to the reference psychedelic 
+experience (e.g. “In the 6 months prior to your psychedelic-occasioned smoking cessation or 
+reduction, how soon after waking up did you want to smoke your first cigarette?”).
+Questionnaire on Smoking Urges (QSU).—The QSU is a 32-item multidimensional 
+assessment of smoking craving with demonstrated sensitivity to smoking cessation (Tiffany 
+and Drobes, 1991). Participants were asked to complete the QSU twice, once retrospectively 
+using a modified version of the assessment (e.g. “In the 6 months prior to my psychedelic-
+occasioned smoking cessation or reduction, my desire to smoke would have seemed 
+overpowering at a time such as now”), and once using the standard questionnaire with items 
+in the present tense (e.g. “My desire to smoke seems overpowering”). Although the QSU has 
+not been psychometrically validated for retrospective use in this manner, our intention was 
+to examine QSU data for evidence of within-subjects changes in smoking craving following 
+an individual’s reference psychedelic experience.
+Toronto Alexithymia Scale (TAS-20).—The TAS-20 is a 20-item assessment of 
+alexithymia, a personality trait associated with difficulty identifying and describing one’s 
+internal emotional state (Bagby et al., 1994). Individuals scoring higher on the TAS-20 have 
+shown greater tobacco craving during a smoking cessation attempt (Sutherland et al., 2013). 
+Therefore, we hypothesized that individuals high in alexithymia may exhibit less success in 
+maintaining long-term abstinence.
+Johnson et al.
+Page 4
+J Psychopharmacol. Author manuscript; available in PMC 2019 September 20.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+
+Mystical Experience Questionnaire (MEQ30).—The MEQ30 is a 30-item measure 
+designed to assess the occurrence and intensity of mystical-type experiences occasioned by 
+5-HT2AR agonists (Barrett et al., 2015; MacLean et al., 2012). Previous research has found 
+associations between mystical-type effects of psilocybin and increased personality openness 
+in healthy volunteers (MacLean et al., 2011), as well as sustained smoking abstinence in 
+individuals undergoing psilocybin-facilitated smoking cessation treatment (Garcia-Romeu et 
+al., 2015). Thus we hypothesized that individuals who scored higher on the MEQ30 would 
+be more successful in maintaining long-term abstinence. The MEQ30 consists of four 
+dimensions: unity, noetic quality, and sacredness (Factor 1), positive mood (Factor 2), 
+transcendence of space/time (Factor 3), and ineffability (Factor 4). The MEQ30 was 
+completed with respect to the reference psychedelic experience.
+Tellegen Absorption Scale (TAS).—The TAS is a 34-item measure of absorption, a 
+personality trait linked to suggestibility and general predisposition to altered states of 
+consciousness (Glisky et al., 1991; Tellegen and Atkinson, 1974). Given that higher scores 
+on the TAS have been shown to predict pleasant and mystical-type experiences during 
+psilocybin administration in the laboratory (Studerus et al., 2012), we predicted that 
+participants scoring high on trait absorption would also score higher on the MEQ30 and 
+subsequently report greater rates of long-term smoking abstinence.
+Data Analysis.
+Participants were categorized into three groups according to smoking cessation outcome: 
+Quit (smoking abstinence since the reference psychedelic experience), Reduce (persisting 
+reduction in smoking since the reference psychedelic experience), and Relapse (temporary 
+reduction in smoking after the reference psychedelic experience, but ultimately resumed 
+smoking at baseline rate). Data from continuous and interval outcome measures (e.g. age, 
+FTCD score) were assessed for normality of distribution using D’Agostino-Pearson omnibus 
+tests (D’Agostino et al., 1990). For normally distributed data, one-way analysis of variance 
+(ANOVA) was performed to assess between-group differences. For non-normally distributed 
+data, Kruskal-Wallis tests by ranks were performed to assess between-group differences. 
+Chi-square analyses were used to test for differences between groups in categorical variables 
+(e.g. sex, intention to quit). Categories with few participants were combined with related 
+categories for chi-square analyses to ensure test validity (e.g., morning glory, mescaline, 
+peyote, San Pedro were classified as “other”). Post hoc pairwise comparisons using the 
+Tukey method for normally distributed data, or Dunn multiple comparison method for non-
+normally distributed data were used to examine ANOVAs and Kruskal-Wallis tests reaching 
+statistical significance. Finally, a Spearman rank correlation analysis was conducted to 
+assess the relationship between mystical experience as measured by the MEQ30, and trait 
+absorption as assessed by the TAS. This relationship was examined because previous 
+research indicated that individuals higher in trait absorption were more likely to have 
+mystical-type experiences when administered psilocybin in a laboratory setting (Studerus et 
+al., 2012). Due to the exploratory nature of these analyses, no corrections were made for 
+multiple comparisons. Statistical analyses were conducted using GraphPad Prism 6.05 for 
+Mac (GraphPad Software, Inc., La Jolla, CA).
+Johnson et al.
+Page 5
+J Psychopharmacol. Author manuscript; available in PMC 2019 September 20.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+
+Results
+Participant information.
+A total of 1273 individuals completed the survey. Among the 1273 individuals, individuals 
+were removed from data analysis for a variety of reasons. A group of 163 individuals were 
+removed because they reported smoking cessation or reduction following use of a non-
+serotonergic drug (e.g. ketamine). Another 329 individuals were removed because they 
+provided inconsistent data (e.g. endorsed total smoking abstinence since the experience, but 
+also indicated smoking in the 7 days prior to taking the survey). Another 423 individuals 
+whose reference psychedelic experience occurred less than 12 months before taking the 
+survey were removed in order for analyses to focus on long-term outcomes of psychedelic-
+associated smoking cessation and reduction. Thus, the final study sample consisted of 358 
+participants. Table 1 contains participant demographic and smoking-related information.
+The majority of participants (65.1%, n = 233) learned about the survey through 
+advertisements on www.erowid.org, with the remainder being referred via 
+www.shroomery.org (8.4%, n = 30), www.facebook.com (4.2%, n = 15), other unspecified 
+sources (19.0%, n = 68), and related websites (e.g., www.maps.org, n < 10). Participants 
+resided in 27 different countries, with most coming from the United States (69.6%, n = 249), 
+Canada (7.5%, n = 27), and the United Kingdom (7.0%, n = 25). Table 2 presents data on 
+lifetime psychedelic drug use. Psilocybin mushrooms (95.3%) and LSD (88.8%) were the 
+most commonly used psychedelics, with a mode of 2–5 lifetime uses (i.e. separate 
+occasions) among individuals who had used these substances.
+Smoking outcomes and group comparisons.
+Figure 1 shows duration of long-term abstinence or reduction in the Quit and Reduce 
+groups. One hundred thirty-seven participants (38.3%; Quit group) reported complete 
+smoking cessation after their reference psychedelic experience, with 102 of the 137 (74.5%) 
+reporting >2 years abstinence. One hundred participants (27.9%; Reduce group) reported a 
+persisting reduction in smoking, from a mode of 300 cigarettes/month before (n = 20), to a 
+mode of ≤ 1 cigarette/month after the experience (n = 44), with 62 of the 100 (62%) 
+reporting >2 years reduction in smoking. Among the Reduce group, 44 participants reported 
+current smoking ≤ 1 cig./month, 19 reported smoking ≤ 1 cig./week, 14 reported smoking ≤ 
+1 cig./day, and 23 reported smoking ≥ 1 cig./day. Finally, 121 individuals (33.8%; Relapse 
+group) reported temporary reduction in their smoking before returning to baseline smoking 
+levels, with a mode of 3–6 months to relapse (n = 21). Only 30 of the 358 respondents 
+(8.4%) reported going into their reference psychedelic experience with a premeditated 
+intention to quit or reduce smoking (Table 3).
+Demographic data are presented in Table 1. There were no significant between-group 
+differences in demographic variables including age, sex distribution, racial composition, 
+educational achievement, prevalence of self-reported psychiatric diagnoses, number of 
+previous quit attempts, years smoking, or retrospective cigarette dependence scores. 
+Kruskal-Wallis tests found significant between-groups differences in alexithymia scores (p = 
+0.006), cigarettes per day prior to the reference psychedelic experience (p = 0.03), 
+Johnson et al.
+Page 6
+J Psychopharmacol. Author manuscript; available in PMC 2019 September 20.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+
+confidence to abstain from smoking (p < 0.001), and current craving for tobacco (p < 0.001; 
+Table 3). Dunn’s multiple comparisons found that individuals in the Relapse group scored 
+significantly higher on alexithymia than those in the Quit group. Participants in the Relapse 
+group smoked significantly more cigarettes per day prior to the reference psychedelic 
+experience than those in the Reduce group (Table 1). Confidence to abstain from smoking 
+was significantly higher in the Quit than Reduce and Relapse groups. Additionally, current 
+tobacco craving scores on the QSU showed significant between-groups differences, with the 
+Relapse group reporting greater craving at the time of the survey than the Quit and Reduce 
+groups (Figure 2), and the Reduce group scoring significantly higher than the Quit group.
+No significant differences were observed with regard to lifetime hallucinogen use (between-
+groups data not shown). Furthermore, there were no significant between-group differences in 
+the substance associated with the reference psychedelic experience, intention for the 
+experience, or setting in which the experience took place (Table 3). However, there was a 
+significant between-groups difference in the age at which the reference psychedelic 
+experience occurred (p = 0.007). Dunn’s multiple comparisons found participants in the 
+Relapse group were significantly younger when their reference psychedelic experience 
+occurred than those in the Quit and Reduce groups, with a mean age of 22 at the time of the 
+reference psychedelic experience for those in the Relapse group as compared to a mean age 
+of 24.1 in the Quit group, and 23.7 in the Reduce group at the time of the reference 
+psychedelic experience. Additionally, chi-square analyses found significant between-groups 
+differences in duration of longest prior quit (χ2=34.9, p = 0.004), with 53% of longest 
+previous quit attempts lasting 2 weeks or less in the Quit group, compared to 37% in the 
+Reduce, and 28% in the Relapse group (data not shown).
+Withdrawal symptoms.
+Table 4 shows participant ratings of withdrawal symptoms after their psychedelic-associated 
+smoking cessation or reduction in comparison to previous quit attempts. The majority of 
+withdrawal symptoms (e.g. weight gain, headaches, insomnia) were rated as similar in 
+severity to previous quit attempts according to mode responses. Conversely, affective 
+features of withdrawal (i.e. restlessness, depression, irritability, craving) were largely rated 
+“much less severe” after the reference psychedelic experience in comparison to other quit 
+attempts. Individuals reporting greater severity of withdrawal symptoms after their reference 
+psychedelic experience compared to previous quit attempts were in the minority (n ≤ 16). 
+Chi-square analyses found no significant differences between groups in reported severity of 
+withdrawal symptoms (data not shown).
+Mechanisms of change, personal meaning, and spiritual significance.
+As shown in Table 5, participants endorsed “changing life priorities or values, such that 
+smoking was no longer more important than quitting” (88.5%, n = 317), “changing your 
+orientation toward the future, so that long-term benefits outweighed immediate desires” 
+(85.2%, n = 305), and “strengthening your belief in your own ability to quit” (79.1%, n = 
+283) as the most important potential mechanisms leading to quitting or reducing smoking 
+after their reference psychedelic experience.
+Johnson et al.
+Page 7
+J Psychopharmacol. Author manuscript; available in PMC 2019 September 20.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+
+In total, 336 (93.9%) participants characterized their reference psychedelic experience as 
+personally meaningful with 218 (60.1% of entire study sample) considering it among the 10 
+most personally meaningful experiences of their lives. Additionally, 281 (78.5%) 
+characterized their psychedelic experience as spiritual or mystical in nature (i.e. “a moment 
+of sudden spiritual awakening or insight”), with 161 (45.0% of the entire sample) rating it 
+among the 5 most spiritually significant experiences of their lives (data not shown).
+Significant between-groups differences were found in ratings of personal meaning (p = 0.03) 
+and spiritual significance (p = 0.004) of the reference psychedelic experience (Table 3). 
+Participants in the Relapse group rated the reference psychedelic experience as significantly 
+less personally meaningful than those in the Quit group. Individuals in the Relapse group 
+additionally rated their reference psychedelic experience as less spiritually significant than 
+those in both the Quit and Reduce groups. Among the Relapse group 33.9% (n = 41) rated 
+their reference psychedelic experience among the 5 most spiritually significant of their lives 
+as compared to 50% (n = 50) in the Reduce, and 51.1% (n = 70) in the Quit group. No 
+significant differences were observed between groups on Mystical Experience Questionnaire 
+(MEQ30) scores, although a near-significant effect was found for the MEQ30 (p = 0.06), 
+with the Relapse group scoring the lowest. No significant differences were observed 
+between groups on self-reported intentions for the reference psychedelic experience (Table 
+3). A significant positive correlation was found between MEQ30 and Tellegen Absorption 
+Scale scores (r = 0.44, p < 0.001; Figure 3).
+Other outcomes attributed to reference psychedelic experience.
+In addition to tobacco smoking cessation or reduction, some participants also reported 
+reductions in use of alcohol (42.5%, n = 152), and other drugs (27.9%, n = 100) attributed to 
+the reference psychedelic experience, with no significant between-group differences (Table 
+3). The majority of participants (78.5%, n = 281) reported no negative effects from their 
+reference psychedelic experience, some responded that they were unsure whether the 
+experience had any negative effects (9.5%, n = 34), and others did report negative effects of 
+their experience (12.0%, n = 43). Negative effects were typically described as acute anxiety 
+or dysphoria, as well as feelings of physical discomfort such as gastrointestinal distress 
+during drug effects. Prevalence of negative effects did not differ significantly between 
+groups.
+Discussion
+This online survey study provides detailed information on a sample of 358 individuals who 
+reported smoking cessation or reduction after using a serotonergic psychedelic in a non-
+laboratory setting ≥1 year ago. Individual smoking outcomes varied, including total smoking 
+abstinence after the reference psychedelic experience (Quit group), persisting reductions in 
+previous smoking rate (Reduce group), and reductions in regular daily smoking ultimately 
+culminating in relapse to baseline smoking levels (Relapse group). Participants were 
+predominantly young White males who reported using a psychedelic recreationally or for 
+the purposes of psychological exploration, with no premeditated intention to decrease their 
+smoking. However, participants claimed that they experienced a subsequent cessation or 
+Johnson et al.
+Page 8
+J Psychopharmacol. Author manuscript; available in PMC 2019 September 20.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+
+reduction in their smoking that they attributed in part to their reference psychedelic 
+experience. These findings are consistent with laboratory data finding that controlled 
+administration of 5-HT2AR agonists may hold therapeutic potential in treating tobacco and 
+other substance use disorders (Bogenschutz et al., 2015; Johnson et al., 2014; Krebs and 
+Johansen, 2012), as well as anthropological reports suggesting that structured (i.e. religious) 
+psychedelic use may confer benefits against addiction (Albaugh and Anderson, 1974; 
+Bergman, 1971; Blum et al., 1977; Calabrese, 1997; de Rios et al., 2002; Garrity, 2000; 
+Halpern, 1996; Pascarosa and Futterman, 1976; Prue, 2013; Roy, 1973). It should be noted 
+though that volunteers who underwent psilocybin-facilitated smoking cessation treatment in 
+a prior laboratory study were purposefully attempting to quit smoking (Johnson et al., 2014), 
+while participants in this survey were largely not intending to reduce their smoking. If 
+psychedelics are capable of prompting smoking cessation or reduction in those not seeking 
+to reduce smoking, potential efficacy may be even more likely in those who are treatment 
+seeking and under therapeutic supervision.
+Several group differences highlight potentially relevant clinical factors regarding smoking 
+cessation and relapse. Ratings of personal meaning and spiritual significance of the 
+reference psychedelic experience differed statistically between groups, with individuals who 
+maintained long-term smoking abstinence rating their reference psychedelic experience as 
+more personally meaningful and spiritually significant than those who relapsed to smoking, 
+and those who reported persisting smoking reductions rating their reference psychedelic 
+experience more spiritually significant than those who relapsed. Thus, these results support 
+prior laboratory research demonstrating psychedelics’ potential to occasion highly 
+meaningful and spiritually significant experiences (Griffiths et al., 2006, 2008, 2011; 
+MacLean et al, 2011), and suggest a mediating role for spiritual experience in promoting 
+long-term smoking abstinence (Garcia-Romeu et al., 2015).
+Moreover, participants in the Relapse group reported smoking more cigarettes per day on 
+average prior to the reference psychedelic experience than those in the Quit group. 
+Therefore, it is possible that the greater rate of smoking and the younger age at which the 
+reference psychedelic experience occurred in the Relapse group may account for their failure 
+to maintain abstinence/reduction, rather than variance in alexithymia or personal meaning 
+and spiritual significance of the psychedelic experience.
+Groups did not differ significantly with respect to demographics (aside from differences in 
+cigarettes smoked per day discussed above), the psychedelic used, setting, or intention for 
+use during the reference psychedelic experience. Although negative effects were reported at 
+similar rates across groups, these were typically confined to the period of acute drug effects, 
+and were predominantly described as either psychological (i.e. dysphoria, anxiety), or 
+physical discomfort (e.g. stomachache, headache). Adverse effects of psychedelics are 
+relatively well documented, and represent risks to the user, especially in uncontrolled 
+settings (Johnson et al, 2012; Ungerleider et al., 1968). Furthermore, illegal drugs acquired 
+on the black-market are rarely verified with regard to substance, purity, and dose, 
+representing an additional serious risk factor (Burrai et al., 2014). Thus, we do not 
+encourage psychedelic use outside of medical or research settings that can provide the 
+appropriate screening, structure, and supervision to ensure safety (Johnson et al., 2008). The 
+Johnson et al.
+Page 9
+J Psychopharmacol. Author manuscript; available in PMC 2019 September 20.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+
+majority of participants reported 10 or fewer lifetime uses of the psychedelics examined 
+(Table 2), consistent with the low addictive potential of this drug class (Johnson et al., 2008).
+Regarding potential mechanisms of action, decreased affective withdrawal symptoms after 
+psychedelic-associated compared to other, non-psychedelic-associated quit attempts suggest 
+an important role for psychedelics in attenuating low mood and craving, which are known to 
+precipitate relapse (Piper, 2015). Such effects may be related to psychedelics’ serotonergic 
+mechanism of action at the 5-HT2A and possibly 5-HT1A receptors (Bogenshutz and 
+Pommy, 2012; Kraehenmann et al., 2014; Preller et al., 2016; Ross, 2012; Vollenweider and 
+Kometer, 2010).
+Participants also reported other behavioral changes as a result of their psychedelic session, 
+with individuals across all three groups reporting reduction or cessation of alcohol (≥41%) 
+or other drug use (≥25%) after their reference psychedelic experience (Table 3). These data 
+support the hypothesis that psychedelic experiences may result in behaviorally plastic states 
+in which habitual or addictive behaviors can be re-evaluated. These findings suggest that 
+psychedelics may provide benefits against a range of substance use disorders, rather than 
+being specific to tobacco per se.
+The insights and processes that appear to be prompted by psychedelics, and which may lead 
+to smoking cessation or reduction, may not be unique to psychedelics. For example, 
+abstinence from tobacco and other drugs is sometimes prompted by naturalistic spiritual or 
+insightful experiences (Miller, 2004; Miller & C’de Baca, 2001). Also, survey data indicate 
+that smokers generally consider spirituality to be relevant to smoking cessation (Gonzales et 
+al., 2007). It is our hypothesis that administration of psychedelics under structured 
+conditions may strongly increase the likelihood of motivational insights leading to persisting 
+behavior change such as smoking cessation. Further, we propose that while these 
+motivational insights from psychedelics occur and sometimes prompt people to quit smoking 
+in recreational or non-clinical contexts, such effects are likely to lead to substantially higher 
+probability of persisting behavior change (abstinence) when smoking cessation is the a priori 
+goal of the psychedelic experience, and when combined with effective behavioral therapy 
+(Garcia-Romeu et al., 2015; Johnson et al., 2014).
+The results presented here are limited due to participant self-selection, and the retrospective 
+nature of the data, which are subject to recall bias. No definitive conclusions can be drawn 
+about the role of psychedelics in smoking cessation or reduction as data were collected via 
+online survey, and cannot be verified. Additionally, information on the identity and dosage 
+of the psychedelics used by participants cannot be confirmed due to limitations of the online 
+study format.
+Although efforts were made to allow only one response per computer per web browser, and 
+to exclude inconsistent and nonsensical responses, it cannot be confirmed whether some 
+individuals responded more than once, though we judge it unlikely due to the length of the 
+survey. The current study design cannot address absolute prevalence or efficacy of 
+psychedelic-associated smoking cessation or reduction, as negative cases were not taken into 
+account (i.e. when psychedelic use did not affect, or exacerbated smoking). An additional 
+Johnson et al.
+Page 10
+J Psychopharmacol. Author manuscript; available in PMC 2019 September 20.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+
+design limitation was the omission of an item probing average cigarettes per day intake after 
+the reference psychedelic experience, which made it impossible to quantify the magnitude of 
+daily smoking reduction among the Reduce group. The possibility of Type I error should be 
+noted, as alpha was not adjusted for multiple comparisons given the exploratory nature of 
+the study aims. Moreover, most participants were White, college-educated males, consistent 
+with epidemiological data on global psychedelic use (Winstock et al., 2014), raising the 
+possibility that results may not generalize to other groups. Despite these limitations, our 
+findings, in combination with pilot laboratory results (Garcia-Romeu et al., 2015; Johnson et 
+al., 2014), suggest that psilocybin and other serotonergic psychedelics may hold 
+considerable potential in the treatment of tobacco, and possibly other substance use 
+disorders, and should therefore continue to be examined as a pharmacological aid in the 
+treatment of addiction.
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+Acknowledgements
+Grant Glatfelter, BS, Toni White, BA, and Jefferson Mattingly assisted in data collection. Dr. Frederick S. Barrett 
+provided valuable comments on the manuscript. Earth Erowid and Fire Erowid at www.Erowid.org provided key 
+recruitment support for this project.
+Funding/Support: The Beckley Foundation provided initial funding for this research, with continued funding 
+provided by Heffter Research Institute. Support for Dr. Garcia-Romeu and Dr. Patrick Johnson was provided by 
+National Institute on Drug Abuse Grant T32DA07209. Support for Dr. Griffiths was provided in part by NIDA 
+Grant R01DA003889.
+Financial Disclosure: Dr. Griffiths is on the board of directors of the Heffter Research Institute, Santa Fe, NM, 
+USA.
+References:
+Albaugh BJ and Anderson PO (1974). Peyote in the treatment of alcoholism among American Indians. 
+American Journal of Psychiatry, 131(11), 1247–1250. [PubMed: 4424469] 
+Bagby RM, Parker JD, and Taylor GJ (1994). The 20-item Toronto Alexithymia Scale: 1. Item 
+selection and cross-validation of the factor structure. Journal of Psychosomatic Research, 38(1), 23–
+32. [PubMed: 8126686] 
+Barrett FS, Johnson MW, and Griffiths RR (2015). Validation of the revised Mystical Experience 
+Questionnaire in experimental sessions with psilocybin. Journal of Psychopharmacology, 29(11), 
+1182–1190. [PubMed: 26442957] 
+Bergman RL (1971). Navajo peyote use: Its apparent safety. American Journal of Psychiatry, 128(6), 
+695–699. [PubMed: 5147724] 
+Blum K, Futterman SFL, and Pascarosa P (1977). Peyote, a potential ethnopharmacologic agent for 
+alcoholism and other drug dependencies: Possible biochemical rationale. Clinical Toxicology, 11(4), 
+459–472. [PubMed: 201426] 
+Bogenschutz MP, Forcehimes AA, Pommy JA, Wilcox CE, Barbosa PCR, and Strassman RJ (2015). 
+Psilocybin-assisted treatment for alcohol dependence: A proof-of-concept study. Journal of 
+Psychopharmacology, 29(3), 289–299. [PubMed: 25586396] 
+Bogenschutz MP, and Pommy JM (2012). Therapeutic mechanisms of classic hallucinogens in the 
+treatment of addictions: From indirect evidence to testable hypotheses. Drug testing and analysis, 
+4(7–8), 543–555. [PubMed: 22761106] 
+Johnson et al.
+Page 11
+J Psychopharmacol. Author manuscript; available in PMC 2019 September 20.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+
+Burdick BV and Adinoff B (2013). A proposal to evaluate mechanistic efficacy of hallucinogens in 
+addiction treatment. The American Journal of Drug and Alcohol Abuse, 39(5), 291–297. [PubMed: 
+23968172] 
+Burrai L, Nieddu M, Palomba M, Pirisi MA (2014). Identification and quantitation of 4-bromo-2, 5-
+dimethoxyamphetamine in seized blotters. Legal Medicine, 17(1), 56–59. [PubMed: 25248801] 
+Cahill K, Stevens S, and Lancaster T (2014). Pharmacological Treatments for Smoking Cessation. 
+JAMA, 311(2), 193–194. [PubMed: 24399558] 
+Calabrese J (1997). Spiritual healing and human development in the Native American Church: Toward 
+a cultural psychiatry of peyote. Psychoanalytic Review, 84(2), 237–255. [PubMed: 9211587] 
+Carhart-Harris RL, Erritzoe D, Williams T, Stone JM, Reed LJ, Colasanti A, ... and Hobden P (2012). 
+Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin. 
+Proceedings of the National Academy of Sciences, 109(6), 2138–2143.
+Carhart-Harris RL, Muthukumaraswamy S, Roseman L, Kaelen M, Droog W, Murphy K, ... and Leech 
+R (2016). Neural correlates of the LSD experience revealed by multimodal neuroimaging. 
+Proceedings of the National Academy of Sciences, 201518377.
+D’Agostino RB, Belanger A, and D’Agostino RB Jr (1990). A suggestion for using powerful and 
+informative tests of normality. The American Statistician, 44(4), 316–321.
+de Rios MD, Grob CS, and Baker JR (2002). Hallucinogens and redemption. Journal of Psychoactive 
+Drugs, 34(3), 239–248. [PubMed: 12422934] 
+Doblin R (1991). Pahnke’s Good Friday experiment: a long-term follow-up and methodological 
+critique. The Journal of Transpersonal Psychology, 23(1), 1–28.
+Fagerström K (2012). Determinants of tobacco use and renaming the FTND to the Fagerström Test for 
+Cigarette Dependence. Nicotine & Tobacco Research, 14(1), 75–78. [PubMed: 22025545] 
+Garcia-Romeu A, Griffiths RR, and Johnson MW (2015). Psilocybin-occasioned mystical experiences 
+in the treatment of tobacco addiction. Current Drug Abuse Reviews, 7(3), 157–164.
+Garcia-Romeu A, Kersgaard B and Addy PH (2016). Clinical applications of hallucinogens: A review. 
+Experimental and Clinical Psychopharmacology, 24(4), 229–268. [PubMed: 27454674] 
+Garrity JF (2000). Jesus, peyote, and the holy people: Alcohol abuse and the ethos of power in Navajo 
+healing. Medical Anthropology Quarterly, 14, 521–542. [PubMed: 11224979] 
+Glisky ML, Tataryn DJ, Tobias BA, Kihlstrom JF, and McConkey KM (1991). Absorption, openness to 
+experience, and hypnotizability. Journal of Personality and Social Psychology, 60(2), 263–272. 
+[PubMed: 2016669] 
+Gonzales D, Redtomahawk D, Pizacani B, Bjornson WG, Spradley J, Allen E, & Lees P (2007). 
+Support for spirituality in smoking cessation: results of pilot survey. Nicotine & Tobacco 
+Research, 9(2), 299–303. [PubMed: 17365761] 
+Griffiths RR, Johnson MW, Richards WA, Richards BD, McCann U, and Jesse R (2011). Psilocybin 
+occasioned mystical-type experiences: immediate and persisting dose-related effects. 
+Psychopharmacology (Berl), 218(4), 649–665. [PubMed: 21674151] 
+Griffiths RR, Richards WA, Johnson MW, McCann U, and Jesse R (2008). Mystical-type experiences 
+occasioned by psilocybin mediate the attribution of personal meaning and spiritual significance 14 
+months later. Journal of Psychopharmacology, 22(6), 621–632. [PubMed: 18593735] 
+Griffiths RR, Richards WA, McCann U, and Jesse R (2006). Psilocybin can occasion mystical-type 
+experiences having substantial and sustained personal meaning and spiritual significance. 
+Psychopharmacology (Berl),187(3): 268–283. [PubMed: 16826400] 
+Halpern JH (1996). The use of hallucinogens in the treatment of addiction. Addiction Research, 4(2), 
+177–189.
+Heatherton TF, Kozlowski LT, Frecker RC, and Fagerström K (1991). The Fagerström Test for 
+Nicotine Dependence: a revision of the Fagerström Tolerance Questionnaire. British Journal of 
+Addiction, 86(9), 1119–1127. [PubMed: 1932883] 
+Hollister LE, Shelton J, and Krieger G (1969). A controlled comparison of lysergic acid diethylamide 
+(LSD) and dextroamphetamine in alcoholics. American Journal of Psychiatry, 125(10), 1352–7. 
+[PubMed: 4886242] 
+Johnson et al.
+Page 12
+J Psychopharmacol. Author manuscript; available in PMC 2019 September 20.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+
+Johnson MW, Garcia-Romeu A, Cosimano MP, and Griffiths RR (2014). Pilot study of the 5-HT2AR 
+agonist psilocybin in the treatment of tobacco addiction. Journal of Psychopharmacology, 28(1), 
+983–992. [PubMed: 25213996] 
+Johnson MW, Richards WA, and Griffiths RR (2008). Human hallucinogen research: Guidelines for 
+safety. Journal of Psychopharmacology, 22(6), 603–620. [PubMed: 18593734] 
+Johnson MW, Sewell RA, and Griffiths RR (2012). Psilocybin dose-dependently causes delayed, 
+transient headaches in healthy volunteers. Drug and Alcohol Dependence, 123(1), 132–140. 
+[PubMed: 22129843] 
+Kraehenmann R, Preller KH, Scheidegger M, Pokorny T, Bosch OG, Seifritz E, and Vollenweider FX 
+(2014). Psilocybin-induced decrease in amygdala reactivity correlates with enhanced positive 
+mood in healthy volunteers. Biological Psychiatry, 78(8), 572–581. [PubMed: 24882567] 
+Krebs TS and Johansen PØ (2012). Lysergic acid diethylamide (LSD) for alcoholism: meta-analysis of 
+randomized controlled trials. Journal of Psychopharmacology, 26(7), 994–1002. [PubMed: 
+22406913] 
+Ludwig A, Levine J, Stark L, and Lazar R (1969). A clinical study of LSD treatment in alcoholism. 
+American Journal of Psychiatry, 126(1): 59–69. [PubMed: 5798383] 
+MacLean KA, Johnson MW, and Griffiths RR (2011). Mystical experiences occasioned by the 
+hallucinogen psilocybin lead to increases in the personality domain of openness. Journal of 
+Psychopharmacology (Berl), 25(11), 1453–1461. [PubMed: 21956378] 
+MacLean KA, Leoutsakos JMS, Johnson MW, and Griffiths RR (2012). Factor analysis of the mystical 
+experience questionnaire: A study of experiences occasioned by the hallucinogen psilocybin. 
+Journal for the scientific study of religion, 51(4), 721–737. [PubMed: 23316089] 
+Mangini M (1998). Treatment of alcoholism using psychedelic drugs: a review of the program of 
+research. Journal of Psychoactive Drugs, 30(4), 381–418. [PubMed: 9924844] 
+McCambridge J, Mitcheson L, Winstock AR, and Hunt N (2005). Five-year trends in patterns of drug 
+use among people who use stimulants in dance contexts in the United Kingdom. Addiction, 100, 
+1140–49. [PubMed: 16042644] 
+Miller WR (2004). The phenomenon of quantum change. Journal of clinical psychology, 60(5), 453–
+460. [PubMed: 15048692] 
+Miller WR C’de Baca J (2001). Quantum Change When Epiphanies and Sudden Insights Transform 
+Ordinary Lives. The Guilford Press, New York, NY.
+Mottillo S, Filion KB, Bélisle P, Joseph L, Gervais A, O’Loughlin J, ... and Tremblay M (2009). 
+Behavioural interventions for smoking cessation: a meta-analysis of randomized controlled trials. 
+European heart journal, 30(6), 718–730. [PubMed: 19109354] 
+Pahnke W (1963). Drugs and mysticism: An analysis of the relationship between psychedelic drugs 
+and the mystical consciousness [Unpublished doctoral dissertation]. Harvard University: Boston, 
+MA.
+Palhano-Fontes F, Andrade KC, Tofoli LF, Santos AC, Crippa JAS, Hallak JE, ... and de Araujo DB 
+(2015). The psychedelic state induced by ayahuasca modulates the activity and connectivity of the 
+default mode network. Plos one, 10(2), e0118143.
+Pascarosa P and Futterman S (1976). Ethnopsychedelic therapy for alcoholics: Observations in the 
+peyote ritual of the Native American Church. Journal of Psychoactive Drugs, 8(3), 215–221.
+Petri G, Expert P, Turkheimer F, Carhart-Harris R, Nutt D, Hellyer PJ, and Vaccarino F (2014). 
+Homological scaffolds of brain functional networks. Journal of The Royal Society Interface, 
+11(101), 20140873.
+Piper ME (2015). Withdrawal: expanding a key addiction construct. Nicotine & Tobacco Research, 
+17(12), 1405–1415. [PubMed: 25744958] 
+Preller KH, Pokorny T, Hock A, Kraehenmann R, Stämpfli P, Seifritz E, ... and Vollenweider FX 
+(2016). Effects of serotonin 2A/1A receptor stimulation on social exclusion processing. Proc Natl 
+Acad Sci USA 113: 5119–5124 [PubMed: 27091970] 
+Prue B (2013). Indigenous supports for recovery from alcoholism and drug abuse: The Native 
+American Church. Journal of Ethnic And Cultural Diversity in Social Work, 22(3–4), 271–287.
+Ross S (2012). Serotonergic hallucinogens and emerging targets for addiction pharmacotherapies. 
+Psychiatric Clinics of North America, 35(2), 357–374. [PubMed: 22640760] 
+Johnson et al.
+Page 13
+J Psychopharmacol. Author manuscript; available in PMC 2019 September 20.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+
+Roy C (1973). Indian Peyotists and Alcohol. American Journal of Psychiatry, 130(10), 329–330.
+Sessa B, and Johnson MW (2015). Can psychedelic compounds play a part in drug dependence 
+therapy?. The British Journal of Psychiatry, 206(1), 1–3. [PubMed: 25561484] 
+Smart RG, Storm T, Baker EFW, Solursh L (1966). A controlled study of lysergide in the treatment of 
+alcoholism: The effects on drinking behavior. Quarterly Journal of Studies on Alcohol, 27(3): 469–
+482. [PubMed: 5970697] 
+Stolaroff M (2004). The Secret Chief Revealed: Conversations with Leo Zeff, Pioneer in the 
+Underground Psychedelic Therapy Movement. Sarasota, FL: Multidisciplinary Association for 
+Psychedelic Studies.
+Studerus E, Gamma A, Kometer M, and Vollenweider FX (2012). Prediction of psilocybin response in 
+healthy volunteers. PLoS One, 7(2): e30800.
+Sutherland MT, Carroll AJ, Salmeron BJ, Ross TJ, and Stein EA (2013). Insula’s functional 
+connectivity with ventromedial prefrontal cortex mediates the impact of trait alexithymia on state 
+tobacco craving. Psychopharmacology (Berl), 228(1), 143–155. [PubMed: 23455594] 
+Tellegen A and Atkinson G (1974). Openness to absorbing and self-altering experiences 
+(“absorption”), a trait related to hypnotic susceptibility. Journal of Abnormal Psychology, 83(3), 
+268–277. [PubMed: 4844914] 
+Thomas G, Lucas P, Capler NR, Tupper KW and Martin G (2013). Ayahuasca-assisted therapy for 
+addiction: Results from a preliminary observational study in Canada. Current Drug Abuse 
+Reviews, 6(1), 30–42. [PubMed: 23627784] 
+Tiffany ST and Drobes DJ (1991). The development and initial validation of a questionnaire on 
+smoking urges. British Journal of Addiction, 86(11), 1467–1476. [PubMed: 1777741] 
+Ungerleider JT, Fisher DD, Fuller M, and Caldwell A (1968). The ‘bad trip’: The etiology of the 
+adverse LSD reaction. American Journal of Psychiatry, 124(11), 1483–1490 [PubMed: 4384739] 
+Vollenweider FX and Kometer M (2010). The neurobiology of psychedelic drugs: Implications for the 
+treatment of mood disorders. Nature Reviews Neuroscience, 11(9), 642–651. [PubMed: 20717121] 
+Winstock AR, Kaar S, and Borschmann R (2014). Dimethyltryptamine (DMT): Prevalence, user 
+characteristics and abuse liability in a large global sample. Journal of Psychopharmacology, 28(1), 
+49–54. [PubMed: 24284475] 
+Winstock AR, Mitcheson LR, Deluca P, Davey Z, Corazza O, and Schifano F (2011). Mephedrone, 
+new kid for the chop? Addiction, 106(1), 154–161. [PubMed: 20735367] 
+Johnson et al.
+Page 14
+J Psychopharmacol. Author manuscript; available in PMC 2019 September 20.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+
+Figure 1. 
+Distribution of participants reporting persisting smoking reduction (Reduce group) by 
+duration of reduction is shown on the left. Distribution of participants reporting ongoing 
+smoking abstinence (Quit group) by duration of abstinence is shown on the right.
+Johnson et al.
+Page 15
+J Psychopharmacol. Author manuscript; available in PMC 2019 September 20.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+
+Figure 2. 
+Group differences in smoking craving as assessed by the Questionnaire on Smoking Urges 
+(QSU) from pre- to post-reference psychedelic experience. Retrospective ratings showed no 
+significant differences among the groups. Current ratings showed significant difference 
+among all three of the groups (p < 0.001).
+Johnson et al.
+Page 16
+J Psychopharmacol. Author manuscript; available in PMC 2019 September 20.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+
+Figure 3. 
+Relationship between Mystical Experience Questionnaire (MEQ30) and Tellegen 
+Absorption Scale scores. Data points show data from each of the 358 individual participants 
+with best-fit linear regression.
+Johnson et al.
+Page 17
+J Psychopharmacol. Author manuscript; available in PMC 2019 September 20.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Johnson et al.
+Page 18
+Table 1.
+Participant demographic and smoking-related information.
+Whole sample
+(N = 358)
+Quit group
+(n = 137)
+Reduce group
+(n = 100)
+Relapse group
+(n = 121)
+Sex:
+n (%)
+n (%)
+n (%)
+n (%)
+Test statistic
+P
+ Male
+306 (85.5)
+115 (83.9)
+89 (89.0)
+102 (84.3)
+χ2=1.40
+0.50
+ Female
+52 (14.5)
+22 (16.1)
+11 (11.0)
+19 (15.7)
+Race:
+n (%)
+n (%)
+n (%)
+n (%)
+ White
+307 (85.8)
+116 (84.7)
+82 (82.0)
+109 (90.1)
+χ2=4.68
+0.32
+ American Indian / Alaska Native
+6 (1.7)
+4 (2.9)
+1 (1.0)
+1 (0.8)
+ Asian
+6 (1.7)
+3 (2.2)
+2 (2.0)
+1 (0.8)
+ Mixed
+26 (7.3)
+9 (6.6)
+11 (11.0)
+6 (5.0)
+ Other
+13 (3.7)
+5 (3.6)
+4 (4.0)
+4 (3.3)
+Education:
+n (%)
+n (%)
+n (%)
+n (%)
+ Some high school or less
+14 (3.9)
+4 (2.9)
+4 (4.0)
+6 (5.0)
+χ2=6.41
+0.78
+ High school or equivalent
+40 (11.2)
+14 (10.2)
+10 (10.0)
+16 (13.2)
+ Some college
+153 (42.7)
+60 (43.8)
+41 (41.0)
+52 (43.0)
+ College degree
+73 (20.4)
+27 (19.7)
+22 (22.0)
+24 (19.8)
+ Some grad./professional school
+34 (9.5)
+12 (8.8)
+14 (14.0)
+8 (6.6)
+ Graduate/professional degree
+44 (12.3)
+20 (14.6)
+9 (9.0)
+15 (12.4)
+Mean (SD)
+Mean (SD)
+Mean (SD)
+Mean (SD)
+Test statistic
+P
+Age (years)
+31.1 (11.2)
+31.2 (10.9)
+30.2 (10.5)
+31.7 (12.0)
+H=0.55
+0.76
+Age started smoking
+15.6 (3.2)
+15.5 (3.4)
+15.4 (2.9)
+15.8 (3.3)
+H=0.38
+0.83
+Years smoking
+7.7 (7.1)
+8.2 (7.9)
+7.2 (5.8)
+7.7 (7.0)
+H=0.15
+0.93
+Cigs./day before psychedelic exp.
+14.0 (9.6)
+13.9 (10.1) a,b
+12.8 (9.1) a
+15.2 (9.3) b
+H=7.21
+0.03
+Previous quit attempts
+4.9 (5.3)
+4.3 (4.6)
+5.2 (5.5)
+5.3 (5.7)
+H=1.62
+0.45
+FTCD (smoking dependence)
+3.7 (2.4)
+3.7 (2.4)
+3.3 (2.5)
+4.0 (2.4)
+H=4.72
+0.09
+QSU (craving) pre-quit/reduction
+111.6 (26.1)
+109.3 (27.6)
+114.2 (24.6)
+111.9 (25.4)
+F=1.05
+0.35
+QSU (craving) post-quit/reduction
+87.5 (37.3)
+61.7 (17.4)a
+87.5 (31.5)b
+116.8 (36.8)c
+H=149
+<0.001
+J Psychopharmacol. Author manuscript; available in PMC 2019 September 20.
+
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Johnson et al.
+Page 19
+Note: Between-groups chi-square analyses are shown for sex, race, and education. For all other categories, between-groups one-way ANOVA analyses or Kruskal-Wallis tests are shown. For all analyses, 
+significant p values (p < 0.05) are shown in bold. For variables with significant main effects, group values not sharing a common letter are significantly different based on Tukey-corrected pairwise 
+comparison or Dunn’s multiple comparisons. FTCD = Fagerström Test for Cigarette Dependence. QSU = Questionnaire on Smoking Urges.
+J Psychopharmacol. Author manuscript; available in PMC 2019 September 20.
+
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Johnson et al.
+Page 20
+Table 2.
+Participants’ self-reported total number of lifetime uses of serotonergic psychedelics (N = 358).
+Lifetime use
+Psilocybin 
+mushrooms, n (%)
+LSD, n (%)
+morning glory 
+seeds, n (%)
+mescaline (pc), n 
+(%)
+peyote cactus, n 
+(%)
+San Pedro 
+cactus, n (%)
+DMT (pc), n 
+(%)
+Ayahuasca, n (%)
+Never
+17 (4.7)
+40 (11.2)
+217 (60.6)
+288 (80.4)
+307 (85.8)
+285 (79.6)
+210 (58.7)
+295 (82.4)
+1 occasion
+25 (7.0)
+23 (6.4)
+61 (17.0)
+34 (9.5)
+23 (6.4)
+26 (7.3)
+38 (10.6)
+29 (8.1)
+2 5 separate occasions
+87 (24.3)
+83 (23.2)
+57 (15.9)
+19 (5.3)
+20 (5.6)
+29 (8.1)
+47 (13.1)
+17 (4.7)
+6 – 10 separate occasions
+66 (18.4)
+51 (14.2)
+11 (3.1)
+4 (1.1)
+1 (0.3)
+8 (2.2)
+25 (7.0)
+6 (1.7)
+11 – 20 separate 
+occasions
+69 (19.3)
+50 (14.0)
+9 (2.5)
+2 (0.6)
+5 (1.4)
+6 (1.7)
+15(4.2)
+4 (1.1)
+21 – 50 separate 
+occasions
+53 (14.8)
+39 (10.9)
+2 (0.6)
+2 (0.6)
+0 (0)
+2 (0.6)
+13 (3.6)
+5 (1.4)
+51 – 100 separate 
+occasions
+22 (6.1)
+36 (10.1)
+1 (0.3)
+5 (1.4)
+1 (0.3)
+2 (0.6)
+5 (1.4)
+1 (0.3)
+More than 100 separate 
+occasions
+19 (5.3)
+36 (10.1)
+0 (0)
+4 (1.1)
+1 (0.3)
+0 (0)
+5 (1.4)
+1 (0.3)
+Note: Modal responses in bold. pc = Pure compound. LSD = Lysergic acid diethylamide. DMT = Dimethyltryptamine.
+J Psychopharmacol. Author manuscript; available in PMC 2019 September 20.
+
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Johnson et al.
+Page 21
+Table 3.
+Participant questionnaire data and psychedelic-related information.
+Whole sample
+(N = 358)
+Quit group
+(n = 137)
+Reduce group
+(n = 100)
+Relapse group
+(n = 121)
+Mean (SD)
+Mean (SD)
+Mean (SD)
+Mean (SD)
+Test statistic
+P
+Tellegen Absorption Scale
+23.2 (6.4)
+22.9 (6.8)
+24.1 (5.8)
+23.0 (6.3)
+H=1.52
+0.47
+Toronto Alexithymia Scale
+48.4 (12.2)
+46.1 (11.9) a
+49.0 (11.7) a,b
+50.4 (12.4) b
+H=10.32
+0.006
+Mystical Experience Questionnaire (MEQ30)
+72.8 (19.0)
+74.4 (19.9)
+74.5 (16.7)
+69.5 (19.6)
+H=5.58
+0.06
+Personal Meaning of psychedelic experience
+5.7 (1.6)
+5.9 (1.6) a
+5.7 (1.6) a,b
+5.4 (1.6) b
+H=6.29
+0.04
+Spiritual Significance of psychedelic experience
+3.1 (1.3)
+3.2 (1.4) a
+3.3 (1.1) a
+2.8 (1.4) b
+H=10.89
+0.004
+Age of psychedelic experience
+23.3 (7.2)
+24.1 (7.9) a
+23.7 (6.3) a
+22.0 (6.8) b
+H=9.95
+0.007
+Confidence to abstain from smoking
+76.3 (31.5)
+97.5 (5.4) a
+70.9 (28.9) b
+56.1 (36.4) b
+H=147.1
+<0.001
+Premeditated intention to quit:
+n (%)
+n (%)
+n (%)
+n (%)
+χ2=4.13
+0.13
+ Yes
+30 (8.4)
+12 (8.8)
+4 (4.0)
+14 (11.6)
+ No
+328 (91.6)
+125 (91.2)
+96 (96.0)
+107 (88.4)
+Drug associated with smoking cessation/reduction:
+n (%)
+n (%)
+n (%)
+n (%)
+χ2=8.09
+0.09
+ Psilocybin
+157 (43.9)
+64 (46.7)
+47 (47.0)
+46 (38.0)
+ Lysergic acid diethylamide (LSD)
+157 (43.9)
+57 (41.6)
+36 (36.0)
+64 (52.9)
+ Dimethyltryptamine (DMT)
+14 (3.9)
+7 (5.1)
+6 (6.0)
+1 (0.8)
+ Ayahuasca
+17 (4.7)
+8 (5.8)
+4 (4.0)
+5 (4.1)
+ Other (morning glory, mescaline, peyote, San Pedro)
+13 (3.6)
+1 (0.7)
+7 (7.0)
+5 (4.1)
+Where did this experience take place?
+n (%)
+n (%)
+n (%)
+n (%)
+ At home
+218 (60.9)
+88 (64.2)
+51 (51.0)
+79 (65.3)
+χ2=5.73
+0.06
+ At a party
+33 (9.2)
+13 (9.5)
+6 (6.0)
+14 (11.6)
+χ2=2.05
+0.36
+ In a public place (e.g. shopping mall, movie theater)
+38 (10.6)
+15 (10.9)
+10 (10.0)
+13 (10.7)
+χ2=0.06
+0.97
+ At a concert or festival
+26 (7.3)
+9 (6.6)
+11 (11.0)
+6 (5.0)
+χ2=3.13
+0.21
+ Outdoors in nature
+145 (40.5)
+48 (35.0)
+41 (41.0)
+56 (46.3)
+χ2=3.39
+0.18
+ In a religious / spiritual setting (e.g. ritual ceremony)
+18 (5.0)
+7 (5.1)
+4 (4.0)
+7 (5.8)
+χ2=0.37
+0.83
+J Psychopharmacol. Author manuscript; available in PMC 2019 September 20.
+
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Johnson et al.
+Page 22
+Whole sample
+(N = 358)
+Quit group
+(n = 137)
+Reduce group
+(n = 100)
+Relapse group
+(n = 121)
+Mean (SD)
+Mean (SD)
+Mean (SD)
+Mean (SD)
+Test statistic
+P
+Intention for taking the psychedelic?
+n (%)
+n (%)
+n (%)
+n (%)
+ Because other people were, but no serious intention
+17 (4.7)
+8 (5.8)
+3 (3.0)
+6 (5.0)
+χ2=1.05
+0.59
+ Curiosity without any other serious intention
+62 (17.3)
+22 (16.1)
+15 (15.0)
+25 (20.7)
+χ2=1.47
+0.48
+ Recreational
+205 (57.3)
+77 (56.2)
+60 (60.0)
+68 (56.2)
+χ2=0.42
+0.81
+ A serious intention for psychological self-exploration
+187 (52.2)
+66 (48.2)
+58 (58.0)
+63 (52.1)
+χ2=2.24
+0.33
+ A serious intention to explore spirituality / the sacred
+137 (38.3)
+49 (35.8)
+40 (40.0)
+48 (39.7)
+χ2=0.59
+0.74
+Other behavioral changes after this psychedelic session?
+n (%)
+n (%)
+n (%)
+n (%)
+ Reduced or quit drinking alcohol
+152 (42.5)
+57 (41.6)
+45 (45.0)
+50 (41.3)
+χ2=0.37
+0.83
+ Reduced or quit other drugs
+100 (27.9)
+37 (27.0)
+33 (33.0)
+30 (24.8)
+χ2=1.93
+0.38
+Negative effects from this psychedelic session?
+n (%)
+n (%)
+n (%)
+n (%)
+χ2=3.33
+0.50
+ Yes (typically acute anxiety or physical discomfort)
+43 (12)
+17 (12.4)
+16 (16.0)
+10 (8.3)
+ No
+281 (78.5)
+107 (78.1)
+74 (74.0)
+100 (82.6)
+ Not sure
+34 (9.5)
+13 (9.5)
+10 (10.0)
+11 (9.1)
+Note: Between-groups Kruskal-Wallis tests are shown for absorption, alexithymia, mystical experience, personal meaning, spiritual significance, age of psychedelic experience, and confidence to abstain. 
+For all other categories, between-groups chi-square analyses are shown. For items with mutually exclusive responses, modal responses are shown in bold. For all analyses, significant p values (p < 0.05) are 
+shown in bold.
+a,bValues not sharing a common letter are significantly different based on Dunn’s multiple comparisons.
+DMT: dimethyltryptamine; LSD: lysergic acid diethylamide; MEQ30: Mystical Experience Questionnaire; TAS: Tellegen Absorption Scale; TAS-20: Toronto Alexithymia Scale.
+J Psychopharmacol. Author manuscript; available in PMC 2019 September 20.
+
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Johnson et al.
+Page 23
+Table 4.
+Withdrawal severity after psychedelic-associated smoking cessation or reduction in comparison to previous 
+quit attempts. Modal responses shown in bold.
+Withdrawal Symptoms’ 
+Severity (n)a
+Much less severe, n 
+(%)
+Less severe, n (%)
+Same, n (%)
+More severe, n (%)
+Much more severe, 
+n (%)
+Weight gain (258)
+77 (29.8)
+49 (19.0)
+121 (46.9)
+8 (3.1)
+3 (1.2)
+Increased eating (269)
+71 (26.4)
+61 (22.7)
+121 (45.0)
+14 (5.2)
+2 (0.7)
+Digestive problems (242)
+69 (28.5)
+40 (16.5)
+127 (52.5)
+6 (2.5)
+0 (0)
+Nausea (240)
+74 (30.8)
+41 (17.1)
+118 (49.2)
+7 (2.9)
+0 (0)
+Headaches (255)
+84 (32.9)
+54 (21.2)
+106 (41.6)
+9 (3.5)
+2 (0.8)
+Drowsiness (251)
+80 (31.9)
+42 (16.7)
+123 (49.0)
+6 (2.4)
+0 (0)
+Fatigue (257)
+74 (28.8)
+55 (21.4)
+119 (46.3)
+8 (3.1)
+1 (0.4)
+Insomnia (257)
+76 (29.6)
+51 (19.8)
+122 (47.5)
+5 (1.9)
+3 (1.2)
+Heart pounding / sweating 
+(237)
+78 (32.9)
+29 (12.2)
+125 (52.7)
+4 (1.7)
+1 (0.4)
+Difficulty concentrating (268)
+88 (32.8)
+67 (25.0)
+104 (38.8)
+7 (2.6)
+2 (0.7)
+Anxiety (268)
+93 (34.7)
+72 (26.9)
+93 (34.7)
+6 (2.2)
+4 (1.5)
+Restlessness (272)
+92 (33.8)
+76 (27.9)
+90 (33.1)
+7 (2.6)
+7 (2.6)
+Depression / low mood (271)
+114 (42.1)
+69 (25.5)
+80 (29.5)
+7 (2.6)
+1 (0.4)
+Irritability (277)
+118 (42.6)
+73 (26.4)
+73 (26.4)
+10 (3.6)
+3 (1.1)
+Craving tobacco (284)
+133 (46.8)
+89 (31.3)
+52 (18.3)
+4 (1.4)
+6 (2.1)
+aSample size varies by symptom (range = 237–284), as some participants reported no previous quit attempts as a basis for comparison, and others 
+had never experienced particular withdrawal symptoms. Percentages were calculated based on the number of individuals who reported a particular 
+withdrawal symptom.
+J Psychopharmacol. Author manuscript; available in PMC 2019 September 20.
+
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Johnson et al.
+Page 24
+Table 5.
+Smoking cessation or reduction mechanisms attributed to reference psychedelic experience.
+Mechanism a
+Endorsed item, n (%)
+Ranked most important, n 
+(%) b
+Changing life priorities or values, such that smoking was no longer more 
+important than quitting
+317 (88.5)
+95 (26.5)
+Strengthening your belief in your own ability to quit.
+283 (79.1)
+65 (18.2)
+Changing your orientation toward the future, so that long-term benefits 
+outweighed immediate desires.
+305 (85.2)
+60 (16.8)
+Reducing stress involved with quitting.
+287 (80.2)
+44 (12.3)
+Reframing quitting as a spiritual task
+252 (70.4)
+44 (12.3)
+Increasing space between the desire to smoke and taking action.
+281 (78.5)
+21 (5.9)
+aParticipants were asked to endorse any relevant mechanisms they believed played a role in their psychedelic-associated smoking cessation or 
+reduction. These mechanisms are based on our laboratory research (Johnson et al., 2014).
+bFor each mechanism endorsed, participants were asked to rank order the items in terms of their importance to helping them quit or reduce 
+smoking.
+J Psychopharmacol. Author manuscript; available in PMC 2019 September 20.

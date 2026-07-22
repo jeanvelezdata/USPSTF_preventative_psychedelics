@@ -1,0 +1,62 @@
+{
+  "data": {
+    "article": {
+      "StudyID": "Kolp 2006",
+      "Citation": "Kolp E, Friedman HL, Young MS, Krupitsky E. Ketamine Enhanced Psychotherapy: Preliminary Clinical Observations on Its Effectiveness in Treating Alcoholism. The Humanistic Psychologist. 2006.",
+      "Title": "Ketamine Enhanced Psychotherapy: Preliminary Clinical Observations on Its Effectiveness in Treating Alcoholism",
+      "Year": 2006,
+      "Corpus/Prefix": ".",
+      "Condition": "Alcohol",
+      "Substance": "Ketamine",
+      "IsObservational": "Y",
+      "N": 70,
+      "AE_denominator": 2,
+      "ArmScope": "psychedelic_arm",
+      "PctFemale": ".",
+      "GenderCategory": "Both males and females treated; no cohort-wide proportion given. Two detailed case studies: one male (P.A.) and one female (J.C.).",
+      "PctBIPOC": ".",
+      "PctIndigenous": ".",
+      "SafetyReported": "Y",
+      "AnyAEReported": "Y",
+      "NumDistinctAEs": 1,
+      "NParticipantsWithAE": 2,
+      "WorstSeverity": "Mild",
+      "text_source": "born-digital",
+      "Model": "claude-sonnet-5",
+      "PromptVersion": "ae_extraction_prompt_v1",
+      "RubricVersion": "severity_rubric_v1",
+      "Temperature": 1
+    },
+    "ae_events": [
+      {
+        "AE_ID": "Kolp 2006_AE01",
+        "StudyID": "Kolp 2006",
+        "AE_type": "challenging_experience",
+        "Description": "Ketamine-induced transpersonal ego-dissolution/'death-rebirth' experience with intense confrontation of guilt/trauma; resolved into bliss/forgiveness/peace by session end in both cases.",
+        "Onset": "in-session",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "rubric",
+        "InterventionRequired": "N",
+        "MeetsFDASerious": "N"
+      }
+    ]
+  },
+  "rationale": {
+    "article": {
+      "IsObservational": "Retrospective, informally reconstructed report of clinical practice (private-practice patients treated 1996-1999, original records lost); explicitly no randomization, no control group, no blinding within this article's own data ('pilot data that is informally gathered with no use of control groups or blinds'). This is a naturalistic case-series/clinical-observation report, not an RCT, so coded Y. The article does reference a separate prior controlled trial by Krupitsky (1992) as a historical benchmark, but that is not this article's own study design.",
+      "N": "No single formally 'analyzed' N is given. Abstract states KEP was administered to 'more than 70 clients'; Table 1 lists approximate patients treated per method (20+15+10+10+15=70), consistent with the abstract. Used 70, but this is explicitly an approximate, retrospectively reconstructed count, not a precise enrolled/analyzed figure (original clinical files were lost, per footnote 2).",
+      "AE_denominator": "No systematic AE/safety assessment was conducted across the ~70-patient cohort. The only concretely described ketamine-session experiential content is in the two detailed case studies (P.A. and J.C.), so the denominator for the one identified AE type is coded as 2 rather than 70.",
+      "ArmScope": "All patients in this article's own reported data (all 5 KEP methods, both case studies) were psychedelic(ketamine)-exposed; there is no non-exposed comparator group within this study's own N, so psychedelic_arm applies even though the article discusses Krupitsky's separately-published controlled trial for context.",
+      "SafetyReported": "The article contains no formal AE/safety monitoring or reporting for the ~70-patient cohort (no counts of side effects, complications, dropouts due to AE, or vitals). However, it does narratively describe, in detail, the subjective ketamine-session phenomenology of the two case-study patients (ego-dissolution, 'death' experience, intense confrontation with guilt/trauma) \u2014 per the prompt's severity rubric, CEQ-sense challenging-experience phenomenology must be flagged rather than silently omitted, so SafetyReported/AnyAEReported were coded Y based on these two narratives specifically, not on any cohort-wide safety assessment.",
+      "NumDistinctAEs": "The two case-study narratives (P.A. and J.C.) both describe the same type of event \u2014 an expected, protocol-intended transpersonal/ego-dissolution ('death-rebirth') experience during the ketamine session \u2014 so they were grouped as one distinct AE type (analogous to '12 participants reported headache' = 1 type in the schema example) rather than two separate rows.",
+      "NParticipantsWithAE": "Coded as 2 (the two case-study patients for whom this phenomenology is explicitly described). This is a floor: the KEP protocol was designed to induce this type of transpersonal experience in all treated patients, so it plausibly occurred more broadly across the ~70-patient cohort, but the article does not individually document it beyond these two cases, so no higher number can be asserted.",
+      "PctFemale": "Article states clients were 'both males and females' but gives no proportion or count breakdown for the ~70-patient cohort.",
+      "PctBIPOC": "Not reported anywhere in the article.",
+      "PctIndigenous": "Not reported anywhere in the article."
+    },
+    "ae_events": {
+      "Kolp 2006_AE01": "Graded Mild per the rubric: the transpersonal/ego-dissolution experience is an expected, protocol-intended acute drug effect (abreactive 'death-rebirth' phenomenology by design), it resolved within the session into a positive state (bliss/peace/forgiveness), no pharmacological or other intervention was reported as needed, and both patients reported sustained positive functioning at 6- and 12-month follow-up with no persisting impairment. No FDA seriousness criterion is met. Sufficient outcome/intervention signal was present (positive resolution, no intervention needed, no escalation), so SeverityIndeterminate = N rather than defaulting on insufficient detail. SeveritySource = rubric because the authors did not themselves assign any CTCAE grade or SAE label to this phenomenon \u2014 they present it as a therapeutic mechanism, not a graded adverse event."
+    }
+  }
+}

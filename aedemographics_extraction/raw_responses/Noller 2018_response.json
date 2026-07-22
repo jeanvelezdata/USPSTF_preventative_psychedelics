@@ -1,0 +1,58 @@
+{
+  "data": {
+    "article": {
+      "StudyID": "Noller 2018",
+      "Citation": "Noller GE, Frampton CM, Yazar-Klosinski B. Ibogaine treatment outcomes for opioid dependence from a twelve-month follow-up observational study. The American Journal of Drug and Alcohol Abuse. 2018.",
+      "Title": "Ibogaine treatment outcomes for opioid dependence from a twelve-month follow-up observational study",
+      "Year": 2018,
+      "Corpus/Prefix": "Opioid",
+      "Condition": "Opioid",
+      "Substance": "Ibogaine",
+      "IsObservational": "Y",
+      "N": 14,
+      "AE_denominator": ".",
+      "ArmScope": "psychedelic_arm",
+      "PctFemale": 50,
+      "GenderCategory": "50% female / 50% male (no non-binary or other categories reported)",
+      "PctBIPOC": 0,
+      "PctIndigenous": 0,
+      "SafetyReported": "Y",
+      "AnyAEReported": "Y",
+      "NumDistinctAEs": 1,
+      "NParticipantsWithAE": 1,
+      "WorstSeverity": "Severe",
+      "text_source": "born-digital",
+      "Model": "claude-sonnet-5",
+      "PromptVersion": "ae_extraction_prompt_v1",
+      "RubricVersion": "severity_rubric_v1",
+      "Temperature": 1
+    },
+    "ae_events": [
+      {
+        "AE_ID": "Noller 2018_AE01",
+        "StudyID": "Noller 2018",
+        "AE_type": "AE",
+        "Description": "Provider-1 patient died during ibogaine treatment before formal enrollment; autopsy showed no cardiac pathology; death judged likely ibogaine-related, probably cardiac arrhythmia (coronial/HDC inquiry).",
+        "Onset": "in-session",
+        "Severity": "Severe",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "Y"
+      }
+    ]
+  },
+  "rationale": {
+    "article": {
+      "Corpus/Prefix": "No explicit corpus label in-text; set to match Condition ('Opioid') since the article is about opioid dependence treatment.",
+      "N": "N=14 is the final analyzed/'completed treatment' cohort per the CONSORT-style flow diagram (Fig. 1) and all outcome tables (ASI-Lite, BDI-II, SOWS baseline N=14). This excludes the participant who died, who per the Results section ('A third patient of Provider 1 died during treatment before they were formally enrolled') was not part of the 15 formally enrolled or the 14 who completed treatment, despite the abstract's looser phrasing ('One patient enrolled in the study died during treatment'). Both statements describe the same single death; I did not treat this as a numeric inconsistency requiring exclusion, since the underlying narrative (20 interested -> 16 signed consent -> 1 died pre-enrollment -> 15 enrolled -> 1 disqualified post-treatment -> 14 completed/analyzed) reconciles consistently across the Methods, Results, and Provider-breakdown paragraphs.",
+      "AE_denominator": "No formal safety-assessment population was defined; the article states 'Evaluation of safety was beyond the scope of this non-interventional study.' The one fatality occurred in a patient who was being treated by Provider 1 but had not yet been formally enrolled in the study cohort (N=14 or N=15), so no single denominator unambiguously covers both the fatality and the N=14 sample. Coded '.' rather than guessing a denominator.",
+      "PctIndigenous": "Not separately reported; inferred as 0 because the article states 'all identified as Caucasian,' and PctIndigenous cannot exceed PctBIPOC (also inferred as 0 on the same basis).",
+      "SafetyReported": "The study states safety evaluation was 'beyond the scope' of its design (no systematic AE surveillance of the N=14 cohort), but the article nonetheless reports and extensively discusses one fatality temporally associated with treatment, including two independent investigations (coronial inquiry, NZ Health and Disability Commissioner) and cause-of-death reasoning. Coded SafetyReported='Y' on the basis of this reported safety-relevant event, even though no structured AE checklist/table for the surviving 14 participants is presented.",
+      "AnyAEReported / NumDistinctAEs / NParticipantsWithAE": "Only one distinct AE (the fatality) is reported anywhere in the article; no other adverse events (e.g., nausea, cardiac symptoms, psychiatric events) are described for the 14 analyzed participants. Concomitant medications noted during treatment (ondansetron, diazepam, zopiclone) are described as prophylactic/supportive administration, not as treatment for a reported AE, so they were not coded as separate AE events."
+    },
+    "ae_events": {
+      "Noller 2018_AE01": "Onset coded 'in-session' because the article repeatedly describes the death as occurring 'during treatment' (as opposed to 'post-treatment'), and ibogaine treatment in this study spans a single staggered-dosing episode of 24-96 hours before the participant is considered post-treatment; however, the exact timing relative to the last dose is not stated, so this is a judgment call flagged here. Severity is Severe/CTCAE Grade 5 (Death) per the rubric's death=Severe rule; SeveritySource='rubric' because the authors do not themselves apply a CTCAE grade or explicit 'SAE' label, though they do report investigative findings characterizing the death as 'related to ibogaine ingestion and most probably related to a cardiac arrhythmia' with no significant cardiac pathology found at autopsy. InterventionRequired coded '.' because the article does not describe whether resuscitation or other acute intervention was attempted. MeetsFDASerious='Y' (death is an explicit FDA seriousness criterion). Note this participant falls outside the article's primary N=14 analyzed sample (see article.N rationale above) \u2014 flagged as high-priority since it is the death also referenced secondhand in the companion article 'Brown 2019.'"
+    }
+  }
+}

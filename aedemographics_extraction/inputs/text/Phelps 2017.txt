@@ -1,0 +1,1662 @@
+https://doi.org/10.1177/0022167817711304
+Journal of Humanistic Psychology
+﻿1­–38
+© The Author(s) 2017
+Reprints and permissions:
+sagepub.com/journalsPermissions.nav 
+DOI: 10.1177/0022167817711304
+journals.sagepub.com/home/jhp
+Psychedelic Research
+Developing Guidelines 
+and Competencies 
+for the Training of 
+Psychedelic Therapists
+Janis Phelps1
+Abstract
+Research since the 1950s has shown that psychedelic-assisted psychotherapy 
+has had significant positive effects in reductions of specific clinical symptoms 
+and increases in quality of life as measured on a variety of indices. The intensity 
+of focus on evidence-based outcomes, however, has resulted in a paucity of 
+active discussions and research on the core competencies of the therapists 
+themselves. The context of the history of psychedelic research reveals how 
+this neglect of therapist variables occurred. With current discussions of Phase 
+3 and expanded access research programs for psilocybin-assisted and MDMA-
+assisted psychotherapies, there will be a great need for competent therapists 
+trained in this clinical specialty. This is particularly the case if less restricted, 
+legal medical use is approved within the next 6 to 10 years. This article is 
+the first review and compilation of psychedelic therapist competencies 
+derived from the psychedelic literature. These six therapist competencies 
+are empathetic abiding presence; trust enhancement; spiritual intelligence; 
+knowledge of the physical and psychological effects of psychedelics; therapist 
+self-awareness and ethical integrity; and proficiency in complementary 
+techniques. A further contribution of this review is a delineation of the 12 
+fundamental curricular domains of study for the training and development of 
+these therapist competencies. As current legal restrictions evolve, aspects of 
+these training guidelines will develop accordingly.
+1California Institute of Integral Studies, San Francisco, CA, USA
+Corresponding Author:
+Janis Phelps, California Institute of Integral Studies, 1453 Mission Street, San Francisco,  
+CA 94103, USA. 
+Email: jphelps@ciis.edu
+711304 JHPXXX10.1177/0022167817711304Journal of Humanistic PsychologyPhelps
+research-article2017
+
+
+2	
+Journal of Humanistic Psychology 00(0)
+Keywords
+psychedelic, therapist, competencies, psychedelic-assisted, training, guide, 
+therapy, ethics, presence, set and setting, empathy
+Setting the Stage for Psychedelic Research
+The evolution of psychedelic psychotherapy in the 20th and into the 21st 
+century has been both furthered and stymied by the cultural backdrop 
+against which these substances were being explored at the time. When 
+research into psychedelics, known collectively as hallucinogens, was 
+underway in the early 1950s in clinical and laboratory settings, they were 
+viewed as tools that could be used to better understand how the brain itself 
+works (Abramson, 1960; Grob, Greer, & Mangini, 1998). From 1950 to 
+the mid-1960s, there were more than 1,000 clinical papers published about 
+the sessions of some 40,000 patients, scores of books and six international 
+conferences on psychedelic-assisted psychotherapy (Grinspoon & Bakalar, 
+1979). A core question underlying psychedelic-assisted therapy surfaced 
+in those early years, well stated here by conference panelist, Robert 
+Murphy:
+Is LSD [lysergic acid diethylamide] a therapy in itself, with the therapeutic 
+relationship functioning merely for support? I believe this is so. Or is the 
+essential therapeutic process the sort of thing Dr. Abramson described, in 
+which the therapeutic relationship is the essence of the therapy, and LSD 
+simply facilitates or catalyzes it? These questions underlie a good deal of the 
+discussion here, and are perhaps of more importance than we have recognized. 
+(Lennard & Hewitt, 1960, p. 219)
+There are references in the research literature to the hypothesized effects of 
+therapist competencies and therapeutic alliance-building on clinical out-
+comes, but these variables have gone relatively unsystematized and unre-
+searched due to changes in the political climate in the United States. Any 
+discussion of therapist skill bases and the training of therapists for this 
+research requires a historical contextualization within the ebb and flow of the 
+60-year-old psychedelic research field itself.
+In the clinical setting, these substances were initially of interest based on 
+a belief that they could induce elements of psychosis (an effect often termed 
+psychotomimetic) and could reveal underlying psychodynamic processes 
+(Eisner & Cohen, 1958; Grob, Bossis, & Griffiths, 2013). However, soon 
+interest shifted to their potential as catalysts for therapeutic healing in the 
+
+
+Phelps	
+3
+clinical setting, particularly with the classic psychedelics, mescaline, and 
+LSD (lysergic acid diethylamide). In a therapeutic model known as psy-
+cholytic therapy, low- and mid-dose applications were administered over an 
+extended period of time in conjunction with psychoanalytic psychotherapy 
+(Grof, 1968; Naranjo, 2013; Passie, 2012). Alternatively, high-dose applica-
+tions were used and limited to a handful of significantly longer sessions 
+followed by psychotherapeutic integration work (Gasser et  al., 2014; 
+Osmond, 1957).
+During this cornucopia of research, some clinicians posed optimal qualities 
+for therapists. Early researchers suggested that therapists should have a mix of 
+empathy and “objectivity,” which they variously defined as “being as normal 
+as possible” and “balanced” (Lennard & Hewitt, 1960). Others remarked that 
+therapists needed to be calm and composed (Blewett & Chwelos, 1959), aware 
+of the effects of their reactions on the research participant (Buckman, 1967), 
+and keenly capable of transference analysis (Hoffer & Osmond, 1967). While 
+direct research on therapist variables was proposed during this period, there 
+exist only clinical case studies and self-reported, anecdotal, and sparse discus-
+sion of qualities, skills, and competencies for therapists.
+Researchers in the 1950s and 1960s who pursued psychedelic-assisted 
+therapy quickly discovered psychedelics’ mysticomimetic potential—their 
+ability to catalyze transformative, breakthrough experiences (Abramson, 
+1960; Eisner & Cohen, 1958; Riedlinger & Riedlinger, 1994). The promise of 
+psychedelic-assisted therapy was considered so great that psychiatrists and 
+psychologists began convening conferences where researchers could share 
+their findings and discuss the potential implications of them. For example, 
+international conferences on the use of LSD in psychotherapy were held in 
+Princeton, NJ, London, and Long Island, NY, in 1959, 1961, and 1965, 
+respectively (Pahnke & Richards, 1966). In April of 1969, the American 
+Association for Humanistic Psychology and the Menninger Foundation 
+cosponsored an invitation-only conference in Council Grove, Kansas, dedi-
+cated to the topic of altered states of consciousness, which counted among its 
+participants “national and international therapists working with psychedel-
+ics” (Fadiman, 1969, p. 135).
+The Dark Ages and the Renaissance in Psychedelic 
+Research
+They would not be able to publicly voice their enthusiasm for psychedelic-
+assisted therapy much longer, however. In the face of widespread use deemed 
+unmanageable by the federal government, President Nixon in 1970 signed 
+into law the Controlled Substances Act, which made any use of the specified 
+
+
+4	
+Journal of Humanistic Psychology 00(0)
+psychedelic substances illegal. Then the entactogen MDMA (3,4-methylene-
+dioxymethamphetamine) was introduced to the therapeutic world by several 
+therapists, most notably by Leo Zeff, in the mid-1970s (Stolaroff, 1997). 
+Entactogen, it should be noted, is a term coined by chemist David Nichols 
+referring to those psychedelic medicines found in the MDA (3,4-methylene-
+dioxyamphetamine) and MDMA family (Shulgin & Nichols, 1978; Nichols, 
+1986). MDMA was viewed as a “penicillin for the soul” by therapist guides 
+for enhancing empathy, creativity, and team building (Shulgin, 2001), but 
+along with its researched pharmaceutical analogues stayed largely under the 
+radar of the mainstream culture until they, too, were placed on Schedule I 
+status in 1985 (Dass, Metzner, & Bravo, 2010; Degenhardt & Hall, 2010; 
+Nutt, King & Nichols, 2013).
+In 1986, Rick Doblin founded the Multidisciplinary Association of 
+Psychedelic Studies (Emerson, Ponté, Jerome, & Doblin, 2014). In 1993, the 
+Heffter Research Institute was cofounded by David Nichols, George Greer, 
+Dennis McKenna, Mark Geyer, and Charles Grob (Nichols, 2014). In the 
+meantime, in the fall of 1990, the federal hold on psychedelic-assisted 
+research had loosened enough to allow Rick Strassman to conduct clinical 
+trials with the psychedelic DMT (N,N-dimethyltryptamine) (Strassman, 
+2010; Strassman & Qualls, 1994; Strassman, Qualls, Uhlenhuth, & Kellner, 
+1994). In one of the few other reports in this time period, Liester, Grob, 
+Bravo, and Walsh (1992) published positive data gathered from the subjec-
+tive experiences of 20 psychiatrists who took MDMA as part of their study. 
+In these years of the early 1990s, both the National Institute on Drug Abuse 
+and a Food and Drug Administration (FDA) Advisory Committee recom-
+mended that clinical research on psychedelics could be resumed, “subject to 
+the same regulations that the FDA used to review research with all other 
+drugs” (Nichols, 2014, p. 22).
+But in the wake of both Strassman’s research approval coup and the piv-
+oting of the two federal agencies, it took the collective efforts of MAPS and 
+Heffter and the largesse of their respective donors to get psychedelic research 
+programs started up again in earnest. This time around, researchers were 
+learning from the mistakes of the past, pursuing work with those substances 
+that had both the greatest chance of clinical efficacy and, from a cultural 
+standpoint, the fewest negative associations (Tupper, Wood, Yensen, & 
+Johnson, 2015). For MAPS, that meant a focus on MDMA for the treatment 
+of posttraumatic stress disorder (PTSD; Emerson et  al., 2014) and for 
+Heffter, psilocybin for the treatment of anxiety in patients with advanced-
+stage cancer (Grob et  al., 2011). These organizations continue to work 
+closely with researchers at University of California, Los Angeles; New York 
+University (NYU); Johns Hopkins; University of New Mexico; University 
+
+
+Phelps	
+5
+of Wisconsin; and other centers in order to conduct clinical research on psy-
+chedelic-assisted therapies. The research agendas have specifically followed 
+the FDA protocols for drug development in three phases: In Phase 1, evi-
+dence for safety of the medicine is gathered; in Phase 2, findings are sought 
+that show the medicine is efficacious for medical condition(s); and in Phase 
+3, researchers attempt to show that the drug is as effective or more effective 
+than currently available medicines in existing treatments. The empirical 
+findings from the FDA-approved clinical trials in the past 20 years have 
+been so positive that there are current applications to the FDA for permis-
+sion to step into Phase 3 clinical trials for MDMA for treatment-resistant 
+PTSD and psilocybin for end-of-life distress and major depressive disorder 
+(Doblin, 2015; Nichols, 2014).
+Present-Day Research With Psychedelics
+The momentum of the current renaissance period has occurred through the 
+dedication, persistence, and wisdom of several dozens of researcher clini-
+cians, many of who have sacrificed some portion of their careers for this work. 
+MAPS and Heffter are not the only not-for-profit organizations partnering 
+with academic institutions to conduct and underwrite clinical research of psy-
+chedelic-assisted therapy. The three organizations of note in this regard are the 
+Council on Spiritual Practices (CSP), convened in 1994 under the impetus of 
+Robert Jesse; the Beckley Foundation, founded in 1998 by Amanda Feilding; 
+and the Usona Institute, started by William Linton in 2014. All of them help 
+financially support clinical studies evaluating the role of psychedelics in a 
+therapeutic environment (Feilding, 1998; Jesse, 1994; Linton, 2014). Indeed, 
+without the tireless efforts of all these organizations (particularly by CSP in 
+the early 1990s), it is unlikely that research in this field would be remotely as 
+far along as it is now. And with their help, the cultural tides have turned to 
+greater interest in this field, as evidenced by the publication in the past 5 years 
+of the publicly acclaimed New Yorker article, The Trip Treatment, by Pollan 
+(2015) and the publication of such books as Healing with Entactogens by 
+Passie (2012), Manifesting Minds by Doblin and Burge (2014), Sacred 
+Knowledge: Psychedelics and Religious Experiences by Richards (2015), the 
+second edition of Zig Zag Zen: Buddhism and Psychedelics (Badiner, 2015), 
+Allies for Awakening: Guidelines for Productive and Safe Experiences with 
+Entheogens by Metzner (2015), and Altered States: Buddhism and Psychedelic 
+Spirituality in America by Osto (2016).
+To contextualize the reasons for a lack of direct research on therapist quali-
+ties and competencies, a focus will be made on the highlights of recent research 
+data on the medicines poised to move into Phase 3 drug trials: psilocybin and 
+
+
+6	
+Journal of Humanistic Psychology 00(0)
+MDMA. The influence of therapist variables that we commonly see in therapy 
+outcome studies has not been the focus of this era of research, however, 
+because the work within the structure of FDA-approved clinical trials neces-
+sitates controlling for differential therapist effects. This contemporary research 
+has sought to delineate the role of the therapist as a deliverer of a safe and 
+consistent set and setting within consistent protocols across conditions.
+Current Psilocybin-Assisted Therapy Outcomes
+Beginning in 2006, researchers at Johns Hopkins University began publishing 
+results from the first of a series of clinical studies looking at the potential of 
+psilocybin-assisted therapy to induce mystical-type experiences. In the first 
+study, psilocybin-assisted therapy was found to occasion such experiences and 
+2 months later, the study participants rated the experience “as having substan-
+tial personal meaning and spiritual significance and attributed to the experi-
+ence sustained positive changes in attitudes and behavior” (Griffiths, Richards, 
+McCann, & Jesse, 2006, p. 268). In follow-up interviews conducted 14 months 
+later, 94% of the volunteers rated at least one session in the top five spiritually 
+significant experiences and in the top five personally meaningful experiences 
+of their lives (Jesse & Griffiths, 2014).
+In a psilocybin-assisted therapy pilot study on smoking cessation, Johnson, 
+Garcia-Romeu, Cosimano, and Griffiths (2014) reported remarkable findings at 
+6 months’ follow-up: 12 of the 15 participants were abstinent from tobacco 
+(based on physiological indices). These outcomes were significantly correlated 
+with reports of mystical experience, experience of increased meaning, and spiri-
+tual significance. Johnson, Garcia-Romeu, and Griffiths (2017) and team found 
+that at 12-month follow-up, 67% of these participants remained smoking absti-
+nent. This is a remarkable finding in the field of tobacco addiction. Bogenschutz 
+(2015) is currently conducting an NYU double-blind study on the effects of 
+psilocybin-assisted psychotherapy on alcohol dependence. Members of the 
+Hopkins research group are also conducting a study on the effects of psilocybin 
+on the psychology of long-term meditators and brain function, as measured by 
+functional magnetic resonance imaging (Griffiths, 2015b). And NYU and Johns 
+Hopkins are in the midst of a study focused on the effects of psilocybin on reli-
+gious leaders’ experience of mystical-like states (Griffiths, 2015a).
+In a pilot study of patients with anxiety as a result of advanced-stage can-
+cer, a team of researchers at University of California, Los Angeles–Harbor 
+Medical Center led by Charles Grob found no adverse physical or psycho-
+logical effects (Grob et al., 2011). But despite the relatively low dose of psi-
+locybin administered to the patients, the study yielded a statistically 
+significant reduction in anxiety. They note as well that the quality of the 
+
+
+Phelps	
+7
+experience of psilocybin supports the development of strong therapeutic 
+bonds and the lessening of demoralization. Griffiths et al. (2016) reported 
+results on a very low dose psilocybin session versus a high-dose psilocybin 
+session for 51 participants with life-threatening cancer. With 5 weeks between 
+sessions and 6-month follow-up, the high-dose condition resulted in decreases 
+in anxiety, death anxiety, and depressed mood with concomitant increases in 
+life-meaning, optimism, quality of life. Clinically significant changes 
+remained for 80% of participants at 6-month follow-up, with more than 80% 
+endorsing the effects of the high-dose session to be moderately or greater 
+increased life satisfaction/well-being.
+In a related study Ross et al. (2016) measured the effects of psilocybin-
+assisted therapy for 29 patients with cancer-related psychological distress on 
+pain perception, depression, anxiety, existential/psychospiritual distress, 
+quality of life, and spiritual/mystical states of consciousness. The research 
+team found that single moderate-dose psilocybin-assisted psychotherapy pro-
+duced rapid, robust and enduring anti-depressant and anxiolytic effects. 
+Psilocybin-induced mystical experience mediated the therapeutic effect of 
+psilocybin on their depression and anxiety.
+Current MDMA-Assisted Therapy Outcomes
+In 2011, Mithoefer, Wagner, Mithoefer, Jerome, and Doblin published the 
+results of a Phase 2 clinical trial examining the effectiveness of MDMA on 
+treatment-resistant PTSD. They found that 83% of those who received 
+MDMA in conjunction with psychotherapy no longer qualified for a PTSD 
+diagnosis two months post-treatment compared to 25% of other participants 
+who only received a placebo (Mithoefer et al., 2011). All of the study partici-
+pants who received MDMA-assisted therapy were found to have maintained 
+both statistically and clinically significant symptom relief in a comprehen-
+sive follow-up study (Mithoefer et al., 2013). Michael Mithoefer (2014) and 
+Annie Mithoefer are now conducting an MDMA study with veterans, fire-
+fighters, and police officers with treatment-resistant PTSD and are oversee-
+ing studies on MDMA in Boulder, Colorado, Vancouver, B.C. and Beer 
+Yaakov, Israel. Also of note is the on-going study looking at MDMA-assisted 
+therapy for the treatment of social anxiety in autistic adults. (Danforth, 
+Struble, Yazar-Klosinski, & Grob, 2015). Recent research has shown MDMA 
+use to be correlated to self-compassion (Kamjol et  al., 2015), generosity 
+toward close friends (Kirkpatrick, Delton, Robertson, & de Wit, 2015), and 
+increases in emotional content in speech about a significant other during a 
+talking task (Baggott, Kirkpatrick, Bedi, & de Wit, 2015).
+
+
+8	
+Journal of Humanistic Psychology 00(0)
+Subjective Experiences of Participants in Psilocybin and MDMA 
+Clinical Trials
+The following discussion focuses on the primary clinical results regarding 
+relationship and quality-of-life improvements for the research participants 
+and reflects on some interesting parallels between participant outcomes and 
+desired therapist characteristics. These highlighted clinical results are: 
+occasioned mystical states and experiences; openness; improved quality of 
+life; and enhanced experiences of love, empathy and meaning-making. 
+Among the clinical outcomes briefly mentioned in the previous section are 
+mystical states of consciousness or what is often referred to as the mystical 
+experience. Pahnke and Richards (1966) divided the features of the psyche-
+delic-induced mystical experience into nine categories, which Richards 
+(2009) subsequently narrowed to six variables: unity; transcendence of 
+time and space; intuitive knowledge; sacredness or awesomeness; deeply-
+felt positive mood; and ineffability and paradoxicality. Not only have 
+researchers found that these mystical experiences occasioned by psyche-
+delic- and entactogen-assisted therapy can count among the most spiritually 
+and personally significant of patients’ lives (Jesse & Griffiths, 2014), they 
+have observed that such experiences produce increases in openness. 
+“Importantly, participants who had a complete mystical experience during 
+their high-dose session, but not others, showed enduring increases in open-
+ness, suggesting that other mystical experiences could occasion similar 
+change” (MacLean, Johnson, & Griffiths, 2011, p. 1456).
+As such, a psychedelic- or entactogen-derived mystical experience can 
+actually improve the quality of life to a notable degree for an addict, a trau-
+matized person, or someone who is dying. As Bossis (2014), an investigator 
+for NYU’s end-of-life psilocybin clinical trials, writes,
+Enhanced spirituality and existential well-being derived from a mystical 
+experience offers distinct opportunities for cancer patients to foster a sense of 
+connectedness with the sacred, to enhance loving relationships with family and 
+other significant persons in their life, and to live fully, in the moment, with 
+equanimity and acceptance. (p. 266)
+A pilot study looking at psilocybin for the treatment of tobacco addiction 
+found a significant correlation between mystical experience measures and 
+smoking cessation outcomes (Bogenschutz & Johnson, 2016; Johnson et al., 
+2014). Indeed, the mystical experience that LSD catalyzed was recognized 
+by none other than Bill Wilson, founder of Alcoholics Anonymous, as having 
+a potentially profound impact on addiction (Richards, 2009).
+
+
+Phelps	
+9
+Also of interest is the finding that the experience of love can be facilitated 
+by both MDMA and psilocybin. With the lessening of fear and anxiety, feel-
+ings of love can come to the surface, allowing patients to examine their lives 
+from a more secure place, which is one of the core reasons that MDMA is so 
+effective in facilitating therapy (Greer & Tolbert, 1990; Mithoefer et  al., 
+2011). For patients with terminal illnesses, the experience of love can be 
+especially transformative (Grob et al., 2013; Roberts & Hruby, 2002). Bossis 
+(2014), in recalling clinical studies using psilocybin with advanced-stage 
+cancer, noted that patients reported experiences akin to what would be con-
+sidered agape, or universal love.
+Another important clinical outcome facilitated by psychedelic- or entacto-
+gen-assisted psychotherapy is the experience of greater empathy (Riedlinger 
+& Riedlinger, 1994). In clinical trials focused on psilocybin and mystical 
+experiences, Griffiths et al. (2011) found that a significant increase in empa-
+thy during the study remained stable for a majority of the participants at the 
+follow-up assessments 14 months later. In a recent analysis of MDMA 
+research on empathy, Jerome, Schuster, and Klosinski (2013) propose that the 
+empathy engendered by MDMA could also play a role in the treatment of 
+addictions, as it could allow patients to acknowledge to a greater degree their 
+substance abuse, the effect it has on others, and the corresponding need to 
+change their behavior.
+Finally, there are predominant and positive outcomes regarding the 
+increased capacity to make meaning of one’s experience after psilocybin-
+assisted therapy (Griffiths et al., 2011; Grob et al., 2013; Jesse & Griffiths, 
+2014; Richards, 2014). The ability to make new meaning from old experi-
+ences can catalyze the healing process (Echenhofer, 2011). Rev. Mike Young, 
+one of the divinity students who participated in Pahnke’s Good Friday 
+Experiment in 1962, expressed this sentiment 30 years later:
+The drug experience can evoke a reordering, a reframing, of the experiencer’s 
+meaning and meaning-making. . . . This reframing and re-connecting, this 
+re-membering of ourselves, is what pushes and pulls us to be more than we are. 
+(Young, 1995, p. 38)
+The Competencies of the Therapist Guide for 
+Psychedelic-Assisted Psychotherapy
+The benefits of psychedelic-assisted therapy have become clear with each 
+successive study, and with them, the best practices needed to elicit positive 
+therapeutic outcomes. But discussions about the desired qualities and compe-
+tencies of the therapists themselves have remained limited. Clinicians have 
+
+
+10	
+Journal of Humanistic Psychology 00(0)
+typically pointed out therapist competencies when sharing case study obser-
+vations, while research-based descriptions of therapist competencies have 
+primarily taken place within the parameters of treatment manuals and proto-
+cols. The MAPS manual for MDMA-assisted PTSD therapy stands as an 
+exemplar (Mithoefer, 2016). If Phase 3 studies get the go-ahead soon from 
+the FDA and if those clinical trials are deemed by the FDA to be successful 
+in comparison with results of current treatments for the medical conditions 
+studied, there will be decidedly broader scopes of practice for therapists in 
+psychedelic-assisted therapy and research. The time has come to have serious 
+conversations and inquiry dedicated to psychedelic therapist competencies 
+and training in anticipation of these developments. The psychedelic therapist 
+guide competencies that follow are described using the usual terminology of 
+mental health and medical professionals’ competencies in three functional 
+areas: knowledge and understandings; values, attitudes and dispositions; and 
+skills.
+There are references in contemporary discourse to three terms used to 
+describe a mental health or medical professional who is present and facilitat-
+ing a psychedelic therapy session: a sitter (Greer & Tolbert, 1998; Grof, 
+1980; Taylor, 2007); a guide (Cooper, 2014; Jesse, 1995; Pahnke & Richards, 
+1966); and a therapist (Abramson, 1956; Eisner & Cohen, 1958; Noller, 
+2009; Walsh & Grob, 2005). A review of the psychedelic literature shows that 
+the preferred term by psychedelic scholars is “therapist” and the role is asso-
+ciated with that of being a “guide,” with these two terms sometimes used 
+interchangeably. A cogent description of the therapists who act as guides in 
+psychedelic research is from Mithoefer (2016):
+The therapists act as empathic listeners, trustworthy guides, facilitators of deep 
+emotional expression and catharsis, and supporters of the participant’s own 
+inner healing intelligence. . . . The therapists’ role is often to follow, rather than 
+guide, the participant, as she/he explores new and unexpected perceptions and 
+realizations. At other times it may be helpful for the therapists to remind the 
+participant that facing painful experiences is actually a path toward healing.  
+. . . In this situation, it is valuable for the therapists to intervene and guide the 
+participant back to her/his internal experience. In this case, guidance should be 
+offered as a possible choice without implying that it is expected or is the only 
+correct course to follow. (pp. 29, 30, 38)
+This witnessing and acknowledgment by the therapist facilitates in the par-
+ticipant a sense of trust, safety, encouragement, and fortitude, as is true in the 
+various models of psychotherapy. At the same time, it solidifies the therapeu-
+tic relationship through the ebb and flow of challenges and releases during 
+psychedelic preparation, sessions, and integration periods. The therapist 
+
+
+Phelps	
+11
+helps the participant move through three phases of treatment: preparation for 
+the medicine-assisted session, the medicine session itself, and integration of 
+the psychological material that arises during preparation and the medicine 
+session. The context within which this therapeutic process occurs is referred 
+to as set and setting (Grof, 1980):
+The term set includes the expectation, motivations, and intentions of the subject 
+in regard to the session; the therapist’s or guide’s concept of the nature of the 
+LSD experience; the agreed upon goal of the psychedelic procedure; the 
+preparation and programming of the session; and the specific technique of 
+guidance used during the drug experience. The term setting refers to the actual 
+environment, both physical and interpersonal, and to the concrete circumstances 
+under which the drug is administered. (p. 102)
+In intersubjectivity terms, these therapeutic alliances within the set and set-
+ting can be likened to a therapeutic fourth. The therapeutic fourth is the inter-
+subjective field of set and setting that is cocreated by the influence of the 
+therapists, the psychedelic medicine, and the person ingesting the medicine.
+This review and compilation of the extant, but sparse, literature on spe-
+cific competencies of the psychedelic therapist guide reveals fundamental 
+agreement on the core knowledge, attitudes, and skills of a therapist in this 
+specialization. Most clinical scholars in the field have at least touched on the 
+question of therapist competencies if only in an oblique manner. Most often 
+we hear in the literature that such description is beyond the scope of the paper 
+or book. Where it is published, both the psycholytic and client-centered 
+researchers and thinkers suggest the following primary therapist qualities: an 
+empathetic abiding presence; trust enhancement; spiritual intelligence; 
+knowledge of the physical and psychological effects of psychedelics; thera-
+pist self-awareness and ethical integrity; and proficiency in complementary 
+techniques. Many of these desired competencies are characteristic of all psy-
+chiatric and psychological treatment. However, there is a specificity to the 
+competencies that is unique to the field of psychedelic-assisted psychother-
+apy and requires specialized training. Each of the six competencies serve as 
+umbrella terms under which reside several unique components that are 
+closely related to one another.
+Competency 1: Empathetic Abiding Presence
+One of the hallmarks of humanistic therapies, the therapeutic capacity for 
+empathy (Bugenthal, 1978; Maslow, 1970; Rogers, 1961), is a universally 
+agreed-upon quality of a properly trained psychedelic therapist. This is not 
+surprising, given that empathetic skills are foundational to the training of 
+
+
+12	
+Journal of Humanistic Psychology 00(0)
+practitioners within the mental health, medical, and religious professions. In 
+addition to the traditional understanding of empathy as key in facilitating 
+positive therapeutic outcomes, empathy in the therapist guide takes a particu-
+lar bent in psychedelic-assisted therapy (Grof, 2005; Mithoefer et al., 2011). 
+Current thinking in this field embraces a particularity in the qualities of 
+desired empathy from the therapist: an empathetic responsivity that has been 
+leavened into a cultivated embodiment of a calm, abiding presence during 
+psychedelic therapy. This empathetic abiding presence is a capacity evi-
+denced in the therapist during preparation, the session itself, and integration 
+meetings. The term “abiding” here is purposely used to convey aspects of a 
+witnessing of the mystery of life in action during psychedelic-assisted psy-
+chotherapy. Richards (2015) likens this to the ability to be present with quali-
+ties of patience, openness and trust in the processes of unfolding. Mithoefer 
+(2016) and colleagues determined that empathetic presence was one of seven 
+unique therapist skills for adherence raters to assess when reviewing archival 
+videos of sessions, which include: verbal communication; establishing rap-
+port; communicating safety and support; eliciting pertinent information; 
+addressing questions and concerns; empathetic presence; and non-directive 
+approach.
+Components of empathetic abiding presence range from composure, 
+evenly suspended attention, mindfulness, empathetic listening, “doing by 
+non-doing”, responding to distress with calmness, and equanimity. Buckman 
+(1967) reports that the quality of empathy with presence and demeanor is 
+crucial in this work because “the patient is very susceptible to mood and 
+voice tone of therapist, nurse and other people in the treatment unit” (p. 89). 
+Strassman (2010), Johnson, Richards, and Griffiths (2008) and Grof (1980) 
+have shared similar clinical observations. “We have repeatedly observed that 
+LSD subjects were able to tune into the inner feelings of the sitters with great 
+accuracy” (Grof, 1980, p. 89). Taylor (2007) speaks of this presence as a 
+capacity for a “widening the focus of awareness” and “doing by non-doing” 
+during processes of Holotropic Breathwork, the widely known form of non-
+psychedelic means of inducing a non-ordinary state of consciousness (p. 21). 
+Stan and Christina Grof (2010) developed Holotropic Breathwork as a 
+method of inquiry and transformation based on elements of yogic breathing 
+practices. Naranjo (2006), a contemporary advocate of psycholytic psyche-
+delic therapy, conceives of the complementarity between love and non-
+attachment when the therapist practices mindfulness in sessions. Several 
+researchers have commented that ways of listening, with empathy and pres-
+ence, are much more impactful than engaging the participant in dialogues and 
+inquiry (Naranjo, 2013; Stolaroff, 1997; Richards, 2009). “Dialogue between 
+client and therapist, which most therapies view as central, appeared less 
+
+
+Phelps	
+13
+important. Indeed, in high-dose sessions, it sometimes seemed more distract-
+ing than beneficial” (Walsh & Grob, 2006, p. 440).
+An aspect of empathy is likened to being balanced and aware of the mul-
+tiplicity of what unfolds moment to moment for the volunteer (Richards, 
+2003; Sherwood, Stolaroff, & Harmon, 1962). This specific quality of empa-
+thy can be seen as akin to the stalwart analytic practice of evenly suspended 
+attention (Epstein, 1984). Strassman (2002) reports that “our research nurse 
+and I did our best to practice meditation while with our volunteers: watching 
+the breath, being alert, eyes open, ready to respond, keeping a bright attitude, 
+and getting out of the way of the volunteer’s experience” (p. 117). Of note 
+here is the empathetic skill of being attentive, supportive, and becoming 
+ground to the figure of the participant’s own process. In the MAPS manual 
+for treatment of PTSD, Mithoefer (2016) states that
+therapists should have a client centered orientation and should have done 
+sufficient inner work themselves so they are comfortable following and 
+supporting whatever course the participant’s own emotional process takes, rather 
+than trying to impose upon it a predetermined course or outcome. (p. 11)
+Thus, therapists practice to “learn when [their] prior training can be helpful 
+and when it needs to be set aside and just be a good listener, compassionate 
+observer and caring supporter” (Fadiman, 2011, p. 77).
+Another component of empathetic abiding presence is the therapist’s 
+equanimity and natural comfort in listening deeply and moving gracefully 
+with the ebb and flow of each unique psychedelic session. This abiding ease 
+is crucial when challenging and difficult moments arise for the participant 
+during the session. This equanimity can be seen as consistent with Taylor’s 
+(2007) statement that a guide develops the skills for “a balance of protection, 
+permission and connection” (p. 133). The therapist guide’s knowledge of the 
+interaction of the effects of the medicine, the setting, and the trust in the wis-
+dom of the healing process is paramount for ease during sessions and for 
+potentiating a corrective emotional experience for the participant (Bache, 
+2000; Richards, Grof, Goodman, & Kurland, 1972). Grof (1980) adds that a 
+therapist’s confidence and competence can be increased through observation 
+of the participant’s patterns of movement into, through, and beyond over-
+whelming difficult affect: “Witnessing positive resolutions of such states and 
+seeing the same subjects only a few hours later radiant and joking, the thera-
+pist gradually develops equanimity, confidence and tolerance in regard to the 
+entire spectrum of psychedelic phenomena” (p. 101).
+In addition to these above qualities, therapists are seen as best suited to 
+this work if they themselves have experienced a fair share of transformative, 
+
+
+14	
+Journal of Humanistic Psychology 00(0)
+nonordinary, or alternate states of consciousness (the latter term coined by 
+Richards, 2003). This criterion has clear face validity, given the clinical set 
+and setting within which they provide therapy (Blewett & Chwelos, 1959; 
+Fischer, 2015; Grob, 2002a, 2002b). While not a consensus, there is a vein in 
+the limited discourse on therapist skills and training that suggests the need for 
+psychedelic therapists to be versed in a meditation or contemplative practice 
+(Pahnke, 1963; Richards, 2005; Strassman, 2010). Possibly they have expe-
+rienced and integrated mystical states of awareness and have found the expe-
+rience of value (Roberts & Hruby, 2002). Such experiences of alternate states 
+can serve to help therapists embody the empathetic abiding presence called 
+for in this work, as well as tolerance for moments in psychedelic sessions in 
+which the participant is experiencing paradoxical, intense emotional and 
+physical states. Indeed, this competency is reflective of the common psyche-
+delic outcome in which volunteers can find themselves capable of greater 
+empathy and openness, with concomitant trust in the unfolding process of 
+psychological transformation.
+Competency 2: Trust Enhancement
+Related to an empathetic abiding presence, the therapist is skilled in enhanc-
+ing trust in three arenas: the volunteer’s view of the therapist as a trustwor-
+thy guide; the participant’s trust in their own inner healing capacity; and the 
+ability to reliably normalize for the participant that paradoxical transforma-
+tions and radically unexpected moments in sessions are to be expected, and 
+thus trusted as part of the process. These aspects of trust enhancement 
+capacities enable the therapist to support the participants’ engagement in 
+making meaningful sense of their lives and inner healing processes. As with 
+Rogers’s (1961) model, current researchers see the quality of trustworthi-
+ness as key to creating safety in the treatment sessions (Johnson et al., 2008; 
+MacLean et  al., 2011); building the therapeutic relationship (Greer & 
+Tolbert, 1998; Grob, 2002; Jerome et al., 2013); and supporting the partici-
+pant’s increased trust in others and their trust in self, which can be experi-
+enced in sessions as “a unity with oneself” (Passie, 2012). One component 
+skill needed is to be knowledgeable about the types of subjective states that 
+participants may experience and adroitly convey normalization of these 
+states during preparation.
+Participants will be reminded that difficult emotions, including grief, rage and 
+fear or panic, may arise during MDMA-assisted psychotherapy sessions, and 
+that sometimes the process can produce surprising and profound experiences 
+even in people without any psychiatric conditions. (Mithoefer, 2009, p. 32)
+
+
+Phelps	
+15
+This latter point is a key consideration for psychedelic therapists since part 
+of their work in optimizing the set and setting is to consistently respond in 
+ways designed to enhance the participant’s trust in their own inner healing 
+process. This capacity is embodied in the therapist who is a role-model for 
+the participant in terms of her or his own trust in the unfolding process within 
+the sessions. This necessitates a welcoming attitude and openness toward the 
+full range of emerging affective experiences (Grof, 1998; Lennard & Hewitt, 
+1960; Richards et al., 1972). In MDMA therapy with trauma, the “therapists 
+work with the participant to establish a sense of safety, trust, and openness, as 
+well as to emphasize the necessity of trusting the wisdom of the participant’s 
+innate capacity to heal the wounds of trauma” (Mithoefer, 2016, p. 5). The 
+qualities of therapist openness to various ontologies and a personal embodi-
+ment of multiple ways of knowing are foundational for the development of 
+this trust enhancement competency. As an example of these therapist quali-
+ties, Maté (2010) observes that trustworthiness as an addiction therapist 
+entails the practitioner’s full acceptance and honoring of addicts, particularly 
+while the patients are in altered states of consciousness. Stanislav Grof (1980) 
+draws out the connection among a trust in oneself, the therapeutic relation-
+ship, and trustworthiness in the therapist:
+A good therapeutic relationship helps the patient to let go of psychological 
+defenses, surrender to the experience, and endure the difficult periods of 
+sessions characterized by intense physical and emotional suffering or confusion. 
+The quality of the therapeutic relationship is essential for working through on 
+of the most crucial situations in psychedelic therapy, the crisis of trust. (p. 90)
+Being consistently trustworthy as a guiding therapist during psychedelic-
+assisted therapy research contributes to the participant’s felt sense of a stable 
+and safe set and setting.
+This trustworthiness is essential for a participant’s willingness to endure 
+the challenges of making meaning of the broad ranging material emerging 
+from psychedelic sessions. This capacity to normalize unfamiliar or challeng-
+ing material is augmented by therapeutic skills in the facilitation of an 
+enhanced meaning-making capacity within the participant (Bugenthal, 1978). 
+The journey of making meaning from psychedelic sessions is paramount in 
+positive therapeutic outcomes and the concomitant increase in a sense of 
+quality of life (Griffiths, Richards, Johnson, McCann, & Jesse, 2008; Savage, 
+Savage, Fadiman, and Harmon, 1964). Bossis (2014) observes that “if the 
+search for meaning is successfully accomplished, patients may experience a 
+sense of renewal, greater self-awareness, personal growth, and an enhanced 
+appreciation for life, nature, and greater compassion for others” (p. 252).
+
+
+16	
+Journal of Humanistic Psychology 00(0)
+Carhart-Harris et al. (2017) and Preller et al. (2017) have recently shown 
+breakthrough findings of neural correlates to cognitive fluidity in attributions 
+of relevance and to meaning-making capacity in relation to psilocybin and 
+LSD ingestion, respectively. In Preller et al. (2017), enhanced meaning mak-
+ing and relevance attributions were most the highly weighted subjective vari-
+ables in a path analysis of outcome. The trust-enhancing therapist is competent 
+in helping the participant cultivate multifocal viewpoints for making sense of 
+what may reveal itself as meaningful during psychedelic-assisted therapy.
+Competency 3: Spiritual Intelligence
+Therapists who are competent in psychedelic-assisted therapy have knowl-
+edge and values that can be described as a spiritual intelligence that “goes 
+beyond conventional psychological development. In addition to self-aware-
+ness, it implies awareness of our relationship to the transcendent, to each 
+other, to the earth and all beings” (Vaughan, 2002, p. 18). One can liken this 
+intelligence to a deep understanding and embodied experience of entelechy, 
+which is
+a philosophical term, referring to a meaningful process of psychological and/or 
+spiritual content emerging from within the field of consciousness in a wise and 
+orderly manner. I have come to believe that each person ‘s psyche is infinitely 
+wiser than the egos of the patient and therapist (or traveler and guide) and, if 
+trusted, will manifest the experiential sequences of imagery, memories, 
+emotions, revelations and insights needed to facilitate conflict-resolution, 
+communication with the sacred realms of the Self, and healing. (Richards, 
+2003, p. 33)
+Spiritual intelligence is evidenced by knowledge of the process of entelechy, 
+having existential meaning-making capacities (Emmons, 2003) and familiar-
+ity with mystical states of consciousness (King & DiCecco, 2009).
+Careful considerations of the descriptions by Passie (2012), Bossis (2014), 
+and Richards (2014) of the qualities of experiences within transpersonal and 
+mystical realms of consciousness reveal descriptors of spiritual intelligence 
+in the competent therapist. Passie (2012) describes a set of six characteristic 
+elements of transpersonal experience with MDMA, which are aspects of spir-
+itual intelligence: (a) ability to open up toward inner awareness, (b) feeling 
+free to accept oneself, (c) feelings of relaxed detachment to an extent that 
+everything appears safe, (d) a felt contact with an inner core, (e) a feeling for 
+what love is, and (f) awareness of nonmaterial aspects of being and happi-
+ness. Competent therapists with spiritual intelligence have knowledge and 
+
+
+Phelps	
+17
+values related to what Bossis (2014) describes in his derivation of four themes 
+of experience from psilocybin in end-of-life anxiety research: (a) transcen-
+dence into the nature of self, (b) cultivation of equanimity, (c) acceptance of 
+change and impermanence, and (d) the experience of love (p. 267).
+Therapist guides with this competency have the awareness of what 
+Richards (2014) describes as truth claims that are resultant from mystical 
+experiences: (a) the primordial reality of the spiritual dimension of con-
+sciousness, (b) the indestructible nature of this form of consciousness, (c) 
+interrelatedness within the great unity of all human beings and perhaps all life 
+forms, (d) agape as the ultimate energy at the core of reality, and (e) the 
+incredible, awesome beauty of these states in design, visuals, wisdom and 
+meaning. These qualities of psychedelic therapists’ spiritual intelligence are 
+best described as an “embodied knowledge.” “All the researchers therefore 
+ended up at least sympathetic to and, in several cases deeply committed to, a 
+spiritual worldview” (Walsh & Grob, 2006, p. 438).
+Competent psychedelic therapists embody spiritual intelligence, which is 
+woven with an appreciation of the mystery of realms of transpersonal con-
+sciousness (Vaughan, 2002) and of one’s own being and suffering (Richards, 
+2015). Correlations of clinical outcomes of such values held by the therapist, 
+and skillfully applied in psychedelic-assisted psychotherapy, will be a fruitful 
+line of future empirical inquiry. These therapist sensibilities are akin to par-
+ticipants’s subjective mystical experiences which are significantly correlated 
+to the positive outcomes on many clinical variables in psychedelic-assisted 
+therapy research.
+Competency 4: Knowledge of the Physical and Psychological 
+Effects of Psychedelics
+The components of this expertise range from knowledge of the anthropology 
+of shamanism; neurobiology, neuropharmacology, and drug dispositions; 
+skills in the creation of safe and artful sets and settings; and optimally, knowl-
+edge from subjective, phenomenological experience of personal psychedelic-
+assisted therapy. The work of contemporary psychedelic therapy and research 
+has benefited from knowledge of ancient and contemporary indigenous prac-
+tices of ceremonial use of plant medicines, which have time-honored sets and 
+settings. Psychedelic scholars have noted the need for guides in psychedelic-
+assisted therapy to have in-depth, theoretical, and experiential knowledge of 
+the cross-cultural roots of the global use of plant medicines (Bravo & Grob, 
+1989; Grob & Dobkin de Rios, 2013; Metzner, 1998; Narby, 1998; Smith 
+et al., 2004). Schultes (1979) contributed to this discussion early in the past 
+
+
+18	
+Journal of Humanistic Psychology 00(0)
+century when describing the dedication and skill of leaders in guiding inquiry 
+and healing with peyote in southwestern and Mexican indigenous communi-
+ties. Expertise in this area can range from the therapeutic application of the 
+anthropology of shamanism, knowledge of ethnobotany, and skillful, artful 
+inclusion of ceremonial aspects of healing within community (Davis, 1996; 
+Furst, 1976; Labate, 2014; McKenna, 2007; Schultes, 1979; Smith, 1988; 
+Wasson, Hofmann, & Ruck, 2008).
+Researchers have reiterated that therapists need to be thoroughly knowl-
+edgeable in all aspects of current best practices for creating appropriate set 
+and setting for safe and optimal outcomes. These skills include competence 
+in the thorough assessment for eligibility of candidates for psychedelic-
+assisted therapy; informed knowledge of contraindications for such partici-
+pation; and experience in building rapport while working closely with a 
+cotherapist, as well as with a multidisciplinary treatment team (Greer & 
+Tolbert, 1998; Johnson et al., 2008; Passie, 2012). The authoritative com-
+pendium of safety procedures for psilocybin-assisted therapy from Johnson 
+et al. (2008) is an oft-referenced summary of the wisdom on safety proce-
+dures and ethical practices. Knowledge is necessary regarding risk assess-
+ment and mitigation for acute, difficult effects, such as the potential 
+overwhelming distress of dysphoric somatic, emotional, and existential 
+experiences in a session. The therapist “should be knowledgeable about the 
+medical and psychological markers of potential adverse reactions to the 
+drug” (Johnson et al., 2008, p. 610). Knowledge of hallucinogen persisting 
+perception disorder, preexisting conditions, and clinical reports of unusual 
+drug reactions is of key importance in this competency. 
+Psychedelic therapists need to be astute in theories of child and adult 
+development, as sessions of psychedelic-assisted therapies often reveal the 
+participant’s current developmental challenges and accompanying life nar-
+ratives. A related skill is the requirement that the therapists successfully 
+know how to persuade the volunteers to stay onsite, to refrain from destruc-
+tive acts to self, other, or property; and from sexual activities; and to follow 
+therapists’ instructions for safety (Greer & Tolbert, 1986; Harmon, McKim, 
+Mogar, Fadiman, & Stolaroff, 1966; Shulgin, 2001). Therapist guides in 
+double-blinded comparison treatment groups need to understand all the 
+nuances and limitations to their behavior in order to keep the integrity of the 
+blind intact through the duration of the study (Griffiths et al., 2006). In terms 
+of creating an artful and aesthetic physical environment for the session, there 
+are excellent and thorough references on the use of music, flowers, art, light-
+ing, chalices, the décor, furniture, and a personal altar for the participant 
+(Bonny & Pahnke, 1972; Cooper, 2014; Grob, 2002; Kaelen et al., 2015; 
+Mithoefer, 2009; Fadiman, 2011; Metzner, 2015; Richards, 2009).
+
+
+Phelps	
+19
+Psychedelic therapist guides should be competent in their knowledge in 
+anatomy and physiology; neurobiology; pharmacology; drug disposition and 
+interactions; and neuropharmacology of psychedelic drugs (Grob et al., 2013; 
+Hoffer & Osmond, 1967; Nichols, 2004; Pahnke & Richards, 1966; Walsh & 
+Grob, 2006). Familiarity with clinical narratives on the normative effects of 
+different psychedelic drugs at varying dosages in a variety of sets and settings 
+is highly instructive as well (Abramson, 1956; Fadiman, 2011; Metzner, 
+2013, 2015; Stolaroff, 1997). Related to these drug-related knowledge base 
+competencies is an issue in the field that is agreed on in principle, but became 
+illegal to enact after MDMA was deemed a Schedule I drug by the FDA in 
+1985. Since the 1950s, there has been agreement about the essential need for 
+any medical personnel and therapists working with psychedelic-assisted ther-
+apies to have personal experiences with the drugs in a safe set and setting 
+(Grof, 2005; Hoffer & Osmond, 1967; Metzner, 2015; Mithoefer, 2009; 
+Sherwood et al., 1962). In his recent book, Richards (2015) echoes the per-
+spective of many scholars and therapists that the capacities of therapists are 
+enhanced when they are experienced themselves with the psychedelic 
+medicine(s) with which they are conducting therapy and research:
+Besides gaining knowledge of the different terrains within the mind, which is 
+likely to increase the practitioner’s empathy and effectiveness when working 
+with future patients, sensitivity to the potency of factors such as trust, honesty, 
+courage, and openness is likely to be enhanced. (p. 148)
+In the 1990s when research began again under FDA approval, the discus-
+sion among scholars in the field revolved around the dilemma of promoting 
+this valuable competency-based training when it had been deemed illegal for 
+everyone except participants in the approved clinical trials. Grof (1980) states 
+that from his viewpoint “it is impossible for the future LSD therapist to 
+acquire deeper understanding of the process without first-hand exposure” (p. 
+101). Shulgin (2001) reiterates that with psychedelics the therapist them-
+selves “MUST have had this kind of emotional and spiritual journey, if [he or 
+she] asks a client to undergo it” (p. 201, emphasis in original). Earlier, Hoffer 
+and Osmond (1967) observed that when having a psychedelic therapeutic 
+session, if a therapist “has had a psychedelic reaction he will understand a 
+similar reaction in his patients and if he has a psychotomimetic reaction he 
+will sympathize with this kind of reaction in his patient” (p. 109). Swiss and 
+German health authorities have actually required that therapists in a psyche-
+delic study first take that drug as specified by the protocol with which they 
+are working (Strassman, 2010). The Czech model in the 1950s required five 
+personal sessions and 30 sessions as a guide as a requirement in a therapist’s 
+
+
+20	
+Journal of Humanistic Psychology 00(0)
+training (Grof, 2005). Researchers at MAPS successfully gained FDA 
+approval to allow training therapists to be participants in a Phase 1 study with 
+healthy subjects (Mithoefer, 2009). This unique and strategic protocol has 
+allowed for the personal experience of MDMA for the MAPS fully trained 
+therapists.
+Competency 5: Therapist Self-Awareness and Ethical Integrity
+This competency relates to six components of the therapist’s acumen related 
+to: self-awareness of personal motives for this work; integrity in protecting 
+boundaries with the volunteers; well-developed capacities for building ther-
+apeutic alliances; skills in attachment theories, and transference-counter-
+transference analysis; and personal self-care (which protects both the 
+therapist guide and the volunteers). A core component of this competency is 
+a capacity to wisely reflect on one’s motives when conducting psychedelic 
+therapy while simultaneously working with participants’ attachment and 
+transferential processes (Fisher & Martin, 1969; Grof, 1968; Sherwood 
+et al., 1962; Strassman, 2001). The consensus is that psychedelic therapists 
+should work closely with a clinical supervisor on these issues that invariably 
+occur. Transferential issues have been seen to arise more often in higher 
+dose treatment, depending on the emerging unconscious processes (Grof, 
+1980; Lennard & Hewitt, 1960; Strassman, 2010; Yensen & Dryer, 1992), 
+but are not likely to lead to idealization of the therapist (Cohen & Ditman, 
+1963; Passie, 2012). In sessions in which transference is triggered, “there is 
+little doubt that a Jungian analyst will find many archetypes nor will Freud’s 
+disciples lack early memories of Oedipal conflict” (Hoffer & Osmond, 1967, 
+p. 109).
+Researchers have highlighted the need for therapists to scrutinize their 
+responses in countertransference with participants in each step of the treat-
+ment, particularly during the psychedelic sessions. Given the intensity of 
+affect that can emerge, “the therapist can all too easily be drawn into acting 
+out with a patient, actually preventing the patient from gaining insight” 
+(Buckman, 1967, p. 90). Fadiman (2011) reports clinical findings that the 
+participants “became distressed when the guide had become unsettled, uncer-
+tain or upset” (p. 21). Learning to not directly enact roles in response to the 
+participant’s unconscious material during sessions is a key skill in this com-
+petency (Blewett & Chwelos, 1959; Greer & Tolbert, 1986; Passie, 2012; 
+Strassman, 2010). Sherwood et al. (1962) reported that psychedelic therapy 
+“tends to discourage any sort of long-term dependency or transference rela-
+tionship with the therapist” (p. 72). In a unique balance that characterizes 
+psychedelic therapy, this special quality of the transference analysis “is 
+
+
+Phelps	
+21
+indispensable and the nonreinforcing and nonresponding attitude of the ther-
+apist is a necessary prerequisite enabling the patient to reach the core experi-
+ence” (Grof, 1968, p. 465).
+The client sets the goals for himself, the therapist accepts those goals and 
+accepts the fact that only the client can achieve them. A dependency transfer 
+relationship to the therapist is not sought, but rather the dependency is placed 
+on that source of information within the client which is made accessible by the 
+drugs so that the client develops a reliance on those aspects of his own 
+developing states of consciousness. (Fisher & Martin, 1969, p. 69)
+These aspects of the therapeutic alliance building are thoroughly sup-
+ported, of course, by first four competencies of the therapist guide: empa-
+thetic abiding presence; trust enhancement capacities; spiritual intelligence; 
+and knowledge of and skills in safe, informed sets and settings. The field of 
+psychedelic research “demands very high requirements in the training and 
+experience of therapists, who must always comport themselves with good 
+psychotherapeutic skills and a high degree of personal integrity” (Passie, 
+2012, p. 67). Grof (1980) recommends the cultivation of thorough self-reflec-
+tion and becoming conscious of impulses to act impressively and to demon-
+strate power or authority with participants. Metzner (2015) cautions therapists 
+to be ever aware of the potential for their own grandiosity and the overideal-
+izing of their perceptions of what is meaningful in states of consciousness 
+associated with psychedelic-assisted therapy. 
+Self-awareness of power dynamics is very important when supporting the 
+sense of safety felt by participants from underrepresented populations, such as 
+people of color and LGBTQ (lesbian, gay, bisexual, transgender, and queer) 
+identified persons. Competency in these regards can avert ethical pitfalls that 
+might otherwise be at risk during the psychological activation by the medicine 
+(Dahlberg, 1967; Naranjo, 2013). An adjunct to this ability to self-reflect is the 
+guide’s self-care skills, so as to avoid compassion fatigue and to process what 
+happened in sessions with her or his research team (Cooper, 2014; Eisner & 
+Cohen, 1958; Smith, 1988). “It is important that therapists continue doing their 
+own inner work and that they take time for regular debriefing with the co-
+therapist” (Mithoefer, 2016, p. 57). These skills of integrity and ethical behav-
+ior protect both the volunteer and the guide from relational outcomes that could 
+hamper the effectiveness of psychedelic-assisted therapy. The last component 
+of this competency is an adoption of and acting within guidelines in relevant 
+ethical codes (in addition to the ethical guidelines of one’s profession).
+For further consideration, there has been fruitful work on the creation of 
+ethical guidelines specific to guiding people who are on spiritual paths, guiding 
+
+
+22	
+Journal of Humanistic Psychology 00(0)
+in Holotropic Breathwork, guiding psychedelic-assisted psychotherapy, and 
+working on collaborative multidisciplinary teams. The Code of Ethics for 
+Spiritual Guides from the CSP (Jesse, 1995) is a milestone in the crucial period 
+of the FDA’s agreement for psychedelic research to begin anew in the 1990s. 
+The collective collaboration of psychedelic elders and scholars within CSP was 
+seminal in catalyzing the heft of the current renaissance in psychedelic research. 
+CSP regarded ethics as foundational for its subsequent work, which encom-
+passed matters of religious freedom and instituting university research with 
+psilocybin, particularly when given experimentally to healthy volunteers. The 
+CSP code of ethics has nine foci: intention, serving society, serving individuals, 
+competence, integrity, quiet presence, not for profit, tolerance, and peer review. 
+The code was developed by CSP for “guides” to be inclusive of, but not 
+restricted to, community members who “feel called to assist others along spiri-
+tual paths, and who are known as ministers, rabbis, pastors, curanderas, sha-
+mans, priests, or other titles” (n.p.). Given that many psychedelic therapists see 
+their work as potentially aiding people on their spiritual paths, this code is an 
+invaluable resource.
+Cooper (2014) and her team have adapted aspects of the CSP code and 
+professional codes for the Usona Guide Manual for an FDA-approved study 
+on the pharmacokinetics of psilocybin. As part of that manual, the Usona 
+Code of Ethics for Entheogen Guides in a Research Setting contains guide-
+lines for therapist guides in the areas of intention, integrity, competence, 
+health and safety, healthy boundaries, service to individuals, and service to 
+society. (The term “entheogen,” translated as “the eliciting of the divine 
+within,” is a newer word used by a growing number of scholars and research-
+ers instead of the term “psychedelic”, translated as “mind-manifesting.”) A 
+third set of relevant ethical guidelines, Ethics for Holotropic Breathwork 
+Practitioners (Grof Transpersonal Training [GTT], 2016a), outlines ethical 
+behavior in the areas of commitments, confidentiality, safety, boundaries, 
+peer review, community, and dual relationships. Finally, members of the 
+Interprofessional Professionalism Collaborative, representing national asso-
+ciations in psychology and medical specialties, have created a list of values 
+and ethical behaviors for use in multi-disciplinary care-giving teams in medi-
+cal settings (Hammer, et al., 2012). The Interprofessional Professionalism 
+Collaborative delineated 43 attitudes and valued behaviors, such as respect 
+for colleagues in other disciplines, collaboration and team-building skills, 
+and values that are client- and family-centered. In sum, any therapist guide 
+needs to adhere to the ethical competencies outlined by their profession, their 
+practice/research protocols in their professional setting(s), and would do well 
+to adopt relevant sections of these four sets of ethical and values-based guide-
+lines for their research and practice setting.
+
+
+Phelps	
+23
+Competency 6: Proficiency in Complementary Techniques
+The primary components of this competency are skills and knowledge that 
+form a toolbox of complementary therapeutic methods to use in various 
+phases of the therapy and research. Many types of complementary therapeu-
+tic skills have been explored for the early preparation phase, to bring closure 
+within the psychedelic session itself, or for use during integration sessions 
+(Grob, 2002). These additional skills and therapeutic methods used by guides 
+include somatic-oriented techniques such as Holotropic Breathwork (Grof, 
+2009; Mithoefer, 2009; Taylor, 2007); stress inoculation, therapeutic body 
+work, and touch (Cooper, 2014; Eisner & Cohen, 1958; Johnson et al., 2008; 
+Mithoefer, 2016); techniques of eye-gazing at a mirror or with the therapist 
+(Abramson, 1967; Eisner & Cohen, 1958; Grof, 1968); felt sensing and 
+focusing (Danforth, 2009); and somatic experiencing and sensorimotor thera-
+pies (Dahlberg, 1967; Mithoefer et al., 2013; Taylor, 2007). 
+Other competencies that have been found to be useful are guided affective 
+imagery (Bonny & Pahnke, 1972; Leuner, 1969; Richards, 2015); meditation 
+during integration periods (Griffiths et al., 2011; Watts, 1970); psychoanaly-
+sis (Grof, 1968; Naranjo, 2013); the Bonny Method of Guide Imagery and 
+Music and expressive arts therapy (Bonny & Savary, 1973); logotherapy, 
+existential, and narrative therapy (Bossis, 2014); posthypnotic suggestions 
+(Hastings, 2006); family-oriented techniques with photos or analytic inquiry 
+such as Internal Family Systems work (Mithoefer, 2016; Stolaroff, 1997); 
+hakomi, gestalt, voice dialogue, and psychosynthesis (Cooper, 2014; 
+Mithoefer, 2016); and shadow work (Grof, 1968; Shulgin, 2001). Depending 
+on the particular protocol and therapeutic issues, a multivaried skill-set in 
+these types of methods is called for in a proficient psychedelic therapist.
+Horizons of Psychedelic Therapist Training
+With rare exception, there is a consensus that there needs to be specialized 
+training for professionals to be proficient in psychedelic-assisted psychother-
+apy (Cohen & Ditman, 1963; Kurland et al., 1973; Mithoefer, 2016; Pahnke 
+& Richards, 1966; Strassman, 2010). Clearly, the clinical results are profound 
+and more professionals should be trained to support it. Further evidence of 
+need for skilled therapists, clergy, and medical professionals is found in the 
+2015 national survey data that that 1.2 million people over age 12 reported 
+taking a hallucinogen in the past month (Center for Behavioral Health 
+Statistics and Quality, 2016). This group represents a much larger population 
+that would immediately benefit from a significant rise in the availability of 
+clinical expertise for helping with risk mitigation and the after-effects of such 
+
+
+24	
+Journal of Humanistic Psychology 00(0)
+experiences in less than ideal sets and settings. Additionally, after Phase 3 
+trials are sufficiently underway, drug researchers can seek FDA-approval for 
+what are known as expanded access programs: research and clinical pro-
+grams serving patients who are deemed to have “a serious or life-threatening 
+disease or condition and no other comparable or satisfactory therapeutic 
+options” (FDA, 2013, p. 6). If this happens with MDMA and/or psilocybin, 
+then there will be further need for therapeutic services from properly trained 
+medical professionals, therapists, clergy, and chaplains to work in clinics and 
+centers that have expanded access programs.
+The charge of academic professional programs in psychedelic therapy and 
+research is to do justice to the training of expertise in the six therapist compe-
+tencies. Through the work of MAPS, Heffter, Usona, the GTT, and the 
+California Institute of Integral Studies (CIIS), there are well-established and 
+newly developed psychedelic-assisted therapy training programs (or in 
+Holotropic Breathwork, as is the case of GTT). The leadership of Michael 
+and Annie Mithoefer has been profoundly effective in the development of the 
+MAPS training program for future MDMA-assisted research therapists 
+(Mithoefer, 2009, 2016). The training involves didactic, practical, and expe-
+riential training (as mentioned earlier, their trainees may receive MDMA-
+assisted psychotherapy as part of their training in an FDA-approved protocol). 
+In a well-organized mentoring program, senior Heffter researchers in clinical 
+trials conduct the training for each new medical team receiving Heffter fund-
+ing for psychedelic research. They provide continuity in terms of supervision, 
+mentoring, and guidance in all aspects of the Heffter-funded psilocybin-
+assisted research.
+The Usona Institute has created a thorough and astute Guide Manual for 
+training therapists in research on the pharmacokinetics of psilocybin (Cooper, 
+2014). The Usona manual is applicable to other psychedelic-assisted research 
+as well. The CIIS (2014) pioneered the first academically accredited certifi-
+cate program in Psychedelic-Assisted Therapy and Research for training 
+clergy, medical, and mental health credentialed professionals. This postgrad-
+uate certificate program is currently training the second cohort of licensed 
+physicians, clinical psychologists, nurses, clergy, and masters level therapists 
+for advanced professional development at psychedelic-assisted therapy cen-
+ters for FDA-approved research and future expanded access programs. The 6 
+competencies and 12 curricular domains of study, which follow, are central to 
+the learning outcomes and goals of the innovative CIIS training program. The 
+Psychedelic Psychotherapy Training of the Orenda Institute (2015) in British 
+Columbia is a cohort-based program of theory and practice for professional 
+therapists who wish to learn psychedelic-assisted psychotherapy. In a related 
+area of training, Stan and Christina Grof founded GTT and conducted 
+
+
+Phelps	
+25
+Holotropic Breathwork training with the wisdom of set and setting learned 
+when Stan Grof was engaged in LSD research (GTT, 2016b). The multifac-
+eted GTT training enables students to learn competencies to be sitters in 
+breathwork sessions (Grof & Grof, 2010; Taylor, 2007).
+Twelve Domains of Training in Psychedelic-Assisted Therapy
+The following curricular areas of study are foundational for any training pro-
+gram designed to educate psychedelic therapists. Each of these 12 domains 
+will enhance the development of several of the six therapist guide competen-
+cies. Future benchmarks of success in training, derived by each unique train-
+ing program, can be evaluated based on a coherent linking of competencies 
+and their components to the goals and learning objectives, and to the areas of 
+study that are emphasized in that program. A training program’s emphasis on 
+each of the 12 areas will uniquely depend on the intended scope of practice 
+of their graduates (e.g., for Phase 3 research, for expanded access research 
+programs, or in future clinical, palliative, and pastoral care in clinics and 
+perhaps, community-based centers). Trainees should be licensed medical and 
+mental health professionals or ordained/commissioned clergy and chaplains 
+who have had sufficient psychiatry, psychology, and psychotherapy or pasto-
+ral counseling training and experience. This includes clinical psychologists, 
+clinical social workers, marriage and family therapists, as well as physicians 
+and nurses, ordained clergy, and commissioned chaplains who are well 
+trained in psychotherapeutic methods. The instructors should be recognized 
+scientists, clinicians, members of the clergy, and elders who have a demon-
+strated expertise in one or more of the domains. The 12 curricular domains of 
+study for training in psychedelic-assisted psychotherapy are the following:
+  1.	 The history of clinical research and current legal status of psyche-
+delic-assisted therapy
+  2.	 Neurobiology, neuropharmacology, drug disposition, and drug 
+interactions
+  3.	 Best practices in sets and settings: preparation, psychedelic session, 
+and integration
+  4.	 Psychedelics and therapeutic relationships: transference, boundaries, 
+ethics, and self-care
+  5.	 Supervised observation of psychedelic session videos
+  6.	 Variations in therapeutic models: client-centered and psycholytic psy-
+chedelic therapy
+  7.	 Complementary therapeutic techniques in psychedelic-assisted 
+therapy
+
+
+26	
+Journal of Humanistic Psychology 00(0)
+  8.	 Co-therapy methods and interprofessional skills for working on mul-
+tidisciplinary teams
+  9.	 Current models of consciousness, spiritual intelligence, and mystical 
+experiences
+10.	 Ceremonial use of psychedelics in religious and community settings
+11.	 Individual and group clinical supervision during an internship as a 
+psychedelic therapist in FDA-approved clinical trials or expanded 
+access clinical research programs
+12.	 Personal experience of being guided as a research participant in an 
+FDA-approved study
+Regarding the last domain of study in the absence of or as an adjunct to 
+the legal use of psychedelics in preparing competent therapists, training 
+programs can improvise many sources of inductions of nonordinary, alter-
+nate states of consciousness in their curriculum. These include Holotropic 
+Breathwork; drumming and rattling inductions; solo wilderness journeys; 
+isolation tank immersion; participation as a church member in ceremonies 
+with the União do Vegetal, Santo Diame, or Native American Church; pro-
+longed meditation retreats; work in harm reduction or medical centers at 
+events and festivals; and experience healing sets and settings in countries 
+where usage of a particular psychedelic is legal. The fourfold purpose of 
+such experiential training is to support trainees to develop the following: 
+(a) skillful means of personal healing practices that foster spiritual intel-
+ligence and empathetic abiding presence; (b) personal knowledge of the 
+primacy of the inner healing capacity and the secondary impact of the 
+guide on psychedelic-assisted corrective emotional experiences; (c) per-
+sonal knowledge and attitude of appreciation for numinous qualities of the 
+mystical realms of consciousness; and (d) a comfort with unexpected and 
+difficult experiences in induced alternate states.
+Much fruitful discussion and debate can emerge regarding questions of 
+training in these 12 areas of study, in light of the scope of practice toward 
+which the programs are training. This would include such questions as the fol-
+lowing: Which of the areas of study are or are not essential for particular a 
+competency? What are the best practices for educating trainees in these areas 
+of study and in what kind of learning environment(s)? How should the prog-
+ress of the trainees be assessed as they move through the program? In what 
+ways should the training program’s effectiveness be evaluated, based on its 
+scope, goals, and learning objectives? CIIS is conducting a program evalua-
+tion of our first year of training in order to address questions such as these. The 
+established training programs of Heffter, MAPS, GTT and CIIS have much to 
+teach us about these questions as they also continue to evolve their curricula.
+
+
+Phelps	
+27
+Renewed Psychedelic Therapy Training Conversations
+As more training programs are developed in this current flux in the scope of 
+practice, these six core therapist guide competencies will be essential in the 
+expansion into areas of new research designs, clinical methods, and pastoral 
+care in medical and community-based centers. Pahnke and Richards (1966) 
+suggested long ago that such centers could include psychiatrists, therapists, 
+and professional religious personnel. Increasing interest of clergy and chap-
+lains in being guides and becoming psychedelically experienced would create 
+welcome discourse about both how to train guides who are clergy and about 
+how clergy are trained (Richards, 2009; Roberts & Hruby, 2002; Vaughan, 
+2001). Should the future come to include possible applications of psychedelics 
+for “the betterment of well people” (Jesse, 1994), the scope of practice and 
+guide training programs may begin to include people respected in their com-
+munity due to their therapeutic capacities. Work in ketamine-assisted therapy 
+(Wolfson and Hartelius, 2016; Zarate et  al., 2006) will bring about more 
+opportunities for trained therapist guides to use these competencies. 
+There is no doubt that, during expanded access periods and beyond, some 
+of the most interesting work will be done by therapists who will utilize and 
+adapt wisdom both from the analytically-oriented, psycholytic research and 
+from the more humanistic, client-centered frames of current clinical trials. 
+There is an urgent need to address the issue of more diversity among thera-
+pists in terms of increasing the participation of women, people of color, and 
+those who are LGBTQ-identified. A fruitful renewal of exploration on the 
+enhancement of creativity, art, problem solving, and team building with psy-
+chedelics (Harmon et al., 1966; Krippner, 1968; Savage et al., 1964) will 
+require the training of guides to meet different needs of set and setting.
+Conclusions
+The trajectory of psychedelic-assisted psychotherapy has been inextricably 
+linked to the social and political forces within which it has been pursued. The 
+research programs in the early decades of the 1950s and 1960s enjoyed flex-
+ibility in the exploration of many variables thought to be associated with 
+therapeutic effectiveness (Grinspoon & Bakalar, 1979). The outcomes of this 
+research in the early years and in the past 25 years have been significant, 
+iterative, and profound. Findings indicate that psychedelic-assisted psycho-
+therapy can significantly increase capacities for coping and making meaning, 
+increase empathy, lessen anxiety and other symptomologies, evoke life-
+affirming transpersonal/mystical experiences, and enhance the quality of life. 
+The contributions these researchers have made to the betterment of mental 
+
+
+28	
+Journal of Humanistic Psychology 00(0)
+health and our understanding of healing in such a short period of time is laud-
+able. The federal restrictions on psychedelic research since the 1970s and 
+1980s have had far-reaching effects on the types of therapeutic variables 
+studied. Unfortunately, therapist effectiveness and competence variables 
+have not been a contender as an area of focus in the required context of dou-
+ble-blind clinical trials with treatment manuals. In order to demonstrate effi-
+cacy of the psychedelic medicine, therapist variables have often been seen as 
+intervening variables that are necessary to control for in the research design.
+Therapist competencies have been discussed only sporadically in the 
+wider psychedelic literature, but this review has compiled and elucidated 
+identifiable trends in terms of 6 core competencies. The importance of 12 
+curricular domains of study and guidelines for therapist training was expli-
+cated. Should this renaissance continue apace, this compilation of core 
+competencies and training areas of study can serve as a vehicle for philo-
+sophical debate, research, and the refinement of the competencies and 
+domains of training elucidated here. Of course, there are reasons that this 
+work is important beyond the tidy design of training programs for therapist 
+guides. Freedom of religion and spiritual practices utilizing psychedelics 
+has been suppressed in the United States. And people with critical medical 
+conditions cannot derive the benefit of accessing the psychedelic medi-
+cines. What we may well be preparing for is a redemptive developmental 
+stage in the life of the psychedelic research field, in which perhaps:
+Interdisciplinary research and retreat centers could someday be established at 
+which volunteer subjects who pass medical and psychological screening could 
+receive entheogens. Some might apply to come to such centers for personal, 
+spiritual reasons alone, and have little interest in research. Others might be 
+willing to contribute to research. (Richards, 2005, p. 386)
+The healing and transformational experiences to be found in psychedelic-
+assisted exploration in therapeutic and supportive sets and settings are a 
+birthright. The diligent and devoted work of the scholars and researchers in 
+this field will be looked on by future generations as absolutely heroic.
+Acknowledgments
+The author wishes to thank Chris Bache, Anthony Bossis, Ricci and Jack Coddington, 
+Charles Grob, Robert Jesse, Ralph Metzner, Carolyn Pritchard, William Richards, 
+and Joseph Subbiondo for their most helpful support of this article.
+Declaration of Conflicting Interests
+The author declared no potential conflicts of interest with respect to the research, 
+authorship, and/or publication of this article.
+
+
+Phelps	
+29
+Funding
+The author received no financial support for the research, authorship, and/or publica-
+tion of this article.
+References
+Abramson, H. (1956). Some observations on normal volunteers and patients. In L. 
+Cholden (Ed.), Proceedings of the round table on lysergic acid diethylamide 
+and mescaline in experimental psychiatry (pp. 51-54). New York, NY: Grune 
+& Stratton.
+Abramson, H. (Ed.). (1960). The use of LSD in psychotherapy (Transactions of a 
+conference on LSD-25, April 1959). Princeton, NJ: Josiah Macy Jr. Foundation.
+Abramson, H. (Ed.). (1967). The use of LSD in psychotherapy and alcoholism. 
+Indianapolis, IN: Bobbs-Merrill.
+Bache, C. (2000). Dark night, early dawn: Steps to a deep ecology of mind. Albany: 
+State University of New York Press.
+Badiner, A. (Ed.). (2015). Zig zag Zen: Buddhism and psychedelics. Santa Fe, NM: 
+Synergetic Press.
+Baggott, M., Kirkpatrick, M., Bedi, G., & de Wit, H. (2015). Intimate insight: MDMA 
+changes how people talk about significant others. Journal of Psychopharmacology, 
+29, 669-677. doi:10.1177/0269881115581962
+Blewett, D. B., & Chwelos, N. (1959). Handbook for the therapeutic use of lysergic 
+acid diethylamide-25 individual and group procedures. Retrieved from https://
+www.erowid.org/psychoactives/guides/handbook_lsd25.pdf
+Bogenschutz, M. (2015). A double-blind trial of psilocybin-assisted treatment of alco-
+hol dependence. Retrieved from https://clinicaltrials.gov/ct2/show/NCT0206129
+3?term=bogenschutz+michael&rank=3
+Bogenschutz, M. P., & Johnson, M. W. (2016). Classic hallucinogens in the treatment 
+of addictions. Progress in Neuro-Psychopharmacology & Biological Psychiatry, 
+64, 250-258. doi:10.1016/j.pnpbp.2015.03.002
+Bonny, H. L., & Pahnke, W. N. (1972). The use of music in psychedelic (LSD) psy-
+chotherapy. Journal of Music Therapy, 9, 64-87. doi:10.1093/jmt/9.2.64
+Bonny, H. L., & Savary, L. M. (1973). Music and your mind: Listening with a new 
+consciousness. Oxford, England: Harper & Row.
+Bossis, A. (2014). Psilocybin and mystical experience: Implications for the allevia-
+tion of existential and psycho-spiritual distress at end of life. In J. H. Ellens (Ed.), 
+Seeking the sacred with psychoactive substances (Vol. 2, pp. 251-284). Santa 
+Barbara, CA: Praeger.
+Bravo, G., & Grob, C. (1989). Shamans, sacraments and psychiatrists. Journal of 
+Psychoactive Drugs, 21, 123-128.
+Buckman, J. (1967). Theoretical aspects of LSD therapy. In H. Abramson (Ed.), The 
+use of LSD in psychotherapy and alcoholism (pp. 83-100). Indianapolis, IN: 
+Bobbs-Merrill.
+Bugenthal, J. (1978). Psychotherapy and process: The fundamentals of an existential-
+humanistic approach. Menlo Park, CA: Addison-Wesley.
+
+
+30	
+Journal of Humanistic Psychology 00(0)
+California Institute of Integral Studies. (2014). Certificate in psychedelic-assisted 
+therapies and research. Retrieved from http://www.ciis.edu/public-programs-
+and-performances/certificate-programs/certificate-in-psychedelic-assisted-thera-
+pies-and-research
+Carhart-Harris, R., Erritzoe, D., Williams, T., Stone, J., Reed, L., Colasanti, A., . . . 
+Nutt, D. (2017). Neural correlates of the psychedelic state as determined by fMRI 
+studies with psilocybin. Proceedings of the National Academy of Sciences, 109, 
+2138-2143. doi:10.1073/pnas.1119598109
+Center for Behavioral Health Statistics and Quality. (2016). Key substance use and 
+mental health indicators in the United States: Results from the 2015 National 
+Survey on Drug Use and Health (HHS Publication No. SMA 16-4984, NSDUH 
+Series H-51). Retrieved from https://www.samhsa.gov/data/sites/default/files/
+NSDUH-FFR1-2015/NSDUH-FFR1-2015/NSDUH-FFR1-2015.pdf
+Cohen, S., & Ditman, K. S. (1963). Prolonged adverse reactions to lysergic acid 
+diethylamide. Archives of General Psychiatry, 8, 475-480. doi:10.1001/arch-
+psyc.1963.01720110051006
+Cooper, K. (2014). Guide manual for pharmacokinetics of psilocybin in healthy adult 
+volunteers study (Unpublished manuscript). University of Wisconsin, Madison.
+Dahlberg, C. C. (1967). LSD facilitation of psychoanalytic treatment: A case study in 
+depth. In H. Abramson (Ed.), The use of LSD in psychotherapy and alcoholism 
+(pp. 237-257). Indianapolis, IN: Bobbs-Merrill.
+Danforth, A. (2009). Focusing-oriented psychotherapy as a supplement to prepara-
+tion for psychedelic therapy. Journal of Transpersonal Psychology, 41, 151-
+160.
+Danforth, A. L., Struble, C. M., Yazar-Klosinski, B., & Grob, C. S. (2015). MDMA-
+assisted therapy: A new treatment model for social anxiety in autistic adults. 
+Progress in Neuro-Psychopharmacology & Biological Psychiatry, 64, 237-249. 
+doi:10.1016/j.pnpbp.2015.03.011
+Dass, R., Metzner, R., & Bravo, G. (2010). The birth of a psychedelic culture. Santa 
+Fe, NM: Synergetic Press.
+Davis, W. (1996). One river: Explorations and discoveries in the Amazon rain forest. 
+New York, NY: Simon & Schuster.
+Degenhardt, L., & Hall, W. (2010). (Eds.). The health and psychological effects of 
+ecstasy (MDMA) use (NDARC Monograph No. 62). Sydney, New South Wales, 
+Australia: National Drug and Alcohol Research Centre, University of New South 
+Wales.
+Doblin, R. (2015). From the desk of Rick Doblin: Winter 2015. Retrieved from http://
+www.maps.org/news/bulletin/articles/392-bulletin-winter-2015/5917-from-the-
+desk-of-rick-doblin,-ph-d-winter-2015
+Doblin, R., & Burge, B. (2014). Manifesting minds. Berkeley, CA: Evolver Editions.
+Echenhofer, F. (2011). Ayahuasca shamanic visions: Integrating neuroscience, psy-
+chotherapy, and spiritual perspectives. In B. M. Stafford (Ed.), A field guide to a 
+new meta-field: Bridging the humanities-neurosciences paradigm (pp. 153-203). 
+Chicago, IL: University of Chicago Press.
+
+
+Phelps	
+31
+Eisner, B., & Cohen, S. (1958). Psychotherapy with lysergic acid diethylamide. 
+Journal of Nervous and Mental Disorders, 127, 528-539.
+Emerson, A., Ponté, L., Jerome, L., & Doblin, R. (2014). History and future of 
+the multidisciplinary association for psychedelic studies (MAPS). Journal of 
+Psychoactive Drugs, 46, 27-36. doi:10.1080/02791072.2014.877321
+Emmons, R. A. (2003). The psychology of ultimate concerns: Motivation and spiri-
+tual in personality. New York, NY: Guilford Press.
+Epstein, M. (1984). On the neglect of evenly suspended attention. Journal of 
+Transpersonal Psychology, 16, 193-205.
+Fadiman, J. (1969). The council grove conference on altered states of consciousness. 
+Journal of Humanistic Psychology, 9, 135-137. doi:10.1177/002216786900900203
+Fadiman, J. (2011). The psychedelic explorer’s guide: Safe, therapeutic and sacred 
+journeys. Rochester, VT: Park Street Press.
+Feilding, A. (1998). The Beckley Foundation. Retrieved from http://beckleyfounda-
+tion.org/about/the-foundation/
+Fischer, F. (2015). Therapy with substance: Psycholytic psychotherapy in the twenty-
+first century. Dorset, England: Muswell Hill.
+Fisher, G., & Martin, J. (1969). The psychotherapeutic use of psychodysleptic drugs. 
+Voices, 5(4), 67-72.
+Food and Drug Administration. (2013). Expanded access to investigational drugs for 
+treatment use: Qs and As. Retrieved from http://www.fda.gov/downloads/drugs/
+guidancecomplianceregulatoryinformation/guidances/ucm351261.pdf
+Furst, P. (1976). Hallucinogens and culture. Novato, CA: Chandler & Sharp.
+Gasser, P., Holstein, D., Michel, Y., Doblin, R., Yazar-Klosinski, B., Passie, T., 
+& Brenneisen, R. (2014). Safety and efficacy of lysergic acid diethylam-
+ide-assisted psychotherapy for anxiety associated with life-threatening dis-
+eases. Journal of Nervous and Mental Disease, 202, 513-520. doi:10.1097/
+NMD.0000000000000113
+Greer, G., & Tolbert, R. (1986). Subjective reports of the effects of MDMA in a clini-
+cal setting. Journal of Psychoactive Drugs, 18, 319-327.
+Greer, G., & Tolbert, R. (1990). The therapeutic use of MDMA. In S. J. Peroutka 
+(Ed.), Ecstasy: The clinical, pharmacological and neurotoxicological effects of 
+drugs MDMA (pp. 21-35). Boston, MA: Kluwer Academic.
+Greer, G., & Tolbert, R. (1998). A method of conducting therapeutic sessions with 
+MDMA. Journal of Psychoactive Drugs, 30, 371-379.
+Griffiths, R. R. (2015a). Effects of psilocybin-facilitated experience on the psychol-
+ogy and effectiveness of professional leaders in religion (Ongoing clinical trials). 
+Retrieved from https://clinicaltrials.gov/ct2/show/record/NCT02243813?term=j
+ohns+hopkins+religious+leaders&rank=1
+Griffiths, R. R. (2015b). Effects of psilocybin on behavior, psychology and brain function 
+in long-term meditators (Ongoing clinical trials). Retrieved from https://clinicaltri-
+als.gov/ct2/show/NCT02145091?term=hopkins+meditators+psilocybin&rank=2
+Griffiths, R. R., Johnson, M., Carducci, M., Umbricht, A., Richards, W., Richards, 
+B., . . . Klinedinst, M. A. (2016). Psilocybin produces substantial and sustained 
+
+
+32	
+Journal of Humanistic Psychology 00(0)
+decreases in depression and anxiety in patients with life-threatening cancer: A 
+randomized double-blind trial. Journal of Psychopharmacology, 30, 1181-1197. 
+doi:10.1177/0269881116675513
+Griffiths, R. R., Johnson, M. W., Richards, W. A., Richards, B. D., McCann, U., & 
+Jesse, R. (2011). Psilocybin occasioned mystical-type experiences: Immediate 
+and persisting dose-related effects. Psychopharmacology, 218, 649-665. 
+doi:10.1007/s00213-011-2358-5
+Griffiths, R. R., Richards, W. A., Johnson, M. W., McCann, U. D., & Jesse, R. 
+(2008). Mystical-type experiences occasioned by psilocybin mediate the attribu-
+tion of personal meaning and spiritual significance 14 months later. Journal of 
+Psychopharmacology, 22, 621-632. doi:10.1177/0269881108094300
+Griffiths, R. R., Richards, W. A., McCann, U., & Jesse, R. (2006). Psilocybin can 
+occasion mystical-type experiences having substantial and sustained per-
+sonal meaning and spiritual significance. Psychopharmacology, 187, 268-283. 
+doi:10.1007/s00213-006-0457-5
+Grinspoon, L., & Bakalar, J. (1979). Psychedelic drugs reconsidered. New York, NY: 
+Basic Books.
+Grob, C. (Ed.). (2002a). Hallucinogens: A reader. New York, NY: Jeremy P. Tarcher/
+Putnam.
+Grob, C. (2002b). Psychiatric research with hallucinogens: What have we learned? In 
+C. Grob (Ed.), Hallucinogens: A reader (pp. 263-291). New York, NY: Jeremy 
+P. Tarcher/Putnam.
+Grob, C. S., Bossis, A. P., & Griffiths, R. R. (2013). Use of the classic hallucinogen 
+psilocybin for treatment of existential distress associated with cancer. In B. I. 
+Carr & J. Steel (Eds.), Psychological aspects of cancer (pp. 291-308). New York, 
+NY: Springer.
+Grob, C. S., Danforth, A., Chopra, G., Hagerty, M., McKay, C., Halberstadt, A., & 
+Greer, G. (2011). Pilot study of psilocybin treatment for anxiety in patients with 
+advanced-stage cancer. Archives of General Psychiatry, 68, 71-78. doi:10.1001/
+archgenpsychiatry.2010.116
+Grob, C. S., & Dobkin de Rios, M. (2013). Hallucinogens and related compounds. In 
+R. Rosner (Ed.), Clinical handbook of adolescent addiction (pp. 213-222). New 
+York, NY: John Wiley.
+Grob, C. S., Greer, G., & Mangini, M. (1998). Editors’ introduction: Hallucinogens at 
+the turn of the century. Journal of Psychoactive Drugs, 30, 315-319.
+Grof, S. (1968). Tentative theoretical framework for understanding dynamics of LSD 
+psychotherapy. In J. M. Shlie (Ed.), Research in psychotherapy (pp. 449-465). 
+Washington, DC: American Psychological Association. doi:10.1037/10546-021
+Grof, S. (1980). LSD psychotherapy. Alameda, CA: Hunter House.
+Grof, S. (1998). Human nature and the nature of reality: Conceptual challenges from 
+consciousness research. Journal of Psychoactive Drugs, 30, 343-357. doi:10.108
+0/02791072.1998.10399710
+Grof, S. (2005). The great awakening: Psychology, philosophy, and spirituality in 
+LSD psychotherapy. In R. Walsh & C. Grob (Eds.), Higher wisdom: Eminent 
+
+
+Phelps	
+33
+elders explore the continuing impact of psychedelics (pp. 55-67). Albany: State 
+University of New York Press.
+Grof, S. (2009). LSD: Doorway to the numinous. Rochester, VT: Park Street Press.
+Grof, S., & Grof, C. (2010). Holotropic breathwork: A new approach to self-explora-
+tion and therapy. Albany: State University of New York Press.
+Grof Transpersonal Training. (2016a). Ethical agreements of Holotropic Breathwork 
+practitioners. In Grof Transpersonal Training Application Pack (p. 19). Mill 
+Valley, CA: Author.
+Grof Transpersonal Training. (2016b). Grof Transpersonal Training. Mill Valley, 
+CA: Author. Retrieved from http://www.holotropic.com/transtrain.shtml
+Hammer, D., Anderson, M. B., Brunson, W. D., Grus, C., Heun, L., Holtman, M., . . 
+. Frost, J. (2012). Defining and measuring construct of interprofessional profes-
+sionalism. Journal of Allied Health, 41(2), 49-53.
+Harmon, W., McKim, R., Mogar, R., Fadiman, J., & Stolaroff, M. (1966). Psychedelic 
+agents in creative problem-solving: A pilot study. Psychological Reports, 19, 
+211-227.
+Hastings, A. (2006). An extended nondrug MDMA-like experience evoked through 
+post-hypnotic suggestion. Journal of Psychoactive Drugs, 38, 273-283. doi:10.1
+080/02791072.2006.10399853
+Hoffer, A., & Osmond, H. (1967). The hallucinogens. New York, NY: Academic 
+Press.
+Jerome, L., Schuster, S., & Klosinski, B. (2013). Can MDMA play a role in the treat-
+ment of substance abuse? Current Drug Abuse Reviews, 6, 54-62. doi:10.2174/1
+8744737112059990005
+Jesse, R. (1994). The Council on Spiritual Practices. Retrieved from http://www.csp.
+org/index.html
+Jesse, R. (1995). Code of ethics for spiritual guides. In The Council on Spiritual 
+Practices. Retrieved from http://www.csp.org/code.html
+Jesse, R., & Griffiths, R. R. (2014). Psilocybin research at Johns Hopkins: A 2014 report. 
+In J. H. Ellens (Ed.), Seeking the sacred with psychoactive substances: Chemical 
+paths to spirituality and to god (Vol. 2, pp. 29-43). Santa Barbara, CA: Praeger.
+Johnson, M., Garcia-Romeu, A., Cosimano, M. P., & Griffiths, R. R. (2014). Pilot 
+study of the 5-HT2AR agonist psilocybin in the treatment of tobacco addiction. 
+Journal of Psychopharmacology, 28, 983-992. doi:10.1177/0269881114548296
+Johnson, M., Garcia-Romeu, A., & Griffiths, R. (2017). Long-term follow-up of psi-
+locybin-facilitated smoking cessation. American Journal of Drug and Alcohol 
+Abuse, 43, 55-60. doi:10.3109/00952990.2016.1170135
+Johnson, M. W., Richards, W. A., & Griffiths, R. R. (2008). Human hallucinogen 
+research: Guidelines for safety. Journal of Psychopharmacology, 22, 603-620.
+Kaelen, M., Barrett, F., Roseman, L., Lorenz, R., Family, N., Bolstridge, M., 
+. . . Carhart-Harris, R. (2015). LSD enhances the emotional response to music. 
+Psychopharmacology, 232, 3607-3614. doi:10.1007/s00213-015-4014-y
+Kamjol, S., Kilford, E., Minchin, S., Moss, A., Lawn, W., Das, R., . . . Freeman, 
+T. (2015). Recreational 3,4-methylenedioxy-N-methylamphetamine (MDMA) 
+
+
+34	
+Journal of Humanistic Psychology 00(0)
+or “ecstasy” and self-focused compassion: Preliminary steps in the development 
+of a therapeutic psychopharmacology of contemplative practices. Journal of 
+Psychopharmacology, 29, 961-970. doi:10.1177/0269881115587143
+King, D. B., & DiCecco, T. L. (2009). A viable model and self-report measure for 
+spiritual intelligence. International Journal of Transpersonal Psychology, 28, 
+68-85.
+Kirkpatrick, M., Delton, A., Robertson, T., & de Wit, H. (2015). Prosocial effects of 
+MDMA: A measure of generosity. Journal of Psychopharmacology, 29, 661-
+668. doi:10.1177/0269881115573806
+Krippner, S. (1968). The psychedelic state, hypnotic trance, and the creative act. 
+Journal of Humanistic Psychology, 8(1), 49-67.
+Kurland, A., Grof, S., Pahnke, W. & Goodman, L. (1973). In I. Goldberg, S. Malite, 
+& A. Kutscher (Eds.), Psychopharmacological agents for the terminally ill and 
+bereaved (pp. 86-133). New York, NY: Columbia University Press.
+Labate, B. (2014). Ayahuasca shamanism in the Amazon and beyond. Oxford, 
+England: Oxford University Press.
+Lennard, H., & Hewitt, M. (1960). The study of communication processes under 
+LSD. In H. Abramson (Ed.), The use of LSD in psychotherapy (pp. 199-240). 
+Princeton, NJ: Josiah Macy Jr. Foundation.
+Leuner, H. (1969). Guided affective imagery (GAI). American Journal of 
+Psychotherapy, 23, 4-10.
+Liester, M. B., Grob, C. S., Bravo, G. L., & Walsh, R. N. (1992). Phenomenology and 
+sequelae of 3,4-methylenedioxymethamphetamine use. Journal of Nervous and 
+Mental Disease, 180, 345-352.
+Linton, W. (2014). The Usona Institute. Retrieved from www.usonainstitute.org
+MacLean, K. A., Johnson, M. W., & Griffiths, R. R. (2011). Mystical experiences 
+occasioned by the hallucinogen psilocybin lead to increases in the personal-
+ity domain of openness. Journal of Psychopharmacology, 25, 1453-1461. 
+doi:10.1177/0269881111420188
+Maslow, A. (1970). Religions, values, and peak experiences. New York, NY: Viking.
+Maté, G. (2010). In the realm of the hungry ghosts. Berkeley, CA: North Atlantic.
+McKenna, D. J. (2007). The healing vine: Ayahuasca as medicine in the 21st century. In 
+M. J. Winkelman & T. B. Roberts (Eds.), Psychedelic medicine: New evidence for 
+hallucinogenic substances as treatments (Vol. 1, pp. 21-44). Westport, CT: Praeger.
+Metzner, R. (1998). Hallucinogenic drugs and plants in psychotherapy and shaman-
+ism. Journal of Psychoactive Drugs, 30, 333-341. doi:10.1080/02791072.1998.
+10399709
+Metzner, R. (2013). The toad and the jaguar. Berkeley, CA: Regent Press.
+Metzner, R. (2015). Allies for awakening: Guidelines for productive and safe experi-
+ences with entheogens. Berkeley, CA: Regent Press.
+Mithoefer, M. (2009). A Phase 1 placebo-controlled, double-blind crossover study to 
+assess psychological effects of MDMA when administered to healthy volunteers. 
+Retrieved from https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=
+web&cd=1&cad=rja&uact=8&ved=0ahUKEwjMkpmPuuDTAhVDK48KHQS
+
+
+Phelps	
+35
+GDwEQFgglMAA&url=http%3A%2F%2Fwww.maps.org%2Fmdma%2Fmt1_
+docs%2Fmt1_amend2_protocol_dec_2_09_final.pdf&usg=AFQjCNFVRSlzml
+CvehQODDlO0gMkb2fuJA&sig2=T4DsnFI70wYRbjyQzWVkdg
+Mithoefer, M. (2014). Exploring mechanisms of action in MDMA-assisted psycho-
+therapy for PTSD (Ongoing clinical trials). Retrieved from https://clinicaltrials.
+gov/ct2/show/NCT02102802?term=mithoefer&rank=2
+Mithoefer, M. (2016). A manual for MDMA-assisted psychotherapy in the treat-
+ment of posttraumatic stress disorder. Retrieved from https://s3-us-west-1.ama-
+zonaws.com/mapscontent/research-archive/mdma/MDMAAssistedPsychothera
+pyTreatmentManualVersion+8_25May16_Formatted.pdf
+Mithoefer, M. C., Wagner, M. T., Mithoefer, A. T., Jerome, L., & Doblin, R. (2011). 
+The safety and efficacy of 3,4-methylenedioxymethamphetamine-assisted psy-
+chotherapy in subjects with chronic, treatment-resistant posttraumatic stress disor-
+der: The first randomized controlled pilot study. Journal of Psychopharmacology, 
+25, 439-452. doi:10.1177/0269881110378371
+Mithoefer, M. C., Wagner, M. T., Mithoefer, A. T., Jerome, L., Martin, S. F., Yazar-
+Klosinski, B., & Doblin, R. (2013). Durability of improvement in post-traumatic 
+stress disorder symptoms and absence of harmful effects or drug dependency 
+after 3,4-methylenedioxymethamphetamine-assisted psychotherapy: A prospec-
+tive long-term follow-up study. Journal of Psychopharmacology, 27, 28-39. 
+doi:10.1177/0269881112456611
+Naranjo, C. (2006). The way of silence and the talking cure. Nevada City, CA: Blue 
+Dolphin.
+Naranjo, C. (2013). The healing journey. Santa Cruz, CA: MAPS.
+Narby, J. (1998). The cosmic serpent. New York, NY: Jeremy Tarcher/Putnam.
+Nichols, D. E. (1986). Differences between the mechanism of action of MDMA, 
+MBDB, and the classic hallucinogens: Identification of a new therapeutic class: 
+Entactogens. Journal of Psychoactive Drugs, 18, 305-313. doi:10.1080/027910
+72.1986.10472362
+Nichols, D. E. (2004). Hallucinogens. Pharmacological Therapy, 101, 131-181.
+Nichols, D. E. (2014). The Heffter Research Institute: Past and hopeful future. Journal 
+of Psychoactive Drugs, 46, 20-26. doi:10.1080/02791072.2014.873688
+Noller, G. (2009). Literature review and assessment on MDMA/Ecstasy. Wellington, 
+New Zealand: National Drug Policy, Ministry of Health Publication. Retrieved 
+from 
+http://www.moh.govt.nz/notebook/nbbooks.nsf/0/EE5BDDAA39721D6
+ACC257B8000708A11/$file/July2010Literature-Review-Assessment-Report-
+MDMA-Ecstasy.pdf
+Nutt, D. J., King, L. A., & Nichols, D. E. (2013). Effects of schedule I drug laws on 
+neuroscience research and treatment innovation. Nature Reviews: Neuroscience, 
+14, 577-585. doi:10.1038/nrn3530
+Orenda Institute. (2015). Psychedelic psychotherapy training. Cortes Island, British 
+Columbia, Canada: Author.
+Osmond, H. (1957). A review of the clinical effects of psychotomimetic agents. 
+Annals of the New York Academy of Science, 66, 418-424.
+
+
+36	
+Journal of Humanistic Psychology 00(0)
+Osto, D. (2016). Altered states: Buddhism and psychedelic spirituality in America. 
+New York, NY: Columbia University Press.
+Pahnke, W. N. (1963). Drugs and mysticism: An analysis of the relationship between 
+psychedelic drugs and the mystical consciousness (Unpublished doctoral thesis). 
+Harvard University, Cambridge, MA.
+Pahnke, W. N., & Richards, W. A. (1966). Implications of LSD and experimental 
+mysticism. Journal of Religion and Health, 5, 175-208. doi:10.1080/02791072
+.1970.10471366
+Passie, T. (2012). Healing with entactogens. Santa Cruz, CA: MAPS.
+Pollan, M. (2015). The trip treatment. The New Yorker, pp. 36-47.
+Preller, K., Herdener, M., Pokorny, T., Planzer, A., Kraehenmann, R., Stampfli, P., . . 
+. Vollenweider, H. (2017). The fabric of meaning and subjective effects in LSD-
+induced states depend on serotonin 2A receptor activation. Cell: Current Biology, 
+27, 1-7. doi:10.1016/j.cub.2016.12.030
+Richards, W. A. (2003). Navigation within consciousness: Insights from four decades 
+of psychotherapy research with imagery, music, and entheogens. Journal of the 
+Association for Music & Imagery, 9, 27-39.
+Richards, W. A. (2005). Entheogens in the study of religious experiences: Current sta-
+tus. Journal of Religion & Health, 44, 377-389. doi:10.1007/s10943-005-7177-8
+Richards, W. A. (2009). The rebirth of research with entheogens: Lessons from the 
+past and hypotheses for the future. Journal of Transpersonal Psychology, 41, 
+139-150.
+Richards, W. A. (2014). Here and now: Discovering the sacred with entheogens. 
+Zygon: Journal of Religion & Science, 49, 652-665. doi:10.1111/zygo.12108
+Richards, W. A. (2015). Sacred knowledge: Psychedelics and religious experience. 
+New York, NY: Columbia University Press.
+Richards, W. A., Grof, S., Goodman, L., & Kurland, A. (1972). LSD-assisted psy-
+chotherapy and the human encounter with death. Journal of Transpersonal 
+Psychology, 4, 121-150.
+Riedlinger, T. J., & Riedlinger, J. E. (1994). Psychedelic and entactogenic drugs in 
+the treatment of depression. Journal of Psychoactive Drugs, 26, 41-55. doi:10.10
+80/02791072.1994.10472600
+Roberts, T., & Hruby, P. (2002). Toward an entheogen research agenda. Journal of 
+Humanistic Psychology, 42, 71-89.
+Rogers, C. (1961). On becoming a person. Boston, MA: Houghton Mifflin.
+Ross, S., Bossis, A., Guss, J., Agin-Liebes, G., Malone, T., Cohen, B., . . . Schmidt, 
+B. (2016). Rapid and sustained symptom reduction following psilocybin treat-
+ment for anxiety and depression in patients with life-threatening cancer: A 
+randomized controlled trial. Journal of Psychopharmacology, 30, 1165-1180. 
+doi:10.1177/0269881116675512
+Savage, C., Savage, E., Fadiman, J., & Harmon, W. (1964). LSD: Therapeutic effects 
+of the psychedelic experience. Psychological Reports, 14, 111-120.
+Schultes, R. E. (1979). The plants of the gods: Origins of hallucinogenic use. New 
+York, NY: McGraw-Hill.
+
+
+Phelps	
+37
+Sherwood, J. N., Stolaroff, M. J., & Harmon, W. W. (1962). The psychedelic experi-
+ence: A new concept in psychotherapy. Journal of Neuropsychiatry, 4(2), 69-80.
+Shulgin, A. (2001). The new psychotherapy: MDMA and the shadow. In T. Roberts 
+(Ed.), Psychoactive sacramentals: Essays on entheogens and religion (pp. 196-
+204). San Francisco, CA: Council on Spiritual Practices.
+Shulgin, A. T., & Nichols, D. E. (1978). Characterization of three new psychotomi-
+metics. In R. Stillman & L. Willette (Eds.). The psychopharmacology of halluci-
+nogens (pp. 57-73). New York, NY: Pergamon.
+Smith, E. D. (1988). Evolving ethics in psychedelic drug taking. Journal of Drug 
+Issues, 18, 201-214.
+Smith, H., Grob, C., Jesse, R., Bravo, G., Agar, A., & Walsh, R. (2004). Do drugs have 
+religious import? A 40-year retrospective. Journal of Humanistic Psychology, 44, 
+120-140. doi:10.1177/0022167804263209
+Stolaroff, M. (1997). The secret chief. Charlotte, NC: MAPS.
+Strassman, R. (2001). DMT: The spirit molecule. Rochester, VT: Park Street Press.
+Strassman, R. (2002). Sitting for sessions: Dharma and DMT research. In C. Grob 
+(Ed.), Hallucinogens: A reader (pp. 113-121). New York, NY: Jeremy P. 
+Tarcher/Putnam.
+Strassman, R. (2010). Hallucinogenic drugs in psychiatric research and treatment: 
+Perspectives and prospects. Journal of Nervous and Mental Disease, 183, 127-
+138. doi:10.1097/00005053-199503000-00002
+Strassman, R. J., & Qualls, C. R. (1994). Dose-response study of N,N-
+dimethyltryptamine in humans: I. Neuroendocrine, autonomic, and cardiovascu-
+lar effects. Archives of General Psychiatry, 51, 85-97.
+Strassman, R. J., Qualls, C. R., Uhlenhuth, E. H., & Kellner, R. (1994). Dose-response 
+study of N,N-dimethyltryptamine in humans: II. Subjective effects and prelimi-
+nary results of a new rating scale. Archives of General Psychiatry, 51, 98-108.
+Taylor, K. (2007). Considering holotropic breathwork. Santa Cruz, CA: Hanford 
+Mead.
+Tupper, K., Wood, E., Yensen, R., & Johnson, M. (2015). Psychedelic medicine: A 
+re-emerging therapeutic paradigm. Canadian Medical Association Journal, 187, 
+1054-1059. doi:10.1503/cmaj.141124
+Vaughan, F. (2001). Transpersonal counseling: Some observations regarding entheo-
+gens. In T. Roberts (Ed.), Psychoactive sacramentals: Essays on entheogens and 
+religion (pp. 191-195). San Francisco, CA: Council on Spiritual Practices.
+Vaughan, F. (2002). What is spiritual intelligence? Journal of Humanistic Psychology, 
+42, 16-33. doi:10.1177/0022167802422003
+Walsh, R., & Grob, C. S. (Eds.). (2005). Higher wisdom: Eminent elders explore the 
+continuing impact of psychedelics. Albany: State University of New York Press.
+Walsh, R., & Grob, C. S. (2006). Early psychedelic investigators reflect on the 
+psychological and social implications of their research. Journal of Humanistic 
+Psychology, 46, 432-448. doi:10.1177/0022167806286745
+Wasson, G., Hofmann, A., & Ruck, C. (2008). The road to Eleusis: Unveiling the 
+secrets of the mysteries. Berkeley, CA: North Atlantic.
+
+
+38	
+Journal of Humanistic Psychology 00(0)
+Watts, A. (1970). The joyous cosmology. New York, NY: Random House.
+Wolfson, P. and Hartelius, G. (Eds.). (2016). The ketamine papers: Science, therapy 
+and transformation. Berkeley, CA: Evolver Books.
+Yensen, R., & Dryer, D. (1992). Thirty years of psychedelic research: The Spring 
+Grove experiment and its sequels (Unpublished manuscript). European College 
+of Consciousness, International Congress in Gottingen, Germany.
+Young, M. (1995). An invitation to entheological dialogue. MAPS Bulletin, 6, 37-38. 
+Retrieved from https://www.maps.org/news-letters/v06n1/06137spi.html
+Zarate, C., Singh, J., Carlson, P., Brutsche, N., Ameli, R., Luckenbaugh, D., . . . 
+Manji, H. (2006). A randomized trial of an N-methyl-D-aspartate antagonist in 
+treatment-resistant major depression. Archives of General Psychiatry, 63, 856-
+864. doi:10.1001/archpsyc.63.8.856
+Author Biography
+Janis Phelps, PhD, has been a professor at the 
+California Institute of Integral Studies (CIIS), San 
+Francisco, CA, for the past 21 years. A licensed 
+clinical psychologist and marriage and family 
+therapist, she has held faculty positions there in 
+the East-West Psychology graduate program 
+(founded by Alan Watts) and in the clinical psy-
+chology doctoral program. She has also served as 
+the dean of faculty at CIIS for the graduate departments in the social sciences and 
+humanities. She is currently the director of the CIIS Center for Psychedelic Therapies 
+and Research. As the Center’s founder, she developed and launched the first academi-
+cally accredited, professional certificate training program for legal psychedelic-
+assisted therapy and research. www.ciis.edu/psychedeliccenter.

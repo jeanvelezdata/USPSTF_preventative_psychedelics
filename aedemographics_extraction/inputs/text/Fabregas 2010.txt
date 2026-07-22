@@ -1,0 +1,707 @@
+This article appeared in a journal published by Elsevier. The attached
+copy is furnished to the author for internal non-commercial research
+and education use, including for instruction at the authors institution
+and sharing with colleagues.
+Other uses, including reproduction and distribution, or selling or
+licensing copies, or posting to personal, institutional or third party
+websites are prohibited.
+In most cases authors are permitted to post their version of the
+article (e.g. in Word or Tex form) to their personal website or
+institutional repository. Authors requiring further information
+regarding Elsevier’s archiving and manuscript policies are
+encouraged to visit:
+http://www.elsevier.com/copyright
+
+
+Author's personal copy
+Drug and Alcohol Dependence 111 (2010) 257–261
+Contents lists available at ScienceDirect
+Drug and Alcohol Dependence
+journal homepage: www.elsevier.com/locate/drugalcdep
+Short communication
+Assessment of addiction severity among ritual users of ayahuasca
+Josep Maria Fábregas a, Débora González a, Sabela Fondevila b, Marta Cutchet a,
+Xavier Fernández c, Paulo César Ribeiro Barbosa d, Miguel Ángel Alcázar-Córcoles e,
+Manel J. Barbanoj g,h, Jordi Riba f,g,h, José Carlos Bouso f,g,∗
+a Instituto de Etnopsicología Amazónica Aplicada (IDEAA), 08037 Barcelona, Spain
+b Centro UCM-ISCIII para la Evolución del Cerebro y Comportamiento Humanos, Sección de Neurociencia Cognitiva, 5, 28029 Madrid, Spain
+c Independent Researcher, 08005 Barcelona, Spain
+d Departamento de Filosoﬁa e Ciências Humanas, Universidade Estadual de Santa Cruz (UESC), Ilhéus, 45662 Bahia, Brazil
+e Departamento de Psicología Biológica y de la Salud, Facultad de Psicología, Universidad Autónoma de Madrid (UAM), 28049 Madrid, Spain
+f Human Experimental Neuropsychopharmacology, IIB Sant Pau, 08025 Barcelona, Spain
+g Centre d’Investigació de Medicaments, (CIM-Sant Pau), IIB-Sant Pau, Servei de Farmacologia Clínica, Hospital de la Santa Creu i Sant Pau, 08025 Barcelona, Spain
+h Departament de Farmacologia i Terapèutica, Universitat Autònoma de Barcelona, Centro de Investigación Biomédica en Red de Salud Mental, CIBERSAM, Barcelona, Spain
+a r t i c l e
+i n f o
+Article history:
+Received 28 January 2010
+Received in revised form 31 March 2010
+Accepted 31 March 2010
+Available online 15 June 2010
+Keywords:
+Ayahuasca
+Hallucinogens
+Addiction Severity Index (ASI)
+a b s t r a c t
+Ayahuasca is a psychoactive beverage used for magico-religious purposes in the Amazon. Recently, Brazil-
+ian syncretic churches have helped spread the ritual use of ayahuasca abroad. This trend has raised
+concerns that regular use of this N,N-dimethyltryptamine-containing tea may lead to the medical and
+psychosocial problems typically associated with drugs of abuse. Here we assess potential drug abuse-
+related problems in regular ayahuasca users. Addiction severity was assessed using the Addiction Severity
+Index (ASI), and history of alcohol and illicit drug use was recorded. In Study 1, jungle-based ayahuasca
+users (n = 56) were compared vs. rural controls (n = 56). In Study 2, urban-based ayahuasca users (n = 71)
+were compared vs. urban controls (n = 59). Follow-up studies were conducted 1 year later. In both studies,
+ayahuasca users showed signiﬁcantly lower scores than controls on the ASI Alcohol Use, and Psychiatric
+Status subscales. The jungle-based ayahuasca users showed a signiﬁcantly higher frequency of previous
+illicit drug use but this had ceased at the time of examination, except for cannabis. At follow-up, abstinence
+from illicit drug use was maintained in both groups except for cannabis in Study 1. However, differences
+on ASI scores were still signiﬁcant in the jungle-based group but not in the urban group. Despite con-
+tinuing ayahuasca use, a time-dependent worsening was only observed in one subscale (Family/Social
+relationships) in Study 2. Overall, the ritual use of ayahuasca, as assessed with the ASI in currently active
+users, does not appear to be associated with the deleterious psychosocial effects typically caused by other
+drugs of abuse.
+© 2010 Elsevier Ireland Ltd. All rights reserved.
+1. Introduction
+Ayahuasca is a psychoactive plant tea originally used by Ama-
+zonian indigenous groups for medicinal and magico-religious
+purposes (Schultes and Hofmann, 1979). The tea is typically
+obtained from Banisteriopsis caapi and Psychotria viridis (Schultes
+and Hofmann, 1979). B. caapi contains beta-carboline alkaloids
+with MAOI (monoamine oxidase inhibitor) action; whereas P.
+viridis contains the hallucinogen N,N-dimethyltryptamine (DMT)
+ Supplementary data tables are available with the online version of this article.
+See Appendix.
+∗Corresponding author at: Human Experimental Neuropsychopharmacology
+Institut de Recerca, Hospital de la Santa Creu i Sant Pau, C/ Sant Antoni María Claret,
+167, 08025 Barcelona, Spain. Tel.: +34 93 291 5596; fax: +34 93 291 9286.
+E-mail address: jbouso@santpau.cat (J.C. Bouso).
+(McKenna, 2004). DMT is not active orally because it is enzymati-
+cally destroyed, but its combination with the MAOIs from B. caapi
+renders it orally active (Riba, 2003; Riba et al., 2003).
+In recent years, Brazilian churches, such as the Santo Daime and
+the União do Vegetal, which use ayahuasca in their rituals (MacRae,
+1998), have expanded to Europe and North America (Tupper, 2008).
+This has led to legal processes against several of these churches due
+to the controlled substance status of DMT (Bullis, 2008; Tupper,
+2008; US Supreme Court, 2006).
+However, neurobiological evidence on medical and sociopsy-
+chological problems related to addiction raise interesting questions
+about the abuse potential of ayahuasca. Drugs of abuse typically
+show dopaminergic effects, activating the striatum and the ventral-
+tegmental area, within the so-called “neural reward circuit” (Camí
+and Farré, 2003). Drug-induced functional changes at this level are
+thought to lead to the adverse consequences caused by these sub-
+stances (McLellan et al., 2006).
+0376-8716/$ – see front matter © 2010 Elsevier Ireland Ltd. All rights reserved.
+doi:10.1016/j.drugalcdep.2010.03.024
+
+
+Author's personal copy
+258
+J.M. Fábregas et al. / Drug and Alcohol Dependence 111 (2010) 257–261
+DMT, on the other hand, interacts with serotonergic neurotrans-
+mission, binding to 5-hydroxytryptamine2A receptors (for a review
+see Riba, 2003). Though there is evidence that some hallucinogens
+may act also on the dopaminergic system (Nichols, 2004; Passie et
+al., 2008; Vollenweider et al., 1999), a recent study using the neu-
+roimaging technique SPECT (Single Photon Emission Computerized
+Tomography) did not ﬁnd any changes in reward-related regions
+such as the striatum or the ventral-tegmental area (Riba et al., 2006)
+Ethnographic research (Furst, 1972; Labate and Araújo, 2004)
+also challenges the classiﬁcation of ayahuasca as an addictive drug,
+i.e., a substance capable of inducing pleasant states followed, after
+continued use, by adaptive changes in the central nervous system
+leading to tolerance, physical dependence, sensitization, craving
+and relapse (Camí and Farré, 2003). Furthermore, the therapeu-
+tic use of ayahuasca in indigenous traditional medicine is socially
+sanctioned and politically tolerated in Bolivia, Ecuador, and Colom-
+bia. And in Peru, it has recently been declared part of the national
+cultural heritage (Instituto Nacional de la Cultura, 2008).
+Despite the growing use of ayahuasca worldwide, few studies
+have been conducted to assess the impact of long-term regular use
+of ayahuasca on mental health (Da Silveira et al., 2005; Doering-
+Silveira et al., 2005; Grob et al., 1996; Halpern et al., 2008). In this
+paper we report the results of two studies speciﬁcally designed to
+assess any adverse medical and psychosocial consequences related
+with continued ayahuasca consumption.
+2. Methods
+2.1. Participants
+Participants belonging to several Brazilian ayahuasca churches were enrolled.
+Control subjects were recruited to match the age, sex and educational level of
+ayahuasca users. Participants were distributed as follows.
+2.1.1. Study 1(jungle-based community context). Group 1. Ayahuasca users from a
+community within the Amazon rain forest.
+This group was recruited from Céu do Mapià, a community of religious ayahuasca
+users in the Brazilian State of Amazonas. Céu do Mapià is the headquarters of the
+Centro Eclético da Fluente Luz Universal Raimundo Irineu Serra (CEFLURIS), an
+important ayahuasca church within the Santo Daime movement, with branches
+throughout South-America, the US, Canada, Europe and Japan. The mean frequency
+of ritual attendance was about six times per month.
+Group 2. Céu do Mapià comparison group.
+A sample of non-ayahuasca users was recruited from Boca do Acre, the nearest
+town to the Céu do Mapià community. Boca do Acre is a small Amazonian town of
+about 7000 inhabitants.
+2.1.2. Study 2 (urban context). Group 3. Urban-based ayahuasca users.
+This group consisted of members of another ayahuasca religious group called
+Barquinha, located in the city of Río Branco. The city of Río Branco, the capital of the
+State of Acre, has about 150,000 inhabitants. The frequency with which Barquinha
+members attended rituals in our sample was about eight times per month.
+Group 4. Urban-based comparison group.
+Subjects with no history of ayahuasca use were recruited in the city of Río Branco
+as a comparison group.
+The main inclusion criterion for participants in the ayahuasca groups was to
+have been taking ayahuasca for a minimum of 15 years with a frequency of at least
+twice a month.
+Both studies were conducted in accordance with the Declarations of Helsinki,
+as amended in Edinburgh 2000, and subsequent updates. All subjects signed an
+informed consent prior to participation. The study was approved by the human
+research committee of UNINORTE University (Rio Branco, Acre State, Brazil).
+2.2. Study variables
+2.2.1. Sociodemographic variables. Age (years), sex (male/female) and years of edu-
+cation were used to match study and control groups. Additional sociodemographic
+indicators such as employment status (according to Hollingshead’s categories), race,
+marital status and religion were recorded for comparison purposes.
+2.2.2. Addiction Severity Index. The Brazilian Portuguese version of the 5th Edition
+of the Addiction Severity Index (ASI) (McLellan et al., 1992) was administered on
+two separate occasions with an interval of 8–12 months, according to a longitudi-
+nal study approach. The ASI is a semi-structured interview designed to assess the
+impact of drug use in a multi-dimensional fashion. It assesses the participant’s Med-
+ical Status, Employment/Support, Drug and Alcohol Use, Legal Status, Family/Social
+Relationships, and Psychiatric Status. It provides general information on the partici-
+pant’s current condition and his/her level of deterioration. The composite measures
+range from 0 to 1 (a higher score indicating greater severity) and provide an index
+of severity of problems in the last 30 days.
+2.2.3. History of alcohol and illicit drug use. We recorded use of alcohol and nine
+different psychotropic drug categories in participants’ lifetime and in the last month.
+2.3. Statistical analysis
+2.3.1. Sociodemographic variables and history of alcohol and illicit drug use. Gender,
+race, marital status, religion and frequency of alcohol and illicit drug use were com-
+pared between ayahuasca users and controls in each study by means of 2. Age,
+years of education, employment status and income were compared between groups
+within each study by means of unpaired Student’s t-test.
+2.3.2. ASI variables. Individual and group scores were obtained for the seven ASI
+composite subscales. Group differences within each study were analyzed for each
+variable using unpaired Student’s t-tests at both baseline and at 1-year follow-up.
+To test for signiﬁcant differences in time-dependent variations in ASI scores, we
+performed analyses of variance (ANOVAs) with repeated measures on the different
+ASI subscale scores at baseline and at 1 year. Thus, a within-subjects factor was
+deﬁned: timepoint (pre vs. post) and two between-subjects factors: study (Study 1
+vs. Study 2) and group (ayahuasca users vs. controls). Interactions of interest were
+group by timepoint and study by group by timepoint.
+Since both studies were longitudinal, there was an experimental mortality
+between the ﬁrst and second assessment. Statistical analyses were performed using
+the computerized package SPSS 17.0.
+3. Results
+3.1. Study 1
+3.1.1. Demographics. Fifty-six regular ayahuasca users and 56
+non-users were assessed at baseline. There were no statistical
+differences between groups in sex, age, years of education, or
+income (see Table 1). However, a statistical difference was noted
+in employment. The comparison group was more qualiﬁed accord-
+ing to the Hollingshead categories. Thirty-nine volunteers from the
+ayahuasca group and 49 from the comparison group were assessed
+at 1-year follow-up. No statistical differences were found in the
+above variables. The number of whites was larger in the ayahuasca-
+use group whereas the control group was mainly composed of
+mestizos. The predominant marital status was “never married”
+in the jungle-based community, and “married” in the comparison
+group.
+3.1.2. ASI scores. At baseline, the ayahuasca group scored signif-
+icantly lower in the Medical Status, Alcohol Use, and Psychiatric
+Status subscales, and signiﬁcantly higher in the Drug Use subscale
+(see Table 2). There were no statistical differences between groups
+in the Employment/Support Status or Family/Social Relationships
+subscales. Both groups scored 0 for the Legal Status subscale. One
+year later the ayahuasca group scored signiﬁcantly lower than the
+comparison group on the Alcohol Use and Psychiatric Status sub-
+scales, and signiﬁcantly higher in the Drug Use subscale.
+3.1.3. History of alcohol and illicit drug use. Statistically signiﬁcant
+differences in prior illicit drug were found for several drug cat-
+egories. Detailed results are available as supplementary online
+material.
+3.2. Study 2
+3.2.1. Demographics. Seventy-one urban ayahuasca users (group 3)
+and 59 controls (group 4) were assessed at baseline. At the 1 year
+follow-up 39 ayahuasca users and 19 controls were assessed. No
+signiﬁcant differences in demographics were found.
+
+
+Author's personal copy
+J.M. Fábregas et al. / Drug and Alcohol Dependence 111 (2010) 257–261
+259
+Table 1
+Sociodemographic characteristics as means (standard deviation) for age, years of education, employment and income and as frequencies for race, marital status and religion. Asterisks indicate p values for between group (ayahuasca
+vs. controls) Student’s t-tests (age, education, employment and income) and 2 tests (gender, race, marital status and religion) at baseline and at follow up for studies 1 and 2. Aya. = ayahuasca-using group; Comp. = comparison
+group.
+Study 1
+Study 2
+Mapiá Aya.
+(baseline)
+Boca do Acre
+Comp. (baseline)
+Mapiá Aya.
+(follow-up)
+Boca do Acre
+Comp. (follow-up)
+Rio Branco Aya.
+(baseline)
+Rio Branco Comp.
+(baseline)
+Rio Branco Aya.
+(follow-up)
+Rio Branco Comp.
+(follow-up)
+Matching variables
+N (men/women)
+56 (29/27)
+56 (24/32)
+39(19/20)
+49(19/30)
+71(33/38)
+59 (31/28)
+39 (21/18)
+19 (7/12)
+Age
+36(13.46)
+33.71 (12.53)
+39.21 (12.90)
+34.69 (12.25)
+37.32 (12.77)
+38.15 (12.22)
+38.82 (13.06)
+40.63 (11.63)
+Years education
+10.55 (3.45)
+10.96 (4.35)
+11.08 (3.19)
+11.51 (4.40)
+10.27 (3.90)
+11.08 (3.30)
+10.87 (4.16)
+12.53 (3.03)
+Additional sociodemographic variables
+Employment
+6.04 (1.68)
+4.91 (2.58)**
+5.79 (1.61)
+5.08 (2.70)
+5.80 (2.63)
+5.73 (2.61)
+5.82 (2.59)
+5.32 (2.43)
+Income
+329.46 (414.06)
+555.61 (1013.85)
+519.74 (627.52)
+642.96 (647.71)
+738.11 (943.86)
+1028.93 (1072.83)
+713.95 (1001.25)
+1065.95 (939.92)
+Race
+White
+40(71.42%)
+11 (19.64%)†††
+30(76.92%)
+10(20.41%)†††
+38(53.52%)
+34 (57.63%)
+23 (58.98%)
+11 (57.89%)
+Mestizos
+15 (26.78%)
+45 (80.36)
+9 (23.07%)
+39(79.59%)
+31(43.66%)
+21 (35.59%)
+15 (38.46%)
+6 (31.59%)
+Asian
+1 (1.78%)
+–
+–
+–
+1(1.41%)
+1 (1.69%)
+–
+1 (5.26%)
+Black
+–
+–
+–
+–
+1(1.41%)
+3 (5.08%)
+1 (2.56%)
+1 (5.26%)
+Marital status
+Married
+13(23.21%)
+33(58.93%)††
+14(35.90%)
+31(63.26%)†
+25(35.21%)
+17 (28.82%)
+23 (58.97%)
+8 (42.1%)
+Remarried
+1 (1.79%)
+1(1.79%)
+–
+1(2.05%)
+2(2.82%)
+1 (1.69%)
+1(2.56%)
+–
+Separated
+7 (12.5%)
+2 (3.57%)
+7 (17.94%)
+5(10.20%)
+10(14.08%)
+9 (15.25%)
+4 (10.26%)
+5 (26.32%)
+Divorced
+4 (7.14%)
+–
+4 (10.26%)
+–
+6(8.45%)
+5 (8.47%)
+–
+1 (5.26%)
+Never married
+31(55.36%)
+20(35.71%)
+14(35.90%)
+12(24.49%)
+28(39.44%)
+27 (45.77%)
+11 (28.21%)
+5 (26.32%)
+Religion
+Daime/Barquinha
+56(100%)
+–†††
+39(100%)
+–†††
+71(100%)
+–†††
+39 (100%)
+–†††
+Catholic
+–
+35 (62.5%)
+–
+33(67.35%)
+–
+30 (58%)
+–
+12 (63.16%)
+Protestant
+–
+15 (26.78%)
+–
+10(20.41%)
+–
+17 (28.81%)
+–
+7 (36.84%)
+Other
+–
+3 (5.36%)
+–
+3(61.12%)
+–
+2 (3.39%)
+–
+–
+None
+–
+3 (5.36%)
+–
+3(6.12%)
+–
+10 (16.95%)
+–
+–
+** p < 0.01 in the Student’s t-test.
+† p < 0.05 in the 2 test (comparison includes multiple categories).
+†† p < 0.01 in the 2 test (comparison includes multiple categories).
+††† p < 0.001 in the 2 test (comparison includes multiple categories).
+
+
+Author's personal copy
+260
+J.M. Fábregas et al. / Drug and Alcohol Dependence 111 (2010) 257–261
+Table 2
+ASI composite means (standard deviation). Asterisks indicate p values for between group (ayahuasca vs. controls) Student’s t-tests at baseline and at follow up for studies 1
+and 2. Aya. = ayahuasca-using group; Comp. = comparison group; Fam/Soc = Family/Social relationships; Psych = Psychiatric Status.
+ASI subscale
+Study 1
+Study 2
+Mapiá Aya.
+(baseline)
+n = 56
+Boca do Acre
+Comp. (baseline)
+n = 56
+Mapiá Aya.
+(follow-up)
+n = 39
+Boca do Acre
+Comp. (follow-up)
+n = 49
+Rio Branco Aya.
+(baseline)
+n = 71
+Rio Branco Comp.
+(baseline) n = 59
+Rio Branco Aya.
+(follow-up)
+n = 39
+Rio Branco Comp.
+(follow-up) n = 19
+Medical
+0.11 (0.19)
+0.22 (0.27)*
+0.11 (0.22)
+0.17 (0.21)
+0.17 (0.26)
+0.27 (0.32)
+0.07 (0.14)
+0.21 (0.24)*
+Employment
+0.72 (0.17)
+0.65 (0.21)
+0.73 (0.15)
+0.66 (0.23)
+0.54 (0.31)
+0.40 (0.31)*
+0.55 (0.28)
+0.47 (0.28)
+Alcohol
+0.003 (0.009)
+0.014 (0.018)***
+0.0007 (0.001)
+0.006 (0.014)**
+0.001 (0.004)
+0.02 (0.08)*
+0.0004 (0.001)
+0.004 (0.012)
+Drug
+0.09 (0.03)
+0.00 (0.00)***
+0.085 (0.029)
+0.00 (0.00)***
+0.025 (0.012)
+0.0003 (0.002)***
+0.03 (0.02)
+0.00 (0.00)**
+Legal
+0.00 (0.00)
+0.00 (0.00)
+0.00 (0.00)
+0.002 (0.014)
+0.00 (0.00)
+0.01 (0.06)
+0.00 (0.00)
+0.00 (0.00)
+Fam/Soc
+0.07 (0.09)
+0.11 (0.18)
+0.063 (0.101)
+0.09 (0.14)
+0.05 (0.10)
+0.16 (0.18)***
+0.10 (0.19)
+0.08 (0.14)
+Psych.
+0.03 (0.07)
+0.10 (0.15)**
+0.02 (0.06)
+0.06 (0.10)*
+0.01 (0.06)
+0.11 (0.15)***
+0.063 (0.12)
+0.14 (0.19)
+* p < 0.05.
+** p < 0.01.
+*** p < 0.001.
+3.2.2. ASI scores. At baseline, the ayahuasca group scored sig-
+niﬁcantly lower than controls in Alcohol Use, Family/Social
+Relationships, and Psychiatric Status subscales, and signiﬁcantly
+higher in the Employment/Support Status and in the Drug Use sub-
+scales (see Table 2). One year later, the ayahuasca group scored
+signiﬁcantly lower in the Medical Status, and higher in the Drug
+Use subscale than the comparison group.
+3.2.3. History of alcohol and illicit drug use. No statistically sig-
+niﬁcant differences in prior alcohol and illicit drug were found.
+Detailed results are available as supplementary materials with the
+online version of the article (see Appendix).
+3.3. Analysis of time-dependent changes in the two studies
+combined
+A signiﬁcant study by group by timepoint was observed for the
+Drug Use subscale [F(1,142) = 4.9, p = 0.028]. Scores on this subscale
+showed a larger decrease (improvement) in the ayahuasca using
+group than in the control group, but only in Study 1. Another sig-
+niﬁcant study by group by timepoint interaction was observed for
+the Family/Social Relationships subscale [F(1,142) = 5.4, p = 0.022].
+Scores on this subscale showed a larger increase (worsening) in the
+ayahuasca using group than in the control group, but only in Study
+2. All other interactions for all seven subscales were non-signiﬁcant.
+4. Discussion
+To our knowledge, this is the ﬁrst research study in which
+the ASI has been used to assess potential addiction-related prob-
+lems derived from the regular ritual use of a hallucinogen. Results
+showed that both ayahuasca-using groups scored signiﬁcantly
+lower than their respective controls on the ASI Alcohol Use and
+Psychiatric Status subscales. At the 1 year follow-up these differ-
+ences were still signiﬁcant in the jungle-based group but not in
+the urban group. Despite maintained ayahuasca use, signiﬁcant
+time-dependent increases (worsenings) were only observed in the
+family/social relationships subscale in Study 2. This effect may not
+be related with ayahuasca use in itself but rather with the mem-
+ber’s involvement with the church, as the worsening was observed
+in the urban but not in the more isolated jungle group. On the
+other hand, as shown in the supplementary online material, the
+ayahuasca jungle-based group did not report current use of illicit
+drugs despite a history of a signiﬁcantly higher prior use than the
+control group.
+ASI scores in our samples were in general lower than those
+obtained for several groups of Brazilian (Brasiliano and Hochgraf,
+2006; Mathias et al., 2009; Pechansky et al., 2003) and interna-
+tional drug abusers (Carise, 2005). Although this questionnaire had
+not been administered to ayahuasca users before, previous stud-
+ies have not found neuropsychiatric disorders in long-term users
+(Grob et al., 1996). Two other studies carried out in adolescents
+also failed to ﬁnd psychiatric disorders (Da Silveira et al., 2005) and
+neuropsychological deﬁcits (Doering-Silveira et al., 2005). A recent
+study of a US group of ritual ayahuasca users did not ﬁnd evidence
+of psychopathology when scores where checked against normative
+data (Halpern et al., 2008).
+The above results are in line with the data obtained in our
+present study for the Medical Status and Psychiatric Status sub-
+scales. Our results suggest that ayahuasca has a low abuse potential,
+as previously concluded by others (Gable, 2007).
+In our studies, both ayahuasca groups scored worse than con-
+trols in the Drug Use subscale. This is because ayahuasca use was
+taken into account when computing the score in the Drug Use sub-
+scale. Additionally, the Mapiá group (Study 1) uses Cannabis sativa.
+However, if this combined use of ayahuasca and cannabis had been
+problematic, scores in the other subscales would have been higher
+(McLellan et al., 2006), which was not the case. Also, the detailed
+study of prior illicit drug use showed that subjects had ceased
+to consume barbiturates, sedatives, cocaine and amphetamines
+(see supplementary online material). The fact that neither group
+scored in the Legal subscale may also reﬂect a lack of social prob-
+lems related to their involvement with an ayahuasca-using church.
+These results are analogous to those by Grob et al. (1996) who found
+that previously-existing addiction problems had resolved after par-
+ticipants began ritual use of ayahuasca.
+In conclusion, the ritual use of ayahuasca, as assessed with the
+ASI in currently active users, does not seem to be associated with
+the psychosocial problems that other drugs of abuse typically cause.
+Future studies should further address whether this is due to the spe-
+ciﬁc pharmacological characteristics of ayahuasca or to the context
+in which the drug is taken.
+Role of funding source
+Funding for this study was provided by IDEAA, Instituto de
+Etnopsicología Amazónica Aplicada, Barcelona (Spain)/Prato Raso
+(Brasil).
+Contributors
+Josep Maria Fabregas: study design, coordination of ﬁeld work,
+manuscript writing.
+Debora Gonzalez, Sabela Fondevila, Marta Cutchet, and Paulo
+Cesar Ribeiro Barbosa: data collection. Xavier Fernandez: study
+design and data collection.
+
+
+Author's personal copy
+J.M. Fábregas et al. / Drug and Alcohol Dependence 111 (2010) 257–261
+261
+Migual Angel Alcazar-Corcoles: study design and data analysis.
+Jordi Riba: data analysis and manuscript writing. Manel J. Barbanoj:
+data analysis and manuscript writing. Jose Carlos Bouso: study
+design, coordination of researchers, manuscript writing and data
+analysis.
+Conﬂict of interests
+None.
+Acknowledgements
+The authors thank all volunteers for their participation.
+Appendix A. Supplementary data
+Supplementary data associated with this article can be found, in
+the online version, at doi:10.1016/j.drugalcdep.2010.03.024.
+References
+Brasiliano, S., Hochgraf, P.B., 2006. A inﬂuência da comorbidade com transtornos ali-
+mentares na apresentac¸ ão de mulheres dependentes de substâncias psicoativas.
+Rev. Psiq. Clín. 33, 134–144.
+Bullis, R.K., 2008. The “vine of the soul” vs. the Controlled Substances Act: implica-
+tions of the hoasca case. J. Psychoactive Drugs 40, 193–199.
+Camí, J., Farré, M., 2003. Drug addiction. N. Engl. J. Med. 349, 975–986.
+Carise, D., 2005. Clients Presenting for Substance Abuse Treatment—ASI Differences
+Across Countries. NIDA International Forum: Linking Drug Abuse and HIV/AIDS
+Research, Orlando, Florida, USA, June 17–20.
+Da Silveira, D.X., Grob, C.S., de Rios, M.D., Lopez, E., Alonso, L.K., Tacla, C.,
+Doering-Silveira, E., 2005. Ayahuasca in adolescence: a preliminary psychiatric
+assessment. J. Psychoactive Drugs 37, 129–133.
+Doering-Silveira, E., Lopez, E., Grob, C.S., de Rios, M.D., Alonso, L.K., Tacla, C., Shi-
+rakawa, I., Bertolucci, P.H., Da Silveira, D.X., 2005. Ayahuasca in adolescence: a
+neuropsychological assessment. J. Psychoactive Drugs 37, 123–128.
+Furst, P.T. (Ed.), 1972. Flesh of the Gods. The Ritual Use of Hallucinogens. Waveland
+Press, Inc., Prospect Heights, IL.
+Gable, R.S., 2007. Risk assessment of ritual use of oral dimethyltryptamine (DMT)
+and harmala alkaloids. Addiction 102, 24–34.
+Grob, C.S., McKenna, D.J., Callaway, J.C., Brito, G.S., Neves, E.S., Oberlaender, G.,
+Saide, O.L., Labigalini, E., Tacla, C., Miranda, C.T., Strassman, R.J., Boone, K.B.,
+1996. Human psychopharmacology of hoasca, a plant hallucinogen used in ritual
+context in Brazil. J. Nerv. Ment. Dis. 184, 86–94.
+Halpern, J.H., Sherwood, A.R., Passie, T., Blackwell, K.C., Ruttenber, A.J., 2008. Evi-
+dence of health and safety in American members of a religion who use a
+hallucinogenic sacrament. Med. Sci. Monit. 14, SR15–SR22.
+Instituto Nacional de Cultura, Perú, 2008. Declaración Patrimonio Cultural de la
+nación a los conocimientos y usos tradicionales del Ayahuasca practicados por
+comunidades nativas amazónicas, Resolución Directoral Nacional n◦836.
+Labate, B.C., Araújo, W.S. (Eds.), 2004. O uso ritual da ayahuasca. Campinas, Mercado
+de Letras.
+MacRae, E., 1998. Guiado por la luna. Shamanismo y uso ritual de la ayahuasca en el
+culto del Santo Daime. Abya-Yala, Quito.
+Mathias, A.C.R., Vargens, R.W., Kessler, F.H., Cruz, M.S., 2009. Differences in addiction
+severity between social and probable pathological gamblers among substance
+abusers in treatment in Rio de Janeiro. Int. J. Ment. Health Addict. 7, 239–249.
+McKenna, D.J., 2004. Clinical investigations of the therapeutic potential of
+ayahuasca: rationale and regulatory challenges. Pharmacol. Ther. 102, 111–129.
+McLellan, A.T., Kushner, H., Metzger, D., Peters, R., Smith, I., Grissom, G., Pettinati,
+H., Argeriou, M., 1992. The Fifth Edition of the Addiction Severity Index. J. Subst.
+Abuse Treat. 9, 199–213.
+McLellan, A.T., Cacciola, J.C., Alterman, A.I., Rikoon, S.H., Carise, D., 2006. The Addic-
+tion Severity Index at 25: origins, contributions and transitions. Am. J. Addict.
+15, 113–124.
+Nichols, D.E, 2004. Hallucinogens. Pharmacol. Ther. 101, 131–181.
+Passie, T., Halpern, J.H., Stichtenoth, D.O., Emrich, H.M., Hintzen, A., 2008. The
+pharmacology of lysergic acid diethylamide: a review. CNS Neurosci. Ther. 14,
+295–314.
+Pechansky, F., von Diemen, L., Kessler, F., Hirakata, V., Metzger, D., Woody, G.E.,
+2003. Preliminary estimates of human immunodeﬁciency virus prevalence and
+incidence among cocaine abusers of Porto Alegre, Brazil. J. Urban Health 80,
+115–126.
+Riba, J., 2003. Human pharmacology of ayahuasca. Doctoral Thesis. Barcelona, Uni-
+versitat Autònoma de Barcelona. http://www.tesisenxarxa.net/TDX-0701104-
+165104/.
+Riba, J., Valle, M., Urbano, G., Yritia, M., Morte, A., Barbanoj, M.J., 2003. Human
+pharmacology of ayahuasca: subjective and cardiovascular effects, monoamine
+metabolite excretion, and pharmacokinetics. J. Pharmacol. Exp. Ther. 306, 73–83.
+Riba, J, Romero, S., Grasa, E., Mena, E., Carrió, I., Barbanoj, M.J., 2006. Increased frontal
+and paralimbic activation following ayahuasca, the pan-Amazonian inebriant.
+Psychopharmacology (Berl.) 186, 93–98.
+Schultes, R.E., Hofmann, A. (Eds.), 1979. Plants of the Gods: Origins of Hallucinogenic
+Use. McGraw-Hill, New York.
+Tupper, K.W., 2008. The globalization of ayahuasca: harm reduction or beneﬁt max-
+imization? Int. J. Drug Policy 19, 297–303.
+US Supreme Court, no. 04-1084. Gonzales, V., decided 21 February 2006. Centro
+Espirita Beneﬁcente Uniao Do Vegetal 546 US 2006.
+Vollenweider, F.X., Vontobel, P., Hell, D., Leenders, K.L., 1999. 5-HT modulation of
+dopamine release in basal ganglia in psilocybin-induced psychosis in man—a
+PET study with [11C]raclopride. Neuropsychopharmacology 20, 424–433.

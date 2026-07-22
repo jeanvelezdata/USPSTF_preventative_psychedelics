@@ -1,0 +1,11 @@
+AE/Demographics Extraction — Validation Report
+================================================
+
+Articles parsed:  39
+AE events parsed: 130
+
+VALIDATION PASSED — 0 issues. Output tables written.
+
+WARNINGS — 1 (non-blocking; review before publication):
+
+  - [Faillace 1970] IsObservational=N — Borderline call, flagged per prompt guidance on open-label single-arm trials. The paper being extracted is framed as a naturalistic 2-year follow-up survey (mail/in-person contact, no new intervention delivered in this paper), which reads observationally. However, its own Methods section describes the underlying treatment as a structured research protocol in which 'the drugs DPT, DET and 6-FDET were administered in a random design' at fixed doses (0.7/1.0/1.3 mg/kg) with continuous physiological monitoring in a dedicated research ward -- i.e., randomization to arms and an interventional protocol run for research purposes, not usual care. Set to 'N' on the strength of that explicit randomized/interventional treatment design; a human reviewer may reasonably override to 'Y' given the follow-up-survey framing of this specific paper and the lack of any control/comparator group.

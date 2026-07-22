@@ -1,0 +1,676 @@
+Annals of Pharmacotherapy
+﻿1­–6
+© The Author(s) 2014
+Reprints and permissions: 
+sagepub.com/journalsPermissions.nav
+DOI: 10.1177/1060028014555859
+aop.sagepub.com
+Research Report
+Introduction
+Chronic alcoholism results in downregulation of the inhibi-
+tory neurotransmitter, γ-amino-butyric acid (GABA) recep-
+tor, and an upregulation of the excitatory neurotransmitter 
+N-methyl-d-aspartate (NMDA).1 A subsequent dependence 
+on alcohol is needed to maintain equilibrium and to prevent 
+the hyperexcitatory clinical manifestations of alcohol with-
+drawal syndrome (AWS).2 Benzodiazepines (BZDs) are 
+GABA agonists and considered first-line agents for the 
+management of AWS.3 However, a subset of patients with 
+severe AWS do not respond adequately to BZDs, despite 
+escalating doses.4
+The use of adjunctive agents to BZDs, such as dexme-
+detomidine, phenobarbital, and propofol in AWS manage-
+ment has been studied, with variable results.5-17 These 
+agents target different mechanisms, including adrenergic 
+symptoms and alternative GABA receptors. NMDA antago-
+nists, such as ketamine, have not been evaluated in the 
+available literature and may serve as a beneficial adjunct to 
+BZD therapy. Ketamine is classified as an anesthetic with a 
+beneficial safety profile and has been shown to be an effec-
+tive analgesic in nonneuropathic pain.18 Additionally, ket-
+amine was shown to produce beneficial responses in 
+recovering ethanol-dependent patients.19-22 The objective of 
+this study was to evaluate the safety and efficacy of ket-
+amine as an adjunctive agent to BZD therapy in patients 
+with AWS.
+555859 AOPXXX10.1177/1060028014555859Annals of PharmacotherapyWong et al
+research-article2014
+1UPMC Presbyterian, Pittsburgh, PA, USA
+2University of Pittsburgh School of Pharmacy, Pittsburgh, PA, USA
+Corresponding Author:
+Neal J. Benedict, PharmD, University of Pittsburgh, 3501 Terrace Street, 
+Salk Hall, Room 727, Pittsburgh, PA 15261, USA. 
+Email: benedictnj@upmc.edu
+Evaluation of Adjunctive Ketamine to 
+Benzodiazepines for Management of  
+Alcohol Withdrawal Syndrome
+Adrian Wong, PharmD, BCPS1, Neal J. Benedict, PharmD1,2,  
+Michael J. Armahizer, PharmD, BCPS1, and  
+Sandra L. Kane-Gill, PharmD, MS, FCCM, FCCP1,2
+Abstract
+Background: Adjunctive medications to manage alcohol withdrawal syndrome (AWS) in patients not adequately 
+responding to escalating doses of benzodiazepines (BZDs) are limited. The use of the N-methyl-d-aspartate antagonist 
+ketamine, may serve as an effective adjunct agent; however, no published data currently exist for this practice. Objective: 
+To determine the safety and efficacy of adjunct ketamine for management of AWS. Methods: The study was a retrospective 
+review of adult patients from April 2011 to March 2014 who were administered ketamine specifically for management 
+of AWS. Outcomes included changes in BZD requirements and ketamine-related adverse reactions. Results: Of 235 
+patients screened, 23 patients met study eligibility. Ketamine was initiated primarily with toxicology consultation for 
+significant BZD requirements or delirium tremens. The mean time to initiation of ketamine from first treatment of AWS, 
+and total duration of therapy were 33.6 and 55.8 hours, respectively. Mean initial infusion dose and median total infusion 
+rate during therapy were 0.21 and 0.20 mg/kg/h, respectively. There was no change in sedation or alcohol withdrawal 
+scores in patients within 6 hours of ketamine initiation. The median change in BZD requirements at 12 and 24 hours 
+post–ketamine initiation were −40.0 and −13.3 mg, respectively. The mean time to AWS resolution was 5.6 days. There 
+was one documented adverse reaction of oversedation, requiring dose reduction. Conclusions: Ketamine appears to 
+reduce BZD requirements and is well tolerated at low doses. Prospective dose range evaluations in the management of 
+AWS would be helpful in determining its place as an adjunctive agent.
+Keywords
+alcohol withdrawal delirium, alcohol withdrawal seizures, benzodiazepines, ketamine, toxicology
+ at UCSF LIBRARY & CKM on November 21, 2014
+aop.sagepub.com
+Downloaded from 
+
+
+2	
+Annals of Pharmacotherapy ﻿
+Methods
+Patient Population and Setting
+A retrospective cohort of adult patients was identified using 
+pharmacy charges for ketamine infusions from April 2011 
+to March 2014 at one tertiary care center in the University 
+of Pittsburgh Medical Center (UPMC) health system. The 
+hospital is an academic medical center with 792 hospital 
+beds and 150 intensive care unit (ICU) beds and is desig-
+nated as a level 1 trauma center. This study was approved as 
+an expedited study by the University of Pittsburgh 
+Investigational Review Board.
+From this population of patients with pharmacy charges 
+for ketamine infusions (n = 235), a manual chart review 
+using an electronic health record (Cerner Powerchart, 
+Kansas City, MO) was conducted to identify patients in 
+whom ketamine was added as adjunctive agent to the stan-
+dard of care for active AWS management. Patients were 
+excluded if they were less than 18 years of age or were initi-
+ated ketamine for reasons other than AWS management (ie, 
+pain control).
+A standardized institutional AWS treatment protocol has 
+been adopted at our institution utilizing the Withdrawal 
+Assessment Scale (WAS). The WAS is a validated tool in 
+medicine that was derived from the Clinical Institute 
+Withdrawal Assessment (CIWA) tool and indicates severity 
+of AWS on a scale from 0 to 96, stratifying points based on 
+symptoms.23 The WAS assesses 4 objective symptoms 
+relating to AWS: temperature, heart rate, respiratory rate, 
+and blood pressure. In brief, BZDs are administered based 
+on symptoms when the WAS score is greater than 10, and 
+housestaff are notified when the score is greater than 14. 
+Lorazepam or chlordiazepoxide are preferred agents for 
+BZD administration in the WAS protocol. Evaluation is 
+completed every 4 hours unless the score is greater than 20, 
+when evaluation is completed every 2 hours. The WAS is 
+meant only to guide BZD dosing and administration. 
+Ketamine use is not part of the WAS protocol, and this scale 
+is not used in the ICU as sedation scores take preference. 
+The decision to admit a patient to the ICU is physician 
+directed and is based on the severity of symptoms and the 
+quantity and frequency of BZD administration.
+Data Collection
+Data collection included change in BZD requirements at 12 
+and 24 hours post–ketamine infusion, pharmacological ket-
+amine management (initial and median doses, and docu-
+mented adverse effects), additional adjunctive agents used 
+for management of AWS, and the clinical outcomes associ-
+ated with management of these patients, including incidence 
+of resistant alcohol withdrawal (RAW), time to resolution of 
+AWS, incidence of nosocomial pneumonia, the length of 
+ICU and hospital length of stay, incidence of endotracheal 
+intubation, and associated documented symptoms from 
+AWS (including arrhythmias, delirium tremens, hallucina-
+tions, and seizures). Pharmacological management informa-
+tion was only collected from the medical record for those 
+medications that were documented as being used for man-
+agement of AWS. RAW was defined as the literature defini-
+tion of a BZD-equivalent requirement of 40 mg of diazepam 
+administered in 1 hour for the management of AWS.14 For 
+patients not receiving diazepam, a BZD dose equivalent was 
+applied (alprazolam 1 mg = chlordiazepoxide 25 mg = clon-
+azepam 0.5 mg = diazepam 10 mg = lorazepam 1.5 mg = 
+midazolam 1 mg = oxazepam 30 mg) for both enteral and 
+intravenous routes.24,25 Time to resolution of AWS was 
+defined as documentation of resolved AWS symptoms in a 
+patient’s medical record by the provider. Symptoms of AWS 
+and adverse drug events were collected systematically 
+through evaluation of all notes in a patient’s medical record 
+and depended on provider documentation. Nosocomial 
+pneumonia was defined as pneumonia that occurs at least 48 
+hours after admission, which was not present at the time of 
+hospital admission.26 Collection of data occurred until there 
+was documentation of resolved AWS or patient discharge. 
+Demographic information included the use of the Simplified 
+Acute Physiology Score II (SAPS) to evaluate severity of 
+illness at ICU admission.27 The SAPS was evaluated within 
+24 hours of ICU admission for patients admitted to the ICU 
+and at the time of RAW designation for patients who were 
+not admitted to the ICU. Agitation assessment in patients 
+who were mechanically ventilated were based on the Riker 
+Sedation-Agitation Scale (SAS) as part of usual care.28 
+Agitation scores were collected as closely before and after 
+the time of ketamine initiation as possible, with a maximum 
+time window of 6 hours. Data on the incidence of specialty 
+consultation, documented symptoms associated with AWS, 
+time to resolution of AWS, and patient disposition at dis-
+charge were also collected.
+Statistical Analysis
+Data in this study were analyzed using SPSS (SPSS Inc, 
+Chicago, IL). Median and interquartile ranges were pre-
+sented for skewed data, and mean and standard deviations 
+were provided for nonskewed data. A paired Wilcoxon 
+rank-sum test was used for continuous data, as appropriate. 
+A P value less than 0.05 was considered to be statistically 
+significant.
+Results
+Patients
+Of 235 patients screened, 23 patients (9.8%) met study eli-
+gibility criteria. Baseline demographics are detailed in 
+Table 1. In summary, patients were primarily middle aged, 
+male, and Caucasian. Approximately 20% of patients had 
+ at UCSF LIBRARY & CKM on November 21, 2014
+aop.sagepub.com
+Downloaded from 
+
+
+Wong et al	
+3
+some history of previous AWS. There were few patients (n 
+= 3) who had documented hepatic dysfunction (eg, cirrho-
+sis). Patients had a low SAPS; approximately a third were 
+admitted for AWS; and the majority of patients were admit-
+ted initially to the general medicine floor. Approximately 
+75% of our population experienced delirium tremens, and 
+all patients required ICU admission, with 75% requiring 
+ICU admission for management of AWS. However, no 
+patient developed delirium tremens or any other AWS com-
+plication after ketamine was initiated. The majority of 
+patients met RAW designation due to significant BZD 
+requirements, which occurred in all patients prior to ket-
+amine administration.
+Treatment and Outcomes
+Dosing parameters for ketamine are detailed in Table 2. 
+Ketamine was predominantly initiated by our inpatient toxi-
+cology service for management of active delirium tremens. 
+Patients who were initiated on ketamine had already been 
+administered a substantial amount of hourly and total dose 
+Table 1.  Baseline Characteristics.
+Ketamine (n = 23)
+Age, median, years (IQR)
+50.0 (47.0, 54.0)
+Male, n (%)
+14 (60.9)
+Caucasian, n (%)
+20 (87.0)
+Past medical history, n (%)
+  AWS
+4 (17.4)
+  Seizure
+1 (4.3)
+  Delirium tremens
+1 (4.3)
+SAPS, median (IQR)
+19.0 (13.0, 23.0)
+Primary diagnosis, n (%)
+  AWS
+8 (34.8)
+  Toxicology (other)
+4 (17.4)
+  Trauma
+4 (17.4)
+  Gastrointestinal
+3 (13.0)
+  Altered mental status
+2 (8.7)
+  Other
+2 (8.7)
+Initial admit to floor, n (%)
+11 (47.8)
+Admission blood ethanol 
+concentration, median, mg/dL (IQR)
+0 (0, 38.5)
+RAW designation, n (%)
+19 (82.6)
+AWS complications, n (%)
+  Arrhythmias
+0
+  Delirium tremens
+17 (73.9)
+  Hallucinosis
+2 (8.7)
+  Seizure
+1 (4.3)
+ICU admission, n (%)
+23 (100)
+AWS-related ICU admission, n (%)
+17 (73.9)
+Invasive mechanical ventilation, n (%)
+8 (34.8)
+  For management of AWS
+6 (75.0)
+  Prior to ketamine initiation
+6 (75.0)
+Abbreviations: IQR, interquartile range; AWS, alcohol withdrawal 
+syndrome; SAPS, Simplified Acute Physiology Score II; RAW, resistant 
+alcohol withdrawal; ICU, intensive care unit.
+Table 2.  Ketamine Treatment and Outcomes.
+Ketamine (n = 23)
+Toxicology initiated, n (%)
+17 (73.9)
+Reason for ketamine initiation, n (%)
+  Delirium tremens
+10 (43.5)
+  Significant BZD requirements
+3 (13.0)
+  Other/Unknown
+10 (43.5)
+Mechanical ventilation throughout 
+ketamine therapy, n (%)
+2 (8.7)
+Diazepam equivalent prior to 
+ketamine, median, mg (IQR)
+170.0 (100.0, 570.0)
+Diazepam equivalent per hour prior 
+to ketamine initiation, median, mg 
+(IQR)
+8.8 (6.0, 20.0)
+Time from first treatment of AWS 
+to ketamine initiation, mean, hours 
+(SD)
+33.6 (29.1)
+Time from RAW designation to 
+ketamine initiation, median, hours 
+(IQR)
+12.3 (1.5, 42.6)
+Initial infusion dose, mean, mg/kg/h 
+(SD)
+0.21 (0.11)
+Ketamine loading dose, n (%)
+8 (38.1)
+Infusion dose during therapy, 
+median, mg/kg/h (IQR)
+0.20 (0.12, 0.23)
+Duration of ketamine therapy, 
+mean, hours (SD)
+55.8 (30.5)
+Change in diazepam equivalent 12 
+hours pre-post ketamine initiation, 
+median, mg (IQR)a
+−40.0 (−106.7, +21.7)
+Diazepam equivalent change per 
+hour, 12 hours post–ketamine 
+initiation, median, mg (IQR)
+−3.3 (−8.9, +1.8)
+Change in diazepam equivalent 24 
+hours pre-post ketamine initiation, 
+median, mg (IQR)b
+−13.3 (−86.7, +50.0)
+Diazepam equivalent change per 
+hour, 24 hours post–ketamine 
+initiation, median, mg (IQR)
+−0.6 (−3.6, +2.1)
+Total diazepam equivalent for 
+management of AWS, median, mg 
+(IQR)
+740.0 (390.0, 1270.0)
+Total ketamine dosage, median, mg 
+(IQR)
+9.7 (4.5, 14.2)
+Change in sedation scores with ketamine initiation, median 
+(IQR)
+  WAS (n = 8)
++1.0 (−4.5, +2.0)
+  SAS (n = 5)
++1.0 (0, +2.0)
+Abbreviations: BZD, benzodiazepine; IQR, interquartile range; AWS, 
+alcohol withdrawal syndrome; SD, standard deviation; RAW, resistant 
+alcohol withdrawal; WAS, Withdrawal Assessment Scale; SAS, Riker 
+Sedation-Agitation Scale.
+aP = 0.110.
+bP = 0.330.
+ at UCSF LIBRARY & CKM on November 21, 2014
+aop.sagepub.com
+Downloaded from 
+
+
+4	
+Annals of Pharmacotherapy ﻿
+of BZDs. Ketamine was initiated approximately 34 hours 
+after first treatment of AWS and approximately 12 hours of 
+RAW designation. The use of a loading dose, and services 
+initiating therapy other than toxicology, appeared to be 
+more common in the later portion of our evaluation (late 
+2013-2014). The loading dose used was 0.3 mg/kg. 
+Ketamine was continued for approximately 56 hours and 
+resulted in a decrease in BZD requirements, which was not 
+statistically significant at 12 or 24 hours post–ketamine ini-
+tiation (P = 0.110 and 0.330, respectively). Additionally, 
+there were no changes in sedation scores. Ketamine was the 
+only adjunctive agent used in 5 patients, whereas additional 
+adjunctive agents were required in 11 patients while on ket-
+amine therapy; the remaining 7 patients required additional 
+adjunctive agents but not while on ketamine therapy. Other 
+adjunctive agents included dexmedetomidine (n = 7), phe-
+nobarbital (n = 6), haloperidol (n = 5), and propofol (n = 4). 
+Before ketamine initiation, dexmedetomidine, phenobarbi-
+tal, and propofol were administered to 3 patients each. Two 
+patients were administered haloperidol prior to ketamine 
+initiation. After ketamine initiation, a total of 5 patients 
+required administration of phenobarbital, whereas dexme-
+detomidine and haloperidol were administered to 3 patients 
+each. Two patients were administered propofol, and 1 
+patient was administered clonidine after ketamine initia-
+tion. Only 1 documented adverse event occurred from ket-
+amine therapy, which was oversedation requiring dose 
+adjustment.
+AWS outcomes for the patient population are detailed in 
+Table 3. Duration of mechanical ventilation was short, and 
+patients were largely discharged to home. No patients in the 
+study population died.
+Discussion
+In our retrospective cohort study of patients administered 
+adjunctive ketamine for management of AWS, we found 
+that ketamine may potentially reduce BZD requirements, 
+but it did not appear to affect sedation scores. Ketamine was 
+commonly initiated after a significant amount of BZDs 
+were administered and after patients had already developed 
+some manifestation of AWS, typically delirium tremens. 
+Ketamine use, dose, and monitoring were at the discretion 
+of the physician because this is not part of our institution’s 
+protocol. We noted that a set rate of ketamine was adminis-
+tered, with a dose reduction of approximately half of the 
+infusion rate when the patient’s symptoms began to resolve.
+Despite the low SAPS in these patients, ICU admission 
+was still required in all patients, although approximately 
+half of our population was initially admitted to the general 
+medicine floor. This may be reflective of the large amount 
+of BZDs administered to these patients or the fact that 
+severity of AWS is not adequately predicted from hospital 
+admission.
+The low doses of ketamine used in this patient popula-
+tion reflect recommended doses for the management of 
+nonneuropathic pain.18 Ketamine initiation was primarily 
+via our inpatient toxicology consult team, who generally 
+manage more complicated AWS patients. More recently in 
+our study period, ketamine was initiated by our critical care 
+medicine services, which may illustrate anecdotal evidence 
+that ketamine is effective in select AWS patients. Evaluating 
+objective evidence of its effect indicates that the initiation 
+of ketamine reduced BZD requirements, although the larg-
+est difference was seen in the first 12-hour period after ini-
+tiation rather than in the subsequent 24 hours. This surrogate 
+assessment for the effectiveness of ketamine was chosen 
+because other studies have used this as a common assess-
+ment end point.11,12 Whether this is truly reflective of the 
+benefit of ketamine or resolving AWS is difficult to deter-
+mine, especially in a retrospective study. We had a limited 
+ability to evaluate AWS or sedation scores, given our time 
+window of 6 hours pre–ketamine initiation and post–ket-
+amine initiation. This time window was chosen to be most 
+reflective of actual changes caused by ketamine. An evalu-
+ation of the statistical significance of change was not com-
+pleted because of small sample sizes. Additional adjunctive 
+agents were used either before or after ketamine was initi-
+ated, which may have influenced outcomes, including the 
+amount of BZDs administered, and AWS or sedation scores. 
+A significant proportion of our ketamine population still 
+required additional adjunctive agents for management of 
+AWS, which may reflect the lack of effect of ketamine in 
+these patients or that the dose of ketamine administered to 
+our patients may not be adequate. Ketamine dose range 
+studies as an adjunctive agent in alcohol withdrawal, along 
+with comparative effectiveness research on alternative 
+adjunctive agents, would be beneficial to determine its 
+place in therapy.
+A significant proportion of our patients developed delir-
+ium tremens, which was most likely to occur during the 
+beginning of their hospitalization, reflective of the expected 
+Table 3.  AWS Characteristics and Outcomes.
+Ketamine (n = 23)
+Duration of mechanical ventilation, 
+median, days (IQR)
+2.5 (2.0, 4.0)
+Nosocomial pneumonia, n (%)
+4 (17.4)
+Time to resolution of AWS, mean, 
+days (SD)
+5.6 (1.8)
+Length of stay, mean, days (SD)
+  ICU
+6.3 (3.0)
+  Hospital
+12.3 (6.6)
+Discharge disposition, n (%)
+  Home
+12 (52.2)
+  Rehabilitation
+7 (30.4)
+  Inpatient psychiatry
+4 (17.4)
+Abbreviations: AWS, alcohol withdrawal syndrome; IQR, interquartile 
+range; SD, standard deviation; ICU, intensive care unit.
+ at UCSF LIBRARY & CKM on November 21, 2014
+aop.sagepub.com
+Downloaded from 
+
+
+Wong et al	
+5
+time to onset from last consumption of alcohol of 48 hours.2 
+Interestingly, no AWS complications (delirium tremens, 
+hallucinations, and seizures) occurred after ketamine was 
+initiated, which may illustrate the potential benefit of tar-
+geting the neurotransmitters involved in AWS. Given the 
+large quantity of BZD administered in these patients, a sig-
+nificant proportion met RAW designation, indicating a high 
+incidence of severe AWS in our population. Additionally, 
+there was no mortality experienced in our cohort, although 
+this was likely reflective of our small sample size or better 
+understanding of the recognition and treatment of AWS.
+The safety evaluation of ketamine in our population was 
+limited for a few reasons. First, we were dependent on docu-
+mentation of adverse drug effects. Although ketamine has a 
+good safety profile, side effects, including nausea, vomiting 
+and emergence reactions have been reported.29 Emergence 
+reactions, including hallucinations and delirium, are esti-
+mated to occur in approximately 10% of patients and are 
+more common in young patients, ketamine-naïve patients, or 
+when the drug is not administered intramuscularly. Studies 
+have attempted to determine how to mitigate this risk and 
+have found that administration of concurrent BZDs may be 
+effective at reducing incidence.30,31 Given our AWS popula-
+tion receives a significant amount of BZDs prior to and dur-
+ing ketamine initiation, this potential risk may be reduced or 
+mitigated. Although ketamine stimulates respiratory drive, 
+oversedation with ketamine, especially in addition to BZDs, 
+can potentially result in respiratory compromise. In our pop-
+ulation, many patients did not require mechanical ventilation 
+at any time during their hospital stay. Additionally, ketamine 
+is associated with increased blood pressure and tachycardia, 
+which are mediated through an unknown mechanism.32 
+These cardiovascular effects may be similar to that of 
+patients presenting with AWS, and it would be difficult to 
+differentiate the instigating cause. The WAS score uses 
+hemodynamic parameters, which may explain the potential 
+rise in scores after ketamine initiation, but we are unable to 
+determine if this was the case or if a patient’s AWS was 
+worsening after ketamine initiation.
+In general, our institution uses the WAS for monitoring 
+AWS patients because it is driven by the nursing staff and is 
+specific for AWS manifestations. The SAS would have 
+been used when patients were mechanically ventilated as 
+part of usual care, which only occurred in a total of 8 
+patients. Otherwise, patients should have been managed 
+with the WAS, per institution protocol. Potential limitations 
+for SAS would be the subjective evaluation of AWS with 
+the SAS and lack of specificity for AWS-related manifesta-
+tions, including hallucinations, seizure, and tremors. 
+However, the use of SAS sedation scores studied in the ICU 
+may have an advantage in this population. The CIWA and 
+the WAS have not been verified in the ICU population 
+because they were originally studied in outpatient or gen-
+eral medicine floor management of AWS. Additionally, 
+some of the parameters that the CIWA or WAS evaluates 
+would not be obtainable in a mechanically ventilated 
+patient, including parameters based on patient report, such 
+as disturbances and headaches.
+Several limitations exist with this study. This study was 
+a single-center, retrospective cohort study evaluating 
+patients treated with ketamine for AWS, which limits poten-
+tial associations resulting from ketamine administration. 
+The study was also limited to a small sample size. 
+Additionally, outcome data were dependent on documenta-
+tion in the medical record, which led to likely underreport-
+ing of outcome data, including past history of AWS, adverse 
+drug effects, and sedation scores. Finally, there is no for-
+malized protocol for the use of adjunctive agents for the 
+management of AWS, which contributed to the variable 
+management of these patients. Ketamine was rarely the 
+only adjunctive agent used, and these other adjunctive 
+agents may have contributed to the reduction in BZDs for 
+some patients.
+Conclusion
+In summary, this retrospective cohort study evaluated the 
+safety and efficacy of ketamine for the management of 
+AWS. The use of ketamine as an adjunctive agent trended 
+toward a decreased amount of short-term BZDs adminis-
+tered but did not change sedation scores after initiation. 
+Patients in this population commonly required ICU admis-
+sion for AWS management but rarely required mechanical 
+ventilation. This study illustrates that ketamine appears to 
+be safe, but there remains a need for prospective dose range 
+evaluations or comparative effectiveness research regarding 
+the use of ketamine as an adjunctive to BZDs for the man-
+agement of AWS.
+Declaration of Conflicting Interests
+The author(s) declared no potential conflicts of interest with 
+respect to the research, authorship, and/or publication of this 
+article.
+Funding
+The author(s) disclosed receipt of the following financial support 
+for the research, authorship, and/or publication of this article: Drs 
+Benedict and Kane-Gill are supported by an investigator-initiated 
+grant from Hospira, Inc, within the past 5 years.
+References
+	 1.	 Bayard M, McIntyre J, Hill KR, Woodside J. Alcohol with-
+drawal syndrome. Am Fam Physician. 2004;69:1443-1450.
+	 2.	 DeBellis R, Smith BS, Choi S, Malloy M. Management of 
+delirium tremens. J Intensive Care Med. 2005;20:164-173.
+	 3.	 Mayo-Smith MF, Beecher LH, Fischer TL, et al. Management 
+of alcohol withdrawal delirium: an evidence-based practice 
+guideline. Arch Intern Med. 2004;164:1405-1412.
+ at UCSF LIBRARY & CKM on November 21, 2014
+aop.sagepub.com
+Downloaded from 
+
+
+6	
+Annals of Pharmacotherapy ﻿
+	 4.	 Hack JB, Hoffmann RS, Nelson LS. Resistant alcohol with-
+drawal: does an unexpectedly large sedative requirement 
+identify these patients early? J Med Toxicol. 2006;2:55-60.
+	 5.	 Rayner SG, Weinert CR, Peng H, Jepsen S, Broccard AF. 
+Dexmedetomidine as adjunct treatment for severe alcohol 
+withdrawal in the ICU. Ann Intensive Care. 2012;2:12.
+	 6.	 Rovasalo A, Tohmo H, Aantaa R, Kettunen E, Palojoki R. 
+Dexmedetomidine as an adjuvant in the treatment of alcohol 
+withdrawal delirium: a case report. Gen Hosp Psychiatry. 
+2006;28:362-363.
+	 7.	 Darrouj J, Puri N, Prince E, Lomonaco A, Spevetz A, 
+Gerber DR. Dexmedetomidine infusion as adjunctive ther-
+apy to benzodiazepines for acute alcohol withdrawal. Ann 
+Pharmacother. 2008;42:1703-1705.
+	 8.	 DeMuro JP, Botros DG, Wirkowski E, Hanna AF. Use of dex-
+medetomidine for the treatment of alcohol withdrawal syn-
+drome in critically ill patients: a retrospective case series. J 
+Anesth. 2012;26:601-605.
+	 9.	 Muzyk AJ, Revollo JY, Rivelli SK. The use of dexmedetomi-
+dine in alcohol withdrawal. J Neuropsychiatry Clin Neruosci. 
+2012;24:E45-E46.
+	10.	 Tolonen J, Rossinen J, Alho H, Harjola VP. Dexmedetomidine 
+in addition to benzodiazepine-based sedation in patients with 
+alcohol withdrawal delirium. Eur J Emerg Med. 2013;20: 
+425-427.
+	11.	 Frazee EN, Personett HA, Leung JG, Nelson S, Dierkhising 
+RA, Bauer PR. Influence of dexmedetomidine therapy on the 
+management of severe alcohol withdrawal syndrome in criti-
+cally ill patients. J Crit Care. 2014;29:298-302.
+	12.	 Mueller SW, Preslaski CR, Kiser TH, et al. A randomized, 
+double-blind, placebo-controlled dose range study of dexme-
+detomidine as adjunctive therapy for alcohol withdrawal. Crit 
+Care Med. 2014;42:1131-1139.
+	13.	 Hayner CE, Wuestefeld NL, Bolton PJ. Phenobarbital treat-
+ment in a patient with resistant alcohol withdrawal syndrome. 
+Pharmacotherapy. 2009;29:875-878.
+	14.	 Gold JA, Rimal B, Nolan A, Nelson LS. A strategy of escalat-
+ing doses of benzodiazepines and phenobarbital administra-
+tion reduces the need for mechanical ventilation in delirium 
+tremens. Crit Care Med. 2007;35:724-730.
+	15.	 Rosenson J, Clements C, Simon B, et al. Phenobarbital for 
+acute alcohol withdrawal: a prospective randomized dou-
+ble-blind placebo-controlled study. J Emerg Med. 2013;44: 
+592-598.
+	16.	 Hendey GW, Dery RA, Barnes RL, Snowden B, Mentler P. 
+A prospective, randomized, trial of phenobarbital versus ben-
+zodiazepines for acute alcohol withdrawal. Am J Emerg Med. 
+2011;29:382-385.
+	17.	 Coomes TR, Smith SW. Successful use of propofol in refrac-
+tory delirium tremens. Ann Emerg Med. 1997;30:825-828.
+	18.	 Barr J, Fraser GL, Puntillo K, et al. Clinical practice guide-
+lines for the management of pain, agitation, and deli-rium 
+in adult patients in the intensive care unit. Crit Care Med. 
+2013;41:263-306.
+	19.	 Krupitsky EM, Grinenko AY. Ketamine psychedelic therapy 
+(KPT): a review of the results of ten years of research. J 
+Psychoactive Drugs. 1997;29:165-183.
+	20.	 Krystal JH, Petrakis IL, Webb E, et al. Dose-related effects of 
+the NMDA antagonist, ketamine in recently detoxified alco-
+holics. Arch Gen Psychiatry. 1998;55:354-360.
+	21.	 Krystal JH, Petrakis IL, Limoncelli D, et al. Altered 
+NMDA glutamate receptor antagonist response in recover-
+ing ethanol dependent patients. Neuropsychopharmacology. 
+2003;28:2020-2028.
+	22.	 Krystal JH, Petrakis IL, Krupitsky E, Schutz C, Trevisan L, 
+D’Souza DC. NMDA receptor antagonism and the ethanol 
+intoxication signal: from alcoholism risk to pharmacotherapy. 
+Ann N Y Acad Sci. 2003;1003:176-184.
+	23.	 Wetterling T, Kanitz RD, Besters B, et al. A new rating scale 
+for the assessment of the alcohol-withdrawal syndrome (AWS 
+scale). Alcohol Alcohol. 1997;32:753-760.
+	24.	 Koda-Kimble MA, Young LY, Aldredge BK, et al, eds. 
+Applied Therapeutics: The Clinical Use of Drugs. 9th ed. 
+Philadelphia, PA: Wolsters Kluwer and Lippincott Williams 
+& Wilkins; 2008:74-76.
+	25.	 Dopheide JA, Pliszka SR. Childhood disorders. In: DiPiro JT, 
+Talbert RL, Yee GC, Matzke GR, Wells BG, Posey LM, eds. 
+Pharmacotherapy: A Pathophysiologic Approach. 8th ed. 
+New York, NY: McGraw-Hill; 2011:1088.
+	26.	 American Thoracic Society; Infectious Diseases Society of 
+America. Guidelines for the management of adults with hospi-
+tal-acquired, ventilator-associated, and healthcare-associated 
+pneumonia. Am J Respir Crit Care Med. 2005;171:388-416.
+	27.	 Le Gall JR, Lemeshow S, Saulnier F. A new Simplified Acute 
+Physiology Score (SAPS II) based on a European/North 
+American multicenter study. JAMA. 1993;270:2957-2963.
+	28.	 Riker RR, Picard JT, Fraser GL. Prospective evaluation of the 
+Sedation-Agitation Scale for adult critically ill patients. Crit 
+Care Med. 1999;27:1325-1329.
+	29.	 Ketamine (Ketalar®) [package insert]. Lake Forest, IL: 
+Hospira, Inc; 2013.
+	30.	 Grace RF. The effect of variable-dose diazepam on dreaming 
+and emergence phenomena in 400 cases of ketamine-fentanyl 
+anaesthesia. Anaesthesia. 2003;58:904-910.
+	31.	 Chudnofsky CR, Weber JE, Stoyanoff PJ, et al. A combi-
+nation of midazolam and ketamine for procedural sedation 
+and analgesia in adult emergency department patients. Acad 
+Emerg Med. 2000;7:228-235.
+	32.	 Pai A, Heining M. Ketamine. Contin Educ Anaesth Crit Care 
+Pain. 2007;7:59-63.
+ at UCSF LIBRARY & CKM on November 21, 2014
+aop.sagepub.com
+Downloaded from 

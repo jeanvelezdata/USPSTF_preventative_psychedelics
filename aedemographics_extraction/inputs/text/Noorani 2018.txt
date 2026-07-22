@@ -1,0 +1,1618 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/325967625
+Psychedelic therapy for smoking cessation: Qualitative analysis of participant
+accounts
+Article  in  Journal of Psychopharmacology · June 2018
+DOI: 10.1177/0269881118780612
+CITATIONS
+154
+READS
+3,550
+5 authors, including:
+Tehseen Noorani
+Durham University
+29 PUBLICATIONS   694 CITATIONS   
+SEE PROFILE
+Albert Garcia-Romeu
+Johns Hopkins Medicine
+72 PUBLICATIONS   2,997 CITATIONS   
+SEE PROFILE
+Matthew W Johnson
+Johns Hopkins Medicine
+209 PUBLICATIONS   17,393 CITATIONS   
+SEE PROFILE
+Roland R Griffiths
+Johns Hopkins Medicine
+488 PUBLICATIONS   32,345 CITATIONS   
+SEE PROFILE
+All content following this page was uploaded by Tehseen Noorani on 25 June 2018.
+The user has requested enhancement of the downloaded file.
+
+
+https://doi.org/10.1177/0269881118780612
+Journal of Psychopharmacology
+﻿1­–14
+© The Author(s) 2018
+Reprints and permissions: 
+sagepub.co.uk/journalsPermissions.nav
+DOI: 10.1177/0269881118780612
+journals.sagepub.com/home/jop
+Introduction
+Recent research with classic serotonin 2A receptor agonist hal-
+lucinogens (i.e. psychedelics) has generated renewed interest 
+in these drugs as a potential avenue for developing novel 
+addiction treatments (Bogenschutz and Johnson, 2016; Garcia-
+Romeu et  al., 2016; Krebs and Johansen, 2012; Sessa and 
+Johnson, 2015). Pilot studies have shown safety and feasibility 
+of psilocybin, a naturally occurring psychedelic found in so-
+called ‘magic mushrooms,’ as a therapeutic tool in the treat-
+ment of tobacco (Johnson et al., 2014) and alcohol use disorders 
+(Bogenschutz et al., 2015). These findings add to a body of 
+converging evidence suggesting psychedelics may have thera-
+peutic potential.
+Laboratory studies administering psychedelics to carefully 
+screened and prepared individuals suggest these substances can 
+occasion lasting changes in mood, behaviours, and attitudes 
+(Doblin, 1991; Griffiths et al., 2006, 2008, 2011; MacLean et al., 
+2011). Epidemiological data show significant associations 
+between psychedelic use and reduced recidivism in formerly 
+incarcerated, substance-involved individuals (Hendricks et  al., 
+2014), and reduced psychological distress and suicidality in a 
+national United States sample (Hendricks et al., 2015). A meta-
+analysis investigating the psychedelic lysergic acid diethylamide 
+(LSD) in the treatment of alcoholism found significantly greater 
+reductions in alcohol misuse at initial follow-up in patients 
+treated with LSD compared with control conditions (Krebs and 
+Johansen, 2012). Observational studies have found decreased 
+rates of alcohol and other drug misuse among religious users of 
+ayahuasca, which contains the psychedelic dimethyltryptamine 
+(Doering-Silveira et  al., 2005; Fábregas et  al., 2010; Halpern 
+et al., 2008).
+In a recent open-label pilot study, 15 treatment-seeking smok-
+ers completed a smoking cessation intervention combining two 
+to three administrations of psilocybin with cognitive behavioural 
+Psychedelic therapy for smoking  
+cessation: Qualitative analysis of  
+participant accounts
+Tehseen Noorani1,2, Albert Garcia-Romeu3, Thomas C Swift3*,4,  
+Roland R Griffiths3,5 and Matthew W Johnson3     
+Abstract
+Background: Recent pilot trials suggest feasibility and potential efficacy of psychedelic-facilitated addiction treatment interventions. Fifteen 
+participants completed a psilocybin-facilitated smoking cessation pilot study between 2009 and 2015.
+Aims: The aims of this study were as follows: (1) to identify perceived mechanisms of change leading to smoking cessation in the pilot study; (2) to 
+identify key themes in participant experiences and long-term outcomes to better understand the therapeutic process.
+Methods: Participants were invited to a retrospective follow-up interview an average of 30 months after initial psilocybin sessions. Semi-structured 
+interviews were conducted with 12 of the 15 participants. Data were analysed using thematic analysis.
+Results: Participants reported gaining vivid insights into self-identity and reasons for smoking from their psilocybin sessions. Experiences of 
+interconnectedness, awe, and curiosity persisted beyond the duration of acute drug effects. Participants emphasised that the content of psilocybin 
+experiences overshadowed any short-term withdrawal symptoms. Preparatory counselling, strong rapport with the study team, and a sense of momentum 
+once engaged in the study treatment were perceived as vital additional factors in achieving abstinence. In addition, participants reported a range of 
+persisting positive changes beyond smoking cessation, including increased aesthetic appreciation, altruism, and pro-social behaviour.
+Conclusions: The findings highlight the value of qualitative research in the psychopharmacological investigation of psychedelics. They describe 
+perceived connections between drug- and non-drug factors, and provide suggestions for future research trial design and clinical applications.
+Keywords
+Qualitative research, smoking cessation, addiction, psilocybin, psychedelic
+1Department of Mental Health, Johns Hopkins Bloomberg School of 
+Public Health, Baltimore, MD, USA
+2Department of Anthropology, Durham University, UK
+3Department of Psychiatry and Behavioral Sciences, Johns Hopkins 
+University School of Medicine, Baltimore, MD, USA
+4RiverStyx Foundation, Kirkland, Washington, DC, USA
+5Department of Neuroscience, Johns Hopkins University School of 
+Medicine, Baltimore, MD, USA
+*Thomas C Swift has been employed as a Casual-As Needed Research 
+Program Assistant at Johns Hopkins University on a project 
+independent of this research.
+Corresponding author:
+Tehseen Noorani, Department of Anthropology, Durham University, 
+Dawson Building, South Road, Durham, DH1 3LE, UK. 
+Email: tehseen.n.noorani@durham.ac.uk
+780612 JOP0010.1177/0269881118780612Journal of PsychopharmacologyNoorani et al.
+research-article2018
+Original Paper
+
+
+2	
+Journal of Psychopharmacology 00(0)
+therapy (CBT) (Johnson et al., 2014). Of the 15 participants, 80% 
+(n = 12) were biologically verified as smoking abstinent 6 months 
+post-treatment (Johnson et al., 2014), 67% (n = 10) were absti-
+nent at 12 months post-treatment, and 60% (n = 9) were abstinent 
+at a long-term follow-up an average of 30 months post-treatment 
+(Johnson et al., 2016). Although results from an open-label study 
+cannot demonstrate efficacy, the most effective current pharma-
+cotherapies for smoking cessation typically show success rates 
+⩽35% at 6 months and beyond (Cahill et al., 2014; Hays et al., 
+2008; Mottillo et al., 2009; Tønnesen et al., 2003).
+The psychological mechanisms of action of psychedelic-
+facilitated treatments remain poorly understood. Preliminary 
+quantitative analyses suggest that acute mystical-type drug 
+effects are significantly associated with therapeutic outcomes in 
+psilocybin-facilitated addiction treatment (Bogenschutz et  al., 
+2015; Garcia-Romeu, et  al., 2014). Recent double-blind, con-
+trolled studies of psilocybin in patients with life-threatening can-
+cer diagnoses also found lasting antidepressant and anti-anxiety 
+effects that were mediated by psilocybin-occasioned mystical-
+type experiences (Griffiths et al., 2016; Ross et al., 2016). Such 
+findings are consistent with earlier researchers’ assertions that 
+the subjective effects of psychedelics play a pivotal role in gener-
+ating lasting therapeutic benefits (e.g. Osmond, 1957; Pahnke 
+and Richards, 1966; Savage and McCabe, 1973).
+Psychological insight, increased personality openness, changes 
+in beliefs and values, increased motivation and enhanced self-effi-
+cacy have been hypothesised as possible psychological mecha-
+nisms of psychedelic-facilitated addiction treatment (Bogenschutz 
+and Pommy, 2012). Recent novel qualitative research has offered 
+additional insights into potential psychological mechanisms of 
+psilocybin-facilitated treatment. One such study found that cancer 
+patients with symptoms of depression and anxiety reported a range 
+of positive effects from psilocybin-assisted psychotherapy, includ-
+ing greater relational embeddedness, emotional range and wisdom, 
+as well as revised life priorities, alterations to identity, and move-
+ments from feelings of separateness to interconnectedness (Belser 
+et al., 2017). A second recent study on patients’ accounts of psilo-
+cybin-assisted therapy for treatment-resistant depression reported 
+shifts from disconnection (to self, others and the world) to connec-
+tion, and from avoidance of difficult memories and emotions to 
+acceptance (Watts et al., 2017). 
+The primary aim of this qualitative study was to characterise 
+the perceived mechanisms of change attributed to a structured 
+psilocybin-facilitated smoking cessation treatment. A secondary 
+aim was to identify themes emerging from participant accounts 
+of their experience undergoing psychedelic-facilitated addiction 
+treatment, including perceptions of the separate facets of treat-
+ment and the overall intervention, and any additional long-term 
+outcomes. As clinical research with psychedelics is still in its 
+early stages, such experiences can offer insights for improving 
+best practice in the emerging field of psychedelic research and 
+psychotherapy for substance use disorders.
+Methods
+This retrospective follow-up study was approved by the Johns 
+Hopkins University School of Medicine Institutional Review 
+Board. All 15 individuals who completed an earlier psilocybin-
+facilitated smoking cessation pilot study were contacted via 
+email or telephone and invited to participate in this supplemen-
+tary qualitative study.
+In the original study treatment, participants attended four 
+weekly counselling meetings with two trained study guides 
+(see Johnson et al., 2014). These meetings consisted of a stand-
+ardised evidence-based CBT treatment for smoking cessation 
+(Marks and Sykes, 2002; Sykes and Marks, 2001), and special-
+ised preparation for psilocybin sessions. In addition, partici-
+pants received mindfulness training in the form of a short 
+body-scan meditation (Kabat-Zinn, 1990), developed a mantra 
+or motivational statement toward quitting smoking, and used a 
+scented oil and brief guided imagery to aid in their efforts. On 
+their target quit date (TQD) in week 5, participants were 
+administered a moderate dose (20 mg/70 kg) of psilocybin. 
+During all psilocybin sessions a program of music was played. 
+Participants were instructed to focus their attention inward, 
+and with regards to their experiences, to ‘trust, let go, and be 
+open.’
+After the first psilocybin session (i.e. TQD), weekly follow-
+up meetings were held for 10 weeks to discuss psilocybin session 
+experiences, provide support for ongoing abstinence, and track 
+smoking status. A second, higher dose (30 mg/70 kg) of psilocy-
+bin was administered approximately 2 weeks after the TQD. 
+Participants were required to maintain at least four consecutive 
+days of abstinence between the first and second psilocybin ses-
+sions to continue receiving the study treatment. The rationale for 
+this was to ensure that participants’ intention to quit smoking was 
+sincere and not merely a desire to receive psilocybin. A third 
+high-dose psilocybin session was available approximately 8 
+weeks after the TQD, with 3 of the 15 participants opting out of 
+this final psilocybin session. All participants returned for follow-
+up meetings 6 and 12 months after the TQD.
+This study presents new retrospective qualitative interview 
+data regarding participants’ experiences in the aforementioned 
+treatment study. Twelve individuals (80%) agreed to participate, 
+provided written informed consent, and attended a single face-to-
+face interview. Interviews occurred on average 30 months (range 
+= 16–57 months) after the TQD (i.e. first psilocybin session). On 
+the interview day, participants completed some brief question-
+naires regarding their smoking behaviour since their last visit and 
+provided breath and urine samples to verify current smoking sta-
+tus (Johnson et al., 2016). Afterwards, the interviews were con-
+ducted and audio recorded in the psilocybin session room used in 
+the original intervention (in part to increase context-dependent 
+recall). One member of the team (TN) who had had no prior con-
+tact with the participants conducted interviews with all 12 
+participants.
+The interview (see Appendix 1) was designed by the 
+authors to inquire into participants’ experiences of the study 
+treatment, and the ways it may have helped them quit smok-
+ing. In total, the interview was comprised of 43 questions 
+probing participants’ current and prior smoking habits, overall 
+study treatment experiences, psilocybin session experiences, 
+and mechanisms hypothesised to play a role in smoking cessa-
+tion outcomes (e.g. Bogenschutz and Pommy, 2012; Gasser 
+et  al., 2014; Halpern, 1996; Ross, 2012). To conclude the 
+interview, several open-ended items asked participants to pro-
+pose alternative mechanisms of action not queried, potential 
+future research regarding psilocybin, and possible improve-
+ments to the study treatment.
+
+
+Noorani et al.	
+3
+Data analysis
+Interviews were transcribed by researchers and listened to a second 
+time to check for accuracy. Interview transcripts were subjected to 
+thematic analysis using three approaches to triangulate findings.
+First, two researchers (TN and AG-R) coded transcripts using 
+Dedoose (2016) qualitative data analysis software (SocioCultural 
+Research Consultants, Los Angeles, CA). Codes were derived both 
+top-down from interview questions, and bottom-up from emerging 
+patterns agreed upon in regular research analysis meetings. To test 
+for inter-rater reliability, two interview transcripts were concur-
+rently coded by both raters using the final codebook, and submitted 
+to a pooled Cohen's kappa test (Cohen, 1960; De Vries et al., 2008).
+Second, a table listing 31 of the most objective items was dis-
+tilled from transcripts. This provided data for each participant 
+based on their interview responses (e.g. the participant’s current 
+smoking status; key elements of the study that led to changes in 
+participants’ smoking habits; most profound psilocybin session 
+experience, etc.), and allowed for convenient comparisons within 
+and between subjects.
+Third, one-page summaries were written to outline the main 
+turning points in each participant’s narrative of their experience 
+in the research study. Each coder created summaries of the inter-
+views they coded, and these summaries were subsequently shared 
+between the coders to ensure coders' interpretations of partici-
+pants’ experiences were congruent.
+Using these three complementary methods, interview data 
+were analysed for patterns concerning how participants experi-
+enced the study treatment, the treatment’s overall effects on par-
+ticipants and the mechanisms by which these effects were 
+perceived to occur. Participant quotes have been edited to remove 
+filler utterances.
+Participants
+Table 1 shows demographics for the 12 participants who com-
+pleted this study. Five of the participants (41.7%) had never used 
+a classic hallucinogen before the treatment study, and the remain-
+ing seven had a mean (SD) of 10.1 (4.4) lifetime occasions of 
+classic hallucinogen use prior to the study, a mean (SD) of 29.9 
+(11.5) years before intake to the treatment study. Hereafter, par-
+ticipants are referred to by their anonymous study identification 
+numbers (e.g. 402).
+Results
+Inter-rater reliability
+Interviews were a median of 1 h 48 min in duration (range: 1.2–
+4.2 h). For analysis of inter-rater reliability across the two tran-
+scripts and both raters, Cohen’s kappa was calculated at 0.75, 
+indicating good-to-excellent inter-rater agreement (Cicchetti, 
+1994; Fleiss, 1971).
+Current smoking behaviour
+For a detailed report of quantitative long-term smoking cessation 
+outcomes, see Johnson et  al. (2016). Briefly, 10 participants 
+(67%) were biologically confirmed as smoking-abstinent 12 
+months post-treatment, and 9 participants (60%) were confirmed 
+abstinent at the long-term follow-up interview. A tenth partici-
+pant (402) identified as a non-smoker, but tested positive for 
+recent smoking, consistent with her admission that she occasion-
+ally smokes at parties. Of the two remaining participants who 
+were interviewed, Participant 424 did not quit smoking at the 
+time of the treatment and continued smoking through long-term 
+follow-up, and Participant 405 relapsed between the 12-month 
+and long-term follow-ups.
+Among the three individuals who did not complete the long-
+term follow-up interview, all three were males. Two did not quit 
+smoking during the treatment and continued smoking through the 
+12-month follow-up, and one quit smoking through the 6-month 
+follow-up, but relapsed between the 6- and 12-month follow-ups. 
+At the final 12-month follow-up completed by these three indi-
+viduals, all considered their psilocybin experiences to have been 
+personally meaningful and spiritually significant, and none con-
+sidered their experiences in the study to have decreased their 
+well-being or life satisfaction in any way (see Johnson et  al., 
+2016).
+Prior experiences of smoking
+Participants were asked about their relationship to smoking before 
+they enrolled in the treatment study. For five participants (402, 
+403, 406, 416 and 424), smoking was described as offering a 
+space, time and means for experiencing and transforming emo-
+tions. As Participant 402 explained, ‘You would just reach for it [a 
+cigarette] whenever without thinking really. If you felt…any emo-
+tion at all.’ Four individuals described smoking as an unthinking 
+and compulsive habit, often tied to an earlier era when smoking 
+was common (participants 403, 410, 417 and 421). In another 
+three cases, smoking was considered a central facet of partici-
+pants’ self-identities (participants 402, 405 and 406).
+A sub-theme that emerged regarding six participants’ prior 
+experiences with smoking was its ability to produce strong feel-
+ings of connection. For participants 402, 422 and 427, cigarettes 
+were described as ‘friends’ that offered a sense of solace or com-
+panionship. For instance,
+Table 1.  Demographic and smoking characteristics at treatment study 
+intake, N = 12.
+Categories
+Mean (SD)
+Range
+Sexa
+7 M, 5 F
+ 
+Age (years) at Interview
+54 (11.1)
+31–67
+Educationa
+---Some college
+3 (25.0)
+–
+---Bachelor’s degree
+7 (58.3)
+–
+---Graduate degree
+2 (16.7)
+–
+Cigarette dependence (FTCD)b
+5.1 (1.0)
+3–6
+Years smoking
+31 (10.6)
+10–49
+Cigarettes per day
+18 (2.4)
+15–22
+Previous quit attempts
+7 (3.7)
+3–12
+FTCD: Fagerström Test for Cigarette Dependence; SD: standard deviation.
+aMean (SD) does not apply to sex or to education. Educational achievement is 
+represented as n (%) of total study sample.
+bFagerström Test for Cigarette Dependence (Fagerström, 2012; Heatherton, 1991). 
+Possible scores on the FTCD range from 0 to 10, with higher scores indicating 
+greater dependence.
+
+
+4	
+Journal of Psychopharmacology 00(0)
+There was one point where I got so sad, where I realised, ‘oh 
+my God, these cigarettes are my friends’, and it made me 
+really depressed to think about it that way (Participant 402).
+Participant 406 described his connection to cigarettes as stronger 
+than his spousal relationships. Four participants (402, 405, 410 
+and 417) reported smoking as a way of connecting with other 
+people. For participants 405 and 417, resuming smoking after 
+attempts at quitting was explicitly tied to seeking connection 
+with people with whom participants used to smoke – for 
+Participant 417, this connection was with his late father:
+[When] I initially started smoking again, it was really in 
+relating to my dad…it was part of our relationship, in very 
+connecting ways. And I think I wanted that connection.
+Psilocybin-related factors contributing to 
+smoking cessation
+Psilocybin session experiences were perceived as an essential 
+factor contributing to smoking cessation for the 11 participants 
+who quit smoking at the TQD. All 11 participants reported gain-
+ing profound insights into their self-identity or smoking behav-
+iour. Themes of interconnectedness, awe, and curiosity were 
+identified as additional features of psilocybin sessions that helped 
+participants quit smoking. Finally, all participants who success-
+fully quit after their TQD reported marked post-session reduc-
+tions in cigarette withdrawal symptoms in comparison with 
+previous quit attempts.
+Insights into self-identity.  Seven of the 12 participants (402, 
+405, 406, 410, 416, 424 and 427) reported valuable insights into 
+their understanding of themselves occurring during their psilocy-
+bin experiences that were directly relevant to their efforts to quit 
+smoking. Session experiences were described as revealing a 
+deeper, better, or more essential self that either led to a decreased 
+desire to smoke, or to smoking not making sense anymore. These 
+psilocybin-occasioned insights into self-identity were reported 
+by all of the five female interview participants, while only two of 
+the seven male participants.
+For instance, Participant 427 described seeing a beautiful 
+‘Technicolor’ vine rising during her second psilocybin session:
+I used to hide sitting on the air conditioning unit on the side 
+of my house, when I used to smoke. And so the image was 
+me sitting there, smoking, all hunched over, stupid, smoking. 
+And the vine just rising up and this purply flower face thing 
+looking down at me like, ‘how ridiculous!’ And then I’m not 
+really that [person], I’m really this vine, that’s really me, and 
+the Goddess within me…how silly to think that [smoking]…
+was going to do anything or solve anything. So it was really 
+just that rising up feeling, and that powerful feeling, and it 
+just filled me with such beauty and strength and life.
+She described this experience as reawakening an inner power that 
+she had lost touch with since her youth some two decades prior. 
+The experience produced a sense of strength and beauty that 
+revealed smoking to be incongruous with the person she ‘really’ 
+was.
+Participant 402 reported coming to a profound realization 
+during her second psilocybin session that smoking did not have 
+to define who she was:
+For a few seconds, it was just like ‘I’m me, and there are no 
+defining characteristics!’… that made me realise that I’m not 
+a ‘smoker’.
+In Participant 405’s first session, she described encountering a 
+powerfully agential ‘goddess’ figure whom she watched, admired 
+and finally came to realise was an aspect of herself. By the end of 
+her sessions, she explained,
+It felt like I’d died as a smoker and was resurrected as a non-
+smoker. Because it’s my perception of myself, and that’s how 
+I felt. So I jumped up and I said ‘I’m not a smoker anymore, 
+it’s all done’.
+Participant 406 described ending his second session ‘emerging 
+out of a cocoon’, shaking out a pair of ‘magnificent wings’. He 
+interpreted this as
+me revealing myself, like actually showing myself to the 
+world. This is who I am, this is who I really am.
+Similarly, Participant 410 said she felt the session experiences 
+brought out her ‘better side’, and that to smoke would be to undo 
+that work.
+Among five participants (405, 410, 413, 417 and 427), psilo-
+cybin-related insights into self-identity were characterised by a 
+sense of reconnecting with core values that had in some way 
+faded over the years. These included acknowledging the impor-
+tance of health, breathing, taking breaks, and affirmation of the 
+beauty and simplicity of existence. Such core values were con-
+trasted with learning something new. For instance, Participant 
+410 reflected,
+Did I learn anything new? Have I done anything totally 
+different than I ever did before? No! But I’m sort of going 
+back into my…earlier life when I probably was a better 
+person, to be honest with you.
+Similarly, Participant 427 remarked,
+I don’t know if I really learned – it was more like letting back 
+in stuff that I had blocked out?… I don’t think I changed my 
+values, just remembered more of them. Or just remembered to 
+honour them more, or…allow them more.
+Insights into smoking behaviour.  Seven participants (402, 
+405, 406, 413, 416, 424 and 427) reported specific smoking-
+related insights during psilocybin sessions that they perceived as 
+helpful for quitting. Four participants (405, 406, 416 and 424) 
+described insights revealing how anxiety and fear contributed to 
+their smoking. Participant 405 remarked, ‘I realised that my 
+health problems today are due to chronic anxiety.’ Participant 
+406 reported his session experiences brought to light the constant 
+‘clutter’ he carried around in his mind, and believed this insight 
+helped him gain clarity as to why he smoked. Participant 416 
+
+
+Noorani et al.	
+5
+reported recalling memories of childhood abuse during her psilo-
+cybin sessions, which she had not previously dealt with therapeu-
+tically, and which she believed were directly responsible for her 
+smoking and other self-destructive behaviours.
+Participants 402 and 427 both described realising that smok-
+ing even one cigarette entailed an ongoing commitment to smok-
+ing. A specific image from her first session led Participant 402 to 
+the insight that to smoke at all was to be ‘a smoker’:
+It was me in the red coat, lighting up a cigarette, and then it 
+spread into a grid. So it was like that one cigarette was 1000 
+cigarettes.
+Similarly, participant 427 explained,
+Cigarettes don’t seem like a short-term solution anymore. They 
+seem exhausting to me. Like…oh my god – just, having a 
+cigarette now and opening up this whole thing all over again?! 
+To have one cigarette would be a long-term commitment.
+Experiences of interconnectedness.  Eight participants (403, 
+405, 406, 410, 413, 417, 422 and 424) described experiencing a 
+profound sense of unity and interconnectedness during their psi-
+locybin session experiences.1 Participant 417 described this 
+experience of interconnectedness during a session as evoking a 
+strong sense of peace:
+I approached the border where existence began, and on the 
+other side of this border was nothing… there was no 
+beginning, no end, no nothing…I think that’s really rare and it 
+would be healing to humanity for us to open to those roots, 
+and to our connectedness with everything, and each other in a 
+brotherly, sister kinda way.
+Participant 405 described a unitive feeling of love for everything 
+around her:
+I was in love with everything. In love with the couch, in love 
+with the whole room, the people in it … Love is a pretty big 
+distraction from addiction and … my attention kept going 
+back to it, that great feeling of love and acceptance.
+For two participants (410 and 424), experiences of interconnect-
+edness recast smoking as an act of harming or contaminating the 
+purity of the universe. For instance, Participant 410 explained,
+I had always had the sense of everything being connected. 
+And [the psilocybin session] reinforced that, very strongly…
+[If I were to smoke] I would be a polluter…ashtrays and 
+butts all over the place, and you’re causing harm to other 
+people’s health as well. And so you were re-looking at your 
+place in the universe and what you were doing to help or 
+hinder it. The universe as such. And by smoking, you 
+wouldn’t be helping.
+Similarly, Participant 424 remarked, ‘Your body or your “vessel” 
+is supposed to be treated much like the way you’re supposed to 
+treat people or the Earth, and you shouldn’t be contaminating that 
+with cigarettes.’
+Sustained feelings of awe and curiosity.  Six participants 
+(403, 406, 413, 417, 422 and 427) reported that the profound sig-
+nificance of the psilocybin session experiences made smoking 
+seem trivial in comparison.2 These participants described psilo-
+cybin sessions as evoking a powerful, sustained sense of awe and 
+a lingering curiosity into unsolvable life mysteries, all of which 
+diminished the relative importance of smoking. For example, 
+Participant 413 described his experience during one session as,
+...beyond what I have ever been to or any place I ever thought 
+about going to…I was just totally inundated, mentally and 
+emotionally, by that experience. So the smoking was like, 
+‘who cares!’, you know? Somewhere that’s so special and so 
+unique and it’s shown me so much in such a brief period of 
+time…[after that] smoking is not important anymore!
+Participant 417 described his session experiences as a ‘jubilation 
+in the preciousness of existence’ that rendered quitting smoking 
+‘not a big deal’ in relation to a greatly expanded awareness of 
+what ‘is’. He felt subsequent withdrawal symptoms and cravings 
+were ‘more quizzical than burdensome’, prompting him to exam-
+ine his cravings, and life in general, with greater curiosity.
+Participant 427 stated that after her second session,
+…smoking just seemed like this miniscule flick of the – pshh, 
+like that, it was nothing compared to everything that I was 
+feeling and thinking, and it was all coming together in this 
+holistic picture of everything, past, present and future. And 
+smoking – whatever! – like just so pointless, it’s just nothing 
+to do with anything. Like a little pebble in your shoe – just 
+brush it off and then you… you know, the world is so much 
+bigger!
+Participants 403 and 422 also described how lingering contem-
+plative, philosophical questions emerging from session experi-
+ences became associated with the goal of stopping smoking, 
+displacing any thoughts of withdrawal or cravings. For instance, 
+Participant 422 described a joyous curiosity that superseded the 
+desire to smoke:
+It was all about searching for answers to questions that are 
+age-old. Maybe we have the answer to some of it, maybe 
+we’ll never have the answer to it. But none of it had to do with 
+addiction to cigarettes. It all had to do with stretching space 
+and time, and asking questions like, ‘Why is there something 
+rather than nothing?’ And, ‘What happened before the Big 
+Bang?’… All those things that had nothing, absolutely 
+nothing – at least in the conscious thinking of it – with 
+stopping smoking.…every time I think of a cigarette, it brings 
+me back to the three sessions of the psilocybin trip, where 
+you’re trying to ask questions that there may not be answers 
+to. So, that’s more fun than smoking!
+Reduced withdrawal and cravings.  The first psilocybin session 
+was followed by marked reduction in the reported intensity and 
+frequency of withdrawal symptoms for 11 of the 12 participants 
+when compared with their previous experiences attempting to quit 
+smoking. These individuals went on to maintain abstinence 
+between their first and second psilocybin sessions. In contrast, the 
+
+
+6	
+Journal of Psychopharmacology 00(0)
+remaining participant (424) reported similar withdrawal symp-
+toms after his first psilocybin session as compared with previous 
+quit attempts,3 and went on to have several smoking lapses prior 
+to his second psilocybin session.
+Of the 11 participants reporting reduced withdrawal symp-
+toms, seven reported no symptoms whatsoever, whereas the 
+remaining 4 of the 11 participants (402, 405, 422 and 427) expe-
+rienced significantly attenuated symptoms. In all 11 participants, 
+changes in withdrawal symptoms as compared with previous quit 
+attempts were attributed to their ongoing reflection on the psilo-
+cybin sessions and contemplation of the session contents. For 
+example,
+I have smoked for a number of years, and I have attempted to 
+quit on numerous occasions, and I always would go through 
+withdrawal. I didn’t with psilocybin…I didn’t wake up in the 
+middle of the night [after the session], I slept like a log. My 
+mind was preoccupied with the psilocybin experience, so, it 
+[withdrawal] didn’t really affect me. (Participant 413)
+I was so confused about where my withdrawals left off and 
+how much of this is just excitement from the aftermath of this 
+intense psychedelic experience. Nothing was perceived as 
+bad, it was all interesting as hell! (Participant 405)
+Every time I think I craved the cigarette I had to tell myself 
+why I’m doing this, and remind myself that there’s a lot riding 
+on this. And [then] I would occupy myself with things, and 
+think about the trip we just had. Because it was so 
+overwhelming. Yeah. You know when you’re so close to it 
+you could just pull it right up! (Participant 422)
+The affective quality of the first psilocybin session appeared to 
+play a key role in mediating participant withdrawal. The first 
+psilocybin sessions of ten participants were characterised by gen-
+erally positive mood and overall tone, and 9 of these individuals 
+(402, 403, 405, 406, 410, 413, 417, 421 and 422) did not experi-
+ence overwhelming cravings or withdrawal symptoms after their 
+first psilocybin sessions. The tenth participant (424) who had a 
+positive first session was an exception, experiencing normal 
+withdrawal and reporting smoking after his psilocybin session.
+By contrast, the two participants whose first psilocybin ses-
+sions were generally negative in mood and tone reported wanting 
+to smoke immediately afterwards.4 Participant 416’s session 
+experience brought up painful childhood memories, and she 
+reflected that had she not had support through regular check-ins 
+from the study team, she would have smoked in order to cope. 
+Participant 427 described how she struggled to fully surrender to 
+her first psilocybin experience, feeling that she had ‘failed’ to 
+approach the session correctly, preceding two weeks of painful, 
+difficult abstinence before her second session.
+Non-psilocybin factors contributing to 
+smoking cessation
+Participants endorsed several elements of the overall study treat-
+ment as crucial factors in supporting their success in smoking 
+cessation. These included the preparatory counselling, rapport 
+with the study team, a sense of momentum gained after giving up 
+smoking for the 8-hour duration of the first psilocybin session, 
+and their therapeutic intent in entering the study. These factors 
+were largely viewed by participants as working synergistically 
+with one another and with the psilocybin sessions, to create a 
+coherent therapeutic structure that fostered ongoing success over 
+and above what any of these elements in isolation would be able 
+to achieve.
+Preparatory counselling.  The initial four weeks of preparation 
+and counselling were regarded as important by all participants. 
+More specifically, seven participants (417, 421, 413, 427, 410, 
+406 and 416) cited the mantra (a brief, self-generated mission 
+statement encompassing key motivations to quit smoking) as a 
+major factor in quitting. Participants were encouraged to repeat 
+their mantra during times of stress or craving after the TQD. For 
+example, Participant 421’s mantra was, ‘For the love of life, I 
+will quit forever.’
+Six participants (402, 410, 416, 403, 421 and 427) found that 
+keeping a smoking diary enhanced awareness of their smoking 
+behaviour, with one individual (Participant 421) speculating that 
+this alone may have been sufficient to get him to quit smoking. 
+Five of the 12 participants (402, 403, 413, 410 and 416) cited the 
+scented oil as a useful way to recall the study and the research 
+team when craving cigarettes. Two participants (405 and 413) 
+remarked that during the preparatory CBT, it was helpful to con-
+sider that their identities were not fixed as ‘smokers’, because this 
+reframed their relationship to cigarettes in ways that were later 
+reinforced, or ‘cemented’ (405), during the psilocybin sessions.
+Rapport with study team.  All participants recognised the 
+importance of trusting and developing rapport with their session 
+guides as necessary preparation for navigating experiences in 
+psilocybin sessions. Moreover, ten participants (403, 405, 406, 
+410, 413, 417, 421, 422, 424 and 427) identified rapport with the 
+study team during the preparatory counselling as a crucial factor 
+in stopping smoking. Participant 406 remarked, ‘it’s not just the 
+psilocybin sessions [but] it’s that human connection, and the sup-
+port that comes with that human connection, that ultimately leads 
+to success at the end of the day.’
+Ten of the 12 participants reported being very comfortable 
+around their guides by the time of the first psilocybin session. The 
+two who did not (participants 402 and 424) were markedly 
+younger than the other participants, in their 20s and 30s 
+respectively.
+Eight participants viewed the guides as vital for ensuring the 
+safety and usefulness of their psilocybin experiences (402, 403, 
+406, 413, 416, 417, 421 and 427). Participants variously described 
+their guides as ‘co-creators’ of the session experiences (Participant 
+417), ‘advisors’ (Participant 403), and as ‘looking after me, mak-
+ing sure I was safe. So no matter how scary it was, I always knew 
+that it was a drug that was doing it’ (Participant 406).
+Eleven of 12 participants (all except Participant 402) described 
+a deepening of their relationship with the guides as a result of their 
+involvement in the psilocybin sessions. For example,
+The bonding is significant…I wouldn’t smoke cos I wouldn’t 
+wanna hurt their feelings. It actually got that deep. (Participant 
+413)
+
+
+Noorani et al.	
+7
+Participant 406, who temporarily lapsed one month after his sec-
+ond session, explained,
+When I did have [my first] cigarette, the first thing that came 
+in my mind was how I was letting Mary and Matt down. So 
+yeah absolutely, there’s definitely a connection there.
+Two participants (410 and 422) singled out the rapport with the 
+study team as the single most important factor in their successful 
+quit attempts. Participant 410 described the rapport as non-judge-
+mental care and understanding throughout her study involve-
+ment. For Participant 422,
+I think if you didn’t have that [the rapport] I'm not sure if it 
+would work. I don’t know. And then the trust with the people, 
+the folks in this clearly – when you know that people want 
+you to do well…want this to work for you…and then you 
+don’t want to let them down. Because there’s so much 
+invested.
+Momentum.  By the end of the initial psilocybin session day, 
+participants had been abstinent for upwards of eight hours, creat-
+ing a sense of momentum towards long-term abstinence. This 
+was perceived as important for four participants (402, 410, 413 
+and 427) in their efforts to maintain their abstinence. Once the 
+first session was over, they reported wanting to keep the momen-
+tum going, both having not smoked for a whole day, and knowing 
+that they needed to remain abstinent for at least four consecutive 
+days in the next two weeks in order to undergo the next treatment 
+session. For example, Participant 413 explained,
+I was very eager to do the second session, cos the first session 
+was very interesting to me, personally. And I did not want to 
+jeopardise that by smoking again, so that was part of my 
+impetus. (Participant 413)
+The only reason I didn’t [smoke after my first session] was 
+because I had a second session – I had to hold on for 2 weeks, 
+otherwise they were like, ‘if you smoke, you can’t come back 
+for the second session’. So if I didn’t have the sessions, I think 
+I would have been like, well this counseling has been great, 
+but… I don’t know if it really would have lasted, you know? 
+(Participant 427)
+Therapeutic intent.  During interviews, three participants spon-
+taneously observed that without the appropriate therapeutic 
+intent, psilocybin session experiences could have paradoxically 
+led them to continue smoking (405, 417 and 422). For these indi-
+viduals, their success in smoking cessation was seen as predi-
+cated on a clear intention to quit as they went into the psilocybin 
+sessions. As Participant 417 explained:
+The sessions would not have caused me to quit in and of itself 
+– in fact, just the opposite…the experience provides a 
+perspective that in a way makes trivial much of the meanings 
+that we normally engage in everyday existence…including 
+smoking! It was like, it doesn’t really matter.
+Similarly, Participant 422 suggested,
+The logical extension of the melancholy [during the psilocybin 
+session] is that I should go out and smoke again…because this 
+is all there is. See, there is a dichotomy there. I haven’t gone 
+to the other side. But that is the logical extension of that train 
+of thought.
+Reflections on the research protocol
+Addictiveness of psilocybin.  Participants were asked whether 
+they thought psilocybin might be addictive in a manner similar to 
+tobacco. All 12 participants unequivocally stated that they 
+believed psilocybin was not addictive, finding no similarity 
+between the addictive nature of cigarette smoking and their expe-
+riences during psilocybin sessions. For example,
+There is no comparison. One is an addiction. The other is, um, 
+psilocybin...I don’t know how to describe it. But it’s almost a 
+therapeutic journey. An inner journey. (Participant 422)
+Four participants (403, 406, 413 and 421) expressed an interest in 
+undergoing further psilocybin experiences, but only under super-
+vised and legal circumstances, whereas a fifth (Participant 417) 
+remained ambivalent to such a prospect. All those expressing an 
+openness to further psilocybin experiences were male. Another 
+two participants (402 and 405) described not having the time for 
+regular psilocybin experiences even if they were made available. 
+The five remaining participants reported not wanting to experi-
+ence psilocybin again.
+Psilocybin session music.  The music was perceived as central 
+to all 12 participants’ psilocybin experiences. Participant 427 
+explained,
+You’re lying there and you have headphones on and your eyes 
+are covered and there’s nothing to see… So all you had was 
+the music. And so the music was melding with what I was 
+feeling, and it was all mixing up to create images in my 
+mind…the music was the whole script, the whole movie, the 
+whole everything.
+The agential character of the music in the psilocybin sessions 
+also emerged in several participant accounts. For example, 
+Participant 416 remarked, ‘The music was alive!’ while 
+Participant 405 stated, ‘I was in love with the music. But I felt 
+like it was [also] in love with me. That’s a great feeling.’ Six 
+participants (403, 405, 413, 416, 421 and 424) reported that cer-
+tain musical pieces from the sessions still overwhelmed them 
+with positive emotions whenever they heard them, even at the 
+time of interview an average of 30 months post-TQD.
+Meaning-making across sessions.  Participants were asked if 
+one session stood out as the most significant. Nine of the 12 
+participants indicated an order of significance. Amongst them, 
+six participants identified their second session as the most sig-
+nificant (402, 403, 406, 416, 424 and 427), two identified their 
+third session as the most significant (417 and 421), and one 
+identified the first and third sessions as equally significant 
+(413). No participants identified the first session as the single 
+most significant.5
+
+
+8	
+Journal of Psychopharmacology 00(0)
+Interview data suggest mechanisms for how the significance 
+of experiences may build over the course of multiple psilocybin 
+sessions. Six participants described insights unfolding across 
+psilocybin sessions, rather than being confined to a single session 
+(participants 405, 406, 410, 417, 424 and 427). Participant 417 
+described becoming more relaxed and comfortable from his first 
+to third session, and learning how to better navigate psilocybin 
+experiences:
+There was an increasing opening at each experience…[in] 
+the very first one, I remember feeling turbulence as it 
+started and holding hands with one of the guides. You 
+know cos I was feeling nauseous and ungrounded. And it 
+didn’t last long, maybe two, three minutes…The third one, 
+I just went!…I do think that whatever happens, at least 
+from a consciousness standpoint, for me did expand and 
+become deeper, in this progression. I do think familiarity 
+somehow…once you’ve had it, you’re just more 
+comfortable with it.
+In some cases participants intentionally worked to prepare for 
+subsequent sessions after encountering the psychological mate-
+rial raised in the first session. Participant 406 described his two 
+sessions unfolding like successive chapters in a ‘hero’s journey’ 
+(Campbell et al. 1990). In his first session he described seeing 
+faces in clouds everywhere he looked, which he turned away 
+from, terrified. At the time he found little meaning in this difficult 
+experience. Afterwards, he explained:
+I actually sat down and meditated, for a week, with the 
+intention of ‘I’m going to face up to these images’… [In] 
+the second session there were faces coming at me, but I 
+looked at them. So I actually saw the face coming and these 
+– all these scary faces that just turned out to be nothing… 
+Even when I looked at the photos of my kids it would be a 
+demon starting, and then it would just dissipate… At the 
+end of that session, I felt like a butterfly. Very clearly, there 
+was this whole experience of me coming out of a cocoon. 
+And actually shaking my wings out, like [makes whooshing 
+noise]…just shaking out these massive big wings. Yeah, it 
+was crazy!…it felt like taking a scalpel to every incident in 
+my life where I had been hurt, or caused hurt…[and] opened 
+up every one of those wounds. It was crazy, it was so 
+relieving. It was like this whole thing had just like [makes 
+whooshing noise, conveying a release] off me. It was 
+powerful!
+Support from session guides was also considered important in 
+meaning-making across session experiences. After Participant 
+427 had a challenging first psilocybin experience where she 
+described feeling ‘manipulated’ by the music and then frustrated 
+that she had ‘wasted’ her session, she was reminded in her debrief 
+by her guides to ‘go with’ the experience the next time, using 
+breathing techniques whenever necessary. Entering her second 
+session with much trepidation, she recalled a moment early in the 
+session when she breathed out deliberately and a guide said 
+‘good’. The participant reported feeling validated by this, and 
+that this launched her into a profoundly positive and highly 
+meaningful experience, after which she remained abstinent with 
+relative ease.
+Effects beyond smoking
+Quitting smoking was often reported as one of the least important 
+effects of the study for participants in retrospect. As Participant 
+405 put it,
+This is about a smoking study, I keep forgetting that. Because 
+there’s so much more that happened… [Smoking] just seems 
+so petty compared to some of the stuff that was happening.
+Table 2 highlights other persisting long-term changes identified 
+through interviews. In general, all participants reported that psilo-
+cybin sessions led to long-term changes in thoughts, affects, 
+desires or behaviours at an average of 30 months post-TQD. These 
+can broadly be categorised into two domains: increased aesthetic 
+appreciation, and heightened altruism and pro-social attitudes.
+Aesthetic appreciation.  Six participants in this study reported 
+an ongoing enhancement of their sense of aesthetic appreciation 
+and natural wonder. For example, since involvement in the study, 
+Participant 410 reported buying 15 books of poetry, something 
+she had not done for years prior to her psilocybin sessions. Partici-
+pant 403 began working with a visual artist to recreate mental 
+images from his psilocybin experiences. Participants 410 and 413 
+described taking up musical hobbies such as playing instruments.
+Participants also described integrating some key images from 
+psilocybin into their everyday lives. Participant 427 reported 
+ongoing use of an adaptation of her mantra that she devised with 
+her children, reminding each other to breathe during stressful 
+situations – to ‘smell the flowers and blow out the candle’.
+Discussing the ongoing impact of the psilocybin sessions, 
+Participant 424 explained,
+Yesterday was kinda cloudy and a little overcast, and I was 
+driving home and there was this one small patch of clouds that 
+was lit up bright by the sun, and it was all surrounded by these 
+dark clouds. And I was like, ‘that’s amazing’… And then I 
+caught that, because prior to the psilocybin I probably would 
+never have noticed that. But, I’m always on the lookout for 
+those kinds of things. So yeah, that’s a pretty good example of 
+me being more aware.
+Altruism and pro-social effects.  In addition, participants 
+described greater openness to altruistic and pro-social activities. 
+For instance, Participant 410 described her increased involve-
+ment in volunteering since her study participation:
+I’ve been involved with the local literacy council all the time 
+now … And then the other thing is I’ve become very involved 
+with this environmental group as well … instead of sitting 
+around and just watching television and smoking and doing 
+nothing, I’m putting all this extra time I have to good use. Cos 
+that was one thing about smoking, was the amount of time 
+you wasted!
+Similarly, Participant 421 reflected:
+I like being this way, and…I just think it just opened my mind 
+to maybe more possibilities of stuff? I don’t know. I’m not 
+real deep, I’m not like this meditative guy… I’ve always been 
+
+
+Noorani et al.	
+9
+very considerate, opening doors…but now I’m even more of 
+that, too. Gentlemanly. Lot more ‘thank you’s’… I just feel 
+good all the time… I’m not in a big rush. It just takes another 
+second to hold the door, say thank you, or give up my seat on 
+the train. So, I do all that, and it just makes me feel good. I’ve 
+always been nice, but now I feel like I’m…really nice! 
+[laughter] And I can blame that on the psilocybin.
+Along these lines, 11 participants reported the psilocybin ses-
+sions broadly affected their sense of interconnected within them-
+selves, with others and the world. For some, this translated to 
+more explicitly pro-social attitudes towards people in general. 
+Regarding the way her psilocybin experience affected her view 
+of humanity, Participant 410 said,
+I’ve always in the past, despite my temper and everything 
+else, [tried] to see and believe the good in everybody. [And] 
+failed, of course sometimes, but when I was ‘under the 
+influence’ [of psilocybin] I suppose you could say, I could see 
+that everybody was essentially good.
+Future research
+Participants were asked to provide suggestions based on their 
+experience for possible future research with psychedelics. 
+Participants 402 and 427 reported that their study experiences 
+helped them overcome an underlying sadness driving their 
+smoking habits, and suggested research with psilocybin for con-
+ditions characterised by feelings of sadness such as grief or 
+depression.
+Regarding the research space and protocol, participants were in 
+general very satisfied with their experiences. However, partici-
+pants did recommend making the study space less ‘office-like’ 
+(Participant 406), more ‘zen-like’ (Participant 417), and including 
+natural light if possible (Participant 402). Participants also made 
+various suggestions on the session music, including spending more 
+time tailoring the music to each participant (Participant 410), 
+allowing space for periods of silence (Participant 417) and incor-
+porating more ‘repetitive harmonics’ (Participant 422).
+Finally, participants 403, 421 and 424 suggested restructuring 
+the period immediately after the psilocybin sessions to reduce the 
+obligation to describe experiences to researchers verbally and 
+through questionnaires, until participants have time to think 
+about and better articulate what they experienced.
+In addition, Participant 424 described feeling uncomfortable 
+with the degree of ‘ritual’ involved in the psilocybin sessions, 
+singling out in particular the chalice that contained the psilocybin 
+pill and the large crystal glass of water. In contrast, participants 
+422 and 405 explicitly commended the use of ritual in construct-
+ing a therapeutic container.
+Discussion
+This qualitative analysis of participant accounts of psilocybin-
+facilitated treatment for smoking cessation identifies several per-
+ceived mechanisms of change requiring further investigation and 
+elucidation. It should be noted that there may be appreciable 
+overlap between the mechanisms presented here, as psilocybin 
+was administered in the context of a structured treatment.
+Regarding their psilocybin experiences, participants reported 
+powerful insights into self-identity and smoking behaviours that 
+in turn diminished desire to smoke. Experiences of interconnect-
+edness, awe and curiosity, and positive affect persisting beyond 
+the period of acute drug action attenuated subsequent withdrawal 
+and craving to smoke. Non-drug mechanisms participants cited 
+as useful for smoking cessation included preparatory CBT, which 
+helped participants gain a greater awareness of their smoking 
+habits (e.g. through use of a smoking diary) and explore their 
+motivations to smoke through counselling. Preparatory counsel-
+ling facilitated development of a strong rapport and trust in ses-
+sion guides that was viewed as integral to maintaining a sense of 
+safety during psilocybin sessions, and ultimately to quitting 
+smoking. Furthermore, the study treatment design, which neces-
+sitated an 8–10 hour period of smoking abstinence during the 
+first psilocybin session on the TQD, provided an initial sense of 
+momentum toward long-term abstinence.
+Participants’ perceptions of their smoking habits in the period 
+leading up to the study revealed the complex roles cigarette 
+smoking played in their lives, oftentimes woven into their  previ-
+ous self-identities as smokers. For the majority of participants, 
+the study treatment elicited insights into their self-identity and 
+smoking behaviour that resulted in smoking no longer being 
+appealing or congruent with their previous senses of self, consist-
+ent with previous literature (Belser et al., 2017; Bogenschutz and 
+Pommy, 2012; Swift et al., 2017). In particular, the psychological 
+insights reported in this study highlight the epistemic potential of 
+psilocybin-facilitated experiences embedded within a structured 
+therapeutic intervention. Moreover, these insights were in several 
+cases not radically ‘new’, but largely seen as a ‘returning’ or 
+‘remembering’ of something that was in some sense already 
+known to participants (compare with Sedgwick, 2003). Similarly, 
+recent qualitative findings on psilocybin-assisted therapy in can-
+cer patients reported reconnecting with long-held core values and 
+beliefs as insights that helped reduce anxiety (Swift et al., 2017).
+Persisting feelings of interconnectedness, awe, and curiosity 
+had a direct bearing on smoking cessation outcomes. These qual-
+ities of participant psilocybin experiences correspond to several 
+criteria of the mystical-type experience, which has been charac-
+terised by dimensions of unity and interconnectedness, sacred-
+ness or awe, noesis, transcendence of time and space, deeply felt 
+positive mood, ineffability, and paradoxicality (Pahnke, 1969; 
+Pahnke and Richards, 1966; Stace, 1960). Three interviewees 
+specifically endorsed psilocybin experiences in occasioning 
+smoking cessation, but insisted they must be linked to an explicit 
+therapeutic structure and intention to be efficacious.
+Participants reported that feelings of interconnectedness 
+experienced in the study, and in psilocybin sessions, overshad-
+owed prior feelings of connectedness to cigarette smoking. These 
+experiences also appeared to carry forward to participants’ lives 
+after the study, and to extend beyond smoking to include persist-
+ing connection to loved ones and to the world at large (compare 
+with recent findings by Watts et al., 2017). Related to intercon-
+nectedness, sub-themes of purity and contamination were also 
+highlighted, and may be useful to incorporate into the prepara-
+tory sessions of future psychedelic-facilitated addiction treat-
+ment. Together these findings highlight unity as the hallmark of 
+the mystical experience (Pahnke and Richards, 1966), and bring 
+to mind the observation that, ‘The opposite of addiction isn’t 
+sobriety. It’s connection’ (Hari, 2015, p. 293). 
+
+
+10	
+Journal of Psychopharmacology 00(0)
+Table 2.  Participants’ current smoking status and non-smoking-related persisting effects attributed to psilocybin session experiences.
+402
+Smoking status
+Not smoking, aside from occasional cigarette at party: A few short lapses in first six months post-TQD,a 
+including one week of smoking between six months and one year (following relationship breakup)
+Non-smoking-related 
+effects
+Identity: ‘Primarily I would say it made me understand that my identity is this construct’
+ 
+Self time: ‘[Now I am] always making time in my day to just go for a walk or something like that’
+403
+Smoking status
+Not smoking: No lapses
+ 
+Non-smoking-related 
+effects
+Gratitude: ‘I’ve learned how to be more grateful, which is probably the biggest thing’
+ 
+Nature: ‘Being outdoors is much more important…I spend a lot of time outdoors now’
+ 
+Breathing: ‘Being more conscious of breath is something that I experienced after the study’
+405
+Smoking status
+Smoking: Started again 3 years and 3 months after TQD (approximately 8 months before interview) after 
+death of brother, though intends to quit again soon (with friend who is pregnant)
+ 
+Non-smoking-related 
+effects
+Consciousness augmentation: ‘I can get deeper into different states of consciousness just by meditation, breath 
+work’
+ 
+Relationship: ‘[M]y relationship with my mother has improved. It’s been a turbulent process, but that’s what 
+was necessary. But if I look back at how our relationship is now compared to how it was 5 years ago, it's so 
+much better…it’s so much better’
+ 
+Habits: ‘[A]nother side effect is I don’t watch TV any more. I like to pick and choose what I put in my head’
+ 
+Depression insight: ‘I was given all these lessons in that session telling me, “here’s what you need to do so you 
+don’t get depressed”‘
+406
+Smoking status
+Not smoking: Lapsed 6 weeks after TQD and continued smoking for 2 years and 10 months before 
+quitting again approximately 6 months before interview with a distinct sense of connection to the ease 
+with which he quit on the TQD
+ 
+Non-smoking-related 
+effects
+Living in the present: ‘In trying to live in the present, there are a lot of gremlins that force you to live in the 
+past!… But I think that those sessions took a lot of those gremlins away, helped me put those gremlins into 
+the present, into present context as well. I think that was a really big changing point in my life’
+ 
+Psychological ‘baggage’: ‘The first session, there was the insight that I was carrying a lot of shit around in my 
+head. The second was like that insight of…I didn’t need to be carrying that shit around with me. So there was 
+a big shift in who I was between the first session and after’
+ 
+Authenticity: ‘[It was] me revealing myself, actually showing myself to the world. This is who I am, this is who 
+I really am…[it] was just a really powerful experience’
+410
+Smoking status
+Not smoking: No lapses
+ 
+Non-smoking-related 
+effects
+Parents’ expectations: ‘I was just me, I wasn’t my parent’s child. I was me. Yeah! I think finally, I was just 
+me, the individual. Not somebody who had to be kowtowing, or think about what their parent might think or 
+whatever’
+ 
+Interconnectedness: ‘[T]he other thing too was the recognition that, that you were just part of something 
+greater. Enormously. Vastly. You know, the sort of, the universe’
+ 
+Tolerance: ‘I’m much more tolerant of others…when I was “under the influence” [of psilocybin] I suppose you 
+could say, I could see that everybody was essentially good’
+ 
+Prosocial behaviour: ‘I saw all the people that needed help. So I have become involved with the local literacy 
+council all the time now…And then the other thing is I’ve become very involved with this environmental group 
+as well’
+ 
+Aesthetic appreciation: ‘I must have bought 15 books of poetry since. And I’ve gone to see every major poet 
+that has come down to the Library of Congress since then as well’
+ 
+Music: ‘[T]here was music playing, of course, it was that lute-type music. And that’s one of the things I want 
+to learn to play, and I actually went in one day recently – well it was almost 6 months ago – to inquire about 
+purchasing one of those’
+413
+Smoking status
+Not smoking: No lapses
+ 
+Non-smoking-related 
+effects
+Simple life: ‘I would say my life remains and continues to be simpler. My decisions, easier. I’m generally 
+happier’
+ 
+Emotions: ‘[I]t kinda made me more emotional’
+ 
+Priorities: ‘I did feel very grounded and filled with common sense, and I thought problems that were problems 
+before are no longer problems’
+ 
+Music: ‘[T]he music is like a tour guide for me. That’s something else that I’ve done – I am so into music now!’
+416
+Smoking status
+Not smoking: Lapsed three months before interview after niece suicided, but stopped again 
+approximately two months later
+ 
+Non-smoking-related 
+effects
+Positive activities: ‘I’m pretty happy now. I cook – I love to cook, I cook a lot’
+
+
+Noorani et al.	
+11
+ 
+Social situations: ‘[A] woman was yelling at me, we’re driving and, beeped her horn… leaned out the window 
+yelling at me, and that would bother me a lot before and now I’m thinking well…so what!’
+ 
+Family history: ‘It was a wonderful experience and a terrible experience…during the three sessions I found out 
+I’d been abused as a child’ [Note: the ultimate veracity of this memory is unknown to the researchers]
+417
+Smoking status
+Not smoking: No lapses
+ 
+Non-smoking-related 
+effects
+Awe: ‘Seeing that which happened during the psilocybin experiences and being reminded of, and 
+understanding, life as an unspeakably marvelous adventure of existence’
+ 
+Preciousness of existence: ‘It was definitely…an exploration and tangible attunedness to the possibilities of 
+being human and just how fortunate it is to be!…There was a preciousness to the fact that [the Universe] is’
+421
+Smoking status
+Not smoking: No lapses
+ 
+Non-smoking-related 
+effects
+Emotions: ‘I feel much deeper into everything now, everything I see and do. I react differently to everything’
+ 
+Aesthetics and nature: ‘I can go back and remember how it felt. And it kinda gives me a little…charge? And 
+it could be a little charge of psilocybin maybe, or whatever they wanna call it. It’s not a flashback, I’m not 
+seeing colours but, it just gives me a like a little “ooh”, like “oh yeah, that sun is pretty nice right there.” So 
+yeah, I get a little residue when I look at the sunset or the rainbow.’
+ 
+Prosocial behaviour: ‘I’ve always been nice, but now I feel like I’m…really nice. [laughter] And I can blame that 
+on the psilocybin’
+422
+Smoking status
+Not smoking: No lapses
+ 
+Non-smoking-related 
+effects
+Self-acceptance: ‘I’m more accepting of myself’
+ 
+Honesty and openness: ‘I’ve become a lot more honest with myself and a lot more open about things, and 
+people’
+ 
+Simplicity: ‘[T]he after-effect I think is almost more important than the actual trip itself… I think one of the 
+things that is so fascinating is that there’s so much we don’t know about ourselves. But when you get to a 
+certain point, it becomes so simple’
+ 
+Authenticity: ‘One of the things that happened to me that was important was the magnification of how 
+important it was to be true to yourself and have integrity about it’
+424
+Smoking status
+Smoking: Lapsed and returned to chronic smoking a few days after first psilocybin session
+ 
+Non-smoking-related 
+effects
+Self-appraisal and anxiety: ‘[T]he self-defeating talk is gone, the extremely negative talk is gone, the 
+depression [and] the anxiety is gone, the sleeplessness is gone … I learned just to be me. And that it’s ok to 
+be me. I learned that I’m gonna make mistakes and everybody makes mistakes’
+ 
+Aesthetics and nature: ‘Prior to the psilocybin I probably would never have noticed [an ‘amazing’ sky]. But 
+[now], I'm always on the lookout for those kinds of things’
+ 
+Gratitude: ‘The wanting for a better life and knowing I can have a better life is there, gratitude is exceptionally 
+high. I used to not like my life, and now I really love my life’
+ 
+Death: ‘I’m not afraid of death anymore, at all. I wouldn’t say I look forward to it, but I’m not afraid of it 
+happening. I know that everything’s gonna be ok’
+427
+Smoking status
+Not smoking: No lapses
+Non-smoking-related 
+effects
+Integrated self: ‘It affected my whole life. It affected me, seeing my image of myself, and who I was a long 
+time ago when I was at college and I had no kids. And then who I’d become, as a mom… It’s just kinda like, 
+this is who I am now, and it’s all part of the same ball of me – it’s all integrated. There wasn’t a bad me and a 
+good me. So, allowing all of it was really helpful’
+ 
+Self-efficacy: ‘…it was that rising up feeling, and that powerful feeling, and it just filled me with such beauty 
+and strength and life and it was just really good, a really strong feeling’
+aTQD = target-quit date.
+Table 2. (Continued)
+Withdrawal symptoms were consistently described as being 
+less frequent and intense after psilocybin sessions as compared 
+with participants' previous quit attempts, in line with recent sur-
+vey data on psychedelics and smoking cessation (Johnson et al., 
+2017). Reduced withdrawal symptoms were attributed directly to 
+psilocybin experiences, supporting prior hypotheses to this effect 
+(Bogenschutz and Pommy, 2012). This study further suggests 
+contemplation of psilocybin session experiences, and insights 
+gained therein, as a mechanism through which withdrawal symp-
+toms may be diminished.
+Participant responses indicate that the rapport with, and trust 
+in, the guides may have interacted with the psilocybin sessions in 
+two distinct and complementary ways. First, the degree of trust 
+in, and connection with, the session guides may have allowed 
+participants to go deeper into their psilocybin experiences with-
+out undue fearfulness or restraint. To this our analysis reveals a 
+second possible mechanism: profound session experiences can 
+deepen participants’ therapeutic alliance with their guides, in turn 
+reinforcing smoking abstinence in order not to ‘let the team 
+down’ (Participant 422). This may prove significant for future 
+
+
+12	
+Journal of Psychopharmacology 00(0)
+trial designs where participant follow-ups are abbreviated, or 
+conducted with personnel other than the participant's session 
+guides. 
+Participants reported a sense of momentum towards absti-
+nence gained from the TQD onwards, suggesting the importance 
+of acute psilocybin effects may lie, in part, in providing an initial 
+supervised period of abstinence to interrupt the habitual cycle of 
+drug use. The time interval between first and second psilocybin 
+sessions also appears to be important – long enough that partici-
+pants are encouraged to remain abstinent to undergo a second 
+session, although not so long that participants relapse. The two-
+week period between first and second psilocybin sessions in this 
+study was an encouragement for three participants to maintain 
+abstinence between sessions, suggesting the time interval 
+between sessions is an important factor to consider in future 
+research.
+These findings indicate that the significance of psilocybin 
+sessions may increase across sessions, suggesting investigation 
+of individual psilocybin session content may be inadequate to 
+grasp therapeutic effects occurring across sessions. Moreover, 
+the specific content of significant or meaningful experiences – 
+for instance, the releasing of personal ‘demons’ (Participant 406), 
+re-emergence of traumatic memories (Participant 416), or more 
+general distress and discomfort throughout a session (Participant 
+427) – signal therapeutic mechanisms distinct from the universal 
+qualities posited by the mystical-type experience alone. This 
+raises wider questions concerning the potential value of challeng-
+ing experiences in psychedelic-facilitated clinical interventions. 
+While mystical-type experience may confer therapeutic benefit, 
+procedures for maximising the meaningfulness and benefit of 
+other types of psilocybin experiences warrant independent 
+investigation.
+Recent anonymous online survey data from individuals 
+endorsing a challenging experience with psilocybin found that 
+84% of respondents considered their most psychologically diffi-
+cult psilocybin experience to be beneficial in retrospect (Carbonaro 
+et  al., 2016). In this study, three participants (406, 416, 427) 
+reported acutely challenging experiences that nevertheless were 
+associated with subsequent positive outcomes, both through 
+focused personal practices such as meditation (Participant 406), 
+and skilful support and integration. Future psychedelic research 
+may benefit from implementing similar aftercare measures taken 
+in the smoking cessation pilot trial, particularly in relation to chal-
+lenging experiences. These included daily phone calls or text mes-
+sages from study guides (conducted daily for at least a week in the 
+smoking cessation trial), development of a written or mixed media 
+(e.g. collage, drawing, etc.) session narrative by the participant in 
+the days following the session, and systematic unpacking and 
+revisiting of this material at regular in-person integration meet-
+ings in the weeks following the session.
+Additionally, the building of meaningfulness across sessions 
+suggests interventions offering a single psilocybin session may be 
+sub-optimal for achieving a lasting therapeutic effect. Previous 
+research on ketamine-assisted therapy for heroin dependence 
+found significantly greater long-term abstinence in individuals 
+receiving three as opposed to one therapeutic ketamine adminis-
+tration (Krupitsky et al., 2007). Given also that in this study, more 
+mystical-type experiences were observed in participants’ second 
+sessions than in their third (Garcia-Romeu et al., 2014), and that 
+one-quarter of our sample did not feel at the time that they needed 
+a third session to successfully quit smoking, two sessions using 
+ascending doses may represent a good middle-ground for future 
+clinical research in psychedelic-assisted addiction treatment.
+Consistent with previous research in healthy volunteers 
+(Griffiths et al., 2008; MacLean et al., 2011), participants reported 
+a range of persisting positive effects beyond smoking cessation, 
+including increased openness, altruism and pro-social behaviour. 
+Like smoking cessation, these other perceived benefits were 
+largely attributed to psilocybin experiences, sometimes in con-
+cert with preparatory and integrative counselling. Aesthetic 
+appreciation, fantasy-proneness and tolerance of different ideas 
+and values, have been conceptualised as sub-dimensions of the 
+personality trait of openness to experience (McCrae and Costa, 
+1985). This supports earlier findings that personality openness 
+increases after psilocybin-occasioned mystical experiences 
+(MacLean et al., 2011), and such openness may conversely play 
+an important role in effecting the major behavioural changes 
+inherent to successful addiction treatment (Bogenschutz and 
+Pommy, 2012).
+Participant feedback on the protocol design offers a useful 
+glimpse into potential improvements to the study from the per-
+spective of participants. A quarter of participants found the 
+expectations on them to fill out paperwork immediately after 
+psilocybin sessions to be excessive, despite acknowledging its 
+importance for research purposes. The impact of musical selec-
+tion, setting, and ritualistic components in future research admin-
+istering psychedelics will need to be examined more closely in 
+order to optimise therapeutic procedures and environment.
+Finally, psilocybin was perceived by participants as not at all 
+addictive, consistent with research showing that psilocybin and 
+other classic psychedelics serve as poor reinforcers in nonhu-
+mans (Fantegrossi et al., 2004), and the consensus that classic 
+psychedelics do not lead to compulsive drug seeking (O’Brien, 
+2006). Participant responses in this study about the potential 
+addictiveness of psilocybin are remarkably similar to qualitative 
+comments made by participants in a study examining LSD in the 
+treatment of heroin addiction (Savage and McCabe, 1973). 
+Comparing LSD to heroin, participants in that study expressed 
+‘… a uniform view that the LSD experience provided a confron-
+tation with one’s problems rather than an escape from them.’ 
+Given the dangers in providing an addictive drug as a therapeutic 
+to addicted patients, the present qualitative data complement pre-
+vious research in allaying such concerns regarding addiction 
+treatment using classic psychedelics.
+Study limitations
+Three of the 15 participants declined invitation to be interviewed. 
+Two of these individuals did not successfully stop smoking as part 
+of the study, and the third relapsed between the 6- and 12-month 
+follow-ups. These participants could have yielded useful data on 
+why the study did not lead to successful smoking cessation in some 
+cases. As a qualitative retrospective study of 12 participants that 
+was based on an open-label pilot study, no definitive conclusions 
+regarding efficacy can be drawn.
+For example, the role of the supportive pair of guides was 
+considered central by all participants, and yet cannot be con-
+trolled for. However, by identifying themes in participant 
+responses, we have highlighted relationships between various 
+elements of the study protocol and participant experiences, in the 
+
+
+Noorani et al.	
+13
+hope of contributing to the development of best practice in rela-
+tion to psychedelic psychotherapy. Moreover, it is not evident 
+how one may assess the relative contribution towards safety and 
+efficacy of supportive guides without compromising key ethical 
+considerations (see Johnson et al., 2008). 
+Conclusion
+This retrospective qualitative analysis of participant interviews 
+from an open-label pilot study of psilocybin-facilitated smoking 
+cessation revealed key themes in participant experiences and 
+potential mechanisms of change, contributing to an understand-
+ing of the therapeutic process as well as considerations for future 
+research in the nascent field of clinical psychedelic psychother-
+apy. Conducting psilocybin sessions within a structured thera-
+peutic protocol led to psychological insights, experiences of 
+interconnectedness, feelings of awe and curiosity, and reduced 
+withdrawal symptoms, all reported by participants as central 
+mechanisms of change leading to their successful smoking cessa-
+tion. Preparatory counselling and rapport-building with session 
+guides were also highlighted as important contributors to smok-
+ing cessation.
+In addition to smoking cessation, the psilocybin-facilitated 
+smoking cessation intervention produced a range of auxiliary 
+persisting positive effects, including increased aesthetic appreci-
+ation, altruism and pro-social behaviour.
+For psychedelic psychotherapy to be feasible at scale, stream-
+lining treatment protocols without compromising efficacy will be 
+crucial, and qualitative investigation can contribute considerably 
+to this endeavour. In addition to randomised trials, future research 
+into psilocybin-facilitated addiction treatment should examine 
+the optimal number of psilocybin treatment sessions, the window 
+of time between sessions, and the ways in which meaning is 
+derived from session experiences independent of mystical-type 
+effects. Further elucidation of the variety of psychedelic-facili-
+tated experiences, and the role of different study factors, will be 
+valuable in developing novel psychedelic-assisted addiction 
+treatment interventions going forward.
+Acknowledgements
+Mary Cosimano, MSW; Margaret Klinedinst, BS; Patrick Johnson, 
+PhD; Matthew Bradstreet, PhD; Rosemary Scavullo-Flickinger, BA; 
+Fred Reinholdt, MA; Samantha Gebhart, BS; Grant Glatfelter, BS; 
+Jefferson Mattingly, BA; and Toni White, BA assisted in data collec-
+tion. Annie Umbricht, MD and Leticia Nanda, CRNP provided medical 
+screening and coverage, William A Richards, STM, PhD provided valu-
+able clinical consultation, and Nora Belblidia, MPS assisted with 
+proofreading.
+Declaration of Conflicting Interests
+The author(s) declared the following potential conflicts of interest with 
+respect to the research, authorship, and/or publication of this article: 
+Authors RRG and TCS are on the board of the Heffter Research Institute, 
+which provided funding for the initial pilot study.
+Funding
+The author(s) disclosed receipt of the following financial support for the 
+research, authorship, and/or publication of this article: The smoking ces-
+sation study upon which this qualitative study is based was funded by 
+Heffter Research Institute and the Beckley Foundation. Support for TN 
+was provided by the National Institute on Drug Abuse (NIDA) grant 
+T32DA07292. Support for AG-R was provided by NIDA grant 
+T32DA07209. Support for RRG was provided in part by NIDA grant 
+R01DA003889.
+Notes
+1.	
+Five of these participants had complete mystical experi-
+ences, as assessed by quantitative measures (Garcia-Romeu 
+et al., 2014). Participants 403, 405 and 422 did not.
+2.	
+Four of these participants had complete mystical experi-
+ences, as assessed by quantitative measures (Garcia-Romeu 
+et al., 2014). Participants 403 and 422 did not.
+3.	
+These reports were consistent with previously published 
+quantitative measures of craving and withdrawal (Johnson 
+et al., 2014), on which 424 scored highest among interview-
+ees in the week after the first psilocybin session.
+4.	
+Quantitative assessments of craving and withdrawal in the 
+week after the first psilocybin session showed that among 
+interviewees who quit smoking, 416 and 427 scored highest.
+5.	
+These data are generally consistent with quantitative rat-
+ings of personal meaning and spiritual significance, which 
+showed an overall increase on average from session 1 to 3 
+(Johnson et al., 2014).
+ORCID iD
+Tehseen Noorani 
+ https://orcid.org/0000-0002-4185-0218
+References
+Belser AB, Agin-Liebes G, Swift TC, et al. (2017) Patient experiences 
+of psilocybin-assisted psychotherapy: An interpretative phenomeno-
+logical analysis. J Humanist Psychol 57: 354–388.
+Bogenschutz MP and Johnson MW (2016) Classic hallucinogens in the 
+treatment of addictions. Prog Neuropsychopharmacol Biol Psychia-
+try 64: 250–258.
+Bogenschutz MP, Forcehimes AA, Pommy JA, et al. (2015) Psilocybin-
+assisted treatment for alcohol dependence: A proof-of-concept study. 
+J Psychopharmacol 29: 289–299.
+Bogenschutz MP and Pommy JM (2012) Therapeutic mechanisms of 
+classic hallucinogens in the treatment of addictions: From indirect 
+evidence to testable hypotheses. Drug Test Anal 4: 543–555.
+Cahill K, Stevens S and Lancaster T (2014) Pharmacological treatments 
+for smoking cessation. JAMA 311: 193–194.
+Campbell J, Cousineau P and Brown SL (1990) The Hero’s Journey: 
+Joseph Campbell on His Life and Work. Vol. 7. Novato, CA: New 
+World Library.
+Carbonaro TM, Bradstreet MP, Barrett FS, et al. (2016) Survey study 
+of challenging experiences after ingesting psilocybin mushrooms: 
+Acute and enduring positive and negative consequences. J Psycho-
+pharmacol 30: 1268–1278.
+Cicchetti DV (1994) Guidelines, criteria, and rules of thumb for evaluat-
+ing normed and standardized assessment instruments in psychology. 
+Psychol Assess 6: 284–290.
+Cohen J (1960) Kappa: Coefficient of concordance. Educ Psychol Meas 
+20: 37–46.
+Dedoose (2016) Version 7.0.23, Web Application for Managing,Analyzing, 
+and Presenting Qualitative and Mixed Method Research Data. Los-
+Angeles: Socio Cultural Research Consultants.Available at: www.
+dedoose.com.
+De Vries H, Elliott MN, Kanouse DE, et al. (2008) Using pooled kappa 
+to summarize interrater agreement across many items. Field Methods 
+20: 272–282.
+
+
+14	
+Journal of Psychopharmacology 00(0)
+Doblin R (1991) Pahnke’s Good Friday experiment: A long-term fol-
+lowup and methodological critique. J Trans Psychol 23: 1–28.
+Doering-Silveira E, Grob CS, De Rios MD, et al. (2005) Report on psy-
+choactive drug use among adolescents using Ayahuasca within a 
+religious context. J Psychoactive Drugs 37: 141–144.
+Fabregas JM, Gonzalez D, Fondevila S, et  al. (2010) Assessment of 
+addiction severity among ritual users of Ayahuasca. Drug Alcohol 
+Depend 111: 257–261.
+Fagerström K (2012) Determinants of tobacco use and renaming the 
+FTND to the Fagerström Test for Cigarette Dependence. Nicotine 
+Tob Res 14: 75–78.
+Fantegrossi WE, Woods JH and Winger G (2004) Transient reinforcing 
+effects of phenylisopropylamine and indolealkylamine hallucino-
+gens in rhesus monkeys. Behav Pharmacol 15: 149–157.
+Fleiss JL (1971) Measuring nominal scale agreement among many raters. 
+Psychol Bull 76: 378–382.
+Garcia-Romeu A, Griffiths RR and Johnson MW (2014) Psilocybin-
+occasioned mystical experiences in the treatment of tobacco addic-
+tion. Curr Drug Abuse Rev 7: 157–164.
+Garcia-Romeu A, Kersgaard B and Addy PH (2016) Clinical applica-
+tions of hallucinogens: A review. Exp Clin Psychopharmacol 24: 
+229–268.
+Gasser P, Holstein D, Michel Y, et al. (2014) Safety and Efficacy of 
+Lysergic Acid Diethylamide-Assisted Psychotherapy for Anxiety 
+Associated With Life-Threatening Diseases. J Nerv Ment Dis 202: 
+513–520.
+Griffiths RR, Johnson MW, Carducci MA, et al. (2016) Psilocybin pro-
+duces substantial and sustained decreases in depression and anxiety 
+in patients with life-threatening cancer: A randomized double-blind 
+trial. J Psychopharmacol 30: 1181–1197.
+Griffiths RR, Johnson MW, Richards WA, et al. (2011) Psilocybin occa-
+sioned mystical-type experiences: Immediate and persisting dose-
+related effects. Psychopharmacology (Berl) 218: 649–665.
+Griffiths RR, Richards WA, Johnson MW, et al. (2008) Mystical-type 
+experiences occasioned by psilocybin mediate the attribution of per-
+sonal meaning and spiritual significance 14 months later. J Psycho-
+pharmacol 22: 621–632.
+Griffiths RR, Richards WA, McCann U, et  al. (2006) Psilocybin can 
+occasion mystical-type experiences having substantial and sustained 
+personal meaning and spiritual significance. Psychopharmacology 
+(Berl) 2006; 187(3): 268–283.
+Halpern JH (1996) The use of hallucinogens in the treatment of addiction. 
+Addict Res 4: 177–189.
+Halpern JH, Sherwood AR, Passie T, et al. (2008) Evidence of health and 
+safety in American members of a religion who use a hallucinogenic 
+sacrament. Med Sci Monit 14: SR15– SR22.
+Hari J (2015) Chasing the Scream: The Opposite of Addiction is Connec-
+tion. New York: Bloomsbury.
+Hays JT, Ebbert JO and Sood A (2008) Efficacy and safety of varenicline 
+for smoking cessation. Am J Med 121: S32–S42.
+Heatherton TF, Kozlowski LT, Frecker RC, et al. (1991) The Fagerström 
+Test for Nicotine Dependence: A revision of the Fagerström Toler-
+ance Questionnaire. Br J Addict 86: 1119–1127.
+Hendricks PS, Clark CB, Johnson MW, et al. (2014) Hallucinogen use 
+predicts reduced recidivism among substance-involved offenders 
+under community corrections supervision. J Psychopharmacol 28: 
+62–66.
+Hendricks PS, Thorne CB, Clark CB, et al. (2015) Classic psychedelic 
+use is associated with reduced psychological distress and suicidal-
+ity in the United States adult population. J Psychopharmacol 29: 
+280–288.
+Johnson MW, Richards WA and Griffiths RR (2008) Human halluci-
+nogen research: Guidelines for Safety. J Psychopharmacol 22: 
+603–620.
+Johnson MW, Garcia-Romeu A, Cosimano MP, et al. (2014) Pilot study 
+of the 5-HT2AR agonist psilocybin in the treatment of tobacco 
+addiction. J Psychopharmacol 28: 983–992.
+Johnson MW, Garcia-Romeu A and Griffiths RR (2016) Long-term 
+follow-up of psilocybin-facilitated smoking cessation. Am J Drug 
+Alcohol Abuse 43: 55–60.
+Johnson MW, Garcia-Romeu A, Johnson PS, et al. (2017) An online sur-
+vey of tobacco smoking cessation associated with naturalistic psy-
+chedelic use. J Psychopharmacol 31: 841–850.
+Kabat-Zinn J (1990) Full Catastrophe Living: Using the Wisdom of your 
+Body and Mind to Face Stress, Pain, and Illness. New York: Dela-
+corte.
+Krebs TS and Johansen PØ (2012) Lysergic acid diethylamide (LSD) for 
+alcoholism: Meta-analysis of randomized controlled trials. J Psycho-
+pharmacol 26: 994–1002.
+Krupitsky EM, Burakov AM, Dunaevsky IV, et al. (2007) Single ver-
+sus repeated sessions of ketamine-assisted psychotherapy for people 
+with heroin dependence. J Psychoactive Drugs 39: 13–19.
+MacLean KA, Johnson MW and Griffiths RR (2011) Mystical experi-
+ences occasioned by the hallucinogen psilocybin lead to increases 
+in the personality domain of openness. J Psychopharmacol 25: 
+1453–1461.
+Marks DF and Sykes CM (2002) Randomised controlled trial of cognitive 
+behavioural therapy for smokers living in a deprived area of London: 
+Outcome at one-year follow-up. Psychol Health Med 7: 17–24.
+McCrae RR and Costa PT Jr (1985) Openness to experience. In: Hogan 
+R and Jones WH (eds) Perspectives in Personality. Greenwich, Con-
+necticut: JAI Press, pp. 145–172.
+Mottillo S, Filion KB, Bélisle P, et al. (2009) Behavioural interventions 
+for smoking cessation: A meta-analysis of randomised controlled tri-
+als. Eur Heart J 30: 718–730.
+O’Brien CP (2006) Drug addiction and drug abuse. In: Brunton LL, Lazo 
+JS and Parker KL (eds) Goodman and Gilman’s The Pharmacologi-
+cal Basis of Therapeutics. 11th ed. New York: McGraw-Hill, pp. 
+607–627.
+Osmond H (1957) A review of the clinical effects of psychotomimetic 
+agents. Ann N Y Acad Sci 66: 418–434.
+Pahnke WN (1969) Psychedelic drugs and mystical experience. Int Psy-
+chiatry Clin 5: 149–162.
+Pahnke WN and Richards WA (1996) Implications of LSD and experi-
+mental mysticism. J Relig Health 5: 175–208.
+Ross S (2012) Serotonergic hallucinogens and emerging targets 
+for addiction pharmacotherapies. Psychiatr Clin North Am 35: 
+357–374.
+Ross S, Bossis A, Guss J, et al. (2016) Rapid and sustained symptom 
+reduction following psilocybin treatment for anxiety and depression 
+in patients with life-threatening cancer: A randomized controlled 
+trial. J Psychopharmacol 30: 1165–1180.
+Savage C and McCabe OL (1973) Residential psychedelic (LSD) therapy 
+for the narcotic addict: A controlled study. Arch Gen Psychiatry 
+1973; 28: 808–814.
+Stace WT (1960) Mysticism and Philosophy. Philadelphia, PA: Lippin-
+cott.
+Sedgwick E (2003) Touching Feeling: Affect, Pedagogy, Performativity. 
+Berkeley, CA: Duke University Press.
+Sessa B and Johnson MW (2015) Can psychedelic compounds play a part 
+in drug dependence therapy? Br J Psychiatry 206: 1–3.
+Swift TC, Belser AB, Agin-Liebes, G, et al. (2017) Cancer at the Din-
+ner Table: Experiences of Psilocybin-Assisted Psychotherapy for 
+the Treatment of Cancer-Related Distress. J Humanist Psychol 57: 
+488–519.
+Sykes CM and Marks DF (2001) Effectiveness of a cognitive behaviour 
+therapy self-help programme for smokers in London, UK. Health 
+Promot Int 16: 255–260.
+Tønnesen P, Tonstad S, Hjalmarson A, et al. (2003) A multicentre, ran-
+domized, double-blind, placebo-controlled, 1-year study of bupro-
+pion SR for smoking cessation. J Intern Med 254: 184–192. 
+Watts R, Day C, Krzanowski J, et al. (2017) Patients’ Accounts of 
+Increased “Connectedness” and “Acceptance” After Psilocybin for 
+Treatment-resistant Depression. J Humanist Psychol 57: 520–564.
+View publication stats

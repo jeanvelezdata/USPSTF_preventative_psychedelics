@@ -1,0 +1,14 @@
+{
+  "StudyID": "Alper 1999",
+  "prompt_file": "prompts/ae_extraction_prompt_v1.md",
+  "prompt_version": "ae_extraction_prompt_v1",
+  "rubric_version": "severity_rubric_v1",
+  "text_file": "inputs/text/Alper 1999.txt",
+  "text_source": "born-digital",
+  "citation": "Alper KR, Lotsof HS, Frenken GMN, Luciano DJ, Bastiaans J. Treatment of Acute Opioid Withdrawal with Ibogaine. The American Journal on Addictions. 1999.",
+  "year": 1999,
+  "model": "claude-sonnet-5",
+  "temperature": 1,
+  "temperature_note": "Not directly configurable via Claude Code Task-tool subagent dispatch; platform default, not an experimentally-controlled 0.",
+  "dispatched_at": "2026-07-22T00:35:13Z"
+}

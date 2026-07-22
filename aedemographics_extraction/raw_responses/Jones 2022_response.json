@@ -1,0 +1,45 @@
+{
+  "data": {
+    "article": {
+      "StudyID": "Jones 2022",
+      "Citation": "Jones G, Ricard JA, Lipson J, Nock MK. Associations between classic psychedelics and opioid use disorder in a nationally-representative U.S. adult sample. Scientific Reports. 2022.",
+      "Title": "Associations between classic psychedelics and opioid use disorder in a nationally-representative U.S. adult sample",
+      "Year": 2022,
+      "Corpus/Prefix": ".",
+      "Condition": "Opioid",
+      "Substance": "Psilocybin, Peyote, Mescaline, LSD",
+      "IsObservational": "Y",
+      "N": 214505,
+      "AE_denominator": ".",
+      "ArmScope": "pooled",
+      "PctFemale": ".",
+      "GenderCategory": "Male/female only, reported stratified by OUD status, not as a single sample-wide figure (Non-OUD: 48.2% male/51.8% female; Has-OUD: 58.4% male/41.6% female; weighted %).",
+      "PctBIPOC": ".",
+      "PctIndigenous": ".",
+      "SafetyReported": "N",
+      "AnyAEReported": "NA",
+      "NumDistinctAEs": "NA",
+      "NParticipantsWithAE": "NA",
+      "WorstSeverity": "NA",
+      "text_source": "born-digital",
+      "Model": "claude-sonnet-5",
+      "PromptVersion": "ae_extraction_prompt_v1",
+      "RubricVersion": "severity_rubric_v1",
+      "Temperature": 1
+    },
+    "ae_events": []
+  },
+  "rationale": {
+    "article": {
+      "IsObservational": "This is a secondary cross-sectional analysis of existing NSDUH (2015-2019) survey data using survey-weighted multivariable logistic regression to test associations between self-reported lifetime psychedelic use and past-year OUD diagnosis. There is no randomization, no researcher-administered intervention, and no experimental protocol \u2014 participants' psychedelic exposure is naturalistic/self-reported prior use. This is an observational (cross-sectional survey) design.",
+      "Substance": "The study's independent variables were lifetime use (yes/no) of the four most frequently used classic psychedelics in NSDUH: psilocybin, peyote, mescaline, and LSD (Method, 'Independent variables and covariates'). These are naturalistic self-reported exposures, not administered treatments, but are listed per the field's guidance to report substances 'as reported.'",
+      "N": "Method section states 'we included all adults aged >= 18 years from the NSDUH in our analyses (total unweighted N = 214,505)' \u2014 this is the final analyzed sample, not merely an enrolled/eligible count, so no ambiguity.",
+      "ArmScope": "N=214,505 and the Table 1 demographic breakdown are for the entire NSDUH adult sample (those with vs. without OUD), which includes both psychedelic-exposed and non-exposed (psychedelic-naive) individuals pooled together \u2014 psychedelic lifetime use is a covariate/independent variable within this single pooled population, not a separate exposed-only arm. Table 4 does report demographics for a psilocybin-exposed-only subgroup split by opioid misuse status, but this is a secondary post-hoc analysis, not the study's main N/AE/demographic scope.",
+      "PctFemale": "Table 1 (the only whole-sample demographics table) reports sex only stratified by OUD status (48.2% male/51.8% female among those without OUD; 58.4% male/41.6% female among those with OUD), using survey-weighted percentages. No single overall sample-wide %female is given, and because the percentages are survey-weighted while the accompanying N's are unweighted case counts, they cannot be validly combined into one weighted-average figure without performing a calculation the article does not itself report. Coded not-reported rather than computing an unsupported figure.",
+      "PctBIPOC": "Race/ethnicity in Table 1 is reported only stratified by OUD status, in weighted percentages tied to unweighted subgroup N's (same issue as PctFemale) \u2014 no single overall-sample BIPOC percentage is given or validly derivable from what's reported, so coded not-reported.",
+      "PctIndigenous": "Same limitation as PctBIPOC \u2014 Non-Hispanic Native American/Alaska Native and Native Hawaiian/Pacific Islander percentages are given only stratified by OUD status, not as a single overall-sample figure.",
+      "SafetyReported": "This article is an epidemiological association study (lifetime psychedelic use vs. odds of OUD diagnosis) and a replication of Pisano et al.; it does not describe administering psychedelics, monitoring participants during/after use, or assessing/reporting any adverse events, challenging experiences, or safety outcomes anywhere in Methods, Results, or Discussion. No safety data of any kind is present in this article."
+    },
+    "ae_events": {}
+  }
+}

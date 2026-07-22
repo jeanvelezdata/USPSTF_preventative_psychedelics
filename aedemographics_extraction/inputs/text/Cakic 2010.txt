@@ -1,0 +1,1039 @@
+Drug and Alcohol Dependence 111 (2010) 30–37
+Contents lists available at ScienceDirect
+Drug and Alcohol Dependence
+journal homepage: www.elsevier.com/locate/drugalcdep
+Dimethyltryptamine (DMT): Subjective effects and patterns of use among
+Australian recreational users
+Vince Cakic a,∗, Jacob Potkonyak b, Alex Marshall a
+a School of Psychology, University of Sydney, Sydney, NSW 2006, Australia
+b School of Psychology, Macquarie University, Sydney, NSW 2109, Australia
+a r t i c l e
+i n f o
+Article history:
+Received 16 February 2010
+Received in revised form 7 March 2010
+Accepted 9 March 2010
+Available online 31 May 2010
+Keywords:
+Dimethyltryptamine
+DMT
+Ayahuasca
+Hallucinogens
+Psychedelics
+a b s t r a c t
+Dimethyltryptamine (DMT) is an endogenous hallucinogen with traditional use as a sacrament in the
+orally active preparation of ayahuasca. Although the religious use of ayahuasca has been examined
+extensively, very little is known about the recreational use of DMT. In this study, Australian participants
+(n = 121) reporting at least one lifetime use of DMT completed an online questionnaire recording patterns
+of use, subjective effects and attitudes towards their DMT use. Smoking DMT was by far the most com-
+mon route of administration (98.3%) with a comparatively smaller proportion reporting use of ayahuasca
+(30.6%). The reasons for ﬁrst trying DMT were out of a general interest in hallucinogenic drugs (46.6%) or
+curiosity about DMT’s effects (41.7%), while almost one-third (31.1%) cited possible psychotherapeutic
+beneﬁts of the drug. An increase in psychospiritual insight was the most commonly reported positive
+effect of both smoked DMT (75.5%) and ayahuasca (46.7%), a ﬁnding that is consistent with other studies
+examining the ritualised use of ayahuasca in a religious context. Although previous studies of DMT use
+have examined ayahuasca use exclusively, the present study demonstrates the ubiquity of smoking as
+the most prevalent route of administration among recreational DMT users.
+© 2010 Elsevier Ireland Ltd. All rights reserved.
+1. Introduction
+Dimethyltryptamine (DMT) is a naturally occurring hallucino-
+gen similar in structure to both serotonin and psilocybin. Like
+other hallucinogens, DMT is a serotonin 5-HT2A receptor agonist
+(Smith et al., 1998), in addition to being a ligand of both trace
+amine-associated receptor 1 (TAAR1; Bunzow et al., 2001) and the
+sigma-1 (-1) receptor (Fontanilla et al., 2009). It is found ubiq-
+uitously across the plant and animal kingdoms (McKenna, 2004)
+and, although it is a relatively obscure drug, its presence in the
+popular media (Otis, 2009; De Conceicao, 2009; Grigoriadis, 2006;
+Cox, 2009) suggests that interest or use in Western countries is
+increasing. Szára (1956) was the ﬁrst to report its hallucinogenic
+effects, however, its consumption in the hallucinogenic plant bev-
+erage ayahuasca dates to pre-Colombian times and continues to the
+present day (Pomilio et al., 1999; Grob et al., 1996).
+Ayahuasca, which translates to “the vine of the souls” by the
+Amazon-dwelling Quechua people among whom it is tradition-
+ally used, is consumed as a sacrament throughout the Amazon
+Basin by indigenous populations (Dobkin de Rios, 1972; McKenna,
+2006). Although it is an umbrella term used to describe any orally
+active DMT preparation, ayahuasca is usually prepared by infus-
+∗Corresponding author.
+E-mail address: vincec@psych.usyd.edu.au (V. Cakic).
+ing the DMT-bearing leaves of Psychotria viridis with the stems of
+the Banisteriopsis caapi vine (McKenna, 2004). The latter contains
+-carboline alkaloids, chieﬂy harmine, tetrahydroharmine, and
+harmaline. Ordinarily, DMT is rapidly metabolised by gut and liver
+monoamine oxidase (MAO), making it orally inactive. However, the
+-carbolines display MAO inhibition and their co-administration
+enables DMT to reach the CNS intact. The hallucinogenic effects of
+ayahuasca commence within an hour of its consumption and last
+approximately 4 h.
+In contrast to oral ingestion, the effects of smoked DMT com-
+mence almost immediately, peak within several minutes and
+typically resolve within 30 min (Turner, 1994; Strassman, 2001).
+Smokeable freebase DMT may be obtained from a variety of ﬂora
+through a simple extraction process, the instructions for which are
+readily available on the Internet (Halpern and Pope, 2001). Owing
+to the brevity and intensity of its effects, smoked DMT has been
+facetiously coined the “businessman’s lunch trip” (Turner, 1994)
+and this contrasts the duration of LSD, whose effects last 8–12 h
+(Rothlin, 1957).
+In the Amazon Basin, DMT is legal and its use, in the form
+of ayahuasca, is a key component of the religious practices of
+several syncretic churches including the União do Vegetal (UDV)
+and Santo Daime (MacRae, 1998). In the Western world, however,
+DMT remains a controlled substance, although recent rulings by
+the United States Supreme Court now protect the religious use
+of ayahuasca in the United States under the Religious Freedom
+0376-8716/$ – see front matter © 2010 Elsevier Ireland Ltd. All rights reserved.
+doi:10.1016/j.drugalcdep.2010.03.015
+
+
+V. Cakic et al. / Drug and Alcohol Dependence 111 (2010) 30–37
+31
+Restoration Act (1993; Bullis, 2008). To date, several studies have
+examined the religious use and effects of ayahuasca among adoles-
+cent (Da Silveira et al., 2005; Doering-Silveira et al., 2005a,b), as well
+as ﬁrst-time (Trichter et al., 2009) and long-term (Grob et al., 1996;
+Halpern et al., 2008) ayahuasca users. These studies have gener-
+ally found ayahuasca to be psychologically beneﬁcial, or at worst,
+lacking in deleterious effects when consumed in an appropriate
+religious context. Users generally report that ayahuasca facilitates
+an experience characterised by complex and semantically rich
+visual hallucinations of personal or spiritual signiﬁcance (Shanon,
+2002) and this is consistent with ﬁndings that the chemically
+related hallucinogen psilocybin may evoke religious experiences
+in hallucinogen-naive subjects (Grifﬁths et al., 2006, 2008).
+In recent years there appears to have been growing interest in
+hallucinogens such as DMT in countries such as Australia and the
+United States (Otis, 2009; De Conceicao, 2009; Grigoriadis, 2006;
+Cox, 2009). This may be due to the emergence of the outdoor rave
+or ‘doof’ music subculture (Luckman, 2003; Tramacchi, 2000) and
+the proliferation of neo-shamanic practises in the West (Tupper,
+2008, 2009). There is an apparent increase in Internet resources
+surrounding the use of hallucinogens (Halpern and Pope, 2001;
+Boyer et al., 2005) as well as the expansion of online “head shops”
+legally trading in the sale of psychoactive plant material, including
+ayahuasca ingredients (Dalgarno, 2008). Interest may exist in par-
+ticular for DMT given its endogenous presence in humans (Barker
+et al., 1981) and its unique and bizarre phenomenology (Shanon,
+2002; Strassman, 2001).
+Despite the aforementioned studies of ayahuasca, recreational1
+use of DMT in Western countries remains largely unexamined.
+Previous research has investigated the recreational use of the short-
+acting hallucinogen Salvia divinorum (Gonzalez et al., 2006; Lange
+et al., 2008), yet a similar study of DMT has not previously been
+undertaken. In his ethnographic study of Australian DMT users,
+Tramacchi (2006) examined the phenomenological aspects of the
+DMT experience, however, little is known regarding the patterns
+of DMT use among recreational users. Furthermore, data regarding
+the use of smokeable DMT remain scant.
+The present study seeks to address the paucity of such data
+by examining Australian recreational DMT users. The use of DMT
+within Australia may be of particular interest given the pres-
+ence of DMT in several native species of Acacia (Fitzgerald and
+Sioumis, 1965; Rouvelli and Vaughan, 1967) as well as the veri-
+table existence of an electronic ‘bush doof’ music subculture with
+which hallucinogen use is commonly associated (Tramacchi, 2000;
+Luckman, 2003). In the absence of existing literature regarding
+recreational DMT use, this study is exploratory in nature and seeks
+to identify the demographics and general pattern of use, as well
+as subjective effects and attitudes towards DMT in a sample of
+recreational users of the drug.
+2. Method
+2.1. Sample
+Individuals who were Australian residents aged 18 years and over and who had
+used DMT at least once in their lifetime were recruited for the study. Data were col-
+lected between July and August 2009, with participants recruited via ‘snowballing’
+(Biernacki and Waldorf, 1981) involving individuals known to the researchers, and
+an advertisement in an Australian hallucinogen-related internet newsletter that
+contained a link to an online questionnaire. Respondents were assured of their
+anonymity and the study conformed to National Health and Medical Research Coun-
+cil ethics guidelines for human research.
+1 Given its traditional use as a sacrament it is likely that DMT use deemed to
+be ‘recreational’ involves the use of this drug for religious purposes. Although it
+is acknowledged as a misnomer, in the present study the term ‘recreational’ will
+imply the illicit use of DMT outside of a recognised religious institution such as
+Sainto Daime.
+2.2. Questionnaire
+The self-administered online questionnaire included both closed and open-
+ended items and took approximately 25 min to complete. The questionnaire
+comprised four main sections: (1) demographic information: including age, gen-
+der, postcode, religious afﬁliation, education and occupation; (2) history of other
+drug use: including previous drugs consumed, and drugs consumed in the previous
+12 months, 6 months, and 30 days; (3) history of DMT use: including age of initiation,
+number of occasions used, routes of administration, sources for obtaining DMT, and
+locations consumed; (4) patterns of use and attitudes about DMT: including reasons
+for ﬁrst consuming DMT, positive and negative aspects of both smoked DMT and
+ayahuasca, patterns of use of each route of administration, and perceived risks and
+harm reduction regarding DMT use.
+Items regarding DMT use were distinguished via the two main routes of admin-
+istration, smoked and ayahuasca. Respondents were asked to complete sections
+relevant to their reported route of administration; those who had consumed DMT
+via both routes were required to complete both sections. Additionally, cannabis
+dependence was measured using the Severity of Dependence Scale (SDS) adapted
+for cannabis use in the previous 30 days. The SDS is a 5-item questionnaire with reli-
+ability in identifying cannabis dependence (Hildes et al., 2007; Martin et al., 2005).
+Although a cut-off SDS score of ≥3 is considered optimal (Swift et al., 1998), the
+present study used a cut-off of ≥4 in order to increase measure speciﬁcity.
+2.3. Data analyses
+The majority of the analyses were descriptive in nature. Percentages were
+reported for categorical variables. For continuous normally distributed variables,
+mean, standard deviation and range were reported and t-tests were employed with
+a 0.05 level of signiﬁcance. For skewed continuous variables, median and range were
+reported and the Mann–Whitney U-test was used. Qualitative responses for open-
+ended questions were coded according to themes and percentages reported. Unless
+otherwise noted, the response rate of each item was n = 121.
+3. Results
+3.1. Demographic characteristics
+A total of 121 lifetime DMT users were recruited, the major-
+ity of whom were male (86%). Respondents ranged in age from
+18 to 68 years, with a median age of 28 years. The majority of
+respondents were Australian-born (86.8%) and one reported being
+of indigenous Australian descent. Almost three-quarters (73.6%)
+reported having no religious afﬁliation, and only 4.1% belonged to a
+mainstream monotheistic religion such as Christianity. The remain-
+der cited pantheistic religions (e.g. shamanism; 11.6%), esoteric or
+non-speciﬁc beliefs (e.g. “non-religious, intuitively spiritual”; 8.3%),
+or Eastern mysticism (e.g. Buddhism; 2.5%). Mean of total years
+of formal education was 15.9 (S.D. 2.9; range 10–24), with 60.3%
+of the sample having completed some university or higher. One-
+third (35.5%) reported full-time employment, with another third
+reporting part-time or casual employment (34.8%), 14.8% identify-
+ing themselves as students and 10.7% as unemployed. Another 4.1%
+of the sample listed home duties as their primary occupation.
+3.2. Overall pattern of drug use
+Lifetime history of drug use was extensive among the sample
+(Table 1). A total of 92 discrete drugs had been used by the respon-
+dents. The mean number of drugs ever tried was 17.3 (maximum
+allowed 35, range 4–34.). Although the use of other hallucinogens
+was typical, drug use extended to a disparate array of drug classes
+including stimulants, opiates, depressants and anaesthetics. Use of
+various mildly psychoactive plants such as damiana (Turnera dif-
+fusa) was also reported but excluded from this analysis.
+All but two respondents (98.3%) reported lifetime use of alcohol
+and cannabis, and 89.3% and 73.6% had consumed these drugs in
+the previous 30 days, respectively. Almost one-third of the sample
+(31.4%) had consumed ﬁve or more standard drinks of alcohol in a
+single sitting on ﬁve or more occasions in the past 30 days. Using
+a cut-off score of ≥4 in the SDS for cannabis use in the previous
+30 days, 26.4% of the sample appeared to be cannabis dependent.
+
+
+32
+V. Cakic et al. / Drug and Alcohol Dependence 111 (2010) 30–37
+Table 1
+Patterns of drug use of DMT users in the study (n = 121).
+Drug class
+Ever used (%)
+Used last 6 months (%)
+Used last 30 days (%)
+Days used last 30 days (median)a
+DMT
+100.0
+68.6
+34.7
+2
+Cannabis
+98.3
+82.6
+73.6
+15
+Alcohol
+98.3
+91.7
+89.3
+8
+LSD
+96.7
+63.6
+30.6
+1
+Tobacco
+95.9
+74.4
+66.9
+29
+MDMA
+94.2
+55.4
+31.4
+1
+Psilocybin
+91.7
+50.4
+29.8
+1.5
+Meth/amphetamine
+83.5
+26.4
+14.0
+3
+Nitrous oxide
+79.3
+33.9
+14.9
+1
+Cocaine
+72.7
+24.8
+12.4
+1
+Salvia divinorum
+67.8
+14.9
+6.6
+1
+Mescaline
+64.5
+21.5
+8.3
+1
+Amyl nitrite
+60.3
+8.3
+5.0
+1.5
+Benzodiazepinesb
+58.7
+18.2
+9.9
+2.5
+Ketamine
+56.2
+14.0
+5.0
+1
+Other opiatesb
+50.4
+12.4
+8.3
+2.5
+2C-B
+44.6
+17.4
+4.1
+1
+MDA
+43.0
+2.5
+1.7
+2
+Peganum harmala
+42.1
+18.2
+10.7
+1
+Banisteriopsis caapi
+38.8
+23.1
+4.1
+1
+Other stimulantsb
+38.8
+8.3
+3.3
+2.5
+DXM
+29.8
+3.3
+1.7
+1.5
+Heroin
+26.4
+5.8
+1.7
+11.5
+GHB
+24.8
+1.7
+0.8
+1
+a Among those who had ever used the drug.
+b Involving non-medical use.
+Including alcohol and tobacco, the median number of discrete drugs
+that had been consumed by the sample in the previous 30 days was
+6 (range 0–16).
+Hallucinogens most widely consumed included LSD (96.7%),
+psilocybin mushrooms (91.7%), S. divinorum (67.8%), mescaline
+(64.5%) and ketamine (56.2%). Several plant-based drugs associated
+with DMT use were also frequently reported by the sample; the
+MAO inhibitors Peganum harmala (Syrian rue; 42.1%) and B. caapi
+(38.8%), as well as the compounds 5-methoxy-dimethyltryptamine
+(5-MeO-DMT) and bufotenin, which are present in Anadenanthera
+peregrina snuffs (11.6%; Ott, 1996).
+Respondents reported use of ‘party drugs’ such as MDMA
+(94.2%), meth/amphetamine (83.5%), cocaine (72.7%), amyl nitrite
+(60.3%) and GHB or related compounds (24.8%). Over one-quarter
+reported previous use of heroin (26.4%), while past non-medical use
+of opiates (50.4%), benzodiazepines (58.7%) and stimulants such as
+methylphenidate (38.8%) was also commonplace.
+Several plant-based psychoactives such as kava (Piper methys-
+ticum; 9.1%), Amanita muscaria (6.6%), ergine containing species
+such as Ipomoea violacea and Argyreia nervosa (6.6%), opium (6.6%),
+and anticholinergic deleriants such as Datura spp. and Brugman-
+sia spp. (6.6%) were also reported. Interestingly, over 25 synthetic
+tryptamine and phenethylamine ‘research chemicals’ (Shulgin and
+Shulgin, 1991, 1997) were also widely reported. The most com-
+monly used compounds of this class included 2C-B (44.6%), 2C-I
+(13.2%), 2C-E (9.1%) and 2C-T-7 (7.4%).
+More than a quarter (28.1%) reported having injected drugs
+intravenously for non-medical purposes on at least one occasion,
+and 7.4% had previously injected drugs with a needle that had been
+used by another person. Refer to Table 1 for frequency of drug use in
+the previous 6 months and 30 days, in addition to median number
+of days used in the past 30 days.
+3.3. DMT use
+The median age of initiation of DMT use was 24 years (range
+15–65 years). The median total number of occasions respondents
+had used DMT was 10 times (range 1–400 times). The most
+common route of administering DMT was smoking (98.3%), fol-
+lowed by oral administration in the form of ayahuasca (30.6%).
+Those who reported having previously consumed ayahuasca
+took DMT on signiﬁcantly more occasions than those who
+did not (median = 30 versus 6, U = 732, p < 0.001). Less common
+routes of administration included insufﬂation (5%) and injection
+(2.5%).
+Eleven participants (9.1%) had consumed DMT on only one
+occasion; 34.7% had used it on 20 or more occasions. Approxi-
+mately two-thirds (68.6%) of respondents had used DMT in the
+past 6 months, while 86.7% had used it in the past 12 months.
+Median duration of DMT use was 2 years (range 6 months to 31
+years).
+The most frequently cited sources for ﬁrst having heard about
+DMT was primarily through friends (47.9%), the Internet (24.8%)
+and print media (22.3%). The median number of friends that
+the respondent had stated had also taken DMT was 15 (range
+1–500). There was a strong positive correlation between the
+number of friends that had taken DMT with the respondent’s
+total occasions used (r = 0.67, p < 0.001). The median number of
+people that the respondents had given DMT to was 3 (range
+0–200).
+3.4. Obtaining DMT
+The reported usual sources for obtaining or purchasing DMT
+included friends (60.3%) and acquaintances (9.1%), friends that
+were dealers (14.9%), known dealers (5.8%) and rarely, dealers
+that were strangers (2.5%). Moreover, approximately one-quarter
+(26.4%) reported that they extract DMT themselves from plant
+material that they ﬁnd, grow or purchase. Obtaining or pur-
+chasing the necessary plant material was rated as very easy
+(26.4%), somewhat easy (30.6%), somewhat difﬁcult (20.7%), very
+difﬁcult (9.1%), and unsure (13.2%). Almost half of respondents
+(48.8%) reported not knowing the street price of 1 g of ready-to-
+consume DMT. Of those that did, the median quoted price was
+$150/g (range $35–1000/g). The ease with which DMT could be
+obtained was rated as very difﬁcult (19.8%), somewhat difﬁcult
+(36.4%), somewhat easy (26.4%), very easy (11.6%), and unsure
+(5.8%).
+
+
+V. Cakic et al. / Drug and Alcohol Dependence 111 (2010) 30–37
+33
+3.5. Reasons for trying
+Participants were asked why they initially tried DMT, the rea-
+sons for which were subsequently coded according to themes
+(n = 103). The most commonly cited reasons were out of a general
+interest in hallucinogenic or plant-based drugs (46.6%) and curios-
+ity about DMT’s effects (41.7%). Interestingly, almost one-third
+(31.1%) stated that they tried DMT for its potential psychotherapeu-
+tic beneﬁts, such as personal insight or self exploration. Of a similar
+theme was the potential spiritual beneﬁts of DMT (29.1%) such as
+“ﬁnding God” or “ﬁnding spiritual meaning”. Being given DMT or
+having it recommended by others was also mentioned (18.4%) as
+a reason for trying the drug. Only three (2.9%) respondents stated
+that they ﬁrst consumed DMT for fun.
+3.6. Location of usage
+Respondent’s usual places of DMT use were: their own home
+(81.8%), outdoors (55.4%), a friend’s home (52.1%), doofs (24.8%),
+private parties (16.5%), public places (12.4%) and the home of an
+acquaintance (5%). Users generally took DMT in a small group of
+up to four friends (76.9%), alone (52.1%), with their partner (26.4%),
+in a large group of ﬁve or more friends (9.1%) or in ayahuasca cer-
+emonies (5%). Those who reported commonly taking DMT alone
+used DMT on signiﬁcantly more occasions than those who did not
+(median = 20 versus 5, U = 971, p < 0.001).
+3.7. Smoked DMT
+All but two of the 121 respondents (98.3%) reported having pre-
+viously smoked DMT on at least one occasion. The median number
+of occasions users had smoked DMT was 8 (range 1–400). By far the
+most common methods for smoking were through a waterpipe or
+‘bong’ (55.5%), glass pipe (54.6%), or in a cigarette or joint (29.4%).
+Other methods included non-glass pipes (10.1%) and vaporisers
+(5%).
+Approximately two-thirds (68.1%) of DMT smokers reported
+commonly smoking DMT with other drugs. In those who did,
+cannabis was the most commonly combined drug (53.1%), followed
+by LSD (28.4%), alcohol (27.2%), psilocybin (19.8%) and MDMA
+(8.6%). Moreover, 42% of DMT smokers reported concomitant use
+of an MAO inhibitor such as B. caapi or P. harmala.
+Respondents were asked to nominate up to ﬁve positive (n = 98)
+and ﬁve negative aspects (n = 103) of smoked DMT and responses
+were coded according to themes (Table 2). Three-quarters (75.5%)
+of the sample reported a positive aspect of smoked DMT to be a per-
+sonally meaningful or insightful experience, and over half (54.1%)
+cited spiritual experiences. Feelings of euphoria (29.6%), the brief
+duration of smoked DMT (27.6%) and the intense visual hallucina-
+tions produced under its inﬂuence (21.4%) were also mentioned as
+positive effects.
+When asked what the negative aspects of smoked DMT were
+almost half (49.6%) reported difﬁculties with the act of smoking
+the drug. This included the bad taste, coughing and possible res-
+piratory damage from smoking. Other negative aspects included
+psychological or spiritual conﬂicts (23.5%). Descriptions included
+an overwhelming change in psychological or spiritual outlook or
+worldview that may be difﬁcult to integrate once the effects of
+DMT had worn off. Approximately 1 in 10 (10.9%) also noted an
+experience under the inﬂuence of DMT characterised by marked
+anxiety or stress. Interestingly, the brief duration of smoked DMT
+was also cited as a negative aspect of the experience (10.9%), as was
+its illegality (5.9%).
+3.8. Ayahuasca
+Thirty-seven (30.6%) respondents reported having consumed
+ayahuasca on at least one occasion. Interestingly, only two
+ayahuasca users reported not having smoked DMT. Thus, although
+many DMT smokers had not consumed ayahuasca, the vast majority
+(94.6%) of ayahuasca users had also smoked DMT. Analysis indi-
+cated that ayahuasca users had smoked DMT on more occasions
+than those who reported only smoking DMT (median 20 versus 7,
+U = 851.5, p < 0.001). The median number of occasions ayahuasca
+had been consumed was four times (range 1–180).
+As previously noted, an MAO inhibitor must be consumed for
+DMT to be orally active (McKenna, 2004). The most commonly
+reported MAO inhibitors were B. caapi (73%) and P. harmala (54.1%).
+In contrast to smoking DMT, users reported not usually combining
+ayahuasca with any other drugs (73%). This was generally inde-
+pendent of whether or not the same individual reported smoking
+DMT with other drugs. In the 10 users who commonly used other
+drugs with ayahuasca, the most frequently used other drugs were
+cannabis (7 users) and psilocybin (3).
+As with smoked DMT, respondents were asked to cite the posi-
+tive (n = 30) and negative (n = 25) aspects of ayahuasca (Table 2).
+Almost half (46.7%) felt that the ayahuasca experience offered
+them personal insight. One-third also stated that the experience
+was more psychologically cleansing or cathartic in comparison to
+smoked DMT. The longer duration of ayahuasca relative to smoked
+DMT (30%) and a somewhat smoother onset of action and more
+gentle experience (30%) were also noted. The unusual psychic phe-
+nomena characteristic of ayahuasca such as apparent near-death
+or out-of-body experiences (Shanon, 2002) was also mentioned as
+a positive aspect of the preparation (20%).
+Ayahuasca’s putrid taste and the associated nausea character-
+istic of the experience were by far the most commonly reported
+negative aspect (44%). One-ﬁfth (20%) also reported ayahuasca’s
+Table 2
+Five most frequently mentioned positive (n = 98) and negative (n = 103) aspects of smoked DMT, and positive (n = 30) and negative (n = 25) aspects of ayahuasca.
+Positive aspects
+Percentage (%)
+Negative aspects
+Percentage (%)
+Smoked DMT
+Meaningful or insightful
+75.5
+Bad taste or coughing
+49.6
+Spiritual experiences
+54.1
+Psychospiritual distress
+23.5
+Euphoria
+29.6
+Anxiety or stress during
+10.9
+Short duration
+27.6
+Short duration
+10.9
+Visual hallucinations
+21.4
+Legal status
+5.9
+Ayahuasca
+Meaningful or insightful
+46.7
+Nausea, taste, or purge
+44.0
+Cleansing or cathartic
+33.3
+Long duration
+20.0
+Long duration
+30.0
+Psychospiritual distress
+16.0
+Smooth, gentle experience
+30.0
+Intensity
+12.0
+Unusual psychic phenomena
+20.0
+Poorly prepared brews
+12.0
+
+
+34
+V. Cakic et al. / Drug and Alcohol Dependence 111 (2010) 30–37
+long duration. It was commonly reported that unlike smoked DMT,
+the longer duration of ayahuasca meant that the trip could not
+end shortly thereafter should a negative experience occur. As with
+smoked DMT, psychospiritual conﬂict was also mentioned (16%)
+as a negative aspect of ayahuasca. Ayahuasca’s intensity (12%) and
+poorly prepared brews (12%) were also noted as negative aspects.
+3.9. Perceived dangers
+Participants rated on a 5-point scale how safe they thought it
+was to use DMT for them personally. The majority of the sample
+generally considered their use to be safe, with most deeming it to be
+either very safe (54.5%), quite safe (38%) or moderately safe (6.6%).
+No participant reported having sought medical attention as a con-
+sequence of their DMT use, and only one stated having previously
+driven whilst under the inﬂuence of ayahuasca (2.7% of ayahuasca
+users).
+Respondents were asked to state what they felt were the three
+main risks about DMT use in general (n = 111). The most frequently
+reported risk for DMT was having a bad trip (50.5%), or a frightening
+experience while under the inﬂuence of DMT. Commonly cited was
+the potential for psychospiritual problems arising as a consequence
+of DMT use (39%). Responses generally reﬂected the belief that DMT
+could produce an overwhelming change in spiritual or psychologi-
+cal outlook or worldview that may be difﬁcult to integrate once the
+effects of the drug had worn off. Over a quarter (26.3%) also stated
+aversive physiological reactions from consuming DMT. In the case
+of smoked DMT, respiratory irritation from inhaling smoke was the
+primary complaint while nausea was the main physical concern for
+ayahuasca use. Other dangers included falls or burns arising as a
+consequence of not remaining seated under its inﬂuence (22.1%) as
+well as the disrespectful or irreligious use of DMT (17.9%).
+When asked how the risks associated with DMT could be
+reduced (n = 103), approximately half (50.5%) mentioned the need
+for greater education regarding safe use. The presence of another
+individual was deemed important (34.7%) as well as the need
+to consume DMT with an appropriate mindset (28.4%) and in a
+suitable context or environment (28.4%). The legalisation of DMT
+(32.6%) and limiting one’s use of the drug (29.5%) were also men-
+tioned. Ensuring purity of the DMT consumed (9.5%) was also noted
+as an important factor in harm minimisation.
+4. Discussion
+This study provides the ﬁrst comprehensive investigation of
+recreational DMT use by examining 121 Australian DMT users. Sam-
+ple demographics indicate that DMT users are generally employed
+or undertaking higher education, and are less likely to be subject
+to the social and economic marginalisation characteristic of other
+drug using populations (Room, 2005).
+The main routes of administration for recreational use were
+smoking DMT and ayahuasca, with smoking being the most com-
+mon method. Given that almost all ayahuasca users had also
+smoked DMT, but not all DMT smokers had used ayahuasca, the data
+suggest that the typical pattern of use commences with smoked
+DMT. Thereafter, some but not all users will progress to ayahuasca
+use, but clearly this requires further investigation.
+4.1. Pattern of use
+4.1.1. Initiation and use. Consumption of DMT appears to be medi-
+ated by peers. Friends were the primary source in regard to ﬁrst
+hearing about DMT and were a common source for providing the
+drug. This suggests that a friend will initiate an individual to DMT,
+who will subsequently introduce it to others. The high correlation
+between the number of friends who had taken DMT and the respon-
+dent’s own times used further supports this. The inﬂuence of peers
+in drug initiation and use is well characterised (Doherty et al., 2000;
+Andrews et al., 2002; Kandel et al., 1978) and this appears to be the
+case with DMT.
+An interest in hallucinogens and curiosity about the effects of
+DMT seemed to be the overarching reasons for initiation of use.
+Although it was not examined in the present study, it would be of
+beneﬁt to determine the drugs used preceding initiation of DMT
+use. Of particular relevance was the fact that many sought to con-
+sume DMT for psychospiritual beneﬁts. This is consistent with the
+ritualised use of ayahuasca by members of the UDV and Sainto
+Daime (McKenna, 2004; Shanon, 2002). In our unpublished quali-
+tative data, the belief in the psychotherapeutic or spiritual beneﬁts
+of the drug appears to be a recurrent factor inﬂuencing continued
+use of DMT.
+4.1.2. Smoked DMT. Smoking was the most common route of
+administration and had been employed by almost all respondents.
+Smoked DMT is frequently combined with cannabis or other hal-
+lucinogens. Anecdotally, DMT users sprinkle DMT over cannabis
+which is subsequently smoked through a bong (Turner, 1994).
+Of note is the concomitant use of plant-based MAO inhibitors
+such as B. caapi, which would presumably prolong the duration
+of smoked DMT by inhibiting its metabolism (McKenna, 2004). The
+co-administration of these plants may suggest a purposeful attempt
+to extend the duration of the experience. However, the motivations
+underpinning concomitant use of MAO inhibitors requires further
+investigation before any stringent conclusions can be drawn.
+4.1.3. Ayahuasca. Ayahuasca was less commonly used, having
+been consumed by 30.6% of the sample. As previously noted, DMT’s
+short duration when smoked was cited as a negative aspect of the
+drug, and it is possible that smokers who subsequently progress
+to ayahuasca use do so from a desire for a prolonged drug effect.
+It is also of note that ayahuasca users had smoked DMT on more
+occasions than those who had not. This may indicate that in a sub-
+set of DMT users, individuals who develop a predilection for the
+drug may then progress to ayahuasca use. This, however, remains
+entirely speculative.
+Aside from the necessary use of MAO inhibitors to make DMT
+orally active, users of ayahuasca generally do not mix it with other
+drugs. This is an important departure from smoked DMT. The use
+of MAO inhibitors in conjunction with other drugs interacting with
+monoamine neurotransmitters such as antidepressants may result
+in potentially fatal serotonin syndrome (Callaway and Grob, 1998).
+Owing to the intensity of the ayahuasca experience (Shanon, 2002),
+the absence of concomitant drug use among those consuming the
+preparation may reﬂect an aversion towards intensifying what may
+already be an overwhelming experience, or perhaps an unwill-
+ingness to risk dangerous drug interactions associated with MAO
+inhibitor use. Investigating users’ awareness of such risks may war-
+rant attention in future studies, as it is arguably the most pressing
+health-related risk associated with ayahuasca use.
+4.1.4. Positive and negative aspects. Regardless of the route of
+administration, respondents cited an increase in personal or spiri-
+tual insight as a positive aspect of their DMT use. This is consistent
+with reports of ayahuasca users in formal religious groups such as
+the UDV and Sainto Daime (Shanon, 2002; Grob et al., 1996). Natu-
+rally occurring hallucinogens such as ayahuasca have a long history
+of religious use, and the recent rise in neo-shamanism reﬂects a
+resurgence of Western interest in these compounds (Tupper, 2008,
+2009). For instance, psilocybin has been found to produce religious
+experience in healthy volunteers (Grifﬁths et al., 2006).
+
+
+V. Cakic et al. / Drug and Alcohol Dependence 111 (2010) 30–37
+35
+Of further interest is the antipodal attitude towards drug dura-
+tion. For both DMT smokers and ayahuasca users, the short and
+the long duration of each route respectively was perceived as both
+a good and bad aspect of the drug depending on the respondent.
+For example, while some were amenable to the short duration of
+smoked DMT, others considered this to be a shortcoming. Simi-
+lar considerations can be made of ayahuasca. The degree to which
+duration of effects inﬂuences patterns of DMT use requires further
+investigation, although ayahuasca users appeared to use this prepa-
+ration less frequently, possibly due to the nausea also associated
+with such use (Shanon, 2002).
+The most commonly cited negative aspect of both routes of
+administration was unique to the route of administration. Smoked
+DMT causes coughing and is oftentimes described as having a
+harsh, plastic-like taste (Turner, 1994), while ayahuasca commonly
+produces nausea and emesis after administration (Shanon, 2002).
+Among traditional users of ayahuasca, emesis or ‘la purga’ is said to
+be both cathartic and restorative. It remains entirely possible that
+this unpleasant experience of nausea may be a contributing fac-
+tor to the ‘cleansing’ aspects reported regarding ayahuasca usage
+in this sample. Psychospiritual conﬂict is a commonly cited neg-
+ative aspect of the DMT experience, regardless of the method of
+administration. This is discussed in greater detail below.
+4.1.5. Perceived dangers and risks. The majority of DMT users
+recruited for this study believed their use of DMT to be safe.
+Although previous studies examining supervised religious use of
+ayahuasca found associated harms to be negligible (e.g. Halpern et
+al., 2008), a level of concern may be directed at the ﬁnding that
+approximately half of the sample commonly consume DMT alone.
+This is despite general acknowledgement that consuming DMT in
+the company of others would minimise the risks of an adverse drug
+effect.
+Moreover, the safety proﬁle of illicit DMT remains unclear.
+While pure DMT and ayahuasca are well-tolerated (Strassman,
+2001; Gable, 2007) the majority of DMT available in Australia
+appears to be extracted from plant matter by individuals typically
+lacking any formal qualiﬁcation in organic chemistry (Tramacchi,
+2006). Aside from DMT, the presence of other psychoactive
+tryptamines such as 5-MeO-DMT in the relevant plant matter (Ott,
+1996) suggests that it is unlikely that DMT users consume the pure
+compound, but rather a mixture of DMT and related analogues
+(Tramacchi, 2006). This raises potentially serious questions as to
+the safety and purity of illicit DMT, a point widely acknowledged
+by the present sample. Other, more obvious physiological harms
+such as respiratory damage from smoking are acknowledged by
+users, although the extent to which such risks inﬂuence patterns of
+DMT use remains unclear.
+In addition to physical harm, the present sample perceived psy-
+chological trauma as a risk of DMT use. Hallucinogens in general
+have been reported as potential catalysts of rapid and profound
+changes in psychological or spiritual outlook (Grof, 2008; Hofmann,
+2005), and although such changes may be beneﬁcial for some users,
+in others they may produce considerable distress. When used in
+an unsupportive environment the likelihood of negative psycho-
+logical impacts from many hallucinogens increases, an observation
+readily noted in the present sample. The perceived risks from DMT
+are predominantly psychological in nature, from the frightening
+experience of acute intoxication – a ‘bad trip’ – to psychospiritual
+disturbances that may accompany and outlast the primary drug
+effects. Although we did not explicitly examine the frequency with
+which this occurred in the sample, this is an important question for
+future research.
+The need to remain informed about the risks inherent in DMT
+use was the most frequently cited harm minimisation strategy.
+Common responses about harm minimisation also centred around
+using DMT in an appropriate “set and setting” – the physical and
+social environment in which a drug is consumed as well as the
+subject’s emotional state, intentions, expectancies and beliefs con-
+cerning the use of a psychoactive substance (Faillace and Szára,
+1968). The practise of this would also minimise the possibility of
+falls or burns that may occur due to DMT intoxication. The addi-
+tion of a ‘sitter’, or another individual who may render assistance
+if required, was also stated as a factor in using the drug safely.
+4.2. Pattern of other drug use
+In this sample DMT is part of an extensive pattern of drug use
+involving a diverse class of drugs. In addition to substances such
+as alcohol, cannabis, psychostimulants, depressants and narcotics,
+the use of a wide array of otherwise obscure drugs was reported.
+These drugs included plant-based psychoactives as well as novel
+tryptamine and phenethylamine-based hallucinogens described
+by Shulgin and Shulgin (1991, 1997). Although multiple drug use
+is commonplace among drug users (Wilkinson et al., 1987), the
+degree to which this was observed in the present sample is excep-
+tional. For example, in his study of 135 Scottish MDMA users,
+Forsyth (1996) found that 51 discrete drugs had been used by
+respondents; in the present study, nearly double that number (92)
+was reported. Moreover, while Forsyth found the mean number
+of discrete drugs used to be 10.7, in this sample this was 17.3.
+Although there appears a need to raise concern within our sam-
+ple, this level of concern is perhaps best directed at the history
+of drug use, rather than with DMT use per se. For example, the
+use of cannabis seems ubiquitous, and approximately a quarter
+of the sample may be cannabis dependent. In addition, over one-
+quarter of the sample reported lifetime use of intravenous drugs.
+Thus, although hallucinogens appeared to be favoured by the sam-
+ple, to describe the sample primarily as DMT or hallucinogen users
+would be inaccurate. Future studies would beneﬁt from determin-
+ing the degree to which users favour DMT relative to other drugs
+they consume.
+5. Conclusions
+This sample of recreational DMT users was recruited primar-
+ily by snowball sampling. Snowballing has the advantage of using
+social networks to gain access to ‘hidden’ populations such as illicit
+drug users (Thompson and Collins, 2002; Biernacki and Waldorf,
+1981). This is particularly advantageous given that DMT remains an
+infrequently used drug in most Western countries including Aus-
+tralia, and it is doubtful that such a large sample could be obtained
+without doing so. However, the very beneﬁts of snowball sampling
+may lead to potential problems in sample biasing. For instance, the
+majority of respondents in the sample were male and it remains
+unclear whether the data are a true representation of Australian
+DMT users in general, or a bias in the sample.
+It is also necessary to note that aside from containing DMT,
+plant extractions of DMT are likely to comprise other psychoac-
+tive tryptamines such as 5-MeO-DMT and bufotenin (Ott, 1996).
+Thus, to consider this to be a study of DMT use exclusively is akin
+to presuming that ecstasy use constitutes the use of unadulterated
+MDMA. In the absence of forensic data of seized DMT, the exact
+purity and chemical constituents of material purported to be DMT
+remains unknown.
+Despite evidence that the use of DMT in Australia and other
+Western countries is gaining in popularity (e.g. Grigoriadis, 2006;
+Cox, 2009; Greenhouse, 2006), it is prudent to note that DMT
+presently remains an uncommon drug. There are several reasons
+for this. First, as is generally the case with other hallucinogens, DMT
+is neither physically nor psychologically addictive (Callaway et al.,
+
+
+36
+V. Cakic et al. / Drug and Alcohol Dependence 111 (2010) 30–37
+1999; Strassman, 2001). Moreover, many are drawn to DMT out
+of curiosity, yet the very effects to which users are attracted are
+also likely to moderate its frequency of use. Its intense and unpre-
+dictable effects, and individual susceptibility to having a frightening
+experience or bad trip (Strassman, 2001) are likely to dissuade
+many recreational users from consuming it on more than one occa-
+sion.
+Although largely exploratory, this study offers a framework
+within which to approach future studies of recreational DMT use.
+First, it demonstrates that smoking is the most common route
+of administration for recreational users, whereas studies previ-
+ous to this have predominantly investigated ayahuasca use (e.g.
+Grob et al., 1996; Shanon, 2002; Trichter et al., 2009). Although
+recruiting DMT users through formal religions such as the UDV
+and Sainto Daime offers a readily accessible sample of DMT users,
+future studies may beneﬁt from examining DMT use beyond these
+institutions. Even beyond these churches, ‘recreational’ DMT use
+appears to reﬂect an earnest attempt at gaining psychospiritual
+insight through means of altered states of consciousness. Future
+studies should seek to examine the psychological characteristics of
+recreational DMT users, their attitudes and motivations, and actual
+beneﬁts and harms, if any, associated with DMT use.
+Role of funding source
+Nothing declared.
+Contributors
+V.C. and J.P. developed the questionnaire and recruited par-
+ticipants. A.M. conducted data analysis and literature review.
+V.C. wrote the ﬁrst draft of the manuscript, and J.P. and A.M.
+subsequently edited and ﬁnalised drafts. All authors contributed
+to and have approved the ﬁnal manuscript.
+Conﬂict of interest
+No conﬂict declared.
+Acknowledgements
+Many thanks to Vince Polito and Monica Barratt for offering
+suggestions on earlier drafts.
+References
+Andrews, J.A., Tildesley, E., Hops, H., Li, F., 2002. The inﬂuence of peers on young
+adult substance use. Health Psychol. 21, 349–357.
+Barker, S.A., Monti, J.A., Christian, S.T., 1981. N,N-dimethyltryptamine: an endoge-
+nous hallucinogen. Int. Rev. Neurobiol. 22, 83–110.
+Biernacki, P., Waldorf, D., 1981. Snowball sampling: problems and techniques of
+chain referral sampling. Sociol. Methods Res. 10, 141–163.
+Boyer, E.W., Shannon, M., Hibberd, P.L., 2005. The Internet and psychoactive sub-
+stance use among innovative drug users. Pediatrics 115, 302–305.
+Bullis, R.K., 2008. The “vine of the soul” vs. the Controlled Substances Act: implica-
+tions of the Hoasca case. J. Pschoactive Drugs 40, 193–199.
+Bunzow, J.R., Sonders, M.S., Arttmangkul, S., Harrison, L.M., Zhang, G., Quigley,
+D.I.,
+Darland,
+T.,
+Suchland,
+K.L.,
+Pasumamula,
+S.,
+Kennedy,
+J.L.,
+Olson,
+S.B., Magenis, R.E., Amara, S.G., Grandy, D.K., 2001. Amphetamine, 3,4-
+methylenedioxymethamphetamine, lysergic acid diethylamide, and metabo-
+lites of the catecholamine neurotransmitters are agonists of a rat trace amine
+receptor. Mol. Pharmacol. 60, 1181–1188.
+Callaway, J.C., Grob, C.S., 1998. Ayahuasca preparations and serotonin reuptake
+inhibitors: a potential combination for severe adverse interactions. J. Psychoac-
+tive Drugs 30, 367–369.
+Callaway, J.C., McKenna, D.J., Grob, C.S., Brito, G.S., Raymon, L.P., Poland, R.E.,
+Andrade, E.N., Andrade, E.O., Mash, D.C., 1999. Pharmacokinetics of Hoasca alka-
+loids in healthy humans. J. Ethnopharmacol. 65, 243–256.
+Cox, N., 2009. Police seize killer new drug. http://www.theaustralian.news.
+com.au/story/0,24751058-5006789,00.html (accessed 12.02.10).
+Da Silveira, D.X., Grob, C.S., Dobkin de Rios, M., Lopez, E., Alonson, L.K., Tacla, C.,
+Doering-Silveira, E., 2005. Ayahuasca in adolescence: a preliminary psychiatric
+assessment. J. Psychoactive Drugs 37, 129–133.
+Dalgarno, P., 2008. Buying ayahuasca and other entheogens online: a word of cau-
+tion. Addict. Res. Theory 16, 1–4.
+De Conceicao, P., 2009. The DMT molecule: A tryst with spirits, elves and
+aliens.
+http://www.examiner.com/x-17195-LA-Esoteric-History-Examiner∼
+y2009m8d6-The-DMT-molecule-A-tryst-with-spirits-elves-and-aliens
+(accessed 15.05.10).
+Dobkin de Rios, M., 1972. Visionary Vine: Hallucinogenic Healing in the Peruvian
+Amazon. Chandler Publishing, San Francisco.
+Doering-Silveira, E., Grob, C.S., Dobkin de Rios, M., Lopez, E., Alonso, L.K., Tacla, C., Da
+Silveira, D.X., 2005a. Report on psychoactive drug use among adolescents using
+ayahuasca within a religious context. J. Psychoactive Drugs 37, 141–144.
+Doering-Silveira, E., Lopez, E., Grob, C.S., Dobkin de Rios, M., Alonson, L.K., Tacla, C.,
+Shirakawa, I., Bertolucci, P.H., Da Silveira, D.X., 2005b. Ayahuasca in adolescence:
+a neuropsychological assessment. J. Psychoactive Drugs 37, 123–128.
+Doherty, M.C., Garfein, R.S., Monterroso, E., Latkin, C., Vlahov, D., 2000. Gender dif-
+ferences in the initiation of injection drug use among young adults. J. Urban
+Health 77, 396–414.
+Faillace, L.A., Szára, S., 1968. Hallucinogenic drugs: inﬂuence of mental set and set-
+ting. Dis. Nerv. Syst. 29, 124–126.
+Fitzgerald, J.S., Sioumis, A.A., 1965. Alkaloids of the Australian Leguminosae: V. The
+occurrence of methylated tryptamines in Acacia maidenii. Aust. J. Chem. 18,
+433–434.
+Fontanilla, D., Johannessen, M., Hajipour, A.R., Cozzi, N.V., Jackson, M.B., Ruoho,
+A.E., 2009. The hallucinogen N,N-dimethyltryptamine (DMT) is an endogenous
+sigma-1 receptor regulator. Science 323, 934–937.
+Forsyth, A.J.M., 1996. Places and patterns of drug use in the Scottish dance scene.
+Addiction 91, 511–521.
+Gable, R.S., 2007. Risk assessment of ritual use of oral dimethyltryptamine (DMT)
+and harmala alkaloids. Addiction 102, 24–34.
+Gonzalez, D., Riba, J., Bouso, J.C., Gomez-Jarabo, G., Barbanoj, M.J., 2006. Pattern of
+use and subjective effects of Salvia divinorum among recreational users. Drug
+Alcohol Depend. 85, 157–162.
+Greenhouse,
+L.,
+2006.
+Sect
+allowed
+to
+import
+its
+hallucinogenic
+tea.
+http://www.nytimes.com/2006/02/22/politics/22scotus.html
+(accessed
+15.05.10).
+Grifﬁths, R.R., Richards, W.A., Johnson, M.W., McCann, U.D., Jesse, R., 2008. Mystical-
+type experiences occasioned by psilocybin mediate the attribution of personal
+meaning and spiritual signiﬁcance 14 months later. J. Psychopharmacol. 22,
+621–632.
+Grifﬁths, R.R., Richards, W.A., McCann, U., Jesse, R., 2006. Psilocybin can occasion
+mystical-type experiences having substantial and sustained personal meaning
+and spiritual signiﬁcance. Psychopharmacology 187, 268–283.
+Grigoriadis, V., 2006. Daniel Pinchbeck and the new psychedelic elite. http://
+www.rollingstone.com/politics/story/11217201/daniel pinchbeck and the
+new psychedelic elite (accessed 12.02.10).
+Grob, C.S., McKenna, D.J., Callaway, J.C., Brito, G.S., Neves, E.S., Oberlaender, G.,
+Saide, O.L., Labigalini, E., Tacla, C., Miranda, C.T., Strassman, R.J., Boone, K.B.,
+1996. Human psychopharmacology of hoasca, a plant hallucinogen used in ritual
+context in Brazil. J. Nerv. Ment. Dis. 184, 86–94.
+Grof, S., 2008. LSD Psychotherapy. MAPS, Ben Lonmond.
+Halpern, J.H., Pope, H.G., 2001. Hallucinogens on the internet: a vast new source of
+underground drug information. Am. J. Psychiatry 158, 481–483.
+Halpern, J.H., Sherwood, A.R., Passie, T., Blackwell, K.C., Ruttenber, A.J., 2008. Evi-
+dence of health and safety in American members of a religion who use a
+hallucinogenic sacrament. Med. Sci. Monit. 14, S15–S22.
+Hofmann, A., 2005. LSD: My Problem Child. MAPS, Sarasota, FL.
+Kandel, D.B., Kessler, R.C., Margulies, R.Z., 1978. Antecedents of adolescent initi-
+ation into stages of drug use: a developmental analysis. J. Youth Adolesc. 7,
+13–40.
+Lange, J.E., Reed, M.B., Croff, J.M.K., Clapp, J.D., 2008. College student use of Salvia
+divinorum. Drug Alcohol Depend. 94, 263–266.
+Luckman, S., 2003. Going bush and ﬁnding one’s ‘tribe’: raving, escape and the bush
+doof. Continuum: J. Media Cult. Stud. 17, 315–330.
+MacRae, E., 1998. Santo Daime and Santa Maria—the licit ritual use of ayahuasca and
+the illicit use of cannabis in a Brazilian Amazonian religion. Int. J. Drug Policy 9,
+325–338.
+McKenna, D.J., 2004. Clinical investigations of the therapeutic potential of
+ayahuasca:
+rationale
+and
+regulatory
+challenges.
+Pharmacol.
+Ther.
+102,
+111–129.
+McKenna, D.J., 2006. Ayahuasca: an ethnopharmacologic history. In: Metzner, R.
+(Ed.), Sacred Vine of Spirits: Ayahuasca. Park Street Press, Rochester, Vermont.
+Otis, J., 2009. Down the Amazon in search of ayahuasca. http://www.time.com/
+time/world/article/0,8599,1889631,00.html (accessed 15.05.10).
+Ott, J., 1996. Pharmacoetheon: Entheogenic Drugs, Their Plant Sources and History.
+Natural Products Co., Kennewick, WA.
+
+
+V. Cakic et al. / Drug and Alcohol Dependence 111 (2010) 30–37
+37
+Pomilio, A.B., Vitale, A.A., Ciprian-Ollivier, J., Cetkovich-Bakmas, M., Gómez, R.,
+Vazquez, G., 1999. Ayahoasca: an experimental psychosis that mirrors the trans-
+methylation hypothesis of schizophrenia. J. Ethnopharmacol. 65, 29–51.
+Room, R., 2005. Stigma, social inequality and alcohol and drug use. Drug Alcohol
+Rev. 24, 143–155.
+Rothlin, E., 1957. Pharmacology of lysergic acid diethylamide (LSD) and some of
+its related compounds. In: Garattini, S., Ghetti, V. (Eds.), Psychotropic Drugs.
+Elsevier, New York, pp. 36–47.
+Rouvelli, B., Vaughan, G.N., 1967. Alkaloids of Acacia I. Nb–Nb-dimethyltryptamine
+in Acacia phlebophylla. Aust. J. Chem. 20, 1299–1300.
+Shanon, B., 2002. The Antipodes of the Mind: Charting the Phenomenology of the
+Ayahuasca Experience. Oxford University Press, New York.
+Shulgin, A., Shulgin, A., 1991. Phenethylamines and I have Known and Loved: A
+Chemical Love Story. Transform Press, Berkley, CA.
+Shulgin, A., Shulgin, A., 1997. Tryptamines I have Known and Loved: The Continua-
+tion. Transform Press, Berkley, CA.
+Smith, R.L., Canton, H., Barrett, R.J., Sanders-Bush, E., 1998. Agonst properties of
+N,N-dimethyltryptamine at serotonin 5-HT2A and 5-HT2C receptors. Pharmacol.
+Biochem. Behav. 61, 323–330.
+Strassman, R.J., 2001. DMT: The Spirit Molecule. Park Street Press, Rochester, Ver-
+mont.
+Swift, W., Copeland, J., Hall, W., 1998. Choosing a diagnostic cut-off for cannabis
+dependence. Addiction 93, 1681–1692.
+Szára, S., 1956. Dimethyltryptamin: its metabolism in man; the relation of its psy-
+chotic effect to the serotonin metabolism. Cell. Mol. Life Sci. 12, 441–442.
+Thompson, S.K., Collins, L.M., 2002. Adaptive sampling in research on risk-related
+behaviors. Drug Alcohol Depend. 68, S57–67.
+Tramacchi, D., 2000. Field tripping: psychedelic communitas and ritual in the Aus-
+tralian bush. J. Contemp Rel. 15, 201–213.
+Tramacchi, D., 2006. Vapours and visions: Religious dimensions of DMT use. School
+of History, Philosophy, Religion and Classics. University of Queensland, Brisbane.
+Trichter, S., Klimo, J., Krippner, S., 2009. Changes in spirituality among ayahuasca
+ceremony novice participants. J. Psychoactive Drugs 41, 121–134.
+Tupper, K.W., 2009. Ayahuasca healing beyond the Amazon: the globalization of a
+traditional indigenous entheogenic practice. Global Netw. 9, 117–136.
+Tupper, K.W., 2008. The globalization of ayahuasca: harm reduction or beneﬁt max-
+imisation? Int. J. Drug Policy 19, 297–303.
+Turner, D.M., 1994. The Essential Psychedelic Handbook. Panther Press, San Fran-
+cisco.
+Wilkinson, D.A., Leigh, G.M., Cordingley, J., Martin, G.W., Lei, H., 1987. Dimen-
+sions of multuple drug use and a typology of drug users. Br. J. Addict. 82,
+259–273.

@@ -1,0 +1,58 @@
+{
+  "data": {
+    "article": {
+      "StudyID": "Wong 2014",
+      "Citation": "Wong A, et al. Evaluation of Adjunctive Ketamine to Benzodiazepines for Management of Alcohol Withdrawal Syndrome. Annals of Pharmacotherapy. 2014.",
+      "Title": "Evaluation of Adjunctive Ketamine to Benzodiazepines for Management of Alcohol Withdrawal Syndrome",
+      "Year": 2014,
+      "Corpus/Prefix": ".",
+      "Condition": "Alcohol",
+      "Substance": "Ketamine",
+      "IsObservational": "Y",
+      "N": 23,
+      "AE_denominator": 23,
+      "ArmScope": "psychedelic_arm",
+      "PctFemale": 39.1,
+      "GenderCategory": "male/female only reported (14/23 male, 60.9%); remainder (9/23, 39.1%) inferred female, no other categories reported",
+      "PctBIPOC": 13.0,
+      "PctIndigenous": ".",
+      "SafetyReported": "Y",
+      "AnyAEReported": "Y",
+      "NumDistinctAEs": 1,
+      "NParticipantsWithAE": 1,
+      "WorstSeverity": "Moderate",
+      "text_source": "born-digital",
+      "Model": "claude-sonnet-5",
+      "PromptVersion": "ae_extraction_prompt_v1",
+      "RubricVersion": "severity_rubric_v1",
+      "Temperature": 1
+    },
+    "ae_events": [
+      {
+        "AE_ID": "Wong 2014_AE01",
+        "StudyID": "Wong 2014",
+        "AE_type": "AE",
+        "Description": "Oversedation from ketamine infusion requiring dose reduction/adjustment",
+        "Onset": "unknown",
+        "Severity": "Moderate",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "rubric",
+        "InterventionRequired": "Y",
+        "MeetsFDASerious": "N"
+      }
+    ]
+  },
+  "rationale": {
+    "article": {
+      "IsObservational": "Retrospective cohort study: patients identified via pharmacy charges for ketamine infusions and a manual chart review (EHR); ketamine was administered per physician discretion as real-world clinical care for AWS ('not part of our institution's protocol'), not per randomized or fixed experimental protocol. No control/comparator arm, no randomization -> observational.",
+      "ArmScope": "Single-arm retrospective cohort; all 23 patients received ketamine (the entire study population is psychedelic/dissociative-exposed) with no non-exposed comparator group reported, so ArmScope = psychedelic_arm rather than pooled.",
+      "PctFemale": "Article reports only 'Male, n (%): 14 (60.9%)' of N=23; female % derived as 100 - 60.9 = 39.1 (9/23), not stated directly by authors.",
+      "PctBIPOC": "Article reports only 'Caucasian, n (%): 20 (87.0%)'; non-Caucasian (BIPOC proxy) derived as 100 - 87.0 = 13.0% (3/23). No breakdown of which specific non-white groups, so cannot separately determine PctIndigenous.",
+      "AE_denominator": "Adverse event/safety data collection ('documented adverse effects') was drawn from the medical records of the full ketamine-treated cohort; article does not state a narrower safety-assessment population, so AE_denominator is assumed equal to N=23.",
+      "NParticipantsWithAE": "Article states 'Only 1 documented adverse event occurred from ketamine therapy, which was oversedation requiring dose adjustment' and elsewhere 'one documented adverse reaction of oversedation, requiring dose reduction.' It does not explicitly state this event occurred in exactly one distinct patient (as opposed to being phrased purely as an event count), but since only a single event is described with no indication of multiple affected patients, NParticipantsWithAE is inferred as 1."
+    },
+    "ae_events": {
+      "Wong 2014_AE01": "Onset coded 'unknown' because ketamine was delivered as a continuous infusion (median ~56 hours duration) rather than a discrete psychedelic-therapy 'session,' and the article does not specify when during the infusion course the oversedation occurred. Severity graded Moderate (not Mild) because the event required an active intervention (ketamine dose reduction/adjustment) per the rubric's operational definition, but does not meet any FDA seriousness criterion (patient was already ICU-admitted for AWS management, not hospitalized/escalated because of this event; no death, life-threatening state, or persistent disability reported) -- so MeetsFDASerious = N and Severity stays Moderate rather than Severe. SeverityIndeterminate = N because the 'dose reduction required' detail is a sufficient intervention signal to grade confidently."
+    }
+  }
+}

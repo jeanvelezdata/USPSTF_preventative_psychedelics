@@ -1,0 +1,1236 @@
+Classic hallucinogens in the treatment of addictions
+Michael P. Bogenschutz a,⁎, Matthew W. Johnson b
+a Department of Psychiatry and Behavioral Sciences, University of New Mexico Health Sciences Center, MSC11 6035, 1 University of New Mexico, Albuquerque, NM 87131-0001, USA
+b Department of Psychiatry and Behavioral Sciences, Johns Hopkins University, School of Medicine, 5510 Nathan Shock Drive, Baltimore, MD, USA
+a b s t r a c t
+a r t i c l e
+i n f o
+Available online xxxx
+Keywords:
+Addiction
+Hallucinogen
+LSD
+Psilocybin
+Substance use disorder
+Treatment
+Addictive disorders are very common and have devastating individual and social consequences. Currently avail-
+able treatment is moderately effective at best. After many years of neglect, there is renewed interest in potential
+clinical uses for classic hallucinogens in the treatment of addictions and other behavioral health conditions. In this
+paper we provide a comprehensive review of both historical and recent clinical research on the use of classic hal-
+lucinogens in the treatment of addiction, selectively review other relevant research concerning hallucinogens,
+and suggest directions for future research. Clinical trial data are very limited except for the use of LSD in the
+treatment of alcoholism, where a meta-analysis of controlled trials has demonstrated a consistent and clinically
+signiﬁcant beneﬁcial effect of high-dose LSD. Recent pilot studies of psilocybin-assisted treatment of nicotine and
+alcohol dependence had strikingly positive outcomes, but controlled trials will be necessary to evaluate the efﬁ-
+cacy of these treatments. Although plausible biological mechanisms have been proposed, currently the strongest
+evidence is for the role of mystical or other meaningful experiences as mediators of therapeutic effects. Classic
+hallucinogens have an excellent record of safety in the context of clinical research. Given our limited understand-
+ing of the clinically relevant effects of classic hallucinogens, there is a wealth of opportunities for research that
+could contribute important new knowledge and potentially lead to valuable new treatments for addiction.
+© 2015 Elsevier Inc. All rights reserved.
+1. Introduction
+The purpose of this paper is to provide a review and discussion of the
+scientiﬁc literature pertaining to the use of classic hallucinogens in the
+treatment of addiction. After highlighting the urgent need for new treat-
+ments for addiction, we provide background on the history of research
+on hallucinogens, a brief review of the biological and psychological
+effects of classic hallucinogens, and a description of the speciﬁc classic
+hallucinogens that have been studied in relation to addiction treatment.
+We then provide a comprehensive review of both historical and recent
+clinical research on the use of classic hallucinogens in the treatment of
+addiction, selectively review existing research on possible therapeutic
+mechanisms of action concerning hallucinogens, and suggest directions
+for future research on the use of classic hallucinogens in the treatment
+of addiction.
+2. Background
+2.1. The public health impact of addictions
+Addictive disorders are very common, with lifetime prevalence rates
+in the US population estimated at 25% for nicotine use disorder (Hughes
+et al., 2006), 12% for alcohol use disorder (Hasin et al., 2007), and 10.3%
+for illicit drug use disorder (Compton et al., 2007). Addiction to alcohol,
+tobacco, and other drugs is the leading preventable cause of death and
+disability in the United States and globally (Rehm et al., 2006). Tobacco
+smoking alone causes 5 million deaths annually, including nearly a half
+million in the United States (US Department of Health and Human
+Services, 2014; World Health Organization, 2011). Alcohol use disorders
+are among the most disabling of all diseases worldwide, and account for
+12.1% of disability-adjusted life-years in men, and 4.6% in women in the
+US (Rehm et al., 2009). The economic costs of substance use disorders
+are enormous, over half a trillion dollars per year in the US alone, includ-
+ing factors such as health care costs, lost productivity, crime, incarcera-
+tion, and law enforcement (Volkow and Li, 2005).
+2.2. Limitations of current treatments for addictions
+A number of pharmacological and behavioral treatments have been
+developed that target speciﬁc aspects of addiction including motivation,
+coping skills, social support, reward, physical dependence and allostasis,
+the stress response, and relapse due to exposure to conditioned cues or
+Progress in Neuro-Psychopharmacology & Biological Psychiatry xxx (2015) xxx–xxx
+Abbreviations:5HT,5-hydroxytryptamine(=serotonin);ASI,AddictionSeverityIndex;
+BDNF, brain-derived neurotrophic factor; BOLD, blood oxygen level-dependent; DMT, di-
+methyltryptamine; DOI, 2,5-dimethoxy-4-iodoamphetamine; DOM, 2,5-dimethoxy-4-
+methylamphetamine; DPT, N-N-dipropyltryptamine; FDA, Food and Drug Administration;
+GDNF, glial cell line-derived neurotrophic factor; LSD, lysergic acid diethylamide; mRNA,
+messengerribonucleicacid;NAC,NativeAmericanChurch;PTSD,post-traumaticstressdis-
+order; VTA, ventral tegmental area
+⁎ Corresponding author. Tel.: +1 505 272 8428; fax: +1 505 272 5572.
+E-mail addresses: mbogenschutz@salud.unm.edu (M.P. Bogenschutz), mwj@jhu.edu
+(M.W. Johnson).
+PNP-08743; No of Pages 9
+http://dx.doi.org/10.1016/j.pnpbp.2015.03.002
+0278-5846/© 2015 Elsevier Inc. All rights reserved.
+Contents lists available at ScienceDirect
+Progress in Neuro-Psychopharmacology & Biological
+Psychiatry
+journal homepage: www.elsevier.com/locate/pnp
+Please cite this article as: Bogenschutz MP, Johnson MW, Classic hallucinogens in the treatment of addictions, Prog Neuro-Psychopharmacol Biol
+Psychiatry (2015), http://dx.doi.org/10.1016/j.pnpbp.2015.03.002
+
+
+to priming doses of the drug. However, the effects of most currently
+available treatments remain disappointingly small (Berglund, 2005).
+Despite the observation that 69% of United States smokers want to
+quit smoking completely (Centers, for Disease Control and Prevention,
+2011),with approved medications less than 35% of participants remain
+smoke-free 6 months after quitting (Cahill et al., 2014). For alcohol,
+the most effective FDA-approved pharmacotherapies have small to
+moderate effect sizes, with approximately one person achieving absti-
+nence or avoiding relapse for every 9 people treated (Rosner et al.,
+2010a; Rosner et al., 2010b).
+2.3. Historical background
+Classic hallucinogens have been used by humans for over 5000 years
+(El-Seedi et al., 2005), but scientiﬁc interest in hallucinogens dates to
+the late 1800s, when mescaline was isolated and its effects were
+described by Arthur Heffter (Heffter, 1896; Heffter, 1898). Following
+Albert Hoffman's accidental discovery of the psychoactive effects of
+LSD in 1943 (Hofmann, 1979) and isolation and synthesis of psilocybin
+in 1958 (Hofmann et al., 1958a; Hofmann et al., 1958b), the 1950s
+through the early 1970s saw an explosion or research on classic halluci-
+nogens. Clinicians and clinical scientists explored the use of classic hal-
+lucinogens to facilitate rapid therapeutic effects in alcohol and drug
+addiction, as well as anxiety, depression, obsessive–compulsive disor-
+der, and other conditions. LSD, psilocybin, and other hallucinogens
+were legally available for clinical use as an experimental treatment
+until the mid to late 1960s. Over a thousand papers document the treat-
+ment of over 40,000 people with classic hallucinogens during this peri-
+od (Grinspoon and Balakar, 1997). Psycholytic and psychedelic therapy
+models of the 1950s through early 1970s both used hallucinogen-
+assisted treatment to achieve lasting personality change, behavior
+change, and symptom relief, although they emphasized different
+processes in bringing about therapeutic effects(Grinspoon and Balakar,
+1997; Grof, 2008). The psycholytic method used low to moderate
+doses of hallucinogens, administered on multiple occasions, to facilitate
+therapy that was based on traditional psychoanalytic principles
+(Buckman, 1967; Leuner, 1967). The psychedelic method, rather than
+emphasizing resolution of childhood conﬂicts or traumatic experiences,
+used higher doses of hallucinogens, administered on one or a few
+occasions, with the goal of inducing a “psychedelic,” “mystical,” or
+“peak” experience, which, it was held, often induced lasting change in
+habitual patterns of thought, emotional response, and behavior
+(Hoffer, 1967; Sherwood et al., 1962). The primary focus of research
+on the use of hallucinogenic substances in the treatment of addiction
+was the use of the prototypical classic hallucinogen LSD in the treatment
+of alcoholism. Treatment of alcoholism with LSD using the psychedelic
+model was an accepted clinical treatment in Saskatchewan, and was
+subject of numerous studies (summarized below). In reaction to the cul-
+tural upheaval and concern about increasing misuse of psychedelics in
+the mid and late 1960s, clinical research on hallucinogens came to halt
+in the early 1970s, after enactment of the Controlled Substances Act
+placed all such compounds into the highly restrictive Schedule I class.
+Although there were no further addiction treatment trials with clas-
+sic hallucinogens for over 30 years, the past decade has witnessed
+renewed interest in this area. Early-stage clinical trials of psilocybin
+for nicotine dependence (Johnson et al., 2014) and alcohol dependence
+(Bogenschutz et al., 2015) have recently been completed, and further
+trials are currently under way. Observational studies have suggested
+that sacramental use of plant materials containing classic hallucinogens
+(peyote, containing mescaline, or ayahuasca, containing DMT) suggests
+that these practices are associated with decreased disordered use of
+substances and few if any detrimental effects (Albaugh and Anderson,
+1974b; Barbosa et al., 2012; Doering-Silveira et al., 2005; Fabregas
+et al., 2010; Garrity, 2000; Halpern et al., 2005; Halpern et al., 2008;
+Kunitz and Levy, 1994; Lu et al., 2009; Roy, 1973). Ayahuasca and
+ibogaine are being used to treat addictions in many retreat centers
+and treatment programs in Latin America and the Caribbean, but efﬁca-
+cy studies have not been done. The relative safety of classic hallucino-
+gens (particularly psilocybin and LSD) in clinical research settings has
+been thoroughly documented. Promising research on anti-addictive
+effects of the non-classic hallucinogens also suggest that therapeutic
+use of classic hallucinogens in the treatment of addiction deserves an-
+other look.
+2.4. Neuropsychopharmacology of classic hallucinogens
+2.4.1. Deﬁnition of classic hallucinogens
+The research on classic hallucinogens is voluminous, and has been
+reviewed
+comprehensively
+by
+leading
+scientists
+in
+the
+ﬁeld
+(Halberstadt, 2015; Nichols, 2004). Here we will brieﬂy summarize
+some of the key features and actions of classic hallucinogens that are
+relevant to their potential application in the treatment of addiction. De-
+spite the implications of the term “hallucinogen,” these compounds
+rarely occasion frank hallucinations. Nomenclature is difﬁcult because
+their clinical effects are unusual. The following is one reasonable deﬁni-
+tion of hallucinogens based on these effects: “A drug which, without
+causing physical addiction, craving, major physiological disturbances,
+delirium, disorientation, or amnesia, more or less reliably produces
+thought, mood, and perceptual changes otherwise rarely experienced
+except in dreams, contemplative and religious exaltation, ﬂashes of
+vivid involuntary memory, and acute psychosis” (Grinspoon and
+Balakar, 1997). Classic hallucinogens share the additional characteristics
+that they are thought to exert their primary effects primarily through
+agonist or partial agonist activity at serotonin 2A (5HT2A) receptors,
+and that they substitute for the prototypical classic hallucinogen 2,5-
+dimethoxy-4-methylamphetamine (DOM) in drug discrimination ex-
+periments (Halberstadt, 2015). There are two main structural classes
+of classic hallucinogens: indoleamines and phenylalkylamines. The
+indoleamines include indolealkylamines such as dimethyltryptamine
+(DMT), psilocin (4-hydroxy-DMT), psilocybin (4-phosphoryloxy-
+DMT), and N-N-dipropyltryptamine (DPT), and the structurally more
+complex ergolines, of which lysergic acid diethylamide (LSD) is the
+most well-known. The phenylalkylamines include mescaline and a
+large number of synthetic hallucinogens including substituted amphet-
+amines such as DOM and 2,5-dimethoxy-4-iodoamphetamine (DOI).
+2.4.2. Basic biological mechanisms of classic hallucinogens
+Classic hallucinogens bind to many serotonin receptor subtypes and
+other receptor types, and binding proﬁles vary considerably among the
+classic hallucinogens (Ray, 2010). However, the effects of all classic
+hallucinogens appear to depend primarily on their actions at 5HT2A re-
+ceptors (Glennon et al., 1984; Halberstadt, 2015; Nichols, 2004;
+Vollenweider and Kometer, 2010). The 5HT2A antagonist ketanserin
+blocks most of the subjective effects of psilocybin in humans, supporting
+the primacy of this receptor in mediating its clinically relevant effects
+(Glennon et al., 1984; Vollenweider et al., 1998). 5HT2A receptor activa-
+tion is coupled to several intracellular signaling pathways (reviewed in
+Halberstadt, 2015). Gq-mediated signaling activates the inositol triphos-
+phate–diacylglycerol pathway leading to activation of protein kinase C.
+Behavioral effects of DOI are attenuated in Gq knockout mice (Garcia
+et al., 2007). Signaling through Gi/o, leading to activation of Src and
+expression of the immediate early genes egr-1 and egr-2, may be neces-
+sary to produce hallucinogenic effects. This pathway is activated by LSD
+but not by lisuride, a non-hallucinogenic ergoline and 5HT2A agonist
+structurally similar to LSD (Gonzalez-Maeso et al., 2007). The metabo-
+tropic glutamate mGlu2 receptor, which forms complexes with 5HT2A
+receptors, is necessary for the pharmacological and behavioral effects
+of hallucinogenic 5-HT2A agonists (Gonzalez-Maeso et al., 2008;
+Moreno et al., 2011). 5HT2A agonists activate sub-populations of pyra-
+midal cells in cerebral cortex by enhancing glutamatergic neurotrans-
+mission within intracortical networks, particularly those involving
+2
+M.P. Bogenschutz, M.W. Johnson / Progress in Neuro-Psychopharmacology & Biological Psychiatry xxx (2015) xxx–xxx
+Please cite this article as: Bogenschutz MP, Johnson MW, Classic hallucinogens in the treatment of addictions, Prog Neuro-Psychopharmacol Biol
+Psychiatry (2015), http://dx.doi.org/10.1016/j.pnpbp.2015.03.002
+
+
+cortical layer V (Aghajanian and Marek, 1999; Beique et al., 2007; Puig
+et al., 2003; Zhang and Marek, 2008).
+2.4.3. Acute effects of classic hallucinogens
+The effects of all of the classic hallucinogens are similar, differing
+principally in duration and intensity, which in turn depend on the par-
+ticular substance, the dose, and the route of administration (Nichols,
+2004). Signiﬁcant physiological toxicity is not seen in the doses of LSD,
+psilocybin, mescaline, DPT, or DMT that are typically used. Somatic ef-
+fects may include chills, tremor, unsteadiness, nausea with or without
+vomiting, anorexia, xerostomia, paresthesias, and blurred vision. Pulse
+and blood pressure are often mildly to moderately elevated. Sensory ef-
+fects include alteration in perception of shape, size, and color, and
+the illusion of movement. Vivid imagery is often perceived with
+eyes closed, ranging from elementary geometric or fractal patterns
+to vivid representational images of all kinds. Other sense modalities
+may be altered as well, and synesthesia can occur. The sense of time
+may be distorted, most commonly in the sense that time seems to
+pass slowly or not at all. The psychological content and emotional
+tone of the experience are unpredictable, but are thought to be inﬂu-
+enced strongly by the mental state, preparation, and intention of the
+person taking the drug and the environment in which the effects are
+experienced, as well as the dose and the particular drug that is taken.
+Effects on emotion are extremely variable, and can change rapidly
+and frequently during a single episode of use. Feelings of bliss, joy,
+peace, anxiety, depersonalization, derealization, and paranoia can
+occur. Strong cathartic emotional experiences are common, often
+related to past or current life experience. The content of the experi-
+ence may be dominated by personal experiences and concerns
+(e.g., conﬂicts, relationships, grief and loss), symbolic representa-
+tions of a dream-like or narrative quality, or religious or spiritual
+matters. Particularly in high doses, mystical-type experiences are a
+frequent occurrence.
+2.4.4. Relevant human neuroimaging
+Recent neuroimaging studies in humans are providing insight into
+the acute effects of classic hallucinogens on brain activity. An fMRI
+study from Carhart-Harris and colleagues using psilocybin 2 mg IV
+found that psilocybin caused acute decreases in regional cerebral
+blood ﬂow and BOLD signal, with strongest effects in anterior cingulate
+cortex/medial prefrontal cortex, posterior cingulate cortex, and thala-
+mus (Carhart-Harris et al., 2012). Psilocybin also decreased functional
+coupling between medial prefrontal cortex and posterior cingulate cor-
+tex. During the acute effects of psilocybin there was increased functional
+connectivity between two important brain networks: the default mode
+network, normally activated during internally oriented thinking, and
+the task-positive network, normally activated when attention is orient-
+ed toward external events or activities(Carhart-Harris et al., 2013). Fur-
+ther work has shown a more general tendency for psilocybin to enhance
+resting state functional connectivity between networks (Roseman et al.,
+2014), and a wider range of connectivity states during psilocybin intox-
+ication than in normal waking consciousness (Tagliazucchi et al., 2014).
+In addition to studies of the brain at rest, evidence suggests that
+psilocybin acts to increase positive affect. For example, Kometer
+et al. (Kometer et al., 2012) showed that administration of psilocybin
+was associated with enhanced processing of positive cues (i.e., faces,
+words, and self-reported affect) and decreased processing of nega-
+tive cues. Kraehenmann et al. (Kraehenmann et al., 2014) recently
+reported that psilocybin administration resulted in reduced amygda-
+la response to negative pictures, and that the reduced amygdala re-
+sponse was signiﬁcantly correlated with increases in self-reported
+positive mood. These ﬁndings are relevant to addiction treatment
+because negative affect is an important predictor of relapse in addic-
+tion (Connors et al., 1996).
+Although these ﬁndings provide important information about the
+acute effects of classic hallucinogens on brain activity, it is important
+to remember that all of these studies were conducted during the acute
+effects of psilocybin. Persisting effects would be more directly relevant
+to therapeutic applications. There have not yet been any published stud-
+ies of persisting effects of classic hallucinogen administration on brain
+function in humans.
+2.4.5. Classic hallucinogens that have been used in the treatment of
+addiction
+Among the many known classic hallucinogens, only a very few have
+been studied in any detail in relation to their effects in humans. Table 1
+provides information about the speciﬁc classic hallucinogens that have
+been used in clinical trials of addiction or in therapeutic or religious con-
+texts. Although these drugs vary widely in their structures, receptor
+binding proﬁles, potency, and duration of action, they are all relatively
+non-toxic, non-addictive, and similar in their subjective effects. Only
+LSD, psilocybin and, to a lesser extent, DPT and mescaline have been
+used in clinical trials for addiction. Mescaline was administered inter-
+changeably or in combination with LSD in some of the early reports
+on psychedelic treatment of alcoholism (Sherwood et al., 1962; Smith,
+1958; Smith, 1959), but there are no trials speciﬁcally examining the
+effects of mescaline. DMT (as an ingredient of ayahuasca, see below)
+has been used extensively for hundreds or thousands of years in reli-
+gious contexts, and have been used with therapeutic intent within
+both religious and secular paradigms. However, its effects have not
+been studied in clinical trials.
+3. Clinical trials of classic hallucinogens in the treatment of
+addiction
+3.1. Alcoholism
+3.1.1. LSD
+In the 1950s through early 1970s over 30 publications reported on
+the effects of LSD in the treatment of alcoholism (for reviews see
+Abuzzahab and Anderson, 1971; Halpern, 1996; Mangini, 1998; Dyck,
+2006; Grinspoon and Balakar, 1997). Early reports of clinical outcomes
+and uncontrolled trials had variable but encouraging results, particular-
+ly when the psychedelic model was used (Abuzzahab and Anderson,
+1971). At least a dozen trials with some form of control group were ul-
+timately conducted (Krebs and Johansen, 2012; Miller and Wilbourne,
+2002), but these studies were under-powered, and results were
+mixed. Research on LSD treatments stopped abruptly in the early
+1970s, and the consensus had long been that the data from these studies
+were too limited to warrant any conclusions as to efﬁcacy.
+However, a recent meta-analysis (Krebs and Johansen, 2012) of the
+6 randomized trials of LSD for alcohol dependence that reported drink-
+ing outcomes (Bowen et al., 1970; Hollister et al., 1969; Ludwig et al.,
+1969; Pahnke et al., 1970; Smart et al., 1966; Tomsovic and Edwards,
+1970) demonstrated consistent treatment effects favoring LSD. These
+studies included 325 participants who received active treatment with
+LSD and 211 who received control treatment. Participants were male in-
+patient alcoholics, and all of the studies employed a single high-dose
+LSD session. LSD doses ranged from about 210 to 800 mcg, and control
+conditions included placebo, low dose (50 mcg) LSD, ephedrine, and
+amphetamine. There was great variability in preparation and debrieﬁng
+of subjects and in the conditions during the LSD sessions. In the meta-
+analysis, treatment effects were signiﬁcant at the ﬁrst post-treatment
+follow-up, and remained signiﬁcant at 6 months. Fifty-nine % of the
+LSD-treated participants were signiﬁcantly improved at the ﬁrst post-
+treatment follow-up vs. 38% of the control participants (odds ratio
+1.96, p = .0003). The effect was homogeneous across the 6 studies.
+Although these ﬁndings are not conclusive evidence of efﬁcacy, they
+suggest that renewed clinical investigation of LSD and other classic hal-
+lucinogens for the treatment of alcoholism is warranted.
+3
+M.P. Bogenschutz, M.W. Johnson / Progress in Neuro-Psychopharmacology & Biological Psychiatry xxx (2015) xxx–xxx
+Please cite this article as: Bogenschutz MP, Johnson MW, Classic hallucinogens in the treatment of addictions, Prog Neuro-Psychopharmacol Biol
+Psychiatry (2015), http://dx.doi.org/10.1016/j.pnpbp.2015.03.002
+
+
+3.1.2. DPT
+Limited research was also conducted on the use of dipropyltryptamine
+(DPT) in the treatment of alcoholism (Grof et al., 1973; Rhead et al., 1977).
+DPT is a classic hallucinogen (Fantegrossi et al., 2008), structurally
+very similar to DMT, which has clinical effects lasting from 1–6 h, de-
+pending on the dose, when given by intramuscular injection (Rhead
+et al., 1977). In a single-group pilot study involving 51 participants,
+Grof et al. reported highly signiﬁcant improvement in clinical out-
+comes including abstinence among the 47 participants (92%) who
+received between 1 and 6 DPT (mean 1.9) sessions and completed
+follow-up at 6 months (Grof et al., 1973). A subsequent randomized
+trial conducted by the same group contrasted the effects of DPT
+treatment to those of “conventional treatment” (psychotherapy sim-
+ilar to that received by the DPT group, but without the DPT sessions)
+and “routine hospital treatment” (Rhead et al., 1977). Although post-
+treatment psychological outcomes suggested more favorable
+response in the DPT-treated group, there were no signiﬁcant differ-
+ences between the DPT-treated participants and the other groups
+in clinical outcomes assessed at 6 month follow-up, and the conven-
+tional treatment group members assessed at 12 months reported
+better drinking outcomes and social functioning than the other two
+groups. This study suffered from a number of methodological limita-
+tions including very high rates of drop-out both during treatment
+and in the follow-up period (only 37% of participants assessed at
+12 months), as well as differential drop-out among the groups.
+3.1.3. Psilocybin
+The effects of psilocybin were characterized soon after its isolation
+(Isbell, 1959; Leary et al., 1963), and it was used in both psychedelic
+and psycholytic models of treatment, although much less than LSD
+(Metzner, 2005). However, other than very limited data published on
+a cohort of alcoholic patients treated with both psilocybin and LSD
+Table 1
+Classic hallucinogens used in the treatment of addictions.
+Chemical structurea
+Human serotonin
+receptor binding
+(Ki, in nM)b
+Clinical dose
+range
+Clinically relevant attributes
+Clinical trials
+in addiction
+treatment
+Other clinically relevant
+data
+LSD (lysergic acid
+diethylamide)
+5HT1A (.64–4.92)
+5HT1D (14)
+5HT2A (.760–21.4)
+5HT2B (.977–8.91)
+5HT2C (1.10–45.7)
+5HT6 (2.29)
+100–800 μgorally
+Very high potency and
+low physiological toxicity
+Effects last 8–10 h.
+Alcoholism,
+Opioid
+addiction
+Trials for other indications:
+pain, existential anxiety
+and depression
+Psilocybin
+Not relevant, as
+psilocybin is rapidly
+converted to psilocin
+in vivo.
+20–40 mg orally
+Psilocybin is prodrug of
+psilocin.
+Effects last 4–6 h.
+Main drug used in recent
+clinical work with classic
+hallucinogens
+Alcoholism,
+Nicotine
+addiction
+Trials for other indications:
+existential anxiety and
+depression
+Thousands of years of use
+in traditional religious
+contexts
+Psilocin
+5HT1A (49–567)
+5HT1B (220)
+5HT1D (36.4)
+5HT1E (52.2)
+5HT2A (107)
+5HT2B (4.6)
+5HT5 (83.7)
+5HT6 (57)
+5HT7 (3.5)
+Subjective effects appear
+to be identical to those of
+psilocybin, potency slightly
+higher in proportion to lower
+molecular weight. Less stable
+molecule than psilocybin
+None
+Dipropyl-
+tryptamine(DPT)
+5HT1A (100)
+15–165 mg IM
+Effects last 1–6 h, depending
+on dose when given IM.
+Alcoholism
+Mescaline
+5HT2A (150)
+(rat cortex)
+200–500 mg orally
+Low potency, therefore lower
+therapeutic index than other
+classic hallucinogens, although
+the therapeutic index is
+nonetheless very favorable
+for safe clinical use.
+Alcoholism
+Over 5000 years of use in
+traditional religious/
+shamanic contexts. Effects
+similar to those of LSD.
+Used interchangeably with
+LSD in early psychedelic
+treatment
+DMT (ayahuasca)
+5HT1A (120)
+5HT1D (270)
+5HT2A (462)
+5HT6 (68)
+Approx. 0.5 mg/kg
+to 1.76 mg/kg
+orally in ayahuasca;
+0.1–0.4 mg/kg IV;
+or 25 mg smoked.
+Ayahuasca contains the MAOIs
+harmine, harmaline,
+tetrahydroharmine: these
+render DMT orally active, and
+may have clinically relevant
+effects of their own. Effects of
+ayahuasca last about 4 h. DMT
+alone is inactive orally.
+Smoked or injected DMT has
+effects lasting about 15 min.
+None
+Centuries of use in
+traditional religious
+contexts
+Current clinical
+(where allowed) and
+underground (where
+illegal) use for addictions
+and other conditions
+a PubChem Compound Database: http://www.ncbi.nlm.nih.gov/pccompound, accessed Feb 18, 2015.
+b NIMH Psychoactive Drug Screening Program (Bryan Roth, PI) Ki database: http://pdsp.med.unc.edu/pdsp.php, accessed Feb 18, 2015.
+4
+M.P. Bogenschutz, M.W. Johnson / Progress in Neuro-Psychopharmacology & Biological Psychiatry xxx (2015) xxx–xxx
+Please cite this article as: Bogenschutz MP, Johnson MW, Classic hallucinogens in the treatment of addictions, Prog Neuro-Psychopharmacol Biol
+Psychiatry (2015), http://dx.doi.org/10.1016/j.pnpbp.2015.03.002
+
+
+(Rydzyński and Gruszczyński, 1978; Rydzyński et al., 1968), we are not
+aware of any published studies of psilocybin used to treat alcoholism
+prior to one recently completed by one of the authors and colleagues
+(Bogenschutz et al., 2015). In a single-group proof-of-concept study,
+ten volunteers with DSM-IV alcohol dependence received orally admin-
+istered psilocybin 0.3 mg/kg or 0.4 mg/kg in 1 or 2 supervised sessions
+scheduled 4 weeks apart. Psilocybin was administered in the context
+of a 12-week manualized therapy program which included Motivation-
+al Enhancement Therapy and therapy sessions devoted to preparation
+for and debrieﬁng from the psilocybin sessions. Participants' responses
+to psilocybin were qualitatively similar to those described in other pop-
+ulations, although some of the participants had a relatively mild re-
+sponse to the doses used. Drinking did not decrease signiﬁcantly in
+the ﬁrst 4 weeks of treatment (when participants had not yet received
+psilocybin), but decreased signiﬁcantly following psilocybin adminis-
+tration. Gains were largely maintained during 36 weeks of follow-up.
+The intensity of self-reported effects during the ﬁrst psilocybin session
+at week 4 was strongly correlated with improvement in drinking during
+weeks 5–8 (r = 0.76 to r = 0.89), and with decreases in craving and in-
+creases in abstinence self-efﬁcacy during week 5. Based on these prom-
+ising initial results, a larger double-blind trial to investigate efﬁcacy and
+mechanisms is now under way.
+3.2. Treatment of illicit drug use
+Although alcoholism has been the main focus of addiction treatment
+using LSD, at least two studies have been conducted using LSD as com-
+ponent of treatment for opioid addicts. Ludwig and Levine conducted a
+study at the U.S. Public Health Service Hospital in Lexington, Kentucky
+in which 70 “post-narcotic drug addicts” were randomly assigned to
+receive 1 of 5 treatments (Ludwig and Levine, 1965). All participants
+received a single 2–3 h therapeutic session consisting of 1) psychotherapy
+using an “insight-interpretive” approach, 2) hypnotherapy (hypnosis
+followed by psychotherapy, 3) LSD (0.2 mcg/kg) with no psycho-
+therapeutic intervention, 4) LSD with psychotherapy, or 5) LSD
+with hypnotherapy. The only outcome measure was a questionnaire
+designed to measure various dimensions of psychopathology, ad-
+ministered prior to the session, 2 weeks after the session, and
+2 months after the session. All groups showed signiﬁcant improve-
+ment on this measure at 2-month follow-up, with greater improve-
+ment reported in the hypnodelic group. Drug use behavior after
+discharge from the hospital was not investigated. The dose of LSD
+used in this study (140 mcg for a 70 kg person) was considerably
+lower than the doses used in the controlled alcohol trials summa-
+rized above.
+Savage and McCabe conducted a controlled trial of LSD for the treat-
+ment of heroin addiction (Savage and McCabe, 1973). Seventy-eight in-
+carcerated male heroin addicts eligible for parole were randomly
+assigned to usual care in an outpatient, abstinence-based program, in-
+cluding daily urine drug monitoring and weekly group therapy, or 4–
+6 weeks of residential treatment including a psychedelic therapy,
+followed by usual outpatient care. The psychedelic therapy included a
+single high dose (300–500 mcg) LSD session in the context of approxi-
+mately 24 h of preparatory therapy and a 1-week integration period
+after the session. Participants in the psychedelic therapy condition had
+higher rates of abstinence during the 12-month follow-up period (25%
+vs. 5% continuous abstinence). While the design of this study does not
+separate the effects of the LSD from other aspects of the residential
+treatment period, the outcomes in the LSD-treated group are impressive
+for drug-free treatment of severe opioid addiction.
+Although there have been no further trials of classic hallucinogens in
+the treatment of illicit drug addiction, such studies are now in the
+planning stages. A recent publication suggested such a study would be
+valuable and proposed a design to test the efﬁcacy of psilocybin for pre-
+scription opioid dependence (Burdick and Adinoff, 2013). In addition, a
+study was recently approved to begin evaluation of the effects of
+psilocybin-assisted treatment in the treatment of cocaine dependence
+(NCT02037126).
+3.3. Nicotine (psilocybin)
+A recent pilot study conducted by one of the authors and colleagues
+showed that a manualized 15-week program of cognitive-behavior
+therapy incorporating 2 or 3 psilocybin sessions (~0.29 mg/kg or
+~0.43 mg/kg, administered on the target quit date and at 2 and
+8 weeks post-target quit date) resulted in excellent clinical outcomes:
+12 of the 15 participants (80%) were biologically conﬁrmed as
+smoke-free at a 6 month follow-up (Johnson et al., 2014). Responses
+to psilocybin were similar to populations previously studied
+consisting of mostly non-smokers (Grifﬁths et al., 2006; Grifﬁths
+et al., 2011), with 31% of sessions meeting criteria for a “complete”
+mystical experience, and 40% of participants experiencing at least
+one psychologically challenging experience. Aside from these acute
+psychologically challenging experiences which were well managed,
+no clinically signiﬁcant adverse events occurred during the study.
+Moreover, consistent with previous ﬁndings showing an important
+role of the nature of subjective experience occasioned by psilocybin,
+smoking cessation outcomes were signiﬁcantly correlated with
+measures of mystical experience during sessions, and retrospective
+ratings of personal meaning and spiritual signiﬁcance of psilocybin
+sessions (Garcia-Romeu et al., 2015).
+4. Supportive non-experimental data from religious and clinical
+contexts
+Although ayahuasca and peyote have not been subjected to
+clinical trials, they are of interest because they contain classic
+hallucinogen compounds, and they have been and continue to
+be used extensively outside of clinical research, including current
+use with the intent of curtailing addiction. We brieﬂy summarize
+the most relevant non-experimental research on these substances
+below.
+4.1. Ayahuasca
+Ayahuasca is a hallucinogenic tea containing the classic hallucinogen
+DMT and beta carbolines (monoamine oxidase inhibitors that render
+DMT orally active (McKenna et al., 1984; Callaway et al., 1996)).
+Ayahuasca has been used by indigenous peoples of the Amazon basin
+for centuries, and is used sacramentally by a number of organized reli-
+gions, of which the União do Vegetal and Santo Daime are the best
+known (McKenna, 2007).
+Cross-sectional studies have consistently shown decreased rates of
+alcohol misuse among members of both Brazilian and US religious
+sects using ayahuasca (Doering-Silveira et al., 2005; Halpern et al.,
+2008). In an assessment of mental health among ritual users of ayahua-
+sca, Fabregas found that ayahuasca users had lower scores on the Addic-
+tion Severity Index (ASI) alcohol use and psychiatric subscales
+compared to a control group (Fabregas et al., 2010). Halpern et al.
+interviewed 34 American Santo Daime members regarding effects of
+church participation (Halpern et al., 2008). Participants reported a
+wide variety of psychological beneﬁts. Of 24 members with a history
+of substance use disorder, 22 were in full remission, and all 5 who had
+a history of alcohol dependence reported that church involvement
+played a pivotal role in their recovery. Although proscription of alcohol
+and other drug use within these religions likely contributes to such ef-
+fects, the consistency of results and individuals' accounts regarding
+the sacramental substance suggests the possibility of a pharmacological
+effect as well.
+Ayahuasca is currently being used in treatment centers and in
+shamanic or “neo-shamanic” contexts for the treatment of various
+conditions including addiction and PTSD, as well as for purposes of
+5
+M.P. Bogenschutz, M.W. Johnson / Progress in Neuro-Psychopharmacology & Biological Psychiatry xxx (2015) xxx–xxx
+Please cite this article as: Bogenschutz MP, Johnson MW, Classic hallucinogens in the treatment of addictions, Prog Neuro-Psychopharmacol Biol
+Psychiatry (2015), http://dx.doi.org/10.1016/j.pnpbp.2015.03.002
+
+
+personal or spiritual growth (Labate and Cavnar, 2011; Liester and
+Prickett, 2012). Although many individuals have reported that
+ayahuasca has facilitated their recovery from addiction, to our
+knowledge only one observational study has been published (Thomas
+et al., 2013), and controlled trials have not been conducted. A recent
+study showed that ayahuasca speciﬁcally blocked acquisition and rein-
+statement of behavioral sensitization to alcohol in mice (Oliveira-Lima
+et al., 2015).
+4.2. Peyote
+The peyote cactus (Lophophora williamsii), the San Pedro Cactus
+(Trichocereus pachanoi) and a number of other cacti contain psychoac-
+tive quantities of the classic hallucinogen mescaline and other related
+alkaloids (Gabermann, 1978; Ogunbodede et al., 2010). Peyote buttons
+have been harvested by Native peoples in North America for at least
+5500 years (El-Seedi et al., 2005). Today peyote is used sacramentally
+by groups including the Native American Church (NAC) (Stewart,
+1987) and the Huichol of northern Mexico (Meyerhoff, 1974). It has
+often been stated that taking peyote in the context of NAC ceremonies
+helps alcoholics achieve and maintain sobriety (Albaugh and Anderson,
+1974b; Garrity, 2000; Kunitz and Levy, 1994; Lu et al., 2009). Proposed
+psychological mechanism includes emotional catharsis (Albaugh and
+Anderson, 1974a) and improved self-understanding and motivation for
+sobriety (Garrity, 2000). However, there are no published quantitative
+studies of alcohol use among NAC members.
+5. Possible mechanisms of action
+Since there are very few studies directly investigating the role of spe-
+ciﬁc effects of classic hallucinogens in subsequent change in addictive be-
+havior, this section is necessarily speculative. Still, we feel it is important
+to identify plausible mechanisms of action at the current early stage of in-
+vestigation in order to generate hypotheses for future research. There are
+several known actions of classic hallucinogens that are related to mecha-
+nisms of addiction, and could possibly mediate anti-addictive effects.
+5.1. The possible role of 5HT2A receptor modulation
+In rat models, administration of classic hallucinogens induces down-
+regulation of 5HT2A receptors, particularly those in the anterior
+cingulate and frontomedial cortex, leading to the rapid development
+of behavioral tolerance (Buckholtz et al., 1990; Gresch et al., 2005).
+The rapid development of tolerance to most classic hallucinogens in
+humans (Nichols, 2004) suggests that 5HT2A receptors may be down-
+regulated, although the latter has not been demonstrated in humans.
+Such down-regulation would be behaviorally relevant. Increased
+5HT2A receptor binding has been reported in people with depression
+(Shelton et al., 2009), neuroticism (Frokjaer et al., 2008), borderline per-
+sonality disorder (Soloff et al., 2007), impulsive aggression (Rosell et al.,
+2010), and completed suicide (Anisman et al., 2008). Furthermore,
+fronto-limbic 5HT2A receptor density is positively correlated with in-
+creased anxiety and exaggerated stress response (Frokjaer et al.,
+2008). Given that anxiety and stress are important triggers for relapse
+to substance use (Sinha and Li, 2007), it is possible that 5HT2A receptor
+downregulation by classical hallucinogens could alter and diminish
+stress-induced substance relapse. Furthermore, increased activity in
+5HT2A-mediated pathways relative to 5HT2C pathways is associated
+with increased response disinhibition and cue response and in rat
+models of cocaine addiction (Cunningham and Anastasio, 2014). The
+5HT2A antagonists ritanserin and amperozide suppress alcohol
+consumption in animal models (Johnson, 2008). However, in humans
+alcoholism is not consistently associated with change in 5HT2A receptor
+levels (Thompson et al., 2012; Underwood et al., 2008), and the 5HT2A
+antagonist ritanserin did not improve drinking outcomes in people with
+alcohol dependence in two large-scale clinical trials (Johnson et al.,
+1996; Wiesbeck et al., 1999).
+5.2. Neurotrophic factors and induction of neuroplasticity
+Classic hallucinogens have effects on expression of brain-derived
+neurotrophic factor (BDNF) and glial cell line-derived neurotrophic fac-
+tor (GDNF), neurotrophic factors which are relevant to addiction and
+other psychiatric disorders. BDNF and GDNF play critical roles in
+neurogenesis, synaptic plasticity, learning, and memory (Ghitza et al.,
+2010). DOI increases expression of BDNF mRNA in rat parietal cortex
+and other neocortical regions through its action at the 5HT2A receptor,
+but decreases BDNF expression in the dentate gyrus of the hippocampus
+(Vaidya et al., 1997). DOI can also increase expression of mRNA of GDNF
+through its action at 5HT2A receptors (Tsuchioka et al., 2008). BDNF and
+GDNF can facilitate or inhibit addictive behaviors in rats depending on
+the drug type and anatomical site of action, and the speciﬁc behavioral
+model being used (Ghitza et al., 2010). In the case of alcohol, the
+experimental data demonstrate a consistent pattern in that self-
+administration of alcohol and conditioned place preference are inverse-
+ly related to level of BDNF or GDNF expression (Ghitza et al., 2010). Re-
+garding cocaine, the picture is much more complicated. In the ventral
+tegmental area (VTA), BDNF increases drug reward, while GDNF de-
+creases reward. Both BDNF and GDNF in the VTA potentiate relapse
+after withdrawal from cocaine. BDNF activity in the nucleus accumbens
+also facilitates cocaine seeking, but BDNF signaling in the medial pre-
+frontal cortex diminishes cocaine seeking. There is some evidence that
+classic hallucinogens can induce neuroplastic changes, suggesting a
+possible biological basis for persisting behavioral change. Through its
+action at 5HT2A receptors DOI induces remodeling of pyramidal cell
+dendrites (Jones et al., 2009). The effects of classic hallucinogens on
+adult neurogenesis have not been established, although a recent publi-
+cation began to explore these effects (Catlow et al., 2013). Clearly, much
+more work is needed to understand the region-speciﬁc effects of classic
+hallucinogens on neurotrophic factor expression and neuroplasticity,
+and the impact of these changes on addiction-related behaviors.
+5.3. The role of subjective experience
+Clinical work with classic hallucinogens has emphasized the central
+role of the patient's conscious experience during the drug's acute effects
+(Grof, 2008; Hoffer, 1967; Masters and Houston, 2000; Pahnke et al.,
+1970; Sherwood et al., 1962). Most of the clinical studies conducted in
+North America using LSD in the treatment of addiction or existential
+anxiety in terminal cancer during the 1950s–1970s employed the psy-
+chedelic model described in Section 2.3. The idea that a mystical-type
+experience can lead to lasting behavior change is consonant with the
+concept of “spiritual awakening” in the context of Alcoholics Anony-
+mous (Forcehimes, 2004). Indeed, based on his own LSD experiences
+Bill Wilson, the founder of Alcoholics Anonymous, became an enthusi-
+astic proponent of the use of LSD to help alcoholics experience spiritual
+insight (Kurtz, 2008). However, past studies of addiction treatment with
+classic hallucinogens have not assessed participants' experiences quan-
+titatively or investigated the mediational role of dimensions of the expe-
+rience. As noted above, recent pilot work with psilocybin for cigarette
+addiction demonstrated that strong mystical-type experiences were as-
+sociated with greater improvement (Garcia-Romeu et al., 2015). On the
+other hand, in the recent pilot study of psilocybin for alcohol depen-
+dence, both mystical experience and broader measures of the intensity
+of subjective effects were associated with improvement in drinking
+(Bogenschutz et al., 2015).
+5.4. Persisting psychological changes
+A number of persisting psychological changes have been proposed
+as possible mediators of effects of classic hallucinogens in the treatment
+6
+M.P. Bogenschutz, M.W. Johnson / Progress in Neuro-Psychopharmacology & Biological Psychiatry xxx (2015) xxx–xxx
+Please cite this article as: Bogenschutz MP, Johnson MW, Classic hallucinogens in the treatment of addictions, Prog Neuro-Psychopharmacol Biol
+Psychiatry (2015), http://dx.doi.org/10.1016/j.pnpbp.2015.03.002
+
+
+of addiction (Bogenschutz and Pommy, 2012). The published pilot stud-
+ies of psilocybin for alcohol or nicotine dependence have reported de-
+creases in craving and increases in self-efﬁcacy (Bogenschutz et al.,
+2015; Johnson et al., 2014). Long-term follow-up of normal volunteers
+who received psilocybin demonstrated increase in the personality di-
+mension of openness, predicted by the intensity of mystical experience
+(Maclean et al., 2011). Positive behavior change and improvement in
+well-being and life satisfaction have also been reported (Grifﬁths
+et al., 2011). Controlled trials have not yet been conducted that would
+allow rigorous testing of such possible mediators of therapeutic effects.
+6. Safety
+The potential for classic hallucinogens in addiction treatment re-
+quires an understanding of risks and safety mechanisms to minimize
+potential harms. A broad exploration of risks and proposed safety issues
+has been previously described (Johnson et al., 2008). However, a brief
+description will be provided here.
+6.1. Domains of risk
+Although classic hallucinogens can be used in dangerous ways in
+non-clinical settings, they do not normally engender compulsive drug-
+seeking (addiction) as with most abused drugs (e.g., opioids, cocaine,
+methamphetamine, cannabis) (Fantegrossi et al., 2008; O'Brien, 2010).
+It appears that non-medical use of classic hallucinogens can precipitate
+prolonged psychiatric reactions (e.g., psychosis) in rare cases, although
+prolonged psychiatric reactions have very rarely been observed in med-
+ical settings (Cohen, 1960; McGlothlin and Arnold, 1971). Given the in-
+tensity of their subjective effects, it is remarkable that classic
+hallucinogens have very low physiological toxicity, with no evidence
+of resulting organ damage or neuropsychological deﬁcits even at very
+high doses (Gable, 1993; Strassman, 1984). On rare occasions, nonmed-
+ical use of classic hallucinogens appears to result in clinically distressing
+persisting perceptual abnormalities (e.g., hallucinogen persisting per-
+ception disorder, HPPD). However such cases have not been observed
+in clinical research, and are perhaps related to factors absent in research
+settings (e.g., poor control of dose, polydrug use) (Johnson et al., 2008).
+For the large majority of participants, the most relevant safety concern is
+the potential for dangerous and erratic behavior given the intense sub-
+jective experiences possible with classic hallucinogens, including fear
+and anxiety.
+6.2. Safeguards against risks
+The risks of classic hallucinogen administration can be appropriately
+addressed with procedures, resulting in risk/beneﬁt ratios in both basic
+human research and therapeutic studies that compare favorably with
+routine procedures in medical research and therapeutic practice
+(Johnson et al., 2008). Given clinical cases in which non-medical use
+of classic hallucinogens appeared to have precipitated prolonged psy-
+chiatric reactions (e.g., psychosis), participants should be screened and
+excluded for psychotic disorders (and related disorders such a bipolar
+disorder) or a predisposition to these disorders. A physician should be
+on call and immediately available during the drug administration ses-
+sions, and appropriate rescue medication (e.g., benzodiazepines, antihy-
+pertensives) should be available for administration, although such
+medications are rarely needed. Interpersonal reassurance is typically
+effective in dealing with challenging psychological reactions (Johnson
+et al., 2008). As the most likely risks are associated with behavior during
+acute drug administration, it is important that volunteers meet with re-
+search/clinical staff during preparatory meetings to develop rapport
+(minimizing paranoia regarding staff in sessions) and to prepare the
+volunteer for dealing with potentially powerful drug effects. During
+sessions, multiple individuals who have developed rapport should
+participate in monitoring the volunteer, so that the volunteer is
+never alone while experiencing acute drug effects, even if one leaves
+temporarily. Regardless of experimental or therapeutic intentions of
+studies, classic hallucinogen administration can occasion extremely
+salient and emotional experiences that may relate to one's past or
+current personal or family history, philosophical issues, and some-
+times experiences described as spiritual in nature. It is important
+for volunteers to have follow-up contact with treatment staff in
+order to discuss and process such experiences. This contact serves
+as an opportunity to refer to the volunteer to additional care should
+that appear appropriate.
+7. Conclusions/future directions
+Taken as a whole, the evidence suggests that classic hallucinogens
+hold considerable promise in the treatment of addiction, particularly
+given the limited efﬁcacy of extant treatments. The efﬁcacy data are
+promising, but very limited except in the case of LSD treatment of
+alcoholism. Trials are only now beginning that will meet modern stan-
+dards of design and statistical power. Classic hallucinogens have several
+features that one might want a priori in an anti-addiction drug. 1) They
+lack addictive effects themselves. 2) Extensive clinical research has
+shown them to be safe when appropriate precautions are taken.
+3) They have molecular targets consistent with anti-addiction effects.
+4) They occasion psychological effects that include intense self-
+reﬂection and sometimes mystical/spiritual/peak experience that are
+often associated with naturalistic addiction recovery. 5) They can in-
+duce persisting changes in behavior and personality, while for most
+medications it is expected that medication effects will only persist as
+long as the patient is taking the medication.
+Although plausible biological mechanisms have been proposed, at
+this point the strongest evidence is for the role of mystical or other
+meaningful experiences as mediators of therapeutic effects. This is a
+unique mechanism among pharmacotherapies, and one that is fascinat-
+ing from both biological and psychological perspectives. One process
+that bears some resemblance to this process is the pathogenesis of
+post-traumatic stress disorder (PTSD). In PTSD, an overwhelming psy-
+chological trauma can cause persisting harmful changes in brain struc-
+ture and function, as well as sometimes permanent psychological
+change. It has therefore been proposed that mystical experiences
+occasioned by classic hallucinogens constitute inverse-PTSD-like effects
+(Garcia-Romeu et al., 2015). “PTSD-like” refers to the lasting behavioral
+effects of discrete experiences. “Inverse” implies that persisting effects
+are beneﬁcial rather than pathological. Although at this point we cannot
+say whether the neurobiology of these phenomena is related in speciﬁc
+ways, both situations could represent special forms of learning and
+memory in which the brain changes much more substantially than dur-
+ing a single ordinary experience.
+Based on our limited understanding of the effects of classic halluci-
+nogens in addiction, there are many avenues of research that could con-
+tribute important new knowledge and potentially lead to valuable new
+treatments. Further efﬁcacy trials with psilocybin, and other classic
+hallucinogens (especially LSD) for alcohol, nicotine, cocaine, and opioids
+should be developed. Although the effects of psilocybin to date have
+been quite impressive, it cannot be assumed that all classic hallucino-
+gens have the same clinical effects. Multiple agents should be studied.
+Research should also investigate whether efﬁcacy depends on the
+presence and nature of concurrent psycho/social treatment accompany-
+ing classic hallucinogen treatment (e.g., cognitive-behavior therapy,
+Motivational Enhancement Therapy). More work needs to be done on
+mechanisms of action, e.g., psychological mediators and persisting psy-
+chological change, neuroimaging studies of persisting effects, other bio-
+markers, and the possible role of genetics in moderating response to
+psychedelics. Further thought should be given to optimizing the inte-
+gration of the classic hallucinogen treatment with psychosocial treat-
+ments, and possibly with other medications. Previous and current
+methods have minimized the number of doses (sessions) provided. If
+7
+M.P. Bogenschutz, M.W. Johnson / Progress in Neuro-Psychopharmacology & Biological Psychiatry xxx (2015) xxx–xxx
+Please cite this article as: Bogenschutz MP, Johnson MW, Classic hallucinogens in the treatment of addictions, Prog Neuro-Psychopharmacol Biol
+Psychiatry (2015), http://dx.doi.org/10.1016/j.pnpbp.2015.03.002
+
+
+one or two sessions are effective, additional “booster” sessions might or
+might not further improve outcomes. Finally, since all drugs have risks,
+continued attention to safety is critical, including optimizing screening,
+preparation, use of ancillary medications, and debrieﬁng and follow-up
+following sessions.
+References
+Abuzzahab Sr FS, Anderson BJ. A review of LSD treatment in alcoholism. Int
+Pharmacopsychiatry 1971;6:223–35.
+Aghajanian GK, Marek GJ. Serotonin, via 5-HT2A receptors, increases EPSCs in layer V
+pyramidal cells of prefrontal cortex by an asynchronous mode of glutamate release.
+Brain Res 1999;825:161–71.
+Albaugh B, Anderson P. Peyote in the treatment of alcoholism among American Indians.
+Am J Psychiatry 1974a;131:4.
+Albaugh BJ, Anderson PO. Peyote in the treatment of alcoholism among American Indians.
+Am J Psychiatry 1974b;131:1247–50.
+Anisman H, Du L, Palkovits M, Faludi G, Kovacs GG, Szontagh-Kishazi P, et al. Serotonin
+receptor subtype and p11 mRNA expression in stress-relevant brain regions of
+suicide and control subjects. J Psychiatry Neurosci 2008;33:131–41.
+Barbosa PC, Mizumoto S, Bogenschutz MP, Strassman RJ. Health status of ayahuasca users.
+Drug Test Anal 2012;4:601–9.
+Beique JC, Imad M, Mladenovic L, Gingrich JA, Andrade R. Mechanism of the 5-
+hydroxytryptamine 2A receptor-mediated facilitation of synaptic activity in prefron-
+tal cortex. Proc Natl Acad Sci U S A 2007;104:9870–5.
+Berglund M. A better widget? Three lessons for improving addiction treatment from a
+meta-analytical study. Addiction 2005;100:742–50.
+Bogenschutz MP, Pommy JM. Therapeutic mechanisms of classic hallucinogens in the
+treatment of addictions: from indirect evidence to testable hypotheses. Drug Test
+Anal 2012;4:543–55.
+Bogenschutz MP, Forcehimes AA, Pommy JA, Wilcox CE, Barbosa P, Strassman RJ.
+Psilocybin-assisted treatment for alcohol dependence: a proof-of-concept study. J
+Psychopharmacol 2015;29(3):289–99.
+Bowen WT, Soskin RA, Chotlos JW. Lysergic acid diethylamide as a variable in the hospital
+treatment of alcoholism: a follow-up study. J Nerv Ment Dis 1970;150:111–8.
+Buckholtz NS, Zhou DF, Freedman DX, Potter WZ. Lysergic acid diethylamide (LSD)
+administration selectively downregulates serotonin2 receptors in rat brain.
+Neuropsychopharmacology 1990;3:137–48.
+Buckman J. Theroetical aspects of LSD therapy. In: Abramson HA, editor. The use of LSD in
+psychotherapy and alcoholism. Indianapolis: Bobbs-Merrill; 1967.
+Burdick BV, Adinoff B. A proposal to evaluate mechanistic efﬁcacy of hallucinogens in
+addiction treatment. Am J Drug Alcohol Abuse 2013;39:291–7.
+Cahill K, Stevens S, Lancaster T. Pharmacological treatments for smoking cessation. JAMA
+2014;311:193–4.
+Callaway JC, Raymon LP, Hearn WL, McKenna DJ, Grob CS, Brito GS, et al. Quantitation of
+N,N-dimethyltryptamine and harmala alkaloids in human plasma after oral dosing
+with ayahuasca. J Anal Toxicol 1996;20:492–7.
+Carhart-Harris RL, Erritzoe D, Williams T, Stone JM, Reed LJ, Colasanti A, et al. Neural cor-
+relates of the psychedelic state as determined by fMRI studies with psilocybin. Proc
+Natl Acad Sci U S A 2012;109:2138–43.
+Carhart-Harris RL, Leech R, Erritzoe D, Williams TM, Stone JM, Evans J, et al. Functional
+connectivity measures after psilocybin inform a novel hypothesis of early psychosis.
+Schizophr Bull 2013;39(6):1343–51.
+Catlow BJ, Song S, Paredes DA, Kirstein CL, Sanchez-Ramos J. Effects of psilocybin on hip-
+pocampal neurogenesis and extinction of trace fear conditioning. Exp Brain Res 2013;
+228:481–91.
+Centers, for Disease Control and Prevention. Quitting smoking among adults—United
+States, 2001–2010. MMWR Morb Mortal Wkly Rep 2011;60:1513–9.
+Cohen S. Lysergic acid diethylamide: side effects and complications. J Nerv Ment Dis 1960;
+130:30–40.
+Compton WM, Thomas YF, Stinson FS, Grant BF. Prevalence, correlates, disability, and co-
+morbidity of DSM-IV drug abuse and dependence in the United States: results from
+the national epidemiologic survey on alcohol and related conditions. Arch Gen
+Psychiatry 2007;64:566–76.
+Connors GJ, Maisto SA, Donovan DM. Conceptualizations of relapse: a summary of
+psychological and psychobiological models. Addiction 1996;91(Suppl.):S5–S13.
+Cunningham KA, Anastasio NC. Serotonin at the nexus of impulsivity and cue reactivity in
+cocaine addiction. Neuropharmacology 2014;76:460–78. [Pt B].
+Doering-Silveira E, Grob CS, De Rios MD, Lopez E, Alonso LK, Tacla C, et al. Report on
+psychoactive drug use among adolescents using ayahuasca within a religious context.
+J Psychoactive Drugs 2005;37:141–4.
+Dyck E. ‘Hitting highs at rock bottom’: LSD treatment for alcoholism, 1950–1970. Soc Hist
+Med 2006;19:313–29.
+El-Seedi HR, De Smet PA, Beck O, Possnert G, Bruhn JG. Prehistoric peyote use: alkaloid
+analysis and radiocarbon dating of archaeological specimens of Lophophora from
+Texas. J Ethnopharmacol 2005;101:238–42.
+Fabregas JM, Gonzalez D, Fondevila S, Cutchet M, Fernandez X, Barbosa PC, et al. Assess-
+ment of addiction severity among ritual users of ayahuasca. Drug Alcohol Depend
+2010;111:257–61.
+Fantegrossi WE, Murnane KS, Reissig CJ. The behavioral pharmacology of hallucinogens.
+Biochem Pharmacol 2008;75:17–33.
+Forcehimes AA. De profundis: spiritual transformations in Alcoholics Anonymous. J Clin
+Psychol 2004;60:503–17.
+Frokjaer VG, Mortensen EL, Nielsen FA, Haugbol S, Pinborg LH, Adams KH, et al.
+Frontolimbic serotonin 2A receptor binding in healthy subjects is associated with
+personality risk factors for affective disorder. Biol Psychiatry 2008;63:569–76.
+Gabermann V. Estimation of mescaline and pellotine in Lophophora coulter plants
+(Cactaceae) by means of the oscillographic polarography. Biokhimiia 1978;43:
+246–51.
+Gable RS. Toward a comparative overview of dependence potential and acute toxicity of
+psychoactive substances used nonmedically. Am J Drug Alcohol Abuse 1993;19:
+263–81.
+Garcia EE, Smith RL, Sanders-Bush E. Role of G(q) protein in behavioral effects of the hal-
+lucinogenic drug 1-(2,5-dimethoxy-4-iodophenyl)-2-aminopropane. Neuropharma-
+cology 2007;52:1671–7.
+Garcia-Romeu A, Grifﬁths RR, Johnson MW. Psilocybin-occasioned mystical experiences
+in the treatment of tobacco addiction. Curr Drug Abuse Rev 2015;7(3):157–64.
+Garrity JF. Jesus, peyote, and the holy people: alcohol abuse and the ethos of power in
+Navajo healing. Med Anthropol Q 2000;14:521–42.
+Ghitza UE, Zhai H, Wu, Airavaara, M., Shaham, Y. & Lu, L. P. Role of BDNF and GDNF in drug
+reward and relapse: a review. Neurosci Biobehav Rev 2010;35:157–71.
+Glennon RA, Titeler M, Mckenney JD. Evidence for 5-HT2 involvement in the mechanism
+of action of hallucinogenic agents. Life Sci 1984;35:2505–11.
+Gonzalez-Maeso J, Weisstaub NV, Zhou M, Chan P, Ivic L, Ang R, et al. Hallucinogens
+recruit speciﬁc cortical 5-HT(2A) receptor-mediated signaling pathways to affect
+behavior. Neuron 2007;53:439–52.
+Gonzalez-Maeso J, Ang RL, Yuen T, Chan P, Weisstaub NV, Lopez-Gimenez JF, et al. Iden-
+tiﬁcation of a serotonin/glutamate receptor complex implicated in psychosis. Nature
+2008;452:93–7.
+Gresch PJ, Smith RL, Barrett RJ, Sanders-Bush E. Behavioral tolerance to lysergic acid
+diethylamide is associated with reduced serotonin-2A receptor signaling in rat
+cortex. Neuropsychopharmacology 2005;30:1693–702.
+Grifﬁths RR, Richards WA, McCann U, Jesse R. Psilocybin can occasion mystical-type expe-
+riences having substantial and sustained personal meaning and spiritual signiﬁcance.
+Psychopharmacology (Berl) 2006;187:268–83. [discussion 284–92].
+Grifﬁths RR, Johnson MW, Richards WA, Richards BD, McCann U, Jesse R. Psilocybin
+occasioned mystical-type experiences: immediate and persisting dose-related effects.
+Psychopharmacology (Berl) 2011;218:649–65.
+Grinspoon L, Balakar JB. Psychedelic drugs reconsidered. New York: The Lindesmith
+Center; 1997.
+Grof S. LSD psychotherapy. Ben Lomond, CA: Multidisciplnary Association for Psychedelic
+Studies; 2008.
+Grof S, Soskin RA, Richards WA, Kurland AA. DPT as an adjunct in psychotherapy of
+alcoholics. Int Pharmacopsychiatry 1973;8:104–15.
+Halberstadt AL. Recent advances in the neuropsychopharmacology of serotonergic hallu-
+cinogens. Behav Brain Res 2015;277:99–120.
+Halpern JH. The use of hallucinogens in the treatment of addiction. Addict Res 1996;4:
+177–89.
+Halpern JH, Sherwood AR, Hudson JI, Yurgelun-Todd D, Pope HG. Psychological and cog-
+nitive effects of long-term peyote use among Native Americans. Biol Psychiatry 2005;
+58:624–31.
+Halpern JH, Sherwood AR, Passie T, Blackwell KC, Ruttenber AJ. Evidence of health and
+safety in American members of a religion who use a hallucinogenic sacrament. Med
+Sci Monit 2008;14:SR15–22.
+Hasin DS, Stinson FS, Ogburn E, Grant BF. Prevalence, correlates, disability, and comorbid-
+ity of DSM-IV alcohol abuse and dependence in the United States: results from the
+National Epidemiologic Survey on Alcohol and Related Conditions. Arch Gen
+Psychiatry 2007;64:830–42.
+Heffter A. Ueber Cacteenalkaloïde. Ber Dtsch Chem Ges 1896;29:216–27.
+Heffter A. Ueber Pellote - Beiträge zur chemischen und pharmakologischen Kenntniss der
+Cacteen Zweite Mittheilung. Naunyn Schmiedebergs Arch Pharmacol 1898;40:
+385–429.
+Hoffer A. A program for treatment of alcoholism: LSD, malvaria, and nicotinic acid. In:
+Abramson HA, editor. The use of LSD in psychotherapy and alcoholism. Indianapolis:
+Bobbs-Merrill; 1967.
+Hofmann A. How LSD originated. J Psychedelic Drugs 1979;11:53–60.
+Hofmann A, Frey A, Ott H, Petrzilka T, Troxler F. Konstitutionsaufkl rung und Synthese von
+Psilocybin. Experientia 1958a;14:397–401.
+Hofmann A, Heim R, Brack A, Kobel H. Psilocybin ein psychotroper Wirkstoff aus dem
+mexikanischen Rauschpilz. Rev Mycologie 1958b;22:17–21.
+Hollister LE, Shelton J, Krieger G. A controlled comparison of lysergic acid diethylamide
+(LSD) and dextroamphetmine in alcoholics. Am J Psychiatry 1969;125:1352–7.
+Hughes JR, Helzer JE, Lindberg SA. Prevalence of DSM/ICD-deﬁned nicotine dependence.
+Drug Alcohol Depend 2006;85:91–102.
+Isbell H. Comparison of the reactions induced by psilocybin and LSD-25 in man.
+Psychopharmacologia 1959;1:29–38.
+Johnson BA. Update on neuropharmacological treatments for alcoholism: scientiﬁc basis
+and clinical ﬁndings. Biochem Pharmacol 2008;75:34–56.
+Johnson BA, Jasinski DR, Galloway GP, Kranzler H, Weinreib R, Anton RF, et al. Ritanserin
+in the treatment of alcohol dependence—a multi-center clinical trial. Ritanserin Study
+Group. Psychopharmacology (Berlin) 1996;128:206–15.
+Johnson M, Richards W, Grifﬁths R. Human hallucinogen research: guidelines for safety. J
+Psychopharmacol 2008;22:603–20.
+Johnson MW, Garcia-Romeu A, Cosimano MP, Grifﬁths RR. Pilot study of the 5-HT2AR
+agonist psilocybin in the treatment of tobacco addiction. J Psychopharmacol 2014;
+28(11):983–92.
+Jones KA, Srivastava DP, Allen JA, Strachan RT, Roth BL, Penzes P. Rapid modulation of
+spine morphology by the 5-HT2A serotonin receptor through kalirin-7 signaling.
+Proc Natl Acad Sci U S A 2009;106:19575–80.
+8
+M.P. Bogenschutz, M.W. Johnson / Progress in Neuro-Psychopharmacology & Biological Psychiatry xxx (2015) xxx–xxx
+Please cite this article as: Bogenschutz MP, Johnson MW, Classic hallucinogens in the treatment of addictions, Prog Neuro-Psychopharmacol Biol
+Psychiatry (2015), http://dx.doi.org/10.1016/j.pnpbp.2015.03.002
+
+
+Kometer M, Schmidt A, Bachmann R, Studerus E, Seifritz E, Vollenweider FX. Psilocybin
+biases facial recognition, goal-directed behavior, and mood state toward positive
+relative to negative emotions through different serotonergic subreceptors. Biol
+Psychiatry 2012;72(11):898–906.
+Kraehenmann R, Preller KH, Scheidegger M, Pokorny T, Bosch OG, Seifritz E, et al.
+Psilocybin-induced decrease in amygdala reactivity correlates with enhanced
+positive mood in healthy volunteers. Biol Psychiatry 2014 Apr 26. http://dx.doi.org/
+10.1016/j.biopsych.2014.04.010. pii: S0006-3223(14)00275-3, [Epub ahead of print].
+Krebs TS, Johansen PO. Lysergic acid diethylamide (LSD) for alcoholism: meta-analysis of
+randomized controlled trials. J Psychopharmacol 2012;26(7):994–1002.
+Kunitz SJ, Levy JE. Drinking careers: a twenty-ﬁve year study of three Navajo populations.
+New Haven: Yale University Press; 1994.
+Kurtz E. Drugs and the spiritual: Bill W. Takes LSD. In: Kurtz E, editor. The collected Ernie
+Kurtz. New York: Authors Choice; 2008.
+Labate BC, Cavnar C. The expansion of the ﬁeld of research on ayahuasca: some reﬂections
+about the ayahuasca track at the 2010 MAPS “Psychedelic Science in the 21st
+Century” conference. Int J Drug Policy 2011;22:174–8.
+Leary T, Litwin GH, Metzner R. Reactions to psilocybin administered in a supportive envi-
+ronment. J Nerv Ment Dis 1963;137:561–73.
+Leuner H. Present state of psycholytic therapy and its possibilities. In: Abramson HA, ed-
+itor. The use of LSD in psychotherapy and alcoholism. Bobbs-Merrill: Indianapolis;
+1967.
+Liester MB, Prickett JI. Hypotheses regarding the mechanisms of ayahuasca in the treat-
+ment of addictions. J Psychoactive Drugs 2012;44:200–8.
+Lu L, Liu Y, Zhu W, Shi J, Liu Y, Ling W, Kosten T. Traditional medicine in the treatment of
+drug addiction. Am J Drug Alcohol Abuse 2009;35:11.
+Ludwig AM, Levine J. A controlled comparison of ﬁve brief treatment techniques
+employing LSD, hypnosis, and psychotherapy. Am J Psychother 1965;19:417–35.
+Ludwig A, Levine J, Stark L, Lazar R. A clinical study of LSD treatment in alcoholism. Am J
+Psychiatry 1969;126:59–69.
+Maclean KA, Johnson MW, Grifﬁths RR. Mystical experiences occasioned by the hallucino-
+gen psilocybin lead to increases in the personality domain of openness. J
+Psychopharmacol 2011;25:1453–61.
+Mangini M. Treatment of alcoholism using psychedelic drugs: a review of the program of
+research. J Psychoactive Drugs 1998;30:381–418.
+Masters R, Houston J. The varieties of psychedelic experience: the classic guide to the ef-
+fects of LSD on the human psyche. Rochester, Vermont: Park Street Press; 2000.
+Mcglothlin WH, Arnold DO. LSD revisited. A ten-year follow-up of medical LSD use. Arch
+Gen Psychiatry 1971;24:35–49.
+Mckenna DJ. The healing vine: ayahuasca as medicine in the 21st century. In: Winkelman
+MJ, Roberts TB, editors. Psychedelic medicine: new evidence for hallucinogenic sub-
+stances as treatments, vol. 1. Westport, CT: Praeger Publishers/Greenwood Publishing
+Group; 2007.
+McKenna DJ, Towers GH, Abbott F. Monoamine oxidase inhibitors in South American hal-
+lucinogenic plants: tryptamine and beta-carboline constituents of ayahuasca. J
+Ethnopharmacol 1984;10:195–223.
+Metzner R. Sacred mushroom of visions: Teonanácatl: a sourcebook on the psilocybin
+mushroom. Rochester, Vermont: Park. St. Press; 2005.
+Meyerhoff B. Peyote hunt. Ithaca, NY: Cornell; 1974.
+Miller WR, Wilbourne PL. Mesa Grande: a methodological analysis of clinical trials of
+treatments for alcohol use disorders. Addiction 2002;97:265–77.
+Moreno JL, Holloway T, Albizu L, Sealfon SC, Gonzalez-Maeso J. Metabotropic glutamate
+mGlu2 receptor is necessary for the pharmacological and behavioral effects induced
+by hallucinogenic 5-HT2A receptor agonists. Neurosci Lett 2011;493:76–9.
+Nichols DE. Hallucinogens. Pharmacol Ther 2004;101:131–81.
+O'Brien CP. Chapter 24: drug addiction. Goodman & Gilman's: The Pharmacological basis
+of therapeutics; 2010.
+Ogunbodede O, Mccombs D, Trout K, Daley P, Terry M. New mescaline concentrations
+from 14 taxa/cultivars of Echinopsis spp. (Cactaceae) (“San Pedro”) and their rele-
+vance to shamanic practice. J Ethnopharmacol 2010;131:356–62.
+Oliveira-Lima AJ, Santos R, Hollais AW, Gerardi-Junior CA, Baldaia MA, Wuo-Silva R, et al.
+Effects of ayahuasca on the development of ethanol-induced behavioral sensitization
+and on a post-sensitization treatment in mice. Physiol Behav 2015;142C:28–36.
+Pahnke WN, Kurland AA, Unger S, Savage C, Grof S. The experimental use of psychedelic
+(LSD) psychotherapy. JAMA 1970;212:1856–63.
+Puig MV, Celada P, Az-Mataix L. In vivo modulation of the activity of pyramidal neurons in
+the rat medial prefrontal cortex by 5-HT2A receptors: relationship to thalamocortical
+afferents. Cereb Cortex 2003;13:870–82.
+Ray TS. Psychedelics and the human receptorome. PLoS One 2010;5:e9019.
+Rehm J, Taylor B, Room R. Global burden of disease from alcohol, illicit drugs and tobacco.
+Drug Alcohol Rev 2006;25:503–13.
+Rehm J, Mathers C, Popova S, Thavorncharoensap M, Teerawattananon Y, Patra J. Global
+burden of disease and injury and economic cost attributable to alcohol use and
+alcohol-use disorders. Lancet 2009;373:2223–33.
+Rhead JC, Soskin RA, Turek I, Richards WA, Yensen R, Kurland AA, et al. Psychedelic drug
+(DPT)-assisted psychotherapy with alcoholics: a controlled study. J Psychedelic Drugs
+1977;9:287–300.
+Rosell DR, Thompson JL, Slifstein M, Xu X, Frankle WG, New AS, et al. Increased serotonin
+2A receptor availability in the orbitofrontal cortex of physically aggressive personality
+disordered patients. Biol Psychiatry 2010;67:1154–62.
+Roseman L, Leech R, Feilding A, Nutt DJ, Carhart-Harris RL. The effects of psilocybin and
+MDMA on between-network resting state functional connectivity in healthy
+volunteers. Front Hum Neurosci 2014;8:204.
+Rosner S, Hackl-Herrwerth A, Leucht S, Vecchi S, Srisurapanont M, Soyka M. Opioid
+antagonists for alcohol dependence. Cochrane Database Syst Rev 2010a:CD001867.
+Rosner S, Hackl-Herrwerth A, Leucht S, Lehert P, Vecchi S, Soyka M. Acamprosate for alco-
+hol dependence. Cochrane Database Syst Rev 2010b:CD004332.
+Roy C. Indian peyotists and alcohol. Am J Psychiatry 1973;130:329–30.
+Rydzyński Z, Gruszczyński W. Treatment of alcoholism with psychotomimetic drugs. A
+follow-up study. Act Nerv Super (Praha) 1978;20:81–2.
+Rydzyński Z, Cwyna RS, Grzelak L, Jagiello W. Prelminary report on the experience with
+psychosomimetic drugs in the treatment of alcobolism. Act Nerv Super (Praha)
+1968;10:273.
+Savage C, McCabe OL. Residential psychedelic (LSD) therapy for the narcotic addict. A
+controlled study. Arch Gen Psychiatry 1973;28:808–14.
+Shelton RC, Sanders-Bush E, Manier DH, Lewis DA. Elevated 5-HT 2A receptors in post-
+mortem prefrontal cortex in major depression is associated with reduced activity of
+protein kinase A. Neuroscience 2009;158:1406–15.
+Sherwood JN, Stolaroff MJ, Harman WW. The psychedelic experience—a new concept in
+psychotherapy. J Neuropsychiatr 1962;4:69–80.
+Sinha R, Li CS. Imaging stress- and cue-induced drug and alcohol craving: association with
+relapse and clinical implications. Drug Alcohol Rev 2007;26:25–31.
+Smart RG, Storm T, Baker EF, Solursh L. A controlled study of lysergide in the treatment of
+alcoholism. 1. The effects on drinking behavior. Q J Stud Alcohol 1966;27:469–82.
+Smith CM. A new adjunct to the treatment of alcoholism: the hallucinogenic drugs. Q J
+Stud Alcohol 1958;19:406–17.
+Smith CM. Some reﬂections on the possible therapeutic effects of the hallucinogens; with
+special reference to alcoholism. Q J Stud Alcohol 1959;20:292–301.
+Soloff PH, Price JC, Meltzer CC, Fabio A, Frank GK, Kaye WH. 5HT2A receptor binding is in-
+creased in borderline personality disorder. Biol Psychiatry 2007;62:580–7.
+Stewart O. The Peyote religion: a history. Norman: University of Oklahoma Press; 1987.
+Strassman RJ. Adverse reactions to psychedelic drugs. A review of the literature. J Nerv
+Ment Dis 1984;172:577–95.
+Tagliazucchi E, Carhart-Harris R, Leech R, Nutt D, Chialvo DR. Enhanced repertoire of brain
+dynamical states during the psychedelic experience. Hum Brain Mapp 2014;35:
+5442–56.
+Thomas G, Lucas P, Capler NR, Tupper KW, Martin G. Ayahuasca-assisted therapy for ad-
+diction: results from a preliminary observational study in Canada. Curr Drug Abuse
+Rev 2013;6:30–42.
+Thompson PM, Cruz DA, Olukotun DY, Delgado PL. Serotonin receptor, SERT mRNA and
+correlations with symptoms in males with alcohol dependence and suicide. Acta
+Psychiatr Scand 2012;126:165–74.
+Tomsovic M, Edwards RV. Lysergide treatment of schizophrenic and nonschizophrenic al-
+coholics: a controlled evaluation. Q J Stud Alcohol 1970;31:932–49.
+Tsuchioka M, Takebayashi M, Hisaoka K, Maeda N, Nakata Y. Serotonin (5-HT) induces
+glial cell line-derived neurotrophic factor (GDNF) mRNA expression via the
+transactivation of ﬁbroblast growth factor receptor 2 (FGFR2) in rat C6 glioma cells.
+J Neurochem 2008;106:244–57.
+Underwood MD, Mann JJ, Huang YY, Arango V. Family history of alcoholism is associated
+with lower 5-HT2A receptor binding in the prefrontal cortex. Alcohol Clin Exp Res
+2008;32:593–9.
+US Department of Health and Human Services. The health consequences of smoking: 50
+years of progress: a report of the surgeon general. Atlanta, GA: US Department of
+Health and Human Services, Centers for Disease Control and Prevention, National
+Center for Chronic Disease Prevention; 2014.
+Vaidya VA, Marek GJ, Aghajanian GK, Duman RS. 5-HT2A receptor-mediated regulation of
+brain-derived neurotrophic factor mRNA in the hippocampus and the neocortex. J
+Neurosci 1997;17:2785–95.
+Volkow ND, Li TK. Drugs and alcohol: treating and preventing abuse, addiction and their
+medical consequences. Pharmacol Ther 2005;108:3–17.
+Vollenweider FX, Kometer M. The neurobiology of psychedelic drugs: implications for the
+treatment of mood disorders. Nat Rev Neurosci 2010;11:642–51.
+Vollenweider FX, Vollenweider-Scherpenhuyzen MF, Babler A, Vogel H, Hell D. Psilocybin
+induces schizophrenia-like psychosis in humans via a serotonin-2 agonist action.
+Neuroreport 1998;9:3897–902.
+Wiesbeck GA, Weijers HG, Chick J, Naranjo CA, Boening J. Ritanserin in relapse prevention
+in abstinent alcoholics: results from a placebo-controlled double-blind international
+multicenter trial. Ritanserin in Alcoholism Work Group. Alcohol Clin Exp Res 1999;
+23:230–5.
+World Health Organization. WHO report on the global tobacco epidemic, 2011: warning
+about the dangers of tobacco. Geneva, Switzerland: World Health Organization; 2011.
+Zhang C, Marek GJ. AMPA receptor involvement in 5-hydroxytryptamine2A receptor-
+mediated pre-frontal cortical excitatory synaptic currents and DOI-induced head
+shakes. Prog Neuropsychopharmacol Biol Psychiatry 2008;32:62–71.
+9
+M.P. Bogenschutz, M.W. Johnson / Progress in Neuro-Psychopharmacology & Biological Psychiatry xxx (2015) xxx–xxx
+Please cite this article as: Bogenschutz MP, Johnson MW, Classic hallucinogens in the treatment of addictions, Prog Neuro-Psychopharmacol Biol
+Psychiatry (2015), http://dx.doi.org/10.1016/j.pnpbp.2015.03.002

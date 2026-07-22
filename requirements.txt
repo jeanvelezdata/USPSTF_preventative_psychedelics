@@ -3,3 +3,6 @@ numpy>=1.26
 openpyxl>=3.1
 pandas>=2.1
 python-docx>=1.1
+pymupdf>=1.24  # aedemographics_extraction/scripts/preprocess_pdfs.py
+pytesseract>=0.3  # aedemographics_extraction/scripts/preprocess_pdfs.py OCR fallback; also needs the
+                  # Tesseract binary itself (not pip-installable): conda install -c conda-forge tesseract

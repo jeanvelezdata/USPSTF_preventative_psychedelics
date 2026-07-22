@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {
+      "StudyID": "Cakic 2010",
+      "Citation": "Cakic V, Potkonyak J, Marshall A. Dimethyltryptamine (DMT): Subjective effects and patterns of use among Australian recreational users. Drug and Alcohol Dependence. 2010.",
+      "Title": "Dimethyltryptamine (DMT): Subjective effects and patterns of use among Australian recreational users",
+      "Year": 2010,
+      "Corpus/Prefix": ".",
+      "Condition": ".",
+      "Substance": "DMT, Ayahuasca",
+      "IsObservational": "Y",
+      "N": 121,
+      "AE_denominator": 121,
+      "ArmScope": "psychedelic_arm",
+      "PctFemale": 14,
+      "GenderCategory": "86% male; remainder (14%) presumed female (binary framing implied, not explicitly confirmed); no non-binary/other categories reported",
+      "PctBIPOC": ".",
+      "PctIndigenous": 0.8,
+      "SafetyReported": "Y",
+      "AnyAEReported": "Y",
+      "NumDistinctAEs": 5,
+      "NParticipantsWithAE": ".",
+      "WorstSeverity": "Mild",
+      "text_source": "born-digital",
+      "Model": "claude-sonnet-5",
+      "PromptVersion": "ae_extraction_prompt_v1",
+      "RubricVersion": "severity_rubric_v1",
+      "Temperature": 1
+    },
+    "ae_events": [
+      {
+        "AE_ID": "Cakic 2010_AE01",
+        "StudyID": "Cakic 2010",
+        "AE_type": "AE",
+        "Description": "Bad taste and coughing when smoking DMT, described as difficulty with the act of smoking; cited by 49.6% of respondents rating negative aspects (n=103)",
+        "Onset": "in-session",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Cakic 2010_AE02",
+        "StudyID": "Cakic 2010",
+        "AE_type": "challenging_experience",
+        "Description": "Psychospiritual distress/conflict, an overwhelming change in outlook difficult to integrate after effects wore off; 23.5% (smoked DMT, n=103) and 16% (ayahuasca, n=25)",
+        "Onset": "post-session-acute",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "Y",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Cakic 2010_AE03",
+        "StudyID": "Cakic 2010",
+        "AE_type": "challenging_experience",
+        "Description": "Marked anxiety or stress experienced under the influence of smoked DMT; reported by 10.9% of respondents rating negative aspects (n=103)",
+        "Onset": "in-session",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Cakic 2010_AE04",
+        "StudyID": "Cakic 2010",
+        "AE_type": "AE",
+        "Description": "Nausea, bad taste, and purging (vomiting) associated with ayahuasca use; reported by 44% of respondents rating negative aspects (n=25)",
+        "Onset": "in-session",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Cakic 2010_AE05",
+        "StudyID": "Cakic 2010",
+        "AE_type": "challenging_experience",
+        "Description": "Ayahuasca experience described as overly intense; cited as a negative aspect by 12% of respondents rating negative aspects (n=25)",
+        "Onset": "in-session",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "Y",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "N"
+      }
+    ]
+  },
+  "rationale": {
+    "article": {
+      "IsObservational": "Cross-sectional, self-administered online survey of recreational DMT/ayahuasca users recruited via snowball sampling and an internet newsletter ad; no randomization or experimental protocol \u2014 real-world use as it naturally occurs is observed, not assigned. Clearly observational.",
+      "Condition": "This is a survey characterizing recreational DMT/ayahuasca use patterns, subjective effects, and attitudes \u2014 not a study of alcohol, smoking, or opioid use disorder or their treatment. Alcohol and tobacco use appear only as concomitant lifetime/30-day drug-use covariates (Table 1: 98.3%/95.9% ever-used), not as the study's target condition. None of Alcohol/Smoking/Opioid genuinely applies, so coded '.'.",
+      "Substance": "DMT was consumed via two routes reported in the article: smoked freebase DMT (98.3% of sample) and oral ayahuasca (a DMT-containing brew, 30.6% of sample). Both are the same active compound, so both are listed.",
+      "AE_denominator": "No single denominator covers all AE items. The 'no participant sought medical attention' statement applies to the full N=121, which is used here as the overall safety-population denominator. Item-specific denominators differ: smoked-DMT negative-aspect themes used n=103, ayahuasca negative-aspect themes used n=25 (of 37 total ayahuasca users) \u2014 these are noted individually in each ae_events Description.",
+      "PctFemale": "Article reports only that 86% of the sample was male ('the majority of whom were male (86%)'); no explicit female percentage or non-binary breakdown is given. PctFemale = 100-86 = 14 is inferred assuming a strict male/female binary underlies the reported 86% figure, which is not explicitly confirmed by the authors.",
+      "PctBIPOC": "Article reports nativity (86.8% Australian-born), religious affiliation, and that one participant was of indigenous Australian descent, but gives no overall race/ethnicity breakdown, so total non-white % cannot be derived.",
+      "PctIndigenous": "Article states 'one reported being of indigenous Australian descent' out of N=121, i.e., 1/121 = 0.8%.",
+      "NumDistinctAEs": "Counted from the self-reported 'negative aspects' of smoked DMT and ayahuasca (Table 2, Sections 3.7-3.8) plus narrative text: (1) coughing/bad taste from smoking, (2) psychospiritual distress/conflict (combined across both routes as the same phenomenon type), (3) anxiety/stress during smoked DMT, (4) nausea/purge during ayahuasca, (5) ayahuasca described as overly intense = 5 distinct types. Excluded 'short duration', 'long duration', 'legal status', and 'poorly prepared brews' as dissatisfaction/logistics themes rather than adverse or challenging experiences. Excluded 'falls or burns' and 'possible respiratory damage' (Section 3.9) because these were elicited as general perceived risks of DMT use ('what they felt were the three main risks'), not events respondents stated they personally experienced.",
+      "NParticipantsWithAE": "No article statement gives a single unduplicated count of participants experiencing >=1 negative/adverse effect; each negative-aspect theme has its own percentage against a different item-specific denominator (n=103 smoked DMT, n=25 ayahuasca) with likely overlap across themes that cannot be resolved from the reported data.",
+      "WorstSeverity": "No participant reported seeking medical attention as a consequence of DMT use, and no author-labeled SAE or hospitalization/life-threatening event is reported anywhere in the article, consistent with all identified AEs grading Mild under the rubric."
+    },
+    "ae_events": {
+      "Cakic 2010_AE02": "Described as an 'overwhelming change in psychological or spiritual outlook or worldview that may be difficult to integrate once the effects of DMT had worn off' \u2014 this hints at persistence beyond the acute dosing period (which would push toward Moderate) but no explicit duration (days/weeks) or intervention need is given, so detail is insufficient for a confident grade above Mild; defaulted Mild and flagged SeverityIndeterminate=Y per the rubric's under-specified-AE rule.",
+      "Cakic 2010_AE05": "Ayahuasca 'intensity' is cited only as a bare theme label (12%) with no further description of what made the experience intense, its consequences, or any intervention \u2014 insufficient detail to grade confidently; defaulted Mild and flagged SeverityIndeterminate=Y per the rubric's under-specified-AE rule."
+    }
+  }
+}

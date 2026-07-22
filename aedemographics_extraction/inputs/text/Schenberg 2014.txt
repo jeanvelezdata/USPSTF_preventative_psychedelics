@@ -1,0 +1,889 @@
+ 
+http://jop.sagepub.com/
+Journal of Psychopharmacology
+ 
+http://jop.sagepub.com/content/28/11/993
+The online version of this article can be found at:
+ 
+DOI: 10.1177/0269881114552713
+ 2014 28: 993 originally published online 29 September 2014
+J Psychopharmacol
+Eduardo Ekman Schenberg, Maria Angélica de Castro Comis, Bruno Rasmussen Chaves and Dartiu Xavier da Silveira
+Treating drug dependence with the aid of ibogaine: A retrospective study
+ 
+ 
+Published by:
+ 
+http://www.sagepublications.com
+On behalf of:
+ 
+ 
+ 
+British Association for Psychopharmacology
+ can be found at:
+Journal of Psychopharmacology
+Additional services and information for 
+ 
+ 
+ 
+ 
+ 
+http://jop.sagepub.com/cgi/alerts
+Email Alerts: 
+ 
+ 
+http://jop.sagepub.com/subscriptions
+Subscriptions: 
+ 
+ 
+http://www.sagepub.com/journalsReprints.nav
+Reprints: 
+ 
+ 
+http://www.sagepub.com/journalsPermissions.nav
+Permissions: 
+ 
+ 
+What is This?
+ 
+- Sep 29, 2014
+OnlineFirst Version of Record 
+ 
+- Oct 16, 2014
+Version of Record 
+>> 
+ at BOSTON COLLEGE on November 28, 2014
+jop.sagepub.com
+Downloaded from 
+ at BOSTON COLLEGE on November 28, 2014
+jop.sagepub.com
+Downloaded from 
+
+
+Journal of Psychopharmacology
+2014, Vol. 28(11) 993­–1000
+© The Author(s) 2014
+Reprints and permissions: 
+sagepub.co.uk/journalsPermissions.nav
+DOI: 10.1177/0269881114552713
+jop.sagepub.com
+Introduction
+Problems related to drug use, abuse and dependence have been 
+receiving increasing attention worldwide. The number of users of 
+illicit drugs, such as cannabis, opioids, cocaine, and crack is esti-
+mated to be around 149–271 million (Degenhardt and Hall, 
+2012). On the other hand, lifetime use of licit drugs such as alco-
+hol and tobacco is estimated at 55% and 30% of the world popu-
+lation, respectively (Storr et al., 2010). The consumption of such 
+drugs has been associated with considerable morbidity and mor-
+tality (Degenhardt and Hall, 2012) as well as social problems 
+(Nutt et al., 2007; 2010), making drug use, abuse and dependence 
+one of the most important public health concerns in psychiatry.
+Despite high rates of dependence, safe and effective pharma-
+cological addiction treatments are still lacking. While pharmaco-
+logical interventions do exist for opioid dependence treatment, 
+they are targeted towards craving reduction (Nutt and Lingford-
+Hughes, 2008). One alternative approach for the treatment of opi-
+oid dependence is the use of ibogaine, a monoterpene alkaloid 
+with strong psychoactive properties (Alper, 2001; Brown, 2013). 
+Given its long-lasting and varied effects, a classification of ibo-
+gaine has proved challenging. Nevertheless, some have proposed 
+classifying the compound as a hallucinogen, psychedelic or onei-
+rogen (Alper and Lotsof, 2007).
+Ibogaine is only one of a dozen alkaloids present in the root bark 
+of the Tabernanthe iboga plant, traditionally used in Gabon, 
+Cameroon and other parts of West central Africa in Shamanic 
+rituals of the Bwiti religion (Alper, 2001). Around 1960, ibogaine 
+gained more attention in the West when Howard Lotsof, an opioid-
+dependent patient, discovered that ibogaine might be a useful 
+therapeutic tool in the treatment of drug addiction, particularly in the 
+alleviation of opioid craving (Alper, 2001; Brown, 2013).
+After these initial uncontrolled case reports, non-clinical, 
+clinical and laboratory-based research has sought to assess ibo-
+gaine’s efficacy in the treatment of opioid addiction. At least two 
+case studies have demonstrated the drug’s effectiveness at reduc-
+ing cravings during opioid withdrawal: one from 32 patients 
+treated at a clinic (Mash et  al., 2001), and another from 33 
+patients treated in non-medical settings (Alper et al., 1999).
+Corroborating ibogaine’s therapeutic effects in the treatment of 
+opioid dependence are results from animal research, which have 
+shown reductions in withdrawal signs in morphine-dependent ani-
+mals (Dzoljic et al., 1988; Glick et al., 1992; Leal et al., 2003; 
+Treating drug dependence with the aid of 
+ibogaine: A retrospective study
+Eduardo Ekman Schenberg1, Maria Angélica de Castro Comis2, Bruno 
+Rasmussen Chaves3 and Dartiu Xavier da Silveira4
+Abstract
+Ibogaine is an alkaloid purported to be an effective drug dependence treatment. However, its efficacy has been hard to evaluate, partly because 
+it is illegal in some countries. In such places, treatments are conducted in underground settings where fatalities have occurred. In Brazil ibogaine 
+is unregulated and a combined approach of psychotherapy and ibogaine is being practiced to treat addiction. To evaluate the safety and efficacy 
+of ibogaine, we conducted a retrospective analysis of data from 75 previous alcohol, cannabis, cocaine and crack users (72% poly-drug users). 
+We observed no serious adverse reactions or fatalities, and found 61% of participants abstinent. Participants treated with ibogaine only once 
+reported abstinence for a median of 5.5 months and those treated multiple times for a median of 8.4 months. This increase was statistically 
+significant (p < 0.001), and both single or multiple treatments led to longer abstinence periods than before the first ibogaine session 
+(p < 0.001). These results suggest that the use of ibogaine supervised by a physician and accompanied by psychotherapy can facilitate prolonged 
+periods of abstinence, without the occurrence of fatalities or complications. These results suggest that ibogaine can be a safe and effective treatment 
+for dependence on stimulant and other non-opiate drugs.
+Keywords
+Ibogaine, dependence, addiction, cocaine, crack
+1Universidade Federal de São Paulo, Departamento de Psiquiatria, 
+Instituto Plantando Consciência, São Paulo, Brazil
+2Instituto Plantando Consciência, São Paulo, Brazil
+3M.P.P.G Hospital, Santa Cruz do Rio Pardo, Brazil
+4Universidade Federal de São Paulo, Programa de Orientação e 
+Atendimento a Dependentes (PROAD), Departamento de Psiquiatria, 
+Instituto Plantando Consciência, São Paulo, Brazil
+Corresponding author:
+Eduardo Ekman Schenberg, Universidade Federal de São Paulo, 
+Departamento de Psiquiatria; Instituto Plantando Consciência. Rua 
+Teixeira da Silva 251 apt 41, Jardim Paulistano, São Paulo, SP 04002-
+030, Brazil. 
+Email: eduardoschenberg@gmail.com
+552713 JOP0010.1177/0269881114552713Journal of PsychopharmacologySchenberg et al.
+research-article2014
+Original Paper
+ at BOSTON COLLEGE on November 28, 2014
+jop.sagepub.com
+Downloaded from 
+
+
+994	
+Journal of Psychopharmacology 28(11)
+Parke et al., 2002; Sharpe and Jaffe, 1990), attenuation of mor-
+phine-induced place preference (Parker and Siegel, 2001), reduc-
+tion in self-administration to morphine (Glick et al., 1991, 1994) 
+and decreases in dopamine efflux in the nucleus accumbens or 
+striatum after cocaine or morphine administration (Glick et  al., 
+1994; Maisonneuve et al., 1991). Furthermore, animal research has 
+also indicated a potential efficacy of ibogaine in reducing self-
+administration of alcohol (Rezvani et  al., 1995), amphetamine 
+(Maisonneuve et al., 1992) and cocaine (Cappendijk and Dzoljic, 
+1993; Glick et al., 1994).
+In recent decades, ibogaine’s therapeutic potential coalesced 
+in what was termed “a medical subculture” (Alper et al., 2008) or 
+a “vast, uncontrolled experiment” (Vastag, 2005) with more than 
+3000 documented cases reported until 2006 (Alper et al., 2008). 
+This is attributed, at least in part, to ibogaine’s hallucinogenic 
+action, which can induce very potent and prolonged psychologi-
+cal and emotional effects.
+However, in some places where the substance is illegal, ibo-
+gaine or iboga extracts are used without quality control and with-
+out the supervision of trained and qualified medical staff. Such 
+conditions may be responsible for some of the fatalities that have 
+been reported after ibogaine ingestion (Alper et  al., 2012). 
+Although it is not possible to determine a single factor to explain 
+these adverse reactions (Alper et al., 2012), the presence of a 
+Long-QT Syndrome is the most accepted explanation (Hoelen 
+et al., 2009; Koenig et al., 2013, 2014; Maas and Strubelt, 2006; 
+Paling et al., 2012; Pleskovic et al., 2012).
+Prolongation of the electrocardiogram QT interval, the tradi-
+tional measure of ventricular de- and repolarization, is associated 
+with ventricular arrhythmia that can be caused by prolongation of 
+ventricular repolarization or repolarization with disturbances 
+(Van Noord et al., 2010). One of the most common causes of QT 
+prolongation is the use of drugs, including anti-psychotic, anti-
+histaminic and gastrointestinal compounds. Importantly, QT pro-
+longation has been reported in alcohol use (Aasebø et al., 2007) 
+and withdrawal (Cuculi et al., 2006; Kino et al., 1981; Otero-
+Antón et al., 1997) as well as cocaine use (Hoffman, 2010). QT 
+prolongation during alcohol withdrawal may persist for 7 days 
+after alcohol consumption has ceased (Kino et al., 1981), while 
+for cocaine it significantly diminishes after a week of cocaine 
+abstinence (Levin et al., 2008).
+These effects generally result from pharmacological inhibitory 
+actions at delayed rectifier potassium channels encoded by the 
+human ether a go-go related gene (hERG) (Van Noord et al., 2010). 
+Once ibogaine induces this pharmacological action (Koenig et al., 
+2013, 2014), it may potentiate QT prolongation from acute drug 
+use or even from withdrawal, possibly causing a potentially fatal 
+ventricular arrhythmia (Van Noord et al., 2010). Therefore, care-
+fully monitoring QT prolongation has been proposed as an impor-
+tant safety measure (Roden, 2008). Yet this remains controversial, 
+mainly due to the fact that not all QT prolongations are actually 
+proarrhythmic, and that some proarrhythmias are found in the 
+absence of QT prolongation (Hondeghem, 2008).
+However, given that most of the fatalities associated with ibo-
+gaine occurred many hours or even days after ibogaine ingestion, 
+acute toxic effects possibly related to QT prolongation may not 
+explain some of these cases (Alper et al., 2012). As such, the 
+occurrence of comorbidities, detected in 12 of the 14 reported 
+cases, may have contributed to some of these deaths. Such 
+comorbidities included liver disease, peptic ulcer disease, brain 
+neoplasm, hypertensive and atherosclerotic cardiovascular dis-
+ease and obesity (Alper et al., 2012). Taken together, the com-
+plexity of these fatalities suggests that new studies about 
+ibogaine’s effect on the ECG are needed.
+Despite the reported adverse reactions, the therapeutic use of 
+ibogaine seems to be growing more prevalent, particularly among 
+opioid-dependent individuals (Brown, 2013). Yet, evidence for 
+the use of ibogaine in the treatment of other addictions, such as 
+psychostimulant dependence, is still scarce, despite considerable 
+research from animal models that suggests ibogaine has thera-
+peutic potential for treating non-opioid drug dependence 
+(Cappendijk and Dzoljic, 1993; Glick et al., 1994; Maisonneuve 
+et al., 1992; Rezvani et al., 1995).
+Given the current lack of pharmacological interventions for 
+treating psychostimulant dependence, such as cocaine and 
+crack-cocaine, the assessment of ibogaine’s therapeutic poten-
+tial in treating stimulant dependence is of particular importance, 
+especially because most pharmacological treatments for stimu-
+lant dependence revolve around the use of benzodiazepines to 
+alleviate symptoms of withdrawal (Nutt and Lingford-Hughes, 
+2008). In Brazil, although opioid consumption is extremely low 
+(Eckschmidt et al., 2013; Fonseca et al., 2010), ibogaine has 
+been used in the treatment of addiction to other classes of drugs 
+since 2001. Given that there are important behavioral and neu-
+robiological differences between addiction to opioids and to 
+psychostimulants (Badiani et  al., 2011), it is imperative to 
+assess both the efficacy and safety of using ibogaine in the 
+treatment of psychostimulant dependence. Here we provide a 
+report based on retrospective results from an ibogaine treatment 
+currently being practiced in Brazil, in order to assess the safety 
+and efficacy of ibogaine in the treatment of addiction to non-
+opioid substances.
+Methods
+We retrospectively evaluated data from a residential, private 
+clinic in Curitiba, Paraná, Brazil, which treats patients with sub-
+stance use disorders using cognitive behavioral therapy (CBT). 
+The clinic owner, a psychologist, works in association with a 
+physician who administers ibogaine hydrochloride (ibogaine 
+HCl) in a private hospital in Santa Cruz do Rio Pardo, São Paulo, 
+Brazil. Patients paid for the treatment, since both the clinic and 
+the hospital are private institutions.
+Patients were psychologically and physically evaluated at the 
+clinic by a multi-professional team, including psychiatrists, psy-
+chologists, nurses, physiotherapists and music therapists. Drug 
+dependence was reportedly established using the diagnostic criteria 
+from the Diagnostic and Statistical Manual for Mental Disorders 
+(DSM-IV).
+When the clinic first opened, patients were required to stay 
+abstinent for at least 30 days prior to ibogaine administration, but 
+this was later extended to 60 days after a new protocol was estab-
+lished. This change was reported as necessary to prevent any 
+pharmacological interactions with ibogaine. This period was also 
+considered important to ensure that patients were motivated to 
+follow treatment procedures and to stop using drugs. The absti-
+nence period could be achieved either at home or at the center as 
+a 24-hour residential patient at the clinic.
+Upon arrival at the clinic, if patients exhibited any violent 
+behavior, they were confined to a special isolated room for a few 
+ at BOSTON COLLEGE on November 28, 2014
+jop.sagepub.com
+Downloaded from 
+
+
+Schenberg et al.	
+995
+days. All patients were advised to stay at the clinic or at home 
+after the ibogaine session, away from other people, duties or any 
+kind of social activity for at least 7 days. Participants were only 
+accepted into the ibogaine treatment if they agreed to comply 
+with the psychological follow-up.
+According to the general protocol provided, the inclusion cri-
+teria for the ibogaine treatment were general conditions of good 
+health, as measured by routine clinical exams (electrolyte levels, 
+aspartate aminotransferase, alanine aminotransferase, bilirubins, 
+gamma glutamyl transferase, creatinine, blood sugar and hemo-
+gram), an absence of psychiatric comorbidities, strong psycho-
+logical motivation to remain abstinent and willingness to 
+participate in the psychotherapy before and after ibogaine admin-
+istration, with familial support. Exclusion criteria were preg-
+nancy, surgery in the last 6 months, uncontrolled high blood 
+pressure, uncontrolled diabetes, cardiac arrhythmias, renal insuf-
+ficiency, hepatic insufficiency, Alzheimer’s disease and 
+Parkinson’s disease.
+Ibogaine HCl was imported from a Canadian provider 
+(Phytostan Enterprises, Inc.), individually for each patient, in 
+powder form (5 g). Upon arrival, ibogaine was weighed and 
+placed in capsules by a local pharmacy at the request of the phy-
+sician responsible for importing ibogaine.
+Patients were typically given a dose of 17 mg/kg, but this was 
+subject to change depending upon the patients’ weight at the time 
+of treatment. Ibogaine administration was preceded by a 20 mg 
+dose of domperidone, a dopamine D2/D3 receptor antagonist 
+prescribed to reduce potential nausea from the ibogaine (Lotsof 
+and Watchel, 2003) between 30 to 45 minutes prior to ibogaine 
+administration. Doses were divided and administered in multiple 
+capsules and if a patient exhibited a weak response to the initial 
+dose, an additional 100 to 200 mg was administered to the patient. 
+A total dose of 20 mg/kg was never exceeded.
+Ibogaine was administered in the morning, around 9 a.m., with 
+patients having been previously advised to eat just only a light 
+breakfast that morning in order to prevent nausea. The acute effects 
+lasted approximately 10 hours. Patients stayed in bed in a private 
+hospital room, in silence. The physician responsible for the proce-
+dure remained in the hospital throughout the entire treatment and 
+visited the patient’s private room every 25 or 30 minutes.
+During the effects of ibogaine, the doctor avoided influencing 
+the patients’ experiences, but provided any psychological or 
+emotional support if needed. This typically involved reassuring 
+clients that all effects and reactions were part of the experience. 
+Patients were encouraged to be quiet, calm and confident. Blood 
+pressure, cardiac frequency and oxygen saturation were meas-
+ured at each of the visits to the patient room. Patients stayed in 
+the hospital overnight, and were dismissed only after 24 to 48 
+hours. After leaving the hospital, they returned to the clinic for 
+further psychological therapy.
+Based on psychological evaluation of the patient in the 
+months following ibogaine administration, it was sometimes 
+decided by the psychologist and the physician that another ibo-
+gaine session might be beneficial to the therapeutic outcome. 
+This was typically decided if patients experienced intense crav-
+ings, lapses (here defined as a brief return to drug use, with the 
+patient rapidly asking again for help) relapses (here defined as a 
+complete return to drug use), difficulty in changing old-habit pat-
+terns related to drug use, continued involvement with previous 
+friends who were also drug users, or difficulty in reintegrating 
+with the family. The decision to take another dose or not was 
+always decided upon through close consultation between the 
+patient, family and therapeutic team.
+Patient data were provided to the researchers separately by 
+the clinic staff and by the physician responsible for both the 
+ibogaine administration and patients’ assistance during ibo-
+gaine sessions. In addition, lapse, relapse and abstinence data 
+were obtained directly from the patients or their close relatives 
+through telephone conversations. These data were obtained 
+from 5–20 minute interview, without using specific question-
+naires or rating scales. Abstinence was defined as not using any 
+drugs, with the exception of the occurrence of brief lapses.
+Data were then entered in a Microsoft Excel database, 
+which was subsequently analyzed using SPSS 17.0 statistical 
+software. Parametric data were analyzed by a Student’s t-test 
+and non-parametric data were analyzed using a Mann–Whitney 
+U test or a Friedman’s test followed by a Wilcoxon signed-rank 
+test with Bonferroni correction. Associations between categor-
+ical variables were evaluated by Pearson Chi-square tests. 
+Level of significance was set at p < 0.05, after Bonferoni cor-
+rection when appropriate. Data are expressed in mean ± stand-
+ard deviation. Median and range are also reported for the 
+examined variables.
+All procedures for the study were approved by the Research 
+Ethical Committee from Universidade Federal de São Paulo prior 
+to the start of the research. However, all the treatment procedures 
+had been previously conducted independently of the participation 
+of the University and of the authors of the present investigation 
+(except BRC who is responsible for the ibogaine administration). 
+Patients consented to participating in the study at the start of each 
+telephone conversation, where they would be asked about lapses, 
+relapses, drug use and abuse history and their current pattern of 
+use or abstinence.
+Results
+Patient information
+Data were gathered from 75 drug-dependent patients (67 male, 8 
+female) who underwent a total of 134 ibogaine HCl sessions. 
+Fifty-five patients (73%) were contacted by telephone, six (8%) 
+were contacted and met in-person, and 14 (19%) were not avail-
+able at the time of contact, but their data were provided by the 
+patients’ parents (11 cases), wives (2 cases), or ex-wife (1 case). 
+Among those 14 individuals that could not be reached, 10 were 
+residential patients at other clinics for drug dependence treat-
+ment at the time of contact, one was working abroad, two were 
+in jail, and one was hospitalized due to an accident unrelated to 
+ibogaine use.
+There were no statistically significant differences (U = 186.5; 
+p = 0.16) between the ages of male (34.16 ± 8.33 years old) and 
+female (29.50 ± 5.31 years old) participants. Men were signifi-
+cantly heavier (79.32 ± 12.25 kg) than women (67.74 ± 4.02 kg) 
+(U = 94.0; p < 0.01). There were no significant differences 
+(U = 174.0; p = 0.89) in the number of previous treatments com-
+pleted by male (5.40 ± 0.91) and female (3.83 ± 3.31) partici-
+pants prior to joining the ibogaine program. Only six patients 
+(8%) reported no drug treatments previous to joining the ibo-
+gaine program. One man had been in jail previous to joining the 
+ibogaine treatment.
+ at BOSTON COLLEGE on November 28, 2014
+jop.sagepub.com
+Downloaded from 
+
+
+996	
+Journal of Psychopharmacology 28(11)
+Patient drug use history
+Of the patients, 48 (64%) reported lifetime use of alcohol, 61 
+(81%) of cannabis, 62 (83%) of snorted cocaine, six (8%) 
+reported previous use of injected cocaine and 51 (68%) reported 
+having had previously used crack-cocaine. Some 54 patients 
+(72%) were users of multiple substances: alcohol, cannabis, 
+cocaine, and crack. Tobacco use was reported by 11 patients 
+(15%). Opioid use was reported by only one female patient, who 
+came from Italy with the specific purpose of undergoing ibogaine 
+treatment. Other drugs mentioned included methamphetamine 
+(one patient), “acid”, “ecstasy”, and prescription substances such 
+as benzydamine (Benflogin) and metylphenidate (Ritalin).
+There were no statistically significant associations between 
+gender and use of alcohol (Chi2 = 0.284, p = 0.594, n = 50), can-
+nabis (Chi2 = 0.129, p = 0.719, n = 62), cocaine (Chi2 = 0.127, 
+p = 0.722, n = 63) or crack (Chi2 = 0.053, p = 0.818, n = 68).
+Participants reported initiation of alcohol use at a younger age 
+than other drugs (13.79 ± 2.97, range 7–21), followed by canna-
+bis (15.25 ± 3.09, range 11–30), cocaine (19.21 ± 4.57, range 
+12–32) and then crack (25.20 ± 7.25, range 14–50). There were 
+no significant differences between men and women regarding the 
+age of onset of use for alcohol (t = 0.106, p = 0.916, n = 47), can-
+nabis (t = -1.891, p = 0.064, n = 59) or cocaine (t = 0.303, 
+p = 0.763, n = 58). However, men started using crack (25.88 ± 7.31, 
+range 15–50, n = 41) significantly later then women (19.60 ± 3.51, 
+range 14–23, n = 5) (U = 41.0, p = 0.030, n = 46).
+Ibogaine sessions
+Although the physician has been working with ibogaine since 
+2001, the first treatment session with ibogaine in this sample took 
+place on 9 January 2005 and the last on 22 March 2013. Twenty 
+ibogaine HCl sessions (20%) occurred between 2008 and 2009, 
+53 (40%) between 2010 and 2011 and 52 (40%) between 2012 
+and March 2013.
+All 75 patients underwent at least one ibogaine session. 
+Among those, 33 (44%) took it twice, 14 (19%) took it three 
+times, five patients (7%) participated in four sessions, two (3%) 
+were administered ibogaine five times, and one patient (1%) took 
+it nine times. Five women (63%) participated in only one ibo-
+gaine session, and three (38%) were administered ibogaine twice. 
+There was no significant association between gender and the 
+number of ibogaine sessions (Chi2 = 2.166, p = 0.826).
+The mean time interval between the first and second ibogaine 
+sessions among all participants was 245.34 ± 226.297 days 
+(range 31–979), 303.14 ± 277.93 days (range 48–1012) between 
+the second and third, 111.60 ± 100.30 days (range 24–267) 
+between the third and fourth, 95.50 ± 72.83 days (range 44–147) 
+between the fourth and fifth. Only one patient continued taking 
+ibogaine after the fifth session (he took a total of nine treatments). 
+Between the fifth and sixth session there was an interval of 87 
+days, followed by an interval of 93 days before the seventh ses-
+sion, of 88 days before the eighth session and more 96 days 
+before the ninth session.
+Ibogaine dosage
+The dose in the first ibogaine session was significantly higher 
+among men (14.81 mg/kg ± 1.61, n = 67) than among women 
+(12.03 mg/kg ± 0.85, n = 8) (U = 19.0, p < 0.001). Only three 
+women participated in a second ibogaine session, rendering data 
+unsuitable to statistical comparison with the second dose of men. 
+The second dose of the male patients was 13.75 mg/kg ± 2.10 
+(n = 31), whereas for women it was 11.85 mg/kg ± 0.21. In the 
+third session, the dose for men was 13.34 mg/kg ± 2.28 (n = 14), 
+and in the fourth it was 12.22 mg/kg ± 3.04 (n = 5). Only two 
+male patients participated in a fifth ibogaine session; the doses 
+were 7.5 mg/kg and 14.89 mg/kg. The one patient who took ibo-
+gaine over five times took a fixed dosage of 7.5 mg/kg in the 
+sixth through ninth administrations.
+Relapses and abstinence status
+All women reported that they were abstinent at the time of con-
+tact, and only two reported having had a relapse after the initial 
+ibogaine session. Both of these women then took ibogaine a sec-
+ond time and have reportedly not relapsed since. Forty-eight 
+men (72%) stated that they were abstinent, but 10 of those were 
+currently undergoing other treatment interventions. Except for 
+those 10, 38 (57%) men achieved abstinence with no other 
+treatments.
+After the first ibogaine session, 22 of the male patients (29%) 
+recovered without relapses, whereas 53 (71%) relapsed. After the 
+second session, 15 patients (45%) maintained sobriety, and 18 
+reported relapse (55%). After the third session, eight (57%) 
+remained abstinent, and six (43%) relapsed. After the fourth ses-
+sion, one patient did not relapse (20%), and four relapsed (80%). 
+After the fifth session, one patient maintained abstinence (50%), 
+and one patient relapsed, and continued to take ibogaine four 
+more times. These data are visually depicted in Figure 1. There 
+was a significant association between gender and relapse after the 
+first ibogaine session, with men relapsing more frequently than 
+women (Chi2 = 9.009; p = 0.007).
+Duration of abstinence
+With the data obtained, it was possible to calculate the period of 
+abstinence after the first ibogaine session and after all ibogaine 
+sessions for 66 patients. Data regarding days of abstinence just 
+before the first ibogaine session were also provided by 41 
+patients. There were no significant differences in the number 
+of days of abstinence before taking ibogaine between men 
+(190 ± 265.82) and women (75.26 ± 60.36) (U = 53.50; p = 0.11).
+There was a significant increase in the period of abstinence 
+achieved when comparing the days before the first ibogaine ses-
+sion (88.30 ± 15.92, median = 60.00), after the first ibogaine 
+session (298.76 ± 42.26, median = 165.00), and after all sessions 
+combined (419.15 ± 52.86, median = 252.00) (Friedman 
+Chi2 = 23.471; p < 0.001), as shown in Figure 2.
+Seventeen men reported abstinence since their ibogaine 
+session, but with the occurrence of one and only relapse during 
+this abstinence period. Thirteen of them were administered 
+ibogaine only once. For this subsample, the number of days of 
+abstinence between the most recent ibogaine session and the 
+relapse (138.06 ± 105.07, range 16–365 median = 120.00) was 
+significantly shorter than the time of abstinence achieved after 
+this relapse until contact with researchers (547.41 ± 369.21, 
+range 48–1292 median = 520.00) (Z = -3.385; p < 0.001).
+ at BOSTON COLLEGE on November 28, 2014
+jop.sagepub.com
+Downloaded from 
+
+
+Schenberg et al.	
+997
+Figure 1.  Summary of relapse occurrence in the 75 contacted patients after each ibogaine session. The numbers inside the larger blue circles 
+represent the number of patients who participated in each treatment stage. Each step in the tree corresponds to one ibogaine administration. 
+Numbers in the smaller light blue filled circles indicate the number of patients who had stopped at that point of treatment, and therefore were 
+not administered ibogaine again. All upward blue arrows indicate patients who did not relapse after a given ibogaine administration. Downward 
+red arrows point to the number of patients who did relapse after a given session. Each column represents the outcome of a given ibogaine 
+administration (first, second, third and so on).
+Figure 2.  Abstinence duration data. Top = Days of abstinence spent at an inpatient clinic immediately previous to ibogaine administration. Middle 
+= Days of abstinence after first ibogaine session. Bottom = Days of abstinence after all ibogaine sessions. Vertical lines in the histograms depict the 
+corresponding median.
+ at BOSTON COLLEGE on November 28, 2014
+jop.sagepub.com
+Downloaded from 
+
+
+998	
+Journal of Psychopharmacology 28(11)
+Adverse reactions
+No serious adverse effects, such as cardiac arrhythmias or fatali-
+ties, occurred in any patient. However, some mild adverse effects 
+that have previously been reported in the ibogaine literature did 
+occur frequently, but only during the acute effects of ibogaine. 
+These include nausea, ataxia, vomiting, tremors, headaches and 
+mental confusion. Importantly, not a single patient complained 
+about ibogaine’s physical or psychological effects, even in cases 
+in which the experienced effects were considered very strong or 
+unpleasant, or in cases where relapses occurred within a short 
+period of time after treatment.
+On the other hand, four patients (5%) complained about the 
+psychotherapeutic process or other activities during the intern-
+ment period at the clinic, or during the post-ibogaine psychother-
+apeutic sessions.
+Discussion
+The most important result from the present data is that no fatali-
+ties occurred as a result of ibogaine administration in the con-
+trolled dosing (between 7.5 and 20 mg/kg) and medical setting 
+described here. Furthermore, not a single case of serious negative 
+reactions, such as cardiac arrhythmias or persistent ataxia, was 
+reported. These data are relevant in a scenario where at least 19 
+deaths have been associated with iboga or ibogaine consumption 
+until 2008 (Alper et al., 2012), two fatalities reported in 2013 
+(Jalal et al., 2013; Mazoyer et al., 2013) and at least three more 
+cases of complications (Paling et al., 2012) reported to date. It is 
+important to note that the dose used in the current work is far 
+from the LD50 observed in studies with mice (263 mg/kg) 
+(Kubiliene et al., 2008). This important safety precaution could 
+be achieved in the current protocol only because ibogaine was 
+not obtained from underground providers, since ibogaine is not 
+controlled or prohibited in Brazil (Anvisa, 2014). The lack of 
+persistent ataxia in the present study is a particularly important 
+indicator of the absence of cerebellar toxicity, an effect observed 
+after high doses (100 mg/kg) were administered to rats (Molinari 
+et al., 1996; O’Hearn and Molliver, 1997; Xu et al., 2000).
+The absence of fatalities in the present results suggests a rela-
+tive safety of the use of ibogaine hydrochloride in a controlled 
+hospital setting. It is also important to note that in at least five of 
+the 21 (24%) previously documented fatalities, the substance 
+ingested was not ibogaine HCl (Alper et al., 2012). Moreover, 
+many of the documented fatalities occurred in underground treat-
+ments, where a physician was often not present (Alper et  al., 
+2012; Jalal et al., 2013; Mazoyer et al., 2013; Paling et al., 2012). 
+Another factor that may have contributed to the absence of medi-
+cal complications in the present account might be the almost 
+complete lack of opioid use history among the patients involved 
+in the study. Indeed, pharmacological interactions between opi-
+oids and ibogaine have been implicated in some of the previous 
+reported cases of fatalities (Alper et  al., 2012; Brown, 2013). 
+Finally, the treatment protocol includes a long mandatory absti-
+nence period prior to the administration of ibogaine. This likely 
+contributed significantly to the safety of the therapeutic approach 
+by preventing any potential pharmacological interactions 
+between the treatment and other drugs of abuse.
+Given that Long-QT Syndrome, potentially induced by ibo-
+gaine, may be responsible for some fatalities, electrocardiograms 
+before and during ibogaine administration may be a reliable prac-
+tice to reduce this kind of adverse effect. In the present work, 
+however, results of electrocardiograms previous to ibogaine 
+administration were provided to the researchers for only 36 patients 
+(48%), because some of these treatments occurred many years ago.
+To our knowledge, this is the first report to assess the outcome 
+of the use of ibogaine for the treatment of patients who abused 
+alcohol, cannabis, cocaine, and crack but not opioids (with only 
+one European patient having a previous history of opioid use). This 
+is likely the result of the generally low incidence of opioid abuse in 
+Brazil (Baltieri et al., 2004; Fonseca et al., 2010). It is important to 
+emphasize, however, that in this sample, alcohol and cigarette use 
+may have been under reported by the patients, since these data 
+were not obtained using a structured questionnaire. Thus, when 
+asked about previous drug use, they may not have reported alcohol 
+and cigarettes because these substances often do not fit into the 
+cultural conception of a “drug.” It should also be noted that it was 
+not possible to specifically confirm the adopted criteria of depend-
+ence or distinguish between different types of drug dependence.
+Considering the occurrence of relapses after ibogaine adminis-
+trations, the present results are very encouraging. Although there 
+were only eight women in the sample, all were found abstinent at 
+the time of contact. Among men, 51% were also abstinent at the 
+time of contact, and an additional 10 participants were also absti-
+nent, but were participating in other drug dependence treatment 
+interventions.
+Since we were not able to analyze abstinence periods as a func-
+tion of number of ibogaine treatments completed given the decreas-
+ing number of patients participating in subsequent ibogaine 
+sessions, we analyzed only the length of abstinence achieved after 
+the first session as compared with the average abstinence period 
+achieved after all subsequent sessions combined. Despite this 
+caveat, participants reported surprisingly long periods of absti-
+nence, reaching a median of 5.5 months after the first ibogaine 
+session and 8.4 months after all subsequent ibogaine sessions. This 
+increase was statistically significant, corroborating previous 
+reports that participating in more than one ibogaine session may be 
+beneficial in achieving long-term abstinence (Brown, 2013). The 
+abstinence periods reported after completing both a single and 
+multiple ibogaine sessions was also significantly longer than the 
+required period of abstinence achieved before ibogaine administra-
+tion (median = 60). However, one might argue that this presents a 
+potential confound in evaluating the treatment outcome of ibo-
+gaine, because the present sample only included individuals capa-
+ble maintaining the one or two-month abstinence period required 
+before the first ibogaine session. Yet contrary to this reasoning, 
+most clients were only able to achieve and maintain sobriety as 
+full-time residents in the clinic, where some were provided benzo-
+diazepines to assist in the treatment process. Moreover, 69 patients 
+(92%) had already tried other treatments for their drug-related 
+problems without success. In patients’ oral reports, most of those 
+who recovered reported that the ibogaine session(s) were indeed 
+essential to their recovery, although they acknowledged they may 
+not have succeeded without the accompanying psychological treat-
+ment. The fact that 44% decided to participate in more than one 
+ibogaine session further attests to the fact that they saw benefits in 
+using ibogaine as part of their treatment. Furthermore, the propor-
+tion of patients reporting full abstinence (100% for women, 51% 
+for men) was considerably greater than the less than 26% reported 
+from psychotherapy alone (Ouimette et  al., 1997). Even when 
+ at BOSTON COLLEGE on November 28, 2014
+jop.sagepub.com
+Downloaded from 
+
+
+Schenberg et al.	
+999
+compared with other pharmacological interventions, the therapeu-
+tic outcome of ibogaine is robust: the abstinence period achieved 
+after ibogaine treatment tended to be much longer than that 
+observed in recent clinical trials for the treatment of psychostimu-
+lant dependence with the drug topiramate (Johnson et al., 2013; 
+Mariani et al., 2012). However, we must be cautious when compar-
+ing data from this retrospective study with clinical trials due to 
+methodological differences and biases.
+Given that the present study employed retrospective method-
+ology based on answers from unstructured interviews and data 
+collected over a long period of time, it is not possible to infer a 
+causal relationship between ibogaine and the observed outcomes. 
+Indeed, only a randomized double-blind clinical trial could accu-
+rately assess this. Another important limitation to the present 
+results is that data on both relapse occurrence and abstinence 
+periods achieved were obtained directly from the patients’ (or 
+close relatives’) reports.
+Considering the limitations of self-reported data, it was recently 
+suggested that, besides abstinence and relapse, it is also very 
+important to take into account secondary measures to better evalu-
+ate drug dependence treatment outcomes (Tiffany et  al., 2011). 
+According to these authors, the most important variables to evalu-
+ate, in addition to reductions in drug use, are change in self-effi-
+cacy, psychosocial functioning, network support/social support, 
+craving, and quality of life. Thus, it will be important to also con-
+sider these additional variables in future studies of ibogaine in the 
+treatment of drug dependence.
+Future studies should also seek to establish the advantages 
+and disadvantages of using ibogaine instead of other related psy-
+chedelic compounds, such as LSD, which has therapeutic poten-
+tial in the treatment of alcoholism (Krebs and Johansen, 2012). 
+While ibogaine may be more effective at treating a wider range of 
+chemical dependencies (e.g. opioids, alcohol, cocaine, crack) 
+than other psychedelic substances, it may present higher risks for 
+medical complications. For example, LSD has very low toxicity 
+and none of the effects on heart rhythm (Hintzen and Passie, 
+2010) that ibogaine does.
+Despite the limitations of the present report, outlined above, 
+the present data are the first formal clinical report to our knowl-
+edge that suggests that ibogaine has a strong therapeutic potential 
+in the treatment of dependence to stimulants and other non-opiate 
+drugs and that the medical complications previously reported can 
+be avoided by administering the compound in the presence of a 
+physician in a safe and legal medical setting.
+Acknowledgements
+We would like to thank the clinical staff responsible for this intervention 
+for providing their data and their patients’ contacts, and all the patients 
+and/or families who cooperated with the research. We would also like to 
+thank G. Loewinger for his help with English correction of the whole 
+manuscript.
+Conflict of interest
+BRC has a financial interest in this work given that the ibogaine treatment 
+is part of his private practice.
+Funding
+This research was partially financed by Instituto Plantando Consciência, 
+a Brazilian non-profit organization.
+References
+Aasebø W, Aasebø W, Erikssen J, et al. (2007) ECG changes in patients 
+with acute ethanol intoxication. Scand Cardiovasc J 41(2): 79–84.
+Alper KR (2001) Ibogaine: A review. Alkaloids Chem Biol 56: 1–38.
+Alper KR and Lotsof HS (2007). The use of ibogaine in the treatment 
+of addictions. In: Winkelman MJ and Roberts TB (eds) Psychedelic 
+Medicine: New Evidence for Hallucinogenic Substances as Treat-
+ments (Vol. 2). Westport: Praeger.
+Alper KR, Lotsof HS and Kaplan CD (2008) The ibogaine medical sub-
+culture. J Ethnopharmacol 115(1): 9–24.
+Alper KR, Lotsof HS, Frenken GM, et al. (1999) Treatment of acute opi-
+oid withdrawal with ibogaine. Am J Addict 8(3): 234–242.
+Alper KR, Stajić M and Gill JR (2012) Fatalities temporally associated 
+with the ingestion of ibogaine. J Forensic Sci 57(2): 398–412.
+Anvisa - Agência Nacional de Vigilância Sanitária (2014) Lista compara-
+tiva de entorpecentes, substâncias psicotrópicas, precursores e outras 
+substâncias sujeitas a controle especial. Available at: www.anvisa.
+gov.br/medicamentos/controlados/lista_especial_IV.pdf. Accessed 
+15 May 2014.
+Badiani A, Belin D, Epstein D, et al. (2011) Opiate versus psychostimu-
+lant addiction: The differences do matter. Nat Rev Neurosci 12(11): 
+685–700.
+Baltieri DA, Strain EC, Dias JC, et al. (2004) Brazilian guideline for the 
+treatment of patients with opioids dependence syndrome. Rev Bras 
+Psiquiatr 26(4): 259–269.
+Brown TK (2013) Ibogaine in the treatment of substance dependence. 
+Curr Drug Abuse Rev 6(1): 3–16.
+Cappendijk SL and Dzoljic MR (1993) Inhibitory effects of ibogaine 
+on cocaine self-administration in rats. Eur J Pharmacol 241(2–3): 
+261–265.
+Cuculi F, Kobza R, Ehmann T, et  al. (2006) ECG changes amongst 
+patients with alcohol withdrawal seizures and delirium tremens. 
+Swiss Med Wkly 136(13–14): 223–227.
+Degenhardt L and Hall W (2012) Extent of illicit drug use and depen-
+dence, and their contribution to the global burden of disease. Lancet 
+379(9810): 55–70.
+Dzoljic ED, Kaplan CD and Dzoljic MR (1988) Effect of ibogaine on 
+naloxone-precipitated withdrawal syndrome in chronic morphine-
+dependent rats. Arch Int Pharmacodyn Ther 294: 64–70.
+Eckschmidt F, Andrade AG de and Oliveira LG de  (2013) Compari-
+son of drug use between Brazilian and American college students 
+and young Brazilian general population. J Bras Psiquiatr 62(3): 
+199–207.
+Fonseca AM, Galduróz JCF, Noto AR, et al. (2010) Comparison between 
+two household surveys on psychotropic drug use in Brazil: 2001 and 
+2004. Cien Saude Colet 15(3): 663–670.
+Glick SD, Kuehne ME, Raucci J, et al. (1994) Effects of iboga alkaloids 
+on morphine and cocaine self-administration in rats: Relationship to 
+tremorigenic effects and to effects on dopamine release in nucleus 
+accumbens and striatum. Brain Res 657(1–2): 14–22.
+Glick SD, Rossman K and Steindorf S (1991) Effects and aftereffects of 
+ibogaine on morphine self-administration in rats. Eur J Pharmacol 
+195: 341–345.
+Glick SD, Rossman K, Rao NC, et al. (1992) Effects of ibogaine on acute 
+signs of morphine withdrawal in rats: Independence from tremor. 
+Neuropharmacology 31(5): 497–500.
+Hintzen A and Passie T (2010) The Pharmacology of LSD. Oxford: 
+Oxford University Press.
+Hoelen DWM, Spiering W and Valk GD (2009) Long-QT syndrome 
+induced by the antiaddiction drug ibogaine. N Engl J Med 360(3): 
+308–309.
+Hoffman RS (2010) Treatment of patients with cocaine-induced arrhyth-
+mias: Bringing the bench to the bedside. Br J Clin Pharmacol 69(5): 
+448–457.
+Hondeghem LM (2008) QT prolongation is an unreliable predictor of 
+ventricular arrhythmia. Heart Rhythm 5(8): 1210–1212.
+ at BOSTON COLLEGE on November 28, 2014
+jop.sagepub.com
+Downloaded from 
+
+
+1000	
+Journal of Psychopharmacology 28(11)
+Jalal S, Daher E and Hilu R (2013) A case of death due to ibogaine use for 
+heroin addiction: Case report. Am J Addict 22(3): 302.
+Johnson BA, Ait-Daoud N, Wang X-Q, et al. (2013) Topiramate for the 
+treatment of cocaine addiction: A randomized clinical trial. JAMA 
+Psychiatry 70: 1338–1346.
+Kino M, Imamitchi H, Morigutchi M, et al. (1981) Cardiovascular status 
+in asymptomatic alcoholics, with reference to the level of ethanol 
+consumption. Br Heart J 46(5): 545–551.
+Koenig X, Kovar M, Boehm S, et al. (2014) Anti-addiction drug ibogaine 
+inhibits hERG channels: A cardiac arrhythmia risk. Addict Biol 19: 
+237–239.
+Koenig X, Kovar M, Rubi L, et al. (2013) Anti-addiction drug ibogaine 
+inhibits voltage-gated ionic currents: A study to assess the drug’s 
+cardiac ion channel profile. Toxicol Appl Pharmacol 273: 259–268.
+Krebs TS and Johansen P-Ø (2012) Lysergic acid diethylamide (LSD) for 
+alcoholism: Meta-analysis of randomized controlled trials. J Psycho-
+pharmacol 26: 994–1002.
+Kubiliene A, Marksiene R, Kazlauskas S, et al. (2008) Acute toxicity 
+of ibogaine and noribogaine. Medicina (Kaunas) 44(12): 984–988.
+Leal MB, Michelin K, Souza DO, et al. (2003) Ibogaine attenuation of 
+morphine withdrawal in mice: Role of glutamate N-methyl-D-aspar-
+tate receptors. Prog Neuropsychopharmacol Biol Psychiatry 27(5): 
+781–785.
+Levin KH, Copersino ML, Epstein D, et al. (2008) Longitudinal ECG 
+changes in cocaine users during extended abstinence. Drug Alcohol 
+Depend 95(1–2): 160–163.
+Lotsof HS and Watchel B (2003) Manual for ibogaine therapy screen-
+ing, safety, monitoring, and aftercare. Watchel B (ed.), monograph 
+on the Internet; © 2003, 1–1. Available from: http://www.ibogaine.
+desk.nl/manual.html.
+Maas U and Strubelt S (2006) Fatalities after taking ibogaine in addiction 
+treatment could be related to sudden cardiac death caused by auto-
+nomic dysfunction. Med Hypoth 67(4): 960–964.
+Maisonneuve IM, Keller RW and Glick SD (1991) Interactions between 
+ibogaine, a potential anti-addictive agent, and morphine: An in vivo 
+microdialysis study. Eur J Pharmacol 199(1): 35–42.
+Maisonneuve IM, Keller RW and Glick SD (1992) Interactions of ibo-
+gaine and D-amphetamine: In vivo microdialysis and motor behavior 
+in rats. Brain Res 579(1): 87–92.
+Mariani JJ, Pavlicova M, Bisaga A, et al. (2012) Extended-release mixed 
+amphetamine salts and topiramate for cocaine dependence: A ran-
+domized controlled trial. Biol Psychiatry 72(11): 950–956.
+Mash DC, Kovera CA, Pablo J, et al. (2001) Ibogaine in the treatment of 
+heroin withdrawal. Alkaloids Chem Biol 56: 155–171.
+Mazoyer C, Carlier J, Boucher A, et al. (2013) Fatal case of a 27-year-old 
+male after taking iboga in withdrawal treatment: GC-MS/MS deter-
+mination of ibogaine and ibogamine in iboga roots and postmortem 
+biological material. J Forensic Sci 58: 1666–1672.
+Molinari HH, Maisonneuve IM and Glick SD (1996) Ibogaine neurotox-
+icity: A re-evaluation. Brain Res 737: 255–262.
+Nutt D and Lingford-Hughes A (2008) Addiction: The clinical interface. 
+Br J Pharmacol 154(2): 397–405.
+Nutt DJ, King LA, Phillips LD, et al. (2010) Drug harms in the UK: A 
+multicriteria decision analysis. Lancet 376(9752): 1558–1565.
+Nutt DJ, King LA, Saulsbury W, et al. (2007) Development of a rational scale to 
+assess the harm of drugs of potential misuse. Lancet 369(9566): 1047–1053.
+O’Hearn E and Molliver ME (1997) The olivocerebellar projec-
+tion mediates ibogaine-induced degeneration of Purkinje cells: 
+A model of indirect, trans-synaptic excitotoxicity. J Neurosci 
+17(22): 8828–8841.
+Otero-Antón E, González-Quintela A, Saborido J, et al. (1997) Prolonga-
+tion of the QTc interval during alcohol withdrawal syndrome. Acta 
+cardiol 52(3): 285–294.
+Ouimette PC, Finney JW and Moos RH (1997) Twelve-step and cog-
+nitive-behavioral treatment for substance abuse: A comparison of 
+treatment effectiveness. J Consult Clin Psychol 65(2): 230–240.
+Paling FP, Andrews LM, Valk GD, et  al. (2012) Life-threatening 
+complications of ibogaine: Three case reports. Neth J Med 70(9): 
+422–424.
+Parke LA, Burton P, McDonald RV, et  al. (2002) Ibogaine interferes 
+with motivational and somatic effects of naloxone-precipitated with-
+drawal from acutely administered morphine. Prog Neuropsycho-
+pharmacol Biol Psychiatry 26(2): 293–297.
+Parker LA and Siegel S (2001) Modulation of the effects of rewarding 
+drugs by ibogaine. Alkaloids Chem Biol 56: 211–225.
+Pleskovic A, Gorjup V, Brvar M, et al. (2012) Ibogaine-associated ven-
+tricular tachyarrhythmias. Clin Toxicol 50(2): 157–157.
+Rezvani AH, Overstreet DH and Lee YW (1995) Attenuation of alcohol 
+intake by ibogaine in three strains of alcohol-preferring rats. Phar-
+macol Biochem Behav 52(3): 615–620.
+Roden DM (2008) Keep the QT interval: It is a reliable predictor of ven-
+tricular arrhythmias. Heart Rhythm 5(8): 1213–1215.
+Sharpe LG and Jaffe JH (1990) Ibogaine fails to reduce naloxone-precip-
+itated withdrawal in the morphine-dependent rat. Neuroreport 1(1): 
+17–19.
+Storr CL, Cheng H, Alonso J, et  al. (2010) Smoking estimates from 
+around the world: Data from the first 17 participating countries in the 
+World Mental Health Survey Consortium. Tob Control 19(1): 65–74.
+Tiffany ST, Friedman L, Greenfield SF, et al. (2011) Beyond drug 
+use: A systematic consideration of other outcomes in evaluations 
+of treatments for substance use disorders. Addiction 107(4): 
+709–718.
+Van Noord C, Eijgelsheim M and Stricker BHC (2010) Drug- and non-
+drug-associated QT interval prolongation. Br J Clin Pharmacol 
+70(1): 16–23.
+Vastag B (2005) Addiction research. Ibogaine therapy: A ‘vast, uncon-
+trolled experiment’. Science 308: 1260.
+Xu Z, Chang LW, Slikker W, et al. (2000) A dose-response study of 
+ibogaine-induced neuropathology in the rat cerebellum. Toxicol Sci 
+57(1): 95–101
+ at BOSTON COLLEGE on November 28, 2014
+jop.sagepub.com
+Downloaded from 

@@ -1,0 +1,14 @@
+{
+  "StudyID": "Agin-Liebes 2021",
+  "prompt_file": "prompts/ae_extraction_prompt_v1.md",
+  "prompt_version": "ae_extraction_prompt_v1",
+  "rubric_version": "severity_rubric_v1",
+  "text_file": "inputs/text/Agin-Liebes 2021.txt",
+  "text_source": "born-digital",
+  "citation": "Agin-Liebes G, et al. Naturalistic Use of Mescaline Is Associated with Self-Reported Psychiatric Improvements and Enduring Positive Life Changes. ACS Pharmacology and Translational Science. 2021.",
+  "year": 2021,
+  "model": "claude-sonnet-5",
+  "temperature": 1,
+  "temperature_note": "Not directly configurable via Claude Code Task-tool subagent dispatch; platform default, not an experimentally-controlled 0.",
+  "dispatched_at": "2026-07-22T00:35:13Z"
+}

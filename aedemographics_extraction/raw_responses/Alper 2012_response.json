@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {
+      "StudyID": "Alper 2012",
+      "Citation": "Alper KR, Stajic M, Gill JR. Fatalities Temporally Associated with the Ingestion of Ibogaine. Journal of Forensic Sciences. 2012.",
+      "Title": "Fatalities Temporally Associated with the Ingestion of Ibogaine",
+      "Year": 2012,
+      "Corpus/Prefix": ".",
+      "Condition": "Opioid",
+      "Substance": "Ibogaine",
+      "IsObservational": "Y",
+      "N": 19,
+      "AE_denominator": 19,
+      "ArmScope": "psychedelic_arm",
+      "PctFemale": 21.1,
+      "GenderCategory": "male/female (15 M, 4 F)",
+      "PctBIPOC": ".",
+      "PctIndigenous": ".",
+      "SafetyReported": "Y",
+      "AnyAEReported": "Y",
+      "NumDistinctAEs": 7,
+      "NParticipantsWithAE": 19,
+      "WorstSeverity": "Severe",
+      "text_source": "born-digital",
+      "Model": "claude-sonnet-5",
+      "PromptVersion": "ae_extraction_prompt_v1",
+      "RubricVersion": "severity_rubric_v1",
+      "Temperature": 1
+    },
+    "ae_events": [
+      {
+        "AE_ID": "Alper 2012_AE01",
+        "StudyID": "Alper 2012",
+        "AE_type": "AE",
+        "Description": "Fatal acute ibogaine intoxication (single-agent or with non-drug comorbid contributing factors, e.g. cardiovascular disease); death within hours of ingestion.",
+        "Onset": "post-session-acute",
+        "Severity": "Severe",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "Y"
+      },
+      {
+        "AE_ID": "Alper 2012_AE02",
+        "StudyID": "Alper 2012",
+        "AE_type": "AE",
+        "Description": "Fatal multidrug intoxication combining ibogaine with opioids (morphine, methadone, fentanyl), cocaine, and/or benzodiazepines (diazepam); death within hours of ingestion.",
+        "Onset": "post-session-acute",
+        "Severity": "Severe",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "Y"
+      },
+      {
+        "AE_ID": "Alper 2012_AE03",
+        "StudyID": "Alper 2012",
+        "AE_type": "AE",
+        "Description": "Fatal cardiac event (myocardial infarction, arrhythmia, or cardiorespiratory arrest) as proximate or contributing cause of death, often with preexisting cardiovascular disease.",
+        "Onset": "post-session-acute",
+        "Severity": "Severe",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "Y"
+      },
+      {
+        "AE_ID": "Alper 2012_AE04",
+        "StudyID": "Alper 2012",
+        "AE_type": "AE",
+        "Description": "Suspected fatal pulmonary thromboembolism per clinical/death-certificate diagnosis; autopsy inadequate to confirm in any of the three cases.",
+        "Onset": "post-session-acute",
+        "Severity": "Severe",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "Y"
+      },
+      {
+        "AE_ID": "Alper 2012_AE05",
+        "StudyID": "Alper 2012",
+        "AE_type": "AE",
+        "Description": "Witnessed generalized tonic-clonic seizure c. 17h post-ingestion, possibly related to alcohol/benzodiazepine withdrawal, in a case that was ultimately fatal.",
+        "Onset": "post-session-acute",
+        "Severity": "Severe",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "Y"
+      },
+      {
+        "AE_ID": "Alper 2012_AE06",
+        "StudyID": "Alper 2012",
+        "AE_type": "AE",
+        "Description": "Acute hemorrhagic pancreatitis complicating chronic alcoholism, fatal, occurring during ibogaine treatment.",
+        "Onset": "post-session-acute",
+        "Severity": "Severe",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "Y"
+      },
+      {
+        "AE_ID": "Alper 2012_AE07",
+        "StudyID": "Alper 2012",
+        "AE_type": "AE",
+        "Description": "Hemorrhagic complications of duodenal ulcer, possibly with increased intracranial pressure from ventricular obstruction; fatal outcome.",
+        "Onset": "post-session-acute",
+        "Severity": "Severe",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "Y"
+      }
+    ]
+  },
+  "rationale": {
+    "article": {
+      "IsObservational": "Retrospective case series based on systematic review of autopsy, toxicology, and investigative reports for a consecutive series of ibogaine-associated fatalities identified 1990-2008 via a treatment-provider network, OCME referral, and literature search; no randomization or research-administered intervention, so this is naturalistic real-world data (observational), not an RCT.",
+      "Condition": "15 of 19 decedents took ibogaine for opioid detoxification (the predominant indication; 4 of these were also alcohol-dependent, 3 cocaine-dependent, 1 methamphetamine-dependent); 2 used ibogaine for spiritual/psychological purposes with no substance-abuse history; 2 for unknown reasons but with a substance-abuse history. Coded as 'Opioid' based on the plurality/predominant indication, though the population is mixed and not exclusively opioid-focused.",
+      "Substance": "Ibogaine administered as the HCl salt in 14 cases, Tabernanthe iboga alkaloid extract in 2 (cases #4, #14), dried root bark in 2 (cases #13, #16), and a powder of ambiguous form (extract vs. root bark) in 1 (case #6).",
+      "N": "This is a case series comprising all 19 known fatalities temporally associated with ibogaine ingestion identified via the study's case-finding methodology; N set to 19 as every identified case is included and individually analyzed in Table 1/Results.",
+      "AE_denominator": "Set equal to N (19) because every identified fatality has a known death outcome (the article's core 'AE'), even though toxicology/autopsy sub-data were unavailable for some (full toxicology missing in 8, autopsy missing in 5). The true population of ibogaine users at risk (denominator for incidence) is not reported/unknown -- the authors note their broader ethnographic survey may have missed 20-30% of total treatments, but do not give a total-exposed denominator.",
+      "ArmScope": "Single-arm case series of ibogaine-exposed fatalities with no comparator group; psychedelic_arm applies by default since all values are restricted to ibogaine-exposed individuals.",
+      "PctFemale": "4 of 19 decedents were female (15 M, 4 F) = 21.05%, rounded to 21.1.",
+      "PctBIPOC": "Race/ethnicity of decedents is not reported anywhere in the article.",
+      "PctIndigenous": "Not reported; see PctBIPOC.",
+      "NumDistinctAEs": "This article is a case series where death is the outcome shared by all 19 participants. Rather than counting each of the 19 individual deaths as a separate 'AE', NumDistinctAEs=7 reflects the distinct proximate-cause/event categories the authors describe across the series: (1) acute ibogaine intoxication alone, (2) multidrug intoxication (ibogaine + other abused substances), (3) cardiac event, (4) suspected pulmonary embolism, (5) witnessed seizure, (6) hemorrhagic pancreatitis, (7) duodenal ulcer hemorrhage -- consistent with the codebook's 'distinct AE type' counting convention (cf. '12 participants reported headache is 1 type'). These categories are not mutually exclusive (a single case can have both an ibogaine-intoxication proximate cause and cardiac disease as a contributing factor), so per-category participant counts sum to more than 19.",
+      "NParticipantsWithAE": "All 19 decedents had the qualifying AE of death (the shared/defining outcome of this case series).",
+      "WorstSeverity": "Severe because every AE category involves death (CTCAE grade 5-equivalent) or a life-threatening/serious event, unambiguously meeting the FDA 'death' seriousness criterion."
+    },
+    "ae_events": {
+      "Alper 2012_AE01": "Severe because these are deaths (meets FDA 'death' seriousness criterion). n=6 based on cases where Table 1's proximate cause of death is 'Acute ibogaine intoxication' without a co-occurring abused-drug intoxication label (cases #1, #4, #5, #6, #13, #19).",
+      "Alper 2012_AE02": "n=4 based on cases whose Table 1 proximate cause of death explicitly cites 'combined effects' of ibogaine and named co-ingestants: case #2 (morphine), #3 (opiates/cocaine), #16 (methadone/diazepam), #17 (fentanyl/diazepam).",
+      "Alper 2012_AE03": "n=6 taken directly from the article's own statement (Discussion) that 'Cardiac disease was a contributing condition or proximate cause in six deaths'; the specific six case numbers are not individually itemized by the authors beyond this aggregate count, so exact case-by-case attribution could not be independently verified.",
+      "Alper 2012_AE04": "n=3 taken directly from the article's statement that pulmonary thromboembolism 'was the reported cause of death in three deaths (cases #7, #12, and #18)'. The article explicitly notes autopsy was inadequate to confirm PE in all three (death-certificate/clinical diagnosis only) -- flagged here but still coded MeetsFDASerious=Y since death itself independently meets the seriousness criterion regardless of diagnostic certainty.",
+      "Alper 2012_AE05": "Case #10 had a witnessed generalized tonic-clonic seizure ~17h post-ingestion, discussed at length as possibly related to alcohol/benzodiazepine withdrawal (n=1). The Discussion also speculates that partial seizures 'originating from the temporal lobe' may have contributed to case #14's death, but this is explicitly hedged by the authors as one of several uncertain/possible contributing factors (alongside hemorrhagic ulcer and increased intracranial pressure) rather than a confirmed seizure, so it was not added to this AE's count -- captured instead under AE07.",
+      "Alper 2012_AE06": "Case #8 only; hemorrhagic pancreatitis was both the official and proximate cause of death in a patient with chronic alcoholism, occurring during ibogaine treatment.",
+      "Alper 2012_AE07": "Case #14 only; the autopsy was 'not conclusive regarding proximal cause of death' -- hemorrhagic complications of a duodenal ulcer, increased intracranial pressure from third-ventricle obstruction (choroid plexus papilloma), and/or temporal-lobe partial seizures were all listed as possible/contributing factors. Coded as its own AE type (duodenal ulcer hemorrhage) since that was the article's leading candidate explanation; the seizure and intracranial-pressure elements of this same case are noted here rather than double-counted as separate AE rows given how entangled and speculative they are in the source text."
+    }
+  }
+}

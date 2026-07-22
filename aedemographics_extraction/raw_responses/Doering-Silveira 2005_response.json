@@ -1,0 +1,45 @@
+{
+  "data": {
+    "article": {
+      "StudyID": "Doering-Silveira 2005",
+      "Citation": "Doering-Silveira E, et al. Report on Psychoactive Drug Use Among Adolescents Using Ayahuasca Within a Religious Context. Journal of Psychoactive Drugs. 2005.",
+      "Title": "Report on Psychoactive Drug Use Among Adolescents Using Ayahuasca Within a Religious Context",
+      "Year": 2005,
+      "Corpus/Prefix": "Ayahuasca",
+      "Condition": "Alcohol",
+      "Substance": "Ayahuasca",
+      "IsObservational": "Y",
+      "N": 41,
+      "AE_denominator": ".",
+      "ArmScope": "psychedelic_arm",
+      "PctFemale": 43.9,
+      "GenderCategory": "male/female (23 male, 18 female)",
+      "PctBIPOC": 24.4,
+      "PctIndigenous": ".",
+      "SafetyReported": "N",
+      "AnyAEReported": "NA",
+      "NumDistinctAEs": "NA",
+      "NParticipantsWithAE": "NA",
+      "WorstSeverity": "NA",
+      "text_source": "born-digital",
+      "Model": "claude-sonnet-5",
+      "PromptVersion": "ae_extraction_prompt_v1",
+      "RubricVersion": "severity_rubric_v1",
+      "Temperature": 1
+    },
+    "ae_events": []
+  },
+  "rationale": {
+    "article": {
+      "IsObservational": "Cross-sectional comparison of 41 adolescents naturalistically consuming ayahuasca within an existing religious community (UDV) versus 43 non-using peers; participants were not randomized or assigned to an ayahuasca protocol for research purposes, they were interviewed about pre-existing ritual practice. This is a naturalistic observational/cross-sectional design, not an RCT.",
+      "N": "Article reports two separately-described groups: 41 ayahuasca-using adolescents and 43 non-using comparison adolescents (total N=84). Used N=41, the psychedelic-exposed (ayahuasca) group, since demographic and AE-relevant fields in this schema concern the psychedelic-exposed population specifically.",
+      "ArmScope": "Set to psychedelic_arm because demographics (age, sex, ethnicity, marital/living status) are reported separately for the ayahuasca group and the comparison group, not pooled together; all N/demographic values used here come only from the ayahuasca-exposed group.",
+      "Condition": "The article is a naturalistic substance-use survey, not an AUD treatment study, and does not itself label a target 'condition.' Classified as Alcohol because the paper's only statistically significant finding is a reduced proportion of alcohol users among ayahuasca adolescents (last-year use 46.3% vs 74.4%, p=0.016; recent use 32.5% vs 65.1%, p=0.006), consistent with this corpus's AUD focus. This is an inferred categorization, not an explicit label in the text \u2014 flagging for human review.",
+      "PctBIPOC": "Article states 31/41 (75.6%) of the ayahuasca group were White and 'all others classified themselves as of mixed ethnic origin.' PctBIPOC computed as 100 - 75.6 = 24.4%.",
+      "PctIndigenous": "Not reported. The 'mixed ethnic origin' category is not specified as Indigenous, so this cannot be inferred; coded not-reported rather than assumed equal to PctBIPOC.",
+      "SafetyReported": "This article is a cross-sectional survey of lifetime/last-year/recent psychoactive drug use patterns (Table 1, Table 2) comparing ayahuasca-using adolescents to controls. It contains no assessment of adverse events, challenging experiences, or session-related safety outcomes from ayahuasca ingestion (no CEQ, no AE checklist, no mention of physical/psychological reactions during or after ceremonies). Because the article does not assess AE/safety at all, SafetyReported = 'N', with AnyAEReported/NumDistinctAEs/WorstSeverity/NParticipantsWithAE all set to 'NA' per the gate-consistency rules.",
+      "AE_denominator": "Per schema, this field never takes 'NA' even when SafetyReported='N'; coded '.' since no safety population was assessed.",
+      "PopulationNote": "Sample is adolescent (ages 15-19; ayahuasca group mean age 16.49 \u00b1 1.34 years), younger than the typical adult samples in this corpus. Reviewed age/N fields with extra care per task instructions: N=41 ayahuasca-exposed, 23 male/18 female, confirmed against the article's own percentage figures (56.1%/43.9% of 41 \u2248 23/18)."
+    }
+  }
+}

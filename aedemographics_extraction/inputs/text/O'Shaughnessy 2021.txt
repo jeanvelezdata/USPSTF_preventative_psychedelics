@@ -1,0 +1,1820 @@
+https://doi.org/10.1177/2045125320986634 
+https://doi.org/10.1177/2045125320986634
+Ther Adv Psychopharmacol
+2021, Vol. 11: 1–18
+DOI: 10.1177/ 
+2045125320986634
+© The Author(s), 2021.  
+Article reuse guidelines:  
+sagepub.com/journals-
+permissions
+Therapeutic Advances in Psychopharmacology
+journals.sagepub.com/home/tpp	
+1
+Special Collection
+Creative Commons Non Commercial CC BY-NC: This article is distributed under the terms of the Creative Commons Attribution-NonCommercial 4.0 License  
+(https://creativecommons.org/licenses/by-nc/4.0/) which permits non-commercial use, reproduction and distribution of the work without further permission 
+provided the original work is attributed as specified on the SAGE and Open Access pages (https://us.sagepub.com/en-us/nam/open-access-at-sage).
+From drug misuse to useful drugs
+Introduction
+Addiction treatment was an exciting line of 
+inquiry during the first wave of psychedelic 
+research in the mid-20th century, but the field 
+was marred by inadequate research methodology 
+and growing controversies that led to a near total 
+investigatory suspension.1–4 After a decades-long 
+hiatus, a revitalized second wave is now well 
+underway.5–7 Once again, addictions are a target 
+of psychedelic research with some impressive 
+early results,8–14 and there is hope for a break-
+through treatment similar to the recent success of 
+MDMA-assisted psychotherapy for post-trau-
+matic stress disorder.15 Yet while the psychiatric 
+discovery and embrace of psychedelics is rela-
+tively recent, the use of similar substances in sha-
+manic and ethnomedical contexts is much older 
+and is likely to have ancient roots.16–18
+Therapeutic use of ayahuasca
+One such ethnobotanical substance is ayahuasca—
+the common name of the vine Banisteriopsis caapi, 
+which contains monoamine oxidase-inhibiting 
+Within-treatment changes in a novel 
+addiction treatment program using 
+traditional Amazonian medicine
+David M. O’Shaughnessy
+, Ilana Berlowitz, Robin Rodd, Zoltán Sarnyai  
+and Frances Quirk
+Abstract
+Aims: The therapeutic use of psychedelics is regaining scientific momentum, but similarly 
+psychoactive ethnobotanical substances have a long history of medical (and other) uses in 
+indigenous contexts. Here we aimed to evaluate patient outcomes in a residential addiction 
+treatment center that employs a novel combination of Western and traditional Amazonian 
+methods.
+Methods: The study was observational, with repeated measures applied throughout 
+treatment. All tests were administered in the center, which is located in Tarapoto, Peru. Data 
+were collected between 2014 and 2015, and the study sample consisted of 36 male inpatients 
+who were motivated to seek treatment and who entered into treatment voluntarily. Around 
+58% of the sample was from South America, 28% from Europe, and the remaining 14% from 
+North America. We primarily employed repeated measures on a psychological test battery 
+administered throughout treatment, measuring perceived stress, craving frequency, mental 
+illness symptoms, spiritual well-being, and physical and emotional health. Addiction severity 
+was measured on intake, and neuropsychological performance was assessed in a subsample 
+from intake to at least 2 months into treatment.
+Results: Statistically significant and clinically positive changes were found across all repeated 
+measures. These changes appeared early in the treatment and were maintained over time. 
+Significant improvements were also found for neuropsychological functioning.
+Conclusion: These results provide evidence for treatment safety in a highly novel addiction 
+treatment setting, while also suggesting positive therapeutic effects.
+Keywords:  addiction, ayahuasca, safety, Takiwasi, traditional Amazonian medicine
+Received: 16 July 2020; revised manuscript accepted: 24 November 2020.
+Correspondence to:	
+ 
+David M. O’Shaughnessy  
+College of Medicine and 
+Dentistry, James Cook 
+University, Townsville, 
+QLD 4811, Australia 
+david@osh.id.au; 
+oshd@berkeley.edu
+Ilana Berlowitz  
+Department of Psychology, 
+University of Fribourg, 
+Fribourg, Switzerland
+Robin Rodd  
+Division of Social Sciences, 
+Duke Kunshan University, 
+Kunshan, Jiangsu, China
+Zoltán Sarnyai  
+Laboratory of Psychiatric 
+Neuroscience, Centre 
+for Molecular Discovery, 
+Australian Institute of 
+Tropical Health and 
+Medicine, James Cook 
+University, Townsville, 
+QLD, Australia
+Frances Quirk  
+New England Institute 
+of Healthcare Research, 
+Faculty of Medicine and 
+Health, University of New 
+England, Armidale, NSW, 
+Australia
+986634 TPP0010.1177/2045125320986634Therapeutic Advances in 
+PsychopharmacologyDM O’Shaughnessy, I Berlowitz
+research-article20212021
+Original Article
+
+
+Therapeutic Advances in Psychopharmacology 11
+2	
+journals.sagepub.com/home/tpp
+β-carbolines and is traditionally used alone or with 
+various admixtures19,20—but also the name of the 
+decoction prepared from B. caapi and the leaves of 
+a plant containing the psychedelic N,N-DMT,21 
+such as Psychotria viridis or Diplopterys cabrerana.22 
+Ayahuasca (i.e. the DMT-containing decoction) is 
+powerfully psychoactive but appears to be safe 
+when used appropriately.23–30 In recent times 
+its therapeutic potential has been increasingly 
+­documented, particularly for the alleviation of 
+­substance abuse, depression, and anxiety-related 
+disorders.31–37
+Ayahuasca is not considered to carry a high intrin-
+sic addiction potential,38,39 and indeed suggestions 
+of anti-addictive outcomes have been reported 
+since the earliest biomedical study on the sacra-
+mental use of ayahuasca,40 with evidence slowly 
+accumulating since then.41–47 Various potential 
+mechanisms have been proposed,48–52 yet quanti-
+tative studies of ayahuasca for addiction have only 
+rarely been conducted in explicitly therapeutic set-
+tings,53,54 in part due to regulatory challenges.55
+The Takiwasi Center
+Running parallel to these developments is a well-
+established and nationally accredited therapeutic 
+community in Peru, the Takiwasi Center, which 
+has been employing ayahuasca in the treatment of 
+addictions since 199256—around the same time 
+that human psychedelic research resumed.57,58 
+However, Takiwasi is rather poorly characterized 
+as an “ayahuasca-assisted” treatment, since a 
+variety of other traditional techniques are used; 
+for example, the traditional dieta (diet) is particu-
+larly important, during which a patient enters 
+social seclusion while receiving restricted alimen-
+tation, along with the intake of prescribed medici-
+nal plants.59,60 The ceremonial use of ayahuasca, 
+diets, and other plant-based techniques proceed 
+from traditional Amazonian medicine,61–63 which 
+Takiwasi combine with Western psychotherapeu-
+tic and biomedical approaches.
+Being founded by a French medical doctor, the 
+combination of Amazonian and Western medicine 
+in Takiwasi is operated from within a biopsycho-
+social-spiritual framework.64 For example, clinical 
+staff at the center may be healers with training in 
+traditional Amazonian medicine, but there are 
+also professional doctors, psychologists, and 
+nurses. Due to potential interactions between 
+pharmaceuticals and plant medicines,25 patients 
+cease taking psychiatric medications prior to entry, 
+although this does not apply to those with a his-
+tory of psychosis, as they would not be accepted 
+for treatment.56 Certain physical health conditions 
+are also part of the center’s exclusion criteria, 
+including diabetes, gastric ulcers, and epilepsy, 
+but also renal, cardiac, respiratory or hepatic 
+insufficiency.56,65 Once admitted, the ideal treat-
+ment process lasts around 9 months (although this 
+is flexible), and progresses through stages of: (a) 
+initial isolation (around 8–10 days); (b) main 
+treatment (around 7 months); and finally (c) a 
+reinsertion phase (around 2 months) where 
+patients continue with the main treatment, but are 
+preparing for post-treatment life and thus are able 
+to leave the center and engage in work in the 
+­community (see Figure 1). Across the phases, 
+treatment primarily revolves around physical 
+detoxification (focusing on the use of emetic and 
+psychoactive plant preparations), psychotherapy 
+(group and individual), occupational therapy, 
+community living, psychological and spiritual 
+development (through psychoactive plant sessions 
+and diets), and also biomedical evaluation. The 
+application of medicinal plants in Takiwasi has 
+parallels to psychedelic-assisted psychotherapy, 
+although the Takiwasi framework differs in that its 
+roots are in traditional Amazonian medicine. 
+More detailed descriptions of these treatment pro-
+cedures have been provided by Berlowitz et al.,66 
+Mabit et al.,67 Bustos,68 and O’Shaughnessy.69
+Study rationale
+Takiwasi offers the potential for generating 
+unique insights into the use of traditional medi-
+cines in addiction treatment, including, but not 
+limited to the use of ayahuasca. Yet while the 
+center’s own publications have reported positive 
+patient outcomes,70 scientific evaluation has been 
+lacking.71 It is of significance then that results 
+from the first preliminary observational study of 
+Takiwasi’s treatment have recently been pub-
+lished,66 with analyses showing improvements for 
+treatment completers in terms of addiction sever-
+ity, craving, emotional distress, and quality of life. 
+Comparable results were recently reported in a 
+second observational study,65 which showed post-
+treatment improvements in anxiety and depres-
+sion scores, as well as improved scores on quality 
+of life and spirituality. Although the effect sizes in 
+these studies were large, the end-point analyses 
+used in both studies opened questions about the 
+timing of within-treatment changes, particularly 
+with regard to treatment dropouts that were 
+excluded from analysis. Here we build on these 
+
+
+DM O’Shaughnessy, I Berlowitz et al.
+journals.sagepub.com/home/tpp	
+3
+results by reporting on patient changes at multi-
+ple points within treatment.
+Given the clinically and theoretically complex 
+nature of addictions,72 we attempted to character-
+ize within-treatment change as broadly as possi-
+ble by following the multi-dimensional addiction 
+recovery model proposed by Dodge et  al.73 We 
+thus measured patients on the following domains: 
+(a) physical (somatic health); (b) bio-marker 
+(cortisol, with results to be reported elsewhere); 
+(c) dependency (craving); (d) psychological 
+(stress, mental/emotional well-being, and neu-
+ropsychological functioning); (d) psychiatric 
+(mental illness); (e) social (social functioning); 
+and (f) spiritual (spiritual well-being).
+No
+Yes
+Passes admission
+protocol?
+Not admitted
+Purges
+(weekly / multiple)
+Ayahuasca (weekly)
+Purgahuasca (occasionally)
+Plant diets
+(every three months)
+Medicinal plants
+(daily)
+Treatment exit
+Group therapies
+(daily)
+Occupational therapy
+(daily)
+Psychotherapy
+(weekly / multiple)
+Biomedical checkups
+(occasionally)
+Work outside of Takiwasi /
+post-treatment preparations
+Patient ceases psychiatric
+medication (if applicable)
+Patient applies to
+treatment
+Isolation phase
+(8–10 days)
+Main treatment phase
+(~7 months)
+Reinsertion phase
+(~2 months)
+Western
+Amazonian
+Purges
+Biomedical evaluation
+Western
+Amazonian
+Most frequent
+Least frequent
+Figure 1.  Outline of Takiwasi’s treatment regime (average timeline).
+
+
+Therapeutic Advances in Psychopharmacology 11
+4	
+journals.sagepub.com/home/tpp
+Methods
+The study was approved by the James Cook 
+University Human Research Ethics Committee 
+(H5267), and all participants gave written 
+informed consent prior to participation. We used 
+the STROBE cohort checklist when writing this 
+report.74
+Participants
+Participation in the study was open to all patients 
+who were: (a) seeking treatment for addiction, 
+and (b) had passed Takiwasi’s admission protocol 
+and been admitted as inpatients. Although we did 
+not measure treatment motivation, all patients 
+entered into treatment voluntarily, and previous 
+studies suggest that the majority of Takiwasi 
+patients arrive motivated to seek change.75 No 
+patients declined to participate in the study. Data 
+were collected from April 2014 to August 2015, 
+and while not all patients completed the full course 
+of treatment, no patients dropped out of the study 
+while in treatment (although study participation 
+ended once a patient had left treatment).
+As only male inpatients are admitted to Takiwasi, 
+the final sample consisted of 36 male inpatients 
+with ages on treatment admission ranging from 
+20 to 50 years (M = 29, SD = 7), and total time in 
+treatment (from entry to exit) ranging from 3 to 
+367 days (M = 183, SD = 118). South Americans 
+made up 58% of the sample, with 28% European, 
+and the remaining 14% North American. Prior to 
+treatment, the most commonly consumed drugs 
+were alcohol (83%), cannabis (71%), and cocaine 
+(51%), with poly-drug use being common (66%). 
+Of the sample, 61% completed the treatment, 
+22% exited voluntarily (i.e. against staff recom-
+mendation), 14% were suspended from treat-
+ment, and one patient (3%) abandoned the 
+treatment without advising staff. Further demo-
+graphics can be found in Table 1.
+Design
+Similar to Berlowitz et  al.66 and in accordance 
+with World Health Organization recommenda-
+tions for the evaluation of traditional medicines,76 
+the overall study design consisted of an observa-
+tional “black box” view of patient change through-
+out treatment, which was not intended to isolate 
+specific aspects of the treatment for analysis. We 
+therefore obtained repeated measures on psycho-
+logical variables in order to assess clinical change 
+in a global sense.
+Measures
+Addiction severity.  The fifth edition of the Addic-
+tion Severity Index (ASI)77,78 is a widely used 
+structured clinical interview that attempts to 
+quantify a patient’s addiction severity across seven 
+life problem areas: medical, alcohol, drug, 
+employment, legal, family, and psychiatric. Higher 
+scores indicate greater problem severity for each 
+dimension.
+Clinical battery.  The clinical battery tests were 
+selected for their relevance in the addiction litera-
+ture, but also for the suitability of individual test 
+items within a residential treatment context. The 
+measures used were as follows.
+Perceived Stress Scale (PSS). The PSS79,80 was 
+used to measure psychological stress over the pre-
+vious month. Analyses were made on the 10-item 
+subset (PSS-10), due to its improved psychomet-
+ric properties.81 Higher scores indicate greater 
+perceived stress.
+Craving Experience Questionnaire–frequency 
+(CEQ-F). The CEQ-F82 was used to measure the 
+frequency of craving experienced over the past 
+30 days. Craving is conceptualized in terms of 
+frequency of desire, craving-related imagery, and 
+intrusive thoughts. Higher scores indicate greater 
+frequency of craving over the month prior.
+Brief Symptom Inventory (BSI). The BSI83 was 
+used to assess the prevalence of psychiatric disor-
+der symptoms over the previous 7 days. The test is 
+a shorter 53-item version of the Symptom Check-
+list-90 Revised,84 and both instruments measure 
+psychiatric symptoms across nine dimensions. 
+Only results for the Global Severity Index (GSI) 
+are reported here, where higher scores indicate 
+greater overall problem severity.
+Spiritual Well-Being Scale (SWBS). The SWBS85 
+was used to assess two dimensions at the time of 
+testing: Religious Well-Being (RWB) and Exis-
+tential Well-Being (EWB). RWB items explicitly 
+address religious and spiritual notions of God, 
+whereas EWB items are secular and probe life 
+satisfaction and meaning. On both dimensions, 
+higher scores indicate greater well-being.
+Short Form Health Survey 36 version 2 (SF-
+36v2). The SF-36v286 was used to capture per-
+ceived changes in health over the past 4 weeks. 
+While the SF-36v2 measures eight health 
+domains, we only report here the global measures 
+
+
+DM O’Shaughnessy, I Berlowitz et al.
+journals.sagepub.com/home/tpp	
+5
+of: (a) physical health (Physical Component Sum-
+mary; PCS), and (b) mental/emotional health 
+(Mental Component Summary; MCS). For both 
+domains, higher scores indicate better health.
+Self-Evaluated Transition (SET). The SET is a 
+single 5-choice item from the SF-36v2 that cap-
+tures perceived change in general health over the 
+past year. The patient rates their current “health 
+in general” compared with 1 year prior as either: 
+1 (much better), 2 (somewhat better), 3 (about the 
+same), 4 (somewhat worse), or 5 (much worse).
+Neuropsychological functioning.  The Repeated 
+Battery for the Assessment of Neuropsychological 
+Functioning Update (RBANS)87 was used to test 
+for abnormal cognitive functioning. With two 
+equivalent testing forms, the Spanish version 
+allows for a single retest only. The instrument 
+assesses performance through 12 subtests that 
+comprise five indexes: immediate memory, visuo-
+spatial, language, attention, and delayed memory. 
+For all indexes, higher scores indicate better per-
+formance (with low scores relative to age brack-
+eted norms suggesting cognitive impairment).
+Procedures
+Addiction severity.  The ASI was administered to 
+patients on intake only, most often by a co-author 
+of this work (I.B.), but at times by Takiwasi staff 
+instead. It was administered on average 2 days 
+into treatment (SD = 3 days).
+Clinical battery.  Measurements on the clinical 
+battery were made at important treatment points 
+that we termed milestones. In consultation with 
+Takiwasi staff, the selected milestones were: (a) 
+treatment admission, (b) approximately 1 month 
+after each diet, and (c) exit from treatment 
+(although it should be noted that in practice treat-
+ment exit could occur at any point for a variety of 
+reasons). There were five milestones in total, 
+herein designated M1–M5.
+Dieting provided a natural measurement point in 
+treatment, since it occurs with some regularity 
+(around every 2–3 months) and marks a consoli-
+dation point for patients within the treatment. 
+Moreover, the diets are followed by a reflective 
+phase where patient plant intake is negligible, 
+which allowed us to minimize interference from 
+the acute effects of psychoactive plants when 
+­taking repeated measures. From M1 to M5, the 
+sample sizes were 22, 19, 18, 13, and 9, 
+Table 1.  Patient demographics.
+Percentage of the study samplea
+Country of residence
+ Peru
+33
+ Rest of South America
+25
+ France
+17
+ Rest of Europe
+11
+ North/Central America
+14
+Age (on admission)
+ 20–29
+58
+ 30–39
+31
+ 40–49
+8
+ >49
+3
+Religion (on admission)
+ None
+50
+ Christian
+39
+ Buddhist
+5
+ Islamic
+3
+ Other
+3
+Drug use 30 days prior to treatmentb
+ Alcohol
+83
+ Cannabis
+71
+ Cocaine and derivatives
+51
+ Sedatives
+26
+ Opiates
+23
+ Amphetamines
+20
+ Barbiturates
+13
+ Hallucinogens
+9
+ Poly-drug use
+66
+Total time spent in treatment
+ <1 month
+17
+ 1–3 months
+11
+ 4–6 months
+17
+ 7–9 months
+17
+ >9 months
+38
+Treatment exit
+ Completed
+61
+ Voluntary
+22
+ Suspendedc
+14
+ Abandoned
+3
+aN = 36.
+bDrug use subcategories are not mutually exclusive.
+cThree patients were suspended for leaving the center and consuming alcohol and cocaine.
+
+
+Therapeutic Advances in Psychopharmacology 11
+6	
+journals.sagepub.com/home/tpp
+respectively (N = 36). The average number of 
+days in treatment (with standard deviations) for 
+patients at M1–M5 were: 3 (3), 110 (31), 169 
+(31), 245 (30), and 309 (27).
+Neuropsychological functioning.  The 
+RBANS 
+was administered on treatment intake, and at a 
+follow-up point either at the end of treatment, or 
+at least 2 months into treatment (n = 8). The aver-
+age number of days in treatment before the sec-
+ond administration was 153 (SD = 70). Given the 
+language-dependent nature of some test sections, 
+the RBANS was only administered to fluent 
+Spanish speakers.
+Analyses.  All analyses were conducted using R.88 
+Effect sizes for t-tests were calculated with eff-
+size.89 Mixed-effects models were generated using 
+lme4,90 with significance values from lmerTest 
+using Satterthwaite’s method.91,92
+Intake comparisons.  For group analysis we com-
+pared the sample’s intake ASI scores with norma-
+tive values from mainstream inpatient centers. 
+Due to the cultural diversity of Takiwasi’s patients 
+and the lack of global ASI normative data, these 
+comparisons were unavoidably cross-cultural. 
+One-sample t-tests were used to check for signifi-
+cant differences. We also compared Takiwasi 
+patients’ intake scores (M1) on the clinical battery 
+against available normative samples using one-
+sample t-tests.
+Within-treatment changes.  We analyzed the clini-
+cal battery in terms of predicted change over time 
+from M1 versus M2–M5 (plotted against norma-
+tive values for comparative purposes). Mixed-
+effects models were used to maximize the data 
+available for analysis (i.e. we included all data 
+points in the analyses, irrespective of a patient’s 
+time in treatment at study enrollment, or reason 
+for treatment exit), and also to account for the 
+lack of statistical independence due to repeated 
+measures.93 In all models the fixed effect was 
+treatment milestone (categorical), with patient as 
+the random effect. All models were random inter-
+cept only, and thus implied the modeling assump-
+tion of an invariant effect of time spent in 
+treatment across patients. Since treatment mile-
+stone was a proxy for time spent in treatment, we 
+also tested the models with the addition of total 
+treatment time (in days) as a predictor, but its 
+addition was not warranted based on Akaike 
+information criterion (AIC) values.
+For neuropsychological functioning, we com-
+pared intake and within-treatment performance 
+using paired-samples t-tests, using Hedges’94 cor-
+rection for Cohen’s d as the effect size.
+Dropout analysis.  We compared early treatment 
+dropouts (i.e. those who spent less than 30 days in 
+treatment) against the rest of the sample via a 
+logistic regression, using demographics and ASI 
+intake scores as predictors, and a binary “drop-
+out” variable as the outcome.
+Results
+Intake profile
+We first characterize the Takiwasi sample on 
+intake, making comparisons against available nor-
+mative values.
+Addiction severity.  Figure 2 shows ASI composite 
+score means and standard errors for the Takiwasi 
+sample (n = 34; ASI data were unavailable for two 
+patients), Canadian addiction patients being read-
+mitted to treatment with at least three previous 
+attempts (sample sizes range from 517 to 1474),95 
+and USA addiction inpatients (N = 3133).77
+Compared with the Canadian sample, Takiwasi 
+patients had significantly higher scores on (a) 
+drug, t(33) = 3.00, p < 0.01, Cohen’s d = 0.51, 
+95% CI for d (−0.19, 1.22); (b) family, 
+t(33) = 3.06, p < 0.01, d = 0.53, CI (−0.18, 1.24); 
+and (c) legal, t(33) = 3.03, p < 0.01, d = 0.52, CI 
+(−0.19, 1.23). Significantly lower scores for 
+Takiwasi patients were found for (a) medical, 
+t(33) = −3.08, p < 0.01, d = −0.53, CI (−1.24, 
+0.18); and (b) work t(33)  = −2.33, p = 0.026, 
+d = −0.40, CI (−1.10, 0.31).
+When compared with the US sample, Takiwasi 
+patients had significantly higher scores for (a) 
+drug, t(33) = 5.99, p < 0.001, d = 1.03, 95% CI for 
+d (0.28, 1.77); (b) family, t(33) = 7.11, p < 0.001, 
+d = 1.22, CI (0.46, 1.98); and (c) psychiatric, 
+t(33) = 5.28, p < 0.001, d = 0.91, CI (0.17, 1.64).
+Clinical battery.  For the intake sample (n = 22; 
+except for CEQ, n = 27), we first made compari-
+sons where non-clinical norms were available. We 
+found that (a) PCS scores were not significantly 
+different from the US average (N = 4024)96: 
+t(21) = −1.23, p = 0.233, Cohen’s d = −0.26, 95% 
+CI for d (−1.15, 0.63); (b) MCS scores were 
+
+
+DM O’Shaughnessy, I Berlowitz et al.
+journals.sagepub.com/home/tpp	
+7
+significantly 
+lower 
+than 
+the 
+US 
+average 
+(N = 4024)96: t(21) = −9.47, p < 0.001, d = −2.02, 
+CI (−3.11, −0.93); (c) PSS-10 scores were sig-
+nificantly higher than the US male average 
+(N = 968)97: t(21) = 8.59, p < 0.001, d = 1.83, CI 
+(0.78, 2.89); and finally (d) GSI scores were sig-
+nificantly higher than non-clinical US males 
+(N = 361)98: t(21) = 8.13, p < 0.001, d = 1.73, CI 
+(0.69, 2.77).
+For those measures where only clinical compari-
+sons were available, we found that (a) RWB 
+scores were possibly lower than US mental health 
+patients (N = 182)99: t(21) = −2.21, p = 0.038, 
+d = −0.47, 95% CI for d (−1.37, 0.43); (b) EWB 
+scores were not significantly different from US 
+mental health patients (N = 182)99: t(21) = −0.41, 
+p = 0.686, d = −0.09, CI (−0.97, 0.80); and (c) 
+CEQ-F scores were significantly higher than an 
+Australian sample of alcohol abuse outpatients 
+(N = 276)82: t(26) = 4.01, p < 0.001, d = 0.77, CI 
+(−0.05, 1.59).
+Within-treatment changes
+Clinical battery.  Here we present predictive 
+mixed-effects models for patient change through-
+out treatment on the clinical battery, where each 
+estimate is relative to M1, plotted alongside 
+norms from the sources previously mentioned in 
+the intake analyses. Figure 3 shows model esti-
+mates for those tests where higher scores indicate 
+positive clinical outcomes. Estimates are signifi-
+cant at p < 0.001, except for RWB: M2 (p < 0.01), 
+M4 (p < 0.01), M5 (p = 0.05); and PCS: M2 
+(p < 0.01), M3 (p = 0.023), M4 (p = 0.026), M5 
+(p < 0.01).
+Figure 4 shows model estimates for those tests 
+where higher scores indicate negative clinical out-
+comes. All estimates are significant at p < 0.001, 
+except for GSI M3 (p < 0.01). Estimate confi-
+dence intervals for both positive and negatively 
+grouped tests can be found in Tables 2 and 3.
+Self-evaluated transition.  Figure 5 shows response 
+percentages for the SET item, comparing health 
+transition on intake (M1; n = 22) versus repeated 
+measures during treatment (M2–M5; n = 28, with 
+59 administrations total). Excluding intake, no 
+patients in treatment ever rated their health as 
+“somewhat worse” or “much worse,” and there 
+were only two that ever rated their health as “about 
+the same.”
+Neuropsychological 
+functioning.  Mean 
+score 
+increases from intake to treatment for the group 
+(n = 8) were found for all indexes. However, 
+paired-samples t-tests for treatment versus intake 
+scores were only significant for Total Scale, 
+t(7) = 3.37, p = 0.012, g = 0.55, 95% CI for g (0.17, 
+0.92); and Delayed Memory, t(7) = 2.73, p = 0.029, 
+g = 0.74, CI (0.08, 1.40). Complete index com-
+parisons can be found in Table 4.
+0.0
+0.2
+0.4
+0.6
+Drug
+Family
+Psychiatric
+Medical
+Legal
+Alcohol
+Work
+Dimension
+Mean (±S E)
+Source
+Takiwasi
+Canada
+United States
+Addiction Severity Index: Composite Score Comparisons
+Figure 2.  ASI samples and normative comparisons.
+
+
+Therapeutic Advances in Psychopharmacology 11
+8	
+journals.sagepub.com/home/tpp
+Dropout analysis
+Logistic regression analyses showed no significant 
+relationships between early treatment dropouts 
+(i.e. those who spent less than 30 days in treat-
+ment; n = 6) and the rest of the sample (n = 30) for 
+either nationality, religion, or ASI intake scores 
+(for all dimensions). However, patient age at 
+treatment admission was significant, and for 
+­simplicity we report t-test results for age between 
+the two samples: Early treatment dropouts were 
+younger (M = 22 years, SD = 2) than the rest of 
+the sample (M = 30 years, SD = 7), t(26) = −5.24, 
+p < 0.001, Cohen’s d = −1.24, 95% CI for d 
+(−2.17, −0.30).
+Discussion
+Takiwasi patients on admission
+Our results indicate that Takiwasi patients can be 
+expected to have a high severity of addiction on 
+intake, with ASI elevations at least on drug and 
+family problems in comparison to mainstream 
+centers. Based on ASI psychiatric cutoff scores,100 
+Takiwasi patients are also likely to have psychiatric 
+co-morbidity on admission, a finding supported by 
+intake GSI elevations, and also recent results from 
+Berlowitz et al.75 where affective and anxiety disor-
+ders were found to be prevalent. Overall, the 
+Takiwasi patients’ addiction severity profile was 
+comparable to the most severe Canadian readmis-
+sion sample reported by Simoneau and Brochu,95 
+where patients with higher problem severity were 
+re-seeking treatment after at least three prior 
+admissions. However, medical problems in the 
+Takiwasi sample were less severe than the 
+Canadian sample, being more comparable in that 
+domain to the US inpatient average.
+The intake profile on the clinical battery supported 
+the ASI findings, and portrayed patients that are 
+likely to be highly stressed, suffering from mental 
+illness symptoms, and experiencing frequent crav-
+ing. Mental and emotional health is likely to be 
+especially low, although we did not find evidence 
+that physical health is low on average. Religious 
+35
+40
+45
+50
+55
+M1
+M2
+M3
+M4
+M5
+Milestone
+Predicted score (95% CI)
+Norm
+USA outpatients
+USA religious
+SWBS: Religious Well−Being
+i
+35
+40
+45
+50
+M1
+M2
+M3
+M4
+M5
+Milestone
+Predicted score (95% CI)
+Norm
+USA outpatients
+USA religious
+SWBS: Existential Well−Being
+ii
+50
+55
+M1
+M2
+M3
+M4
+M5
+Milestone
+Predicted score (95% CI)
+Norm
+USA average
+SF−36v2: Physical Component Summary
+iii
+30
+35
+40
+45
+50
+M1
+M2
+M3
+M4
+M5
+Milestone
+Predicted score (95% CI)
+Norm
+USA average
+SF−36v2: Mental Component Summary
+iv
+Figure 3.  Mixed-effects model estimates (positive grouping).
+
+
+DM O’Shaughnessy, I Berlowitz et al.
+journals.sagepub.com/home/tpp	
+9
+10
+15
+20
+25
+M1
+M2
+M3
+M4
+M5
+Milestone
+Predicted score (95% CI)
+Norm
+USA male average 
+Perceived Stress Scale
+i
+0.5
+1.0
+1.5
+M1
+M2
+M3
+M4
+M5
+Milestone
+Predicted score (95% CI)
+Norm
+USA nonpatients
+USA outpatients
+BSI: Global Severity Index
+ii
+0
+20
+40
+60
+M1
+M2
+M3
+M4
+M5
+Milestone
+Predicted score (95% CI)
+Norm
+Australian alcohol abuse outpatients
+Craving Experience Questionnaire (Frequency)
+iii
+Figure 4.  Mixed-effects model estimates (negative grouping).
+Table 2.  Confidence intervals for model estimates (positive grouping).
+Scale
+95% CIs for model estimates (by milestone)
+ 
+Intake
+Change versus intake
+ 
+M1
+M2
+M3
+M4
+M5
+SWBS
+ RWB
+[34.5, 43.9]
+[3.3, 11.7]
+[4.4, 13.5]
+[2.5, 12.9]
+[0.3, 13.0]
+ EWB
+[35.5, 42.1]
+[4.4, 11.3]
+[5.4, 12.9]
+[6.4, 15.0]
+[4.7, 15.0]
+SF-36v2
+ PCS
+[46.3, 51.6]
+[1.7, 7.2]
+[0.6, 6.7]
+[0.6, 7.5]
+[2.0, 10.3]
+ MCS
+[26.9, 33.6]
+[8.0, 15.6]
+[8.5, 16.6]
+[7.8, 17.0]
+[9.5, 20.7]
+CI, confidence interval; EWB, Existential Well-Being; MCS, Mental Component Summary; Mn, treatment milestone;  
+PCS, Physical Component Summary; RWB, Religious Well-Being; SF-36v2, Short Form Health Survey 36 version 2;  
+SWBS, Spiritual Well-Being Scale.
+Significance values. p < 0.001 for all estimates except as noted. RWB: M2 (p < 0.01), M4 (p < 0.01), M5 (p = 0.05).  
+PCS: M2 (p < 0.01), M3 (p = 0.023), M4 (p = 0.026), M5 (p < 0.01).
+
+
+Therapeutic Advances in Psychopharmacology 11
+10	
+journals.sagepub.com/home/tpp
+and existential well-being were comparable to US 
+clinical populations, and cognitive functioning 
+may be in the “low average” range.87
+Within-treatment changes
+Over the course of treatment, we find that Takiwasi 
+patients are likely to make clinically significant 
+improvements on a variety of measures relevant to 
+addiction. Specifically, patients are predicted to see 
+strong increases in mental and emotional health, in 
+addition to increased meaning and purpose in life. 
+Large reductions in perceived stress, mental illness 
+symptoms, and craving can also be expected. The 
+most dramatic shifts appeared earlier in the treat-
+ment, and these changes seem to be at least main-
+tained over time (if not further improved), although 
+we had limited statistical power to assess later stage 
+changes. Although Berlowitz et  al.66 found that 
+Takiwasi treatment completers had large and 
+clinically significant improvements on nearly all 
+measures, no significant changes in physical health 
+were found. However, as the authors note, ASI 
+medical composite scores may not be sufficiently 
+sensitive for this purpose. Our application of the 
+SF-36v2 supported this interpretation, as the phys-
+ical health models suggested a general improve-
+ment in health that was maintained over the course 
+of treatment. Additionally, self-reported health 
+transitions were nearly universally positive for all 
+measurement points beyond intake. Cognitive 
+functioning provided further evidence for improve-
+ment, which was most notable in the domain of 
+delayed memory.23
+While our results accord with the end-point 
+­analyses of Berlowitz et  al.66 and Giovannetti 
+et al.,65 here we increased the temporal resolution 
+of within-treatment measurement, finding that 
+clinical improvements occur relatively quickly 
+Table 3.  Confidence intervals for model estimates (negative grouping).
+Scale
+95% CIs for model estimates (by milestone)
+ 
+Intake
+Change versus intake
+ 
+M1
+M2
+M3
+M4
+M5
+PSS-10
+[22.2, 26.8]
+[−11.2, −6.2]
+[−10.3, −4.9]
+[−12.2, −6.0]
+[−14.5, −7.1]
+GSI
+[1.2, 1.7]
+[−0.8, −0.2]
+[−0.8, −0.2]
+[−1.1, −0.4]
+[−1.3, −0.5]
+CEQ-F
+[53.0, 67.5]
+[−43.0, −28.1]
+[−41.5, −25.8]
+[−53.4, −34.9]
+[−59.8, −37.7]
+CEQ-F, Craving Experience Questionnaire (frequency); CI, confidence interval; GSI, Global Severity Index; Mn, treatment 
+milestone; PSS-10, Perceived Stress Scale (10-item version).
+Significance values. p < 0.001 for all estimates except for GSI M3 (p < 0.01).
+0%
+20%
+40%
+60%
+Intake
+Treatment
+Measurement group
+Response percentage
+Health transition
+Much better
+Somewhat better
+About the same
+Somewhat worse
+Much worse
+SET: Intake vs treatment responses
+Figure 5.  SF-36v2: Self-evaluated transition.
+
+
+DM O’Shaughnessy, I Berlowitz et al.
+journals.sagepub.com/home/tpp	
+11
+(compared with the length of the full treatment), 
+suggesting that dropouts roughly beyond the 
+third month are unlikely to be caused by lack of 
+clinical change. However, our results did suggest 
+that younger patients may be more likely to drop 
+out of treatment early on. Further investigations 
+of patient change within the opening months of 
+treatment appear to be warranted.
+Finally, we found some divergence in the modeling 
+of spiritual well-being throughout treatment. 
+Takiwasi’s treatment regime is complex, and spir-
+ituality and religion play multifaceted roles within 
+it. Psychedelics are known to induce altered states 
+of consciousness of a “mystical” type101–103 with 
+potentially profound implications,104,105 and aya-
+huasca can be similarly potent.106,107 It is interesting 
+then to note the differences that we observed for 
+Takiwasi patients, with strong predicted increases 
+in existential well-being (perhaps even toward lev-
+els seen in US religious samples), whereas spiritual 
+well-being formulated in explicitly religious terms 
+was more uncertain. This contrast possibly reflects 
+pre-existing differences in religiosity (e.g. 50% of 
+the sample were non-religious on admission), but 
+also suggests differences for patients in coming to 
+terms with the apparent spiritual content of aya-
+huasca and other plant ceremonies.108
+Limitations and significance
+Our observational study design precludes the 
+causal attribution of patient change to particular 
+aspects of the treatment, although the use of aya-
+huasca gives an obvious and empirically sup-
+ported target for treatment effects.34,46 Importantly 
+however, the design does not distinguish between 
+specific treatment interventions and the unusual 
+environment of a residential center: Other varia-
+bles such as the passage of time, the potential 
+development of community and friendships 
+within treatment, the lack of access to drugs of 
+abuse, and the removal of patients from their 
+daily life circumstances would all be probable 
+contributing factors to changes seen within treat-
+ment. On the other hand, it is worth noting that 
+many of the treatment processes are demanding 
+(e.g. many of the plants utilized in Takiwasi 
+induce emesis), and they are unlikely to be con-
+sidered at all pleasant by patients. In this sense it 
+is impressive that patients with serious addiction 
+problems continue with the treatment for as long 
+as they often do.
+Despite the above limitations, the uniformity of the 
+present results would be surprising if the effects of 
+the treatment were broadly deleterious. Thus at a 
+minimum, we provide evidence of treatment safety 
+in a highly novel setting. However, while ayahuasca 
+is known to have an acceptable safety profile from a 
+pharmacological perspective,26,34,109 many of the 
+Amazonian techniques used in Takiwasi are not yet 
+well studied scientifically, despite indigenous and 
+community usage of the same plants in medical and 
+other contexts.59,63,110,111 Thus although Takiwasi’s 
+exclusion criteria,56,65 biomedical evaluation, and 
+practitioner expertise likely increase the safety mar-
+gin—particularly for international and urban patients 
+where interactions not seen in traditional settings 
+increase in likelihood (e.g. pharmaceutical interac-
+tions)—further study is needed on the basic effects 
+of Amazonian medicinal plants and practices.
+Table 4.  RBANS: intake versus treatment.
+Index
+Intakea
+Treatmenta
+ 
+M
+SD
+M
+SD
+Change
+95% CIb
+g
+Total Scale
+82.9
+12.4
+90.2
+10.9
+7.4*
+[2.2, 12.5]
+0.55
+ I. Memory
+84.6
+13.8
+89.9
+16.1
+5.2
+[−0.5, 11.0]
+0.29
+ Visuospatial
+83.8
+11.4
+86.1
+11.9
+2.4
+[−4.9, 9.7]
+0.18
+ Language
+96.1
+7.3
+101.8
+7.7
+5.6
+[−3.8, 15.0]
+0.67
+ Attention
+88.0
+18.5
+92.8
+13.4
+4.8
+[−1.6, 11.1]
+0.20
+ D. Memory
+82.9
+15.4
+94.5
+8.6
+11.6*
+[1.6, 21.7]
+0.74
+an = 8.
+bConfidence interval for mean change from intake to treatment.
+*Significance values. Total Scale: p = 0.012. Delayed Memory: p = 0.029. All others: p > 0.05.
+
+
+Therapeutic Advances in Psychopharmacology 11
+12	
+journals.sagepub.com/home/tpp
+Our results also strongly suggest a therapeutic 
+effect, but we cannot yet determine if these patient 
+changes translate into addiction treatment success. 
+Linking our findings to treatment effectiveness 
+would require longitudinal studies that follow-up 
+on patients once they return to their communities, 
+where there are likely to be more opportunities for 
+relapse. Moreover, it is difficult to assess how well 
+these results would generalize to other patients 
+seeking treatment, given that the Takiwasi admis-
+sion protocol filters out those who are not yet moti-
+vated to commit to treatment,66 implying that the 
+treatment may be suited to certain patient pro-
+files.75 Yet irrespective of the admission protocol, it 
+seems unlikely that patients who are not ready to 
+change would stand to benefit from this approach, 
+especially considering the difficult nature of the 
+treatment. However, given the cultural diversity 
+and relatively severe addiction profile of the sam-
+ple, our results do suggest that this mode of treat-
+ment may hold promise in those areas where 
+conventional treatment approaches are failing.
+Overall, our findings are consistent with the con-
+temporary literature on the use of indigenous psy-
+choactive plant sacraments,34,37,39,40,47,54,112,117 and 
+the use of classical hallucinogens more gener-
+ally.9,12,36,41,118–126 However, the present results 
+should not be associated with the use of ayahuasca 
+alone, especially considering that it forms one ele-
+ment in a complicated treatment protocol (see 
+Figure 1). For example, when asked to select the 
+most important aspects of the treatment, Takiwasi 
+healers in fact most frequently chose dietary retreats, 
+even though ayahuasca ceremonies were also con-
+sidered to be important.64,127–130 Moreover, the 
+focus on medicinal plants and emesis may be con-
+nected to effects in the gut–brain axis,131 which has 
+recently been linked with opioid dependence.
+Conclusion
+The resurgence of psychedelic research holds 
+promise for the addiction treatment field, and 
+Takiwasi provides a unique parallel to these devel-
+opments, by now carrying decades of clinical 
+experience. Takiwasi’s treatment protocol is more 
+deeply connected with traditional medical prac-
+tices, and while such an approach may have its 
+own benefits and be more (or less) appropriate for 
+specific populations, further clinical work is called 
+for in order to investigate treatment effectiveness. 
+Qualitative work may also be helpful not only in 
+providing converging lines of evidence for treat-
+ment effects and potential mechanisms, but for 
+further delineating the nature of the treatment 
+itself, particularly in relation to concepts of health, 
+illness, and safety, and how they relate to the re-
+emerging field of psychedelic medicine.
+Author contributions
+David M. O’Shaughnessy: Conceptualization, 
+Methodology, Investigation, Formal analysis, 
+Funding acquisition, Writing—Original draft.
+Ilana Berlowitz: Investigation, Writing—Review 
+& editing.
+Robin Rodd: Supervision, Writing—Review & 
+editing.
+Zoltán Sarnyai: Supervision, Writing—Review & 
+editing.
+Frances Quirk: Supervision, Funding acquisition, 
+Writing—Review & editing.
+Author’s Note
+Ilana Berlowitz is also affiliated with Faculty of 
+Medicine, Institute of Anatomy, University of 
+Zurich, Zurich, Switzerland.
+Conflict of interest statement
+The authors declare that there is no conflict of 
+interest.
+Funding
+The author(s) disclosed receipt of the following 
+financial support for the research, authorship, 
+and/or publication of this article: Publication 
+made possible in part by support from the Berkeley 
+Research Impact Initiative (BRII) sponsored by 
+the UC Berkeley Library.
+ORCID iD
+David M. O’Shaughnessy 
+ https://orcid.org/ 
+0000-0002-0698-099X
+References
+	
+1.	 Fuentes JJ, Fonseca F, Elices M, et al. 
+Therapeutic use of LSD in psychiatry: a 
+systematic review of randomized-controlled 
+clinical trials. Front Psychiatry 2020; 10: 943.
+	
+2.	 Novak SJ. LSD before Leary: Sidney Cohen’s 
+critique of 1950s psychedelic drug research. Isis 
+1997; 88: 87–110.
+	
+3.	 Mangini M. Treatment of alcoholism using 
+psychedelic drugs: a review of the program of 
+research. J Psychoactive Drugs 1998; 30: 381–418.
+
+
+DM O’Shaughnessy, I Berlowitz et al.
+journals.sagepub.com/home/tpp	
+13
+	
+4.	 Krebs TS and Johansen PO. Lysergic acid 
+diethylamide (LSD) for alcoholism: meta-
+analysis of randomized controlled trials.  
+J Psychopharmacol 2012; 26: 994–1002.
+	
+5.	 Carhart-Harris RL and Goodwin GM. The 
+therapeutic potential of psychedelic drugs: past, 
+present, and future. Neuropsychopharmacology 
+2017; 42: 2105–2113.
+	
+6.	 Chi T and Gold JA. A review of emerging 
+therapeutic potential of psychedelic drugs in the 
+treatment of psychiatric illnesses. J Neurol Sci 
+2020; 411: 116715.
+	
+7.	 Strassman RJ. Hallucinogenic drugs in 
+psychiatric research and treatment. Perspectives 
+and prospects. J Nerv Ment Dis 1995; 183: 
+127–138.
+	
+8.	 Bogenschutz MP, Forcehimes AA, Pommy JA, 
+et al. Psilocybin-assisted treatment for alcohol 
+dependence: a proof-of-concept study.  
+J Psychopharmacol 2015; 29: 289–299.
+	
+9.	 Bogenschutz MP and Johnson MW. Classic 
+hallucinogens in the treatment of addictions. 
+Prog Neuro-Psychopharmacol Biol Psychiatry 2016; 
+64: 250–258.
+	 10.	 Bogenschutz MP. It’s time to take psilocybin 
+seriously as a possible treatment for substance 
+use disorders. Am J Drug Alcohol Abuse 2016; 
+43: 4–6.
+	 11.	 Johnson MW, Garcia-Romeu A, Cosimano 
+MP, et al. Pilot study of the 5-HT2AR agonist 
+psilocybin in the treatment of tobacco 
+addiction. J Psychopharmacol 2014; 28: 
+983–992.
+	 12.	 Johnson MW, Garcia-Romeu A and Griffiths 
+RR. Long-term follow-up of psilocybin-
+facilitated smoking cessation. Am J Drug Alcohol 
+Abuse. Epub ahead of print 21 July 2016. DOI: 
+10.3109/00952990.2016.1170135.
+	 13.	 Noorani T, Garcia-Romeu A, Swift TC, et al. 
+Psychedelic therapy for smoking cessation: 
+qualitative analysis of participant accounts.  
+J Psychopharmacol 2018; 32: 756–769.
+	 14.	 Krupitsky EM, Burakov A, Romanova T, et al. 
+Ketamine psychotherapy for heroin addiction: 
+immediate effects and two-year follow-up.  
+J Subst Abuse Treat 2002; 23: 273–283.
+	 15.	 Multidisciplinary Association for Psychedelic 
+Studies. FDA grants breakthrough therapy 
+designation for MDMA-assisted psychotherapy 
+for PTSD, agrees on special protocol assessment 
+for phase 3 trials, www.maps.org/news/
+media/6786 (accessed 26 August 2017).
+	 16.	 Grob CS. Psychiatric research with 
+hallucinogens: what have we learned?  
+Yearb Ethnomed Study Conscious 1994; 3: 
+91–112.
+	 17.	 Ogalde JP, Arriaza BT and Soto EC. 
+Identification of psychoactive alkaloids 
+in ancient Andean human hair by gas 
+chromatography/mass spectrometry. J Archaeol 
+Sci 2009; 36: 467–472.
+	 18.	 Miller MJ, Albarracin-Jordan J, Moore C, 
+et al. Chemical evidence for the use of multiple 
+psychotropic plants in a 1,000-year-old ritual 
+bundle from South America. Proc Natl Acad Sci 
+2019; 116: 11207–11212.
+	 19.	 Luna LE. Indigenous and mestizo use of 
+ayahuasca: an overview. In: Santos RG (ed.) 
+The ethnopharmacology of ayahuasca. Kerala: 
+Transworld Research Network, 2011,  
+pp.1–21.
+	 20.	 Schultes RE. Ethnopharmacology of the 
+northwest Amazon: unexpected chemical 
+discoveries. Rev Acad Colomb Cienc Exactas Fís 
+Nat 1987; 16: 85–92.
+	 21.	 Timmermann C, Roseman L, Schartner M, 
+et al. Neural correlates of the DMT experience 
+assessed with multivariate EEG. Sci Rep 2019; 9: 
+16324.
+	 22.	 Domínguez-Clavé E, Soler J, Elices M, et al. 
+Ayahuasca: pharmacology, neuroscience and 
+therapeutic potential. Brain Res Bull 2016; 126: 
+89–101.
+	 23.	 Bouso JC, González D, Fondevila S, et al. 
+Personality, psychopathology, life attitudes and 
+neuropsychological performance among ritual 
+users of ayahuasca: a longitudinal study. PLoS 
+One 2012; 7: e42421.
+	 24.	 Bouso JC, Fábregas JM, Antonijoan 
+RM, et al. Acute effects of ayahuasca on 
+neuropsychological performance: differences 
+in executive function between experienced and 
+occasional users. Psychopharmacology 2013; 230: 
+415–424.
+	 25.	 Callaway JC and Grob CS. Ayahuasca 
+preparations and serotonin reuptake inhibitors: 
+a potential combination for severe adverse 
+interactions. J Psychoactive Drugs 1998; 30: 
+367–369.
+	 26.	 Gable RS. Risk assessment of ritual use of 
+oral dimethyltryptamine (DMT) and harmala 
+alkaloids. Addiction 2007; 102: 24–34.
+	 27.	 Lanaro R, Bressanim de Aquino Calemi DB, 
+Togni LR, et al. Ritualistic use of ayahuasca 
+versus street use of similar substances seized by 
+the police: a key factor involved in the potential 
+for intoxications and overdose? J Psychoactive 
+Drugs 2015; 47: 132–139.
+
+
+Therapeutic Advances in Psychopharmacology 11
+14	
+journals.sagepub.com/home/tpp
+	 28.	 Riba J, Rodriguez-Fornells A, Urbano G, et al. 
+Subjective effects and tolerability of the South 
+American psychoactive beverage ayahuasca in 
+healthy volunteers. Psychopharmacology 2001; 
+154: 85–95.
+	 29.	 dos Santos RG, Balthazar FM, Bouso JC, et al. 
+The current state of research on ayahuasca: a 
+systematic review of human studies assessing 
+psychiatric symptoms, neuropsychological 
+functioning, and neuroimaging. J 
+Psychopharmacol 2016; 30: 1230–1247.
+	 30.	 dos Santos RG, Bouso JC and Hallak JEC. 
+Ayahuasca, dimethyltryptamine, and psychosis: 
+a systematic review of human studies. Ther Adv 
+Psychopharmacol 2017; 7: 141–157.
+	 31.	 Coe MA and McKenna DJ. The therapeutic 
+potential of ayahuasca. In: Camfield D, 
+McIntyre E and Sarris J (eds) Evidence-based 
+herbal and nutritional treatments for anxiety in 
+psychiatric disorders. Switzerland: Springer, 2017, 
+pp.123–137. 
+	 32.	 Frecska E, Bokor P and Winkelman M. The 
+therapeutic potentials of ayahuasca: possible 
+effects against various diseases of civilization. 
+Front Pharmacol 2016; 7: 1–17.
+	 33.	 González D, Cantillo J, Pérez I, et al. Therapeutic 
+potential of ayahuasca in grief: a prospective, 
+observational study. Psychopharmacology (Berl) 
+2020; 237: 1171–1182.
+	 34.	 Hamill J, Hallak J, Dursun SM, et al. Ayahuasca: 
+psychological and physiologic effects, 
+pharmacology and potential uses in addiction 
+and mental illness. Curr Neuropharmacol 2019; 
+17: 108–128.
+	 35.	 Labate BC and Cavnar C (eds). The therapeutic 
+use of ayahuasca. Berlin: Springer-Verlag, 2014.
+	 36.	 dos Santos RG, Osório FL, Crippa JAS, et al. 
+Antidepressive, anxiolytic, and antiaddictive 
+effects of ayahuasca, psilocybin and lysergic 
+acid diethylamide (LSD): a systematic review of 
+clinical trials published in the last 25 years. Ther 
+Adv Psychopharmacol 2016; 6: 193–213.
+	 37.	 Soler J, Elices M, Dominguez-Clavé E, et al. 
+Four weekly ayahuasca sessions lead to increases 
+in “acceptance” capacities: a comparison study 
+with a standard 8-week mindfulness training 
+program. Front Pharmacol 2018; 9: 224.
+	 38.	 Fábregas JM, González D, Fondevila S, et al. 
+Assessment of addiction severity among ritual 
+users of ayahuasca. Drug Alcohol Depend 2010; 
+111: 257–261.
+	 39.	 Lawn W, Hallak JE, Crippa JA, et al. Well-
+being, problematic alcohol consumption and 
+acute subjective drug effects in past-year 
+ayahuasca users: a large, international, self-
+selecting online survey. Sci Rep 2017; 7:  
+15201.
+	 40.	 Grob CS, McKenna DJ, Callaway JC, et al. 
+Human psychopharmacology of hoasca, a plant 
+hallucinogen used in ritual context in Brazil.  
+J Nerv Ment Dis 1996; 184: 86–94.
+	 41.	 dos Santos RG and Hallak JEC. Therapeutic use 
+of serotoninergic hallucinogens: a review of the 
+evidence and of the biological and psychological 
+mechanisms. Neurosci Biobehav Rev 2020; 108: 
+423–434.
+	 42.	 Oliveira-Lima AJ, Santos R, Hollais AW, et al. 
+Effects of ayahuasca on the development of 
+ethanol-induced behavioral sensitization and on 
+a post-sensitization treatment in mice. Physiol 
+Behav 2015; 142: 28–36.
+	 43.	 Cruz JI and Nappo SA. Is ayahuasca an option 
+for the treatment of crack cocaine dependence? 
+J Psychoactive Drugs 2018; 50: 247–255.
+	 44.	 Labate BC, dos Santos RG, Strassman R, et al. 
+Effect of Santo Daime membership on substance 
+dependence. In: Labate BC and Cavnar C (eds) 
+The therapeutic use of ayahuasca. Berlin: Springer-
+Verlag, 2014, pp.153–159.
+	 45.	 Loizaga-Velder A. A psychotherapeutic view on 
+the therapeutic effects of ritual ayahuasca use in 
+the treatment of addiction. MAPS Bull Spec Ed 
+2013; 23: 36–40.
+	 46.	 Nunes AA, dos Santos RG, Osório FL, et al. 
+Effects of ayahuasca and its alkaloids on drug 
+dependence: a systematic literature review of 
+quantitative studies in animals and humans.  
+J Psychoactive Drugs 2016; 48: 195–205.
+	 47.	 Talin P and Sanabria E. Ayahuasca’s entwined 
+efficacy: an ethnographic study of ritual healing 
+from ‘addiction’. Int J Drug Policy 2017; 44: 
+23–30.
+	 48.	 de Rios MD, Grob CS and Baker JR. 
+Hallucinogens and redemption. J Psychoactive 
+Drugs 2002; 34: 239–248.
+	 49.	 Kuypers KPC, Riba J, De la Fuente Revenga 
+M, et al. Ayahuasca enhances creative divergent 
+thinking while decreasing conventional 
+convergent thinking. Psychopharmacology (Berl) 
+2016; 233: 3395–3403.
+	 50.	 Liester MB and Prickett JI. Hypotheses 
+regarding the mechanisms of ayahuasca in the 
+treatment of addictions. J Psychoactive Drugs 
+2012; 44: 200–208.
+	 51.	 Tupper KW. Entheogenic healing: the spiritual 
+effects and therapeutic potential of ceremonial 
+ayahuasca use. In: Ellens JH (ed.) The healing 
+
+
+DM O’Shaughnessy, I Berlowitz et al.
+journals.sagepub.com/home/tpp	
+15
+power of spirituality: how faith helps humans thrive. 
+Westport: Praeger, 2009, pp.269–282.
+	 52.	 Winkelman M. Alternative and traditional 
+medicine approaches for substance abuse 
+programs: a shamanic perspective. Int J Drug 
+Policy 2001; 12: 337–351.
+	 53.	 Fernández X, dos Santos RG, Cutchet M, et al. 
+Assessment of the psychotherapeutic effects of 
+ritual ayahuasca use on drug dependency: a pilot 
+study. In: Labate BC and Cavnar C (eds) The 
+therapeutic use of ayahuasca. Berlin: Springer-
+Verlag, 2014, pp.183–196.
+	 54.	 Thomas G, Lucas P, Capler NR, et al. 
+Ayahuasca-assisted therapy for addiction: 
+results from a preliminary observational study 
+in Canada. Curr Drug Abuse Rev 2013; 6: 
+30–42.
+	 55.	 McKenna DJ. Clinical investigations of the 
+therapeutic potential of ayahuasca: rationale and 
+regulatory challenges. Pharmacol Ther 2004; 102: 
+111–129.
+	 56.	 Mabit J. Ayahuasca in the treatment of 
+addictions. In: Roberts TB and Winkelman 
+M (eds) Psychedelic medicine: new evidence for 
+hallucinogenic substances as treatments. Vol. 2. 
+Westport: Praeger, 2007, pp.87–105.
+	 57.	 Strassman RJ. Human hallucinogenic drug 
+research in the United States: a present-day case 
+history and review of the process. J Psychoactive 
+Drugs 1991; 23: 29–38.
+	 58.	 Strassman RJ. Human psychopharmacology of 
+N,N-dimethyltryptamine. Behav Brain Res 1996; 
+73: 121–124.
+	 59.	 Sanz-Biset J and Cañigueral S. Plant use in the 
+medicinal practices known as “strict diets” in 
+Chazuta valley (Peruvian Amazon).  
+J Ethnopharmacol 2011; 137: 271–288.
+	 60.	 Sanz-Biset J and Cañigueral S. Plants as 
+medicinal stressors, the case of depurative 
+practices in Chazuta valley (Peruvian 
+Amazonia). J Ethnopharmacol 2013; 145:  
+67–76.
+	 61.	 Luna LE. The healing practices of a Peruvian 
+shaman. J Ethnopharmacol 1984; 11: 123–133.
+	 62.	 Jauregui X, Clavo Z, Jovel E, et al. “Plantas con 
+madre”: plants that teach and guide in the shamanic 
+initiation process in the east-central Peruvian 
+Amazon. J Ethnopharmacol 2011; 134: 739–752.
+	 63.	 Sanz-Biset J, Campos de la Cruz J, Epiquién-
+Rivera MA, et al. A first survey on the medicinal 
+plants of the Chazuta valley (Peruvian Amazon). 
+J Ethnopharmacol 2008; 122: 333–362.
+	 64.	 Berlowitz I, Ghasarian C, Walt H, et al. Conceptions 
+and practices of an integrative treatment for 
+substance use disorders involving Amazonian 
+medicine: traditional healers’ perspectives. Rev Bras 
+Psiquiatr 2017; 40: 200–209.
+	 65.	 Giovannetti C, Arce SG, Rush B, et al. Pilot 
+evaluation of a residential drug addiction treatment 
+combining traditional Amazonian medicine, 
+ayahuasca and psychotherapy on depression and 
+anxiety. J Psychoactive Drugs 2020; 52: 472–481.
+	 66.	 Berlowitz I, Walt H, Ghasarian C, et al. Short-term 
+treatment effects of a substance use disorder 
+therapy involving traditional Amazonian medicine. 
+J Psychoactive Drugs 2019; 51: 323–334.
+	 67.	 Mabit J, Giove R and Vega J. Takiwasi: the use 
+of Amazonian shamanism to rehabilitate drug 
+addicts, www.takiwasi.com (1996, accessed 26 
+July 2020). 
+	 68.	 Bustos S. The house that sings: the therapeutic 
+use of icaros at Takiwasi. Shaman’s Drum 2006; 
+73: 33–39.
+	 69.	 O’Shaughnessy DM. Takiwasi: addiction 
+treatment in the “Singing House”. PhD Thesis, 
+James Cook University, Australia, 2017.
+	 70.	 Mabit J. Blending traditions—using indigenous 
+medicinal knowledge to treat drug addiction, 
+www.maps.org/news-letters/v12n2/12225mab.
+pdf (2002, accessed 14 June 2020).
+	 71.	 Labate BC, Santos RG, Anderson B, et al. The 
+treatment and handling of substance dependence 
+with ayahuasca: reflections on current and future 
+research. In: Labate BC and MacRae E (eds) 
+Ayahuasca, ritual and religion in Brazil. London: 
+Equinox, 2010, pp.205–227.
+	 72.	 Skinner MD and Aubin HJ. Craving’s place 
+in addiction theory: contributions of the major 
+models. Neurosci Biobehav Rev 2010; 34: 
+606–623.
+	 73.	 Dodge K, Krantz B and Kenny PJ. How can we 
+begin to measure recovery? Subst Abuse Treat 
+Prev Policy 2010; 5: 31.
+	 74.	 Von Elm E, Altman DG, Egger M, et al. The 
+Strengthening the Reporting of Observational 
+Studies in Epidemiology (STROBE) Statement: 
+guidelines for reporting observational studies. 
+PLoS Med 2007; 4: e296.
+	 75.	 Berlowitz I, Walt H, Ghasarian C, et al. Who 
+turns to Amazonian medicine for treatment of 
+substance use disorder? Patient characteristics at 
+the Takiwasi addiction treatment center. J Stud 
+Alcohol Drugs 2020; 81: 416–425.
+	 76.	 World Health Organization. General guidelines 
+for methodologies on research and evaluation 
+
+
+Therapeutic Advances in Psychopharmacology 11
+16	
+journals.sagepub.com/home/tpp
+of traditional medicine. Report no. WHO/
+EDM/TRM/2000.1, www.who.int/publications-
+detail/general-guidelines-formethodologies-on-
+research-and-evaluation-of-traditional-medicine 
+(2000, accessed 2 May 2020). 
+	 77.	 McLellan AT, Cacciola JC, Alterman AI, et al. 
+The Addiction Severity Index at 25: origins, 
+contributions and transitions. Am J Addict 2006; 
+15: 113–124.
+	 78.	 Urschel HC III, Blair J and McLellan TA. 
+Indice De Severidad De Adicción 5ta Edición. 
+Measurement instrument, www.phmcresearch.
+org/products/addiction-severity-index (accessed 
+22 January 2017).
+	 79.	 Cohen S, Kamarck T and Mermelstein R. A 
+global measure of perceived stress. J Health Soc 
+Behav 1983; 24: 385–396.
+	 80.	 Remor E. Psychometric properties of a 
+European Spanish version of the Perceived 
+Stress Scale (PSS). Span J Psychol 2006; 9: 
+86–93.
+	 81.	 Cohen S and Williamson GM. Perceived stress 
+in a probability sample of the United States. 
+In: Spacapan S and Oskmap S (eds) The social 
+psychology of health. Newbury Park: SAGE, 
+1988, pp.31–67.
+	 82.	 May J, Andrade J, Kavanagh DJ, et al. The 
+craving experience questionnaire: a brief, theory-
+based measure of consummatory desire and 
+craving. Addiction 2014; 109: 728–735.
+	 83.	 Derogatis LR and Melisaratos N. The Brief 
+Symptom Inventory: an introductory report. 
+Psychol Med 1983; 13: 595–605.
+	 84.	 Derogatis LR and Unger R. Symptom Checklist-
+90-Revised. In: Weiner IB and Craighead WE 
+(Eds) The Corsini encyclopedia of psychology. 4th 
+ed. Hoboken: John Wiley & Sons, 2010. 
+	 85.	 Paloutzian RF, Bufford RK and Wildman AJ. 
+Spiritual Well-Being Scale: mental and physical 
+health relationships. In: Cobb M, Puchalski 
+CM and Rumbold B (eds) Oxford textbook 
+of spirituality in healthcare. Oxford: Oxford 
+University Press, 2012.
+	 86.	 Ware JE Jr. SF-36 health survey update. Spine 
+2000; 25: 3130–3139.
+	 87.	 Randolph C. RBANS Update: manual. 
+Bloomington: NCS Pearson, PsychCorp, 2012.
+	 88.	 R Core Team. R. A language and environment for 
+statistical computing. R Foundation for Statistical 
+Computing, www.r-project.org (2020, accessed 
+19 October 2018). 
+	 89.	 Torchiano M. Effsize—a package for efficient 
+effect size computation. R Package Version 
+0.7.9. Zenodo, 2020.
+	 90.	 Bates D, Mächler M, Bolker B, et al. Fitting 
+linear mixed-effects models using lme4. J Stat 
+Softw 2015; 67: 1–48.
+	 91.	 Kuznetsova A, Brockhoff PB and Christensen 
+RHB. lmerTest Package: tests in linear mixed 
+effects models. J Stat Softw 2017; 82: 1–26.
+	 92.	 Luke SG. Evaluating significance in linear 
+mixed-effects models in R. Behav Res Methods 
+2016; 49: 1494–1502.
+	 93.	 Gueorguieva R and Krystal JH. Move over 
+ANOVA: progress in analyzing repeated-
+measures data and its reflection in papers 
+published in the Archives of General Psychiatry. 
+Arch Gen Psychiatry 2000; 61: 310–317.
+	 94.	 Hedges LV. Distribution theory for Glass’s 
+estimator of effect size and related estimators.  
+J Educ Behav Stat 1981; 6: 107–128.
+	 95.	 Simoneau H and Brochu S. Addiction severity 
+index profile of persons who reenter treatment 
+for substance use disorders. Subst Abus 2017; 38: 
+432–437.
+	 96.	 Maruish ME. User’s manual for the SF-36v2 
+health survey. 3rd ed. Lincoln: QualityMetric 
+Incorporated, 2011.
+	 97.	 Cohen S and Janicki-Deverts D. Who’s stressed? 
+Distributions of psychological stress in the 
+United States in probability samples from 1983, 
+2006, and 2009. J Appl Soc Psychol 2012; 42: 
+1320–1334.
+	 98.	 Derogatis LR. Brief symptom inventory: 
+administration, scoring, and procedures manual. 
+Bloomington: Pearson, 1993.
+	 99.	 Bufford RK, Paloutzian RF and Ellison CW. 
+Norms for the Spiritual Well-Being Scale.  
+J Psychol Theol 1991; 19: 56–70.
+	100.	 Cacciola JS, Pecoraro A and Alterman AI. 
+Development of ASI psychiatric severity cut-
+off scores to identify co-occurring psychiatric 
+disorders. Int J Ment Health Addict 2008; 6: 
+77–92.
+	101.	 Doblin R. Pahnke’s ‘Good Friday experiment’: 
+a long-term follow-up and methodological 
+critique. J Transpers Psychol 1991; 23: 1–28.
+	102.	 Griffiths RR, Richards WA, McCann U, 
+et al. Psilocybin can occasion mystical-type 
+experiences having substantial and sustained 
+personal meaning and spiritual significance. 
+Psychopharmacology 2006; 187: 268–283.
+
+
+DM O’Shaughnessy, I Berlowitz et al.
+journals.sagepub.com/home/tpp	
+17
+	103.	 Pahnke WN. The psychedelic mystical 
+experience in the human encounter with death. 
+Harv Theol Rev 1969; 62: 1–21.
+	104.	 MacLean KA, Johnson MW and Griffiths 
+RR. Mystical experiences occasioned by the 
+hallucinogen psilocybin lead to increases in  
+the personality domain of openness.  
+J Psychopharmacol 2011; 25: 1453–1461.
+	105.	 Roseman L, Nutt DJ and Carhart-Harris RL. 
+Quality of acute psychedelic experience predicts 
+therapeutic efficacy of psilocybin for treatment-
+resistant depression. Front Pharmacol 2018; 8: 
+974.
+	106.	 Kjellgren A, Eriksson A and Norlander T. 
+Experiences of encounters with ayahuasca—“the 
+vine of the soul”. J Psychoactive Drugs 2009; 41: 
+309–315.
+	107.	 Luna LE and White SF. Ayahuasca reader: 
+encounters with the Amazon’s sacred vine. Santa 
+Fe: Synergetic Press, 2000.
+	108.	 Trichter S, Klimo J and Krippner S. Changes in 
+spirituality among ayahuasca ceremony novice 
+participants. J Psychoactive Drugs 2009; 41: 
+121–134.
+	109.	 Riba J. Human pharmacology of ayahuasca: 
+subjective and cardiovascular effects, monoamine 
+metabolite excretion, and pharmacokinetics.  
+J Pharmacol Exp Ther 2003; 306: 73–83.
+	110.	 Berlowitz I, Torres EG, Walt H, et al. 
+“Tobacco is the chief medicinal plant in my 
+work”: therapeutic uses of tobacco in Peruvian 
+Amazonian medicine exemplified by the work of 
+a maestro tabaquero. Front Pharmacol 2020; 11: 
+594591.
+	111.	 Politi M, Friso F, Saucedo G, et al. 
+Traditional use of Banisteriopsis caapi alone 
+and its application in a context of drug 
+addiction therapy. J Psychoactive Drugs. Epub 
+ahead of print 27 September 2020. DOI: 
+10.1080/02791072.2020.1820641.
+	112.	Argento E, Capler R, Thomas G, et al. 
+Exploring ayahuasca-assisted therapy 
+for addiction: a qualitative analysis of 
+preliminary findings among an Indigenous 
+community in Canada. Drug Alcohol Rev 
+2019; 38: 781–789.
+	113.	 Bergman RL. Navajo peyote use: its apparent 
+safety. Am J Psychiatry 1971; 128: 695–699.
+	114.	 Pascarosa P, Futterman S and Halsweig M. 
+Observations of alcoholics in the peyote ritual: 
+a pilot study. Ann NY Acad Sci 1976; 273: 
+518–524.
+	115.	 Albaugh BJ and Anderson PO. Peyote in the 
+treatment of alcoholism among American 
+Indians. Am J Psychiatry 1974; 131: 1247–1250.
+	116.	 Halpern JH, Sherwood AR, Hudson JI, et al. 
+Psychological and cognitive effects of long-
+term peyote use among Native Americans. Biol 
+Psychiatry 2005; 58: 624–631.
+	117.	 Uthaug MV, van Oorsouw K, Kuypers KPC, 
+et al. Sub-acute and long-term effects of 
+ayahuasca on affect and cognitive thinking 
+style and their association with ego dissolution. 
+Psychopharmacology 2018; 235: 2979–2989.
+	118.	 Johnson MW, Garcia-Romeu A, Johnson PS, 
+et al. An online survey of tobacco smoking 
+cessation associated with naturalistic psychedelic 
+use. J Psychopharmacol 2017; 31: 1–10.
+	119.	 Gasser P, Kirchner K and Passie T. LSD-
+assisted psychotherapy for anxiety associated 
+with a life-threatening disease: a qualitative 
+study of acute and sustained subjective effects.  
+J Psychopharmacol 2014; 29: 57–68.
+	120.	 Grob CS, Danforth AL, Chopra GS, et al. Pilot 
+study of psilocybin treatment for anxiety in 
+patients with advanced-stage cancer. Arch Gen 
+Psychiatry 2011; 68: 71–78.
+	121.	 Hendricks PS, Thorne CB, Clark CB, et al. 
+Classic psychedelic use is associated with 
+reduced psychological distress and suicidality  
+in the United States adult population.  
+J Psychopharmacol 2015; 29: 280–288.
+	122.	 Hendricks PS, Clark CB, Johnson MW,  
+et al. Hallucinogen use predicts reduced 
+recidivism among substance-involved offenders 
+under community corrections supervision.  
+J Psychopharmacol 2014; 28: 62–66.
+	123.	 Johansen PO and Krebs TS. Psychedelics not 
+linked to mental health problems or suicidal 
+behavior: a population study. J Psychopharmacol 
+2015; 29: 270–279.
+	124.	 Carhart-Harris RL, Roseman L, Bolstridge 
+M, et al. Psilocybin for treatment-resistant 
+depression: fMRI-measured brain mechanisms. 
+Sci Rep 2017; 7: 13187.
+	125.	 Halpern JH. The use of hallucinogens in the 
+treatment of addiction. Addict Res 1996; 4: 177–189.
+	126.	 Baumeister D, Barnes G, Giaroli G, et al. Classical 
+hallucinogens as antidepressants? A review of 
+pharmacodynamics and putative clinical roles. Ther 
+Adv Psychopharmacol 2014; 4: 156–169.
+	127.	 Foster JA and McVey Neufeld KA. Gut-brain 
+axis: how the microbiome influences anxiety and 
+depression. Trends Neurosci 2013; 36: 305–312.
+
+
+Therapeutic Advances in Psychopharmacology 11
+18	
+journals.sagepub.com/home/tpp
+	128.	 Mayer EA, Tillisch K, Gupta A. Gut/brain axis 
+and the microbiota. J Clinical Investigation 2015; 
+125: 926–938.
+	129.	 Simpson CA, Diaz-Arteche C, Eliby D, 
+Schwartz OS, Simmons JG, Cowan CSM. The 
+gut microbiota in anxiety and depression – A 
+systematic review. Clinical Psychology Rev 2021; 
+83: 101943.
+	130.	 Fotiou E and Gearin AK. Purging and the body 
+in the therapeutic use of ayahuasca. Soc Sci Med 
+2019; 239: 112532.
+	131.	 Simpson S, Kimbrough A, Boomhower B, 
+et al. Depletion of the microbiome alters the 
+recruitment of neuronal ensembles of oxycodone 
+intoxication and withdrawal. eNeuro 2020; 7: 
+ENEURO.0312–19.2020.
+Visit SAGE journals online 
+journals.sagepub.com/
+home/tpp
+SAGE journals

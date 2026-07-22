@@ -1,0 +1,48 @@
+{
+  "data": {
+    "article": {
+      "StudyID": "Armstrong 2024",
+      "Citation": "Armstrong SB, Xin Y, Sepeda ND, Polanco M, Averill LA, Davis AK. Prospective associations of psychedelic treatment for co-occurring alcohol misuse and posttraumatic stress symptoms among United States Special Operations Forces Veterans. Military Psychology. 2024.",
+      "Title": "Prospective associations of psychedelic treatment for co-occurring alcohol misuse and posttraumatic stress symptoms among United States Special Operations Forces Veterans",
+      "Year": 2024,
+      "Corpus/Prefix": ".",
+      "Condition": "Alcohol",
+      "Substance": "Ibogaine, 5-MeO-DMT",
+      "IsObservational": "Y",
+      "N": 45,
+      "AE_denominator": ".",
+      "ArmScope": "psychedelic_arm",
+      "PctFemale": 0,
+      "GenderCategory": "Male 100% (no other gender categories reported)",
+      "PctBIPOC": 9,
+      "PctIndigenous": 2,
+      "SafetyReported": "N",
+      "AnyAEReported": "NA",
+      "NumDistinctAEs": "NA",
+      "NParticipantsWithAE": "NA",
+      "WorstSeverity": "NA",
+      "text_source": "born-digital",
+      "Model": "claude-sonnet-5",
+      "PromptVersion": "ae_extraction_prompt_v1",
+      "RubricVersion": "severity_rubric_v1",
+      "Temperature": 1
+    },
+    "ae_events": []
+  },
+  "rationale": {
+    "article": {
+      "IsObservational": "Naturalistic clinical program evaluation / prospective chart review conducted during 'standard clinical operations'; explicitly described in the Discussion as lacking any controls ('control group, randomization, and blinding'). No randomized allocation to arms. Clearly observational.",
+      "N": "N=45 is the final analyzed sample: of 99 Veterans who received treatment, 86 completed the pre-treatment survey, and of those, 45 screened positive for risky alcohol use (AUDIT-C ≥4) and were 'included in the current analysis.' An intention-to-treat/last-observation-carried-forward approach was used for missing follow-up data within this N=45.",
+      "ArmScope": "Single-arm naturalistic treatment program — all 45 participants received the same ibogaine + 5-MeO-DMT protocol; there is no separate comparator arm, so N, demographics are inherently restricted to the psychedelic-treated group.",
+      "PctBIPOC": "Table 1 Race breakdown: Caucasian/White 91%, Native American 2%, Mixed Race 7% (no single non-white summary figure given). Summed non-white categories: 2% + 7% = 9%.",
+      "PctIndigenous": "Native American reported at 2% in Table 1 Race breakdown; this is a subset of the 9% PctBIPOC figure.",
+      "AE_denominator": "Coded '.' (not reported) — the article reports no adverse-event data at all for this cohort; see SafetyReported rationale.",
+      "SafetyReported": "The article describes pre-treatment safety screening (urine/alcohol screens, contraindication checks) and physiological monitoring during ibogaine dosing ('monitored for cardiovascular and other medical issues while receiving fluids') as part of the treatment protocol, but Results and Discussion never report any adverse-event counts, descriptions, or safety outcomes for this study's own participants. The single 'safe and well-tolerated' phrase in the Discussion refers to a different study (Mitchell et al., 2021, an MDMA/PTSD RCT), not this cohort. Per the three-state AE convention, this is coded as the article being silent on AE/safety entirely (SafetyReported = 'N').",
+      "AnyAEReported": "Set to 'NA' because SafetyReported = 'N' (article silent on AE/safety entirely per the missingness convention table).",
+      "NumDistinctAEs": "Set to 'NA' because SafetyReported = 'N'; no AE data of any kind reported.",
+      "NParticipantsWithAE": "Set to 'NA' because SafetyReported = 'N'; no AE data of any kind reported.",
+      "WorstSeverity": "Set to 'NA' because SafetyReported = 'N'; no AE data of any kind reported, so no severity can be assessed."
+    },
+    "ae_events": {}
+  }
+}

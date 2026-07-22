@@ -1,0 +1,998 @@
+Military Psychology
+ISSN: 0899-5605 (Print) 1532-7876 (Online) Journal homepage: www.tandfonline.com/journals/hmlp20
+Prospective associations of psychedelic
+treatment for co-occurring alcohol misuse and
+posttraumatic stress symptoms among United
+States Special Operations Forces Veterans
+Stacey B. Armstrong, Yitong Xin, Nathan D. Sepeda, Martín Polanco,
+Lynnette A. Averill & Alan K. Davis
+To cite this article: Stacey B. Armstrong, Yitong Xin, Nathan D. Sepeda, Martín Polanco,
+Lynnette A. Averill & Alan K. Davis (2024) Prospective associations of psychedelic treatment
+for co-occurring alcohol misuse and posttraumatic stress symptoms among United
+States Special Operations Forces Veterans, Military Psychology, 36:2, 184-191, DOI:
+10.1080/08995605.2022.2156200
+To link to this article:  https://doi.org/10.1080/08995605.2022.2156200
+© 2023 The Author(s). Published with
+license by Taylor & Francis Group, LLC.
+Published online: 01 Feb 2023.
+Submit your article to this journal 
+Article views: 9310
+View related articles 
+View Crossmark data
+Citing articles: 13 View citing articles 
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=hmlp20
+
+
+Prospective associations of psychedelic treatment for co-occurring alcohol 
+misuse and posttraumatic stress symptoms among United States Special 
+Operations Forces Veterans
+Stacey B. Armstrong
+a, Yitong Xina, Nathan D. Sepedaa,b, Martín Polancoc, Lynnette A. Averilld,e, 
+and Alan K. Davisa,b
+aCenter for Psychedelic Drug Research and Education, The Ohio State University, Columbus, Ohio; bCenter for Psychedelic and Consciousness 
+Research, Johns Hopkins University, Baltimore, Maryland; cThe Mission Within, Baja California, Mexico; dUS Department of Veterans Affairs, 
+Michael E. DeBakey Veterans Administration Medical Center, Houston, TX, USA; eDepartment of Psychiatry and Behavioral Sciences, Baylor 
+College of Medicine, Houston, TX, USA
+ABSTRACT
+This study evaluated prospective associations of ibogaine and 5-MeO-DMT treatment for risky alcohol 
+use and post-traumatic stress disorder (PTSD) symptoms among United States (US) Special Operations 
+Forces Veterans (SOFV). Data were collected during standard clinical operations at pre-treatment and 
+1-month (1 m), 3-months (3 m), and 6-months (6 m) post-treatment in an ibogaine and 5-MeO-DMT 
+treatment program in Mexico. Of the 86 SOFV that completed treatment, 45 met criteria for risky 
+alcohol use at pre-treatment (mean age = 44; male = 100%; White = 91%). There was a significant 
+reduction in alcohol use from pre-treatment (M = 7.2, SD = 2.3) to 1 m (M = 3.6; SD = 3.5) post- 
+treatment, which remained reduced through 6 m (M = 4.0; SD = 2.9; p < .001, partial eta 
+squared = .617). At 1 m, 24% were abstinent, 33% were non-risky drinking, and 42% were risky 
+drinkers. At 6 m, 16% were abstinent, 31% were non-risky drinking, and 53% were risky drinkers. There 
+were no differences between responders (abstinent/non-risky drinkers) and non-responders (risky 
+drinkers) in demographics/clinical characteristics. However, there were significant and very large 
+differences between responders and non-responders in PTSD symptom (p < .01, d = −3.26) and 
+cognitive functioning change (p < .01, d = −0.99). Given these findings, future clinical trials should 
+determine whether psychedelic-assisted therapy holds promise for individuals with complex trauma 
+and alcohol misuse who have not been successfully treated with traditional interventions.
+ARTICLE HISTORY 
+Received 30 June 2022  
+Accepted 30 November 2022 
+KEYWORDS 
+Psychedelic; Special 
+Operations Veterans; 
+Veterans; trauma; alcohol 
+misuse
+What is the public significance of this article?— Overall, 
+Special Operations Forces Veterans who sought out psy­
+chedelic-assisted therapy experienced a significant and 
+robust reduction in alcohol misuse. Additionally, veterans 
+who experienced a substantial reduction in alcohol mis­
+use had greater reductions in trauma symptoms and 
+improvements in cognitive functioning. Psychedelic- 
+assisted therapy appears to be a hopeful transdiagnostic 
+treatment for this unique population of Veterans, many of 
+whom struggle with various mental health concerns.
+Introduction
+Special Operations Forces (SOF) is composed of elite 
+personnel chosen because of outstanding physical and 
+psychological resilience who also have advanced training 
+in difficult combat situations (Bartone et al., 2008; 
+Hanwella & de Silva, 2012). However, SOF personnel 
+are likely to experience many deployments, longer time 
+away from home, more isolation, and potential intense 
+combat situations, which can be traumatic and related to 
+an increased risk of posttraumatic stress disorder 
+(PTSD) and traumatic brain injury (TBI; Hanwella & 
+de Silva, 2012; Hing et al., 2012). To cope with the high 
+pressure of combat, physical injuries, and stress- and 
+trauma- exposure-related psychological disorders, 
+more than 1.5 million Veterans use alcohol which is 
+the most misused substance among military personnel 
+(National Survey on Drug Use and Health, 2013). 
+Alcohol is also commonly used to cope with the effects 
+of TBI (Hanson et al., 2016), a signature injury of con­
+flicts in Iraq and Afghanistan among SOF Veterans 
+(SOFV). Veterans with TBI are more likely to have 
+comorbid psychological and neuropsychiatric issues, 
+including PTSD, alcohol, or drug misuse, and cognitive 
+impairment (Greer et al., 2020). For example, SOFV 
+with combat acquired TBI were two times more likely 
+CONTACT Stacey B. Armstrong 
+Armstrong.1014@osu.edu 
+Center for Psychedelic Drug Research and Education, College of Social Work, The Ohio State 
+University, 1947 College Road, Columbus, OH 43210, USA.
+MILITARY PSYCHOLOGY                                   
+2024, VOL. 36, NO. 2, 184–191 
+https://doi.org/10.1080/08995605.2022.2156200
+© 2023 The Author(s). Published with license by Taylor & Francis Group, LLC.  
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives License (http://creativecommons.org/licenses/by-nc- 
+nd/4.0/), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited, and is not altered, transformed, or built 
+upon in any way. The terms on which this article has been published allow the posting of the Accepted Manuscript in a repository by the author(s) or with their consent.
+
+
+to have alcohol- or drug-related diagnoses compared to 
+other Veteran populations (Carlson et al., 2010); and 
+Veterans with a history of moderate-to-severe TBI 
+were more likely to relapse to heavy drinking compared 
+to those without TBI (Jorge et al., 2019).
+SOFV have a strong sense of duty and significant 
+mental health-related stigma (Hing et al., 2012), which 
+likely influences their reluctance to seek mental health 
+treatment. Currently, mental health crises and the inci­
+dence of suicides among SOFV are increasing at an 
+alarming rate in the context of limited effective treat­
+ments for this unique population (Hing et al., 2012; 
+Rocklein Kemplin et al., 2019). More than 20% of high- 
+risk behavior deaths among Veterans were attributed to 
+substance misuse, and about 30% of completed suicides 
+involved drug or alcohol use (National Survey on Drug 
+Use and Health, 2013). Novel treatments are urgently 
+needed to decrease alcohol misuse, stress- and trauma- 
+related symptoms, and suicides in this population. 
+Treatment paradigms must be developed with these 
+complex factors in consideration to increase the health 
+and wellbeing of this population.
+Available treatments for traumatic stress and alcohol 
+misuse demonstrate limited efficacy in addressing the 
+complex spectrum of psychiatric symptoms (Watts et al., 
+2013). Approved psychotherapies for addressing trou­
+bling memories (e.g., Cognitive Processing Therapy, 
+Prolonged Exposure, Eye Movement Desensitization, 
+and Reprocessing) and commonly used psychotherapies 
+for addressing alcohol misuse (e.g., cognitive-behavioral 
+therapy, motivational interviewing, mindfulness-based 
+interventions) do not work for all Veterans due to 
+their complex and co-occurring psychiatric symptoms, 
+low response rates for engaged Veterans, and relatively 
+high dropout rates from treatment programs (Bowen 
+et al., 2009; Carroll et al., 2008; Santa Ana et al., 2016; 
+Schnurr et al., 2022; Steenkamp et al., 2015). Further, 
+pharmacotherapies, such as selective serotonin reuptake 
+inhibitors, selective norepinephrine reuptake inhibitors, 
+tricyclic antidepressants, mood stabilizers, antipsycho­
+tics, and psychostimulants, are commonly used to treat 
+persistent physiological arousal, mood symptoms, or 
+mitigate cognitive deficits (Puetz et al., 2015). 
+However, they demonstrate limited efficacy for people 
+with PTSD (Krystal et al., 2017), often have undesired 
+side effects and long-term use needs, (Friedman et al., 
+2007; Lee et al., 2016; Steenkamp et al., 2015) and the 
+two Food and Drug Administration (FDA) approved 
+medications for PTSD (i.e., sertraline, paroxetine) are 
+slow acting and require weeks to take effect. This latency 
+period increases the opportunity for risky behaviors 
+such as self-medication and suicidal ideation/attempt. 
+Pharmacotherapies, such as naltrexone, acamprosate, 
+and disulfiram, which are commonly prescribed to 
+help reduce alcohol withdrawal symptoms (Rubinsky 
+et al., 2015), exhibit limited efficacy for people with 
+physical (e.g., liver disease) or mental issues and are 
+associated hepatotoxicity, psychosis, and negative body 
+reactions (e.g., headache, fatigue, nausea; Swift & Aston, 
+2015). Given the comorbid psychological and neuropsy­
+chiatric issues among this population, transdiagnostic 
+treatments that can simultaneously address PTSD and 
+commonly overlapping comorbidities, such as alcohol 
+misuse, are urgently needed (Varkovitzky et al., 2018).
+Recently, there has been increasing interest in the use 
+of psychedelics as adjuncts to mental health treatment, 
+such as depression, anxiety, substance use disorders (e.g., 
+Bogenschutz et al., 2015; Davis et al., 2020b), and the 
+psychedelic 3,4-methylenedioxy-N-methamphetamine 
+(MDMA) was granted Breakthrough Therapy designa­
+tion by the FDA in 2017 for the treatment of PTSD. 
+Recent phase 3 results of one clinical trial found that 
+MDMA-assisted therapy was highly efficacious in indivi­
+duals with severe PTSD, and treatment was safe and well- 
+tolerated, even in those with comorbidities (Mitchell et al., 
+2021). Furthermore, two recent clinical trials found long- 
+term and robust improvements in alcohol use among 
+participants 
+who 
+were 
+administered 
+psilocybin 
+(Bogenschutz et al., 2015) and MDMA (Sessa et al., 
+2021). A retrospective study indicated significant and 
+very large self-reported reductions in cognitive impair­
+ment and symptoms of PTSD from before to after com­
+bined ibogaine- and 5-MeO-DMT-assisted psychedelic 
+therapy among SOFV (Davis et al., 2020a). To address 
+limitations associated with retrospective surveys, 
+a prospective study that followed Veterans for six- 
+month post-treatment was recently completed with 
+a clinical program working with SOFV seeking ibogaine- 
+and 5-MeO-DMT-assisted therapy in Mexico. Study evi­
+dence showed that there were significant and large 
+improvements in self-reported PTSD symptoms, post- 
+concussive symptoms, and cognitive functioning from 
+pre-treatment to one-month follow-up which were main­
+tained at six-months (Davis et al., under review).
+Although these preliminary data are encouraging, 
+more research is needed to better understand prospec­
+tive associations of psychedelic therapy among Veterans 
+who misuse alcohol and experience co-occurring 
+trauma-related symptoms. The goal of the present 
+study was to address this gap in the literature by con­
+ducting secondary analysis using a subgroup from the 
+prospective study described above (Davis et al., under 
+review). The first aim is to provide an overall character­
+ization of alcohol use, PTSD symptoms, and cognitive 
+functioning before and after treatment, through six- 
+month follow-up. The second aim is to explore pre- 
+MILITARY PSYCHOLOGY
+185
+
+
+treatment and other treatment characteristics that pre­
+dict response and non-response on alcohol use 
+outcomes.
+Method
+Clinical program
+Data were collected during standard clinical operations at 
+a legal clinical psychedelic program in Mexico between 
+2019 and 2021. Comprehensive details of the clinical pro­
+gram can be found in a previously published study (Davis 
+et al., 2020a). Treatment involved psychedelic-assisted 
+therapy with ibogaine and 5-MeO-DMT and referral to 
+the program occurred by word of mouth. After being 
+referred, Veterans underwent comprehensive physical 
+and psychological screenings with the program’s clinicians 
+to determine participant safety and contraindications.
+The clinical residential program lasted three days. 
+Participants underwent screenings (i.e., urine drug screen­
+ing, alcohol) on the first day to ensure no contraindicated 
+substances were detected. Further, they prepared for their 
+psychedelic-assisted therapy by learning about ibogaine’s 
+effects and identified their treatment intentions. 
+Participants whose screenings were clear of any contra­
+indications were administered an oral dose of (10 mg/kg) 
+of ibogaine hydrochloride (99% purity) with up to 5 others 
+in a group setting. Each participant was monitored for 
+cardiovascular and other medical issues while receiving 
+fluids. The next day Veterans were encouraged to journal 
+to process and integrate their experiences. Individual ses­
+sions with psychologists and group sessions were also 
+offered to further support integration. On the final day, 
+prior to receiving 5-MeO-DMT, the participants partici­
+pated in a second preparatory session. At least three 
+inhaled doses (5 mg, 15 mg, and 30 mg) were administered 
+to each participant and additional doses (30 mg, 45 mg) 
+were administered if no desired effects were experienced. 
+The same day, after the effects subsided, Veterans pro­
+cessed and integrated their experiences.
+Procedure for clinical program data collection
+During initial contact with the treatment program, 
+Veterans were offered the opportunity to participate in 
+this study. After consent and enrolling in the study, parti­
+cipants completed a pre-treatment survey before attending 
+their retreat and then completed follow-up surveys at 1-, 
+3-, and 6-months after treatment. SurveyGizmo/ 
+Alchemer, a secure online survey tool, was used to collect 
+data from Veterans. A staff member not affiliated with the 
+treatment site managed the data collection and no incen­
+tives were offered to those who completed surveys.
+Evaluable data for the clinical chart review study
+Measures administered were part of routine clinical prac­
+tice at the treatment site (approved by the Institutional 
+Review Board at Ohio State University) to evaluate the 
+efficacy of combined ibogaine- and 5-MeO-DMT-assisted 
+therapy for SOFV. Of the 99 Veterans who participated in 
+treatment during the study period, 86 completed the pre- 
+treatment survey, 71 completed the 1-month follow-up, 62 
+completed the 3-month follow-up, and 52 completed the 
+3-month follow-up. 44 participants completed all four 
+surveys. An intention-to-treat model was used to address 
+the missing data, generating a conservative estimate of the 
+treatment effect (Gupta, 2011). Data from the most 
+recently completed time point were carried over if they 
+completed the pre-treatment survey. Thus, the sample was 
+comprised of 86 participants, 45 of which screened positive 
+for alcohol misuse and were included in the current 
+analysis.
+Measures
+Background characteristics
+Veterans were asked items assessing their basic demo­
+graphics including age, sex, education, military service, 
+ethnicity, marital status, employment status, and state of 
+residence.
+Military history
+Section A of the National Survey of Veterans (Westat, 
+2010) was modified to assess military history using 11- 
+items which included military status, military branch, 
+and number of deployments.
+Alcohol use
+Veterans completed the Alcohol Use Disorders 
+Identification Test-Concise The AUDIT-C which com­
+prises the first three items of the AUDIT (Saunders et al., 
+1993) and is a validated measure of alcohol use. AUDIT-C 
+scores of ≥ 4 indicated possible misuse (AUDIT-C; Bush 
+et al., 1998). Veterans reported their alcohol consumption 
+before treatment and at each time point after their treat­
+ment. The mean of the total AUDIT-C after treatment was 
+subtracted from the total AUDIT-C before treatment to 
+calculate a change score. Cronbach’s alphas for the current 
+study ranged from .73 to .88 for each time point.
+PTSD symptoms
+Veterans completed the Posttraumatic Stress Disorder 
+Checklist (PCL-5) which assesses each of the DSM 5’s 21 
+symptoms of PTSD (Blevins et al., 2015). Veterans were 
+asked to rate how bothered they were (0 = “Not at all” to 
+4 = “Extremely”) by each of the symptoms in the 30 days 
+186
+S. B. ARMSTRONG ET AL.
+
+
+before their treatment and at each time point after treat­
+ment. The mean of the total PCL-5 after treatment was 
+subtracted from the total PCL-5 from before treatment to 
+calculate a change score. Cronbach’s alphas for the current 
+study ranged from .94 to .96 for each time point.
+Cognitive symptoms. Veterans completed the Neuro- 
+behavioral Symptom Inventory (NSI-22; Cicerone & 
+Kalmar, 1995), a 22-item measure of symptoms com­
+monly associated with post-concussive syndrome and 
+mild traumatic brain injury. Veterans were asked to 
+rate how bothered they were by each symptom on 
+a 5-point scale (0 = “None,” 4 = “Very severe”). The 
+mean of the total NSI-22 after treatment was subtracted 
+from the total NSI-22 from before treatment to calculate 
+a change score. Cronbach’s alphas for the current study 
+ranged from .92 to .93 for each time point.
+Data analysis
+Analyses were conducted using IBM SPSS (Version 28). 
+We initially calculated summary statistics of all demo­
+graphics, background, and treatment history character­
+istics. To examine aim 1, we ran three separate repeated- 
+measures ANOVAs to provide an overall characteriza­
+tion of alcohol use, PTSD symptoms, and cognitive 
+functioning comparing symptoms from before to after 
+treatment and through six-months follow up. We then 
+calculated change scores for alcohol use, PTSD symp­
+toms, and cognitive functioning by subtracting 1-month 
+follow-up ratings from pre-treatment ratings. To exam­
+ine aim 2, we ran a series of t-tests to compare the means 
+of responder and non-responder groups at pre- 
+treatment and 1-month follow-up PTSD symptoms, 
+cognitive functioning, and all demographic characteris­
+tics to evaluate pre-treatment and other treatment char­
+acteristics that predict response and non-response on 
+alcohol use outcomes. Because there were no differences 
+in primary outcome measures beyond 1-month follow- 
+up, we compared pre-treatment to 1-month follow-up 
+scores. Effect sizes for ANOVAs were calculated using 
+the partial eta squared statistic and t-tests were calcu­
+lated using the Cohen’s d statistic and a p-value of .05 
+was used to determine statistical significance.
+Results
+Respondent characteristics
+Of those that screened positive for possible alcohol mis­
+use at pre-treatment (N = 45), 29% screened positive for 
+moderate-risk drinking (AUDIT-C = 4–5), 29% screened 
+positive for high-risk drinking (AUDIT-C = 6–7), and 
+42% screened positive for severe-risk drinking (AUDIT- 
+C = 8–12). Respondents were largely Caucasian/White 
+(87.2%), non-Hispanic (89.5%), middle-aged (M = 42.88, 
+SD = 7.88), and male (100%; Table 1).
+Change in alcohol misuse, PTSD symptoms, and 
+cognitive functioning
+There was a significant and very large reduction in 
+alcohol use from pre-treatment to 1-month post- 
+treatment, which remained reduced through 6 months 
+(p < .001, η2 = .62). There was also a significant and very 
+large reduction in PTSD symptoms from pre-treatment 
+to 1-month post-treatment, which remained reduced 
+through 6 months (p < .001, η2 = .59). Lastly, there was 
+a significant and very large improvement in cognitive 
+functioning from pre-treatment to 1-month post- 
+treatment (p < .001, η2 = .52), which remained reduced 
+through 6 months (Table 2).
+Table 1. Demographics of Veterans meeting criteria for risky 
+alcohol use at pre-treatment.
+Veterans with risky alcohol 
+use at pre-treatment 
+(n = 45)
+M(SD) or %
+Baseline Alcohol Risk
+Moderate
+29%
+High
+29%
+Severe
+42%
+Age
+44(7.78)
+Sex
+Male
+100%
+Race
+Caucasian/White
+91%
+Native American
+2%
+Mixed Race
+7%
+Hispanic/Latino
+No
+93%
+Yes
+7%
+Education
+High school Diploma or equivalent (GED)
+7%
+Some college
+24%
+Trade, technical, or vocational training
+4%
+Associates degree
+2%
+Bachelor’s degree
+31%
+Master’s degree
+29%
+Advanced professional degree
+2%
+Marital or Partnership Status
+Married and living with spouse
+58%
+Living with partner
+2%
+Divorced or separated
+24%
+Never married
+16%
+Branch of Service
+Army
+4%
+Navy
+87%
+Marine Corps
+7%
+OEF/OIF Service
+Yes
+93%
+No
+7%
+Number of Deployments
+1–6
+53%
+7–12
+36%
+13–20
+11%
+MILITARY PSYCHOLOGY
+187
+
+
+While, overall, there were significant and very large 
+improvements in risky alcohol use, some Veterans con­
+tinued to engage in risky drinking. Of the participants 
+who reported risky drinking at pre-treatment, 24% were 
+abstinent, 33% were engaging in non-risky drinking, and 
+42% were risky drinkers (18% = Moderate risk; 
+7% = High risk; 18% = Severe risk) at 1-month follow- 
+up. At 3-months, 22% were abstinent, 22% were enga­
+ging in non-risky drinking, and 56% were risky drinkers 
+(48% = Moderate risk; 20% = High risk; 32% = Severe 
+risk). At 6-months, 16% were abstinent, 31% were enga­
+ging in non-risky drinking, and 53% were risky drinkers 
+(24% = Moderate risk; 16% = High risk; 13% = Severe 
+risk). There were no differences between responders 
+(abstinent/non-risky drinkers; N = 26) and non- 
+responders (risky drinkers; N = 19) in pre-treatment 
+demographics or pre-treatment clinical characteristics. 
+However, there were significant and very large differ­
+ences between responders and non-responders in 
+changes in PTSD symptoms (p < .01, d = −3.26), and 
+changes in cognitive functioning (p < .01, d = −0.99; 
+Table 3), from before to 1-month after treatment.
+Discussion
+This prospective clinical chart review study of combined 
+ibogaine and 5-MeO-DMT treatment among SOFV sug­
+gests that this treatment is an effective and robust treat­
+ment to reduce problematic alcohol use. Not only were 
+these outcomes established relatively quickly, effects 
+maintained through 6 months post-treatment. There 
+were no demographic differences between treatment 
+responders and non-responders; however, responders 
+had significantly larger reductions in trauma symptoms 
+and improvements in cognitive functioning.
+These results are consistent with previous research 
+investigating the impact of psychedelics on alcohol mis­
+use (Garcia-Romeu et al., 2019; Krebs & Johansen, 
+Table 2. Change in symptom severity before and after treatment among Veterans meeting criteria for risky alcohol use at pre- 
+treatment.
+Measure(N)
+Pre-treatment 
+M(SD)
+1-month Follow-up 
+M(SD)
+3-month Follow-up 
+M(SD)
+6-month Follow-up 
+M(SD)
+F-test
+df
+Effect 
+Size
+Post Hoc
+Alcohol use (45)
+7.20(2.31)
+3.58(3.53)
+3.98(3.21)
+3.96(2.92)
+22.59***
+3
+.62
+PT>1 m = 3 m = 6 m
+PTSD symptoms (19)
+37.58(16.43)
+20.27(17.80)
+18.82(14.21)
+18.38(14.82)
+20.08***
+3
+.59
+PT>1 m = 3 m = 6 m
+Cognitive functioning (45)
+32.91(15.22)
+20.40(15.48)
+21.40(14.16)
+20.36(13.83)
+14.90***
+3
+.52
+PT>1 m = 3 m = 6 m
+*p < .05, **p < .01, ***p < .001
+Table 3. Alcohol use, PTSD symptoms, and cognitive functioning among responders and non-responders.
+Measure or demographic variable
+Responders @ 1 m (N = 19) M(SD)
+Non-responders @ 1 m (N = 26) M(SD)
+t or X2
+Effect Size
+Pre-treatment Alcohol use
+7.00(1.94)
+7.47(1.78)
+−.68
+−.20
+Pre-treatment PTSD symptoms
+38.77(16.48)
+35.95(16.67)
+.57
+.17
+PTSD change
+−24.73(18.67)
+−7.16(16.68)
+−3.26**
+−.98
+Pre-treatment cognitive functioning
+31.38(12.84)
+35.00(18.15)
+−.78
+−.24
+Cognitive functioning change
+−17.69(13.18)
+−5.42(11.38)
+−3.26**
+−.99
+Age
+43.62(8.12)
+44.42(7.48)
+−.34
+−.10
+Race
+1.48
+Caucasian/White
+53%
+38%
+Native American
+2%
+0%
+Mixed Race
+2%
+4%
+Hispanic/Latino
+.79
+Yes
+2%
+4%
+No
+56%
+38%
+Education
+6.13
+High school Diploma or equivalent (GED)
+2%
+4%
+Some college
+13%
+11%
+Trade, technical, or vocational training
+4%
+0%
+Associates degree
+0%
+2%
+Bachelor’s degree
+22%
+9%
+Master’s degree
+16%
+13%
+Advanced professional degree
+0%
+2%
+Marital or partnership status
+1.95
+Married and living with spouse
+33%
+24%
+Living with partner
+0%
+2%
+Divorced or separated
+13%
+11%
+Never married
+58%
+42%
+OEF/OIF Service
+2.35
+Yes
+51%
+42%
+No
+6.7%
+0%
+Number of deployments
+6.92(4.06)
+8.79(5.09)
+−.34
+−.41
+*p < .05, **p < .01, ***p < .001
+188
+S. B. ARMSTRONG ET AL.
+
+
+2012). Further, studies investigating ibogaine and/or 
+5-MeO-DMT have shown promise in reducing alcohol 
+use (Davis et al., 2018; Mangini et al., 2021). However, 
+reductions were also related to reductions in trauma 
+symptoms and improvements in cognitive functioning. 
+In terms of trauma, psychedelics, especially MDMA, 
+have been shown to improve PTSD symptoms 
+(Mitchell et al., 2021; Mithoefer et al., 2011). 
+Psychedelics have also shown promise in improving 
+cognitive functioning (Davis et al., 2020a, under review). 
+This research extends the literature by using data from 
+a prospective clinical program evaluation to follow this 
+high-risk population of SOFV who received psychedelic- 
+assisted therapy.
+SOFV are particularly high-risk due to their strong 
+sense of duty and significant mental health-related 
+stigma (Hing et al., 2012), and among those with 
+PTSD, dropout rates are often high when treatment is 
+sought (Najavits, 2015). Therefore, the data from this 
+study are particularly beneficial as the treatment is brief 
+and associated with improved symptomology and sus­
+tained clinical benefits which is in stark contrast to 
+current therapeutics often used to treat common mental 
+health concerns observed in SOFV.
+Some limitations to consider are the program 
+Veterans attended occurred in a naturalistic setting 
+which lacked any controls (e.g., control group, rando­
+mization, and blinding) limiting our ability to determine 
+cause and effect relationships. Due to these limitations, 
+we are unable to determine the clinical benefits resulting 
+from each substance or evaluate the benefits of com­
+bined psychedelic drug dosing. Furthermore, participa­
+tion in treatment was determined by self-selection. 
+There may be something meaningful about those who 
+chose to participate in this novel treatment and those 
+who either did not participate or did not participate in 
+survey completion. It is also notable that there were no 
+objective reports, thus increasing risk of self-report bias. 
+Finally, the population evaluated in this study is largely 
+middle-aged, white, and male, which does not reflect the 
+larger Veteran population or the general population of 
+the United States and limits the generalizability of our 
+findings.
+Future research should continue to develop and 
+implement well-designed randomized controlled trials 
+(RCTs) that allow for the comparison of ibogaine and 
+5-MeO-DMT to placebo/control groups. Well-crafted 
+RCTs will allow for longer-term follow-up and assess­
+ment of the long-term effects of treatment. Further, 
+researchers should also include validated clinician- 
+administered assessments and survey clinicians and 
+other reporters, as their objective observations of treat­
+ment effectiveness is highly valuable. Lastly, because 
+ongoing stress and continued traumatic experiences 
+are associated with the return to substance use, includ­
+ing measures assessing these variables would be useful.
+Disclosure statement
+No potential conflict of interest was reported by the author(s).
+Funding
+Veterans Exploring Treatment Solutions AKD is supported by 
+private philanthropic funding from Tim Ferriss, Matt 
+Mullenweg, Craig Nerenberg, Blake Mycoskie, and the 
+Steven and Alexandra Cohen Foundation. AKD, SBA, NS, 
+and YX are also supported by the Center for Psychedelic 
+Drug Research and Education, funded by anonymous private 
+donors.
+ORCID
+Stacey B. Armstrong 
+http://orcid.org/0000-0003-0869- 
+7511
+Data availability statement
+The data that support the findings of this study are available 
+from the corresponding author, [SBA], upon reasonable 
+request.
+References
+Bartone, P. T., Roland, R. R., Picano, J. J., & Williams, T. J. 
+(2008). Psychological hardiness predicts success in U.S. 
+Army Special Forces candidates. International Journal of 
+Selection and Assessment, 16(1), 78–81. https://doi.org/10. 
+1111/j.1468-2389.2008.00412.x 
+Blevins, C. A., Weathers, F. W., Davis, M. T., Witte, T. K., & 
+Domino, J. L. (2015). The posttraumatic stress disorder 
+checklist for DSM-5 (PCL-5): Development and initial psy­
+chometric evaluation. Journal of Traumatic Stress, 28(6), 
+489–498. https://doi.org/10.1002/jts.22059 
+Bogenschutz, M. P., Forcehimes, A. A., Pommy, J. A., 
+Wilcox, C. E., Barbosa, P. C., & Strassman, R. J. (2015). 
+Psilocybin-assisted treatment for alcohol dependence: A 
+proof-of-concept study. Journal of Psychopharmacology 
+(Oxford, England), 29(3), 289–299. https://doi.org/10. 
+1177/0269881114565144 
+Bowen, S., Chawla, N., Collins, S., Witkiewitz, K., Hsu, S., 
+Grow, J., Clifasefi, S., Garner, M., Douglass, A., 
+Larimer, M., & Marlatt, A. (2009). Mindfulness-based 
+relapse prevention for substance use disorders: A pilot effi­
+cacy trial. Substance Abuse, 30(4), 295–305. https://doi.org/ 
+10.1080/08897070903250084 
+Bush, K., Kivlahan, D. R., McDonell, M. B., Fihn, S. D., & 
+Bradley, K. A. (1998). The AUDIT alcohol consumption 
+questions (AUDIT-C): An effective brief screening test for 
+problem drinking. Ambulatory Care Quality Improvement 
+Project (ACQUIP). Alcohol Use Disorders Identification 
+MILITARY PSYCHOLOGY
+189
+
+
+Test. Archives of Internal Medicine, 158(16), 1789–1795. 
+https://doi.org/10.1001/archinte.158.16.1789 
+Carlson, K. F., Nelson, D., Orazem, R. J., Nugent, S., 
+Cifu, D. X., & Sayer, N. A. (2010). Psychiatric diagnoses 
+among Iraq and Afghanistan war veterans screened for 
+deployment-related traumatic brain injury. Journal of 
+Traumatic Stress, 23(1), 17–24. https://doi.org/10.1002/jts. 
+20483 
+Carroll, K., Ball, S., Martino, S., Nich, C., Babuscio, T., 
+Nuro, K., Gordon, M., Portnoy, G., & Rounsaville, B. 
+(2008). Computer-assisted delivery of cognitive-behavioral 
+therapy for addiction: A randomized trial of CBT4CBT. The 
+American Journal of Psychiatry, 165(7), 881–888. https:// 
+doi.org/10.1176/appi.ajp.2008.07111835 
+Cicerone, K. D., & Kalmar, K. (1995). Persistent postconcus­
+sion syndrome: The structure of subjective complaints after 
+mild traumatic brain injury. The Journal of Head Trauma 
+Rehabilitation, 10(3), 1–17. https://doi.org/10.1097/ 
+00001199-199510030-00002 
+Davis, A. K., Averill, L. A., Sepeda, N. D., Barsuglia, J. P., & 
+Amoroso, 
+T. 
+(2020a). 
+Psychedelic 
+treatment 
+for 
+trauma-related psychological and cognitive impairment 
+among US Special Operations Forces Veterans. Chronic 
+Stress, 4, 2470547020939564. http://dx.doi.org/10.1177/ 
+2470547020939564 
+Davis, A. K., Barrett, F. S., May, D. G., Cosimano, M. P., 
+Sepeda, N. D., Johnson, M. W., Finan, P. H., & 
+Griffiths, R. R. (2020b). Effects of psilocybin-assisted ther­
+apy on major depressive disorder: A randomized clinical 
+trial. JAMA Psychiatry, 78(5), 481–489. https://doi.org/10. 
+1001/jamapsychiatry.2020.3285 
+Davis, A. K., Barsuglia, J. P., Lancelotta, R., Grant, R. M., & 
+Renn, E. (2018). The epidemiology of 5-methoxy- N, 
+N-dimethyltryptamine (5-MeO-DMT) use: Benefits, conse­
+quences, patterns of use, subjective effects, and reasons for 
+consumption. Journal of Psychopharmacology (Oxford, 
+England), 32(7), 779–792. https://doi.org/10.1177/ 
+0269881118769063 
+Davis, A. K., Xin, Y., Sepeda, N., & Averill, L. A. (under 
+review). 
+Consecutive 
+ibogaine 
+and 
+5-MeO-DMT 
+assisted-therapy for trauma-exposed Special Operations 
+Forces Veterans: Prospective data from a clinical program 
+in Mexico. Psychological Trauma: Theory, Research, Practice 
+and Policy.
+Friedman, M., Marmar, C., Baker, D., Sikes, C., & Farfel, G. 
+(2007). Randomized, double-blind comparison of sertraline 
+and placebo for posttraumatic stress disorder in 
+a department of Veterans affairs setting. The Journal of 
+Clinical Psychiatry, 68(5), 711–720. https://doi.org/10. 
+4088/JCP.v68n0508 
+Garcia-Romeu, A., Davis, A. K., Erowid, F., Erowid, E., 
+Griffiths, R. R., & Johnson, M. W. (2019). Cessation and 
+reduction in alcohol consumption and misuse after psyche­
+delic use. Journal of Psychopharmacology, 33(9), 1088–1101. 
+https://doi.org/10.1177/0269881119845793 
+Greer, N., Sayer, N., Spoont, M., Taylor, B., Ackland, P., 
+MacDonald, R., McKenzie, L., Rosebush, C., & Wilt, T. 
+(2020). Prevalence and severity of psychiatric disorders 
+and suicidal behavior in service members and Veterans 
+with and without traumatic brain injury: Systematic 
+review. The Journal of Head Trauma Rehabilitation, 35(1), 
+1–13. https://doi.org/10.1097/HTR.0000000000000478 
+Gupta, S. (2011). Intention-to-treat concept: A review. 
+Perspectives in Clinical Research, 2(3), 109–112. https:// 
+doi.org/10.4103/2229-3485.83221 
+Hanson, K. L., Schiehser, D. M., Clark, A. L., Sorg, S. F., 
+Kim, R. T., Jacobson, M. W., Werhane, M. L., Jak, A. J., 
+Twamley, E. W., & Delano-Wood, L. (2016). Problem alco­
+hol use in veterans with mild traumatic brain injury: 
+Associations with cognitive performance and psychiatric 
+symptoms. 
+Journal 
+of 
+Clinical 
+and 
+Experimental 
+Neuropsychology, 38(10), 1115–1130. https://doi.org/10. 
+1080/13803395.2016.1198468 
+Hanwella, R., & de Silva, V. (2012). Mental health of Special 
+Forces personnel deployed in battle. Social Psychiatry and 
+Psychiatric Epidemiology, 47(8), 1343–1351. https://doi.org/ 
+10.1007/s00127-011-0442-0 
+Hing, M., Cabrera, J., Barstow, C., & Forsten, R. (2012). Special 
+operations forces and incidence of post-traumatic stress 
+disorder symptoms. Journal of Special Operations 
+Medicine: a Peer Reviewed Journal for SOF Medical 
+Professionals, 12(3), 23–35. https://doi.org/10.55460/ 
+663M-6L7P 
+Jorge, R. E., Li, R., Liu, X., McGavin, J. K., Shorter, D. I., 
+Acion, L., & Arndt, S. (2019). Treating alcohol use disorder 
+in U.S. Veterans: The role of traumatic brain injury. The 
+Journal of Neuropsychiatry and Clinical Neurosciences, 31 
+(4), 319–327. https://doi.org/10.1176/appi.neuropsych. 
+18110250 
+Krebs, T. S., & Johansen, P. Ø. (2012). Lysergic acid diethyla­
+mide (LSD) for alcoholism: Meta-analysis of randomized 
+controlled trials. Journal of Psychopharmacology (Oxford, 
+England), 26(7), 994–1002. https://doi.org/10.1177/ 
+0269881112439253 
+Krystal, J. H., Davis, L. L., Neylan, T. C., A Raskind, M., 
+Schnurr, P. P., Stein, M. B., Vessicchio, J., Shiner, B., 
+Gleason, T. C., & Huang, G. D. (2017). It is time to address 
+the crisis in the pharmacotherapy of posttraumatic stress 
+disorder: 
+A 
+consensus 
+statement 
+of 
+the 
+PTSD 
+Psychopharmacology Working Group. Biological Psychiatry, 
+82(7), e51–e59. https://doi.org/10.1016/j.biopsych.2017.03.007 
+Lee, D. J., Schnitzlein, C. W., Wolf, J. P., Vythilingam, M., 
+Rasmusson, A. M., & Hoge, C. W. (2016). Psychotherapy 
+versus pharmacotherapy for posttraumatic stress disorder: 
+Systemic review and meta-analyses to determine first-line 
+treatments. Depression and Anxiety, 33(9), 792–806. https:// 
+doi.org/10.1002/da.22511 
+Mangini, P., Averill, L. A., & Davis, A. K. (2021). Psychedelic 
+treatment 
+for 
+co-occurring 
+alcohol 
+misuse 
+and 
+post-traumatic stress symptoms among United States 
+Special Operations Forces Veterans. Journal of Psychedelic 
+Studies, 5(3), 149–155. https://doi.org/10.1556/2054.2021. 
+00176 
+Mitchell, J., Bogenschutz, M., Lilienstein, A., Harrison, C., 
+Kleiman, S., Parker-Guilbert, K., Ot’alora, G., Garas, W., 
+Paleos, C., Gorman, I., Nicholas, C., Mithoefer, M., 
+Carlin, S., Poulter, B., Mithoefer, A., Quevedo, S., 
+Wells, G., Klaire, S., van der Kolk, B., & Doblin, R. (2021). 
+MDMA-assisted therapy for severe PTSD: A randomized, 
+double-blind, placebo-controlled phase 3 study. Nature 
+Medicine, 27(6), 1025–1033. https://doi.org/10.1038/ 
+s41591-021-01336-3 
+Mithoefer, M. C., Wagner, M. T., Mithoefer, A. T., Jerome, L., 
+& Doblin, R. (2011). The safety and efficacy of ±3, 
+190
+S. B. ARMSTRONG ET AL.
+
+
+4-methylenedioxymethamphetamine-assisted psychother­
+apy in subjects with chronic, treatment-resistant posttrau­
+matic stress disorder: The first randomized controlled pilot 
+study. Journal of Psychopharmacology, 25(4), 439–452. 
+https://doi.org/10.1177/0269881110378371 
+Najavits, L. M. (2015). The problem of dropout from ”gold 
+standard” PTSD therapies. F1000prime Reports, 7, 43.
+Puetz, T. W., Youngstedt, S. D., & Herring, M. P. (2015). 
+Effects of pharmacotherapy on combat-related PTSD, anxi­
+ety, 
+and 
+depression: 
+A 
+systematic 
+review 
+and 
+meta-regression analysis. PloS one, 10(5), e0126529. 
+https://doi.org/10.1371/journal.pone.0126529 
+Rocklein Kemplin, K., Paun, O., Godbee, D. C., & 
+Brandon, J. W. (2019). Resilience and suicide in special 
+operations forces: State of the science via integrative 
+review. Journal of Special Operations Medicine, 19(2), 
+57–66. https://doi.org/10.55460/BQES-AM8H 
+Rubinsky, A. D., Chen, C., Batki, S. L., Williams, E. C., & 
+Harris, A. H. (2015). Comparative utilization of pharma­
+cotherapy for alcohol use disorder and other psychiatric dis­
+orders among U.S. Veterans health administration patients 
+with dual diagnoses. Journal of Psychiatric Research, 69, 
+150–157. https://doi.org/10.1016/j.jpsychires.2015.07.016 
+Santa Ana, E. J., LaRowe, S. D., Armeson, K., Lamb, K. E., & 
+Hartwell, K. (2016). Impact of group motivational interview­
+ing on enhancing treatment engagement for homeless 
+Veterans with nicotine dependence and other substance use 
+disorders: A pilot investigation. The American Journal on 
+Addictions, 25(7), 533–541. https://doi.org/10.1111/ajad.12426 
+Saunders, J. B., Aasland, O. G., Babor, T. F., de la Fuente, J. R., & 
+Grant, M. (1993). Development of the Alcohol Use Disorders 
+Identification Test (AUDIT): WHO collaborative project on 
+early detection of persons with harmful alcohol consump­
+tion–II. Addiction (Abingdon, England), 88(6), 791–804. 
+https://doi.org/10.1111/j.1360-0443.1993.tb02093.x 
+Schnurr, P. P., Chard, K. M., Ruzek, J. I., Chow, B. K., 
+Resick, P. A., Foa, E. B., Marx, B. P., Friedman, M. J., 
+Bovin, M. J., Caudle, K. L., Castillo, D., Curry, K. T., 
+Hollifield, M., Huang, G. D., Chee, C. L., Astin, M. C., 
+Dickstein, B., Renner, K., Clancy, C. P., , and Shih, M. C. 
+(2022). Comparison of prolonged exposure vs cognitive 
+processing therapy for treatment of posttraumatic stress 
+disorder among US Veterans: A randomized clinical trial. 
+JAMA Network Open, 5(1), e2136921. https://doi.org/10. 
+1001/jamanetworkopen.2021.36921 
+Sessa, B., Higbed, L., O’Brien, S., Durant, C., Sakal, C., 
+Titheradge, D., Williams, T. M., Rose-Morris, A., Brew- 
+Girard, E., Burrows, S., Wiseman, C., Wilson, S., Rickard, J., 
+& Nutt, D. J. (2021). First study of safety and tolerability of 
+3,4-methylenedioxymethamphetamine-assisted psychother­
+apy in patients with alcohol use disorder. Journal of 
+Psychopharmacology (Oxford, England), 35(4), 375–383. 
+https://doi.org/10.1177/0269881121991792 
+Steenkamp, M., Litz, B., Hoge, C., & Marmar, C. (2015). 
+Psychotherapy for military-related PTSD: A review of ran­
+domized clinical trials. JAMA, 314(5), 489–500. https://doi. 
+org/10.1001/jama.2015.8370 
+Swift, R. M., & Aston, E. R. (2015). Pharmacotherapy for 
+alcohol use disorder: Current and emerging therapies. 
+Harvard Review of Psychiatry, 23(2), 122–133. https://doi. 
+org/10.1097/HRP.0000000000000079 
+U.S. Department Of Health And Human Services. (2013). 
+National Survey on Drug Use and Health. https://www. 
+samhsa.gov/data/sites/default/files/NSDUHmhfr2013/ 
+NSDUHmhfr2013.pdf 
+Varkovitzky, R. L., Sherrill, A. M., & Reger, G. M. (2018). 
+Effectiveness of the unified protocol for transdiagnostic treat­
+ment of emotional disorders among Veterans with posttrau­
+matic stress disorder: A Pilot Study. Behavior Modification, 
+42(2), 210–230. https://doi.org/10.1177/0145445517724539 
+Watts, B. V., Schnurr, P. P., Mayo, L., Young-Xu, Y., 
+Weeks, W. B., & Friedman, M. J. (2013). Meta-analysis of 
+the efficacy of treatments for posttraumatic stress disorder. 
+The Journal of Clinical Psychiatry, 74(6), e541–e550. https:// 
+doi.org/10.4088/JCP.12r08225 
+Westat. (2010). National survey of Veterans questionnaire. 
+https://www.va.gov/vetdata/docs/SurveysAndStudies/ 
+AppendixAQuestionnaires.pdf
+MILITARY PSYCHOLOGY
+191

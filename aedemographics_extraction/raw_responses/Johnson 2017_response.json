@@ -1,0 +1,88 @@
+{
+  "data": {
+    "article": {
+      "StudyID": "Johnson 2017",
+      "Citation": "Johnson MW, Garcia-Romeu A, Johnson PS, Griffiths RR. An online survey of tobacco smoking cessation associated with naturalistic psychedelic use. Journal of Psychopharmacology. 2017.",
+      "Title": "An online survey of tobacco smoking cessation associated with naturalistic psychedelic use",
+      "Year": 2017,
+      "Corpus/Prefix": ".",
+      "Condition": "Smoking",
+      "Substance": "Psilocybin, LSD, DMT, Ayahuasca, Morning glory seeds, Mescaline, Peyote, San Pedro cactus",
+      "IsObservational": "Y",
+      "N": 358,
+      "AE_denominator": 358,
+      "ArmScope": "psychedelic_arm",
+      "PctFemale": 14.5,
+      "GenderCategory": "male/female (306 male, 85.5%; 52 female, 14.5%; no non-binary/other category reported)",
+      "PctBIPOC": 14.2,
+      "PctIndigenous": 1.7,
+      "SafetyReported": "Y",
+      "AnyAEReported": "Y",
+      "NumDistinctAEs": 3,
+      "NParticipantsWithAE": 43,
+      "WorstSeverity": "Mild",
+      "text_source": "born-digital",
+      "Model": "claude-sonnet-5",
+      "PromptVersion": "ae_extraction_prompt_v1",
+      "RubricVersion": "severity_rubric_v1",
+      "Temperature": 1
+    },
+    "ae_events": [
+      {
+        "AE_ID": "Johnson 2017_AE01",
+        "StudyID": "Johnson 2017",
+        "AE_type": "challenging_experience",
+        "Description": "Acute anxiety during the reference psychedelic session, one of the two most common psychological negative effects reported.",
+        "Onset": "in-session",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Johnson 2017_AE02",
+        "StudyID": "Johnson 2017",
+        "AE_type": "challenging_experience",
+        "Description": "Dysphoria during the reference psychedelic session, reported alongside anxiety as a psychological negative effect.",
+        "Onset": "in-session",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Johnson 2017_AE03",
+        "StudyID": "Johnson 2017",
+        "AE_type": "AE",
+        "Description": "Physical discomfort during the reference psychedelic session (e.g. gastrointestinal distress, stomachache, headache).",
+        "Onset": "in-session",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "N"
+      }
+    ]
+  },
+  "rationale": {
+    "article": {
+      "IsObservational": "Retrospective cross-sectional anonymous online survey of naturalistic (non-laboratory) psychedelic use; no randomization or researcher-administered intervention protocol -- clearly observational.",
+      "N": "1273 individuals completed the survey (enrolled), but 915 were excluded (163 non-serotonergic drug, 329 inconsistent responses, 423 <12 months since experience); N=358 is the final analyzed sample per Table 1/2/3 and is used here.",
+      "Substance": "Multiple 5-HT2AR agonists were eligible/reported: Table 3 'Drug associated with smoking cessation/reduction' lists Psilocybin, LSD, DMT, Ayahuasca, and an 'Other' category (morning glory, mescaline, peyote, San Pedro) which the Methods section names individually as inclusion-eligible substances; listed all as comma-separated per the reported taxonomy.",
+      "ArmScope": "Single-arm naturalistic survey with no comparator group; entire N=358 sample is psychedelic-exposed by inclusion criteria, so psychedelic_arm per schema guidance for single-arm designs.",
+      "PctBIPOC": "Table 1 race breakdown (whole sample): White 307, American Indian/Alaska Native 6, Asian 6, Mixed 26, Other 13 (sums to N=358). Non-white = 6+6+26+13=51; 51/358=14.2%.",
+      "PctIndigenous": "American Indian/Alaska Native = 6/358 = 1.7% per Table 1, reported directly as the indigenous subgroup; consistent as a subset of the 14.2% PctBIPOC figure.",
+      "AE_denominator": "Results 'Other outcomes' section: negative-effects question answered by whole sample -- No 281 + Not sure 34 + Yes 43 = 358, matching N.",
+      "AnyAEReported": "43/358 (12.0%) explicitly reported negative effects; the 34 (9.5%) 'not sure' responses were not counted as confirmed AE presence.",
+      "NumDistinctAEs": "Text names 3 distinct negative-effect types across two passages describing the same n=43 negative-effect reports: (1) acute anxiety, (2) dysphoria, (3) physical discomfort, for which the Discussion gives 'e.g. stomachache, headache' as illustrative examples of the same physical-discomfort category already named in Results ('such as gastrointestinal distress') -- treated as one type, not separate types, since no per-symptom counts are given and the Discussion explicitly frames them as examples of the Results-stated category.",
+      "NParticipantsWithAE": "43 participants (12.0%) reported 'Yes' to negative effects from the reference psychedelic experience (Results, 'Other outcomes' section)."
+    },
+    "ae_events": {
+      "Johnson 2017_AE01": "Discussion states negative effects 'were typically confined to the period of acute drug effects' -- this duration/persistence signal supports Mild (transient, resolves with session) per the rubric's default for expected acute drug effects; no intervention or FDA-seriousness signal reported, so MeetsFDASerious=N and InterventionRequired='.'; graded challenging_experience since in-session anxiety is CEQ-sense phenomenology per the rubric.",
+      "Johnson 2017_AE02": "Same duration signal ('confined to the period of acute drug effects') applies to dysphoria as to anxiety, supporting Mild with SeverityIndeterminate=N; classified as challenging_experience for the same reason as anxiety.",
+      "Johnson 2017_AE03": "Physical discomfort (GI distress/stomachache/headache) also described as confined to the acute drug-effect period, supporting Mild; classified as AE rather than challenging_experience since it is physical rather than CEQ-phenomenology in nature; no intervention/seriousness information reported."
+    }
+  }
+}

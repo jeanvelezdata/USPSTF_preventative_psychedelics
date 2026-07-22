@@ -1,0 +1,504 @@
+Can psychedelic-assisted psychotherapy play
+a role in enhancing motivation to change
+in addiction treatment settings?
+MARK KANG1, LINDSAY MACKAY1,2, DEVON CHRISTIE1,
+CODY CALLON2 and ELENA ARGENTO1,2p
+1 Department of Medicine, University of British Columbia, Vancouver, Canada
+2 BC Centre on Substance Use, Vancouver, Canada
+Received: July 21, 2021 • Revised manuscript received: February 3, 2022 • Accepted: February 22, 2022
+Published online: March 11, 2022
+ABSTRACT
+Despite growing availability of several evidence-based approaches in the treatment of substance use
+disorders, existing pharmacotherapy and psychosocial interventions continue to have significant limi-
+tations, such as low treatment retention rates and high rates of relapse. There is a need to develop new
+strategies and models to address these limitations and target underlying psychosocial drivers of
+addiction, such as motivation to change – a crucial factor in achieving positive addiction treatment
+outcomes. Re-emerging clinical evidence and literature signal the promise of psychedelic-assisted
+psychotherapies as being novel, adjunctive treatments for a range of mental health and substance use
+disorders, encouraging further research. However, there remains a lack of formally validated metrics to
+evaluate recovery capital and motivation, limiting interpretation of the growing psychedelic literature.
+This commentary describes the current state of this line of investigation and potential impact of psy-
+chedelic-assisted psychotherapy on enhancing motivation to change in addiction treatment, and the
+need for validated metrics to evaluate recovery motivation and capital to assess the potential for psy-
+chedelic-assisted psychotherapies to elicit positive, lasting changes in substance use behaviors among
+those seeking treatment.
+KEYWORDS
+addiction treatment, substance use disorders, psychedelic-assisted psychotherapy, psychedelics, recovery capital
+and motivation
+Substance use disorders (SUDs) continue to be a source of major morbidity and mortality,
+accounting for an estimated greater than 20% of all deaths globally (Gakidou et al., 2017).
+Despite the heavy burden of illness, little is known about how individuals can best overcome
+and resolve SUDs (Kelly, Bergman, Hoeppner, Vilsaint, & White, 2017). Several evidence-
+based psychosocial and pharmacological treatments exist; however, they face a range of
+limitations such as low retention rates, limited availability, and high rates of relapse (BCCSU,
+2019). Furthermore, individual differences in neurochemical interactions, psychosocial fac-
+tors related to substance use (e.g. housing, social security and supports), and understanding
+of harms associated with ongoing drug use creates a multi-dimensional challenge (Bardo,
+Neisewander, & Kelly, 2013). Recent data highlight the limited success of currently available
+addiction treatments in various substance use disorders (Wood, 2018). In addition to this,
+patient lack of motivation or ambivalence about addiction treatment can serve to inhibit
+positive treatment outcomes (Palmer, Murphy, Piselli, & Ball, 2009). Consequently, novel
+evidence-based strategies are urgently needed to enhance support of an individual’s internal
+and external personal, cultural, social, and environmental resources, alongside the develop-
+ment of validated metrics to evaluate recovery motivation in this context.
+One important concept that has emerged in the addiction treatment space is that of
+recovery capital. This refers to quality and quantity of internal and external factors that, if
+enhanced, may enable an individual with a SUD to remain motivated throughout treatment
+Journal of Psychedelic
+Studies
+6 (2022) 1, 5–9
+DOI:
+10.1556/2054.2022.00190
+© 2022 The Author(s)
+COMMENTARY
+pCorresponding author. BC Centre on
+Substance Use, Department of
+Medicine, University of British
+Columbia, 400-1045 Howe Street,
+Vancouver, BC V6Z 1Y6, Canada. Tel.:
+þ(778) 945-7616; fax: (604) 428-
+5183.
+E-mail: elena.argento@bccsu.ubc.ca
+Unauthenticated | Downloaded 07/21/26 11:29 PM UTC
+
+
+and sustain abstinence (Laudet & White, 2008; White &
+Cloud, 2008). Treatments that support an individual’s re-
+covery capital have the potential to translate into better
+treatment outcomes (Köpetz, Lejuez, Wiers, & Kruglanski,
+2013; Laudet & White, 2008). Motivation is a signiﬁcant
+aspect of recovery capital that can be inﬂuenced by psy-
+chosocial interventions, such as Motivational Enhancement
+Therapy and Motivational Interviewing (MI) (Miller &
+Rollnick, 2012; Sellman, Sullivan, Dore, Adamson, &
+MacEwan, 2001), and is widely acknowledged as a crucial
+factor in addiction treatment (Miller, 2016). While patients
+present to treatment settings with a range of internal and
+external motivations, spanning from relative ambivalence to
+high motivation for change, approaches that nurture an
+individual’s recovery capital can lead to sustained positive
+outcomes, including abstinence (Köpetz et al., 2013; Laudet
+& White, 2008; Palmer et al., 2009). One such re-emerging
+approach is psychedelic-assisted psychotherapy, which may
+hold promise in bolstering aspects of recovery capital when
+used in conjunction with existing treatment modalities
+(Tupper, Wood, Yensen, & Johnson, 2015).
+An increasing body of evidence suggests the adjunctive
+use of psychedelics (broadly inclusive of psilocybin, lysergic-
+acid
+diethylamide
+[LSD],
+ketamine,
+and
+3,4-Methyl-
+enedioxymethamphetamine [MDMA]) with psychotherapy
+could enhance intrinsic aspects related to recovery capital
+such as motivation, connectedness, self-efficacy and mean-
+ingfulness, subsequently moderating positive SUD outcomes
+(Argento, Tupper, & Socias, 2019; Bogenschutz et al., 2015;
+Feduccia et al., 2019; Fuentes, Fonseca, Elices, Farré, &
+Torrens, 2019; Johnson, Garcia-Romeu, Cosimano, & Grif-
+ﬁths, 2014; Krebs & Johansen, 2012; Krupitsky et al., 2002).
+A meta-analysis of randomized clinical trials investigating
+LSD-assisted psychotherapy for AUD showed a pooled
+beneﬁt difference of 16% in LSD-treated participants that
+improved their alcohol misuse and 15% that maintained
+abstinence compared to controls at 6 months follow-up
+(Krebs & Johansen, 2012), and a growing body of literature
+now highlights the signiﬁcant therapeutic utility of LSD in
+AUD (Fuentes et al., 2019). Likewise, psilocybin-assisted
+psychotherapy has demonstrated positive changes in absti-
+nence self-efﬁcacy post-treatment and enhancement of
+motivation for change in AUD (Bogenschutz et al., 2015),
+yet validated measures of recovery capital remain elusive in
+the context of this therapeutic approach. Conventional
+smoking cessation therapies have had limited success, where
+the three most widely available ﬁrst-line treatments have
+observed less than 35% of participants remaining smoke-free
+after 6 months (Cahill, Stevens, & Lancaster, 2014). Notably,
+a pilot study investigating psilocybin-assisted psychotherapy
+for smoking cessation found that 80% of participants, who
+smoked on average 19 cigarettes a day for an average of 31
+years, remained abstinent at 6-months follow-up (Johnson
+et al., 2014). It is clear that novel, evidence-based approaches
+are urgently needed for opioid use disorder to address the
+ongoing overdose crisis. Clients discharged from residential
+treatment centres have relapse rates of 59% in the ﬁrst week
+and 80% within one month (Smyth, Barry, Keenan, &
+Ducray, 2010), and retention rates for opioid agonist ther-
+apy, considered an evidence-based ﬁrst-line treatment, are as
+low as 41% at 12-month follow-up (Nosyk, Marsh, Sun,
+Schechter, & Anis, 2010). While direct parallels cannot be
+drawn, historical evidence alongside emergent clinical trials
+suggest psychedelic-assisted psychotherapy may be beneﬁ-
+cial within a multitargeted response to the opioid crisis
+(Argento et al., 2019). Higher rates of abstinence have been
+observed among participants with opioid use disorder
+receiving high dose LSD and ketamine-assisted psycho-
+therapies compared to controls at long term follow ups
+(Krupitsky et al., 2002; Savage & McCabe, 1973). Although
+these studies show therapeutic promise of an adjunctive
+psychedelic approach, they continue to lack validated met-
+rics of quantifying recovery capital, leading to inconsistency
+and insufﬁciency of this data in the literature. Given
+consistent ﬁndings from published preliminary studies,
+larger clinical trials are needed and are now underway in the
+ﬁeld to further assess the therapeutic potential of psyche-
+delic-assisted psychotherapy. However, the gap remains for
+improved metrics to evaluate psychedelic effects (Hen-
+dricks, 2018).
+Evidence-based psychosocial interventions are increas-
+ingly being used to improve treatment outcomes as a
+monotherapy and in conjunction with other modalities to
+enhance recovery capital (BCCSU, 2019). For example,
+Motivational Enhancement Therapy, a structured counsel-
+ling methodology that employs principles of MI, is designed
+to explore client attitudes towards change and enhance
+intrinsic motivation across the spectrum of substance use
+(Galloway, Polcin, Kielstein, Brown, & Mendelson, 2007;
+Miller & Rollnick, 2012; Sellman et al., 2001). While MI
+alone has been shown to have moderate effect sizes for SUDs
+compared to placebo groups (Burke, Arkowitz, & Menchola,
+2003), preliminary research has demonstrated that MI in
+conjunction with psychedelics may strengthen recovery
+capital and motivation by generating “mystical-type” expe-
+riences that appear to increase self-efﬁcacy post-intervention
+(Bogenschutz et al., 2015). Psychedelic-occasioned mystical
+experiences have been shown to enhance ratings of personal
+meaningfulness, spiritual signiﬁcance, and connectedness,
+facilitating deeper personal insight that may lead to lasting
+behavioral change and positive outlook on life (Carhart-
+Harris, Erritzoe, Haijen, Kaelen, & Watts, 2018; Grifﬁths,
+Richards, McCann, & Jesse, 2006). Indeed, it has been
+argued that psychedelics might assist in promoting broad
+positive lifestyle changes, such improved diet, exercise, na-
+ture relatedness, and mindfulness practices (Teixeira et al.,
+2021). This may be partially explained by the meaning
+enhancing properties of psychedelics (such as mystical ex-
+periences and awe) that are thought to have lasting impacts
+on mood, cognition and substance use behaviors (Garcia-
+Romeu, Grifﬁths, & Johnson, 2014; Hendricks, 2018;
+Johnson, Garcia-Romeu, & Grifﬁths, 2017). For instance,
+participants in trials of psychedelic-assisted psychotherapy
+for SUDs expressed their experiences to be among the ﬁve
+most spiritually signiﬁcant and personally meaningful ones
+in their lives (Johnson et al., 2017). Participants articulated
+6
+Journal of Psychedelic Studies 6 (2022) 1, 5–9
+Unauthenticated | Downloaded 07/21/26 11:29 PM UTC
+
+
+meaningful commitment to change post-intervention and
+had personalized realizations with increased self-efﬁcacy,
+highlighting the profound impact psychedelic-assisted psy-
+chotherapy may have on recovery capital metrics (Johnson
+et al., 2017; Nielson, May, Forcehimes, & Bogenschutz, 2018;
+Noorani, Garcia-Romeu, Swift, Grifﬁths, & Johnson, 2018).
+The connection between spiritual experiences and eliciting
+change also raises the possibility for psychedelics to have
+synergistic effects should they be integrated in broader
+addiction treatment programs (Yaden et al., 2021). While
+the literature suggests qualitative changes on recovery capital
+and motivation are possible, the development of validated
+quantitative metrics would enhance the ability to formally
+assess recovery capital.
+Structured psychotherapeutic modalities for treating
+SUD such as MI and Cognitive Behavioural Therapy (CBT),
+which explore thought patterns and focus on relapse pre-
+vention through goal-directed psychotherapy (McHugh,
+Hearon, & Otto, 2010), have shown modest immediate post-
+treatment beneﬁts, yet these effects tend to diminish with
+time (Magill & Ray, 2009). Meanwhile, preliminary studies
+of psychedelics as adjuncts to psychotherapy have demon-
+strated positive effects that appear to be effective and sus-
+tained (Johnson et al., 2014; Krebs & Johansen, 2012).
+Recent clinical trials of psychedelic-assisted psychotherapy
+for treating mental health conditions such as depression,
+anxiety and posttraumatic stress disorder, which share
+common neural circuitry and have high comorbidity with
+addiction (Ly et al., 2018), have demonstrated particularly
+promising outcomes with lasting effects up to 4.5 years post-
+intervention (Agin-Liebes et al., 2020; Davis et al., 2020;
+Mithoefer et al., 2019). As a result, the US Food and Drug
+Administration has granted psilocybin- and MDMA-assis-
+ted psychotherapy “breakthrough therapy designation” for
+treatment-resistant depression and posttraumatic stress
+disorder, respectively (Feduccia et al., 2019; Reiff et al.,
+2020). Thus, the expansion and integration of psychedelic
+research with innovative psychosocial treatments for SUDs
+offers a promising modality that may generate longer lasting,
+internally motivated change and more efﬁcacious treatment
+outcomes. The validation of metrics to encompass these
+changes in internal and external motivation would further
+support the growing body of evidence and provide consis-
+tency across future literature.
+Capturing and quantifying psychedelic experiences and
+metrics of recovery capital in the setting of psychedelic-
+assisted psychotherapy has proven challenging. The notable
+personal accounts of enhanced sense of connectedness,
+spirituality, and meaningfulness that individuals experience
+during psychedelic-assisted psychotherapy play an impor-
+tant role in improving and sustaining treatment outcomes
+(Johnson et al., 2017; Nielson et al., 2018; Noorani et al.,
+2018), and yet remain difﬁcult to measure (Maclean,
+Leoutsakos, Johnson, & Grifﬁths, 2012). Furthermore, the
+emotion awe has been hypothesized to be a key mechanism
+of action underlying mystical experiences in psychedelic-
+assisted psychotherapy, fostering a sense of connectedness
+and oneness with others and acting as a principal catalyst for
+change
+within
+the
+psychedelic-assisted
+psychotherapy
+paradigm (Hendricks, 2018). These factors continue to be
+difﬁcult to quantify, and although some validated scales for
+measuring recovery capital exist, such as the Brief Assess-
+ment of Recovery Capital (Vilsaint et al., 2017) and Recovery
+Capital Index (Whitesock, Zhao, Goettsch, & Hanson,
+2018), corroborated measures for capturing the unique,
+intrinsic metrics of recovery capital that appear to be highly
+inﬂuenced
+by
+psychedelic-assisted
+psychotherapy
+(e.g.
+motivation, awe, connectedness, mystical experience and
+spirituality) are lacking. Development and validation of
+improved measures that have sufﬁcient capacity and sensi-
+tivity to evaluate recovery capital metrics in this ﬁeld will
+help to bolster the research and evidence emerging from the
+literature (Carhart-Harris et al., 2018). While psychedelic-
+assisted psychotherapy may continue to show promise with
+better validated measures, it is of notable importance that
+many highly motivated individuals may not be able to
+achieve their goals due to external structural factors such as
+housing or employment instability, and stigma (Hennessy,
+2017; Laudet & White, 2008). As such, while supporting
+recovery capital and motivation in addiction settings can
+help to alleviate stress that comes with treatment and facil-
+itate positive outcomes (Laudet & White, 2008), psychedelic-
+assisted psychotherapy should be considered alongside
+broader structural interventions to support individuals in
+achieving their substance use-related goals.
+Though further research is required to substantiate evi-
+dence, a growing number of studies, including clinical trials,
+indicate psychedelic-assisted psychotherapy holds promise
+when offered concurrently with standard of care in-
+terventions. However, there remains an ongoing need in this
+context to develop and validate new assessment tools that
+better capture and measure recovery capital and motivation
+and related factors influenced by psychedelic-assisted psy-
+chotherapy that have the potential to sustain long-term
+benefits including abstinence and remission from SUDs. The
+global crisis of addiction calls for expanding treatment op-
+tions beyond the existing therapies for SUDs that are offered
+today, which are characterized by significant limitations. As
+the field evolves, formally validated measures for psychedelic
+effects and impacts on recovery capital and motivation will
+enhance our understanding of the psychosocial aspects of an
+individuals’ journey to remission, and the potential for
+psychedelics to enhance existing treatments. Continuing
+research and growing evidence of psychedelic-assisted psy-
+chotherapy offers a novel and promising approach to initiate
+and sustain internally motivated change, optimize addiction
+treatment outcomes and ultimately advance the way we care
+for those struggling with SUDs.
+REFERENCES
+Agin-Liebes, G. I., Malone, T., Yalch, M. M., Mennenga, S. E., Ponté,
+K. L., Guss, J., et al. (2020). Long-term follow-up of psilocybin-
+assisted psychotherapy for psychiatric and existential distress in
+Journal of Psychedelic Studies 6 (2022) 1, 5–9
+7
+Unauthenticated | Downloaded 07/21/26 11:29 PM UTC
+
+
+patients with life-threatening cancer. Journal of Psychopharma-
+cology, 34(2), 155–166.
+Argento, E., Tupper, K. W., & Socias, M. E. (2019). The tripping
+point: The potential role of psychedelic-assisted therapy in the
+response to the opioid crisis. International Journal of Drug
+Policy, 66, 80–81.
+Bardo, M. T., Neisewander, J. L., & Kelly, T. H. (2013). Individual
+differences and social inﬂuences on the neurobehavioral phar-
+macology of abused drugs. Pharmacological Reviews, 65(1),
+255–290.
+BCCSU (2019). Provincial guideline for the clinical management of
+high-risk drinking and alcohol use disorder. British Columbia
+Centre on Substance Use.
+Bogenschutz, M. P., Forcehimes, A. A., Pommy, J. A., Wilcox, C. E.,
+Barbosa, P. C., & Strassman, R. J. (2015). Psilocybin-assisted
+treatment for alcohol dependence: A proof-of-concept study.
+Journal of Psychopharmacology, 29(3), 289–299.
+Burke, B., Arkowitz, H., & Menchola, M. (2003). The efﬁcacy of
+motivational interviewing: A meta-analysis of controlled clin-
+ical trials. Journal of Consulting and Clinical Psychology, 71,
+843–861.
+Cahill, K., Stevens, S., & Lancaster, T. (2014). Pharmacological
+treatments for smoking cessation. JAMA, 311(2), 193–194.
+Carhart-Harris, R. L., Erritzoe, D., Haijen, E., Kaelen, M., & Watts,
+R. (2018). Psychedelics and connectedness. Psychopharmacol-
+ogy (Berl), 235(2), 547–550.
+Davis, A. K., Barrett, F. S., May, D. G., Cosimano, M. P., Sepeda, N.
+D., Johnson, M. W., et al. (2020). Effects of psilocybin-assisted
+therapy on major depressive disorder: A randomized clinical
+trial. JAMA Psychiatry, 78(5), 481–489.
+Feduccia, A. A., Jerome, L., Yazar-Klosinski, B., Emerson, A.,
+Mithoefer, M. C., & Doblin, R. (2019). Breakthrough for trauma
+treatment: Safety and efﬁcacy of MDMA-assisted psychother-
+apy compared to paroxetine and sertraline. Front Psychiatry, 10,
+650.
+Fuentes, J. J., Fonseca, F., Elices, M., Farré, M., & Torrens, M.
+(2019). Therapeutic use of LSD in psychiatry: A systematic
+review of randomized-controlled clinical trials. Front Psychia-
+try, 10, 943.
+Gakidou, E., Afshin, A., Abajobir, A. A., Abate, K. H., Abbafati, C.,
+Abbas, K. M., et al. (2017). Global, regional, and national
+comparative risk assessment of 84 behavioural, environmental
+and occupational, and metabolic risks or clusters of risks, 1990–
+2016: A systematic analysis for the global burden of disease
+study 2016. The Lancet, 390(10100), 1345–1422.
+Galloway, G. P., Polcin, D., Kielstein, A., Brown, M., & Mendelson,
+J. (2007). A nine session manual of motivational enhancement
+therapy for methamphetamine dependence: Adherence and
+efﬁcacy. Journal of Psychoactive Drugs, (Suppl 4), 393–400.
+Garcia-Romeu, A., Grifﬁths, R. R., & Johnson, M. W. (2014).
+Psilocybin-occasioned mystical experiences in the treatment
+of tobacco addiction. Current Drug Abuse Reviews, 7(3), 157–
+164.
+Grifﬁths, R. R., Richards, W. A., McCann, U., & Jesse, R. (2006).
+Psilocybin can occasion mystical-type experiences having sub-
+stantial and sustained personal meaning and spiritual signiﬁ-
+cance. Psychopharmacology (Berl), 187(3), 268–283; discussion
+284–292.
+Hendricks, P. (2018). Psilocybin treatment of cocaine use disorder.
+Paper Presented at the College on Problems of Drug Depen-
+dence 80th Annual Scientiﬁc Meeting.
+Hendricks, P. S. (2018). Awe: A putative mechanism underlying the
+effects of classic psychedelic-assisted psychotherapy. Interna-
+tional Review of Psychiatry, 30(4), 331–342.
+Hennessy, E. A. (2017). Recovery capital: A systematic review of the
+literature. Addiction Research and Theory, 25(5), 349–360.
+Johnson, M. W., Garcia-Romeu, A., Cosimano, M. P., & Grifﬁths,
+R. R. (2014). Pilot study of the 5-HT2AR agonist psilocybin in
+the treatment of tobacco addiction. Journal of Psychopharma-
+cology, 28(11), 983–992.
+Johnson, M. W., Garcia-Romeu, A., & Grifﬁths, R. R. (2017). Long-
+term follow-up of psilocybin-facilitated smoking cessation. The
+American Journal of Drug and Alcohol Abuse, 43(1), 55–60.
+Kelly, J. F., Bergman, B., Hoeppner, B. B., Vilsaint, C., & White, W.
+L. (2017). Prevalence and pathways of recovery from drug and
+alcohol problems in the United States population: Implications
+for practice, research, and policy. Drug and Alcohol Depen-
+dence, 181, 162–169.
+Köpetz, C. E., Lejuez, C. W., Wiers, R. W., & Kruglanski, A. W.
+(2013). Motivation and self-regulation in addiction: A call for
+convergence. Perspectives on Psychological Science, 8(1), 3–24.
+Krebs, T. S., & Johansen, P. (2012). Lysergic acid diethylamide
+(LSD) for alcoholism: meta-analysis of randomized controlled
+trials. Journal of Psychopharmacology, 26(7), 994–1002.
+Krupitsky, E., Burakov, A., Romanova, T., Dunaevsky, I., Strass-
+man, R., & Grinenko, A. (2002). Ketamine psychotherapy for
+heroin addiction: Immediate effects and two-year follow-up.
+Journal of Substance Abuse Treatment, 23(4), 273–283.
+Laudet, A. B., & White, W. L. (2008). Recovery capital as pro-
+spective predictor of sustained recovery, life satisfaction, and
+stress among former poly-substance users. Substance Use and
+Misuse, 43(1), 27–54.
+Ly, C., Greb, A. C., Cameron, L. P., Wong, J. M., Barragan, E. V.,
+Wilson, P. C., et al. (2018). Psychedelics promote structural and
+functional neural plasticity. Cell Reports, 23(11), 3170–3182.
+Maclean, K. A., Leoutsakos, J. M., Johnson, M. W., & Grifﬁths, R. R.
+(2012). Factor Analysis of the mystical experience question-
+naire: A study of experiences occasioned by the Hallucinogen
+psilocybin. Journal for the Scientiﬁc Study of Religion, 51(4),
+721–737.
+Magill, M., & Ray, L. A. (2009). Cognitive-behavioral treatment
+with adult alcohol and illicit drug users: A meta-analysis of
+randomized controlled trials. Journal of Studies on Alcohol and
+Drugs, 70(4), 516–527.
+McHugh, R. K., Hearon, B. A., & Otto, M. W. (2010). Cognitive
+behavioral therapy for substance use disorders. The Psychiatric
+Clinics of North America, 33(3), 511–525.
+Miller, W. R. (2016). Sacred cows and greener pastures: Reﬂections
+from 40 Years in addiction research. Alcoholism Treatment
+Quarterly, 34(1), 92–115.
+Miller, W. R., & Rollnick, S. (2012). Motivational interviewing, third
+edition: Helping people change. The Guildford Press.
+Mithoefer, M. C., Feduccia, A. A., Jerome, L., Mithoefer, A.,
+Wagner, M., Walsh, Z., et al. (2019). MDMA-assisted psycho-
+therapy for treatment of PTSD: Study design and rationale for
+phase 3 trials based on pooled analysis of six phase 2
+8
+Journal of Psychedelic Studies 6 (2022) 1, 5–9
+Unauthenticated | Downloaded 07/21/26 11:29 PM UTC
+
+
+randomized
+controlled
+trials.
+Psychopharmacology
+(Berl),
+236(9), 2735–2745.
+Nielson, E. M., May, D. G., Forcehimes, A. A., & Bogenschutz, M.
+P. (2018). The psychedelic debrieﬁng in alcohol dependence
+treatment: Illustrating key change phenomena through quali-
+tative content analysis of clinical sessions. Front Pharmacology,
+9, 132.
+Noorani, T., Garcia-Romeu, A., Swift, T. C., Grifﬁths, R. R., &
+Johnson, M. W. (2018). Psychedelic therapy for smoking
+cessation: Qualitative analysis of participant accounts. Journal
+of Psychopharmacology, 32(7), 756–769.
+Nosyk, B., Marsh, D. C., Sun, H., Schechter, M. T., & Anis, A. H.
+(2010). Trends in methadone maintenance treatment partici-
+pation, retention, and compliance to dosing guidelines in
+British columbia, Canada: 1996–2006. Journal of Substance
+Abuse Treatment, 39(1), 22–31.
+Palmer, R. S., Murphy, M. K., Piselli, A., & Ball, S. A. (2009). Substance
+user treatment dropout from client and clinician perspectives:
+A pilot study. Substance Use and Misuse, 44(7), 1021–1038.
+Reiff, C. M., Richman, E. E., Nemeroff, C. B., Carpenter, L. L.,
+Widge, A. S., Rodriguez, C. I., et al. (2020). Psychedelics and
+psychedelic-assisted psychotherapy. The American Journal of
+Psychiatry, 177(5), 391–410.
+Savage, C., & McCabe, O. L. (1973). Residential psychedelic (LSD)
+therapy for the narcotic addict. A controlled study. Archives of
+General Psychiatry, 28(6), 808–814.
+Sellman, J. D., Sullivan, P. F., Dore, G. M., Adamson, S. J., &
+MacEwan, I. (2001). A randomized controlled trial of motiva-
+tional enhancement therapy (MET) for mild to moderate
+alcohol dependence. Journal of Studies on Alcohol, 62(3), 389–
+396.
+Smyth, B. P., Barry, J., Keenan, E., & Ducray, K. (2010). Lapse and
+relapse following inpatient treatment of opiate dependence.
+Irish Medical Journal, 103(6), 176–179.
+Teixeira, P. J., Johnson, M. W., Timmermann, C., Watts, R., Erritzoe,
+D., Douglass, H., et al. (2021). Psychedelics and health behaviour
+change. Journal of Psychopharmacology, 2698811211008554.
+Tupper, K. W., Wood, E., Yensen, R., & Johnson, M. W. (2015).
+Psychedelic medicine: A re-emerging therapeutic paradigm.
+Canadian Medical Association Journal, 187(14), 1054–1059.
+Vilsaint, C. L., Kelly, J. F., Bergman, B. G., Groshkova, T., Best, D.,
+& White, W. (2017). Development and validation of a Brief
+Assessment of Recovery Capital (BARC-10) for alcohol and
+drug use disorder. Drug and Alcohol Dependence, 177, 71–76
+(1879-0046 (Electronic)).
+White, W., & Cloud, W. (2008). Recovery capital: A primer for
+addictions professionals. Counselor, 9, 22–27.
+Whitesock, D., Zhao, J., Goettsch, K., & Hanson, J. (2018). Vali-
+dating a survey for addiction wellness: The recovery capital
+Index. South Dakota Medicine, 71(5), 202–212.
+Wood, E. (2018). Strategies for reducing opioid-overdose deaths —
+lessons from Canada. New England Journal of Medicine,
+378(17), 1565–1567.
+Yaden, D. B., Berghella, A. P., Regier, P. S., Garcia-Romeu, A.,
+Johnson, M. W., & Hendricks, P. S. (2021). Classic psychedelics
+in the treatment of substance use disorder: Potential synergies
+with twelve-step programs. International Journal of Drug Pol-
+icy, 98, 103380.
+Open Access. This is an open-access article distributed under the terms of the Creative Commons Attribution-NonCommercial 4.0 International License (https://
+creativecommons.org/licenses/by-nc/4.0/), which permits unrestricted use, distribution, and reproduction in any medium for non-commercial purposes, provided the
+original author and source are credited, a link to the CC License is provided, and changes – if any – are indicated.
+Journal of Psychedelic Studies 6 (2022) 1, 5–9
+9
+Unauthenticated | Downloaded 07/21/26 11:29 PM UTC

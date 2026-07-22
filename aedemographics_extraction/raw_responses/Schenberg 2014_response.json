@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {
+      "StudyID": "Schenberg 2014",
+      "Citation": "Schenberg EE, et al. Treating drug dependence with the aid of ibogaine: A retrospective study. Journal of Psychopharmacology. 2014.",
+      "Title": "Treating drug dependence with the aid of ibogaine: A retrospective study",
+      "Year": 2014,
+      "Corpus/Prefix": ".",
+      "Condition": ".",
+      "Substance": "Ibogaine",
+      "IsObservational": "Y",
+      "N": 75,
+      "AE_denominator": 75,
+      "ArmScope": "psychedelic_arm",
+      "PctFemale": 10.67,
+      "GenderCategory": "male/female (67 male, 8 female)",
+      "PctBIPOC": ".",
+      "PctIndigenous": ".",
+      "SafetyReported": "Y",
+      "AnyAEReported": "Y",
+      "NumDistinctAEs": 7,
+      "NParticipantsWithAE": ".",
+      "WorstSeverity": "Mild",
+      "text_source": "born-digital",
+      "Model": "claude-sonnet-5",
+      "PromptVersion": "ae_extraction_prompt_v1",
+      "RubricVersion": "severity_rubric_v1",
+      "Temperature": 1
+    },
+    "ae_events": [
+      {
+        "AE_ID": "Schenberg 2014_AE01",
+        "StudyID": "Schenberg 2014",
+        "AE_type": "AE",
+        "Description": "Nausea during acute ibogaine effects (~10hr session); author-labeled a mild adverse effect, occurred frequently.",
+        "Onset": "in-session",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "author",
+        "InterventionRequired": "N",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Schenberg 2014_AE02",
+        "StudyID": "Schenberg 2014",
+        "AE_type": "AE",
+        "Description": "Ataxia during acute ibogaine effects; author-labeled mild; discussion notes absence of persistent ataxia.",
+        "Onset": "in-session",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "author",
+        "InterventionRequired": "N",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Schenberg 2014_AE03",
+        "StudyID": "Schenberg 2014",
+        "AE_type": "AE",
+        "Description": "Vomiting during acute ibogaine effects; author-labeled a mild adverse effect, occurred frequently.",
+        "Onset": "in-session",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "author",
+        "InterventionRequired": "N",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Schenberg 2014_AE04",
+        "StudyID": "Schenberg 2014",
+        "AE_type": "AE",
+        "Description": "Tremors during acute ibogaine effects; author-labeled a mild adverse effect, occurred frequently.",
+        "Onset": "in-session",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "author",
+        "InterventionRequired": "N",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Schenberg 2014_AE05",
+        "StudyID": "Schenberg 2014",
+        "AE_type": "AE",
+        "Description": "Headaches during acute ibogaine effects; author-labeled a mild adverse effect, occurred frequently.",
+        "Onset": "in-session",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "author",
+        "InterventionRequired": "N",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Schenberg 2014_AE06",
+        "StudyID": "Schenberg 2014",
+        "AE_type": "AE",
+        "Description": "Mental confusion during acute ibogaine effects; author-labeled a mild adverse effect, occurred frequently.",
+        "Onset": "in-session",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "author",
+        "InterventionRequired": "N",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Schenberg 2014_AE07",
+        "StudyID": "Schenberg 2014",
+        "AE_type": "AE",
+        "Description": "4 patients (5%) complained about the psychotherapeutic process/clinic activities during internment or post-ibogaine sessions.",
+        "Onset": "unknown",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "Y",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "N"
+      }
+    ]
+  },
+  "rationale": {
+    "article": {
+      "IsObservational": "Retrospective chart/interview review of a private clinic's real-world ibogaine treatment as delivered in usual (non-research) practice; no randomization, no comparator arm, no research-only interventional protocol -- observational cohort/case-series design.",
+      "Condition": "Study population is poly-substance dependent (64% lifetime alcohol, 81% cannabis, 83% cocaine, 68% crack; 72% poly-drug users) with the paper's own framing as a stimulant/non-opioid dependence study (only 1 of 75 patients had opioid history, tobacco used by 15% but not a treatment target). Does not cleanly map to Alcohol, Smoking, or Opioid, so coded '.' per the indeterminate-case instruction.",
+      "N": "75 patients had data gathered and are the basis for the core sample-level results (drug-use history, sessions, adverse reactions); some downstream sub-analyses (e.g., abstinence-duration comparisons) use smaller subsamples (n=66, n=41, etc.) due to incomplete follow-up data, but N=75 is the overall analyzed cohort.",
+      "AE_denominator": "Not explicitly restated as a distinct AE-assessment population; inferred as 75 because the reported '4 patients (5%)' complaint figure is consistent with a denominator of 75 (4/75=5.3%).",
+      "PctFemale": "8 female / 75 total = 10.67%.",
+      "PctBIPOC": "Article reports no race/ethnicity data for the sample.",
+      "PctIndigenous": "Article reports no race/ethnicity data for the sample.",
+      "NumDistinctAEs": "Counted as 7 distinct types: nausea, ataxia, vomiting, tremors, headache, mental confusion (all explicitly grouped by authors as 'mild adverse effects' occurring during acute ibogaine effects), plus a 7th, qualitatively different category -- 4 patients (5%) who complained about the psychotherapeutic process/clinic activities. This 7th category is not a pharmacological/physiological AE and its inclusion is a borderline call; included per the safety-dataset instruction to avoid understating harm/complaints, flagged here for reviewer judgment.",
+      "NParticipantsWithAE": "No single overall participant-with-AE count is given. The six acute physical AEs are described only as occurring 'frequently' with no per-event participant counts; only the psychotherapeutic-process complaint category has an explicit count (4 patients, 5%), so an aggregate figure cannot be reliably constructed without double-counting risk.",
+      "ArmScope": "Single-arm retrospective cohort/case series -- all 75 patients received ibogaine, no non-exposed comparator group -- so ArmScope is psychedelic_arm per the instruction that single-arm case series/cohorts default to this value."
+    },
+    "ae_events": {
+      "Schenberg 2014_AE01": "Authors explicitly describe nausea, ataxia, vomiting, tremors, headaches, and mental confusion as 'mild adverse effects' occurring 'only during the acute effects of ibogaine' -- author-assigned severity label used (SeveritySource=author) rather than the rubric default.",
+      "Schenberg 2014_AE02": "Same author-labeled 'mild' grouping as AE01; discussion section separately notes absence of persistent ataxia, supporting transient/Mild classification.",
+      "Schenberg 2014_AE03": "Same author-labeled 'mild' grouping as AE01.",
+      "Schenberg 2014_AE04": "Same author-labeled 'mild' grouping as AE01.",
+      "Schenberg 2014_AE05": "Same author-labeled 'mild' grouping as AE01.",
+      "Schenberg 2014_AE06": "Same author-labeled 'mild' grouping as AE01.",
+      "Schenberg 2014_AE07": "Reported with minimal detail (no description of what was intervened, whether resolved, or functional impact) -- graded Mild by rubric default with SeverityIndeterminate=Y. Onset marked 'unknown' because the article gives an ambiguous timeframe ('during the internment period ... or during the post-ibogaine psychotherapeutic sessions'), spanning both the residential stay and ongoing post-treatment therapy. InterventionRequired coded '.' since no information is given on whether any response/intervention followed these complaints."
+    }
+  }
+}

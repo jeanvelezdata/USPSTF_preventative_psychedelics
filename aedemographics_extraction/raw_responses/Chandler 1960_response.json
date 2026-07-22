@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {
+      "StudyID": "Chandler 1960",
+      "Citation": "Chandler AL, Hartman MA. Lysergic Acid Diethylamide (LSD-25) as a Facilitating Agent in Psychotherapy. A.M.A. Archives of General Psychiatry. 1960.",
+      "Title": "Lysergic Acid Diethylamide (LSD-25) as a Facilitating Agent in Psychotherapy",
+      "Year": 1960,
+      "Corpus/Prefix": ".",
+      "Condition": ".",
+      "Substance": "LSD-25",
+      "IsObservational": "Y",
+      "N": 110,
+      "AE_denominator": 110,
+      "ArmScope": "psychedelic_arm",
+      "PctFemale": 43.6,
+      "GenderCategory": "male/female (62 male, 48 female; no other categories reported)",
+      "PctBIPOC": ".",
+      "PctIndigenous": ".",
+      "SafetyReported": "Y",
+      "AnyAEReported": "Y",
+      "NumDistinctAEs": 9,
+      "NParticipantsWithAE": ".",
+      "WorstSeverity": "Severe",
+      "text_source": "born-digital",
+      "Model": "claude-sonnet-5",
+      "PromptVersion": "ae_extraction_prompt_v1",
+      "RubricVersion": "severity_rubric_v1",
+      "Temperature": 1
+    },
+    "ae_events": [
+      {
+        "AE_ID": "Chandler 1960_AE01",
+        "StudyID": "Chandler 1960",
+        "AE_type": "both",
+        "Description": "In-session panic states (~15-20 min, ~1-1.5h post-ingestion), usually controlled by reassurance, occasionally interrupted with antagonist drug.",
+        "Onset": "in-session",
+        "Severity": "Moderate",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "rubric",
+        "InterventionRequired": "Y",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Chandler 1960_AE02",
+        "StudyID": "Chandler 1960",
+        "AE_type": "AE",
+        "Description": "Fluctuating post-session euphoria, depression, and anxiety lasting hours to weeks; some treated with prochlorperazine, chlorpromazine, pipradrol, or methylphenidate.",
+        "Onset": "post-session-acute",
+        "Severity": "Moderate",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "rubric",
+        "InterventionRequired": "Y",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Chandler 1960_AE03",
+        "StudyID": "Chandler 1960",
+        "AE_type": "AE",
+        "Description": "Post-session difficulty falling asleep or feeling \"keyed up\"; take-home secobarbital sodium provided, about a third of patients reported not needing it.",
+        "Onset": "post-session-acute",
+        "Severity": "Moderate",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "rubric",
+        "InterventionRequired": "Y",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Chandler 1960_AE04",
+        "StudyID": "Chandler 1960",
+        "AE_type": "both",
+        "Description": "Somatic reactions in 70-75% of patients: muscle tension, trembling, posturing, paresthesias, chilliness, and pain (occasionally severe); resolved via interpretation.",
+        "Onset": "in-session",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "rubric",
+        "InterventionRequired": "N",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Chandler 1960_AE05",
+        "StudyID": "Chandler 1960",
+        "AE_type": "AE",
+        "Description": "Minimal post-session acting-out in predisposed patients over the following days; described as not dangerous but embarrassing.",
+        "Onset": "delayed",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "rubric",
+        "InterventionRequired": "N",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Chandler 1960_AE06",
+        "StudyID": "Chandler 1960",
+        "AE_type": "challenging_experience",
+        "Description": "Overly enthusiastic mystic/religious \"insight\" reactions, authors note as transient psychotic-like but not true psychosis; blocked further insight, 2 cases withdrew from therapy.",
+        "Onset": "in-session",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "Y",
+        "SeveritySource": "rubric",
+        "InterventionRequired": "N",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Chandler 1960_AE07",
+        "StudyID": "Chandler 1960",
+        "AE_type": "AE",
+        "Description": "One patient (alcohol/narcotic addiction history, prior suicide attempts) died by suicide (poisoning) days after her single LSD-25 session.",
+        "Onset": "delayed",
+        "Severity": "Severe",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "rubric",
+        "InterventionRequired": "Y",
+        "MeetsFDASerious": "Y"
+      },
+      {
+        "AE_ID": "Chandler 1960_AE08",
+        "StudyID": "Chandler 1960",
+        "AE_type": "AE",
+        "Description": "Separate patient with chronic alcoholism had repeated sleeping-pill overdoses during drinking episodes; one episode caused pneumonia requiring hospitalization.",
+        "Onset": "unknown",
+        "Severity": "Severe",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "rubric",
+        "InterventionRequired": "Y",
+        "MeetsFDASerious": "Y"
+      },
+      {
+        "AE_ID": "Chandler 1960_AE09",
+        "StudyID": "Chandler 1960",
+        "AE_type": "AE",
+        "Description": "One 19-year-old patient had a temporary psychotic reaction (hyperactivity, religious ideation) the evening after his first LSD session; resolved by next morning.",
+        "Onset": "post-session-acute",
+        "Severity": "Severe",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "rubric",
+        "InterventionRequired": "Y",
+        "MeetsFDASerious": "Y"
+      }
+    ]
+  },
+  "rationale": {
+    "article": {
+      "IsObservational": "Naturalistic, uncontrolled case-series review of 110 private-practice patients treated with LSD-25-assisted psychotherapy over time; no randomization or comparator arm, dosing individualized 'based upon experience' \u2014 a case series, not an RCT.",
+      "Condition": "Coded '.' \u2014 this is a transdiagnostic private-practice case series (psychoneurosis, personality disorders, sociopathic disorder, etc.); only 17/110 (15.5%) carried an 'Addiction, alcohol and/or narcotic' diagnosis, so it is not an alcohol-, smoking-, or opioid-specific study population.",
+      "N": "N=110 is the full analyzed/reported sample (Table 2 results, N=110). The article notes 60 had discontinued treatment and 50 were still in therapy at time of writing, but states 'no specific differences were found' between the two, so results/AE narrative are pooled across all 110.",
+      "AE_denominator": "Safety narrative (suicide, psychosis, panic, somatic reactions, etc.) is drawn from 'our sample,' i.e., the full 110-patient group described in section A; no narrower safety-assessed subgroup is defined.",
+      "PctBIPOC": "Not reported for the sample overall; only one individual AE case is described as a '19-year-old white youth' (not a sample-wide demographic statement), insufficient to characterize the full cohort's race/ethnicity.",
+      "PctIndigenous": "Not reported; dependent on PctBIPOC which is itself not reported.",
+      "NParticipantsWithAE": "No single total count of unique participants with >=1 AE is given; frequencies are reported per AE type (e.g., 70-75% somatic reactions, ~2/3 needing take-home sedation) with unknown overlap, and single-patient counts for suicide/psychosis, so a total cannot be derived without double-counting."
+    },
+    "ae_events": {
+      "Chandler 1960_AE01": "Graded Moderate rather than Mild because antagonist (pharmacologic) drugs were occasionally needed to interrupt panic states, even though most episodes were managed with reassurance alone (which alone would be Mild per rubric); graded to the higher band actually observed to avoid understating harm.",
+      "Chandler 1960_AE02": "Moderate per rubric because duration ('several hours to several weeks') exceeds the acute dosing day and pharmacological intervention (prochlorperazine/chlorpromazine, pipradrol/methylphenidate) was used for symptomatic cases.",
+      "Chandler 1960_AE03": "Frequency inferred: article states 'about a third of our patients reported feeling no need for this additional sedation,' implying roughly two-thirds experienced post-session agitation/insomnia warranting the take-home secobarbital; graded Moderate because it required a pharmacological rescue dose.",
+      "Chandler 1960_AE04": "Kept Mild despite 'occasionally rather severe' pain because the rubric grades by intervention need/consequence, not subjective intensity, and only non-pharmacological interpretation (not medical/pharmacological intervention) is described as resolving these reactions.",
+      "Chandler 1960_AE05": "Mild \u2014 text explicitly frames this as 'not so much dangerous as embarrassing' with no intervention or serious consequence reported, and describes it as 'minimal.'",
+      "Chandler 1960_AE06": "SeverityIndeterminate=Y: authors explicitly reject a true-psychosis label for these reactions ('do not show general breakdown of ego functions'), but detail on the 2 patients who withdrew from therapy is too sparse to confirm no functional impairment beyond the acute period; defaulted to Mild per the under-specified-AE rule rather than assuming Moderate.",
+      "Chandler 1960_AE07": "InterventionRequired=Y because a 24-hour watch/hospitalization protocol was in place and indicated, but a procedural failure (husband did not call the therapist or A.A./N.A. as agreed) meant it was not delivered before the patient obtained poison; MeetsFDASerious=Y (death).",
+      "Chandler 1960_AE08": "Attribution to LSD treatment is ambiguous \u2014 the article describes this as 'following an almost lifelong pattern' of overdose during drinking episodes, so it may reflect pre-existing behavior rather than a treatment-emergent AE; included per the instruction to avoid under-reporting harm, but a human reviewer should judge inclusion. Graded Severe because one episode caused pneumonia requiring hospitalization (FDA seriousness criterion).",
+      "Chandler 1960_AE09": "Graded Severe per rubric guidance that psychosis/prolonged psychotic reactions typically meet an FDA seriousness criterion, even though this episode resolved by the next morning with 'no trace' and inpatient hospitalization (recommended by the therapist) was ultimately refused by the family; InterventionRequired=Y reflects that hospitalization was clinically indicated/recommended even though not administered."
+    }
+  }
+}

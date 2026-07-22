@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {
+      "StudyID": "Langner 1965",
+      "Citation": "Langner FW. Six Years' Experience with LSD Therapy. Book chapter, likely \"The Use of LSD in Psychotherapy and Alcoholism\" (ed. Abramson). 1965.",
+      "Title": "Six Years' Experience with LSD Therapy",
+      "Year": 1965,
+      "Corpus/Prefix": ".",
+      "Condition": ".",
+      "Substance": "LSD",
+      "IsObservational": "Y",
+      "N": ".",
+      "AE_denominator": "Not numbered",
+      "ArmScope": "psychedelic_arm",
+      "PctFemale": ".",
+      "GenderCategory": ".",
+      "PctBIPOC": ".",
+      "PctIndigenous": ".",
+      "SafetyReported": "Y",
+      "AnyAEReported": "Y",
+      "NumDistinctAEs": 6,
+      "NParticipantsWithAE": ".",
+      "WorstSeverity": "Moderate",
+      "text_source": "OCR",
+      "Model": "claude-sonnet-5",
+      "PromptVersion": "ae_extraction_prompt_v1",
+      "RubricVersion": "severity_rubric_v1",
+      "Temperature": 1
+    },
+    "ae_events": [
+      {
+        "AE_ID": "Langner 1965_AE01",
+        "StudyID": "Langner 1965",
+        "AE_type": "both",
+        "Description": "Acute in-session panic/threatening disorganization or intolerable distress during LSD episodes, terminated/ameliorated with IV barbiturate, Frenquel, barbiturate-methamphetamine, or IM Thorazine-barbiturate.",
+        "Onset": "in-session",
+        "Severity": "Moderate",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "rubric",
+        "InterventionRequired": "Y",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Langner 1965_AE02",
+        "StudyID": "Langner 1965",
+        "AE_type": "AE",
+        "Description": "Violent acting-out under LSD: one attendant strenuously choked during projective acting-out; three separate attendants each physically attacked in other incidents.",
+        "Onset": "in-session",
+        "Severity": "Moderate",
+        "SeverityIndeterminate": "Y",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Langner 1965_AE03",
+        "StudyID": "Langner 1965",
+        "AE_type": "both",
+        "Description": "LSD administered alone (without combined nembutal/methedrine) produced disabling anxiety in a number of patients, precluding continuation of unmedicated sessions.",
+        "Onset": "in-session",
+        "Severity": "Moderate",
+        "SeverityIndeterminate": "Y",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Langner 1965_AE04",
+        "StudyID": "Langner 1965",
+        "AE_type": "AE",
+        "Description": "Vomiting and sensation of bodily cold, reported as the most common somatic reactions during LSD sessions.",
+        "Onset": "in-session",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "rubric",
+        "InterventionRequired": "N",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Langner 1965_AE05",
+        "StudyID": "Langner 1965",
+        "AE_type": "challenging_experience",
+        "Description": "\"Panic or disorganization\" listed as the next most frequent in-session reaction pattern among catalogued patient defenses/resistances.",
+        "Onset": "in-session",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "Y",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Langner 1965_AE06",
+        "StudyID": "Langner 1965",
+        "AE_type": "AE",
+        "Description": "Profuse sweating and shaking through each of eight LSD episodes in a manic-depressive alcoholic patient; patient felt relieved after each episode.",
+        "Onset": "in-session",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "rubric",
+        "InterventionRequired": "N",
+        "MeetsFDASerious": "N"
+      }
+    ]
+  },
+  "rationale": {
+    "article": {
+      "Condition": "The study population is described as heterogeneous psychiatric patients ('most diagnostic labels but preponderantly schizophrenia and severe personality disorders'), not an alcohol/smoking/opioid-use-disorder-focused cohort. Only one incidental case (a 'manic-depressive alcoholic') involves alcohol use. Coded '.' as genuinely indeterminate/inapplicable rather than forcing an Alcohol label onto a general psychiatric case series.",
+      "N": "No single cumulative sample size is given for the full ~6-year experience the article title claims. Part One (1954-57) reports 'sixty patients' over '600 episodes'; Part Two reports 'over 2,000 LSD sessions' during the following three years with no corresponding patient count; Part Three (1965 retrospective) discusses individual cases without a cohort total. Using only the Part One N=60 would understate the scope actually described, so coded '.' rather than fabricating or partial-reporting a total.",
+      "AE_denominator": "AEs/safety observations are narrated across the full multi-period clinical experience (not confined to the N=60 Part One cohort), but no numeric population-at-risk is ever given for AE assessment, so coded 'Not numbered' rather than '.' since the safety concept clearly applies and is discussed throughout.",
+      "ArmScope": "Single-arm naturalistic case series/clinical experience report with no comparator group; all reported observations come from LSD-exposed patients only.",
+      "NumDistinctAEs": "Extractor-derived count of 6 distinct AE types, consolidating multiple textual mentions of the same underlying phenomenon (e.g., the Part One 'threatening disorganization...terminated with intravenous barbiturate' method description, the case-narrative 'intolerable' distress managed with barbiturate-methamphetamine, and the Part Two 'rare panic reactions...terminated by intramuscular Thorazine-barbiturate' were treated as one AE type, AE01, rather than three, to avoid inflating the count for what appears to be the same recurring event across the manuscript). Note also: the first case narrative's 'bed-ridden, hysterically withdrawn, and hinting at suicide' episode (article text before 'At this point, LSD was introduced') occurred during pre-LSD psychotherapy interviews, prior to any LSD exposure in that patient, and was deliberately EXCLUDED from ae_events as not attributable to the study intervention -- flagging this exclusion explicitly for human review given the safety-sensitive nature of the call.",
+      "GenderCategory": "No aggregate gender breakdown is reported anywhere in the article; case vignettes anecdotally include both male and female patients (e.g., a young woman, a teen-age female schizophrenic, several male patients) but these are illustrative examples, not a systematic accounting of the full sample, so coded '.'."
+    },
+    "ae_events": {
+      "Langner 1965_AE01": "Consolidated from three passages describing the same recurring phenomenon (in-session panic/disorganization/intolerable distress managed with rescue medication) rather than counted as separate AE types; graded Moderate for clear active pharmacological intervention, with no stated hospitalization or other FDA seriousness criterion.",
+      "Langner 1965_AE02": "The harm described (choking, physical attacks) was directed at attendants/staff, not the patient/participant, which is an atypical framing for a participant-safety AE -- retained as a behavioral/agitation safety signal reflecting the patient's clinical state under LSD, but flagged as SeverityIndeterminate because no detail is given on the outcome to the attendant, whether restraint or medication was used, or injury severity, so the default Mild-unless-signaled rule was overridden only by the clear intervention-need implied by physically dangerous acting-out, landing at Moderate rather than the strict default.",
+      "Langner 1965_AE03": "'Disabling anxiety' signals functional impairment sufficient to have changed clinical protocol (addition of routine sedation), which is more than the Mild default for expected acute anxiety, but no detail on duration, resolution, or whether acute rescue medication was given for any single episode is provided, so flagged SeverityIndeterminate despite the Moderate grade.",
+      "Langner 1965_AE05": "Graded Mild/SeverityIndeterminate=Y because this passage only ranks 'panic or disorganization' by frequency among catalogued in-session defense patterns with no intervention, duration, or outcome detail; kept as a separate, lower-confidence entry from AE01 rather than merged into it, since AE01's textual sources specifically describe pharmacological rescue while this passage does not."
+    }
+  }
+}

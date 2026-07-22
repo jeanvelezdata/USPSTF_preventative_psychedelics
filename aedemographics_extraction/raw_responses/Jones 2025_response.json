@@ -1,0 +1,46 @@
+{
+  "data": {
+    "article": {
+      "StudyID": "Jones 2025",
+      "Citation": "Jones G. Race/ethnicity moderates the associations between lifetime psilocybin use and opioid use disorder. PLoS One. 2025.",
+      "Title": "Race/ethnicity moderates the associations between lifetime psilocybin use and opioid use disorder",
+      "Year": 2025,
+      "Corpus/Prefix": ".",
+      "Condition": "Opioid",
+      "Substance": "Psilocybin",
+      "IsObservational": "Y",
+      "N": 706891,
+      "AE_denominator": ".",
+      "ArmScope": "pooled",
+      "PctFemale": ".",
+      "GenderCategory": "male/female (binary covariate; no sample-level percentages reported)",
+      "PctBIPOC": 36.77,
+      "PctIndigenous": 1.93,
+      "SafetyReported": "N",
+      "AnyAEReported": "NA",
+      "NumDistinctAEs": "NA",
+      "NParticipantsWithAE": "NA",
+      "WorstSeverity": "NA",
+      "text_source": "born-digital",
+      "Model": "claude-sonnet-5",
+      "PromptVersion": "ae_extraction_prompt_v1",
+      "RubricVersion": "severity_rubric_v1",
+      "Temperature": 1
+    },
+    "ae_events": []
+  },
+  "rationale": {
+    "article": {
+      "IsObservational": "Cross-sectional secondary analysis of NSDUH survey data (2002-2019); author explicitly self-describes the study as 'cross-sectional' in the Discussion and Conclusion. No randomization or interventional protocol.",
+      "N": "706,891 is the final analytic sample explicitly stated in both the Abstract and Methods ('included all participants aged 18 years and older in the analyses (N = 706,891)'), not merely an enrolled/screened total.",
+      "AE_denominator": "This study reports no adverse-event or safety assessment at all (see SafetyReported). Per schema, AE_denominator uses '.' rather than 'NA' even when SafetyReported = 'N'.",
+      "ArmScope": "Table 1/Table 2 demographics and the N=706,891 total span the full NSDUH sample regardless of psilocybin exposure (lifetime psilocybin use prevalence within this sample is low, e.g. 11.6% among White, 1.7% among Black participants), i.e., exposed and non-exposed respondents are pooled together in every reported N/demographic figure rather than restricted to psilocybin users only.",
+      "PctFemale": "Sex is listed among covariates ('sex (male or female)') but no percentage breakdown of the sample by sex is reported anywhere in the text or in Tables 1-2, so coded not-reported.",
+      "GenderCategory": "Only the categorization structure (binary male/female) used as a covariate is stated; no accompanying frequencies/percentages are given for this variable.",
+      "PctBIPOC": "Computed as (Non-Hispanic Participant of Color N=148,815 + Hispanic N=111,139) / total N=706,891 = 259,954/706,891 = 36.77%. Article's three-level race/ethnicity variable already separates 'Non-Hispanic White' from all others, so BIPOC = total minus Non-Hispanic White, treating Hispanic as non-white per the field definition ('all non-white').",
+      "PctIndigenous": "Computed as (Non-Hispanic Native American/Alaska Native N=10,132 + Non-Hispanic Native Hawaiian/Pacific Islander N=3,514) / total N=706,891 = 13,646/706,891 = 1.93%, consistent with the article's own definition of its 'Indigenous' stratification group (combining these two subgroups). This is a subset of the 36.77% PctBIPOC figure, as required.",
+      "SafetyReported": "This is an epidemiological association study (psilocybin lifetime-use vs. opioid use disorder diagnosis via NSDUH survey items) with no adverse-event, safety, or tolerability assessment of any kind. The single mention of psychedelic adverse events ('extreme anxiety, paranoia') in the Introduction is background literature framing citing outside sources, not data collected or reported by this study's own sample, so it was not treated as this article reporting safety data."
+    },
+    "ae_events": {}
+  }
+}

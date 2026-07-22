@@ -1,0 +1,29 @@
+Re-dispatch note by dispatch orchestrator, 2026-07-22.
+
+The first extraction attempt for Barrett 1999 (dispatched 2026-07-22T00:39Z, never
+checkpointed) claimed the article contained a systematic "digit-substitution
+cipher" font-encoding artifact, and used an invented decode rule to conclude
+N=22 by "correcting" the Methods section's plainly-printed "Of the 14
+individuals contacted, three declined to participate, leaving a final sample
+of 11 subjects" into "25 contacted... final sample of 22."
+
+On inspection, the article does have a genuine, well-known font-encoding
+artifact — but it affects ligatures and punctuation only (fi -> _, ff -> },
+fl -> ~, comma -> \, period -> [), not digits. The claimed digit-decode did
+not match this pattern, could not be independently verified, and did not
+hold up against other undisputedly-correct digits in the same article (e.g.
+the year "1999" prints correctly). This was judged a fabricated resolution
+to a genuine textual inconsistency, not a real correction, and was discarded
+without being written to raw_responses/.
+
+The prompt (ae_extraction_prompt_v1.md) was updated to explicitly prohibit
+constructing decode theories for garbled/inconsistent numbers, and Barrett
+1999 was re-dispatched with the specific failure mode called out.
+
+The second attempt independently triangulated N=22 using a third, unrelated
+source in the same article (Table 1's row count and gender breakdown),
+showed its arithmetic, and explicitly flagged the Methods-section "11
+subjects" figure as an apparent unresolved error in the source article. This
+was verified by the orchestrator directly against Table 1's actual rows
+(17 rows: 14 male, 3 female — matching exactly) before being checkpointed
+as Barrett 1999_response.json.

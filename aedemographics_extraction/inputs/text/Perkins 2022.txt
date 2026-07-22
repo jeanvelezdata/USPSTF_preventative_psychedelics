@@ -1,0 +1,1683 @@
+Perkins Daniel (Orcid ID: 0000-0002-2055-1649) 
+ 
+ 
+ 
+ 
+ 
+Associations between ayahuasca consumption in 
+naturalistic settings and current alcohol and drug use: 
+results of a large international cross-sectional survey 
+ 
+Daniel Perkins 1, Emerita Opaleye2, Hana Simonova, José Carlos Bouso3, Luís Fernando Tófoli4, Nicole 
+Leite Galvão-Coelho5, Violeta Schubert1, Jerome Sarris6,7 
+ 
+1School of Social and Political Science, University of Melbourne, Melbourne, Australia 
+2Department of Psychobiology, Universidade Federal de São Paulo, São Paulo, Brazil 
+3International Center for Ethnobotanic Education, Research & Service, Barcelona, Spain 
+4 Interdisciplinary Cooperation for Ayahuasca Research and Outreach, School of Medical Sciences, University of 
+Campinas, Campinas, Brazil  
+5Department of Physiology and Behavior, Federal University of Rio Grande do Norte, Natal, Brazil 
+6NICM Health Research Institute, Western Sydney University, Sydney, Australia  
+7Professorial Unit, The Melbourne Clinic, Department of Psychiatry, University of Melbourne, Melbourne, 
+Australia 
+ 
+Daniel Perkins PhD, Research Fellow, Emerita Opaleye PhD, Senior Researcher, Hana Simonova 
+M.Psych, Psychologist, José Carlos Bouso PhD, Scientific Director, Luís Fernando Tófoli PhD, 
+Professor, Nicole Leite Galvão-Coelho PhD, Professor, Violeta Schubert PhD, Senior Lecturer, Jerome 
+Sarris PhD, Professor. 
+ 
+Correspondence to: Dr Daniel Perkins, School of Social and Political Science, 420 John Medley 
+Building, University of Melbourne, Parkville, Victoria 3010, Australia. Tel: +61 414620666; Email: 
+d.perkins@unimelb.edu.au  
+ 
+ 
+Running header: Drug and alcohol use among ayahuasca drinkers 
+This is the author manuscript accepted for publication and has undergone full peer review but
+has not been through the copyediting, typesetting, pagination and proofreading process, which
+may lead to differences between this version and the Version of Record. Please cite this article
+as doi: 10.1111/dar.13348
+This article is protected by copyright. All rights reserved.
+
+
+ 
+ 
+ 
+ 
+2 
+ 
+Abstract 
+Introduction: Emerging evidence suggests that psychedelic compounds, including the Amazonian 
+botanical decoction ayahuasca, may provide clinical benefit in the treatment of alcohol or other drug 
+use disorders. This study investigates associations between ayahuasca consumption in naturalistic 
+settings and current alcohol and other drug use.  
+Methods: Online cross-sectional study of people who have consumed ayahuasca in religious, 
+traditional and non-traditional settings in over 40 countries. A total of 8629 participants (53% male, 
+average age 40 years) were included in the analysis. Logistic regressions were used to explore 
+associations between ayahuasca drinking variables and the current use of alcohol and other drugs, 
+as well as the influence of confounding factors such as church or community membership. 
+Results: The number of times ayahuasca had been consumed was strongly associated with increased 
+odds of never or rarely drinking alcohol, never or rarely engaging in ‘risky drinking’ and having not 
+consumed a range of drugs in the past month, with these effects greater for those with a prior 
+substance use disorder compared to those without. The strength of ayahuasca drinkers subjective 
+spiritual experience, number of personal self-insights obtained and drinking ayahuasca with an 
+ayahuasca church were also associated with lower substance use in some models.  
+Discussion and Conclusions Consumption of ayahuasca in naturalistic settings is associated with 
+lower self-reported current consumption of alcohol and other drugs for those with and without prior 
+substance use disorders, with such effects present after adjusting for religious or social group 
+effects.   
+ 
+Key words: ayahuasca; psychedelics; alcohol consumption; substance use; substance use disorder; 
+illicit drugs 
+ 
+ 
+ 
+ 
+ 14653362, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/dar.13348 by Cochrane Puerto Rico, Wiley Online Library on [21/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+ 
+ 
+ 
+ 
+3 
+ 
+Introduction 
+After many decades of inattention, a resurgence of interest in the potential clinical application of 
+various psychedelic substances for the treatment of mental health and substance use disorders is 
+now underway [1]. The primary focus of contemporary research in this area is the so-called classic 
+psychedelics (psilocybin, ayahuasca and LSD/Lysergic acid diethylamide), which have their chief 
+mode of action via the 5-HT2A receptors, as well as the entactogen and indirect serotonergic 
+agonist, MDMA (3,4-Methylenedioxymethamphetamine) [1]. Although preliminary, mounting 
+evidence relating to the use of these substances is encouraging, and both psilocybin and MDMA 
+have recently been granted ‘breakthrough therapy’ status by the United States Food and Drug 
+Administration for major depressive disorder and post-traumatic stress disorder respectively [2,3].  
+ 
+There is also strong interest in the use of psychedelic compounds in addiction treatment [4,5]. Two 
+recent reviews (one systematic review and one meta-analysis) of older LSD research (undertaken 
+between 1966 and 1973) have reported a beneficial effect of LSD versus placebo for alcohol misuse 
+[odds ratio (OR) 1.96; P <0.001], and the first modern addiction studies with psilocybin have 
+identified significant improvements in tobacco and alcohol dependence [6-10]. Another trial using 
+psilocybin for the treatment of cocaine dependence is underway (NCT02037126), as well as a pilot 
+study of MDMA for the treatment of alcohol dependence [11]. A recent systematic review examining 
+the effects ayahuasca on substance use and dependence identified improvement in addiction 
+related biochemical or behavioural parameters in animals and reductions in dependence symptoms 
+in human studies[12]. 
+ 
+Here we focus specifically on ayahuasca, a traditional botanical decoction of the Banisteriopsis caapi 
+and Psychotria viridis or Dyplopterys cebrerara plants containing DMT (N,N-Dimethyltryptamine) and 
+harmala alkaloids. Ayahuasca has been used as a traditional medicine by indigenous groups in South 
+America for centuries and was adopted as a religious sacrament by several Brazilian Christian based 
+syncretic churches in the middle of the 20th century [13]. Recent decades have seen a global 
+expansion of ayahuasca use via the international spread of these ayahuasca churches, the growth of 
+ayahuasca tourism in South American countries, particularly Peru, and the increasing popularity of 
+neo-shamanic healing ceremonies using ayahuasca across North America, Europe and Australia [14-
+16].  
+ 
+The ayahuasca churches differ from traditional and neo-shamanic ayahuasca groups in being 
+structured religious organisations, which use ayahuasca on a regular ongoing basis in all usual 
+services, and in Brazil have a large middle class and professional membership [17,18]. This long-term 
+ 14653362, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/dar.13348 by Cochrane Puerto Rico, Wiley Online Library on [21/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+ 
+ 
+ 
+ 
+4 
+ 
+organisational use has presented an unusual opportunity for research, with studies undertaken 
+reporting no adverse impacts on neuropsychological functioning and apparent positive effects on 
+mood and wellbeing, in addition to either a complete remission or significant reduction in drug and 
+alcohol use among church members identifying prior dependence or abuse [19-26]. Studies of 
+ayahuasca drinkers in other naturalistic settings have reported similar findings relating to reduced 
+problematic substance use, as well as improved health behaviours, and a range of psychological or 
+emotional effects suggested to be able to support recovery and relapse prevention [27-34]. 
+Although the potential for emotional or psychological difficulties post-use has also been noted 
+[16,27].  
+ 
+Relevant mechanisms of action for the classic psychedelics, such as DMT and psilocybin, involve the 
+modulation of the serotonergic, dopaminergic and glutamatergic systems (related largely to 
+interactions with 5-HT2A receptors), promotion of structural and functional plasticity in the pre-
+frontal cortex, and agonism at the 5-HT2C receptors [35-38].  Additional pathways specific to 
+ayahuasca that have been suggested to support anti-addictive effects include the activation by DMT 
+of the sigma-1 (σ1) and trace amine-associated receptors, and apparent anti-addictive effects of the 
+brew’s harmala alkaloids, particularly harmine [39-41]. Psychotherapeutic mechanisms such as self-
+insights are also suggested to be important [42,43].  
+ 
+It is also important to note that the community or religious contexts in which ayahuasca is often 
+drunk may provide a potential benefit for psychiatric or substance use disorders, independently of 
+the ayahuasca itself [44]. In addition, in a range of studies with psychedelics extra-pharmacological 
+factors, such an individual’s mental state prior to consumption, the context of consumption and the 
+strength of participants’ subjective mystical experience during the acute phase, have been identified 
+as being important and predictive of a positive therapeutic response [45-48].  
+ 
+Anonymous online surveys have particular utility for accessing hidden populations, such as users of 
+scheduled substances, and have been previously used to gain a broader understanding of potential 
+risks and benefits, which can inform drug and health policy and potential clinical trials [49-52]. A 
+further strength of samples obtained online is that these provide a perspective different to 
+substance use research involving individuals in clinical settings or the criminal justice system [52]. 
+Online cross-sectional surveys similar to the current study have also been successfully used to assess 
+self-reported change in alcohol consumption associated with other plant based substances such as 
+medicinal cannabis [53].  
+ 
+ 14653362, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/dar.13348 by Cochrane Puerto Rico, Wiley Online Library on [21/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+ 
+ 
+ 
+ 
+5 
+ 
+This exploratory study uses the largest dataset ever collected relating to ayahuasca drinking 
+(n=10,836), to explore associations between ayahuasca consumption and participants current use of 
+alcohol and other drugs, and the extent to which this may be influenced by patterns of use, aspects 
+of the acute subjective experience and potential confounding factors such as church or community 
+membership. Differences in associations for those with and without prior substance use disorders 
+are also investigated.    
+Methods  
+Study design  
+Data analysed were from the Global Ayahuasca Project, an international online cross-sectional 
+survey (n=10,836) of ayahuasca drinkers conducted between April 2017 and May 2019 that collected 
+data from individuals (18+ years) who had consumed ayahuasca at least once. The survey was 
+translated into five languages other than English (Portuguese, Spanish, German, Italian and Czech). A 
+non-random sampling strategy was chosen due to the hidden nature of the ayahuasca drinking 
+population in most countries and the benefits associated with obtaining a large sample size. 
+Participation was promoted via email and websites of relevant organisations, ayahuasca churches 
+and retreat centres, as well as Facebook. No financial incentives were provided for participation. 
+Data was cross-checked to remove suspected duplicate responses, and partially completed surveys 
+were retained. Ethics approval was provided by the University of Melbourne Human Research Ethics 
+Committee (HREC number 1545143.3), with data collected via the University’s Limesurvey survey 
+platform. For the present publication, only participants who provided responses to at least one of 
+the alcohol and drug items in the survey were included in the analysis (n=8629) (Table 1).  
+ 
+Demographic data collected included age, education and country of residence. Detailed data 
+regarding ayahuasca drinking was obtained including history and patterns of drinking, and any 
+adverse effects experienced. Subjective spiritual experience (during all ayahuasca experiences) was 
+assessed using the spirituality component of the Persisting Effects Questionnaire (PEQ-S) [54], a six-
+point scale (ranging from not at all significant to the single most spiritually significant experience of 
+my life); and an adapted version of the nine item Short Index of Mystical Orientation (SIMO) scale, a 
+unidimensional instrument intended to capture seven defining characteristics of mysticism: 
+ineffability, noesis, transiency, passivity, oneness, timelessness and true ego [55]. SIMO items are 
+scored 1 (not at all) to 10 (very much), giving a total score range of 9-90. This adapted version of the 
+SIMO displayed a good level of internal consistency (α = 0.85). 
+ 
+ 14653362, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/dar.13348 by Cochrane Puerto Rico, Wiley Online Library on [21/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+ 
+ 
+ 
+ 
+6 
+ 
+Several customised questions were developed from the ayahuasca literature. Number of ‘self-
+insights’ during your ayahuasca experiences utilised a list of seven commonly reported personal 
+insights such as new understanding of childhood events, your physical body function and care, and 
+the purpose and direction of your life. This variable displayed a good level of internal consistency (α 
+= 0.80). Such insights are often reported to be one of the most profound aspects of the ayahuasca 
+experience [31]. A single item question was used to measure the extent to which extreme fear or 
+panic had been experienced during an ayahuasca session, scored from 0 “Not at all” to 10 “Very 
+much”. Individuals were also asked if they have a “close community or network of people” with 
+whom they drink ayahuasca, with responses, Not at all, slightly, moderately, or very much.  
+ 
+Respondents were also asked to identify from a list any lifetime mental health diagnoses received 
+from a health professional, including alcohol dependence/abuse and drug dependence/abuse, as 
+well as whether they had been experiencing the mental health disorder at the time of drinking 
+ayahuasca (on any occasion). Number of emotional or psychological ‘integration difficulties’ in the 
+weeks or months after drinking ayahuasca was based on the Patient Health Questionnaire for 
+Depression and Anxiety (PHQ-4) [56] plus five additional items such as ‘Nightmares, or disturbing 
+thoughts, feelings, or sensations’, and ‘Feeling disconnected or alone’. The integration difficulties 
+variable displayed a good level of internal consistency (α = 0.86). Information was also collected on 
+the frequency of current alcohol consumption, frequency of ‘risky’ alcohol consumption (see Table 
+1), defined as more than 4 standard drinks on one occasion, as well as the lifetime, past year and 
+past month use of a range of drugs.  
+ 
+Statistical analyses  
+Pearson’s χ2 test and Independent samples t-test were used to assess differences between 
+categorical and continuous variables. Multivariate models utilised binary logistic regressions and 
+were performed using STATA 16. To minimise potential bias associated with participants not 
+completing certain questions/sections within the survey we utilised multiple imputation for the 
+imputation of missing data for all independent variables in multivariate models. We used the mi 
+impute chained command in STATA 16 with imputations undertaken using the regress command for 
+continuous variables, the ologit command for ordinal variables, and logit command for categorical 
+variables with 20 datasets (m=20) imputed for the analysis. The maximum proportion of missing 
+cases imputed was 9%.  Statistical significance was considered as a P value of <0.05.  
+ 14653362, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/dar.13348 by Cochrane Puerto Rico, Wiley Online Library on [21/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+ 
+ 
+ 
+ 
+7 
+ 
+Results 
+Sample characteristics  
+Respondent characteristics, split by ayahuasca church/non-ayahuasca church due to notable 
+differences outlined above, are reported in Table 1. For both groups the average age was 41 years, 
+with a greater proportion of males (53%) and high levels of university education. There were several 
+differences revealed between respondents who had last drunk with an ayahuasca church and those 
+who had drunk in other contexts, with the latter group being significantly less likely to live in Brazil, 
+but more likely to have a lifetime mental health diagnosis, have higher current alcohol and drug use, 
+a higher lifetime number of different drugs used, and to have consumed ayahuasca fewer times 
+(Table 1). Around 10% of both groups reported having a prior drug use disorder (total n=792) 
+(difference not significant), while a similar number (total n=800) reported a prior alcohol use 
+disorder (11.2% ayahuasca church vs 9.6% other contexts (χ2 (1)5.3; P=0.02).  
+ 
+--------------------------------TABLE 1 ABOUT HERE----------------------------------------- 
+Current alcohol and drug use 
+Table 2 shows the results of bivariate logistic regression models investigating associations between 
+alcohol and drug use and ayahuasca drinking variables. Regressions were performed separately for 
+individuals with and without a prior alcohol or drug use disorder for the three dependent variables 
+rarely/never drinking alcohol, rarely/never engaging in risky drinking and having no recent 
+consumption of any drugs (of the 11 drugs listed in Table 3, plus heroin).  A consistent and strong 
+positive association was observed between the number of times ayahuasca has been consumed (10 
+categories) and the likelihood of lower alcohol and drug use. This included increased odds of 
+rarely/never consuming any alcohol [No prior alcohol use disorder (AUD) OR 1.26, 95% confidence 
+interval (CI) 1.22-1.30; Prior AUD OR 1.36, 95% CI 1.22-1.51), rarely/never engaging in risky drinking 
+(No prior AUD OR 1.05, 95% CI 1.01-1.10; Prior AUD OR 1.18, 95% CI 1.01-1.38) and having 
+consumed no drugs (other than alcohol) in the past month [No prior drug use disorder (DUD) OR 
+1.16, 95% CI 1.12-1.19; Prior DUD OR 1.40, 95% CI 1.26-1.56). Drinking ayahuasca with an ayahuasca 
+church was also strongly associated lower alcohol and drug use other than rarely/never engaging in 
+risky drinking for people with a prior AUD, where there was no significant association.  
+ 
+A higher rated subjective mystical experience, measured via the PEQ-S, was associated with 11% (OR 
+1.11, 95% CI 1.04-1.18) and 28% (OR 1.28,95% CI 1.03-1.59) increases in the odds of no recent drug 
+use for those with and without a prior drug use disorder respectively. However, the second spiritual 
+experience measure, SIMO score, had a marginal negative association with rarely/never engaging in 
+ 14653362, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/dar.13348 by Cochrane Puerto Rico, Wiley Online Library on [21/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+ 
+ 
+ 
+ 
+8 
+ 
+risky drinking (OR 0.99, 95% CI 0.99-1.00) for people with no prior AUD, and having no recent drug 
+use (OR 0.99, 95% CI 0.99-1.00) for people with no prior DUD. A modest negative association was 
+also identified for integration difficulties and no recent drug use for those with a prior DUD (OR 0.90, 
+95% CI 0.83-0.98), as well as weak negative associations between experiencing extreme fear and 
+never/rarely drinking alcohol for those with no prior AUD (OR 0.98, 95% CI 0.96-1.00), and the 
+number of years since ayahuasca was last consumed and rarely/never engaging in risky drinking for 
+people with no prior AUD (OR 0.97, 95% CI 0.95-1.00). By contrast, each additional year since 
+ayahuasca was last consumed was associated with 12% increase in the odds of no recent drug use 
+for people with a prior DUD (OR 1.12, 95% CI 1.02-1.24). 
+ 
+Models investigating the odds of recent use of specific drugs (for those with lifetime use) are 
+presented in Table 3. Again, the most consistent association between ayahuasca drinking variables 
+and current drug use was for the number of times ayahuasca had been consumed, with this 
+association present for 7 out of the 11 drugs for which data was available. Each additional category 
+of lifetime ayahuasca consumption was associated with a reduction in the odds of recent use of 10-
+19% for these drugs, with the strongest association present for cocaine (OR 0.81, 95% CI 0.74-0.89). 
+Of the four drugs where this association was not present, recent use of one, non-medical use of 
+tranquilisers, was negatively associated with the PEQ-S (OR 0.86, 95% CI 0.75-1.00) and number of 
+self-insights attained (OR 0.89, 95% CI 0.83-0.97). The PEQ-S and self-insights were also negatively 
+associated with recent use of cannabis (OR 0.92, 95% CI 0.86-0.97) and cocaine respectively (OR 
+0.92, 95% CI 0.85-0.99). However, number of self-insights was associated with a slight increase in the 
+odds of recent cannabis use (OR 1.03, 95% CI 1.00-1.07). Our other spirituality measure, SIMO score, 
+also marginally increased (by 1%) the odds of recent cannabis (OR 1.01, 95% CI 1.01-1.01) and LSD 
+(OR 1.01, 95% CI 1.00-1.02) use.   
+ 
+Significant negative associations were present for drinking with an ayahuasca church and recent use 
+of five of 11 individual drugs. Experiencing extreme fear was associated with slightly reduced odds of 
+recent cannabis (OR 0.97, 95% CI 0.95-0.99) and LSD use (OR 0.95, 95% CI 0.92-0.99), while there 
+were no significant associations with integration difficulties, or drinking ayahuasca with a strong 
+community of people and recent use of any individual drugs. As with the previous models there was 
+little apparent time effect (years since drunk) other than a modest negative association with recent 
+magic mushroom use (OR 0.94, 95% CI 0.90-1.00).  
+ 
+-------------------------------TABLE 3 ABOUT HERE----------------------------------------- 
+ 14653362, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/dar.13348 by Cochrane Puerto Rico, Wiley Online Library on [21/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+ 
+ 
+ 
+ 
+9 
+ 
+We undertook further analysis of the associations between the number of times ayahuasca had 
+been consumed and recent use of individual drugs by prior DUD status, adjusting for age, sex and 
+drinking with an ayahuasca church (See Table S1). This revealed stronger negative associations 
+between times consumed and current drug use for people with, compared to those without, a prior 
+DUD, for all of the seven drugs for which this was significant for the whole sample, other than magic 
+mushrooms (not significant for either group), and novel psychoactive substances, which was 
+significantly negatively associated for the prior DUD group only (OR 0.57, 95% CI 0.39-0.83). 
+Discussion 
+In the context of both expanding naturalistic use and academic research interest in the therapeutic 
+use of ayahuasca, our dataset of 8629 ayahuasca drinkers from more than 40 countries provides a 
+unique opportunity to investigate associations between ayahuasca consumption in naturalistic 
+settings and the use of alcohol and other drugs. We identified a strong positive association between 
+the consumption of ayahuasca and the likelihood of never or rarely drinking alcohol, never or rarely 
+engaging in risky drinking (>4 standard drinks on one occasion) and having not consumed a range of 
+drugs in the past month. Multivariate models revealed the number of times ayahuasca was 
+consumed to be consistently and strongly associated with low or no current consumption of alcohol 
+and drugs.  
+ 
+A further notable aspect of our results is to highlight associations between aspects of the acute 
+ayahuasca experience and current alcohol and drug use. The role of the subjective spiritual 
+experience has been well documented in other research with classic psychedelics. Here the PEQ-S 
+was associated with substantial increases in the odds of lower alcohol consumption and no recent 
+use of any drug use for those with a prior AUD or DUD respectively [1]. We also identify modest 
+associations between the number of self-insights attained and current drug and alcohol use. This 
+concept has been noted by other authors in the form of experiences that enable participants to 
+identify negative thought patterns related to their addiction, provide understanding of the origins 
+and dynamics of their addiction, and contribute to the healing of traumas that underlie many 
+addictive disorders [42,57-59]. The contextual factor of drinking ayahuasca with an ayahuasca 
+church was found to be strongly associated with lower current alcohol and drug use. Interestingly 
+there was little evidence of a diminishing of the association between ayahuasca drinking variables 
+and alcohol and other drug use over time (which for some respondents had been several years).  
+ 
+Our findings suggesting anti-substance use effects are consistent with those reported in several 
+smaller studies. Analysis of outcomes for 36 patients at the Takiwasi (therapeutic community) drug 
+ 14653362, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/dar.13348 by Cochrane Puerto Rico, Wiley Online Library on [21/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+ 
+ 
+ 
+ 
+10 
+ 
+treatment centre in Peru which uses ayahuasca along with other traditional plants, identified 
+significant decreases in addiction severity outcomes for drug and alcohol use, as well as reduced 
+emotional distress and enhanced wellbeing [60]. Similarly, an observational study of First Nations 
+young people in Canada provided with ayahuasca-assisted treatment for problematic substance use 
+reported psychological and wellbeing benefits as well as reductions in tobacco, alcohol and cocaine 
+use at 6 months [30]. A global survey of drug users, including 527 ayahuasca drinkers, found this 
+group to have lower problematic alcohol consumption than other psychedelic users, but not non-
+psychedelic users, however heterogeneity of groups was noted [61]. A number of studies have also 
+reported lower rates of alcohol and other drug use among members of ayahuasca churches in Brazil, 
+when compared to a comparison group or the Brazilian population, with these effects visible even 
+among samples with a higher lifetime incidence of illicit drug use or dependence [21,22,62,63]. 
+However, it is unclear to what extent these outcomes are related to ayahuasca consumption per se 
+vs broader group membership and social connection benefits [44]. Ours is the first study to 
+investigate these effects separately and shows that ayahuasca drinking variables remain robustly 
+associated with reduced alcohol and drug use after adjusting for ayahuasca church and community 
+membership.  
+ 
+Strengths of this study include the large sample and cross-cultural sampling frame, however several 
+limitations are also important to note. In particular, the non-random, self-selected sample, which 
+risks bias towards respondents who have had a positive experience with ayahuasca and are 
+motivated to spend time completing a survey, versus those with negative or neutral experiences that 
+may preference non-involvement. All data collected was self-reported, and several items involved 
+retrospective assessments of things that may have occurred some time ago. The cross-sectional 
+study design also means that we do not have data relating to historical alcohol and drug use to 
+confirm apparent reductions in alcohol and other drug use. Around (29%) of respondents also did 
+not complete the alcohol and drug sections of the survey and were excluded from the analysis. This 
+group may differ from the included sample, resulting in further selection bias. We also note 
+limitations in comparative data relating to prior diagnoses of alcohol and drug use disorders and 
+other mental health conditions, which is likely to be influenced by mental health system capacity for 
+Brazil in particular [64]. However, the high average education level of the Brazilian sample (higher 
+than drinkers from all other regions), is likely to mitigate this effect. Finally, we note that 
+multivariate models reported nominal p-values that were not adjusted for multiple-hypothesis 
+testing [65,66]. 
+In conclusion, this study identified a robust negative association between the consumption of 
+ayahuasca and low current use of alcohol and other drugs for those with and without prior 
+ 14653362, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/dar.13348 by Cochrane Puerto Rico, Wiley Online Library on [21/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+ 
+ 
+ 
+ 
+11 
+ 
+substance use disorders, in a large cross-national sample of ayahuasca drinkers. We note several 
+aspects of the ayahuasca drinking experience that appear to contribute to this association, and that 
+these associations remain strong even after adjusting for ayahuasca church and community 
+membership. The results add further support to the current academic interest in the potential use of 
+classic psychedelics as agents for the treatment of addictive disorders, and provide important data 
+to support the development of experimental treatment protocols for use in controlled clinical 
+studies.  
+ 
+ 
+Acknowledgements 
+Thanks are extended to the survey participants. JS is supported by a National Health and Medical 
+Research Council Clinical Research Fellowship (APP1125000). NLGC is supported by Coordenação de 
+Aperfeiçoamento de Pessoal de Nível Superior (CAPES) - Brazil (Finance Code 001 Research 
+Fellowship 88887.466701/2019-00) and National Science and Technology Institute for Translational 
+Medicine (INCT-TM Fapesp 2014/50891-1; CNPq 465458/2014-9). 
+ 
+Conflicts of Interest  
+The authors declare that the research was conducted in the absence of any commercial or financial 
+relationships that could be construed as a potential conflict of interest. 
+NLGC is supported by CAPES Foundation from Brazilian Ministry of Education (Research Fellowship 
+88887.466701/2019-00) and JS is supported by a National Health and Medical Research Council 
+Clinical (Fellowship APP1125000).  
+ 
+ 
+ 14653362, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/dar.13348 by Cochrane Puerto Rico, Wiley Online Library on [21/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+ 
+ 
+ 
+ 
+12 
+ 
+ 
+References  
+1. 
+Reiff CM, Richman EE, Nemeroff CB, Carpenter LL, Widge AS, Rodriguez CI, et al. 
+Psychedelics and Psychedelic-Assisted Psychotherapy. Am J Psychiatry 2020;175:391-410. 
+2. 
+Jerome L, Feduccia AA, Wang JB, Hamilton S, Yazar-Klosinski B, Emerson A, et al. Long-term 
+follow-up outcomes of MDMA-assisted psychotherapy for treatment of PTSD: a longitudinal pooled 
+analysis of six phase 2 trials. Psychopharmacology (Berl) 2020;237:2485-97. 
+3. 
+Agin-Liebes GI, Malone T, Yalch MM, Mennenga SE, Ponté KL, Guss J, et al. Long-term follow-
+up of psilocybin-assisted psychotherapy for psychiatric and existential distress in patients with life-
+threatening cancer. J Psychopharmacol 2020;34:155-66. 
+4. 
+Sessa B, Johnson MW. Can psychedelic compounds play a part in drug dependence therapy? 
+Br J Psychiatry 2015;206:1-3. 
+5. 
+Bogenschutz MP, Forcehimes AA. Development of a Psychotherapeutic Model for Psilocybin-
+Assisted Treatment of Alcoholism. J Humanist Psychol 2016;57:389-414. 
+6. 
+Johnson MW, Garcia-Romeu A, Cosimano MP, Griffiths RR. Pilot study of the 5-HT2AR 
+agonist psilocybin in the treatment of tobacco addiction. J Psychopharmacol 2014;28:983-92. 
+7. 
+Johnson MW, Garcia-Romeu A, Griffiths RR. Long-term follow-up of psilocybin-facilitated 
+smoking cessation. Am J Drug Alcohol Abuse 2017;43:55-60. 
+8. 
+Bogenschutz MP, Forcehimes AA, Pommy JA, Wilcox CE, Barbosa PCR, Strassman RJ. 
+Psilocybin-assisted treatment for alcohol dependence: a proof-of-concept study. J Psychopharmacol 
+2015;29:289-99. 
+9. 
+Krebs TS, Johansen P-Ø. Lysergic acid diethylamide (LSD) for alcoholism: meta-analysis of 
+randomized controlled trials. J Psychopharmacol 2012;26:994-1002. 
+10. 
+Fuentes JJ, Fonseca F, Elices M, Farré M, Torrens M. Therapeutic use of LSD in psychiatry: A 
+systematic review of randomized-controlled clinical trials. Front Psychiatry 2020;10:943. 
+11. 
+Sessa B, Sakal C, O'Brien S, Nutt D. First study of safety and tolerability of 3,4-
+methylenedioxymethamphetamine (MDMA)-assisted psychotherapy in patients with alcohol use 
+disorder: preliminary data on the first four participants. BMJ Case Rep 2019;12:e230109. 
+12. 
+Nunes AA, Dos Santos RG, Osório FL, Sanches RF, Crippa JAS, Hallak JEC. Effects of ayahuasca 
+and its alkaloids on drug dependence: A systematic literature review of quantitative studies in 
+animals and humans. J Psychoactive Drugs 2016;48:195-205. 
+13. 
+Tupper KW. The globalization of ayahuasca: harm reduction or benefit maximization? Int J 
+Drug Policy 2008;19:297-303. 
+14. 
+Trichter S. Ayahuasca beyond the amazon: the benefits and risks of a spreading tradition. 
+Journal of Transpersonal Psychology 2010;42:131-48. 
+15. 
+Tupper KW. Ayahuasca healing beyond the Amazon: the globalization of a traditional 
+indigenous entheogenic practice. Global Networks 2009;9:117-36. 
+16. 
+Kavenská V, Simonová H. Ayahuasca tourism: Participants in Shamanic rituals and their 
+personality styles, motivation, benefits and risks. J Psychoactive Drugs 2015;47:351-9. 
+17. 
+Henman AR. Ayahuasca use in a religious context: The case of the União do Vegetal in Brazil 
+2009. Available at: https://erowid.org/chemicals/ayahuasca/ayahuasca_article2.shtml. 
+18. 
+Ference J. Balancing Discretion and Expansion in the União do Vegetal. Journal of 
+Undergraduate Research. 2020;20. 
+19. 
+Grob CS, McKenna DJ, Callaway JC, Brito GS, Neves ES, Oberlaender G, et al. Human 
+psychopharmacology of hoasca, a plant hallucinogen used in ritual context in Brazil. J Nerv Ment Dis 
+1996;184:86-94. 
+20. 
+Halpern JH, Sherwood AR, Passie T, Blackwell KC, Ruttenber AJ. Evidence of health and 
+safety in American members of a religion who use a hallucinogenic sacrament. Med Sci Monit 
+2008;14:SR15-SR22. 
+ 14653362, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/dar.13348 by Cochrane Puerto Rico, Wiley Online Library on [21/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+ 
+ 
+ 
+ 
+13 
+ 
+21. 
+Barbosa PCR, Tófoli LF, Bogenschutz MP, Hoy R, Berro LF, Marinho EAV, et al. Assessment of 
+alcohol and tobacco use disorders among religious users of ayahuasca. Front Psychiatry 2018;9:136. 
+22. 
+Fábregas JM, González D, Fondevila S, Cutchet M, Fernández X, Barbosa PCR, et al. 
+Assessment of addiction severity among ritual users of ayahuasca. Drug Alcohol Depend 
+2010;111:257-61. 
+23. 
+Bouso JC, González D, Fondevila S, Cutchet M, Fernández X, Ribeiro Barbosa PC, et al. 
+Personality, psychopathology, life attitudes and neuropsychological performance among ritual users 
+of ayahuasca: A longitudinal study. PLoS One 2012;7:e42421. 
+24. 
+Barbosa PCR, Strassman RJ, da Silveira DX, Areco K, Hoy R, Pommy J, et al. Psychological and 
+neuropsychological assessment of regular hoasca users. Compr Psychiatry 2016;71:95-105. 
+25. 
+Bouso JC, Palhano-Fontes F, Rodríguez-Fornells A, Ribeiro S, Sanches R, Crippa JAS, et al. 
+Long-term use of psychedelic drugs is associated with differences in brain structure and personality 
+in humans. Eur Neuropsychopharmacol 2015;25:483-92. 
+26. 
+Franquesa A, Sainz-Cort A, Gandy S, Soler J, Alcázar-Córcoles MÁ, Bouso JC. Psychological 
+variables implied in the therapeutic effect of ayahuasca: A contextual approach. Psychiatry Res 
+2018;264:334-9. 
+27. 
+Loizaga-Velder A, Verres R. Therapeutic effects of ritual ayahuasca use in the treatment of 
+substance dependence—Qualitative results. J Psychoactive Drugs 2014;46:63-72. 
+28. 
+Schmid JT, Jungaberle H, Verres R. Subjective theories about (self-)treatment with 
+ayahuasca. Anthropology of Consciousness 2010;21:188-204. 
+29. 
+Ross S. Serotonergic hallucinogens and emerging targets for addiction pharmacotherapies. 
+Psychiatr Clin North Am 2012;35:357-74. 
+30. 
+Thomas G, Lucas P, Capler NR, Tupper KW, Martin G. Ayahuasca-assisted therapy for 
+addiction: results from a preliminary observational study in Canada. Curr Drug Abuse Rev 2013;6:30-
+42. 
+31. 
+Shanon B. The antipodes of the mind : charting the phenomenology of the ayahuasca 
+experience: Oxford University Press; 2002. 
+32. 
+Giovannetti C, Garcia Arce S, Rush B, Mendive F. Pilot evaluation of a residential drug 
+addiction treatment combining traditional amazonian medicine, ayahuasca and psychotherapy on 
+depression and anxiety. J Psychoactive Drugs 2020;52:472-81. 
+33. 
+Soler J, Elices M, Franquesa A, Barker S, Friedlander P, Feilding A, et al. Exploring the 
+therapeutic potential of ayahuasca: acute intake increases mindfulness-related capacities. 
+Psychopharmacology (Berl) 2016;233:823-9. 
+34. 
+Joaquim S, Matilde E, Elisabeth D-C, Juan CP, Amanda F, Mayte N-G, et al. Four weekly 
+ayahuasca sessions lead to increases in “acceptance” capacities: A comparison study with a standard 
+8-week mindfulness training program. Front Pharmacol 2018;9:224. 
+35. 
+Higgins GA, Fletcher PJ. Therapeutic potential of 5-ht2c receptor agonists for addictive 
+disorders. ACS Chem Neurosci 2015;6:1071-88. 
+36. 
+Bogenschutz MP, Johnson MW. Classic hallucinogens in the treatment of addictions. Prog 
+Neuropsychopharmacol Biol Psychiatry 2016;64:250-8. 
+37. 
+Canal CE. Serotonergic psychedelics: Experimental approaches for assessing mechanisms of 
+action. Handb Exp Pharmacol 2018;252:227-60. 
+38. 
+Ly C, Greb AC, Cameron LP, Wong JM, Barragan EV, Wilson PC, et al. Psychedelics promote 
+structural and functional neural plasticity. Cell Reports 2018;23:3170-82. 
+39. 
+Owaisat S, Raffa RB, Rawls SM. In vivo comparison of harmine efficacy against 
+psychostimulants: Preferential inhibition of the cocaine response through a glutamatergic 
+mechanism. Neurosci Lett 2012;525:12-6. 
+40. 
+Brierley DI, Davidson C. Developments in harmine pharmacology - Implications for 
+ayahuasca use and drug-dependence treatment. Prog Neuropsychopharmacol Biol Psychiatry 
+2012;39:263-72. 
+41. 
+Aricioglu-Kartal F, Kayır H, Tayfun Uzbay I. Effects of harman and harmine on naloxone-
+precipitated withdrawal syndrome in morphine-dependent rats. Life Sciences 2003;73:2363-71. 
+ 14653362, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/dar.13348 by Cochrane Puerto Rico, Wiley Online Library on [21/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+ 
+ 
+ 
+ 
+14 
+ 
+42. 
+Liester MB, Prickett JI. Hypotheses regarding the mechanisms of ayahuasca in the treatment 
+of addictions. J Psychoactive Drugs 2012;44:200-8. 
+43. 
+Breeksema JJ, Niemeijer AR, Krediet E, Vermetten E, Schoevers RA. Psychedelic treatments 
+for psychiatric disorders: A systematic review and thematic synthesis of patient experiences in 
+qualitative studies. CNS drugs 2020;34:925-46. 
+44. 
+Room R. Spirituality, intoxication and addiction: Six forms of relationship. Subst Use Misuse 
+2013;48:1109-13. 
+45. 
+Hartogsohn I. Constructing drug effects: A history of set and setting. Drug Science, Policy and 
+Law. 2017;3:2050324516683325. 
+46. 
+Haijen ECHM, Kaelen M, Roseman L, Timmermann C, Kettner H, Russ S, et al. Predicting 
+Responses to Psychedelics: A Prospective Study. Front Pharmacol 2018;9:897. 
+47. 
+Griffiths R, Richards W, Johnson M, McCann U, Jesse R. Mystical-type experiences 
+occasioned by psilocybin mediate the attribution of personal meaning and spiritual significance 14 
+months later. J Psychopharmacol 2008;22:621-32. 
+48. 
+Griffiths RR, Johnson MW, Richards WA, Richards BD, Jesse R, MacLean KA, et al. Psilocybin-
+occasioned mystical-type experience in combination with meditation and other spiritual practices 
+produces enduring positive changes in psychological functioning and in trait measures of prosocial 
+attitudes and behaviors. J Psychopharmacol 2018;32:49-69. 
+49. 
+Barratt MJ, Ferris JA, Zahnow R, Palamar JJ, Maier LJ, Winstock AR. Moving on from 
+representativeness: Testing the utility of the Global Drug Survey. Subst Abuse 
+2017;11:1178221817716391. 
+50. 
+Garcia-Romeu A, Davis AK, Erowid F, Erowid E, Griffiths RR, Johnson MW. Cessation and 
+reduction in alcohol consumption and misuse after psychedelic use. J Psychopharmacol 
+2019;33:1088-1101. 
+51. 
+Davis AK, Barsuglia JP, Lancelotta R, Grant RM, Renn E. The epidemiology of 5-methoxy- N, 
+N-dimethyltryptamine (5-MeO-DMT) use: Benefits, consequences, patterns of use, subjective 
+effects, and reasons for consumption. J Psychopharmacol 2018;32:779-92. 
+52. 
+Miller PG, Sønderlund AL. Using the internet to research hidden populations of illicit drug 
+users: a review. Addiction 2010;105:1557-67. 
+53. 
+Lucas P, Boyd S, Milloy MJ, Walsh Z. Reductions in alcohol use following medical cannabis 
+initiation: results from a large cross-sectional survey of medical cannabis patients in Canada. Int J 
+Drug Policy 2020;86:102963. 
+54. 
+Griffiths R, Richards W, McCann U, Jesse R. Psilocybin can occasion mystical-type 
+experiences having substantial and sustained personal meaning and spiritual significance. 
+Psychopharmacology 2006;187:268-83. 
+55. 
+Francis LJLSH. A Short Index of Mystical Orientation (SIMO): A study among Roman Catholic 
+priests. Pastoral Psychol 2004;53:49-51. 
+56. 
+Kroenke K, Spitzer RL, Williams JB, Löwe B. An ultra-brief screening scale for anxiety and 
+depression: the PHQ-4. Psychosomatics 2009;50:613-21. 
+57. 
+Argento E, Capler R, Thomas G, Lucas P, Tupper KW. Exploring ayahuasca-assisted therapy 
+for addiction: A qualitative analysis of preliminary findings among an Indigenous community in 
+Canada. Drug Alcohol Rev 2019;38:781-9. 
+58. 
+Fernández X, Fábregas JM. Experience of Treatment with Ayahuasca for Drug Addiction in 
+the Brazilian Amazon. In: Labate BC, Cavnar C, editors. The therapeutic use of ayahuasca: 
+Heidelberg: Springer, 2014.; 2014. 
+59. 
+Perkins D, Sarris J. Ayahuasca and Childhood Trauma: Potential Therapeutic Applications. In: 
+Labate BC, Cavnar C, editors. Ayahuasca Healing & Science: Springer; 2021. 
+60. 
+Berlowitz I, Walt H, Ghasarian C, Mendive F, Martin-Soelch C. Short-Term Treatment Effects 
+of a Substance Use Disorder Therapy Involving Traditional Amazonian Medicine. J Psychoactive 
+Drugs 2019;51:323-34. 
+61. 
+Lawn W, Hallak JE, Crippa JA, Dos Santos R, Porffy L, Barratt MJ, et al. Well-being, 
+problematic alcohol consumption and acute subjective drug effects in past-year ayahuasca users: a 
+large, international, self-selecting online survey. Sci Rep 2017;7:15201. 
+ 14653362, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/dar.13348 by Cochrane Puerto Rico, Wiley Online Library on [21/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+ 
+ 
+ 
+ 
+15 
+ 
+62. 
+Doering-Silveira E, Grob CS, de Rios MD, Lopez E, Alonso LK, Tacla C, et al. Report on 
+psychoactive drug use among adolescents using ayahuasca within a religious context. J Psychoactive 
+Drugs 2005;37:141-4. 
+63. 
+Halpern JH, Sherwood AR, Passie T, Blackwell KC, Ruttenber AJ. Evidence of health and 
+safety in American members of a religion who use a hallucinogenic sacrament. Med Sci Monit 
+2008;14:Sr15-22. 
+64. 
+WHO. Geneva: World Health Organisation; 2019. Available at: 
+https://apps.who.int/gho/data/view.main.HWF11v. 
+65. 
+Althouse AD. Adjust for multiple comparisons? It's not that simple. Ann Thorac Surg 
+2016;101:1644-5. 
+66. 
+Eggenberger P, Bürgisser M, Rossi RM, Annaheim S. Body Temperature Is Associated With 
+Cognitive Performance in Older Adults With and Without Mild Cognitive Impairment: A Cross-
+sectional Analysis. Front Aging Neurosci 2021;13:585904s. 
+ 
+ 14653362, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/dar.13348 by Cochrane Puerto Rico, Wiley Online Library on [21/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+ 
+ 
+ 
+ 
+1 
+ 
+Table 1. Sample characteristics and alcohol and drug use variables by context of usea,b    
+ 
+Non-ayahuasca 
+churchc 
+Ayahuasca 
+church  
+Statistical test 
+ 
+% (n) 
+% (n) 
+ 
+Sex 
+(4351) 
+(3955) 
+χ2=0.1 P=0.000 
+   Female 
+47.3 
+47.0 
+ 
+   Male 
+52.7 
+53.0 
+ 
+Aged   
+(4346) 
+(3935) 
+T(8279)=-0.5 P=0.596 
+   Mean age (SD) 
+40.6 (11.5) 
+40.7 (12.9) 
+ 
+University education 
+(4358) 
+(3959) 
+χ2=1.2 P=0.281 
+   Yes 
+63.2 
+64.3 
+ 
+Region of residence 
+(4091) 
+(3954) 
+χ2=3.8e+03 P=0.000 
+   Brazil 
+15.6 
+84.1 
+ 
+   Other Latin America 
+9.8 
+0.5 
+ 
+   Europe 
+42.2 
+7.1 
+ 
+   North America 
+23.6 
+7.5 
+ 
+   Australia and New Zealand 
+7.5 
+0.7 
+ 
+   Asia and Middle East 
+1.3 
+0.1 
+ 
+Lifetime mental health diagnosis 
+(4248) 
+(3822) 
+χ2=112.2 P=0.000 
+   Any 
+42.7 
+31.2 
+ 
+   Number (SD)d 
+0.9 (1.3) 
+0.5 (0.9) 
+T(7,3456)=39.9; P=0.000 
+Times drunk ayahuasca (lifetime) 
+(4326) 
+(3653) 
+χ2=4.0e+03 P=0.000 
+   1 
+12.4 
+1.8 
+ 
+   2-3 
+19.8 
+2.6 
+ 
+   4-5 
+14.6 
+1.5 
+ 
+   6-10 
+16.1 
+3.1 
+ 
+   11-20 
+12.8 
+3.8 
+ 
+   21-50 
+12.3 
+9.6 
+ 
+   51-100 
+5.9 
+10.8 
+ 
+   101-200 
+2.9 
+12.0 
+ 
+   201-500   
+2.0 
+27.7 
+ 
+   500-5000 
+1.3 
+27.3 
+ 
+Any past month drug use 
+(3897) 
+(3450) 
+χ2= 1.2e+03 P=0.000 
+   Yes  
+38.2 
+9.6 
+ 
+Lifetime number of different drugs used 
+(3897) 
+(3450) 
+T(7,3456)=39.9 P=0.000 
+   Mean number (SD)d 
+4.4 (2.9) 
+1.9 (2.3) 
+ 
+Alcohol consumption (any) 
+(3904) 
+(3455) 
+χ2=2.4e+03 P=.000 
+   Every day 
+2.3 
+0.2 
+ 
+   5 or 6 days per week 
+3.4 
+0.6 
+ 
+   3 or 4 days per week 
+7.9 
+1.5 
+ 
+   1 or 2 days per week 
+16.1 
+3.5 
+ 
+   2 or 3 days per month 
+12.9 
+3.2 
+ 
+   Rarely 
+35.4 
+12.7 
+ 
+   Never 
+22.2 
+78.5 
+ 
+Alcohol consumption (>4 standard drinks – among 
+alcohol drinkers only)  
+(2991) 
+(718) 
+χ2=23.7 P=.000 
+   At least twice a week 
+8.86 
+6.27 
+ 
+   Once a week 
+8.63 
+6.82 
+ 
+   2 or 3 times a month 
+11.13 
+7.38 
+ 
+   About once a month 
+12.67 
+11.84 
+ 
+   Less than monthly 
+34.34 
+38.02 
+ 
+   Never 
+24.37 
+29.67 
+ 
+Prior alcohol use disorder  
+(3978) 
+(3216) 
+χ2=5.3 P=0.021 
+   Yes 
+9.6 
+11.2 
+ 
+ 14653362, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/dar.13348 by Cochrane Puerto Rico, Wiley Online Library on [21/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+ 
+ 
+ 
+ 
+2 
+ 
+Prior drug use disorder  
+(3978) 
+(3620) 
+χ2=0.45 P=0.500 
+   Yes 
+10.4 
+9.9 
+ 
+a Percentages may not sum to 100.0% due to rounding; b “(n)” indicates valid (non-missing) sample for each item; c ‘non-
+ayahuasca church’ includes traditional, non-traditional, mixed and other contexts d Independent sample T-test. 
+ 
+ 14653362, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/dar.13348 by Cochrane Puerto Rico, Wiley Online Library on [21/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+ 
+ 
+ 
+ 
+3 
+ 
+Table 2. Associations between demographic and ayahuasca drinking variables and low/no recent alcohol and drug use (bivariate logistic regression 
+models) 
+Dependent 
+variable 
+Consumes any alcohola 
+Risky drinking (alcohol drinkers only)b 
+Drug consumption in last month  
+(among those with any lifetime use) c  
+Coding 
+1=never/rarely, 0=more than rarely 
+1=never/rarely, 0=more than rarely 
+1=none, 0=at least once  
+Group 
+No prior AUD (n=6821) 
+Prior AUD (n=721) 
+No prior AUD (n=3528) 
+Prior AUD (n=283) 
+No prior DUD (n=6813) 
+Prior DUD (n=711) 
+ 
+OR (95% CI) 
+P 
+OR (95% CI) 
+P 
+OR (95% CI) 
+P 
+OR (95% CI) 
+P 
+OR (95% CI) 
+P 
+OR (95% CI) 
+P 
+Covariates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Age (decades) 
+0.91 (0.86; 
+0.96) 
+0.001 
+0.91 (0.76; 
+1.1) 
+0.338 
+1.24 (1.16; 
+1.33) 
+0.000 
+1.1 (0.84; 
+1.44) 
+0.489 
+1.13 (1.07; 
+1.19) 
+0.000 
+1.03 (0.85; 
+1.25) 
+0.752 
+Female 
+1.41 (1.25; 
+1.60) 
+0.000 
+1.27 (0.84; 
+1.91) 
+0.251 
+1.54 (1.33; 
+1.77) 
+0.000 
+1.75 (1.03; 
+2.97) 
+0.038 
+1.33 (1.17; 
+1.5) 
+0.000 
+1.43 (0.95; 
+2.14) 
+0.086 
+University 
+education 
+0.67 (0.59; 
+0.76) 
+0.000 
+0.66 (0.45; 
+0.99) 
+0.042 
+0.95 (0.82; 
+1.1) 
+0.504 
+1.24 (0.73; 
+2.12) 
+0.430 
+1.22 (1.08; 
+1.38) 
+0.002 
+0.93 (0.64; 
+1.36) 
+0.721 
+Lifetime MH 
+diagnoses d  
+1.11 (1.04; 
+1.18) 
+0.001 
+0.98 (0.86; 
+1.12) 
+0.740 
+1.02 (0.95; 
+1.09) 
+0.542 
+1 (0.85; 1.19) 
+0.963 
+0.95 (0.89; 
+1) 
+0.056 
+0.88 (0.77; 
+1.00) 
+0.057 
+Ayahuasca 
+drinking 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Number of 
+times drunk e 
+1.26 (1.22; 
+1.30) 
+0.000 
+1.36 (1.22; 
+1.51) 
+0.000 
+1.05 (1.01; 
+1.10) 
+0.010 
+1.18 (1.01; 
+1.38) 
+0.038 
+1.16 (1.12; 
+1.19) 
+0.000 
+1.40 (1.26; 
+1.56) 
+0.000 
+Ayahuasca 
+church f 
+3.04 (2.53; 
+3.64) 
+0.000 
+2.81 (1.64; 
+4.81) 
+0.000 
+1.26 (1.03; 
+1.54) 
+0.023 
+0.87 (0.43; 
+1.78) 
+0.709 
+2.81 (2.38; 
+3.33) 
+0.000 
+2.35 (1.47; 
+3.76) 
+0.000 
+Ayahuasca 
+community g 
+1.01 (0.95; 
+1.08) 
+0.736 
+1.03 (0.83; 
+1.27) 
+0.801 
+1.04 (0.96; 
+1.11) 
+0.330 
+1.16 (0.87; 
+1.54) 
+0.322 
+0.98 (0.92; 
+1.05) 
+0.635 
+1.08 (0.86; 
+1.34) 
+0.516 
+SIMO total 
+1.00 (0.99; 
+1.00) 
+0.402 
+1.00 (0.99; 
+1.02) 
+0.816 
+0.99 (0.99; 
+1.00) 
+0.023 
+1.00 (0.98; 
+1.02) 
+0.672 
+0.99 (0.99; 
+1.00) 
+0.000 
+1.00 (0.99; 
+1.01) 
+0.942 
+PEQ-S  
+1.00 (0.94; 
+1.06) 
+0.958 
+1.20 (0.97; 
+1.49) 
+0.088 
+1.01 (0.95; 
+1.09) 
+0.699 
+1.34 (0.98; 
+1.84) 
+0.066 
+1.11 (1.04; 
+1.18) 
+0.001 
+1.28 (1.03; 
+1.59) 
+0.027 
+Self-insights 
+1.05 (1.01; 
+1.08) 
+0.004 
+1.04 (0.94; 
+1.16) 
+0.459 
+1.03 (0.99; 
+1.07) 
+0.124 
+1.18 (1.00; 
+1.39) 
+0.044 
+0.97 (0.94; 
+1.00) 
+0.055 
+1.06 (0.95; 
+1.19) 
+0.280 
+Extreme fear 
+0.98 (0.96; 
+1.00) 
+0.032 
+0.94 (0.89; 
+1.01) 
+0.075 
+1.00 (0.98; 
+1.03) 
+0.783 
+0.99 (0.91; 
+1.07) 
+0.821 
+1.01 (0.99; 
+1.03) 
+0.216 
+1.02 (0.96; 
+1.09) 
+0.487 
+Years since 
+drunk h 
+0.99 (0.97; 
+1.01) 
+0.389 
+1.07 (0.96; 
+1.19) 
+0.236 
+0.97 (0.95; 
+1.00) 
+0.031 
+1.19 (1.00; 
+1.41) 
+0.053 
+0.99 (0.98; 
+1.01) 
+0.520 
+1.12 (1.02; 
+1.24) 
+0.017 
+Integration 
+difficulties   
+0.98 (0.95; 
+1.01) 
+0.222 
+0.97 (0.89; 
+1.06) 
+0.495 
+0.98 (0.95; 
+1.01) 
+0.237 
+1.05 (0.94; 
+1.18) 
+0.346 
+0.97 (0.94; 
+1.00) 
+0.051 
+0.90 (0.83; 
+0.98) 
+0.013 
+ 14653362, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/dar.13348 by Cochrane Puerto Rico, Wiley Online Library on [21/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+ 
+ 
+ 
+ 
+4 
+ 
+a Rarely/never = once a month or less ; b Rarely = less than monthly; c includes the 11 drugs listed in Table 3, plus heroin, d Number of lifetime mental health diagnoses; f lifetime uses of 
+ayahuasca (categories as per Table 1); f last drank with an ayahuasca church; g drink ayahuasca with a close community; h number of years since last drank ayahuasca. CI, confidence interval; 
+OR, odds ratio. 
+ 
+ 
+ 14653362, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/dar.13348 by Cochrane Puerto Rico, Wiley Online Library on [21/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+ 
+ 
+ 
+ 
+5 
+ 
+Table 3. Odds (95% confidence interval) of recent drug use by drug1 (among those with lifetime use) (logistic regression models) 
+Dependent variable (N 
+with lifetime use) 
+(1=recent use, 0=no 
+recent use) 
+Cannabis 
+(5622) 
+Cocaine 
+(3052) 
+Meth/ 
+speed 
+(1503) 
+Ecstasy 
+(2975) 
+LSD (3205) 
+Magic 
+mushrooms 
+(3402) 
+Non-med 
+tranquilisers 
+(1339) 
+Non-med 
+opiates 
+(631) 
+Opium (767) 
+Ketamine 
+(946) 
+NPS (597) 
+(% of total sample/% of 
+lifetime users with 
+recent use) 
+(75.0/28.4) 
+ (41.5/2.6) 
+ (20.6/1.6) 
+ (40.5/4.3) 
+ (43.6/4.7) 
+ (46.5/6.6) 
+(18.3/3.2) 
+(8.7/1.3) 
+(10.6/1.3) 
+(13.1/1.6) 
+ (8.2/0.6) 
+Covariates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Age (decades) 
+0.88* (0.84; 
+0.93) 
+0.68* (0.58; 
+0.80) 
+0.62* (0.50; 
+0.77) 
+0.77* (0.68; 
+0.88) 
+0.69* (0.61; 
+0.78) 
+0.88** (0.80; 
+0.96) 
+0.98 (0.85; 
+1.13) 
+0.77 (0.50; 
+1.18) 
+0.94 (0.75; 
+1.18) 
+0.66** (0.51; 
+0.85) 
+1.09 (0.79; 
+1.5) 
+Female 
+0.78* (0.69; 
+0.88) 
+0.71*** 
+(0.52; 0.97) 
+0.77 (0.51; 
+1.15) 
+0.74*** 
+(0.58; 0.95) 
+0.66** (0.52; 
+0.85) 
+0.81*** 
+(0.66; 1.00) 
+1.06 (0.78; 
+1.44) 
+0.24*** 
+(0.08; 0.75) 
+0.78 (0.48; 
+1.28) 
+0.88 (0.57; 
+1.35) 
+0.44*** 
+(0.20; 1.00) 
+University education 
+0.83** 
+(0.74; 0.94) 
+0.87 (0.64; 
+1.18) 
+1.23 (0.81; 
+1.85) 
+0.93 (0.73; 
+1.20) 
+1.11 (0.87; 
+1.42) 
+0.84 (0.69; 
+1.03) 
+0.98 (0.72; 
+1.34) 
+1.43 (0.59; 
+3.49) 
+1.06 (0.66; 
+1.69) 
+1.52 (0.96; 
+2.41) 
+0.79 (0.41; 
+1.53) 
+Lifetime MH diagnoses a 
+1.05*** 
+(1.00; 1.00) 
+1.03 (0.92; 
+1.15) 
+1.15*** 
+(1.02; 1.30) 
+0.96 (0.87; 
+1.06) 
+0.89*** 
+(0.81; 0.98) 
+1.04 (0.96; 
+1.12) 
+1.05 (0.95; 
+1.16) 
+1.24 (0.97; 
+1.57) 
+1.21** (1.05; 
+1.38) 
+1.05 (0.90; 
+1.22) 
+1.16 (0.95; 
+1.42) 
+Ayahuasca drinking 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Number of lifetime uses 
+b  
+0.86* (0.83; 
+0.89) 
+0.81* (0.74; 
+0.89) 
+0.89*** 
+(0.79; 1.00) 
+0.84* (0.78; 
+0.91) 
+0.86* (0.80; 
+0.92) 
+0.90* (0.85; 
+0.95) 
+1.02 (0.94; 
+1.11) 
+0.92 (0.73; 
+1.16) 
+0.89 (0.78; 
+1.02) 
+0.83** (0.73; 
+0.94) 
+0.85 (0.70; 
+1.05) 
+Ayahuasca church c 
+0.42* (0.35; 
+0.49) 
+0.58*** 
+(0.34; 0.98) 
+0.59 (0.3; 
+1.16) 
+0.58** (0.38; 
+0.87) 
+0.43* (0.29; 
+0.64) 
+0.40* (0.28; 
+0.58) 
+0.92 (0.60; 
+1.41) 
+1.20 (0.35; 
+4.17) 
+0.49 (0.18; 
+1.30) 
+0.55 (0.24; 
+1.28) 
+0.85 (0.26; 
+2.79) 
+Ayahuasca community d 
+1.00 (0.94; 
+1.06) 
+0.94 (0.80; 
+1.09) 
+0.85 (0.70; 
+1.05) 
+1.08 (0.95; 
+1.23) 
+1.01 (0.89; 
+1.14) 
+1.04 (0.94; 
+1.16) 
+0.96 (0.82; 
+1.13) 
+1.16 (0.73; 
+1.85) 
+0.96 (0.76; 
+1.20) 
+1.13 (0.91; 
+1.39) 
+1.00 (0.71; 
+1.41) 
+SIMO total 
+1.01* (1.01; 
+1.01) 
+1.00 (0.99; 
+1.01) 
+1.01 (1; 
+1.02) 
+1.00 (0.99; 
+1.00) 
+1.01*** 
+(1.00; 1.02) 
+1.00 (1.00; 
+1.01) 
+1.00 (0.99; 
+1.01) 
+0.95 (0.64; 
+1.41) 
+1.01 (0.79; 
+1.29) 
+1.03 (0.84; 
+1.26) 
+0.99 (0.97; 
+1.01) 
+PEQ-S 
+0.92** 
+(0.86; 0.97) 
+0.97 (0.84; 
+1.12) 
+0.85 (0.71; 
+1.01) 
+0.92 (0.82; 
+1.04) 
+0.91 (0.81; 
+1.03) 
+1.05 (0.94; 
+1.16) 
+0.86*** 
+(0.75; 1.00) 
+0.99 (0.96; 
+1.02) 
+0.99 (0.98; 
+1.01) 
+0.99 (0.98; 
+1.01) 
+0.76 (0.56; 
+1.02) 
+Insights - self 
+1.03*** 
+(1.00; 1.07) 
+0.92*** 
+(0.85; 0.99) 
+0.91 (0.82; 
+1.01) 
+0.95 (0.89; 
+1.02) 
+0.99 (0.93; 
+1.05) 
+1.06 (1.00; 
+1.11) 
+0.89** (0.83; 
+0.97) 
+0.85 (0.69; 
+1.05) 
+0.98 (0.87; 
+1.1) 
+0.94 (0.85; 
+1.05) 
+1.01 (0.85; 
+1.19) 
+Extreme fear 
+0.97** 
+(0.95; 0.99) 
+1.00 (0.95; 
+1.05) 
+0.97 (0.91; 
+1.03) 
+0.99 (0.95; 
+1.03) 
+0.95*** 
+(0.92; 0.99) 
+0.98 (0.95; 
+1.01) 
+1.02 (0.97; 
+1.07) 
+1,00 (0.87; 
+1.14) 
+1.05 (0.98; 
+1.12) 
+0.99 (0.93; 
+1.06) 
+1.06 (0.95; 
+1.17) 
+Years since drunk e 
+1.00 (0.98; 
+1.02) 
+1.01 (0.96; 
+1.07) 
+0.96 (0.87; 
+1.06) 
+0.98 (0.93; 
+1.04) 
+0.98 (0.93; 
+1.03) 
+0.94*** 
+(0.90; 1.00) 
+1.02 (0.99; 
+1.06) 
+0.66 (0.41; 
+1.08) 
+0.93 (0.83; 
+1.03) 
+1.05 (0.97; 
+1.14) 
+1.03 (0.93; 
+1.14) 
+Integration difficultiesf  
+1.03 (1.00; 
+1.06) 
+1.03 (0.95; 
+1.10) 
+1.04 (0.95; 
+1.13) 
+1.01 (0.95; 
+1.06) 
+1.03 (0.97; 
+1.08) 
+1.01 (0.97; 
+1.06) 
+0.99 (0.93; 
+1.06) 
+1.17 (0.99; 
+1.38) 
+0.94 (0.84; 
+1.05) 
+0.93 (0.84; 
+1.04) 
+0.97 (0.83; 
+1.12) 
+* P <0.001, ** P <0.01, *** P <0.05. 1 Data was collected on heroin use but this model was not run as only 3 of 317 (0.95%) respondents with lifetime heroin use had used in the last month; a 
+number of lifetime mental health diagnoses; b lifetime uses of ayahuasca (categories as per Table 1); c last drank with an ayahuasca church; d drink ayahuasca with a close community; e 
+ 14653362, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/dar.13348 by Cochrane Puerto Rico, Wiley Online Library on [21/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+ 
+ 
+ 
+ 
+6 
+ 
+number of years since last drank ayahuasca, f number of integration difficulties. MH, mental health; NPS, new psychoactive substances; PEQ-S, Persisting Effects Questionnaire; SIMO, Short 
+Index of Mystical Orientation. 
+ 
+ 14653362, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/dar.13348 by Cochrane Puerto Rico, Wiley Online Library on [21/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

@@ -1,0 +1,1045 @@
+ 
+ 
+ 
+THIS IS EXHIBIT 
+“F” 
+____ 
+TO THE AFFIDAVIT OF 
+JULIA JOYES 
+AFFIRMED February 11, 2022 
+ 
+______________________ 
+A Commissioner etc. 
+LSO#: 76706V 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+000330
+000330
+235
+
+
+https://doi.org/10.1177/0269881117691453
+Journal of Psychopharmacology
+2017, Vol. 31(5) 606 –613
+© The Author(s) 2017
+Reprints and permissions: 
+sagepub.co.uk/journalsPermissions.nav
+DOI: 10.1177/0269881117691453
+journals.sagepub.com/home/jop
+Introduction
+Abuse of prescription and illicit opioids is an ongoing problem 
+within the United States: nearly one in five adults aged 19–30 
+years have used opioids illicitly and rates of opioid abuse more 
+than doubled between 1991 and 2001 (Johnston et al., 2008; 
+McCabe et al., 2008). Opiate dependence substantially impacts 
+quality of life and is associated with increased unemployment, 
+crime, legal issues, comorbid health issues and mortality (Haug 
+et al., 2005). These issues are compounded over time, as opioid 
+dependence often has a long and chronic course (van den Brink 
+and Haasen, 2006). Unlike other recreational substances, illicit 
+opioid use likely stems from overprescribing of pain medications 
+by the medical community: about 60% of illicit prescription pain 
+killer (PPK) users reported receiving the drug from one doctor or 
+for free from friends or family who received the drug from one 
+doctor. Less than 6% reported a dealer or stranger and only about 
+4% reported their source as multiple doctors (United States 
+Department of Health and Human Services, 2014). Recently, a 
+number of strategies to reduce illicit prescription opioid use were 
+implemented, including registration of controlled substance han-
+dlers, production quotas, record keeping and security require-
+ments (Zacny et al., 2003). However, these strategies may have 
+unintended consequences: an anonymous survey of over 15,000 
+opioid dependent patients showed that use of only prescription 
+opioids fell from about 70% to 50% between 2010 and 2014, but 
+concurrent use of prescription opioids with heroin, as well as 
+heroin use alone, effectively doubled from 2008 to 2014 (Dart 
+et al., 2015). Analysis of the National Survey of Drug Use and 
+Health (NSDUH) from 2007 to 2013 also showed a similar 
+increase in heroin users, from 373,000 to 681,000 (United States 
+Department of Health and Human Services, 2014).
+Despite advances in pharmacology and drug discovery, the 
+maintenance model treatment approach for opioid dependence 
+The association of psychedelic use and  
+opioid use disorders among illicit users  
+in the United States
+Vincent D Pisano1,2, Nathaniel P Putnam3, Hannah M Kramer4, 
+Kevin J Franciotti5, John H Halpern6,7 and Selma C Holden8,9
+Abstract
+Background: Preliminary studies show psychedelic compounds administered with psychotherapy are potentially effective and durable substance misuse 
+interventions. However, little is known about the association between psychedelic use and substance misuse in the general population. This study 
+investigated the association between psychedelic use and past year opioid use disorders within illicit opioid users.
+Methods: While controlling for socio-demographic covariates and the use of other substances, the relationship between classic psychedelic use and 
+past year opioid use disorders was analyzed within 44,000 illicit opioid users who completed the National Survey on Drug Use and Health from 2008 
+to 2013.
+Results: Among respondents with a history of illicit opioid use, psychedelic drug use is associated with 27% reduced risk of past year opioid 
+dependence (weighted risk ratio = 0.73 (0.60–0.89) p = 0.002) and 40% reduced risk of past year opioid abuse (weighted risk ratio = 0.60 (0.41–0.86) 
+p = 0.006). Other than marijuana use, which was associated with 55% reduced risk of past year opioid abuse (weighted risk ratio = 0.45 (0.30–0.66) 
+p < 0.001), no other illicit drug was associated with reduced risk of past year opioid dependence or abuse.
+Conclusion: Experience with psychedelic drugs is associated with decreased risk of opioid abuse and dependence. Conversely, other illicit drug use 
+history is largely associated with increased risk of opioid abuse and dependence. These findings suggest that psychedelics are associated with positive 
+psychological characteristics and are consistent with prior reports suggesting efficacy in treatment of substance use disorders.
+Keywords
+Abuse, dependence, heroin, opioid, psychedelics
+1Laboratory for Integrative Psychiatry, McLean Hospital, Belmont, USA
+2Touro College of Osteopathic Medicine, New York, USA
+3School of Social Work, Boston University, Boston, USA
+4Multidisciplinary Association of Psychedelic Studies, Santa Cruz, USA
+5The New School for Social Research, New York, USA
+6 The Boston Center for Addiction Treatment, , A Recovery Center of 
+America Company, Danvers, USA
+7 Harvard Medical School, Laboratory for Integrative Psychiatry, 
+Division of Alcohol and Drug Abuse, McLean Hospital, Belmont, USA
+8 University of New England, School of Osteopathic Medicine, Beth 
+Israel Deaconess Medical Center, Boston, USA
+9Beth Israel Deaconess Medical Center, Boston, USA
+Corresponding author:
+Vincent Pisano, Touro College of Osteopathic Medicine, 230 W 125th 
+St, New York, NY 10027, USA.
+Email: vpisano@student.touro.edu
+691453 JOP0010.1177/0269881117691453Journal of PsychopharmacologyPisano et al.
+research-article2017
+Original Paper
+000331
+000331
+236
+
+
+Pisano et al. 
+607
+has remained conceptually static for almost a half century. Meta-
+analysis of methadone, the gold standard for pharmacological 
+maintenance, compared with non-pharmacological interventions 
+for opioid dependence found methadone to significantly decrease 
+heroin use and increase treatment retention (Mattick et al., 2009). 
+Due to methadone’s side effects and potential for abuse and over-
+dose, patients are often required to travel to a clinic every 24 
+hours for single doses (Ballantyne and Mao, 2003). Naltrexone 
+demonstrated no significant difference when compared with no 
+pharmacological intervention on all three primary outcomes in a 
+large Cochrane meta-analysis (Minozzi et al., 2011). Finally, 
+buprenorphine has a better safety profile than methadone due to 
+its decreased potential for respiratory depression (Wedham et al., 
+2007 ). A meta-analysis of over 5000 subjects in 31 trials found 
+all buprenorphine dosages to significantly increase retention 
+compared with placebo, but only doses of 16 mg or greater were 
+effective in suppressing illicit opioid use (Mattick et al., 2014). 
+The ineffectiveness of these treatment methods was validated in 
+a large, multisite clinical trial that found that 47% of methadone 
+or buprenorphine subjects were still using five years later (Hser 
+et al., 2016). Psychosocial interventions alone are also ineffec-
+tive; however, the addition of any psychosocial treatment com-
+pared with pharmacological maintenance alone is superior in 
+terms of retention and reduced opiate use (Amato et al., 2011). 
+Despite interaction with the dysregulated opioid system, treat-
+ment approaches based on the maintenance model have thus far 
+been insufficient.
+In addition to the opioid system, serotonin system dysregula-
+tion is also evident in opioid use disorders. Serotonin–
+norepinephrine reuptake inhibitors (SNRIs), such as venlafaxine 
+and duloxetine, have shown some evidence in the treatment of 
+physical pain with or without depression, diabetic neuropathy 
+and other pain syndromes (Jann and Slade, 2007). Reports of 
+SNRI use as opioid misuse interventions are lacking, although 
+one study found that venlafaxine attenuated morphine depend-
+ence and withdrawal in rats (Lu et al., 2001). The use of psyche-
+delic compounds, which interact primarily with serotonin 5-HT2A 
+receptors, in treating substance use disorders is an area of active 
+investigation, although use in opioid treatment has been minimal. 
+A meta-analysis of 31 studies with over 1,100 alcohol dependent 
+subjects demonstrated improvement in 75% of the lysergic acid 
+diethylamide (LSD) treatment group compared with 44% of the 
+control group at 10 month follow-up (Abuzzahab and Anderson, 
+1971). A pilot study of dipropyltryptamine for alcohol depend-
+ence found 92% of 51 participants had significant clinical 
+improvement at six month follow-up (Grof et al., 1973). More 
+recently, a proof-of-concept study using psilocybin to treat 10 
+individuals with alcohol dependence found significantly 
+decreased drinking was largely retained through the nine month 
+follow-up (Bogenschutz et al., 2015). A pilot study of psilocybin 
+for smoking cessation reported that 80% of 15 nicotine depend-
+ent subjects maintained biologically confirmed abstinence at six 
+month follow-up (Johnson et al., 2014). In an observational 
+study, 11 participants of an addiction and stress retreat receiving 
+ayahuasca reported decreases in alcohol, cocaine and tobacco use 
+and significant improvements in mindfulness, empowerment, 
+hopefulness, quality of life-meaning and quality of life-outlook 
+measurements over a six month period (Thomas et al., 2013). A 
+retrospective study of American members of the Santo Daime 
+Church who attended weekly ayahuasca ceremonies found that 
+22 of 24 respondents with substance abuse or dependence histo-
+ries were in full remission (Halpern et al., 2008). Savage and 
+McCabe conducted one of the few trials of LSD therapy in 74 
+narcotics addicts. Compared with outpatients receiving general 
+therapy, about three times as many residential LSD treatment 
+subjects were abstinent at six and 12 months (Savage and 
+McCabe, 1973). The use of psychedelic-assisted therapy for opi-
+oid dependence could expand clinical treatment options beyond 
+the simple maintenance model.
+Research into psychedelics as substance misuse interventions is 
+currently limited by the lack of multi-center clinical trials: most, if 
+not all, reported studies have sample sizes restricted to individuals 
+from local communities. An investigation using a broader, nation-
+ally representative sample can give initial insight into the associa-
+tion of psychedelics and risk of opioid use disorders. To date, there 
+are few population studies examining psychedelic use and mental 
+health. Hendricks et al. found hallucinogen use was associated 
+with reduced recidivism among 25,000 subjects with substance 
+abuse history under community corrections supervision (Hendricks 
+et al., 2014). Also using the NSDUH, Hendricks et al. found that 
+classic psychedelic use was associated with decreased odds of past 
+month psychological distress, past year suicidality, suicidal plan-
+ning and suicide attempt (Hendricks et al., 2015).
+The purpose of the present study was to explore the relation-
+ship between psychedelic use history and opioid use disorders 
+within the general population of illicit users in the United States. 
+Given positive results in preliminary studies of psychedelic ther-
+apy for substance use disorders and previous population studies 
+indicating positive psychological effects, we hypothesized that a 
+history of classic psychedelic use would be associated with 
+decreased risk of past year opioid abuse and dependence. A sec-
+ondary analysis was performed to explore whether individual 
+DSM-IV dependence criteria were influenced by psychedelic 
+drug use.
+Methods
+The NSDUH is an annual, in person interview conducted to gain 
+information on alcohol, tobacco, illicit and prescription drug use 
+and mental health. Non-institutionalized civilians 12 years or 
+older are selected from a sample of households and compensated 
+US$30. An interviewer visits each household and administers the 
+computer survey. The current dataset was drawn from six years 
+of the NSDUH (2008–2013) that reported consistent variables 
+(United States Department of Health and Human Services, 2009, 
+2010, 2011, 2012, 2013, 2014). Additional information on survey 
+methodology, design and weights is available at the NSDUH 
+homepage 
+(https://nsduhweb.rti.org/respweb/homepage.cfm). 
+The survey was conducted by RTI International, Research 
+Triangle Park, North Carolina and approved by their institutional 
+review board. The current analysis was approved by the Beth 
+Israel Deaconess Medical Center IRB.
+Data analysis
+NSDUH data from 2008 to 2013 was appended into one dataset 
+and a subpopulation of individuals 18 or older who had used 
+illicit opioids was defined. A new variable was created to denote 
+a history of classical psychedelic use: LIFEHAL. Respondents 
+000332
+000332
+237
+
+
+608 
+Journal of Psychopharmacology 31(5)
+who indicated they had ever used LSD, mescaline, psilocybin, 
+peyote, San Pedro cactus, N,N-dimethyltryptamine/N,N-
+diethyltryptamine or ayahuasca were coded as positive for classic 
+psychedelic use history, and all other respondents as negative. 
+Variables for use of 3,4-methylenedioxymethamphetamine 
+(MDMA), designer psychedelic tryptamines or phenethylamines, 
+Salvia divinorum or dissociative psychedelics such as ketamine 
+or ibogaine were not included in the classic psychedelic defini-
+tion. Most of these excluded substances have different psychoac-
+tive mechanisms compared with classic hallucinogens or suspect 
+authenticity on the illicit market: a recent survey of New York 
+young adults endorsing MDMA use found only 50% of hair sam-
+ples contained MDMA (Palamar et al., 2016).
+Observations were limited to adults that reported lifetime use 
+of recreational pain killers (variable ANLFLAG != 0) or lifetime 
+heroin use (HERFLAG != 0). Primary outcome variables 
+included meeting criteria for past year PPK abuse (ABUSEANL 
+= 1) or heroin abuse (ABUSEHER = 1), and meeting criteria for 
+past year PPK dependence (DEPENDANL = 1) or heroin depend-
+ence (DEPNDHER = 1). Abuse and dependence variables were 
+defined based on the criteria listed in the DSM-IV. Respondents 
+were coded positive for substance abuse if they did not meet 
+dependence criteria and endorsed at least one of the following: 
+substance related dangerous situations, issues at work, school, 
+home, or issues with family, friends or the law.
+The NSDUH’s 10 dependence criteria were also analyzed for 
+associations with psychedelic use. Variables included ‘spent time 
+getting/using substance,’ ‘spent time getting over effects’ and ‘less 
+activities due to substance use,’ ‘unable to keep limits’ and ‘unable 
+to cut down/stop,’ ‘using same amount has less effect’ and ‘need-
+ing to use more for same effect,’ ‘continued use despite emotional 
+issues,’ ‘continued use despite physical issues’ and ‘three or more 
+withdrawal symptoms.’ NSDUH respondents endorsing at least 
+three criteria were coded positive for substance dependence.
+Multivariate logistic regression was used to test the associa-
+tion between psychedelic use and outcome variables while con-
+trolling for demographic factors and use of other illicit substances. 
+Control variables included age in years (18–25, 26–34, 35–49, 
+50–64, 65 or older), race (non-Hispanic White, non-Hispanic 
+African American, non-Hispanic Native American, non-Hispanic 
+Native Hawaiian/Pacific Islander, non-Hispanic Asian, non-His-
+panic more than one race and Hispanic), education (less than 
+high school, high school graduate, some college or college grad-
+uate), income (less than US$20,000–US$49,999, US$50,000–
+US$74,999, US$75,000 or more), sex (male or female), marital 
+status (married, widowed, divorced/separated, never married) 
+and self-reported engagement in risky behavior (like to test your-
+self by doing risky things: never, seldom, sometimes or always) 
+as well as use of marijuana, stimulants, tranquilizers, inhalants, 
+ecstasy, phencyclidine, sedatives and cocaine. All analyses were 
+conducted in Stata 14 using the svyset command to account for 
+the complex study design, sampling weights and pooling of data 
+from multiple survey years as recommended by the Substance 
+Abuse and Mental Health Services Administration: http://sam-
+hda-faqs.blogspot.com/.
+Results
+Of 228,556 adult respondents, 44,678 (15.0% weighted) 
+reported illicit pain killer or heroin use, of which 18,517 (44.7% 
+weighted) reported history of classic psychedelic use. The demo-
+graphic and lifetime substance use data for the illicit opioid use 
+population is presented in Table 1. Rao–Scott chi-square tests 
+were used to test the association between psychedelic use, demo-
+graphic, and lifetime substance use variables. Classic psyche-
+delic use was concentrated in Whites, males and those more 
+likely to engage in risky behaviors. Additionally, the majority 
+of psychedelic users had also used marijuana or cocaine, both of 
+which were control variables in the logistic regression model. Of 
+respondents with a history of opioid use, 630 met past year abuse 
+criteria (1.2% weighted), and 2,571 met past year dependence cri-
+teria (4.3% weighted). Table 2 presents the rates of past year opi-
+oid abuse and dependence and psychedelic use by compound.
+Figure 1 shows the results of multivariate logistic regression 
+models predicting risk of past year opioid dependence within 
+respondents with illicit use history. Psychedelic use was associ-
+ated with reduced risk of past year opioid dependence (weighted 
+risk ratio (RR) = 0.73 (0.60–0.89) p = 0.002). No other sub-
+stances were associated with decreased risk of meeting past year 
+opioid dependence criteria. History of psychedelic use had a 
+similar effect size on dependence as education (weighted RR = 
+0.71), both of which were larger than age (weighted RR = 0.85) 
+and income (weighted RR = 0.91). Figure 2 displays the results 
+of multivariate logistic regression models analyzing risk of past 
+year opioid abuse within respondents with illicit use history. 
+Psychedelic use was associated with reduced risk of past year 
+opioid abuse (weighted RR = 0.60 (0.41–0.86) p = 0.006). 
+Marijuana use was also associated with reduced risk of past year 
+opioid abuse (weighted RR = 0.45 (0.30–0.66) p < 0.001). Other 
+than psychedelics and marijuana, use of no other substances 
+demonstrated reduced risk of meeting past year abuse criteria. 
+History of psychedelic use had a slightly larger effect size on 
+abuse than education (weighted RR = 0.66), both of which were 
+larger than income (weighted RR = 0.81). Age was not associated 
+with a significant change in risk of past year opioid abuse.
+Table 3 shows the rate at which each dependence criterion 
+was endorsed by the illicit opioid use population, as well as mul-
+tivariate logistic regression results of psychedelic use on risk of 
+each criterion. In both psychedelic user and nonuser populations 
+the most endorsed criteria were ‘spent time getting or using,’ 
+‘inability to keep limits,’ ‘inability to cut down,’ ‘needing to use 
+more’ and ‘three or more withdrawal symptoms.’ Psychedelic use 
+was associated with significantly reduced risk of reporting seven 
+out of the 10 dependence criteria, with risk ratios ranging from 
+0.65 to 0.78. There was no association with ‘continued use 
+despite physical issues,’ ‘spent time getting over effects’ or ‘usual 
+use has less effect.’
+Discussion
+Among respondents with a history of illicit opioid use, psyche-
+delic use is associated with 27% reduced risk of past year opioid 
+dependence (weighted RR = 0.73 (0.60–0.89) p = 0.002). In the 
+same illicit opioid population, psychedelic use is associated with 
+40% reduced risk of past year opioid abuse (weighted RR = 0.60 
+(0.41–0.86) p = 0.006). These results are largely consistent with 
+our hypothesis that psychedelic drug use would be associated 
+with reduced opioid misuse.
+Other than psychedelics and marijuana, almost all other drug 
+use was associated with increased risk of opioid abuse and 
+000333
+000333
+238
+
+
+Pisano et al. 
+609
+dependence. History of marijuana use was associated with 55% 
+reduced risk of past year opioid abuse (weighted RR = 0.45 (0.30–
+0.66) p < 0.001) but did not significantly correlate with past year 
+opioid dependence. Still, marijuana has been shown to decrease 
+pain: vaporizing marijuana significantly decreased pain by 27% in 
+21 morphine or oxycodone chronic pain patients (Abrams et al., 
+2011). Additionally, between 1999 and 2010, states with medical 
+marijuana laws had 24.8% lower opioid overdose mortality 
+Table 1. Demographics and lifetime substance use data for illicit opioid users.
+NSDUH variable:
+Psychedelic use history:
+Yes
+No
+p value
+Age
+CATAG6
+<0.001
+18–25
+19.1
+26.0
+ 
+26–34
+26.0
+23.1
+ 
+35–49
+29.3
+28.8
+ 
+50–64
+24.5
+16.9
+ 
+65+
+1.1
+5.2
+ 
+Gender
+IRSEX
+<0.001
+Male
+65.6
+49.3
+ 
+Female
+34.4
+50.7
+ 
+Race
+NEWRACE2
+<0.001
+Non-Hispanic White
+84.1
+66.4
+ 
+Non-Hispanic African American
+3.6
+13.2
+ 
+Non-Hispanic Native American
+0.8
+0.6
+ 
+Non-Hispanic Native Hawaiian/Pacific Islander
+0.2
+0.5
+ 
+Non-Hispanic Asian
+1.1
+2.7
+ 
+Non-Hispanic more than one race
+1.9
+1.5
+ 
+Hispanic
+8.4
+15.3
+ 
+Education
+EDUCCAT2
+<0.001
+Less than high school
+13.2
+15.9
+ 
+High school graduate
+30.2
+31.0
+ 
+Some college
+31.3
+29.6
+ 
+College graduate
+25.4
+23.5
+ 
+Income
+INCOME
+0.005
+<US$20,000
+20.1
+21.7
+ 
+US$20,000–US$49,999
+32.7
+33.8
+ 
+US$50,000–US$74,999
+17.1
+16.5
+ 
+>US$75,000
+30.1
+28.0
+ 
+Marital status
+IRMARIT
+<0.001
+Married
+39.1
+42.7
+ 
+Widowed
+1.8
+2.2
+ 
+Divorced or separated
+17.8
+14.5
+ 
+Never married
+41.3
+40.6
+ 
+Like to test yourself by doing risky things
+RKFQRSKY
+<0.001
+Never
+21.6
+36.8
+ 
+Seldom
+44.8
+40.0
+ 
+Sometimes
+29.8
+20.8
+ 
+Always
+3.8
+2.4
+ 
+Lifetime illicit substance use
+ 
+Lifetime marijuana use
+MRJFLAG
+98.7
+66.7
+<0.001
+Lifetime stimulant use
+STMFLAG
+50.9
+14.5
+<0.001
+Lifetime tranquilizer use
+TRQFLAG
+61.9
+28.1
+<0.001
+Lifetime inhalant use
+INHFLAG
+50.9
+12.3
+<0.001
+Lifetime MDMA/ecstasy use
+ESCFLAG
+47.1
+9.8
+<0.001
+Lifetime PCP use
+PCPFLAG
+23.0
+1.2
+<0.001
+Lifetime sedative use
+SEDFLAG
+25.2
+5.4
+<0.001
+Lifetime cocaine use
+COCFLAG
+81.9
+22.8
+<0.001
+Data presented as weighted percentages rounded to 0.1%. Rao–Scott chi-square was used to determine the significance of different characteristics on psychedelic use. 
+N = 44,678. NSDUH: National Survey of Drug Use and Health; MDMA: 3, 4-methylenedioxymethamphetamine; PCP: phencyclidine.
+000334
+000334
+239
+
+
+610 
+Journal of Psychopharmacology 31(5)
+compared with states without medical laws (Bachhuber et al., 
+2014). The mechanism by which marijuana decreases opioid use 
+likely involves its activity at kappa and delta opioid receptors, 
+whereas psychedelic effects result from activity at 5-HT recep-
+tors, notably 5-HT2A (Nichols, 2004; Pugh et al., 1996).
+History of psychedelic use was associated with reduced risk 
+of endorsing seven of NSDUH’s 10 dependence criteria. The 
+relative risk of endorsing each criterion decreased between 22% 
+and 35% with psychedelic use (RR from 0.78 to 0.65). This sec-
+ondary analysis was conducted to explore the areas psychedelic 
+and opioid use are associated with. However, psychedelic use 
+was associated with reduced risk of all dependence criteria that 
+had large sample sizes. The three least endorsed criteria, ‘time 
+spent getting over effects,’ ‘using same amount has less effect’ 
+and ‘continuing to use despite physical problems,’ were all not 
+significantly associated with psychedelic use.
+Positive effects of psychedelic use outside of a structured 
+therapy setting contrasts the conventional belief that recreational 
+use is associated with negative outcomes. Psychotherapy and 
+interpersonal support are considered integral to the clinical use of 
+psychedelics (Johnson et al., 2008). However, the association 
+with decreased abuse and dependence exists despite uncontrolled 
+settings and psychedelics of unknown dose and purity. 
+Psychedelics may induce psychosis in a small population of sus-
+ceptible individuals (Savage et al., 1964), and, given the high 
+comorbidity of substance use disorders and psychotic symptoms, 
+it is likely this subgroup detracts from observed improvements. 
+The lack of a concrete mechanism raises safety concerns, espe-
+cially in regard to vulnerable populations. In recent studies using 
+psychedelics in therapeutic settings, negative psychological 
+effects are rare due to the tightly controlled inclusion criteria and 
+extensive interpersonal support for subjects (Bogenschutz et al., 
+2015; Gasser et al., 2015; Grob et al., 2011; Johnson et al., 2014; 
+Mithoefer et al., 2011; Oehen et al., 2013). The few cases of 
+adverse effects were resolved with subsiding drug action, and no 
+participants reported long-term negative psychological effects.
+After psychedelic use there is evidence of an ‘afterglow’ 
+period of several weeks characterized by improved mood, 
+energy and freedom from past guilt and anxiety (Halpern, 1996). 
+This ‘afterglow’ is likely the result of rapid downregulation and 
+Table 2. Rates of abuse and dependence and psychedelic use by compound.
+History of opioid use population:
+NSDUH variable
+N = 44,678
+Weighted %
+Abuse
+ABUSEANL/HER
+630
+1.2
+Dependence
+DEPNDANL/HER
+2571
+4.3
+LSD
+LSDFLAG
+12,641
+34.9
+Psilocybin
+PSILCY2
+15,038
+33.6
+DMT/DET
+HALNEW 616
+420
+0.7
+Mescaline
+MESC2
+3338
+12.9
+Peyote/San Pedro
+PEYOTE2 or HALNEW 6077
+2488
+8.8
+Ayahuasca
+HALNEW 6103
+15
+0.0
+Any psychedelic use
+(Any of the above)
+18,517
+44.7
+Weighted percentages rounded to nearest 0.1%. Rao–Scott chi-square used to assess relationship between first using opioids or psychedelics. NSDUH: National Survey of 
+Drug Use and Health; LSD: lysergic acid diethylamide; DMT: N,N-dimethyltryptamine; DET: N,N-diethyltryptamine.
+Figure 1. Logistic regression results of substance use history and meeting opioid dependence criteria in the past year. Squares are weighted risk 
+ratio point estimates and error bars are 95% confidence intervals. N = 44,678 respondents. Control variables include age, race, education, income, 
+sex, marital status, risky behavior and history of other illicit drug use. MDMA: 3,4-methylenedioxymethamphetamine; PCP: phencyclidine.
+000335
+000335
+240
+
+
+Pisano et al. 
+611
+desensitization of 5-HT2A receptors induced by psychedelics. 
+This effect has been demonstrated in rats given repeated doses of 
+LSD, psilocybin and 2,5-dimethoxy-4-methylamphetamine 
+(DOM) (Buckholtz et al., 1985, 1990; Leysen et al., 1989). 
+Opioid use causes increased 5-HT in several brain regions 
+including the dorsal striatum, diencephalon, medial prefrontal 
+cortex and ventral hippocampus, and polymorphisms of the 
+HTR2A gene are associated with heroin dependence (Muller, 
+2015). Frontolimbic 5-HT2A receptor binding positively corre-
+lates with exaggerated stress response and increased anxiety 
+(Frokjaer, 2008). Since anxiety and stress play key roles in drug 
+use relapse, downregulation of 5-HT2A receptors may play a role 
+in reducing stress-induced relapse to opioid use (Ross, 2012; 
+Sinha and Li, 2007). Additionally, serotonin modulates pain per-
+ception and nociceptive processing at multiple levels in the 
+peripheral and central nervous systems, although the role of 
+5-HT on nociceptive processing is not fully understood and 
+varies based on receptor subtype (Berger et al., 2009). 5-HT2A 
+receptor agonist DOM enhanced anti-nociceptive effects of mor-
+phine and showed modest anti-nociceptive effects when admin-
+istered alone in nonhuman primates (Li et al., 2011). Intrathecal 
+administration of 2,5-dimethoxy-4-iodoamphetamine also 
+reversed thermal hyperalgesia in a rat model of spinal nerve 
+ligation (Obata, 2001).
+When used in a clinical setting serotonergic psychedelics may 
+enable reduced opioid use by a two phase mechanism. During the 
+psychotherapy session, freedom from self and enhanced insight 
+may allow for reflection and metamorphosis of personality traits, 
+leading to initial drug abstinence (Nour et al., 2016). This process 
+may be facilitated by the potentially anti-nociceptive activity of 
+psychedelics at 5-HT2A receptors. Following the psychedelic-
+assisted therapy session, downregulated 5-HT2A receptors could 
+help patients avoid stress-related relapse and maintain substance 
+use goals set during the psychotherapy session.
+Figure 2. Logistic regression results of substance use history and meeting opioid abuse criteria in the past year. Squares are weighted risk ratio 
+point estimates and error bars are 95% confidence intervals. N = 44,678 respondents. Control variables include age, race, education, income, sex, 
+marital status, risky behavior and history of other illicit drug use. MDMA: 3,4-methylenedioxymethamphetamine; PCP: phencyclidine.
+Table 3. Logistic regression results of classic psychedelic use and endorsement of opioid dependence criteria.
+Dependence criteria
+NSDUH variable
+Psychedelic 
+nonusers
+%
+Psychedelic 
+users
+%
+Weighted RR
+95% CI
+p
+Spent time getting/using
+ANL/HERLOTTM
+1476
+2.6
+1854
+3.0
+0.66
+0.55–0.81
+<0.001
+Spent time getting over effects
+ANL/HERGTOVR
+154
+0.3
+129
+0.3
+0.65
+0.38–1.09
+NS
+Less activities due to use
+ANL/HERLSACT
+688
+1.2
+953
+1.7
+0.66
+0.53–0.83
+<0.001
+Unable to keep limits
+ANL/HERKPLMT
+2024
+3.6
+1484
+2.7
+0.74
+0.63–0.88
+0.001
+Unable to cut down/stop
+ANL/HERCUTEV
+2724
+4.3
+2006
+3.3
+0.74
+0.64–0.85
+<0.001
+Using same amount has less effect
+ANL/HERLESFX
+499
+1.0
+441
+0.9
+0.84
+0.62–1.13
+NS
+Need to use more for same effect
+ANL/HERNDMOR
+1426
+2.2
+1977
+3.2
+0.78
+0.65–0.94
+0.010
+Continued use despite emotional issues
+ANL/HEREMCTD
+625
+1.0
+966
+1.8
+0.71
+0.58–0.85
+0.001
+Continued use despite physical issues
+ANL/HERPHCTD
+81
+0.1
+107
+0.2
+1.28
+0.72–2.25
+NS
+3+ withdrawal symptoms
+ANL/HERWDSMT
+928
+1.5
+1263
+2.2
+0.74
+0.60–0.92
+0.007
+Past year dependence
+DEPNDANL/HER
+1039
+1.7
+1532
+2.6
+0.73
+0.60–0.89
+0.002
+Weighted percentages of the whole opioid use population rounded to the nearest 0.1%. N = 44,678 lifetime heroin or illicit prescription pain killer users. Control variables 
+include age, race, education, income, sex, marital status, risky behavior and history of other illicit drug use. NSDUH: National Survey of Drug Use and Health; RR: risk 
+ratio; CI: confidence interval; NS: not significant.
+000336
+000336
+241
+
+
+612 
+Journal of Psychopharmacology 31(5)
+There are several limitations to this analysis. All data on the 
+NSDUH survey is self-reported and thus subject to the respond-
+ents’ memory and truthfulness, resulting in potential misreport-
+ing. Additionally, the NSDUH target population consists of 
+non-institutionalized civilians and does not include data from 
+individuals on active military duty or residing in nursing homes, 
+hospitals, treatment centers or prisons. The exclusion of these 
+populations may impact reporting of less common drugs such as 
+heroin. Other underlying factors, not captured by the NSDUH, 
+could be responsible for decreased PPK and heroin use. 
+Individuals who choose to use psychedelics may be more spirit-
+ual or autognostic than non-users, indicating a drive for self-
+growth. Psychedelic users often report greater mysticism and 
+spirituality (Lerner and Lyvers, 2006), factors that are associated 
+with decreased suicide attempts and suicidal ideation in large 
+population studies (Rasic et al., 2011). A major limitation is the 
+NSDUH’s cross-sectional design, which prohibits drawing con-
+crete causal inferences.
+Despite these limitations, this study is the first to analyze the 
+association between classic psychedelic use history and opioid 
+abuse and dependence within a large population of illicit opioid 
+users. Although the use of cross-sectional data restricts inferring 
+psychedelic use directly decreases opioid misuse, the associa-
+tions are pervasive and significant. This analysis contributes to 
+the growing body of evidence suggesting psychedelic drug use is 
+correlated with positive psychological characteristics and may be 
+effective in treatment of substance use disorders.
+Acknowledgements
+The authors would like to thank Hendricks, Thorne, Clark, Coombs and 
+Johnson for their excellent work that served as an inspiration as well as 
+Eiko Strader at the University of Massachusetts Amherst for her generous 
+statistical advice. NSDUH data publicly available at http://www.icpsr.
+umich.edu/icpsrweb/ICPSR/series/64.
+Declaration of conflicting interests
+The author(s) declared no potential conflicts of interest with respect to 
+the research, authorship, and/or publication of this article.
+Funding
+The author(s) received no financial support for the research, authorship, 
+and/or publication of this article.
+References
+Abrams DI, Couey P, Shade SB, et al. (2011) Cannabinoid-opioid inter-
+action in chronic pain. Clin Pharmacol Ther 90: 844–851.
+Abuzzahab FS and Anderson BJ (1971) A review of LSD treatment in 
+alcoholism. Int Pharmacopsychiatry 6: 223–235.
+Amato L, Minozzi S, Davoli M, et al. (2011) Psychosocial and pharma-
+cological treatments versus pharmacological treatments for opioid 
+detoxification. Cochrane Database Syst Rev: CD005031.
+Bachhuber MA, Saloner B, Cunningham CO, et al. (2014) Medical can-
+nabis laws and opioid analgesic overdose mortality in the United 
+States, 1999–2010. JAMA Intern Med 174: 1668–1673.
+Ballantyne JC and Mao J (2003) Opioid therapy for chronic pain. N Engl 
+J Med 349: 1943–1953.
+Berger M, Gray JA and Roth BL (2009) The expanded biology of sero-
+tonin. Annu Rev Med 60: 355–366.
+Bogenschutz MP, Forcehimes AA, Pommy JA, et al. (2015) Psilocybin-
+assisted treatment for alcohol dependence: a proof-of-concept study. 
+J Psychopharmacol 29: 289–299.
+Buckholtz N, Freedman D and Middaugh L (1985) Daily LSD adminis-
+tration selectively decreases serotonin2 receptor binding in rat brain. 
+Eur J Pharmacol 109: 421–425.
+Buckholtz N, Zhou D, Freedman D, et al. (1990) Lysergic acid dieth-
+ylamide (LSD) administration selectively downregulates serotonin2 
+receptors in rat brain. Neuropsychopharmacology 3: 137–148.
+Dart RC, Surratt HL, Cicero TJ, et al. (2015) Trends in opioid analgesic 
+abuse and mortality in the United States. N Engl J Med 372: 241–248.
+Frokjaer VG, Mortensen EL, Nielsen FA, et al. (2008) Frontolimbic 
+serotonin 2A receptor binding in healthy subjects is associated with 
+personality risk factors for affective disorder. Biol Psychiatry 63: 
+569–576.
+Gasser P, Kirchner K and Passie T (2015) LSD-assisted psychotherapy 
+for anxiety associated with a life-threatening disease: A qualitative 
+study of acute and sustained subjective effects. J Psychopharmacol 
+29: 57–68.
+Grob CS, Danforth AL, Chopra GS, et al. (2011) Pilot study of psilocybin 
+treatment for anxiety in patients with advanced-stage cancer. Arch 
+Gen Psychiatry 68: 71–78.
+Grof S, Soskin RA, Richards WA, et al. (1973) DPT as an adjunct in 
+psychotherapy of alcoholics. Int Pharmacopsychiatry 8: 104–115.
+Halpern JH (1996) The use of hallucinogens in the treatment of addiction. 
+Addict Res 4: 177–189.
+Halpern J, Sherwood A, Passie T, et al. (2008) Evidence of health and 
+safety in American members of a religion who use a hallucinogenic 
+sacrament. Med Sci Monit 14: SR15–22.
+Haug NA, Sorensen JL, Lollo ND, et al. (2005) Gender differences 
+among HIV-positive methadone maintenance patients enrolled in a 
+medication adherence trial. AIDS Care 17: 1022–1029.
+Hendricks PS, Clark CB, Johnson MW, et al. (2014) Hallucinogen use 
+predicts reduced recidivism among substance-involved offenders 
+under community corrections supervision. J Psychopharmacol 28: 
+62–66.
+Hendricks PS, Thorne CB, Clark CB, et al. (2015) Classic psychedelic 
+use is associated with reduced psychological distress and suicidal-
+ity in the United States adult population. J Psychopharmacol 29: 
+280–288.
+Hser YI, Evans E, Huang D, et al. (2016) Long-term outcomes after ran-
+domization to buprenorphine/naloxone versus methadone in a multi-
+site trial. Addiction 111: 695–705.
+Jann M and Slade J (2007) Antidepressant agents for the treatment of 
+chronic pain and depression. Pharmacotherapy 27: 1571–1587.
+Johnson M, Richards W and Griffiths R (2008) Human hallucinogen 
+research: Guidelines for safety. J Psychopharmacol 22: 603–620.
+Johnson MW, Garcia-Romeu A, Cosimano MP, et al. (2014) Pilot study 
+of the 5-HT2AR agonist psilocybin in the treatment of tobacco 
+addiction. J Psychopharmacol 28: 983–992.
+Johnston LD, O’Malley PM, Bachman JG, et al. (2008) Monitoring the 
+Future National Survey Results on Drug Use, 1975–2007: Volume 
+II, College Students and Adults Ages 19–45. Bethesda: National 
+Institute on Drug Abuse.
+Lerner M and Lyvers M (2006) Values and beliefs of psychedelic drug 
+users: A cross-cultural study. J Psychoactive Drugs 38: 143–147.
+Leysen J, Janssen P and Niemegreers C (1989) Rapid desensitization and 
+down-regulation of 5-HT2 receptors by DOM treatment. Eur J Phar-
+macol 163: 145–149.
+Li JX, Koek W, Rice KC, et al. (2011) Effects of direct- and indirect-
+acting serotonin receptor agonists on the antinociceptive and 
+discriminative stimulus effects of morphine in rhesus monkeys. Neu-
+ropsychopharmacology 36: 940–949.
+Lu L, Su W, Yue W, et al. (2001) Attenuation of morphine dependence 
+and withdrawal in rats by venlafaxine, a serotonin and noradrenaline 
+reuptake inhibitor. Lifesciences 69: 37–46.
+McCabe SE, Cranford JA and West BT (2008) Trends in prescription 
+drug abuse and dependence, co-occurrence with other substance use 
+disorders, and treatment utilization: Results from two national sur-
+veys. Addict Behav 33: 1297–1305.
+000337
+000337
+242
+
+
+Pisano et al. 
+613
+Mattick RP, Breen C, Kimber J, et al. (2009) Methadone maintenance 
+therapy versus no opioid replacement therapy for opioid dependence. 
+Cochrane Database Syst Rev: CD002209.
+Mattick RP, Breen C, Kimber J, et al. (2014) Buprenorphine maintenance 
+versus placebo or methadone maintenance for opioid dependence. 
+Cochrane Database Syst Rev: CD002207.
+Minozzi S, Amato L, Vecchi S, et al. (2011) Oral naltrexone maintenance treat-
+ment for opioid dependence. Cochrane Database Syst Rev: CD001333.
+Mithoefer MC, Wagner MT, Mithoefer AT, et al. (2011) The safety and 
+efficacy of {+/-}3, 4-methylenedioxymethamphetamine-assisted 
+psychotherapy in subjects with chronic, treatment-resistant posttrau-
+matic stress disorder: The first randomized controlled pilot study. J 
+Psychopharmacol 25: 439–452.
+Muller CP and Homberg JR (2015) The role of serotonin in drug use and 
+addiction. Behav Brain Res 277: 146–192.
+Nichols DE (2004) Hallucinogens. Pharmacol Ther 101: 131–181.
+Nour MM, Evans L, Nutt D, et al. (2016) Ego-dissolution and psychedel-
+ics: Validation of the Ego-Dissolution Inventory (EDI). Front Hum 
+Neurosci 10: 269.
+Obata H, Saito S, Sasaki M, et al. (2001) Antiallodynic effect of intrathe-
+cally administered 5-HT2 agonists in rats with nerve ligation. Pain 
+90: 173–179.
+Oehen P, Traber R, Widmer V, et al. (2013) A randomized, controlled 
+pilot study of MDMA (+/- 3, 4-Methylenedioxymethamphetamine)-
+assisted psychotherapy for treatment of resistant, chronic Post-Trau-
+matic Stress Disorder (PTSD). J Psychopharmacol 27: 40–52.
+Palamar JJ, Salomone A, Vincenti M, et al. (2016) Detection of “bath salts” 
+and other novel psychoactive substances in hair samples of ecstasy/
+MDMA/“Molly” users. Drug and Alcohol Dependence 161: 200–205.
+Pugh G, Smith PB, Dombrowski DS, et al. (1996) The role of endoge-
+nous opioids in enhancing the antinociception produced by the com-
+bination of delta 9-tetrahydrocannabinol and morphine in the spinal 
+cord. J Pharmacol Exp Ther 279: 606–616.
+Rasic D, Robinson JA, Bolton J, et al. (2011) Longitudinal relationships of 
+religious worship attendance and spirituality with major depression, anxi-
+ety disorders, and suicidal ideation and attempts: Findings from the Balti-
+more epidemiologic catchment area study. J Psychiatr Res 45: 848–854.
+Ross S (2012) Serotonergic hallucinogens and emerging targets for 
+addiction pharmacotherapies. Psychiatr Clin North Am 35: 357–374.
+Savage C and McCabe OL (1973) Residential psychedelic (LSD) therapy 
+for the narcotic addict. Arch Gen Psychiatry 28: 808–814.
+Savage C, Savage E, Fadiman J, et al. (1964) LSD: Therapeutic effects of 
+the psychedelic experience. Psychol Reports 14: 111–120.
+Sinha R and Li CS (2007) Imaging stress- and cue-induced drug and alco-
+hol craving: association with relapse and clinical implications. Drug 
+Alcohol Rev 26: 25–31.
+Thomas G, Lucas P, Capler NR, et al. (2013) Ayahuasca-assiSted therapy 
+for addiction: Results from a preliminary observational study in Can-
+ada. Curr Drug Abuse Rev 6: 1–13.
+United States Department of Health and Human Services (2014) Results 
+from the 2013 National Survey on Drug Use and Health: Summary of 
+National Findings. Rockville: Substance Abuse and Mental Health 
+Services Administration.
+United States Department of Health and Human Services (2009) National 
+Survey of Drug Use and Health, 2008. Substance Abuse and Mental 
+Health Services Administration. Center for Behavioral Health Statis-
+tics and Quality. Ann Arbor: Inter-university Consortium for Politi-
+cal and Social Research.
+United States Department of Health and Human Services (2010) National 
+Survey of Drug Use and Health, 2009. Substance Abuse and Mental 
+Health Services Administration. Center for Behavioral Health Statis-
+tics and Quality. Ann Arbor: Inter-university Consortium for Politi-
+cal and Social Research.
+United States Department of Health and Human Services (2011) National 
+Survey of Drug Use and Health, 2010. Substance Abuse and Mental 
+Health Services Administration. Center for Behavioral Health Statis-
+tics and Quality. Ann Arbor: Inter-university Consortium for Politi-
+cal and Social Research.
+United States Department of Health and Human Services (2012) National 
+Survey of Drug Use and Health, 2011. Substance Abuse and Mental 
+Health Services Administration. Center for Behavioral Health Statis-
+tics and Quality. Ann Arbor: Inter-university Consortium for Politi-
+cal and Social Research.
+United States Department of Health and Human Services (2013) National 
+Survey of Drug Use and Health, 2012. Substance Abuse and Mental 
+Health Services Administration. Center for Behavioral Health Statis-
+tics and Quality. Ann Arbor: Inter-university Consortium for Politi-
+cal and Social Research.
+United States Department of Health and Human Services (2014) National 
+Survey of Drug Use and Health, 2013. Substance Abuse and Mental 
+Health Services Administration. Center for Behavioral Health Statis-
+tics and Quality. Ann Arbor: Inter-university Consortium for Politi-
+cal and Social Research.
+Van den Brink W and Haasen C (2006) Evidenced-based treatment of 
+opioid-dependent patients. Can J Psychiatry 51: 635–646.
+Wedham EF, Bigelow GE, Johnson RE, et al. (2007) QT-interval effects 
+of methadone, levomethadyl and buprenorphine in a randomized 
+trial. Arch Intern Med 167: 2469–2475.
+Zacny J, Bigelow G, Compton P, et al. (2003) College on Prob-
+lems of Drug Dependence taskforce on prescription opioid non- 
+medical use and abuse: position statement. Drug Alcohol Depend 69: 
+215–232.
+000338
+000338
+243

@@ -1,0 +1,1595 @@
+Vol.:(0123456789)
+1 3
+European Archives of Psychiatry and Clinical Neuroscience 
+https://doi.org/10.1007/s00406-021-01267-7
+INVITED REVIEW
+Effects of ayahuasca and its alkaloids on substance use disorders: 
+an updated (2016–2020) systematic review of preclinical and human 
+studies
+Lucas Silva Rodrigues1 · Giordano Novak Rossi1 · Juliana Mendes Rocha1 · Flávia L Osório1,2 · José Carlos Bouso1,3,4 · 
+Jaime E. Cecílio Hallak1,2 · Rafael G. dos Santos1,2,3 
+Received: 18 January 2021 / Accepted: 22 April 2021 
+© Springer-Verlag GmbH Germany, part of Springer Nature 2021
+Abstract
+Ayahuasca is a hallucinogenic/psychedelic traditionally used for ritual and therapeutic purposes. One such therapeutic use is 
+related to Substance Use Disorders (SUDs). A previous systematic review of preclinical and human studies published until 
+2016 suggested that ayahuasca and its alkaloids have therapeutic effects in the treatment of SUDs. To conduct an update of 
+this previous review. A systematic review of quantitative studies which analyzed the effects of ayahuasca and its alkaloids 
+on drug use (primary outcome) and other measures (secondary outcomes) related to SUDs was conducted, including articles 
+from 2016 to 2020. Nine studies (four preclinical, five observational) were included in the review. Preclinical studies in 
+rodents reported reductions in amphetamine self-administration and anxiety, and in alcohol- and methylphenidate-induced 
+conditioned place preference. Observational studies among healthy ritual ayahuasca users and patients with SUDs reported 
+reductions in drug use, anxiety, and depression, and increases in quality of life and well-being. We replicated the findings of 
+the previous review suggesting that ayahuasca and its alkaloids have therapeutic effects in the treatment of SUDs. However, 
+translation of preclinical data to humans is limited, observational studies do not allow us to infer causality, and there is a 
+lack of standardization on ayahuasca doses. Although promising, randomized, controlled trials are needed to better elucidate 
+these results. The PROSPERO ID for this study is CRD42020192046.
+Keywords  Hallucinogens · Psychedelics · Ayahuasca · Dimethyltryptamine · Harmine · Harmaline · Substance use 
+disorders
+Introduction
+Substance use disorders (SUDs) are among the most preva-
+lent psychiatric disorders, being associated with individual 
+(daily malfunctioning, less productive life) and public 
+(criminality, socioeconomic costs) health-related problems. 
+SUDs are chronic disorders characterized by relapses, com-
+pulsion to seek and consume substances, loss of control 
+of consumption, and the emergence of negative emotional 
+states such as irritability and dysphoria. They are often asso-
+ciated with physical and/or other mental health disorders, 
+such as anxiety and depression [1–5].
+SUDs can be caused by the use of commonly licit (such 
+as alcohol, tobacco, and prescription drugs) or illicit sub-
+stances (such as stimulants, opioids, and cannabinoids), with 
+varying degrees of negative consequences depending on the 
+drug, social and demographic characteristics of the user, 
+and/or availability [1–5]. Indeed, some researchers classify 
+alcohol and tobacco together with heroin and crack-cocaine 
+as the most harmful drugs for both the individual and soci-
+ety, whereas drugs such as cannabis and ecstasy show less 
+harm [5]. Alcohol and tobacco are more readily available 
+and are culturally accepted in most countries, which is 
+ *	 Rafael G. dos Santos 
+	
+banisteria@gmail.com
+1	
+Department of Neurosciences and Behavior, Ribeirão Preto 
+Medical School, University of São Paulo, Ribeirão Preto, 
+Brazil
+2	
+National Institute of Science and Technology, Translational 
+Medicine, Ribeirão Preto, Brazil
+3	
+ICEERS Foundation, International Center for Ethnobotanical 
+Education, Research and Services, Barcelona, Spain
+4	
+ Medical Anthopology Research Center, Universitat Rovira i 
+Virgili, Tarragona, Spain
+
+
+	
+European Archives of Psychiatry and Clinical Neuroscience
+1 3
+reflected in higher harm and incidence of problematic use. 
+Heroin and crack-cocaine, although less available and cultur-
+ally accepted, are often associated with compulsive use and 
+law and criminal problems [1, 4, 5].
+Current treatments for SUDs include individual or group 
+psychotherapy and/or psychiatric medications. Regarding 
+pharmacological treatments, nicotine replacement therapy 
+(bupropion and varenicline) is used for nicotine-related 
+disorders, methadone and buprenorphine are used to treat 
+opiate use disorders, and naltrexone, acamprosate, and 
+disulfiram are used in alcohol-related disorders. There are 
+no specific drugs to treat cannabis- and cocaine-related dis-
+orders. Although these treatments show some efficacy, the 
+pharmacological interventions available are not effective for 
+many patients and have key limitations such as daily dosing, 
+treatment adherence, and adverse effects [1, 4, 5]. Therefore, 
+it is necessary to explore new interventions that may be more 
+effective.
+Classic hallucinogens or serotoninergic psychedelics such 
+as ayahuasca, N,N-dimethyltryptamine (DMT), psilocybin, 
+and lysergic acid diethylamide (LSD) are drugs that produce 
+alterations in perceptions, mood, and cognition, and share 
+the same mechanism of action through agonism at corti-
+cal serotonin 5-HT2A receptors [6, 7]. Agonism at cortical 
+5-HT2A receptors is associated with increased neuroplasti-
+city in brain areas related to emotional processing, introspec-
+tion, and social cognition, and this seems to be especially 
+relevant for the therapeutic effects of these drugs [7–9].
+Previous studies with these drugs for the treatment of 
+SUDs performed in the early 1960s and 1970s showed prom-
+ising results [10]. A meta-analysis of six randomized con-
+trolled trials (involving a total of 536 subjects) conducted 
+between 1966 and 1970 evaluating the efficacy of LSD in the 
+treatment of alcoholism showed the treatment with a single 
+dose of LSD significantly reduced alcohol misuse for up to 
+three months [11]. More recently, the effects of psilocybin 
+were evaluated in two open-label studies: one for tobacco 
+[12, 13] and the other for alcohol [10, 14, 15] use disorders. 
+In the first study, smoking abstinence was observed up to six 
+months after psilocybin treatment, and abstinence after treat-
+ment was associated with mystical-type experiences [16]. 
+Moreover, persisting positive changes such as increased 
+esthetic appreciation, altruism, and pro-social behavior were 
+also reported 30 months after psilocybin sessions. Perceived 
+preparatory counseling, rapport with the therapeutic team, 
+and engagement in the treatment were considered key factors 
+in achieving abstinence [13]. In the second study, psilocy-
+bin treatment was associated with a significant reduction in 
+drinking days up to eight months after the treatment [14]. 
+Mystical-type experiences and intensity of subjective effects 
+were associated with improvements [10, 14, 15]. Corroborat-
+ing these clinical results, reductions in drug use in general 
+[17, 18] and in tobacco use specifically [19] have also been 
+reported in online surveys among hallucinogens/psych-
+edelics users of the general population (using both “full” 
+[17, 19], and “micro” [18] doses). In the tobacco study, 
+abstinence was mediated by spiritual experience, changed 
+priorities/values, and improved emotional regulation [19].
+Besides the promising results regarding drug use, these 
+substances have also shown the potential to treat depression 
+and anxiety symptoms, which often co-occur with SUDs 
+[20]. Two randomized trials assessed the effects of psilocy-
+bin for anxiety and depression in patients with cancer [21, 
+22] and two open-label trials assessed the effects of psilo-
+cybin in patients with depression [23, 24]. In all studies, 
+psilocybin treatment was associated with significant reduc-
+tions in symptoms of depression and anxiety from three to 
+six months after drug intake. Thus, these drugs could also 
+target these symptoms in SUDs.
+Another classic hallucinogen/psychedelic with possible 
+therapeutic use in the treatment of SUDs is ayahuasca. Aya-
+huasca is a hallucinogenic/psychedelic botanical drink used 
+for ritual and therapeutic purposes by indigenous tribes in 
+countries such as Brazil, Peru, Colombia, and Ecuador and 
+by syncretic religions such as Santo Daime, União do Veg-
+etal (UDV), and Barquinha present in South America and 
+worldwide [7]. The beverage is prepared by the decoction of 
+Banisteriopsis caapi and Psychotria viridis. B. caapi stalks 
+are rich in β-carbolines such as harmine, harmaline, and 
+tetrahydroharmine (THH), and P. viridis leaves contains the 
+psychedelic tryptamine DMT [25, 26]. When ingested orally, 
+DMT does not promote psychedelic effects due to degrada-
+tion by monoamine oxidase type A (MAO-A). However, the 
+β-carbolines extracted from B. caapi act as selective and 
+reversible MAO-A inhibitors, making it possible for DMT 
+to reach the Central Nervous System [25].
+Evidence from anthropological and observational studies 
+suggests that ritual and religious ayahuasca use is associated 
+with reductions in drug use and other drug-related prob-
+lems [27–31]. In these studies, increases in social bonds by 
+feeling part of a community and enduring participation in 
+communitarian activities (which are often intertwined with 
+enhanced spirituality) seem to be key factors involved in the 
+therapeutic potential of ayahuasca.
+A previous systematic review [32] of quantitative pre-
+clinical and human studies assessing the effects of ayahuasca 
+and its alkaloids regarding drug use and other measures 
+related to SUDs analyzed 10 studies: five preclinical [33–37] 
+and five observational studies [38–42]. Four [33–36] of the 
+preclinical studies used β-carbolines and only one [37] used 
+ayahuasca.
+In the preclinical studies, harmaline (10–40 mg/kg) 
+reduced cocaine and morphine self-administration in rats 
+[33], while harmine (5–10 mg/kg) reduced withdrawal 
+symptoms caused by naloxone in rats [34] and psychostim-
+ulant-related behavior in planarians (0.01–10 µM) [36]. 
+
+
+European Archives of Psychiatry and Clinical Neuroscience	
+1 3
+These effects could be related to the increased dopamine 
+efflux produced by harmine in the rat nucleus accumbens 
+shell, which was enhanced by cocaine co-administration 
+(260 ± 35%) [35]. Another preclinical study showed that 
+ayahuasca (30–500 mg/kg) reduced alcohol-induced hyper-
+locomotion and sensitization in mice [37].
+Regarding the observational studies previously described 
+[32], a retrospective assessment of the mental health of 37 
+UDV adolescent members and 43 controls did not find dif-
+ferences in lifetime drug use, but UDV adolescents had less 
+last-year and last-month alcohol use [39]. In a study assess-
+ing the psychosocial consequences related to continuous 
+ritual ayahuasca among 107 ritual ayahuasca users compared 
+with 115 non-ayahuasca users, significant reductions in alco-
+hol consumption, drug use, and psychiatric symptoms were 
+observed, which were sustained at a 12-month follow-up 
+[40]. Furthermore, two studies among patients with SUDs 
+that were treated in ritual/clinical settings using ayahuasca 
+showed sustained reductions in drug use, impulsivity, and 
+anxiety, with increased quality of life, spirituality, well-
+being, and neuropsychological improvements [41, 42].
+Taken together, the studies previously reviewed [32] 
+suggest that ayahuasca and its alkaloids were associated 
+with reduced drug use in animal models and observational 
+studies. Moreover, improvements in psychological (anxi-
+ety, impulsivity) and cognitive (quality of life, well-being) 
+measures related to SUDs were also observed. These results 
+are in line with a recent observational study among healthy 
+ritual ayahuasca users that reported significant reductions in 
+depression, improvements in quality of life, and less use of 
+prescription medications when compared with ayahuasca-
+naïve controls [43]. Furthermore, these results are corrobo-
+rated by open-label [44] and controlled [45] trials showing 
+that a single dose of ayahuasca significantly reduced depres-
+sive symptoms in patients with treatment-resistant depres-
+sion. Therefore, ayahuasca could also be beneficial in treat-
+ing co-occurring psychological and cognitive problems in 
+people with SUDs.
+Considering the above-mentioned studies, we updated the 
+previous systematic review [32] evaluating quantitative pre-
+clinical and human studies assessing the effects of ayahuasca 
+and its alkaloids on drug use (primary outcome) and other 
+psychological and cognitive measures (secondary outcomes) 
+related to SUDs.
+Methods
+The data for the present systematic review were collected 
+according to the guidelines for systematic reviews and meta-
+analysis (Preferred Reporting Items for Systematic Reviews 
+and Meta-Analyzes [PRISMA]) [46].
+Search strategy
+Electronic searches were performed for studies published in 
+the period from 01/01/2016 to 11/08/2020 on the Pubmed, 
+Psycinfo, Scielo, and LILACS databases. The following 
+keywords were used: (ayahuasca OR dimethyltryptamine 
+OR harmine OR tetrahydroharmine OR harmaline) AND 
+(dependence OR addiction OR substance use disorder OR 
+animals).
+Selection criteria and study selection
+The inclusion criteria were: (a) randomized and open-label 
+clinical studies using ayahuasca or any of its alkaloids in 
+the treatment of SUDs; (b) observational studies describing 
+the use of ayahuasca or any of its alkaloids in the treatment 
+of SUDs; (c) quantitative studies with a statistical analysis 
+comparing two or more groups at the same time or at least 
+two different time points in the same group; (d) studies that 
+used standardized instruments to assess the pattern of use of 
+associated substances or symptoms; (e) preclinical studies 
+using ayahuasca or any of its alkaloids in experimental mod-
+els of SUDs; (f) studies published between 2016 and 2020; 
+and (g) studies published in English, Spanish or Portuguese. 
+The exclusion criteria were studies used as results from the 
+previous review [32].
+Recorded variables, data extraction, and analysis
+For preclinical studies, the following data were extracted: 
+year of publication, study design, sample characteris-
+tics (types of animals used and sample size, weight, and 
+average age of the animals), substances used (ayahuasca, 
+β-carbolines, and DMT), and administration routes (intra-
+peritoneal or gavage). For human studies, the following 
+data were extracted: year and country of publication, study 
+design, sample characteristics (sample size, the gender of 
+volunteers, average age), and ayahuasca dose/treatment.
+Evaluation of selected studies
+To assess the quality of preclinical studies, the guide-
+lines and checklist of the Systematic Review Center for 
+Laboratory animal Experimentation (SYRCLES) were 
+used. This instrument was based on and adapted from the 
+Cochrance Collaboration RoB Tool and aims to evaluate 
+the methodological quality of studies of their risk of bias 
+[47]. To assess the quality of human studies, the check-
+list and guidelines for studies from the National Institutes 
+of Health (NIH) were used (https://​www.​nhlbi.​nih.​gov/​
+health-​topics/​study-​quali​ty-​asses​sment-​tools). Grading 
+was done by verifying the presence or absence of the infor-
+mation required on the checklist for each article. A “0” 
+
+
+	
+European Archives of Psychiatry and Clinical Neuroscience
+1 3
+indicates the information was absent and “1” indicates the 
+information was present. The overall score of each article 
+was calculated by dividing the sum of points by the dif-
+ference of the total number of points in each scale less the 
+not applicable (NA) points.
+Results
+Selected studies
+A flow diagram illustrating the different phases of the 
+articles selected for the systematic review is presented in 
+Fig. 1.
+Identification of studies
+The bibliographic search was performed in the Pubmed, 
+Scielo, Psycinfo and LILACS databases from January 1, 
+2016 to November 8, 2020, with 259 papers found in the 
+Articles not included
+(n = 242)
+Preclinical not related to SUDs (n = 90), preclinical without use
+of ayahuasca or its alkaloids (n = 46), studies with ayahuasca or
+its alkaloids not related to drug use or related symptoms (n = 
+34), studies not using ayahuasca or its alkaloids (n = 24), 
+literature review (n = 38), qualitative studies (n = 6), case
+report (n = 3), and letters to the editor (n = 1)
+n
+oita
+cifitn
+e
+d
+I
+ytlibigil
+E
+Articles after removing duplicates
+(n = 250)
+Selected articles for full text 
+reading (n = 9)
+Excluded articles
+No study was excluded in this stage
+of the process
+Additional studies identified
+throughout other sources
+(n = 1)
+d
+e
+d
+ulc
+n
+I
+Articles included in the qualitative
+synthesis (n = 9)
+Analyzed articles (n = 250)
+g
+nin
+e
+erc
+S
+Articles identified in the database (n
+= 259)
+Pubmed (n = 239), SciELO (n = 11), 
+Psycinfo (n = 0) e LILACS (n = 9)
+Fig. 1   Flowchart illustrating the stages of searching and selecting articles in the Pubmed, SciELO, Psycinfo and LILACS databases. SUDs: sub-
+stance use disorders
+
+
+European Archives of Psychiatry and Clinical Neuroscience	
+1 3
+first stage. After removing duplicates and reading the titles 
+and abstracts of the articles found, eight references were 
+selected for full reading considering the inclusion and exclu-
+sion criteria [48–55]. Another article was found while hand 
+searching the bibliography of selected papers [56]. After 
+full reading, no study was excluded, providing a total of 9 
+studies included in the systematic review. Of these, five were 
+human observational studies [48–50, 52, 53] and four were 
+preclinical studies [51, 54–56].
+Human studies
+The summary of the main information for all included 
+human studies is described in Table 1. The first study found 
+in the database search was conducted by Barbosa et al. [48] 
+designed as an observational cross-sectional case–control 
+study. This study investigated the psychological, neuropsy-
+chological functions, and substance use of 30 adult UDV 
+members in the United States, compared to 27 non-aya-
+huasca adults from the same region. The American version 
+of Nelson Adult Reading Test (AMNART), Stroop Color 
+and Word Test, Conner’s Continuous Performance Test 
+(CPT II), California Verbal Learning Test (CVLT), and the 
+Trail Making Test (TMT) were used to evaluate the neu-
+ropsychological functions of the volunteers. To analyze the 
+consumption of substances and psychological functions, 
+researchers used the Medical Outcome Study Short Form 
+(SF-36), the Big Five Inventory (BFI), Barratt Impulsive-
+ness Scale (BIS-11), Profile of Mood States (POMS), and 
+the Addiction Severity Index (ASI). Volunteers in the UDV 
+group scored significantly lower in depression (p = 0.043) 
+and confusion (p = 0.032) as indexed by the POMS scale, 
+while also showing higher scores on the personality traits 
+agreeableness (p = 0.028) and openness (p = 0.037) accord-
+ing to the BFI. The same group showed higher past use of 
+alcohol (p = 0.007) and cannabis (p = 0.001) with lower 
+recent alcohol consumption (p < 0.001) as assessed by the 
+ASI. The UDV group also scored better on memory vulner-
+ability to proactive interference (disruption of new memory 
+acquisition by interference from similar information that has 
+been learned previously) as assessed by CVLT (p = 0.040). 
+Lastly, the UDV group showed higher scores on the qual-
+ity life domain “role limitations due to physical health” as 
+assessed by the SF-36 (p = 0.035). It was also observed a 
+correlation between prolonged consumption of ayahuasca 
+and less alcohol consumption throughout life (p = 0.034). 
+AMNART, BIS-11, DUREL, DSES, CPT II, RCF, and 
+Stroop Color and Word Test showed no significant differ-
+ence. No adverse effects were reported [48].
+The second study found was conducted by Lawn et al. 
+[53] designed as an international cross-sectional online 
+survey between November 2015 and February 2016. This 
+study aimed to assess the well-being and problematic 
+alcohol consumption in a sample of 96,901 volunteers over 
+16 years old from different countries. The sample was com-
+prised of three different groups: ayahuasca users (n = 527), 
+classic psychedelics (LSD and psilocybin mushrooms) 
+users (n = 18,137) and non-users (n = 78,236). The Alcohol 
+Urge Identification Test (AUDIT) and Personal Wellbeing 
+Index (PWI) were used to assess the well-being and alcohol 
+consumption of the volunteers. The ayahuasca group pre-
+sented higher well-being compared to the group of classic 
+psychedelics users and non-users as assessed by the PWI 
+(p < 0.001). The ayahuasca group also scored lower on the 
+AUDIT for problematic alcohol consumption when com-
+pared to classic psychedelics users (p = 0.002), while scoring 
+higher on this scale when compared to non-users (p = 0.001). 
+There was a similar proportion of mental illness prevalence 
+(people who reported having ever been diagnosed with a 
+mental illness) between the ayahuasca (24%) and classic 
+psychedelics users (22.4%), with ayahuasca users presenting 
+a significantly higher proportion when compared with non-
+psychedelic users (18.8%, p < 0.001). The “negative effects 
+while high” were stronger for ayahuasca consumption when 
+compared to LSD (p < 0.002) and psychedelic mushrooms 
+(p < 0.001), but the authors did not distinguish in the survey 
+which negative effects were felt by the volunteers [53].
+Barbosa et al. [49] conducted a cross-sectional observa-
+tional study to assess the impact of ayahuasca use on alcohol 
+and tobacco consumption on UDV Brazilian members. The 
+study consisted of a sample of adult members (18+ years 
+old; n = 1947 with an average age of 39.85 years) from 
+the UDV from 10 different Brazilian states compared to a 
+control group composed of adults (18–34 years old) from 
+the general Brazilian population (n = 7939). Sampling was 
+acquired between March 2009 and August 2011. To analyze 
+the consumption of alcohol and tobacco, the Brazilian ver-
+sion of the Substance Abuse and Mental Health Services 
+questionnaire (SAMHSA) was used. The consumption of 
+alcohol and tobacco was higher for the UDV group when 
+compared to the general Brazilian population for the age 
+groups of 25–34 and over 34 years old (p < 0.001). However, 
+this was not observed for the age group between 18 and 24 
+years (p < 0.001). The UDV group had a lower prevalence 
+of disorders related to alcohol and tobacco consumption in 
+the 30 days prior to the data collection (p < 0.001). UDV 
+members with >3 years of association with the religion were 
+less likely to have consumed alcohol and tobacco in the last 
+12 months, in the last 30 days or to meet the criteria for 
+alcohol and tobacco consumption disorder when compared 
+with members with <3 years (p < 0.005) [49].
+Berlowitz et al. [50] conducted a study with a prospec-
+tive observational cohort design to assess the effects of aya-
+huasca on SUDs on males recently admitted to the Takiwasi 
+therapeutic center in Peru for a 3–12-month treatment. The 
+study focused on the severity of dependence, craving for 
+
+
+	
+European Archives of Psychiatry and Clinical Neuroscience
+1 3
+Table 1   Human studies of ayahuasca assessing drug use and related measures
+References
+Study design/location
+Samples
+Outcomes
+Main results
+Barbosa et al. [48]
+Cross-sectional case–control study
+Unites States
+30 adult UDV members compared to a 
+matched control group of 27 people that 
+had never consumed ayahuasca before
+Primary: recent drug use (ASI)
+Secondary: psychiatric symptoms 
+(POMS), health problems (SF-36), 
+personality (BFI), impulsivity (BIS-11), 
+religiosity/spirituality (DUREL, DSES), 
+cognition (AMNART, CPT II, CVLT, 
+ROCF, Stroop Color and Word Test)
+The UDV group showed lower recent 
+alcohol consumption (ASI), lower 
+scores in depression and confusion 
+(POMPS), higher scores on personality 
+(agreeableness and openness, BFI), and 
+better memory (CVLT) and fewer health 
+problems (SF-36). There was a correla-
+tion between prolonged consumption of 
+ayahuasca and less alcohol consumption 
+throughout life
+Lawn et al. [53]
+International online cross-sectional 
+drugs survey
+Several countries
+96,901 volunteers over 16 years old 
+divided into three different groups: aya-
+huasca users, classic psychedelics users, 
+and non-users
+Primary: alcohol use (AUDIT)
+Secondary: well-being (PWI)
+The ayahuasca group showed lower alcohol 
+use (AUDIT) and higher well-being 
+(PWI)
+Barbosa et al. [49]
+Cross-sectional study. Brazil
+1947 UDV compared to normative data 
+of the general Brazilian population as 
+controls (n = 7939)
+Primary: alcohol and tobacco use 
+(SAMHSA)
+The UDV group showed lower preva-
+lence of disorders related to alcohol and 
+tobacco in the last 30 days. Members 
+with > 3 years of UDV association 
+were less likely to consume alcohol 
+and tobacco in the last 12 months, 
+30 days, or meet criteria for alcohol and 
+tobacco disorders compared to members 
+with < 3 years or less of association
+Berlowitz et al. [50]
+Prospective cohort study
+Peru
+36 male volunteers from the Takiwasi 
+Therapy Center diagnosed with drug 
+abuse or dependence through DSM-IV 
+criteria
+Primary: drug use (ASI-5)
+Secondary: psychiatric symptoms (MINI), 
+emotional distress (HADS), substance 
+craving (CEQ), willingness to make 
+life changes (RCQ), quality of life 
+(WHOQOL-BREF)
+There was a significant decrease for 
+dependence severity, drug use, alco-
+hol use, psychiatric status, and social/
+familial relationships (ASI), emotional 
+distress (HADS) and substance craving 
+(CEQ) comparing the participants before 
+and after treatment. There was also a 
+significant increase in the quality of life 
+(WOQOL-BREF). RCQ showed that 
+most volunteers were willing to make life 
+changes
+
+
+European Archives of Psychiatry and Clinical Neuroscience	
+1 3
+substances, depressive and anxious symptoms, and qual-
+ity of life of the volunteers (n = 36 with an average age of 
+30.86 years old), one week after the final treatment day 
+(average test–retest interval: 215.6 days (SD = 84.7)). SUDs 
+were diagnosed via DSM-IV criteria. Researchers used the 
+Mini International Neuropsychiatric Interview (MINI) for 
+psychiatric assessment, the Hospital Anxiety and Depression 
+Scale (HADS) to assess emotional distress, the Addiction 
+Severity Index (ASI-5) to analyze the severity of dependence 
+symptoms, the Craving Experience Questionnaire (CEQ) to 
+measure the frequency of cravings for substances, the World 
+Health Organization Quality of Life-Bref (WHOQOL-
+BREF) to measure the quality of life, and the Readiness 
+to Change Questionnaire (RCQ) to measure the motivation 
+for changing lifestyle habits of the volunteers. There was a 
+significant decrease for the dependence severity outcomes 
+drug use (p < 0.001), alcohol use (p < 0.001), psychiatric sta-
+tus (p < 0.001), and social/familial relationships (p < 0.001) 
+(as indexed by the ASI), emotional distress (p < 0.001) (as 
+indexed by the HADS), and substance craving (p < 0.001) 
+(as indexed by the CEQ) when comparing the participants 
+from baseline to one week after the final treatment day. 
+There was also a significant increase in the quality of life 
+score as indexed by the WHOQOL-BREF (p < 0.001). RCQ 
+scale showed that most of the volunteers (61.1%) were will-
+ing to change life attitudes [50].
+The last study found was conducted by Giovannetti et al. 
+[52] with a prospective observational cohort design that 
+assessed the effectiveness of ayahuasca on symptoms of 
+depression and anxiety related to SUDs. The study was car-
+ried out with volunteers from the Takiwasi center in Peru 
+admitted between January 2016 and 2018 (all males, n = 32 
+with an average age of 32 years old). The Beck Depres-
+sion Inventory (BDI) and Beck Anxiety Inventory (BAI) 
+were used to assess depression and anxiety, the Treatment 
+Entry Questionnaire (TEQ) was used to measure motiva-
+tion to seek treatment, the Client Satisfaction Questionnaire 
+(CSQ) was used to analyze satisfaction with care received, 
+the WHOQOL-BREF were used to observe the subjects’ 
+quality of life, and the World Health Organization Qual-
+ity of Life-Spirituality, Religiosity and Personal Beliefs 
+subscale (WHOQOL-SRPB) was used to assess the vol-
+unteers’ beliefs. The BDI and BAI scores showed a statis-
+tically significant reduction in depressive (p < 0.001) and 
+anxiety (p < 0.002) symptoms when comparing before and 
+after treatment (mean treatment duration 6.5 months). There 
+was no statistical difference between the main drug abuse 
+groups, but volunteers with opioid dependence showed a 
+greater decrease in the scores of the BAI and BDI (p < 0.05). 
+A correlation was observed between the decrease in the 
+scores of the BAI and BDI with the satisfaction of the treat-
+ment as assessed by the CSQ (p < 0.02). An increase in the 
+quality of life and spirituality scores was found through the 
+AMNART​ American Version of Adult Reading Test; ASI Addiction Severity Index; ASI-5 Addiction Severity Index 5; AUDIT Alcohol use Disorder Identification Test; BAI Beck’s Anxiety 
+Inventory; BDI Beck’s Depression Inventory; BFI Big Five Inventory; BIS-11 Barratt Impulsiveness Scale; CEQ Craving Experience Questionnaire; CPT II Conner’s Continuous Performance 
+Test; CSQ Client Satisfaction Questionnaire; CVLT California Verbal Learning Test; DSES Daily Spiritual Experience Scale; DUREL Duke University Religion Index; HADS Hospital Anxiety 
+and Depression Scale; MINI Mini International Neuropsychiatric Interview; PWI Personal Wellbeing Index; POMS Profile of Mood States; RCQ Readiness to Change Questionnaire; ROCF 
+Rey Osterrieth Complex Figure Test; SAMHSA Substance Abuse and Mental Health Service; SF-36 Medical Outcome study Short Form; SUDS substance use disorders; TCI-R Temperament 
+and Character Inventory-Revisited; TEQ Treatment Entry Questionnaire; UDV União do Vegetal; WHOQOL World Health Organization Quality of Life-BREF; WHOQOL-SRPB World Health 
+Organization Quality of Life-SRPB
+Table 1   (continued)
+References
+Study design/location
+Samples
+Outcomes
+Main results
+Giovannetti et al. [56]
+Prospective cohort study. Peru
+31 male volunteers from the Takiwasi 
+Therapy Center diagnosed with SUDs
+Primary: anxiety (BAI) and depression 
+(BDI). Secondary: satisfaction with 
+treatment (CSQ), quality of life and 
+spirituality (WHOQOL-SRBP, WHO-
+QOL-BREF), treatment entry (TEQ)
+Mean scores showed a significant reduction 
+in depressive and anxiety symptoms (BDI 
+and BAI) between before and after the 
+treatment. There was a higher decrease 
+in the scores of BAI and BDI in patients 
+with opioid dependence. A correlation 
+between the decrease in BAI and BDI 
+scores with satisfaction of the treatment 
+(CSQ) and increase in quality of life and 
+spirituality was found (WHOQOL-SRBP 
+and WHOQOL-BREF)
+
+
+	
+European Archives of Psychiatry and Clinical Neuroscience
+1 3
+WHOQOL-SRBP and WHOQOL-BREF, correlating with 
+the decrease in depression and anxiety scores (p < 0.05) [52].
+The studies showed an average score of 60%, considered 
+medium to high in terms of quality. In the studies by Bar-
+bosa et al. [48, 49] and Lawn et al. [53], the most common 
+biases found were related to the size and power of the sam-
+ple, blinding of the researchers during the analysis of results, 
+and the data collection carried out in only one point of the 
+experiment (questions 5, 11 and 12). The biases identified 
+in the Berlowitz et al. [50] and Giovannetti et al. [52] stud-
+ies were related to lack of blinding during data collection, 
+absence of data collection at different time points, and rela-
+tively small sample sizes (questions 5, 8, and 11). The results 
+for the quality assessment for all included human studies are 
+presented in the Supplementary Material 1.
+Preclinical studies
+The summary of the main information for all included pre-
+clinical studies is described in Table 2. The first preclinical 
+study used an animal model of amphetamine self-admin-
+istration [56]. This study evaluated the effectiveness of 
+ayahuasca (2 mL/kg) in modifying the behavioral effects 
+(locomotion and anxiety) and self-consumption of ampheta-
+mine in rats. Animals were trained to ingest amphetamine 
+for 13 days with or without ayahuasca. Twenty-four hours 
+after the last day of treatment, locomotor activity and anxi-
+ety behaviors were evaluated using open-field arena (OP) 
+and the elevated plus-maze (EPM). The rats were divided 
+into four groups: control animals that received only water 
+(n = 15), amphetamine group that received 0.6 mg/mL of 
+amphetamine diluted in water (n = 15), ayahuasca group 
+that received ayahuasca (AYA) through gavage (n = 15), 
+and the amphetamine + ayahuasca group (n = 15). No sta-
+tistical difference was observed in water consumption by 
+animals in the control and ayahuasca groups. In the amphet-
+amine group, water consumption was significantly higher 
+(p < 0.05). Moreover, animals treated with ayahuasca con-
+sumed less water with amphetamine, suggesting that aya-
+huasca prevented the preference for amphetamine (p < 0.05). 
+Animals that consumed amphetamine showed an increase 
+in locomotor activity (p < 0.05) compared to the control 
+group. The amphetamine + ayahuasca group did not show 
+any significant difference in locomotor activity when com-
+pared to the control group, but presented less locomotor 
+activity when compared with the amphetamine only group 
+(p < 0.05). Animals that received amphetamine spent more 
+time in the closed arms of the elevated plus-maze (p < 0.05), 
+while animals that received ayahuasca + amphetamine spent 
+less time in the closed arms (p < 0.05) [56].
+Cata-Preta et al. [51] carried out a study in mice to 
+observe the effects of ayahuasca (30, 100, and 300 mg/
+kg), B. caapi extract (EBc) (132, 440, and 1320 mg/kg) 
+and of P. viridis extract (EPv) (3.75, 12.5, and 37.5 mg/
+kg) in a Conditioned Place Preference (CPP) paradigm 
+promoted by alcohol (1.8 g/kg). In this paradigm, a stim-
+ulus (in this case alcohol and ayahuasca) is associated 
+with a particular area the animal has access to, and by 
+measuring the amount of time the animal spends in that 
+area, researchers can infer the animal’s preference for the 
+stimulus. Ayahuasca and EBc were administered via gav-
+age, while EPv and alcohol were administered intraperi-
+toneally. The results showed that ayahuasca at the dose 
+of 100 mg/kg induced CPP (p < 0.05). Pretreatment with 
+ayahuasca blocked the development of CPP induced by 
+alcohol (p < 0.05). Ayahuasca in doses of 100 and 300 mg/
+kg decreased the alcohol-induced CPP effects when com-
+pared with the group treated with saline (p < 0.01). The 
+1320 mg/kg dose of EBc and 12.5 and 37.5 mg/kg doses 
+of EPv blocked expression of alcohol-induced CPP in the 
+alcohol-paired compartment (p < 0.05) [51].
+Another preclinical study in rats was conducted by 
+Nolli et al. [54] to assess voluntary alcohol consumption 
+and the expression of cFos protein expression (a marker 
+of strongly activated neurons) in brain areas related to 
+substance consumption. The animals were divided in 
+five groups: naltrexone (n = 11), ayahuasca 0.5 (0.26 mL/
+kg) (Aya0.5, n = 10), ayahuasca 1 (0.53 mL/kg) (Aya1, 
+n = 11), ayahuasca 2 (1.06 mL/kg) (Aya2, n = 12) and 
+controls (n = 10). During the experimental sessions, nal-
+trexone and alcohol were administered intraperitoneally 
+and ayahuasca was administered by gavage. To analyze 
+alcohol consumption, the researchers placed the animals 
+in separate cages with bottles containing water or alcohol 
+and weighed the bottles before and after each experimen-
+tal session. In addition, in each experimental session, the 
+researchers exchanged the vials to avoid preference bias. 
+The cFos expression analysis was made in brain areas 
+associated with substance use and SUDs, including the 
+medial orbital cortex (MO), lateral orbital cortex (LO), 
+ventral orbital cortex (VO), nucleus accumbens (NAc), and 
+the caudal putamen (CPu). The naltrexone group showed 
+a significant reduction in alcohol intake when compared 
+with the control group (p < 0.05). Alcohol significantly 
+increased the expression of cFos in the MO in the control 
+(p < 0.0001), naltrexone (p < 0.05), Aya1 (p < 0.001), and 
+Aya2 (p < 0.0001) groups. This increase was also observed 
+in the VO for Aya1 (p < 0.05) and in the LO for Aya2 
+(p < 0.01). An increase in cFos levels was also observed 
+in the NAc of the Aya1, Aya2, and naltrexone groups 
+(p < 0.005). cFos expression was significantly lower in 
+the naltrexone (p < 0.05) and Aya0.5 (p < 0.01) groups in 
+the MO compared with the control group, but only in the 
+ayahuasca group levels achieved those the of animals not 
+exposed to ethanol. There was no reduction of alcohol 
+consumption in the three ayahuasca treatment groups [54].
+
+
+European Archives of Psychiatry and Clinical Neuroscience	
+1 3
+Table 2   Preclinical studies assessing the effects of ayahuasca on rodent models of drug use and related measures
+Reference
+Study design
+Sample
+Substances/doses
+Routes of administration
+Main results
+Godinho et al. [56]
+Self-ingestion of amphetamine, 
+locomotor activity and anxiety 
+behaviors
+Animals: 60 Wistar rats with 
+22 days old. Divided in 
+control (n = 15), amphetamine 
+(n = 15), ayahuasca (n = 15), 
+and ayahuasca + amphetamine 
+(n = 15)
+Amphetamine (0.6 mg/mL) and 
+ayahuasca (2 mL/Kg)
+Amphetamine diluted in water 
+bottle and ayahuasca adminis-
+tered thought gavage
+Ayahuasca prevented preference 
+for amphetamine reduced the 
+increased locomotor activity 
+produced by amphetamine. 
+Amphetamine caused the 
+animals to spend more time in 
+the closed arms of the elevated 
+plus-maze, with ayahuasca 
+administration reversing this 
+effect
+Cata-Preta et al. [51] CPP
+Animals: Male swiss mice.
+Age: 3 months 
+5–7 animals allocated per cage
+Ayahuasca in dose of 30, 100 
+and 300 mg/kg, Banisterio-
+psis caapi extract (EBc) in 
+dose of 132, 440, 1320 mg/
+kg, Psichotrya viridis extract 
+(EPv) in dose of 3.75, 12.5 
+and 37.5 mg/kg and alcohol at 
+the dose of 1.8 g/kg
+Ayahuasca, EBc and saline (as 
+control for treatments) were 
+administered through gavage. 
+EPv, alcohol and saline (as 
+control for alcohol CPP) were 
+administered intraperitoneally
+Ayahuasca (100 mg/kg) induced 
+CPP, and pretreatment with 
+ayahuasca blocked the devel-
+opment of CPP induced by 
+alcohol. Ayahuasca (100 and 
+300 mg/kg) decreased the 
+alcohol-induced CPP effects 
+when compared with the group 
+treated with saline. The EBc 
+(1320 mg/kg) and EPv (12.5 
+and 37.5 mg/kg) blocked 
+expression of alcohol-induced 
+CPP in the alcohol-paired 
+compartment
+Nolli et al. [54]
+Self-administration
+Animals: 60 Male Wistar rats
+Weight: 250 g divided in control 
+(n = 12), naltrexone (n = 12), 
+ayahuasca0.5 (n = 12), 
+ayahuasca1x (n = 12), and 
+ayahuasca2x (n = 12)
+2 mg/kg naltrexone, 20% alco-
+hol solution, and ayahuasca 
+(0.26 mL/kg or Aya0.5, 
+0.53 mL/kg or Aya1, and 
+1.06 mL/kg or Aya2
+Alcohol was self-administered 
+orally, naltrexone was admin-
+istered intraperitoneally, and 
+ayahuasca was administered 
+through gavage
+Naltrexone significantly reduced 
+alcohol intake. There was an 
+increase in cFos expression in 
+the MO in the control, naltrex-
+one, Aya1, and Aya2 groups 
+by alcohol; in the VO in the 
+Aya1 group; and in the LO in 
+the Aya2 group. There was also 
+an increase in cFos expression 
+in the NAc in the Aya1, Aya2 
+and naltrexone groups, with a 
+remission of cFos expression in 
+naltrexone and Aya0.5 groups
+
+
+	
+European Archives of Psychiatry and Clinical Neuroscience
+1 3
+The study conducted by Reis et al. [55] investigated the 
+effects of ayahuasca treatment (100 mg/kg administered via 
+gavage) on the reward properties of methylphenidate (10 mg/
+kg administered intraperitoneally) in mice using the CPP 
+paradigm. The study also assessed the expression of Fos pro-
+tein in limbic regions associated with the behavioral effects 
+of drugs of abuse (cingulate cortex, pre-limbic cortex, infral-
+imbic cortex, frontal orbit cortex, shell and center of the 
+NAc, ventral tegmental area, dorsal striatum, and basolateral 
+amygdala). Both substances induced CPP behavior, but this 
+effect was greater for methylphenidate than for ayahuasca 
+(p < 0.05). When testing the effects of treatment with aya-
+huasca or methylphenidate on the CPP paradigm, methylphe-
+nidate significantly decreased the expression of Fos protein 
+in the cingulate cortex area-1 (Cg1) (p < 0.02), prelimbic 
+cortex (PrL) (p < 0.0001), and frontal orbital cortex-orbito 
+lateral area (OFC-LO) (p < 0.002) in the post-conditioning 
+test compared with the preconditioning test. Conditioning 
+with methylphenidate, but not ayahuasca, also increased Fos 
+expression in the NAc shell (p = 0.0029) and dorsal striatum 
+(p = 0.0017). Conditioning with both ayahuasca and methyl-
+phenidate increased Fos expression in the infralimbic cortex 
+(p < 0.0001) and the NAc core (p = 0.0001). Conditioning 
+only with ayahuasca decreased Fos expression in the basolat-
+eral amygdala (p < 0.0001). Fos expression was not altered in 
+the ventral tegmental area by ayahuasca or methylphenidate. 
+When testing the effects of ayahuasca treatment on the rein-
+statement of methylphenidate-induced CPP, the group exposed 
+to methylphenidate and treated with ayahuasca showed 
+reduced CPP behavior when compared with the non-treated 
+group (p = 0.01). Ayahuasca treatment restored Fos expres-
+sion back to baseline (preconditioning test) levels in the Cg1 
+(p < 0.0001), PrL (p = 0.0001), and OFC-LO (p = 0.0009). 
+After re-exposure to methylphenidate, this effect of was 
+maintained in all three brain regions. Moreover, ayahuasca 
+treatment prevented an increase of Fos levels in the NAc shell 
+(p < 0.0008) and core (p < 0.0001) [55].
+The studies showed an average score of 39%, considered 
+low to moderate quality. The biases most prevalent according 
+to the quality instrument were the absence of randomization 
+in the group allocations of animals (question 1), randomiza-
+tion of the interventions administered to animals (questions 
+4 and 5), absence of animals’ data collection randomization, 
+and absence of researchers’ blinding to treatments (questions 
+6 and 7). The quality assessment for all included preclinical 
+studies is presented in the Supplementary Material 2.
+Discussion
+In the present systematic review, all preclinical studies 
+reported mostly positive results, including reductions in 
+amphetamine self-administration and anxiety [56] and in 
+Cg1 cingulate cortex area-1; CPP conditioned place preference; LO lateral orbital cortex; MO medial orbital cortex; NAc core nucleus accumbens core; NAc shell nucleus accumbens shell; 
+OFC-LO orbitofrontal cortex-lateral orbital cortex; PrL prelimbic cortex; VO orbital lateral cortex
+Table 2   (continued)
+Reference
+Study design
+Sample
+Substances/doses
+Routes of administration
+Main results
+Reis et al. [55]
+CPP
+Animals: Male Swiss mice
+Age: 3 months
+5–7 animals allocated per cage
+10 mg/kg methylphenidate and 
+10 mL/kg ayahuasca. Both 
+drugs were administered 
+diluted in 0.9% saline as 
+vehicle solution
+Methylphenidate and saline 
+were administered intraperi-
+toneally and ayahuasca was 
+administered through gavage
+Both substances induced CPP 
+behavior, which was greater for 
+methylphenidate. Methylphe-
+nidate decreased levels of Fos 
+in Cg1 PrL and OFC-LO in 
+the post-conditioning test. The 
+group exposed to methylpheni-
+date and treated with ayahuasca 
+showed reduction in CPP 
+behavior. Ayahuasca prevent 
+an increase of Fos levels in the 
+NAc shell and NAc core after 
+re-exposure to methylpheni-
+date and the remission in Fos 
+expression in Cg1, PrL and 
+OFC-LO
+
+
+European Archives of Psychiatry and Clinical Neuroscience	
+1 3
+alcohol- and methylphenidate-induced CPP [51, 55], and 
+inhibition of some alcohol- and methylphenidate-induced 
+modifications of cFos/Fos protein expression [54, 55]. The 
+quality of the studies was low to moderate. On the other 
+hand, ayahuasca also induced CPP in some of the dosages 
+tested [51, 55], and did not reduce alcohol consumption 
+[54]. Observational studies were conducted among ritual 
+ayahuasca users [48, 49], patients with SUDs [50, 52], and 
+classic hallucinogen/psychedelic users of the general popula-
+tion [53]. Overall, results were also mostly positive, includ-
+ing reductions in drug use [48–50, 53] and in anxiety and 
+depression [48, 52], personality changes,48 and increases 
+in quality of life and well-being [50, 52, 53]. Contrastingly, 
+some studies reported greater lifetime substance use and 
+mental health disorders in ayahuasca users compared to 
+controls [49, 53]. The quality of the articles was medium 
+to high.
+Our results were similar to those described in our previ-
+ous systematic review by Nunes et al. [32], but a significant 
+difference between reviews was observed regarding preclini-
+cal studies: in the first review most studies used isolated 
+β-carbolines [33–36] and only one study used ayahuasca 
+[37]. As in the present review, results were mostly posi-
+tive, including reductions in self-administration of cocaine 
+and morphine [33], opioid withdrawal [34], alcohol-induced 
+behavior [37] in rodents, and reduced C-shape responses 
+to psychostimulants in planarians [36]. As in the present 
+review, observational studies in the previous review were 
+also conducted among ritual ayahuasca users [38–40] and 
+patients with SUDs [41, 42] with positive results (i.e., reduc-
+tions in drug use and psychiatric symptoms with increases 
+in quality of life).
+Regarding observational studies, in the present review 
+two observational studies showed that alcohol and tobacco 
+consumption by UDV members was higher throughout life 
+when compared to controls, but recent consumption (last 
+30 days and 12 months) of these substances and related 
+disorders was lower [48, 49]. This corroborates a previ-
+ous study that showed higher consumption of cocaine and 
+tobacco throughout life by UDV teenagers compared to a 
+control group, with decreased consumption of substances 
+such as amphetamines, alcohol, and tobacco in the period of 
+the last 30 days–12 months at the time they participated in 
+the research [39]. In comparison with these results, an open-
+label study with 10 volunteers carried out with psilocybin 
+showed remission in heavy and daily alcohol consumption 
+after the administration of the drug during an eight-month 
+follow-up [14]. The researchers correlated the effects of 
+remission on alcohol consumption with the quality of the 
+experience promoted by psilocybin. However, despite the 
+promising results from this study, it is important to note 
+its limitations, such as the lack of a control group, blinding 
+of the researchers and sample size [14]. Moreover, as with 
+the study with UDV teenagers, despite the promising data 
+collected by Barbosa et al. [48, 49] this evidence needs to 
+be observed with caution considering that the studies are 
+observational and that the data collected were from members 
+of a religion which uses ayahuasca as a sacrament (possible 
+positive bias and difficulty in elucidating whether the ben-
+eficial effects are caused by ayahuasca or the environment 
+in which the volunteers were inserted).
+Lawn et al. [53] reported a decrease in problematic alco-
+hol consumption in ayahuasca users in the previous year 
+when compared with users of other serotoninergic psych-
+edelics (psilocybin and LSD), and greater alcohol intake 
+when compared to the group of volunteers who did not con-
+sume any of the psychedelics. Regarding the well-being of 
+the volunteers, ayahuasca users showed greater well-being 
+when compared to both groups. Similar data were found in 
+a survey among recreational users of hallucinogens/psyche-
+delics carried out by Garcia-Romeu et al. [17], who reported 
+a decrease in the consumption of opioids, stimulants, and 
+cannabis after using LSD and psilocybin. In addition, both 
+studies corroborate data found in the online cross-sectional 
+study by Johnson et al. [19], which showed abstinence or 
+remission in the use of tobacco by study volunteers after 
+consuming serotoninergic psychedelics.
+Despite the promising data observed by these research-
+ers, it is important to note some limitations present in these 
+studies, such as their observational design, the retrospective 
+nature of the data, and possible omissions in the amount of 
+alcohol or tobacco reported to have been consumed by the 
+volunteers. Also, the study samples were self-selected, so 
+it is not a representative sample of drug users of the global 
+population. Moreover, it is important to notice that the life-
+time substance use of the volunteers from some studies was 
+greater than that of controls [49, 53]. Nevertheless, a possi-
+ble explanation for this fact is that ayahuasca is traditionally 
+used with healing and medicinal purposes (different from 
+usual LSD and psilocybin use), so people who have sub-
+stance use problems may search specifically for ayahuasca 
+in search of treatment. In fact, the results from the studies 
+reviewed point in this direction, where recent (months to a 
+year prior to data collection) drug use is reduced when com-
+paring frequent ayahuasca users with other psychedelic users 
+and the general population, even in cases where ayahuasca 
+users showed greater lifetime substance use [49, 53]. The 
+same reasoning may apply to the grater prevalence of mental 
+health disorders in the ayahuasca group when compared with 
+controls [53].
+Two studies in the present review described patients diag-
+nosed with SUDs that were treated at the Takiwasi center in 
+Peru, a healing center that uses ayahuasca and other Ama-
+zonian plants and healing methods in a prolonged treat-
+ment program [50, 52]. Results of both studies showed a 
+significant reduction of drug use by these patients, especially 
+
+
+	
+European Archives of Psychiatry and Clinical Neuroscience
+1 3
+for alcohol and opiates. Moreover, there was a significant 
+improvement in the quality of life, craving for substances, 
+emotional stress, and a reduction in the mean scores of 
+depression and anxiety symptoms [50, 52]. These results 
+corroborate data from previous studies performed in heal-
+ing contexts [41, 42], where a significant reduction in the 
+consumption of tobacco, alcohol and cocaine was observed. 
+However, besides being observational, all these studies were 
+performed in the context of multiple healing practices that 
+used other therapeutic techniques in the mid to long term, 
+making it difficult to separate the effects caused by therapy 
+from those of ayahuasca.
+Regarding personality measures assessed in the reviewed 
+studies, UDV members scored higher on the agreeableness 
+and openness traits of the BFI [48]. It is difficult to establish 
+the causative role that ayahuasca could have on the personal-
+ity, since these traits could already be present. For instance, 
+agreeableness, openness, self-transcendence, compassion, 
+and spiritual acceptance could render those participants 
+more prone to use hallucinogens/psychedelics. In any case, 
+the role of those substances in the modulation of personality 
+traits is still poorly investigated [59].
+Regarding preclinical studies, in the present review, two 
+rodent models showed that ayahuasca reduced CPP for alco-
+hol [51] and methylphenidate [55]. In the alcohol study, 
+pretreatment with ayahuasca (100 and 300 mg/kg), the B. 
+caapi (1320 mg/kg), and P. viridis (12.5 and 37.5 mg/kg) 
+extracts decreased alcohol-induced CPP, while the 30 mg/
+kg ayahuasca dose did not produce significant effects and 
+the 100 mg/kg dose also induced CPP [51]. Interestingly, 
+in the methylphenidate study, the 10 mg/kg ayahuasca dose 
+induced CPP (which was greater for methylphenidate) and 
+reduced the methylphenidate-induced CPP [55]. These 
+results corroborate findings from a previous study in which 
+a reduction in alcohol-induced behavior was observed when 
+animals were treated with ayahuasca doses of 300–500 mg/
+kg [37]. These results indicate the possible antiaddictive 
+properties of ayahuasca, since it diminished the preference 
+of the animals to areas associated with alcohol and meth-
+ylphenidate consumption. The differences in significant 
+dosages observed between studies could be related to study 
+design and drugs evaluated (alcohol vs. methylphenidate). 
+Ayahuasca-induced CPP could be due to increased dopamine 
+flow in the Nac produced by harmine [35]. Together, these 
+results suggest that ayahuasca and its alkaloids could have 
+beneficial effects in alcohol- and psychostimulant-related 
+disorders.
+Similar effects were seen in other preclinical trials using 
+rats to assess the effectiveness of harmine in self-consump-
+tion of morphine and cocaine [33], withdrawal symptoms 
+from morphine [34], and efficacy of harmine in inhibiting 
+psychostimulant responses (cocaine, methamphetamine, 
+mephedrone, and nicotine) in planarians [36]. The reduced 
+consumption of these substances suggest that the adminis-
+tration of ayahuasca or harmine seems to decrease the rein-
+forcement effects caused by them [33, 34, 36, 56].
+Moreover, ayahuasca generally blocked the modifications 
+of cFos/Fos protein expression (a marker of strongly acti-
+vated neurons) produced by alcohol and psychostimulants 
+[54, 55], and reduced amphetamine self-administration and 
+anxiety and locomotor activity [56]. Nolli et al. [54] showed 
+that alcohol increased the expression of the cFos protein 
+in brain regions related to SUDs in animals, such as the 
+orbital medial cortex, orbital ventral cortex, lateral orbital 
+cortex, and the nucleus accumbens of animals. Ayahuasca 
+also increased cFos expression in those areas, but animals 
+exposed to alcohol and treated with ayahuasca showed 
+decreased cFos expression. These results suggest a protec-
+tive effect of ayahuasca in this region, at least at low lev-
+els, since higher ayahuasca doses did not show any impact 
+on cFos levels caused by alcohol exposure. In the study by 
+Reis et al. [55], ayahuasca blocked most of the changes in 
+Fos expression induced by conditioning with methylpheni-
+date and/or re-exposure to this drug. Moreover, while aya-
+huasca had limited effects on Fos expression, methylphe-
+nidate modified it in several brain regions associated with 
+the behavioral effects of drugs of abuse. This result indicate 
+that the rewarding properties of methylphenidate are more 
+prominent. The above-mentioned effects could be due to 
+the effects of ayahuasca on dopaminergic, glutamatergic, 
+and serotoninergic neurotransmission in those areas [57, 
+58]. Future studies should explore other dosages and drugs 
+to better understand the effects of ayahuasca on cFos/Fos 
+expression.
+SUDs are complex and multifactorial disorders that need 
+a treatment model which targets not only the individual at 
+a bio-psychological level, but also his/her social network, 
+attitudes/behaviors, and family. The possible mechanisms 
+of the therapeutic effects of ayahuasca in SUDs are not fully 
+understood. From a neurochemical perspective, agonism at 
+cortical 5-HT2A expressed in brain areas related to emotional 
+processing, introspection, and social cognition, together with 
+increased neuroplasticity, are possible mechanisms [7–9]. 
+The effects of these drugs in limbic and frontal structures 
+could be associated with the increases in cFos/Fos expres-
+sion observed in rodent models of SUDs [54, 55]. These bio-
+chemical alterations could be responsible for improvements 
+in emotional regulation, cognitive flexibility, and disruption 
+of repetitive and negative thoughts.
+Moreover, the evidence on the positive effects of harmine, 
+harmaline, and ayahuasca in preclinical models from pla-
+narians to rodents using drugs as diverse as alcohol and 
+amphetamine (reviewed by Nunes et al. [32] and in the pre-
+sent review) suggest a strong biological basis for the thera-
+peutic effects of these substances in SUDs. This perspective 
+is further reinforced by a recent study in mice showing that 
+
+
+European Archives of Psychiatry and Clinical Neuroscience	
+1 3
+LSD reduced alcohol consumption and preference, with 
+reductions sustained for 46 days [60]. However, a recent 
+study in rats failed to find long-lasting effects of high (two 
+doses one week apart) and micro (two doses per week for 
+four-weeks) doses of LSD and psilocybin in alcohol relapse, 
+although they observed a short-lasting anti-relapse effect 
+with sub-chronic treatment (five doses across three days) 
+with psilocybin [61]. To the best of our knowledge, these are 
+apparently the only published work on the effects of LSD/
+psilocybin on the self-administration of abused substances 
+in animals. However, rodent studies with administration of 
+other 5-HT2A agonists also reported reductions of drug (e.g., 
+alcohol, opiates, nicotine) preference and self-administration 
+[62–65]. Nevertheless, although animal models related to 
+SUDs are promising, it is not clear to which extend they 
+are able to model the therapeutic potential of hallucinogens/
+psychedelic in humans.
+At the psychological level, mystical-type experiences and 
+the intensity of the subjective effects were associated with 
+improvements in open-label clinical trials [12, 14–16], while 
+spiritual experience, changed priorities/values, and improved 
+emotional regulation during tobacco abstinence among hal-
+lucinogens/psychedelics users of the general population in 
+an online survey have also been reported [19]. Perceived 
+preparatory counseling, rapport with the therapeutic team, 
+and engagement in the treatment were key factors in achiev-
+ing drug abstinence after psilocybin sessions, which were 
+accompanied by persisting (30 months after psilocybin ses-
+sions) positive changes including increased esthetic appre-
+ciation, altruism, and pro-social behavior [13]. Furthermore, 
+positive changes in personality were also verified in obser-
+vational studies [48]. Importantly, although these are com-
+plex psychological processes, human studies are showing 
+increasing evidence that they are 5-HT2A-mediated [57, 59].
+In the culture/social level, observational studies con-
+ducted since the early 1990s suggest participation in syn-
+cretic ayahuasca religions and treatment of SUDs with aya-
+huasca in specialized clinics are associated with a reduction 
+in drug misuse and related problems [27–29, 31]. These 
+studies suggest that increases in social bonds and spiritu-
+ality are important mediators of the therapeutic effects of 
+ayahuasca. More recently, we reported that Spanish ritual 
+ayahuasca users had higher scores on psychosocial adjust-
+ment, stress coping strategies, and indicators of social sup-
+port compared with the general population [66]. These fac-
+tors could be important mediators of improvement in SUDs. 
+More studies are needed to clarify the mechanisms involved 
+in the therapeutic effects of classic hallucinogens/serotonin-
+ergic psychedelics, at the individual and social level.
+Regarding the limitations of this review, there are impor-
+tant points that need to be mentioned. A total of nine studies 
+were found, which is a small sample. Four studies were pre-
+clinical trials with low to moderate quality. Most limitations 
+were related to bias during the allocation of animals to the 
+designated groups (selection bias), absence of randomiza-
+tion of substance administration to animals, blinding of the 
+researchers themselves (performance bias), and the absence 
+of randomization of the animals chosen for data analysis 
+(detection bias). Moreover, it is difficult to translate/extrapo-
+late the data found in these studies to humans. The other 
+five studies were observational studies with medium to high 
+quality. However, results need to be carefully evaluated since 
+causality cannot be established. Furthermore, two studies 
+[50, 52] were carried without a control group and in a thera-
+peutic center with multiple therapeutic techniques applied 
+together with ayahuasca. Thus, it is difficult to attribute any 
+positive results to a single event. Furthermore, other stud-
+ies were conducted among members of religions who use 
+ayahuasca as a sacrament. Therefore, it is difficult to infer 
+if the therapeutic effects are produced by ayahuasca or the 
+context. Further limitations include small samples, lack of 
+prolonged follow-ups, and wide variation in ayahuasca doses 
+and frequency of use.
+Conclusions
+Preclinical and observational studies suggest that the aya-
+huasca may have therapeutic effects in the treatment of 
+SUDs. Although the majority of the volunteers who com-
+posed the samples of the studies had a higher consumption 
+of substances (mainly alcohol and tobacco) relative to the 
+control groups, this consumption was lower in the last year 
+prior to their participation in the studies. In addition, aya-
+huasca also increased quality of life and reduced depres-
+sive and anxiety symptoms. In studies with animal models, 
+the data suggest that ayahuasca can promote CPP blocking 
+induced by alcohol and promote remission in the self-con-
+sumption of amphetamine diluted in water. Preclinical data 
+also suggest that ayahuasca promotes remission of cFos pro-
+tein expression in brain regions related to drug dependence.
+Despite the promising effects reported in this systematic 
+review, it is important to mention that the studies have limi-
+tations, such as preclinical studies, observational designs, 
+and small sample sizes. Moreover, some of the data were 
+collected from volunteers who used ayahuasca as a sacra-
+ment, which could be biased. Because of this, greater meth-
+odological rigor is required to avoid the risk of bias in future 
+research with ayahuasca or other serotoninergic hallucino-
+gens. Finally, no clinical trials were found in the present 
+review. Future randomized, placebo-controlled clinical tri-
+als are needed to replicate the data found in this systematic 
+review.
+Supplementary Information  The online version contains supplemen-
+tary material available at https://​doi.​org/​10.​1007/​s00406-​021-​01267-7.
+
+
+	
+European Archives of Psychiatry and Clinical Neuroscience
+1 3
+Funding  LSR, GNR and JMR received funding from Conselho 
+Nacional de Desenvolvimento Científico e Tecnológico (CNPq, Brazil). 
+FLO is recipient of Conselho Nacional de Desenvolvimento Cientí-
+fico e Tecnológico (CNPq, Brazil) 2 productivity fellowship. JECH 
+is recipient of CNPq 1A productivity fellowship. RGS is Fellow of 
+the Programa Nacional de Pós-Doutorado, Brazil (PNPD/CAPES). 
+Research was supported in part by grants from Fundação de Amparo à 
+Pesquisa do Estado de São Paulo (FAPESP).
+Declarations 
+Conflicts of interest  The authors declare no conflict of interest.
+References
+	 1.	 Brandon TH, Vidrine JI, Litvin EB (2007) Relapse and relapse 
+prevention. Annu Rev Clin Psychol 3:257–284. https://​doi.​org/​10.​
+1146/​annur​ev.​clinp​sy.3.​022806.​091455
+	 2.	 Koob GF, Le Moal M (2008) Addiction and the brain antireward 
+system. Annu Rev Psychol 59:29–53. https://​doi.​org/​10.​1146/​
+annur​ev.​psych.​59.​103006.​093548
+	 3.	 BD 2016 Alcohol and Drug Use Collaborators (2018) The global 
+burden of disease attributable to alcohol and drug use in 195 
+countries and territories, 1990–2016: a systematic analysis for 
+the Global Burden of Disease Study 2016. Lancet Psychiatry 
+5:987–1012. https://​doi.​org/​10.​1016/​S2215-​0366(18)​30337-7
+	 4.	 Lo TW, Yeung JWK, Tam CHL (2020) Substance abuse and pub-
+lic health: a multilevel perspective and multiple responses. Int J 
+Environ Res Public Health 17:2610. https://​doi.​org/​10.​3390/​ijerp​
+h1707​2610
+	 5.	 van Amsterdam J, Nutt D, Phillips L, van den Brink W (2015) 
+European rating of drug harms. J Psychopharmacol 29:655–660. 
+https://​doi.​org/​10.​1177/​02698​81115​581980
+	 6.	 Rickli A, Moning OD, Hoener MC, Liechti ME (2016) Recep-
+tor interaction profiles of novel psychoactive tryptamines com-
+pared with classic hallucinogens. Eur Neuropsychopharmacol 
+26:1327–1337
+	 7.	 Dos Santos RG, Hallak JEC (2019) Ayahuasca, an ancient sub-
+stance with traditional and contemporary use in neuropsychia-
+try and neuroscience. Epilepsy Behav. https://​doi.​org/​10.​1016/j.​
+yebeh.​2019.​04.​053
+	 8.	 Palhano-Fontes F, Andrade KC, Tofoli LF, Santos AC, Crippa JA, 
+Hallak JE, Ribeiro S, de Araujo DB (2015) The psychedelic state 
+induced by ayahuasca modulates the activity and connectivity of 
+the default mode network. PLoS One 10:e0118143. https://​doi.​
+org/​10.​1371/​journ​al.​pone.​01181​43
+	 9.	 Rocha JM, Osório FL, Crippa JAS, Bouso JC, Rossi GN, Hal-
+lak JEC, Dos Santos RG (2019) Serotonergic hallucinogens and 
+recognition of facial emotion expressions: a systematic review of 
+the literature. Ther Adv Psychopharmacol 9:2045125319845774. 
+https://​doi.​org/​10.​1177/​20451​25319​845774
+	10.	 Bogenschutz MP, Forcehimes AA (2017) Development of a psy-
+chotherapeutic model for psilocybin-assisted treatment of alcohol-
+ism. J Humanistic Psychol 57:389–414. https://​doi.​org/​10.​1177/​
+00221​67816​673493
+	11.	 Krebs TS, Johansen PØ (2012) Lysergic acid diethylamide (LSD) 
+for alcoholism: meta-analysis of randomized controlled trials. J 
+Psychopharmacol 26:994–1002. https://​doi.​org/​10.​1177/​02698​
+81112​439253
+	12.	 Johnson MW, Garcia-Romeu A, Cosimano MP, Griffiths RR 
+(2014) Pilot study of the 5-HT2AR agonist psilocybin in the 
+treatment of tobacco addiction. J Psychopharmacol 28:983–992. 
+https://​doi.​org/​10.​1177/​02698​81114​548296
+	13.	 Noorani T, Garcia-Romeu A, Swift TC, Griffiths RR, Johnson 
+MW (2018) Psychedelic therapy for smoking cessation: qualita-
+tive analysis of participant accounts. J Psychopharmacol 32:756–
+769. https://​doi.​org/​10.​1177/​02698​81118​780612
+	14.	 Bogenschutz MP, Forcehimes AA, Pommy JA, Wilcox CE, Bar-
+bosa PC, Strassman RJ (2015) Psilocybin-assisted treatment for 
+alcohol dependence: a proof-of-concept study. J Psychopharmacol 
+29:289–299. https://​doi.​org/​10.​1177/​02698​81114​565144
+	15.	 Bogenschutz MP, Podrebarac SK, Duane JH, Amegadzie SS, 
+Malone TC, Owens LT, Ross S, Mennenga SE (2018) Clinical 
+interpretations of patient experience in a trial of psilocybin-
+assisted psychotherapy for alcohol use disorder. Front Pharmacol 
+9:100. https://​doi.​org/​10.​3389/​fphar.​2018.​00100
+	16.	 Garcia-Romeu A, Griffiths RR, Johnson MW (2014) Psilocybin-
+occasioned mystical experiences in the treatment of tobacco 
+addiction. Curr Drug Abuse Rev 7:157–164. https://​doi.​org/​10.​
+2174/​18744​73708​66615​01071​21331
+	17.	 Garcia-Romeu A, Davis AK, Erowid E, Erowid F, Griffiths RR, 
+Johnson MW (2020) Persisting reductions in cannabis, opioid, 
+and stimulant misuse after naturalistic psychedelic use: an online 
+survey. Front Psychiatry 10:955. https://​doi.​org/​10.​3389/​fpsyt.​
+2019.​00955
+	18.	 Lea T, Amada N, Jungaberle H et al (2020) Perceived outcomes of 
+psychedelic microdosing as self-managed therapies for mental and 
+substance use disorders. Psychopharmacology 237:1521–1532. 
+https://​doi.​org/​10.​1007/​s00213-​020-​05477-0
+	19.	 Johnson MW, Garcia-Romeu A, Johnson PS, Griffiths RR (2017) 
+An online survey of tobacco smoking cessation associated with 
+naturalistic psychedelic use. J Psychopharmacol 31:841–850. 
+https://​doi.​org/​10.​1177/​02698​81116​684335
+	20.	 Lai HM, Cleary M, Sitharthan T, Hunt GE (2015) Prevalence of 
+comorbid substance use, anxiety and mood disorders in epidemio-
+logical surveys, 1990–2014: a systematic review and meta-anal-
+ysis. Drug Alcohol Depend 154:1–13. https://​doi.​org/​10.​1016/j.​
+druga​lcdep.​2015.​05.​031
+	21.	 Griffiths RR, Johnson MW, Carducci MA, Umbricht A, Richards 
+WA, Richards BD, Cosimano MP, Klinedinst MA (2016) Psilo-
+cybin produces substantial and sustained decreases in depression 
+and anxiety in patients with life-threatening cancer: a randomized 
+double-blind trial. J Psychopharmacol 30:1181–1197. https://​doi.​
+org/​10.​1177/​02698​81116​675513
+	22.	 Ross S, Bossis A, Guss J, Agin-Liebes G, Malone T, Cohen B, 
+Mennenga SE, Belser A, Kalliontzi K, Babb J, Su Z, Corby P, 
+Schmidt BL (2016) Rapid and sustained symptom reduction fol-
+lowing psilocybin treatment for anxiety and depression in patients 
+with life-threatening cancer: a randomized controlled trial. J 
+Psychopharmacol 30:1165–1180. https://​doi.​org/​10.​1177/​02698​
+81116​675512
+	23.	 Carhart-Harris RL, Bolstridge M, Rucker J, Day CM, Erritzoe 
+D, Kaelen M, Bloomfield M, Rickard JA, Forbes B, Feilding A, 
+Taylor D, Pilling S, Curran VH, Nutt DJ (2016) Psilocybin with 
+psychological support for treatment-resistant depression: an open-
+label feasibility study. Lancet Psychiatry 3:619–627. https://​doi.​
+org/​10.​1016/​S2215-​0366(16)​30065-7
+	24.	 Davis AK, Barrett FS, May DG, Cosimano MP, Sepeda ND, 
+Johnson MW, Finan PH, Griffiths RR (2020) Effects of psilocy-
+bin-assisted therapy on major depressive disorder: a randomized 
+clinical trial. JAMA Psychiatry e203285. https://​doi.​org/​10.​1001/​
+jamap​sychi​atry.​2020.​3285.
+	25.	 Dos Santos RG, Balthazar FM, Bouso JC, Hallak JE (2016) The 
+current state of research on ayahuasca: a systematic review of 
+human studies assessing psychiatric symptoms, neuropsychologi-
+cal functioning, and neuroimaging. J Psychopharmacol 30:1230–
+1247. https://​doi.​org/​10.​1177/​02698​81116​652578
+	26.	 Dos Santos RG, Osório FL, Crippa JA, Hallak JE (2016) Anti-
+depressive and anxiolytic effects of ayahuasca: a systematic 
+
+
+European Archives of Psychiatry and Clinical Neuroscience	
+1 3
+literature review of animal and human studies. Braz J Psychiatry 
+38:65–72. https://​doi.​org/​10.​1590/​1516-​4446-​2015-​1701
+	27.	 Grob CS, McKenna DJ, Callaway JC, Brito GS, Neves ES, 
+Oberlaender G, Saide OL, Labigalini E, Tacla C, Miranda CT, 
+Strassman RJ, Boone KB (1996) Human psychopharmacology 
+of hoasca, a plant hallucinogen used in ritual context in Brazil. 
+J Nerv Ment Dis 184:86–94. https://​doi.​org/​10.​1097/​00005​053-​
+19960​2000-​00004
+	28.	 Labate B, dos Santos RG, Anderson B, Mercante M, Barbosa PCR 
+(2010) The treatment and handling of substance dependence with 
+ayahuasca: reflections on current and future research. In: Labate 
+BC, MacRae E (eds) Ayahuasca, ritual and religion in Brazil. 
+Equinox, London and Oakville, pp 205–227
+	29.	 Loizaga-Velder A, Verres R (2014) Therapeutic effects of ritual 
+ayahuasca use in the treatment of substance dependence–qualita-
+tive results. J Psychoactive Drugs 46:63–72. https://​doi.​org/​10.​
+1080/​02791​072.​2013.​873157
+	30.	 Apud I, Romaní O (2017) Medicine, religion and ayahuasca 
+in Catalonia. Considering ayahuasca networks from a medical 
+anthropology perspective. Int J Drug Policy 39:28–36. https://​doi.​
+org/​10.​1016/j.​drugpo.​2016.​07.​011
+	31.	 Talin P, Sanabria E (2017) Ayahuasca’s entwined efficacy: An 
+ethnographic study of ritual healing from “addiction.” Int J Drug 
+Policy 44:23–30. https://​doi.​org/​10.​1016/j.​drugpo.​2017.​02.​017
+	32.	 Nunes AA, Dos Santos RG, Osório FL, Sanches RF, Crippa JA, 
+Hallak JE (2016) Effects of ayahuasca and its alkaloids on drug 
+dependence: a systematic literature review of quantitative studies 
+in animals and humans. J Psychoactive Drugs 48:195–205. https://​
+doi.​org/​10.​1080/​02791​072.​2016.​11882​25
+	33.	 Glick SD, Kuehne ME, Raucci J, Wilson TE, Larson D, Keller 
+RW Jr, Carlson JN (1994) Effects of iboga alkaloids on morphine 
+and cocaine self-administration in rats: relationship to tremori-
+genic effects and to effects on dopamine release in nucleus accum-
+bens and striatum. Brain Res 657:14–22. https://​doi.​org/​10.​1016/​
+0006-​8993(94)​90948-2
+	34.	 Aricioglu-Kartal F, Kayir H, Tayfun Uzbay I (2003) Effects of 
+harman and harmine on naloxone-precipitated withdrawal syn-
+drome in morphine-dependent rats. Life Sci 73:2363–2371. 
+https://​doi.​org/​10.​1016/​s0024-​3205(03)​00647-7
+	35.	 Brierley DI, Davidson C (2013) Harmine augments electrically 
+evoked dopamine efflux in the nucleus accumbens shell. J Psy-
+chopharmacol 27:98–108. https://​doi.​org/​10.​1177/​02698​81112​
+463125
+	36.	 Owaisat S, Raffa RB, Rawls SM (2012) In vivo comparison of 
+harmine efficacy against psychostimulants: preferential inhibi-
+tion of the cocaine response through a glutamatergic mechanism. 
+Neurosci Lett 525:12–16. https://​doi.​org/​10.​1016/j.​neulet.​2012.​
+07.​052
+	37.	 Oliveira-Lima AJ, Santos R, Hollais AW, Gerardi-Junior CA, 
+Baldaia MA, Wuo-Silva R, Yokoyama TS, Costa JL, Malpezzi-
+Marinho EL, Ribeiro-Barbosa PC, Berro LF, Frussa-Filho R, 
+Marinho EA (2015) Effects of ayahuasca on the development of 
+alcohol-induced behavioral sensitization and on a post-sensitiza-
+tion treatment in mice. Physiol Behav 142:28–36. https://​doi.​org/​
+10.​1016/j.​physb​eh.​2015.​01.​032
+	38.	 Da Silveira DX, Grob CS, de Rios MD, Lopez E, Alonso LK, 
+Tacla C, Doering-Silveira E (2005) Ayahuasca in adolescence: a 
+preliminary psychiatric assessment. J Psychoactive Drugs 37:129–
+133. https://​doi.​org/​10.​1080/​02791​072.​2005.​10399​792
+	39.	 Doering-Silveira E, Grob CS, de Rios MD, Lopez E, Alonso LK, 
+Tacla C, Da Silveira DX (2005) Report on psychoactive drug use 
+among adolescents using ayahuasca within a religious context. J 
+Psychoactive Drugs 37:141–144. https://​doi.​org/​10.​1080/​02791​
+072.​2005.​10399​794
+	40.	 Fábregas JM, González D, Fondevila S, Cutchet M, Fernández X, 
+Barbosa PC, Alcázar-Córcoles MÁ, Barbanoj MJ, Riba J, Bouso 
+JC (2010) Assessment of addiction severity among ritual users of 
+ayahuasca. Drug Alcohol Depend 111:257–261. https://​doi.​org/​
+10.​1016/j.​druga​lcdep.​2010.​03.​024
+	41.	 Thomas G, Lucas P, Capler NR, Tupper KW, Martin G (2013) 
+Ayahuasca-assisted therapy for addiction: results from a pre-
+liminary observational study in Canada. Curr Drug Abuse Rev 
+6:30–42. https://​doi.​org/​10.​2174/​15733​99811​30999​90003
+	42.	 Fernández X, dos Santos RG, Cutchet M, Fondevila S, González 
+D, Alcázar MÁ, María Fábregas J (2014) Assessment of the psy-
+chotherapeutic effects of ritual ayahuasca use on drug depend-
+ency: a pilot study. Therap Use Ayahuasca. https://​doi.​org/​10.​
+1007/​978-3-​642-​40426-9_​11
+	43.	 Jiménez-Garrido DF, Gómez-Sousa M, Ona G, Dos Santos RG, 
+Hallak JEC, Alcázar-Córcoles MÁ, Bouso JC (2020) Effects of 
+ayahuasca on mental health and quality of life in naïve users: 
+a longitudinal and cross-sectional study combination. Sci Rep 
+10:4075. https://​doi.​org/​10.​1038/​s41598-​020-​61169-x
+	44.	 Sanches RF, de Lima Osório F, Dos Santos RG, Macedo LR, 
+Maia-de-Oliveira JP, Wichert-Ana L, de Araujo DB, Riba J, 
+Crippa JA, Hallak JE (2016) Antidepressant effects of a single 
+dose of ayahuasca in patients with recurrent depression: a SPECT 
+study. J Clin Psychopharmacol 36:77–81. https://​doi.​org/​10.​1097/​
+JCP.​00000​00000​000436
+	45.	 Palhano-Fontes F, Barreto D, Onias H, Andrade KC, Novaes MM, 
+Pessoa JA, Mota-Rolim SA, Osório FL, Sanches R, Dos Santos 
+RG, Tófoli LF, de Oliveira SG, Yonamine M, Riba J, Santos FR, 
+Silva-Junior AA, Alchieri JC, Galvão-Coelho NL, Lobão-Soares 
+B, Hallak JEC, Arcoverde E, Maia-de-Oliveira JP, Araújo DB 
+(2019) Rapid antidepressant effects of the psychedelic ayahuasca 
+in treatment-resistant depression: a randomized placebo-con-
+trolled trial. Psychol Med 49:655–663. https://​doi.​org/​10.​1017/​
+S0033​29171​80013​56
+	46.	 Moher D, Shamseer L, Clarke M, Ghersi D, Liberati A, Petticrew 
+M, Shekelle P, Stewart LA, PRISMA-P Group (2015) Preferred 
+reporting items for systematic review and meta-analysis proto-
+cols (PRISMA-P) 2015 statement. Syst Rev 4:1. https://​doi.​org/​
+10.​1186/​2046-​4053-4-1
+	47.	 Hooijmans CR, Rovers MM, de Vries RB, Leenaars M, Ritskes-
+Hoitinga M, Langendam MW (2014) SYRCLE’s risk of bias tool 
+for animal studies. BMC Med Res Methodol 14:43. https://​doi.​
+org/​10.​1186/​1471-​2288-​14-​43
+	48.	 Barbosa PC, Strassman RJ, da Silveira DX, Areco K, Hoy R, 
+Pommy J, Thoma R, Bogenschutz M (2016) Psychological and 
+neuropsychological assessment of regular hoasca users. Compr 
+Psychiatry 71:95–105. https://​doi.​org/​10.​1016/j.​compp​sych.​2016.​
+09.​003
+	49.	 Barbosa PCR, Tófoli LF, Bogenschutz MP, Hoy R, Berro LF, 
+Marinho EAV, Areco KN, Winkelman MJ (2018) Assessment 
+of alcohol and tobacco use disorders among religious users of 
+ayahuasca. Front Psychiatry 9:136. https://​doi.​org/​10.​3389/​fpsyt.​
+2018.​00136
+	50.	 Berlowitz I, Walt H, Ghasarian C, Mendive F, Martin-Soelch C 
+(2019) Short-term treatment effects of a substance use disorder 
+therapy involving traditional amazonian medicine. J Psychoactive 
+Drugs 51:323–334. https://​doi.​org/​10.​1080/​02791​072.​2019.​16079​
+56
+	51.	 Cata-Preta EG, Serra YA, Moreira-Junior EDC, Reis HS, Kisaki 
+ND, Libarino-Santos M, Silva RRR, Barros-Santos T, Santos LC, 
+Barbosa PCR, Costa JL, Oliveira-Lima AJ, Berro LF, Marinho 
+EAV (2018) Ayahuasca and Its DMT- and β-carbolines—contain-
+ing ingredients block the expression of alcohol-induced condi-
+tioned place preference in mice: role of the treatment environment. 
+Front Pharmacol 9:561. https://​doi.​org/​10.​3389/​fphar.​2018.​00561
+	52.	 Giovannetti C, Garcia Arce S, Rush B, Mendive F (2020) Pilot 
+evaluation of a residential drug addiction treatment combining 
+traditional amazonian medicine, ayahuasca and psychotherapy on 
+
+
+	
+European Archives of Psychiatry and Clinical Neuroscience
+1 3
+depression and anxiety. J Psychoactive Drugs. https://​doi.​org/​10.​
+1080/​02791​072.​2020.​17892​47
+	53.	 Lawn W, Hallak JE, Crippa JA, Dos Santos R, Porffy L, Barratt 
+MJ, Ferris JA, Winstock AR, Morgan CJA (2017) Well-being, 
+problematic alcohol consumption and acute subjective drug 
+effects in past-year ayahuasca users: a large, international, self-
+selecting online survey. Sci Rep 7:15201. https://​doi.​org/​10.​1038/​
+s41598-​017-​14700-6
+	54.	 Nolli LM, de Oliveira DGR, Alves SS, von Zuben MV, Pic-Taylor 
+A, Mortari MR, Caldas ED (2019) Effects of the hallucinogenic 
+beverage ayahuasca on voluntary alcohol intake by rats and on 
+cFos expression in brain areas relevant to drug addiction. Alcohol 
+84:67–75. https://​doi.​org/​10.​1016/j.​alcoh​ol.​2019.​10.​005
+	55.	 Reis HS, Rodrigues IRS, Anjos-Santos A, Libarino-Santos M, 
+Serra YA, Cata-Preta EG, Oliveira-Campos D, Kisaki ND, Bar-
+ros-Santos T, Yokoyama TS, Cruz FC, Oliveira-Lima AJ, Bar-
+bosa PCR, Berro LF, Marinho EAV (2020) Ayahuasca blocks 
+the reinstatement of methylphenidate-induced conditioned place 
+preference in mice: behavioral and brain Fos expression evalua-
+tions. Psychopharmacology 237:3269–3281. https://​doi.​org/​10.​
+1007/​s00213-​020-​05609-6
+	56.	 Godinho AF, Silva MC, Kawashima JD et al (2017) Ayahuasca 
+modifies amphetamine self ingestion and modifies anxiety and 
+locomotor activity in adolescent rats. Electron J Biol 13:2
+	57.	 Bouso JC, Fábregas JM, Antonijoan RM, Rodríguez-Fornells A, 
+Riba J (2013) Acute effects of ayahuasca on neuropsychological 
+performance: differences in executive function between experi-
+enced and occasional users. Psychopharmacology 230:415–424. 
+https://​doi.​org/​10.​1007/​s00213-​013-​3167-9
+	58.	 Howell LL, Cunningham KA (2015) Serotonin 5-HT2 receptor 
+interactions with dopamine function: implications for therapeutics 
+in cocaine use disorder. Pharmacol Rev 67:176–197. https://​doi.​
+org/​10.​1124/​pr.​114.​009514
+	59.	 Bouso JC, Dos Santos RG, Alcázar-Córcoles MÁ, Hallak JEC 
+(2018) Serotonergic psychedelics and personality: a systematic 
+review of contemporary research. Neurosci Biobehav Rev 87:118–
+132. https://​doi.​org/​10.​1016/j.​neubi​orev.​2018.​02.​004
+	60.	 Alper K, Dong B, Shah R, Sershen H, Vinod KY (2018) LSD 
+Administered as a single dose reduces alcohol consumption in 
+C57BL/6J mice. Front Pharmacol 9:994. https://​doi.​org/​10.​3389/​
+fphar.​2018.​00994
+	61.	 Meinhardt MW, Güngör C, Skorodumov I, Mertens LJ, Spanagel 
+R (2020) Psilocybin and LSD have no long-lasting effects in an 
+animal model of alcohol relapse. Neuropsychopharmacology 
+45:1316–1322. https://​doi.​org/​10.​1038/​s41386-​020-​0694-z
+	62.	 Maurel S, De Vry J, Schreiber R (1999) 5-HT receptor ligands 
+differentially affect operant oral self-administration of alcohol in 
+the rat. Eur J Pharmacol 370:217–223. https://​doi.​org/​10.​1016/​
+s0014-​2999(99)​00125-9
+	63.	 Vargas-Perez H, Grieder TE, Ting-A-Kee R, Maal-Bared G, 
+Chwalek M, van der Kooy D (2017) A single administration of 
+the hallucinogen, 4-acetoxy-dimethyltryptamine, prevents the shift 
+to a drug-dependent state and the expression of withdrawal aver-
+sions in rodents. Eur J Neurosci 45:1410–1417. https://​doi.​org/​10.​
+1111/​ejn.​13572
+	64.	 Oppong-Damoah A, Curry KE, Blough BE, Rice KC, Murnane 
+KS (2019) Effects of the synthetic psychedelic 2,5-dimethoxy-
+4-iodoamphetamine (DOI) on alcohol consumption and place 
+conditioning in male mice. Psychopharmacology 236:3567–3578. 
+https://​doi.​org/​10.​1007/​s00213-​019-​05328-7
+	65.	 Martin DA, Gyawali U, Calu DJ (2020) Effects of 5-HT2A receptor 
+stimulation on economic demand for fentanyl after intermittent 
+and continuous access self-administration in male rats. Addict 
+Biol e12926. https://​doi.​org/​10.​1111/​adb.​12926.
+	66.	 Ona G, Kohek M, Massaguer T, Gomariz A, Jiménez DF, Dos 
+Santos RG et al (2019) Ayahuasca and public health: health sta-
+tus, psychosocial well-being, lifestyle, and coping strategies in 
+a large sample of ritual ayahuasca users. J Psychoactive Drugs 
+51:135–145

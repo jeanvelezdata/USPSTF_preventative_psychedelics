@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {
+      "StudyID": "Sarett 1966",
+      "Citation": "Sarett M, Cheek F, Osmond H. Reports of Wives of Alcoholics of Effects of LSD-25 Treatment of Their Husbands. Archives of General Psychiatry. 1966.",
+      "Title": "Reports of Wives of Alcoholics of Effects of LSD-25 Treatment of Their Husbands",
+      "Year": 1966,
+      "Corpus/Prefix": ".",
+      "Condition": "Alcohol",
+      "Substance": "LSD-25",
+      "IsObservational": "Y",
+      "N": 15,
+      "AE_denominator": 15,
+      "ArmScope": "psychedelic_arm",
+      "PctFemale": 0,
+      "GenderCategory": "All male (patients described throughout as 'husbands'/male alcoholics; wives are the informants, not the treated population)",
+      "PctBIPOC": ".",
+      "PctIndigenous": ".",
+      "SafetyReported": "Y",
+      "AnyAEReported": "Y",
+      "NumDistinctAEs": 6,
+      "NParticipantsWithAE": ".",
+      "WorstSeverity": "Moderate",
+      "text_source": "born-digital",
+      "Model": "claude-sonnet-5",
+      "PromptVersion": "ae_extraction_prompt_v1",
+      "RubricVersion": "severity_rubric_v1",
+      "Temperature": 1
+    },
+    "ae_events": [
+      {
+        "AE_ID": "Sarett 1966_AE01",
+        "StudyID": "Sarett 1966",
+        "AE_type": "AE",
+        "Description": "Husband very depressed/irritable on first returning home; resolved after ~3 weeks, then became tolerant and communicative (per wife).",
+        "Onset": "post-session-acute",
+        "Severity": "Moderate",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Sarett 1966_AE02",
+        "StudyID": "Sarett 1966",
+        "AE_type": "AE",
+        "Description": "Husband grew more remote, resumed/worsened heavy drinking, and became more abusive and violent toward wife and children; later stopped drinking.",
+        "Onset": "post-session-acute",
+        "Severity": "Moderate",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Sarett 1966_AE03",
+        "StudyID": "Sarett 1966",
+        "AE_type": "AE",
+        "Description": "Husband became more withdrawn/uncommunicative and emotionally distant; marriage progressively worsened over follow-up despite husband remaining sober.",
+        "Onset": "delayed",
+        "Severity": "Moderate",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Sarett 1966_AE04",
+        "StudyID": "Sarett 1966",
+        "AE_type": "AE",
+        "Description": "Husband viewed the treatment as an easy 'cure,' became overconfident, and relapsed to heavy drinking shortly afterward.",
+        "Onset": "post-session-acute",
+        "Severity": "Moderate",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Sarett 1966_AE05",
+        "StudyID": "Sarett 1966",
+        "AE_type": "AE",
+        "Description": "Husband resumed drinking after a fellow LSD-program member with whom he was close relapsed and drew him back into drinking.",
+        "Onset": "unknown",
+        "Severity": "Moderate",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Sarett 1966_AE06",
+        "StudyID": "Sarett 1966",
+        "AE_type": "AE",
+        "Description": "Husband became more aware of 'being no good'; wife described this as a problem, significance and consequence unclear.",
+        "Onset": "unknown",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "Y",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "N"
+      }
+    ]
+  },
+  "rationale": {
+    "article": {
+      "IsObservational": "Methods section states the LSD and comparison groups were assembled by asking successive weeks' admissions to volunteer ('while not randomly selected'), not by randomization, and the treatment itself was the unit's ongoing clinical program rather than a research-only interventional protocol. This specific paper (the wives' study) is additionally a retrospective, single-timepoint interview/survey of informants six months post-treatment, not a controlled trial of the wives. Both features support an observational/naturalistic classification.",
+      "N": "This paper's actual analyzed sample is the LSD-group wives who were interviewed (15), representing 15 LSD-treated husbands, out of an original LSD-treated cohort of 28 (18 married/living with wife/locatable, of whom 15 wives consented). N=15 reflects the analyzed psychedelic-arm sample for this paper, not the original 28-patient treatment cohort. The comparison-group wives (n=11) exist but were excluded per ArmScope.",
+      "ArmScope": "The article reports parallel data for an LSD group and a non-LSD comparison group (standard six-week program, no psychedelic exposure). Per instructions, only psychedelic-exposed data was extracted; comparison-group N, demographics, and outcomes were not carried into data.article/ae_events.",
+      "PctFemale": "No explicit % given; inferred as 0 because the treated/AE-relevant population is exclusively described as married male alcoholics ('husbands'), with wives serving only as informants, not as treatment recipients.",
+      "PctBIPOC": "Article reports 'a range of nationalities and religions' for the wives but gives no race/ethnicity breakdown for either wives or husbands, and no numeric data at all \u2014 coded not-reported.",
+      "AE_denominator": "All 15 LSD-group wives were asked the 'negative changes' and 'problems' interview questions from which the AE narratives below were drawn, so 15 is used as the assessment denominator.",
+      "NParticipantsWithAE": "Negative-change and problem reports came from two separate interview questions with overlapping content (e.g., the 'withdrawn husband' account clearly recurs in both questions), and at least one other pairing (drinking-related behavior worsening) plausibly but not certainly refers to the same husband across questions. Because the article never states how many distinct husbands are represented in total and identity-matching across questions would require guessing, this is coded not-reported rather than inferring a specific count.",
+      "SafetyReported/AnyAEReported/NumDistinctAEs": "This article is not a clinical safety report; all six coded AEs are behavioral/psychosocial changes described secondhand by wives (informants), not the treated patients themselves, and not assessed by clinicians using any standardized instrument. This is flagged per the task instructions: informant (spousal) report of a patient's post-treatment functioning is a materially less direct/reliable AE-ascertainment source than patient self-report or clinician assessment \u2014 it may miss internally-experienced symptoms (e.g., anxiety, perceptual effects) the husband did not disclose or the wife did not observe, while being more sensitive to overt behavioral/relational fallout (drinking relapse, withdrawal, aggression). No direct dosing-session AEs (physiological effects, in-session distress) are reported anywhere in the article.",
+      "WorstSeverity": "Maximum across the six coded events is Moderate (AE01-AE05); none met an FDA seriousness criterion or CTCAE Grade 4-5 equivalent as reported."
+    },
+    "ae_events": {
+      "Sarett 1966_AE02": "Description mentions abusive/violent behavior toward wife and children, which could plausibly rise to Severe if injury or intervention occurred, but the article gives no detail on injury, medical/police/protective intervention, or hospitalization. Per the input-fidelity/severity instructions, severity was not escalated beyond what is documented; graded Moderate based on clear functional/relational impairment. This case may be the same husband referenced in the 'problems' section as behaving 'worse than before treatment' when drinking (item overlapping with AE_denominator/NParticipantsWithAE note above) \u2014 treated as one AE type regardless.",
+      "Sarett 1966_AE03": "This husband's withdrawal is described in both the 'negative changes' and 'problems' answers, and again in the Comment section (the one alcoholic who stayed completely sober all year); merged into a single AE entry rather than counted twice, since NumDistinctAEs counts AE types, not individual mentions.",
+      "Sarett 1966_AE06": "Description ('more aware of being no good') is too underspecified to determine distress level, duration, or functional consequence; authors themselves note ambiguity ('could be regarded as a step forward, unless the husband used this as an excuse to drink'). Defaulted to Mild per the under-specified-AE rule and flagged SeverityIndeterminate = Y."
+    }
+  }
+}

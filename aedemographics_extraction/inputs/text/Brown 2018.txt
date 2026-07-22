@@ -1,0 +1,1659 @@
+The American Journal of Drug and Alcohol Abuse
+Encompassing All Addictive Disorders
+ISSN: 0095-2990 (Print) 1097-9891 (Online) Journal homepage: www.tandfonline.com/journals/iada20
+Treatment of opioid use disorder with ibogaine:
+detoxiﬁcation and drug use outcomes
+Thomas Kingsley Brown & Kenneth Alper
+To cite this article: Thomas Kingsley Brown & Kenneth Alper (2018) Treatment of opioid use
+disorder with ibogaine: detoxiﬁcation and drug use outcomes, The American Journal of Drug
+and Alcohol Abuse, 44:1, 24-36, DOI: 10.1080/00952990.2017.1320802
+To link to this article:  https://doi.org/10.1080/00952990.2017.1320802
+© 2018 the Author(s). Published by Taylor &
+Francis.
+Published online: 25 May 2017.
+Submit your article to this journal 
+Article views: 51826
+View related articles 
+View Crossmark data
+Citing articles: 56 View citing articles 
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=iada20
+
+
+ORIGINAL ARTICLE
+Treatment of opioid use disorder with ibogaine: detoxification and drug use
+outcomes
+Thomas Kingsley Brown, PhDa and Kenneth Alper, MDb
+aUniversity of California, San Diego, CA, USA; bDepartments of Psychiatry and Neurology, New York University School of Medicine, New York, NY, USA
+ABSTRACT
+Background: Ibogaine is a monoterpene indole alkaloid used in medical and nonmedical settings for
+the treatment of opioid use disorder. Its mechanism of action is apparently novel. There are no
+published prospective studies of drug use outcomes with ibogaine. Objectives: To study outcomes
+following opioid detoxification with ibogaine. Methods: In this observational study, 30 subjects with
+DSM-IV Opioid Dependence (25 males, 5 females) received a mean total dose of 1,540 ± 920 mg
+ibogaine HCl. Subjects used oxycodone (n = 21; 70%) and/or heroin (n = 18; 60%) in respective
+amounts of 250 ± 180 mg/day and 1.3 ± 0.94 g/day, and averaged 3.1 ± 2.6 previous episodes of
+treatment for opioid dependence. Detoxification and follow-up outcomes at 1, 3, 6, 9, and 12 months
+were evaluated utilizing the Subjective Opioid Withdrawal Scale (SOWS) and Addiction Severity Index
+Composite (ASIC) scores, respectively. Results: SOWS scores decreased from 31.0 ± 11.6 pretreatment
+to 14.0 ± 9.8 at 76.5 ± 30 hours posttreatment (t = 7.07, df = 26, p < 0.001). At 1-month posttreatment
+follow-up, 15 subjects (50%) reported no opioid use during the previous 30 days. ASIC Drug Use and
+Legal and Family/Social Status scores were improved relative to pretreatment baseline at all post-
+treatment time points (p < .001). Improvement in Drug Use scores was maximal at 1 month, and
+subsequently sustained from 3 to 12 months at levels that did not reach equivalence to the effect at 1
+month. Conclusion: Ibogaine was associated with substantive effects on opioid withdrawal symptoms
+and drug use in subjects for whom other treatments had been unsuccessful, and may provide a useful
+prototype for discovery and development of innovative pharmacotherapy of addiction.
+ARTICLE HISTORY
+Received 11 September 2016
+Revised 11 April 2017
+Accepted 16 April 2017
+KEYWORDS
+Ibogaine; alkaloid;
+18-methoxycoronaridine;
+noribogaine; heroin;
+oxycodone; prescription
+opioid; opioid use disorder
+Introduction
+Ibogaine, a monoterpene indole alkaloid that occurs in
+the root bark of Tabernanthe iboga Baill., is used for the
+treatment of substance use disorders (SUDs) (1,2). It has
+been associated with controversy, and the medical and
+nonmedical settings of ibogaine use have been collectively
+designated as a “vast uncontrolled experiment” (3), or
+“medical subculture” (1). Ibogaine has been classified as
+a hallucinogen and illegal in the US since 1967, and is
+similarly scheduled in 9 of the 28 countries presently in
+the European Union. It is unregulated, i.e., neither offi-
+cially approved nor illegal in much of the rest of the world.
+New Zealand, Brazil, and South Africa have classified
+ibogaine as a pharmaceutical substance and restrict its
+use to licensed medical practitioners.
+Ibogaine is used most frequently for detoxification from
+opioids. A previous study on the known settings of ibogaine
+use as of 2006 found that approximately 3,400 individuals
+had taken ibogaine, 68% of whom did so for the treatment
+of a substance-related disorder, and 53% specifically for
+opioid detoxification (1). A substantive effect of ibogaine
+in opioid detoxification is reported in studies of 33 indivi-
+duals treated in nonmedical settings with single mean
+dosages of 19.3 ± 6.9 mg/kg (4), and 32 individuals treated
+in a medical setting with fixed dosages of 800 mg (5).
+Unpublished data include a series of 53 treatment episodes
+that was presented to the National Institute on Drug Abuse
+(NIDA) and influenced NIDA’s decision to undertake an
+ibogaine project from 1991 to 1995 (6), and an academic
+thesis on a Web-based survey of 21 individuals who had
+used ibogaine (7). The subjects in these unpublished case
+series were predominantly opioid users, and ibogaine
+appeared to be effective in opioid detoxification, and
+about one-third of subjects reported abstinence from
+opioids for periods of 6 months or longer following treat-
+ment. A retrospective study on 75 subjects, a subset avail-
+able from a group of 195 individuals who have been treated
+or cocaine dependence, almost none of whom used opioids,
+reported a median relapse-free interval of 5.5 months fol-
+lowing single doses of ibogaine of 7.5 to 20 mg/kg (8).
+Published follow-up regarding drug use outcomes beyond
+CONTACT Kenneth Alper
+kenneth.alper@nyumc.org
+New York University School of Medicine, Departments of Psychiatry and Neurology, 560 First
+Avenue, New York, NY 10016, USA.
+Color versions of one or more of the figures in the article can be found online at www.tandfonline.com/iada.
+THE AMERICAN JOURNAL OF DRUG AND ALCOHOL ABUSE
+2018, VOL. 44, NO. 1, 24–36
+http://dx.doi.org/10.1080/00952990.2017.1320802
+© 2018 Thomas Kingsley Brown and Kenneth Alper. Published by Taylor & Francis
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives License (http://creativecommons.org/licenses/by-nc-
+nd/4.0/), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited, and is not altered, transformed, or built
+upon in any way.
+
+
+detoxification in opioid use disorder (OUD) has been lim-
+ited to a small number of case reports (9–11).
+Consistent with its apparent effect in opioid detoxifica-
+tion in humans, ibogaine administered intraperitoneally or
+intracerebrally to animals reduces naloxone- or naltrexone-
+precipitated opioid withdrawal signs, in rats (12–15), mice
+(16–19), and primates (20,21). Single dosages of ibogaine
+administered to rodents diminish self-administration of
+multiple abused substances including morphine (22–25),
+heroin (26), cocaine (24,25,27–29), amphetamine (30), and
+alcohol (31), with normal responding for water. A notable
+aspect of these self-administration studies has been the
+observation of a treatment effect of a duration of 48 to 72
+hours averaged for the entire sample, with sustained effects
+for longer time intervals in individual animals. Both ibo-
+gaine and its synthetic structural analog 18-methoxycoro-
+naridine (18-MC) diminish an experimental correlate of
+drug salience, the sensitized response of dopamine efflux in
+the nucleus accumbens in response to morphine (32,33)
+and nicotine (34,35).
+The mechanism of action of ibogaine is apparently
+novel, and unexplained by the receptor interactions of
+medications known to have clinical effects in opioid toler-
+ance or withdrawal (6,36,37). As a small molecule that
+modifies opioid withdrawal and drug self-administration,
+ibogaine may offer an interesting prototype for drug dis-
+covery and neurobiological investigation. Ibogaine, its
+major metabolite noribogaine, and 18-MC do not act as
+orthosteric μ opioid receptor (MOR) agonists. Although
+ibogaine, noribogaine, and 18-MC bind with low micro-
+molar affinity to the MOR, these compounds do not acti-
+vate G proteins assessed by the binding of [35S]GTPγS in
+cells expressing the MOR (36), and the dosages of ibogaine
+used for detoxification in the setting of severe physical
+dependence do not produce signs of overdose in opioid-
+naïve individuals (1).
+Ibogaine potentiates morphine analgesia without pro-
+ducing analgesia when administered alone (16,38–43), as
+might be expected of an allosteric MOR agonist.
+However ibogaine, noribogaine, and 18-MC do not
+potentiate the activation of G proteins by morphine or
+DAMGO (36), indicating that these compounds do not
+act as allosteric MOR agonists. The reversal by ibogaine
+of analgesic tolerance to chronic morphine suggests that
+ibogaine may modify neuroadaptations associated with
+chronic exposure to opioids (39,43,44).
+Ibogaine is an NMDA receptor antagonist (19,45), and
+NMDA antagonists such as memantine diminish signs of
+opioid withdrawal in preclinical models and humans
+(46,47), however 18-MC lacks significant affinity for the
+NMDA receptor and is equally effective as ibogaine in
+animal models of opioid withdrawal (12–15,37,48,49).
+Ibogaine has no significant affinity for the α2 receptor or
+imidazoline I2 site (50,51), indicating that it does not act
+as an imidazoline α2 adrenergic receptor agonist such as
+clonidine (52).
+The enhanced expression of glial-derived neuro-
+trophic factor (GDNF) has been proposed to account
+for ibogaine’s effect on drug self-administration (53).
+Ibogaine increases the GDNF expression in vivo and in
+cultured cells, and 18-MC reportedly does not (54), but
+both compounds are equally effective in animal models
+of drug self-administration (37). Ibogaine’s action as an
+allosteric antagonist of the α3β4 nicotinic acetylcholine
+receptor (nAChR) is suggested to mediate its effect on
+drug self-administration (55), but does not appear to
+readily explain the prolonged effects that appear to
+persist
+beyond
+pharmacokinetic
+elimination
+(56).
+Ibogaine’s major metabolite, noribogaine (57,58) has a
+longer half-life than the parent compound, and has
+been suggested to account for persistence of effects on
+drug self-administration and withdrawal (59), although
+in the animal model the effect of ibogaine in reducing
+drug self-administration appears to persist beyond the
+elimination of ibogaine and noribogaine from serum or
+brain tissue (56).
+There are no published prospective studies of ibogaine
+in the treatment of OUD reporting on drug use outcomes
+subsequent to detoxification. This study reports on out-
+comes up to one year following opioid detoxification with
+ibogaine.
+Methods
+Treatment setting, inclusion and exclusion criteria,
+and subject enrollment
+The
+Human
+Research
+Review
+Committee
+at
+the
+California Institute of Integral Studies approved this
+observational study. By definition, an observational
+study assesses dependent variables, in this case detoxifica-
+tion and drug use outcomes, without modifying the inde-
+pendent variable, in this case the parameters of treatment,
+and the investigators had no role in administering ibo-
+gaine or clinical management. This study is naturalistic
+with respect to its focus on treatment as usual in a repre-
+sentative setting of two private clinics that provided treat-
+ment with ibogaine on a fee-for-service basis, located
+respectively in Ensenada (25 subjects), and Playas de
+Tijuana
+(5
+subjects)
+in
+Baja
+California,
+Mexico.
+Treatment consisted of administration of ibogaine fol-
+lowed by a clinic stay of 3 to 6 days.
+The study sample consisted of 30 individuals who
+sought treatment with ibogaine for detoxification from
+opioids. All of the subjects met criteria for DSM-IV
+Opioid Dependence with Physiological Dependence on
+THE AMERICAN JOURNAL OF DRUG AND ALCOHOL ABUSE
+25
+
+
+opioids (60). Individuals were excluded from the study if
+they took ibogaine for any purpose other than the treat-
+ment of OUD, if they had a history of prior treatment
+with ibogaine, or if they appeared to have personal, health,
+situational, social or other problems which in the view of
+the investigator would prevent them from being able to
+fully comply with the requirements of this study. As
+admission criteria, subjects were required to have a reli-
+able method of communication by which the researchers
+could contact them during the study follow-up period and
+to provide the name and contact information of at least
+one other individual such as a therapist, counselor, par-
+ent, spouse or close friend, to communicate with the
+research team and provide corroboration regarding the
+subject’s drug use.
+During the enrollment period, 30 subjects signed the
+Information and Consent Form and were enrolled into
+the study. An additional nine individuals were not
+enrolled because they had received ibogaine before they
+could be asked to participate in the study, and 4 declined
+to participate. Participants were given $10 in the form of
+a gift certificate for each follow-up phone interview they
+completed after leaving the clinic.
+Study sample
+Table 1 summarizes demographic, drug use, and treat-
+ment history characteristics of the study sample. At the
+time of enrollment in the study, the drugs most com-
+monly cited as the most problematic were heroin (n = 14),
+and prescription analgesic opioids (n = 10), mostly oxy-
+codone. Subjects were heavy, and relatively selective users
+of opioids, averaging 29.0 ± 3.2 days of opioid use in the
+previous 30 days. Eighteen subjects (60%) reported no
+stimulant use and 18 (60%) reported no alcohol use in the
+previous 30 days, and only 3 subjects reported five or
+more drinking occasions of at least five drinks in the
+previous 30 days. At pretreatment baseline (N = 30),
+Drug Use was the highest and Alcohol Use was the lowest
+of all of the ASIC scores (see Table 2).
+Subjects had been regularly using at least one opioid
+substance for an average of 5.2 ± 3.0 consecutive years
+before presenting for treatment. On days the subjects
+used heroin, they averaged 1.3 ± 0.94 g/day, the major-
+ity by the intravenous route. Among users of oxyco-
+done, the mean daily amount of oxycodone used was
+250 ± 180 mg/day. Twenty-nine of the 30 subjects
+(97%) had previously received treatment for SUD, and
+the study sample averaged 3.1 ± 2.6 prior treatment
+episodes, most commonly methadone or buprenor-
+phine maintenance or residential treatment.
+Treatment
+Prior to the administration of ibogaine and subsequent to
+arrival at the clinic, subjects were stabilized on a short
+acting opioid, most often oxycodone, for two to three days
+in a range of 90 mg to 270 mg per day divided into three
+doses.
+Subjects
+on
+long-acting
+opioids
+had
+been
+instructed to change over to short acting opioids for at
+least two weeks prior to their treatment. An average total
+dose of 1,540 ± 920 mg ibogaine HCl, 94% purity by
+certificate of analysis was administered to each subject
+as described below. Five of those subjects additionally
+received a crude extract of T. iboga root bark (mean
+dose 1610 ± 1650 mg). Crude “total alkaloid” extracts
+have an estimated total alkaloid content between 15%
+and 50%, about 25% to 50% of which might be expected
+to be ibogaine (1,61). No opioids were administered sub-
+sequent to the initiation of treatment with ibogaine, and
+subjects
+did
+not
+receive
+any
+additional
+ancillary
+medications.
+The treatment was initiated with a “test” dose of ibo-
+gaine of 3 mg/kg, typically administered in the morning
+after subjects had abstained from opioid use overnight.
+The test dose was given when subjects had begun to
+exhibit three or more initial signs of withdrawal, such as
+restlessness, sweating, yawning or watery eyes. In the
+experience of ibogaine treatment providers, the test dose
+typically has some effect of reducing withdrawal signs,
+and they view the response to the test dose as providing
+some indication of the degree of physical dependence on
+opioids. A larger, “flood” ibogaine dose, typically four
+times the test dose is given approximately 2 to 12 hours
+after the test dose. The flood dose was sometimes followed
+by an additional “booster” dose of ibogaine of 3 to 5 mg/
+kg, at an interval following the flood dose commonly in
+the range of 1 to 16 hr. Providers administered booster
+dosages to alleviate residual or re-emergent withdrawal
+symptoms, or at the election of the patient to increase the
+intensity of the psychoactive experience.
+A set of clinical guidelines for detoxification from
+opioids with ibogaine has been published online by a
+group of physician and lay ibogaine treatment providers
+(62) and is representative of the approach by the providers
+of treatment in this study. Briefly, pre-treatment evalua-
+tion included medical history, EKG, and electrolyte and
+liver function tests. Monitoring throughout the treatment
+included continuous pulse oximetry and three-lead EKG,
+and monitoring of blood pressure. Intravenous access was
+maintained during the treatment, with a medical profes-
+sional (MD, nurse, or paramedic) certified in Advanced
+Cardiac Life Support (ACLS) present for at least the first
+24 hours of the treatment.
+26
+T. K. BROWN AND K. ALPER
+
+
+Assessment and rating
+The baseline pretreatment interview was conducted after
+the participant’s arrival at the clinic, one to three days prior
+to the administration of ibogaine. The first author (T.B.)
+conducted the follow-up interviews with subjects and their
+significant others, either in-person at the clinic or by tele-
+phone. Subjects were followed up at intervals of 1, 3, 6, 9,
+and 12 months following treatment with ibogaine. A mem-
+ber of the research team also attempted to contact by phone
+a corroborating person identified by the study participant
+to independently verify information regarding the partici-
+pant’s substance use from the time of baseline assessment
+throughout the 12-month follow-up period.
+Subjects were evaluated using the Addiction Severity
+Index (ASI), Lite version (63) at pretreatment baseline
+and at follow-up intervals of 1, 3, 6, 9, and 12 months
+after treatment with ibogaine. The ASI has seven composite
+measures with distinct item content entitled Drug Use,
+Alcohol Use, and Family/Social, Employment, Legal,
+Medical, and Psychiatric Status (64). Each ASI Composite
+(ASIC) score is a sum of values of ASI items, scaled var-
+iously as the number of days in the last 30 days, log
+transformation, binary values, or as continuous ratings of
+severity. ASIC item values are normalized relative to their
+maximal possible values, weighted equally and summed.
+The item sum totals divided by the number of items yields
+the ASIC score with a value in the range of 0 to 1.0. Higher
+ASIC scores indicate greater problem severity.
+Detoxification outcomes were assessed with the 16-item
+Subjective Opioid Withdrawal Scale (SOWS) (65), which
+consists of 16 questions regarding withdrawal symptoms
+on a zero through the four-point scale. The baseline SOWS
+was administered within one hour prior to the test dose.
+The time intervals between test, flood and possible booster
+dosages were at the election of the provider and non-uni-
+form across subjects. The follow-up SOWS was adminis-
+tered when the provider viewed the treatment as
+completed, with no need for further dosing, with the sub-
+ject exhibiting no withdrawal signs, ambulating and com-
+municating normally, and eating.
+Table 1. Demographic and drug use characteristics and prior treatment history of the study sample.
+Demographics
+N
+30
+Gender
+25 male, 5 female
+Age
+29.0 ± 9.0 years
+Ethnicity
+27 Caucasian, 1 Hispanic, 2 other
+Years of education
+13.6 ± 1.7
+Usual employment, past 3 years
+Employed full-time 13 (43%); part-time
+8 (27%); unemployed 5 (17%); student 3
+(10%); retired /disability 1 (3%)
+Any illegal source of income in past 30 days
+13 (43%)
+Substance use
+Substance self-reported as most problematic
+Heroin (14), prescription opioid
+analgesics (10), buprenorphine (3),
+methadone (2), opium (1)
+Mean number different opioid substances used
+2.2 ± 1.1
+Mean duration of opioid use
+5.2 ± 3.0 years
+Predominant route of heroin self-administration
+Intravenous (12), smoking (5), intranasal (1)
+Substances
+Number using (%)
+Days used in previous 30 days
+Mean daily amount when using
+All opioid substances
+30 (100%)
+29.0 ± 3.2
+–
+All prescription opioid analgesics
+23 (77%)
+21.4 ± 9.2
+–
+Oxycodone
+21 (70%)
+20.8 ± 9.9
+250 ± 180 mg
+Heroin
+18 (60%)
+22.7 ± 10.1
+1.3 ± 0.94 grams
+Methadone (maintenance)
+5 (17%)
+20.2 ± 6.8
+110 ± 60 mg
+Methadone (other source)
+4 (13%)
+3.3 ± 1.5
+30 ± 16 mg
+Buprenorphine (maintenance)
+6 (20%)
+13.3 ± 10.4
+5.8 ± 1.7 mg
+Buprenorphine (other source)
+1 (3%)
+8
+2 mg
+Opium
+1 (3%)
+30
+1.5 g
+Cannabis
+20 (67%)
+17.6 ± 12.3
+1.7 ± 3.5 grams
+Benzodiazepines
+14 (47%)
+14.7 ± 11.2
+–
+Alcohol
+12 (40%)
+10.3 ± 8.4
+5.4 ± 4.6 drinks
+Cocaine
+10 (33%)
+12.9 ± 10.4
+1.3 ± 1.1 grams
+Methamphetamine
+3 (10%)
+12.0 ± 9.2
+200 ± 250 mg
+Classical hallucinogens
+3 (10%)
+3.0 ± 2.6
+–
+>1 substance per day
+29 (97%)
+20.6 ± 8.4
+–
+Prior treatment history
+Mean number of previous treatment episodes for opioid dependence
+3.1 ± 2.6
+Prior opioid treatment episodes, type
+Number of subjects (%)
+Any prior treatment for opioid dependence
+29 (97%)
+Buprenorphine or methadone maintenance
+16 (53%)
+Detoxification only
+10 (33%)
+Residential treatment
+16 (53%)
+12-step or other group therapy
+7 (23%)
+Treatment for alcohol dependence
+3 (10%)
+Inpatient psychiatric hospitalization
+9 (30%)
+THE AMERICAN JOURNAL OF DRUG AND ALCOHOL ABUSE
+27
+
+
+Statistical tests
+The effect of ibogaine in opioid detoxification was eval-
+uated with paired t-tests comparing pre- versus posttreat-
+ment SOWS scores. Posttreatment follow-up ASIC scores
+were compared using paired t-tests and noninferiority
+tests. Statistical analysis was performed using SAS® soft-
+ware Version 9.4 of the SAS System for Windows 10.
+Paired t-tests were used to compare ASIC scores at 1, 3,
+6, 9 and 12 months to their pretreatment baseline. An
+additional question posed to the ASI data was whether a
+treatment effect observed at 1 month was sustained at
+subsequent 3-, 6-, 9-, and 12-month time points. One
+month was selected on the basis of prior observation as a
+posttreatment time interval at which an ibogaine treatment
+effect is particularly evident (1). This question was
+addressed with noninferiority tests (66,67) on the 20
+subjects available for follow-up at 1 month. The null
+hypothesis of the noninferiority test is that the posttreat-
+ment 3-, 6-, 9-, and 12-month ASIC scores are greater
+(worse) than their 1-month posttreatment values by a
+margin of ≥0.1 ASIC point. Rejection of the null hypothesis
+on the basis of a low p-value indicates that relative to its 1-
+month value, the ASIC score at the later time point had not
+increased by a margin of ≥0.1 point, and was noninferior,
+i.e., not worse, suggesting a sustained treatment effect that
+is at least equivalent, or better relative to that seen at 1
+month. Conversely, nonsignificant noninferiority indicates
+that the effect at the later time point does not reach equiva-
+lence to the effect evident at 1 month.
+As a conservative adjustment for missing follow-up
+data, the p-values of the statistical tests on ASIC scores
+were calculated setting missing posttreatment values
+equal to their baseline pretreatment value. Paired
+t-tests comparing posttreatment values to their pre-
+treatment baseline were performed utilizing the total
+study N = 30 subjects, setting the missing values of
+subjects unavailable at the 1-, 3-, 6-, 9-, and 12-month
+time points to their pretreatment baseline values. The
+noninferiority tests used 1-month values as the refer-
+ence comparison, so these tests were performed on only
+those n = 20 subjects that were available for follow-up
+at 1 month, with missing subsequent 3-, 6-, 9-, and
+12-month values set to their pretreatment baseline values.
+Results
+Sows
+The SOWS score for the entire study sample (a pre- and
+posttreatment SOWS was returned on 27 subjects)
+decreased from pretreatment baseline 31.0 ± 11.6 to 14.0
+± 9.8 following ibogaine treatment, a mean reduction of
+17.0 ± 12.5 points (t = 7.07, df = 26, p < .001). The mean
+time interval between the baseline and second SOWS was
+76.5 ± 30 hrs.
+Table 2. ASIC scores at pretreatment baseline and 1, 3, 6, 9, and 12 months, and opioid free days: Paired t-tests were used to
+compare ASIC scores at 1, 3, 6, 9, and 12 months posttreatment to their baseline pretreatment values (N = 30; significance level of
+p-values indicated by †). Noninferiority tests were used to compare ASIC scores at 3, 6, 9, and 12 months posttreatment to their 1-
+month posttreatment values (n = 20; significance level of p-values indicated by *). The means and standard deviations are
+unadjusted and computed on the subjects (n) available at the respective time point. The p-values are adjusted for missing
+follow-up data by performing the respective statistical tests with missing values set equal to their baseline pretreatment value as
+described in Methods. Opioid-free days in the previous 30 days are shown in the lower part of the Table.
+Pretreatment
+One month
+3 months
+6 months
+9 months
+12 months
+n
+30
+20
+19
+14
+17
+14
+ASIC Scores
+Drug Use
+0.40 ± 0.08
+0.11 ± 0.09†††
+0.15 ± 0.13†††
+0.12 ± 0.09†††
+0.13 ± 0.13†††
+0.17 ± 0.10†††
+Alcohol Use
+0.08 ± 0.18
+0.09 ± 0.13
+0.07 ± 0.11***
+0.16 ± 0.16*
+0.12 ± 0.13*
+0.16 ± 0.24
+Family/Social Status
+0.24 ± 0.16
+0.07 ± 0.13†††
+0.06 ± 0.13†††**
+0.08 ± 0.15††*
+0.03 ± 0.09†††*
+0.04 ± 0.07†††
+Employment Status
+0.34 ± 0.26
+0.44 ± 0.28††
+0.33 ± 0.27**
+0.26 ± 0.22***
+0.37 ± 0.29***
+0.25 ± 0.19***
+Legal Status
+0.22 ± 0.24
+0.10 ± 0.18††
+0.04 ± 0.09††**
+0.14 ± 0.14†*
+0.05 ± 0.10†**
+0.10 ± 0.17††*
+Medical Status
+0.19 ± 0.31
+0.26 ± 0.28
+0.27 ± 0.34*
+0.25 ± 0.28**
+0.15 ± 0.31**
+0.26 ± 0.35**
+Psychiatric Status
+0.27 ± 0.18
+0.18 ± 0.22
+0.17 ± 0.20†*
+0.16 ± 0.23††*
+0.14 ± 0.20
+0.23 ± 0.20
+Opioid-free days in the previous 30 days
+Among subjects available
+for follow up
+1.0 ± 3.3
+27.7 ± 5.7
+22.5 ± 11.2
+20.2 ± 13.5
+20.6 ± 13.4
+17.3 ± 14.0
+Among all subjects
+(N=30), missing values
+set to pretreatment
+baseline
+1.0 ± 3.3
+18.9 ± 13.6
+14.9 ± 13.7
+9.9 ± 13.6
+11.7 ± 14.4
+8.8 ± 12.7
+Number of subjects
+reporting no opioid
+use in previous 30
+days (%N)
+0
+15 (50%)
+10 (33%)
+6 (20%)
+11 (37%)
+7 (23%)
+Paired t-tests (†): †p < .05; ††p < .01; †††p < .001.
+Noninferiority tests (*): *p < .05; **p < .01; ***p < .001.
+28
+T. K. BROWN AND K. ALPER
+
+
+The original study of the development and validation of
+the 16-item SOWS by Handelsman et al. (65) found that
+that the effect of methadone on SOWS scores was smaller
+in opioid-dependent subjects with comorbid abuse of other
+substances (alcohol, stimulants, or sedative/hypnotics)
+relative to those without comorbid substance abuse (65).
+Accordingly, we compared pre- versus posttreatment
+change in SOWS scores in subjects with (n = 11), and
+without (n = 16) comorbid substance use, defined as 5 or
+more drinking occasions of at least 5 drinks, any stimulant
+use, or more than 5 days of use of benzodiazepines in the
+previous 30 days. No significant difference was found,
+SOWS scores decreased by 16.8 ± 12.4 points in the
+group with comorbid substance use, versus 17.2 ± 12.7
+points in the group without (t = 0.09, df = 20.7, p = .928).
+Tests of difference on ASIC scores relative to
+baseline at 3-, 6-, 9-, and 12-month follow-up
+Table 2 summarizes the results of paired t-tests of
+difference on ASIC scores comparing 1-, 3-, 6-, 9-,
+and 12-month values to their pretreatment baseline.
+In the Table, p-values are adjusted for missing data as
+described in Methods, and the ASIC scores are
+unadjusted. Significantly decreased ASIC scores, indi-
+cating improvement relative to pretreatment baseline
+were evident at all posttreatment time points for Drug
+Use (p < .001 at 1, 3, 6, 9, and 12 months), Family/
+Social Status (p < .001 at 1, 3, 9 and 12 months; p < .01
+at 6 months), and Legal Status (p < .01 at 1, 3, and 12
+months; p < .05 at 6 and 9 months).
+Alcohol Use and Medical Status scores did not differ
+significantly from baseline at any time point. The apparent
+lack of a clear trend regarding the Alcohol Use score across
+the posttreatment follow-up interval may reflect the rela-
+tively low use of alcohol in the study sample. A decrease in
+Psychiatric Status scores from baseline at 1 month
+approached significance (p = .053, data not shown in
+Table), and scores were lower than their pretreatment
+baseline at 3 months (p < .05) and 6 months (p < .01).
+The Employment Status score was significantly increased
+relative to pretreatment baseline only at 1 month (p < .01),
+without significant differences at other time points, possi-
+bly explained by the interruption of employment in order
+to participate in treatment.
+Tests of noninferiority on ASIC scores relative to 1
+month over the subsequent posttreatment interval
+of 3 to 12 months
+Table 2 includes noninferiority tests of ASIC scores at 3-,
+6-, 9-, and 12-month posttreatment follow-up compared
+to 1-month posttreatment, with p-values adjusted for
+missing subjects as described in Methods. The noninfer-
+iority tests were significant for Family/Social (p < .01 at 3
+months; p < .01 at 6 and 9 months) and Legal Status
+scores (p < .01 at 3 and 9 months; p < .05 at 6 and 12
+months) indicating that improvement in these measures
+at the 1-month posttreatment interval was sustained at
+these subsequent time points.
+The noninferiority results on Drug Use scores adjusted
+for missing data were not significant at any time point
+(Table 2). In contrast, without the adjustment for missing
+data, the noninferiority results on Drug Use scores are
+significant at p < .001 at all posttreatment time points
+(data not shown). Figure 1 plots individual trajectories on
+the Drug Use score across the duration of the study, and
+appears to indicate an effect at 1 month that persists up to
+12 months in a subset of individual subjects. The differ-
+ential significance of the noninferiority test results utiliz-
+ing adjusted in contrast to unadjusted Drug Use scores
+likewise suggests a subset of responders for whom a
+treatment effect is sustained across the 12-month follow-
+up interval, although the group noninferiority result
+Figure 1. Individual trajectories of the ASIC Drug Use score in all subjects available at one or more follow-up time points subsequent
+to treatment (n = 26).
+THE AMERICAN JOURNAL OF DRUG AND ALCOHOL ABUSE
+29
+
+
+becomes nonsignificant under the conservative assump-
+tion that all missing subjects have relapsed to their base-
+line. For the entire sample of subjects, taken together with
+the results of the paired t-tests on ASIC scores that com-
+pare subsequent time points with pretreatment baseline,
+the noninferiority results suggest sustained reduction in
+Drug Use relative to pretreatment baseline across the 3- to
+12-month posttreatment interval that does not reach
+equivalence to the effect evident at 1 month.
+Psychiatric Status scores were significantly noninfer-
+ior (p < .05), at 3 and 6 months, indicating that the
+marginal 1-month improvement relative to baseline
+was sustained at these subsequent time points. Alcohol
+Use and Medical Status scores yielded some significant
+results on noninferiority tests, however neither score
+differed from baseline as indicated by the paired t-tests
+(Table 2), here the significant noninferiority results are
+consistent with the apparent stability of these scores
+across
+the
+pre-
+and
+posttreatment
+time
+interval.
+Similarly, apart from the transient elevation at 1 month
+noted above, Employment Status scores were unchanged
+from baseline at all other time points, with the signifi-
+cant noninferiority results consistent with the relative
+stability of this score at time points other than 1-month
+posttreatment.
+Relationship of baseline characteristics to
+subsequent outcome
+A subset of 12 subjects had favorable outcomes, defined as
+retention at 9 or 12 months with ≥75% reductions of the
+Drug Use score relative to pretreatment baseline. This sub-
+set of 12 subjects with favorable outcomes did not differ
+significantly from the remaining subjects (n = 18) with
+regard to any of the demographic features in Table 1. No
+difference wasfoundbetweenthese twogroups with respect
+to their rates of use of non-opioid substances, or opioids
+other than methadone (see below), although there was a
+marginally higher rate of benzodiazepine use in the group
+with less favorable outcomes (Fisher’s Exact p = .072). The
+two groups did not differ regarding whether the substance
+they identified as most problematic was heroin (Fisher’s
+Exact p = .457) or prescription opioid analgesics (Fisher’s
+Exact p = .622), or whether they reported the intravenous
+route as the predominant route of heroin self-administra-
+tion (Fisher’s Exact p = .709).
+Exposure to methadone, defined as any use of metha-
+done in the previous 30 days or a prior history of metha-
+done maintenance treatment, was associated with less
+favorable outcome (Fisher’s Exact p = .002). In contrast,
+exposure to buprenorphine did not differ between the two
+groups (Fisher’s Exact p > .999). The subjects with less
+favorable outcomes averaged 3.8 ± 2.9 prior treatment
+episodes versus 2.0 ± 1.6 in the favorable outcome group
+(t = 2.16, df = 27.3, p = .041). Subjects with histories of
+methadone treatment (n = 13) had a mean of 4.5 ± 3.1
+prior treatment episodes, compared to 2.0 ± 1.5 in the
+subjects (n = 17) without a history of methadone treat-
+ment (t = 2.66, df = 16.4, p = .017). The dataset did not
+permit an analysis of mediation of outcome by metha-
+done exposure per se versus the number of prior treat-
+ment episodes.
+Subjects receiving other SUD treatment during
+follow-up
+A total of 9 subjects received additional treatment during
+the 12 months following opioid detoxification with ibo-
+gaine, with a total of 10 treatment episodes: drug-free
+residential (n = 4; mean 2.3 ± 1.1 months, range 0.5 to
+3.1 months), opioid agonist maintenance (n = 3; mean 2.3
+± 2.2 months, range 1.0 to 4.8 months), or an additional
+subsequent ibogaine treatment (n = 3). Two of the 12
+subjects in the favorable outcome group received addi-
+tional treatment, compared to 7 of the 18 remaining
+subjects (Fisher’s Exact p = .249).
+In the statistical analyses subjects in residential treat-
+ment were assumed to be missing and their missing ASIC
+score values set to pretreatment values, and these subjects
+were not included in the subset who reported no opioid use
+in the previous 30 days. Previous 30-day use of methadone
+or buprenorphine in the context of maintenance or from
+another source was regarded as opioid use and assessed
+using the ASI as with other subjects and time points.
+Adverse events
+No clinically significant cardiovascular or other medical
+events occurred in this study.
+Discussion
+This observational study reports on follow-up data sub-
+sequent to detoxification with ibogaine of 30 individuals
+with OUD. The data appear to indicate treatment effects
+in detoxification, and on the use of opioids and other
+substance use-related outcomes at 1 month, sustained to
+a variable extent over the subsequent posttreatment
+interval of up to 12 months.
+The reduction in SOWS scores in this study is consis-
+tent with prior case series (4,5), and the status of opioid
+detoxification as the purpose for which ibogaine is most
+commonly used (1). The clinical effect of ibogaine on
+opioid withdrawal symptoms appears of a comparable
+order of magnitude to that of methadone in the study
+by Handelsman et al. (65), in which subjects withdrawing
+30
+T. K. BROWN AND K. ALPER
+
+
+from opioids were administered the SOWS at pretreat-
+ment baseline and following two days of methadone
+stabilization. In that study, the SOWS decreased by a
+mean of 18.7 points (from 24.3 to 5.6) in subjects who
+used opioid exclusively, and 8.7 points (from 23.1 to 14.4)
+in subjects who additionally abused other, non-opioid
+substances. In the present study, the mean SOWS
+decrease following the administration of ibogaine was 17
+points (from 31 to 14), without a significant effect related
+to the use of non-opioid substances.
+The effect of ibogaine on drug use at 1 month appears
+substantive relative to reported outcomes following
+opioid detoxification. In this study 15 (50%) and 10
+(33%) of subjects reported no opioid use during the
+previous 30 days at 1 and 3 months respectively
+(Table 2). By comparison, a large recent study reported
+an 8.6% rate of treatment success, defined as self-report
+of ≤4 days of opioid use in the previous 30 days, at 8
+weeks subsequent to tapering and discontinuing bupre-
+norphine with no subsequent pharmacotherapy (68).
+Recent systematic reviews on follow-up of opioid detox-
+ification without subsequent maintenance treatment
+report rates of abstaining from illicit opioid use of 18%
+at 4 weeks following detoxification with buprenorphine
+(69), and 26% at 6 weeks following detoxification with
+methadone (70).
+Group statistics indicated Drug Use scores were
+improved relative to pretreatment baseline at all posttreat-
+ment time points, although the noninferiority tests sug-
+gest that this improvement was sustained over the
+subsequent 3 to 12 months at levels that did not reach
+equivalence to the effect observed at 1 month. Treatment
+responses in clinical populations occur in subsets of indi-
+viduals, and not as a uniformly equal mean effect across
+all subjects. Figure 1 suggests treatment effects extending
+up to 12 months in a subset of individuals, evident as
+trajectories characterized by large Drug Use score
+decreases from baseline to 1 month that are sustained at
+subsequent time points.
+The subset of 12 subjects with favorable outcomes
+averaged 2.0 ± 1.6 prior treatment episodes for OUD,
+indicating that ibogaine may have provided distinctive
+benefit for individuals with histories of previously
+unsuccessful treatment. There was a higher prevalence
+of a history of methadone maintenance and a greater
+number of prior treatments in the group with less
+favorable outcomes. It is not clear whether the effect
+of exposure to methadone on outcome was mediated by
+a general association of exposure to methadone as a
+correlate of a history of more treatment episodes, or a
+possible pharmacologically mediated effect of exposure
+to methadone per se, such as the development of rela-
+tively more severe physiological dependence.
+Although no adverse cardiovascular events were
+observed in this study, ibogaine has been associated
+with fatalities, the most common proximal cause of
+which appears to be cardiac
+arrhythmia (61,71).
+Ibogaine has been associated with polymorphic ventri-
+cular tachycardia (PVT) including torsade de pointes
+(TdP), as well as bradycardia, which further potentiates
+the risk of PVT (72). Both ibogaine and noribogaine
+cause blockade of the voltage-gated cardiac potassium
+channel encoded by the human ether-a-go-go-related
+gene (hERG) (73), which is the most common cause of
+drug-induced TdP (72). 18-MC, which shares with ibo-
+gaine the same ibogamine structural skeleton that
+defines the iboga class of monoterpene indole alkaloids,
+produces substantially less hERG blockade than ibogaine
+or noribogaine (73), and has not produced bradycardia
+in the animal model (74). This suggests that safer com-
+pounds can be designed utilizing systematic substitu-
+tions on the iboga alkaloid scaffold.
+Qualitative perspective
+Some themes are recurrent in comments made in inter-
+views and email correspondence by study participants, who
+appear to have viewed the subjective experience with ibo-
+gaine as psychologically salient. Distinctive features of the
+subjective experience mediated by ibogaine include what
+has been termed “the slide show”, a panoramic, rapid
+readout of long-term visual memory, and equanimity
+regarding the material retrieved (75,76). Some practitioners
+who have used classical hallucinogens to assist psychother-
+apy have utilized ibogaine (1,77,78). Family/Social was the
+most improved ASIC factor apart from Drug Use, in
+apparent consonance with the themes of “one hearted-
+ness”, and “binding” of the individual to family and ances-
+tors in Bwiti, the African context of sacramental use of T.
+iboga (76,79). Lotsof has suggested that effects on drug use
+and interpersonal functioning at later intervals after taking
+ibogaine may correspond to processing and behavioral
+integration of a psychodynamically salient psychoactive
+experience (11,75).
+One theme among study participants was the attribu-
+tion of insight and meaning to the content of the psy-
+choactive state produced by ibogaine. One subject wrote,
+“I saw my family from young to older and how everything
+has been and how I affected them.” and, “When I closed my
+eyes most of the time I had visions from my past. . . A
+profound sense of love for my family and their love for me
+and an intense, almost piercing agony as I was over-
+whelmed with the remorse and the waste and loss, feeling
+empathy with my family over all their hopes for me dashed
+by my relentless pursuit of drugs. . . I kept seeing clips – real
+memories, of high-school girlfriends and playing music with
+THE AMERICAN JOURNAL OF DRUG AND ALCOHOL ABUSE
+31
+
+
+friends – but then also clips of the present day in an
+alternate reality where I hadn’t squandered so much love
+or compassion that had been offered to me.”
+Another theme was the characterization of an interval
+of diminished posttreatment drug craving as a window of
+opportunity for personal change, evident in comments
+such as, “. . .you could safely say that iboga will give an
+opiate addict several months to a half a year of freedom
+from cravings and an expanded awareness. This gives the
+user a period of time in which to get his/her life together
+and learn to face things straightforwardly, directly and
+honestly. Iboga will not do the work for you. However, it
+will help you do your own work.”
+Limitations of this study
+This is a study on an unusual pharmacotherapy in a
+challenging setting for systematic controlled clinical
+investigation. There were a limited number of subjects
+and substantial attrition over time. This study lacked a
+control group and compared individuals to their baseline.
+This study relied on self-report without laboratory verifi-
+cation, with the ASIC Drug Use score as the primary
+measure of substance use outcome. Adequately powered
+randomized controlled clinical studies will be needed to
+develop ibogaine or its structural derivatives.
+Laboratory verification of self-reports are a necessary
+feature in future clinical research to prevent biasing the
+data due to underreporting of drug use. Nonetheless,
+self-reporting in clinical research on SUDs is often
+accurate (80), particularly when there are no negative
+consequences to the subject for reporting use. The
+study inclusion criterion requiring a corroborative
+source may have provided additional reliability.
+The mean time interval between baseline and second
+SOWS for the entire sample was 76.5 hours, raising a
+potential concern that in this time frame even an inactive
+agent might yield falsely positive results on the basis of the
+eventual resolution of symptoms with unassisted opioid
+withdrawal. This view would take as evidence for an effect
+in detoxification the resolution of withdrawal symptoma-
+tology within the time window of expected peak sympto-
+matic severity in unassisted opioid withdrawal. Published
+estimates of the time interval from last use to peak with-
+drawal symptom severity in unassisted withdrawal from
+heroin are commonly in a range with a lower bound of
+approximately 48 hours (81–83), and an upper bound at 72
+hours (84,85), or even as long as four days (86,87). The
+expression of the opioid withdrawal syndrome may be
+prolonged with severe degrees of physiological dependence
+(82), which may be relevant here in view of high dosages of
+heroin and oxycodone used by this study population
+(Table 1).
+The subjects in this study had substantial rates of
+previous 30-day use of buprenorphine (23%) or metha-
+done (30%) (Table 1), and 15 subjects (50%) had used
+at least one of these long-acting opioids in the previous
+30 days prior to ibogaine treatment. Withdrawal asso-
+ciated with long-acting opioids evolves and persists
+over a more extended time interval compared to short
+acting opioids (88–90), which may also have increased
+the time interval required for detoxification in this
+sample. Subjects on long-acting opioids had been
+instructed to switch to short acting opioids prior to
+treatment, but likely varied significantly regarding
+their success in doing so.
+Another factor that may have prolonged the treat-
+ment is the test-flood-booster opioid detoxification
+protocol, which utilizes the response to the test dose
+as a probe to estimate the severity of dependence (62).
+Subjects in the present study were using amounts of
+heroin and methadone that are twice as large as those
+used by subjects in earlier published series of detoxifi-
+cation treatments in the US in the 1960s and the
+Netherlands in the late 1980s (4,91), and heroin of the
+present day is of substantially greater purity and lower
+cost (92). However, the providers in this study utilized
+total dosages of ibogaine that are very similar to those
+used in prior treatments (4), suggesting a dose ceiling.
+There is a relatively greater awareness of medical risk
+among contemporary treatment providers (1,61,62)
+compared to the previous era of the initial ibogaine
+treatments (4). The test-flood-booster ibogaine dosage
+approach utilized by the providers in this observational
+study appears to be an adaptation intended toward
+maximizing efficiency in the face of severe levels of
+physiological dependence, and contrasts with an earlier
+era in which opioid detoxification treatments with ibo-
+gaine proceeded more rapidly, with nearly all of the
+total ibogaine dosage administered at once (4).
+The qualitative descriptions and comments from the
+subjects in this study suggest tolerability as another line
+of clinical evidence for a treatment effect of ibogaine in
+detoxification. The null hypothesis that ibogaine is ineffec-
+tive in alleviating withdrawal would equate its tolerability
+to that of unassisted withdrawal without any ancillary
+medications for two to five days in individuals with a one
+gram/day heroin or 200 mg/day oxycodone habit. In view
+of the lack of a significant placebo effect in opioid detox-
+ification (70,93,94), attributions regarding the effectiveness
+of ibogaine in the null scenario would be very low to say the
+least, which did not occur in the present study. Among
+subjects who spontaneously mentioned withdrawal symp-
+toms when asked to provide descriptions of their ibogaine
+experience, ibogaine was consistently attributed with alle-
+viating withdrawal.
+32
+T. K. BROWN AND K. ALPER
+
+
+Conclusion
+Within the limitations of an uncontrolled, observational
+study ibogaine appeared to have a substantive treatment
+effect in opioid detoxification, and group statistics and
+individual trajectories appear to indicate an effect of redu-
+cing drug use at 1 month, which was sustained up to 12
+months in a subgroup of subjects. Ibogaine appears to have
+had a clinical effect in some subjects with histories of failure
+of other treatments for OUD. The iboga alkaloid structural
+skeleton may be accurately regarded as a “privileged scaf-
+fold”, a structure of pharmacological significance on which
+systematic substitutions modulate therapeutic and toxic
+effects (95,96). With an unknown and likely novel mechan-
+ism of action, and a structure that evidently accommodates
+rational drug design, ibogaine may provide an interesting
+prototype for discovery and development of fundamentally
+innovative pharmacotherapy.
+Acknowledgments
+The Multidisciplinary Association for Psychedelic Studies
+(MAPS) supported this study. We thank the following indi-
+viduals for their effort in this project: Jeff Israel, Clare
+Wilkins, Peter Flom, Ph.D., Julie Denenberg, M.A., Kristin
+Gorenflo, I.M.F.T., Mayra A. Gomez, Valerie Mojeiko
+Sonstroem, and Meg Jordan, Ph.D., R.N.
+Declaration of interest
+The authors report no conflicts of interest and have no
+financial interests to disclose.
+References
+1. Alper KR, Lotsof HS, Kaplan CD. The ibogaine medi-
+cal subculture. J Ethnopharmacol 2008;115:9–24.
+2. Brown TK. Ibogaine in the treatment of substance
+dependence. Curr Drug Abuse Rev 2013;6:3–16.
+3. Vastag B. Addiction research. Ibogaine therapy: a ‘vast,
+uncontrolled experiment’. Science 2005;308:345–346.
+4. Alper KR, Lotsof HS, Frenken GM, Luciano DJ,
+Bastiaans J. Treatment of acute opioid withdrawal
+with ibogaine. Am J Addict 1999;8:234–242.
+5. Mash DC, Kovera CA, Pablo J, Tyndale R, Ervin FR,
+Kamlet JD, Hearn WL. Ibogaine in the treatment of heroin
+withdrawal. Alkaloids Chem Biol 2001;56:155–171.
+6. Alper KR. Ibogaine: a review. Alkaloids Chem Biol
+2001;56:1–38.
+7. Bastiaans E. Life after ibogaine: an exploratory study of
+the long-term effects of ibogaine treatment on drug
+addicts. Doctorandus thesis. Faculty of Medicine Vrije
+Universiteit Amsterdam 2004. URL https://www.iceers.
+org/docs/science/iboga/Bastiaans%20E_Life_After_
+Ibogaine.pdf (accessed April 11, 2017).
+8. Schenberg EE, De Castro Comis MA, Chaves BR, Da
+Silveira DX. Treating drug dependence with the aid of
+ibogaine: a retrospective study. J Psychopharmacol
+2014;28:993–1000.
+9. Cloutier-Gill L, Wood E, Millar T, Ferris C, Eugenia
+Socias M. Remission of severe opioid Use disorder with
+ibogaine:
+a
+case
+report.
+J
+Psychoactive
+Drugs
+2016;48:214–217.
+10. Sisko B. Interrupting drug dependency with ibogaine: a
+summary of four case histories. Multidisciplinary Assoc
+Psychedelic Stud (MAPS) Newslett 1993;4:15–24.
+11. Lotsof HS, Alexander NE. Case studies of ibogaine
+treatment: implications for patient management strate-
+gies. Alkaloids Chem Biol 2001;56:293–313.
+12. Dzoljic ED, Kaplan CD, Dzoljic MR. Effect of ibogaine
+on naloxone-precipitated withdrawal syndrome in
+chronic
+morphine-dependent
+rats.
+Arch
+Int
+Pharmacodyn Ther 1988;294:64–70.
+13. Cappendijk SL, Fekkes D, Dzoljic MR. The inhibitory
+effect of norharman on morphine withdrawal syn-
+drome in rats: comparison with ibogaine. Behav Brain
+Res 1994;65:117–119.
+14. Glick SD, Rossman K, Rao NC, Maisonneuve IM,
+Carlson JN. Effects of ibogaine on acute signs of mor-
+phine-withdrawal in rats - independence from tremor.
+Neuropharmacology 1992;31:497–500.
+15. Parker LA, Burton P, McDonald RV, Kim JA, Siegel S.
+Ibogaine interferes with motivational and somatic effects
+of naloxone-precipitated withdrawal from acutely admi-
+nistered morphine. Prog Neuropsychopharmacol Biol
+Psychiatry 2002;26:293–297.
+16. Frances B, Gout R, Cros J, Zajac JM. Effects of ibogaine on
+naloxone-precipitated withdrawal in morphine-dependent
+mice. Fundam Clin Pharmacol 1992;6:327–332.
+17. Layer RT, Skolnick P, Bertha CM, Bandarage UK,
+Kuehne ME, Popik P. Structurally modified ibogaine
+analogs exhibit differing affinities for NMDA recep-
+tors. Eur J Pharmacol 1996;309:159–165.
+18. Leal MB, Michelin K, Souza DO, Elisabetsky E. Ibogaine
+attenuation of morphine withdrawal in mice: role of gluta-
+mate
+N-methyl-D-aspartate
+receptors.
+Prog
+Neuropsychopharmacol Biol Psychiatry 2003;27:781–785.
+19. Popik
+P,
+Layer
+RT,
+Fossom
+LH,
+Benveniste
+M,
+Geterdouglass B, Witkin JM, Skolnick P. NMDA antago-
+nist properties of the putative antiaddictive drug, ibo-
+gaine. J Pharmacol Exp Ther 1995;275:753–760.
+20. Aceto
+MD,
+Bowman
+ER,
+Harris
+LS,
+May
+EL.
+Dependence studies of new compounds in the rhesus
+monkey
+and
+mouse
+(1991).
+NIDA
+Res
+Monogr
+1992;119:513–558.
+21. Koja T, Fukuzaki K, Kamenosono T, Nishimura A,
+Nagata R, Lukas SE. Inhibition of opioid abstinent
+phenomena by Ibogaine. 69th annual meeting of the
+Japanese Pharmacological Society, March 20–23, 1996.
+Jpn J Pharmacol 1996;71:89.
+22. Belgers
+M,
+Leenaars
+M,
+Homberg
+JR,
+Ritskes-
+Hoitinga
+M,
+Schellekens
+AF,
+Hooijmans
+CR.
+Ibogaine and addiction in the animal model, a sys-
+tematic review and meta-analysis. Transl Psychiatry
+2016;6:e826.
+23. Glick SD, Rossman K, Steindorf S, Maisonneuve IM,
+Carlson JN. Effects and aftereffects of ibogaine on
+morphine self-administration in rats. Eur J Pharmacol
+1991;195:341–345.
+THE AMERICAN JOURNAL OF DRUG AND ALCOHOL ABUSE
+33
+
+
+24. Glick SD, Kuehne ME, Raucci J, Wilson TE, Larson D,
+Keller RW Jr., Carlson JN. Effects of iboga alkaloids on
+morphine and cocaine self-administration in rats: rela-
+tionship to tremorigenic effects and to effects on dopa-
+mine release in nucleus accumbens and striatum. Brain
+Res 1994;657:14–22.
+25. Glick SD, Pearl SM, Cai J, Maisonneuve IM. Ibogaine-
+like
+effects
+of
+noribogaine
+in
+rats.
+Brain
+Res
+1996;713:294–297.
+26. Dworkin SI, Gleeson S, Meloni D, Koves TR, Martin
+TJ. Effects of ibogaine on responding maintained by
+food,
+cocaine
+and
+heroin
+reinforcement
+in
+rats.
+Psychopharmacology (Berl) 1995;117:257–261.
+27. Maisonneuve IM, Glick SD. Interactions between ibo-
+gaine and cocaine in rats - invivo microdialysis and
+motor behavior. Eur J Pharmacol 1992;212:263–266.
+28. Cappendijk SL, Dzoljic MR. Inhibitory effects of ibo-
+gaine on cocaine self-administration in rats. Eur J
+Pharmacol 1993;241:261–265.
+29. Sershen H, Hashim A, Lajtha A. Ibogaine reduces pre-
+ference for cocaine consumption in C57BL/6By mice.
+Pharmacol Biochem Behav 1994;47:13–19.
+30. Maisonneuve IM, Keller RW Jr., Glick SD. Interactions
+of ibogaine and D-amphetamine: in vivo microdialysis
+and motor behavior in rats. Brain Res 1992;579:87–92.
+31. Rezvani AH, Overstreet DH, Lee YW. Attenuation of
+alcohol intake by ibogaine in three strains of alcohol-pre-
+ferring rats. Pharmacol Biochem Behav 1995;52:615–620.
+32. Maisonneuve IM, Keller RW Jr., Glick SD. Interactions
+between ibogaine, a potential anti-addictive agent, and
+morphine: an in vivo microdialysis study. Eur J
+Pharmacol 1991;199:35–42.
+33. Maisonneuve IM, Glick SD. Attenuation of the reinfor-
+cing efficacy of morphine by 18-methoxycoronaridine.
+Eur J Pharmacol 1999;383:15–21.
+34. Maisonneuve IM, Mann GL, Deibel CR, Glick SD.
+Ibogaine and the dopaminergic response to nicotine.
+Psychopharmacology (Berl) 1997;129:249–256.
+35. Glick SD, Maisonneuve IM, Visker KE, Fritz KA,
+Bandarage UK, Kuehne ME. 18-Methoxycoronardine
+attenuates nicotine-induced dopamine release and
+nicotine
+preferences
+in
+rats.
+Psychopharmacology
+(Berl) 1998;139:274–280.
+36. Antonio T, Childers SR, Rothman RB, Dersch CM,
+King C, Kuehne M, Bornmann WG, et al. Effect of
+iboga alkaloids on μ-opioid receptor-coupled G protein
+activation. PlosOne 2013;8:e77262.
+37. Glick
+SD,
+Maisonneuve
+IM,
+Szumlinski
+KK.
+Mechanisms of action of ibogaine: relevance to puta-
+tive therapeutic effects and development of a safer
+iboga
+alkaloid
+congener.
+Alkaloids
+Chem
+Biol
+2001;56:39–53.
+38. Schneider JA, McArthur M. Potentiation action of
+ibogaine
+(bogadin
+TM)
+on
+morphine
+analgesia.
+Experientia 1956;12:323–324.
+39. Schneider
+JA.
+Assigned
+to
+Ciba
+Pharmaceutical
+Products Inc. Summit NJ. Tabernanthine, Ibogaine
+Containing Analgesic Compostions. US Patent no.
+2,817,623. 1957.
+40. Bagal
+AA,
+Hough
+LB,
+Nalwalk
+JW,
+Glick
+SD.
+Modulation of morphine-induced antinociception by
+ibogaine and noribogaine. Brain Res 1996;741:258–262.
+41. Cao YJ, Bhargava HN. Effects of ibogaine on the devel-
+opment of tolerance to antinociceptive action of mu-,
+delta- and kappa-opioid receptor agonists in mice.
+Brain Res 1997;752:250–254.
+42. Bhargava HN, Cao YJ, Zhao GM. Effects of ibogaine
+and noribogaine on the antinociceptive action of mu-,
+delta- and kappa-opioid receptor agonists in mice.
+Brain Res 1997;752:234–238.
+43. Sunder Sharma S, Bhargava HN. Enhancement of mor-
+phine antinociception by ibogaine and noribogaine in
+morphine-tolerant mice. Pharmacology 1998;57:229–232.
+44. Pearl SM, Johnson DW, Glick SD. Prior morphine
+exposure enhances ibogaine antagonism of morphine-
+induced locomotor stimulation. Psychopharmacology
+(Berl) 1995;121:470–475.
+45. Skolnick P. Ibogaine as a glutamate antagonist: rele-
+vance to its putative antiaddictive properties. Alkaloids
+Chem Biol 2001;56:55–62.
+46. Trujillo KA, Akil H. Inhibition of opiate tolerance by
+non-competitive
+N-methyl-D-aspartate
+receptor
+antagonists. Brain Res 1994;633:178–188.
+47. Bisaga A, Comer S, Ward A, Popik P, Kleber H,
+Fischman M. The NMDA antagonist memantine
+attenuates the expression of opioid physical depen-
+dence
+in
+humans.
+Psychopharmacology
+(Berl)
+2001;157:1–10.
+48. Panchal V, Taraschenko OD, Maisonneuve IM, Glick
+SD. Attenuation of morphine withdrawal signs by
+intracerebral administration of 18-methoxycoronari-
+dine. Eur J Pharmacol 2005;525:98–104.
+49. Rho B, Glick SD. Effects of 18-methoxycoronaridine on
+acute
+signs
+of
+morphine
+withdrawal
+in
+rats.
+Neuroreport 1998;9:1283–1285.
+50. Deecher DC, Teitler M, Soderlund DM, Bornmann
+WG, Kuehne ME, Glick SD. Mechanisms of action of
+ibogaine and harmaline congeners based on radioli-
+gand binding studies. Brain Res 1992;571:242–247.
+51. Sweetnam PM, Lancaster J, Snowman A, Collins JL,
+Perschke S, Bauer C, Ferkany J. Receptor binding pro-
+file suggests multiple mechanisms of action are respon-
+sible for ibogaine’s putative anti-addictive activity.
+Psychopharmacology (Berl) 1995;118:369–376.
+52. MacInnes N, Handley SL. Characterization of the dis-
+criminable stimulus produced by 2-BFI: effects of imi-
+dazoline I(2)-site ligands, MAOIs, beta-carbolines,
+agmatine
+and
+ibogaine.
+Br
+J
+Pharmacol
+2002;135:1227–1234.
+53. He DY, McGough NNH, Ravindranathan A, Jeanblanc J,
+Logrip ML, Phamluong K, Janak PH, Ron D. Glial cell
+line-derived neurotrophic factor mediates the desirable
+actions of the anti-addiction drug ibogaine against alco-
+hol consumption. J Neurosci 2005;25:619–628.
+54. Carnicella
+S,
+He
+DY,
+Yowell
+QV,
+Glick
+SD,
+Noribogaine RD. But not 18-MC, exhibits similar
+actions as ibogaine on GDNF expression and ethanol
+self-administration. Addict Biol 2010;15:424–433.
+55. Glick SD, Maisonneuve IM, Kitchen BA, Fleck MW.
+Antagonism of α3β4 nicotinic receptors as a strategy to
+reduce opioid and stimulant self-administration. Eur J
+Pharmacol 2002;438:99–105.
+56. Pearl SM, Hough LB, Boyd DL, Glick SD. Sex differences
+in ibogaine antagonism of morphine-induced locomotor
+34
+T. K. BROWN AND K. ALPER
+
+
+activity and in ibogaine brain levels and metabolism.
+Pharmacol Biochem Behav 1997;57:809–815.
+57. Baumann MH, Rothman RB, Pablo JP, Mash DC. In vivo
+neurobiological effects of ibogaine and its O-desmethyl
+metabolite, 12-hydroxyibogamine (noribogaine), in rats.
+J Pharmacol Exp Ther 2001;297:531–539.
+58. Glue P, Lockhart M, Lam F, Hung N, Hung CT, Friedhoff
+L. Ascending-dose study of noribogaine in healthy volun-
+teers: pharmacokinetics, pharmacodynamics, safety, and
+tolerability. J Clin Pharmacol 2015;55:189–194.
+59. Mash DC, Ameer B, Prou D, Howes JF, Maillet EL.
+Oral noribogaine shows high brain uptake and anti-
+withdrawal effects not associated with place prefer-
+ence in rodents. J Psychopharmacol 2016;30:688–
+697.
+60. American Psychiatric Association. Diagnostic and sta-
+tistical manual of mental disorders, text revision (DSM-
+IV-TR);
+Washington.
+DC:
+American
+Psychiatric
+Association; 2000.
+61. Alper KR, Stajic M, Gill JR. Fatalities temporally asso-
+ciated with the ingestion of ibogaine. J Forensic Sci
+2012;57:398–412.
+62. Dickinson J, McAlpin J, Wilkins C, Fitzsimmons C,
+Guion P, Paterson T, Greene D, Chaves BR. Clinical
+guidelines for ibogaine-assisted detoxification, 1st edn.,
+Version
+1.1.
+Montreal,
+Quebec,
+Canada:
+Global
+Ibogaine Therapy Alliance (GITA); 2016. https://
+www.ibogainealliance.org/guidelines
+[accessed
+April
+11, 2017].
+63. Cacciola JS, Alterman AI, McLellan AT, Lin Y-T,
+Lynch KG. Initial evidence for the reliability and valid-
+ity of a “Lite” version of the Addiction Severity Index.
+Drug Alcohol Depend 2007;87:297–302.
+64. Mcgahan PL, Griffith JA, Parente R, McLellan AT.
+Addiction severity index composite scores manual.
+Philadelphia,
+PA:
+The
+University
+of
+Pennsylvania/
+Veterans
+Administration
+Center
+for
+Studies
+of
+Addiction; 1986.
+65. Handelsman L, Cochrane KJ, Aronson MJ, Ness R,
+Rubinstein KJ, Kanof PD. Two new rating-scales for
+opiate
+withdrawal.
+Am.
+J.
+Drug
+Alcohol
+Abuse
+1987;13:293–308.
+66. Castelloe J. Equivalence WD and noninferiority testing
+using SAS/STAT® software. SAS Paper #1911-2015
+2015, 1–23.
+67. Kaul S, Diamond GA. Good enough: a primer on the
+analysis and interpretation of noninferiority trials. Ann
+Intern Med 2006;145:62–69.
+68. Weiss RD, Potter JS, Fiellin DA, Byrne M, Connery
+HS, Dickinson W, Gardin J, et al. Adjunctive counsel-
+ing during brief and extended buprenorphine-nalox-
+one treatment for prescription opioid dependence: a 2-
+phase
+randomized
+controlled
+trial.
+Arch
+Gen
+Psychiatry 2011;68:1238–1246.
+69. Bentzley
+BS,
+Barth
+KS,
+Back
+SE,
+Book
+SW.
+Discontinuation of buprenorphine maintenance ther-
+apy: perspectives and outcomes. J Subst Abuse Treat
+2015;52:48–57.
+70. Amato L, Davoli M, Minozzi S, Ferroni E, Ali R, Ferri M.
+Methadone at tapered doses for the management of
+opioid withdrawal. Cochrane Database Syst Rev 2013;2:
+CD003409.
+71. Koenig X, Hilber K. The anti-addiction drug ibogaine
+and
+the
+heart:
+a
+delicate
+relation.
+Molecules
+2015;20:2208–2228.
+72. Kannankeril P, Roden DM, Darbar D. Drug-induced
+long QT syndrome. Pharmacol Rev 2010;62:760–781.
+73. Alper K, Bai R, Liu N, Fowler SJ, Huang XP, Priori SG,
+Ruan Y. hERG blockade by iboga alkaloids. Cardiovasc
+Toxicol 2016;16:14–22.
+74. Glick SD, Maisonneuve IM, Hough LB, Kuehne ME,
+Bandarage UK. (±)-18-Methoxycoronaridine: a novel
+iboga alkaloid congener having potential anti-addictive
+efficacy. CNS Drug Rev 1999;5:27–42.
+75. Alper KR, Lotsof HS. The use of ibogaine in the
+treatment of addictions. In: Winkelman M, Roberts
+T, eds. Psychedelic Medicine, Vol. 2. Westport, CT:
+Praeger/Greenwood Publishing Group; 2007:43–66.
+76. Fernandez JW. Bwiti: an ethnography of religious ima-
+gination in Africa; Princeton, New Jersey: Princeton
+University Press; 1982.
+77. Stolaroff M. The secret chief revealed. Sarasota, FL:
+Multidisciplinary Association for Psychedelic Studies
+(MAPS); 2004.
+78. Naranjo C. The healing journey: new approaches to
+consciousness. New York: Pantheon, Random House;
+1973.
+79. Fernandez JW, Fernandez RL. “Returning to the
+path”: the use of iboga[ine] in an equatorial African
+ritual context and the binding of time, space, and
+social
+relationships.
+Alkaloids
+Chem
+Biol
+2001;56:235–247.
+80. Darke S. Self-report among injecting drug users: a
+review. Drug Alcohol Depend 1998;51:253–263.
+81. Yu E, Miotto K, Akerele E, Montgomery A, Elkashef A,
+Walsh R, Montoya I, et al. A Phase. 3 placebo-con-
+trolled, double-blind, multi-site trial of the alpha-2-
+adrenergic agonist, lofexidine, for opioid withdrawal.
+Drug Alcohol Depend 2008;97:158–168.
+82. Smolka M, Schmidt LG. The influence of heroin dose
+and route of administration on the severity of the opiate
+withdrawal syndrome. Addiction 1999;94:1191–1198.
+83. Tompkins DA, Smith MT, Mintzer MZ, Campbell
+CM, Strain EC. A double blind, within subject com-
+parison
+of
+spontaneous
+opioid
+withdrawal
+from
+buprenorphine versus morphine. J Pharmacol Exp
+Ther 2014;348:217–226.
+84. Farrell M. Opiate withdrawal. Addiction 1994;89:1471–
+1475.
+85. Gerra G, Marcato A, Caccavari R, Fontanesi B,
+Delsignore
+R,
+Fertonani
+G,
+Avanzini
+P,
+et
+al.
+Clonidine and opiate receptor antagonists in the treat-
+ment
+of heroin
+addiction.
+J
+Subst
+Abuse
+Treat
+1995;12:35–41.
+86. Loimer N, Linzmayer L, Grunberger J. Comparison
+between observer assessment and self rating of with-
+drawal distress during opiate detoxification. Drug
+Alcohol Depend 1991;28:265–268.
+87. Gossop M. The detoxification of high-dose heroin-addicts
+in Pakistan. Drug Alcohol Depend 1989;24:143–150.
+88. Gossop M, Griffiths P, Bradley B, Strang J. Opiate
+withdrawal symptoms in response to 10-day and 21-
+day methadone withdrawal programs. Br J Psychiatry
+1989;154:360–363.
+THE AMERICAN JOURNAL OF DRUG AND ALCOHOL ABUSE
+35
+
+
+89. Fudala PJ, Jaffe JH, Dax EM, Johnson RE. Use of
+buprenorphine in the treatment of opioid addiction.
+2. Physiologic and behavioral-effects of daily and alter-
+nate-day administration and abrupt withdrawal. Clin
+Pharmacol Ther 1990;47:525–534.
+90. San L, Cami J, Fernandez T, Olle JM, Peri JM, Torrens
+M. Assessment and management of opioid withdrawal
+symptoms in buprenorphine-dependent subjects. Br J
+Addict 1992;87:55–62.
+91. Alper KR, Beal D, Kaplan CD. A contemporary history
+of ibogaine in the United States and Europe. Alkaloids
+Chem Biol 2001;56:249–281.
+92. Drug Enforcement Administration (DEA). National
+Heroin
+Threat
+Assessment
+Summary
+-
+Updated.
+DEA-DCT-DIR-031-16; 2016
+93. Gowing L, Ali R, White JM, Mbewe D. Buprenorphine
+for managing opioid withdrawal. Cochrane Database
+Syst
+Rev
+2017;2:Cd002025.
+doi:10.1002/14651858.
+CD002025.pub5
+94. Gowing L, Farrell M, Ali R, White JM. Alpha(2)-
+adrenergic agonists for the management of opioid
+withdrawal. Cochrane Database Syst Rev 2016;5:
+CD002024. doi:10.1002/14651858.CD002024.pub5
+95. Welsch ME, Snyder SA, Stockwell BR. Privileged scaf-
+folds for library design and drug discovery. Curr. Opin.
+Chem. Biol. 2010;14:347–361.
+96. Szychowski J, Truchon JF, Bennani YL. Natural
+products in medicine: transformational outcome of
+synthetic chemistry. J. Med. Chem. 2014;57:9292–
+9308.
+36
+T. K. BROWN AND K. ALPER

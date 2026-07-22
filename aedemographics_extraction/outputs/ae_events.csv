@@ -1,0 +1,131 @@
+AE_ID,StudyID,AE_type,Description,Onset,Severity,SeverityIndeterminate,SeveritySource,InterventionRequired,MeetsFDASerious
+Agin-Liebes 2021_AE01,Agin-Liebes 2021,AE,"Respondents reported very low rates of adverse experiences after mescaline use; no specific types, counts, or denominator given in this article",unknown,Mild,Y,rubric,.,N
+Agin-Liebes 2021_AE02,Agin-Liebes 2021,challenging_experience,"CEQ (Challenging Experiences Questionnaire) total-sample mean score 0.6 (SD 0.7) of 5, indicating low-intensity in-session challenging effects",in-session,Mild,N,rubric,N,N
+Alper 1999_AE01,Alper 1999,AE,"Sweating at 24h in one patient, resolved by 48h; also present in a separate treatment-failure case with persistent withdrawal signs.",post-session-acute,Mild,N,rubric,N,N
+Alper 1999_AE02,Alper 1999,AE,Chills present at 24 and 48h in one abstinent patient; also occurred in a separate treatment-failure case with persistent withdrawal.,post-session-acute,Mild,N,rubric,N,N
+Alper 1999_AE03,Alper 1999,AE,"Nausea reported in the treatment-failure case and in the fatal case ~17h post-ibogaine, ~2h before respiratory arrest; no intervention documented.",post-session-acute,Mild,N,rubric,N,N
+Alper 1999_AE04,Alper 1999,AE,Muscle aches reported in the treatment-failure case and in the fatal case at 17h post-ibogaine; no intervention documented.,post-session-acute,Mild,N,rubric,N,N
+Alper 1999_AE05,Alper 1999,AE,Dilated pupils (mydriasis) observed in the treatment-failure case as part of persistent objective opioid-withdrawal signs post-ibogaine.,post-session-acute,Mild,N,rubric,N,N
+Alper 1999_AE06,Alper 1999,AE,Respiratory arrest ~18h post-ibogaine (29 mg/kg) in a 24-year-old female; pronounced dead ~19h post-treatment; cause of death undetermined.,post-session-acute,Severe,N,rubric,.,Y
+Alper 2012_AE01,Alper 2012,AE,"Fatal acute ibogaine intoxication (single-agent or with non-drug comorbid contributing factors, e.g. cardiovascular disease); death within hours of ingestion.",post-session-acute,Severe,N,rubric,.,Y
+Alper 2012_AE02,Alper 2012,AE,"Fatal multidrug intoxication combining ibogaine with opioids (morphine, methadone, fentanyl), cocaine, and/or benzodiazepines (diazepam); death within hours of ingestion.",post-session-acute,Severe,N,rubric,.,Y
+Alper 2012_AE03,Alper 2012,AE,"Fatal cardiac event (myocardial infarction, arrhythmia, or cardiorespiratory arrest) as proximate or contributing cause of death, often with preexisting cardiovascular disease.",post-session-acute,Severe,N,rubric,.,Y
+Alper 2012_AE04,Alper 2012,AE,Suspected fatal pulmonary thromboembolism per clinical/death-certificate diagnosis; autopsy inadequate to confirm in any of the three cases.,post-session-acute,Severe,N,rubric,.,Y
+Alper 2012_AE05,Alper 2012,AE,"Witnessed generalized tonic-clonic seizure c. 17h post-ingestion, possibly related to alcohol/benzodiazepine withdrawal, in a case that was ultimately fatal.",post-session-acute,Severe,N,rubric,.,Y
+Alper 2012_AE06,Alper 2012,AE,"Acute hemorrhagic pancreatitis complicating chronic alcoholism, fatal, occurring during ibogaine treatment.",post-session-acute,Severe,N,rubric,.,Y
+Alper 2012_AE07,Alper 2012,AE,"Hemorrhagic complications of duodenal ulcer, possibly with increased intracranial pressure from ventricular obstruction; fatal outcome.",post-session-acute,Severe,N,rubric,.,Y
+Anderson 2019_AE01,Anderson 2019,AE,"Physical symptoms: disrupted vision, temperature dysregulation, numbness/tingling, insomnia, GI distress, reduced appetite, increased migraines/headaches (18.0%, 108.5 reports).",unknown,Mild,Y,rubric,.,N
+Anderson 2019_AE02,Anderson 2019,AE,"Impaired focus: poor concentration, distractibility, absent-mindedness reported by microdosers (8.8%, 53 of 603.5 coded challenge reports).",unknown,Mild,Y,rubric,.,N
+Anderson 2019_AE03,Anderson 2019,challenging_experience,"Increased anxiety (general, social, existential) reported as a microdosing drawback (6.7%, 40.5 of 603.5 coded challenge reports).",unknown,Mild,Y,rubric,.,N
+Anderson 2019_AE04,Anderson 2019,AE,"Impaired energy: restlessness/jitters (excess) or fatigue/drowsiness/brain fog (inadequate) reported (7.2%, 43.5 of 603.5 coded challenge reports).",unknown,Mild,Y,rubric,.,N
+Anderson 2019_AE05,Anderson 2019,AE,"Impaired mood: sadness, discontent, irritability, mood swings, fear, feeling unusual reported as a drawback (6.9%, 41.5 of 603.5 reports).",unknown,Mild,Y,rubric,.,N
+Anderson 2019_AE06,Anderson 2019,AE,"Social interference: awkwardness, oversharing, difficulty with sentence production in social settings (2.6%, 15.5 of 603.5 coded reports).",unknown,Mild,Y,rubric,.,N
+Anderson 2019_AE07,Anderson 2019,AE,"Cognitive interference: confusion, disorientation, racing thoughts, poor memory reported as a challenge (2.3%, 14 of 603.5 coded reports).",unknown,Mild,Y,rubric,.,N
+Anderson 2019_AE08,Anderson 2019,AE,"Self-interference: dissociation, depersonalization, rumination/over-analysis reported as a challenge (1.2%, 7.5 of 603.5 coded reports).",unknown,Mild,Y,rubric,.,N
+Anderson 2019_AE09,Anderson 2019,AE,"Increased symptoms: concerns re: psychological dependence/addiction potential, substance tolerance, comedown/hangover after effects (part of 6.2%, 37.5 reports).",unknown,Mild,Y,rubric,.,N
+Anderson 2019_AE10,Anderson 2019,AE,"Rare ""adverse psychological events"" noted by authors within increased-symptoms category; no further detail given (0.7% of coded challenges).",unknown,Mild,Y,rubric,.,N
+Barrett 1999_AE01,Barrett 1999,challenging_experience,One participant volunteered that combining psilocybin with alcohol produced a very unpleasant synergistic effect,in-session,Mild,Y,rubric,N,N
+Brown 2019_AE01,Brown 2019,challenging_experience,"Participant-reported anxiety at treatment commencement/prior to dosing (theme, n=4 utterances); e.g. inability to stop shaking (S007, NZ)",unknown,Mild,N,rubric,.,N
+Brown 2019_AE02,Brown 2019,both,"Participant (S25, Mexico) described profound depression and suicidal ideation during ibogaine vision; explicitly stated awareness of no intent/ability to act on it",in-session,Mild,Y,rubric,.,N
+Brown 2019_AE03,Brown 2019,AE,"Death during ibogaine treatment reported in companion New Zealand study (Noller et al. 2018), cited in Discussion as a safety caveat",unknown,Severe,N,rubric,.,Y
+Cakic 2010_AE01,Cakic 2010,AE,"Bad taste and coughing when smoking DMT, described as difficulty with the act of smoking; cited by 49.6% of respondents rating negative aspects (n=103)",in-session,Mild,N,rubric,.,N
+Cakic 2010_AE02,Cakic 2010,challenging_experience,"Psychospiritual distress/conflict, an overwhelming change in outlook difficult to integrate after effects wore off; 23.5% (smoked DMT, n=103) and 16% (ayahuasca, n=25)",post-session-acute,Mild,Y,rubric,.,N
+Cakic 2010_AE03,Cakic 2010,challenging_experience,Marked anxiety or stress experienced under the influence of smoked DMT; reported by 10.9% of respondents rating negative aspects (n=103),in-session,Mild,N,rubric,.,N
+Cakic 2010_AE04,Cakic 2010,AE,"Nausea, bad taste, and purging (vomiting) associated with ayahuasca use; reported by 44% of respondents rating negative aspects (n=25)",in-session,Mild,N,rubric,.,N
+Cakic 2010_AE05,Cakic 2010,challenging_experience,Ayahuasca experience described as overly intense; cited as a negative aspect by 12% of respondents rating negative aspects (n=25),in-session,Mild,Y,rubric,.,N
+Chandler 1960_AE01,Chandler 1960,both,"In-session panic states (~15-20 min, ~1-1.5h post-ingestion), usually controlled by reassurance, occasionally interrupted with antagonist drug.",in-session,Moderate,N,rubric,Y,N
+Chandler 1960_AE02,Chandler 1960,AE,"Fluctuating post-session euphoria, depression, and anxiety lasting hours to weeks; some treated with prochlorperazine, chlorpromazine, pipradrol, or methylphenidate.",post-session-acute,Moderate,N,rubric,Y,N
+Chandler 1960_AE03,Chandler 1960,AE,"Post-session difficulty falling asleep or feeling ""keyed up""; take-home secobarbital sodium provided, about a third of patients reported not needing it.",post-session-acute,Moderate,N,rubric,Y,N
+Chandler 1960_AE04,Chandler 1960,both,"Somatic reactions in 70-75% of patients: muscle tension, trembling, posturing, paresthesias, chilliness, and pain (occasionally severe); resolved via interpretation.",in-session,Mild,N,rubric,N,N
+Chandler 1960_AE05,Chandler 1960,AE,Minimal post-session acting-out in predisposed patients over the following days; described as not dangerous but embarrassing.,delayed,Mild,N,rubric,N,N
+Chandler 1960_AE06,Chandler 1960,challenging_experience,"Overly enthusiastic mystic/religious ""insight"" reactions, authors note as transient psychotic-like but not true psychosis; blocked further insight, 2 cases withdrew from therapy.",in-session,Mild,Y,rubric,N,N
+Chandler 1960_AE07,Chandler 1960,AE,"One patient (alcohol/narcotic addiction history, prior suicide attempts) died by suicide (poisoning) days after her single LSD-25 session.",delayed,Severe,N,rubric,Y,Y
+Chandler 1960_AE08,Chandler 1960,AE,Separate patient with chronic alcoholism had repeated sleeping-pill overdoses during drinking episodes; one episode caused pneumonia requiring hospitalization.,unknown,Severe,N,rubric,Y,Y
+Chandler 1960_AE09,Chandler 1960,AE,"One 19-year-old patient had a temporary psychotic reaction (hyperactivity, religious ideation) the evening after his first LSD session; resolved by next morning.",post-session-acute,Severe,N,rubric,Y,Y
+Chwelos 1959_AE01,Chwelos 1959,challenging_experience,"Varying degrees of tension or depression during the LSD experience, interfering with the therapeutic relationship",in-session,Mild,Y,rubric,N,N
+Chwelos 1959_AE02,Chwelos 1959,challenging_experience,"Withdrawal and paranoia reactions during experience, making discussion difficult; occurred in 7 of 24 Group I patients (only 1 improved)",in-session,Mild,Y,rubric,N,N
+Chwelos 1959_AE03,Chwelos 1959,AE,Nausea and other somatic complaints during early phases of the LSD experience; described as not unusual,in-session,Mild,N,rubric,N,N
+Chwelos 1959_AE04,Chwelos 1959,both,"Illusions, hallucinations, paranoid delusions (reference/influence/persecution/grandeur), thought disorder, perceptual distortion, severe anxiety commonly reported during sessions",in-session,Mild,Y,rubric,N,N
+Davis 2017_AE01,Davis 2017,AE,"74% of participants endorsed experiencing physical discomfort during ibogaine treatment; no detail on nature, duration, or clinical management given.",in-session,Mild,Y,rubric,.,N
+Davis 2017_AE02,Davis 2017,challenging_experience,51% endorsed experiencing fear during the ibogaine session; expected challenging-experience phenomenology with no reported intervention or lasting impairment.,in-session,Mild,Y,rubric,.,N
+Davis 2017_AE03,Davis 2017,challenging_experience,"49% endorsed seeing frightening images during the ibogaine session; in-session perceptual challenging experience, no further detail reported.",in-session,Mild,Y,rubric,.,N
+Davis 2017_AE04,Davis 2017,challenging_experience,36% endorsed recalling and experiencing difficult memories from their past during the ibogaine session; no detail on distress or duration.,in-session,Mild,Y,rubric,.,N
+Davis 2018_AE01,Davis 2018,challenging_experience,"Psychological difficulty with commitment/adherence during the treatment week, self-reported as most challenging part of ibogaine detox (14 responders, 4 non-responders)",post-session-acute,Mild,Y,rubric,.,N
+Davis 2018_AE02,Davis 2018,AE,"Health-related difficulty during treatment week (e.g., withdrawal from other substances such as cannabis), self-reported as most challenging part (13 responders, 6 non-responders)",post-session-acute,Mild,Y,rubric,.,N
+Davis 2018_AE03,Davis 2018,challenging_experience,"Difficulty integrating the ibogaine experience into daily life, persisting weeks post-treatment; most frequently reported challenge overall (28 responders, 6 non-responders)",delayed,Moderate,N,rubric,.,N
+Davis 2018_AE04,Davis 2018,AE,"Post-treatment exhaustion/excessive need for sleep, self-reported as most challenging part of treatment (7 responders, 2 non-responders)",post-session-acute,Mild,Y,rubric,.,N
+Davis 2018_AE05,Davis 2018,AE,"Post-treatment emotional distress described as 'uncomfortable and raw feelings' (11 responders, 1 non-responder)",post-session-acute,Mild,Y,rubric,.,N
+Davis 2018_AE06,Davis 2018,AE,"Post-treatment restlessness, self-reported as most challenging part of ibogaine treatment (14 responders, 4 non-responders)",post-session-acute,Mild,Y,rubric,.,N
+Faillace 1970_AE01,Faillace 1970,AE,"Subject 3 became depressed, relapsed to heavy drinking, and was hospitalized for a severe suicide attempt at 2-yr follow-up",delayed,Severe,N,rubric,Y,Y
+Faillace 1970_AE02,Faillace 1970,AE,"Subject 8, hospitalized at 2-yr follow-up, died shortly afterward from continued drinking and excessive Thorazine ingestion",delayed,Severe,N,rubric,.,Y
+Faillace 1970_AE03,Faillace 1970,AE,"One subject (unnamed) speculated his continued heavy drinking might reflect brain damage secondary to the drug treatment; self-reported, unconfirmed",delayed,Mild,Y,rubric,.,N
+Garcia-Romeu 2019_AE01,Garcia-Romeu 2019,AE,"Persisting adverse effects post-experience (e.g., anxiety, headache), largely rated not severe/slightly severe",unknown,Mild,Y,rubric,.,N
+Garcia-Romeu 2019_AE02,Garcia-Romeu 2019,AE,"Panic attacks; spiritual/existential crisis (participant-described, self-rated extreme severity)",unknown,Moderate,Y,rubric,.,N
+Garcia-Romeu 2019_AE03,Garcia-Romeu 2019,AE,"Loss of ability to think clearly and significantly altered mind, described as indescribable (self-rated extreme severity)",unknown,Moderate,Y,rubric,.,N
+Greer 1986_AE01,Greer 1986,AE,"Subject #14: week of increased appetite, 15 lb weight gain over a few weeks, later lost 10 lbs.",delayed,Mild,N,rubric,N,N
+Greer 1986_AE02,Greer 1986,both,Subject #19: disabling anxiety attacks weeks post-session causing 7 missed workdays; entered long-term psychotherapy.,delayed,Severe,N,rubric,Y,Y
+Greer 1986_AE03,Greer 1986,both,"Subject #7 (high-dose): in-session nausea, vomiting, jaw tension, ataxia, urinary urgency, blurred vision, sweating, brief memory loss, brief hallucination/depth-perception distortion.",in-session,Mild,N,rubric,N,N
+Greer 1986_AE04,Greer 1986,AE,"Subject #7: evening symptoms - appetite loss, vomiting, body odor, blurred vision, urinary urgency, mild hearing impairment, insomnia, cheek-biting during sleep.",post-session-acute,Mild,N,rubric,N,N
+Greer 1986_AE05,Greer 1986,AE,Subject #7: jaw-opening difficulty persisting several days after session.,post-session-acute,Moderate,N,rubric,N,N
+Greer 1986_AE06,Greer 1986,both,"Subject #7: fatigue and hoarseness (2 days), one day unsteady on feet, brief visual illusion second night.",post-session-acute,Mild,N,rubric,N,N
+Greer 1986_AE07,Greer 1986,AE,Jaw tension/shaking/teeth clenching during session in 22 subjects; 3 also next day; diazepam/propranolol relieved it in some.,in-session,Mild,N,rubric,N,N
+Greer 1986_AE08,Greer 1986,AE,Fatigue lasting hours to days post-session in 23 subjects; most resolved within 2 days.,post-session-acute,Mild,N,rubric,N,N
+Greer 1986_AE09,Greer 1986,AE,Insomnia the night after session in 11 subjects.,post-session-acute,Mild,N,rubric,N,N
+Greer 1986_AE10,Greer 1986,AE,"Muscle aches/tightness in 8 subjects, mostly during session, some for a day after.",in-session,Mild,N,rubric,N,N
+Greer 1986_AE11,Greer 1986,AE,Loss of appetite during session in all but one subject; not reported as unpleasant.,in-session,Mild,N,rubric,N,N
+Greer 1986_AE12,Greer 1986,AE,"Nausea during session in 7 subjects; some had stomach upset, appetite loss, or mild constipation 1-3 days after.",in-session,Mild,N,rubric,N,N
+Greer 1986_AE13,Greer 1986,AE,"Difficulty walking during session, reported by 3 subjects.",in-session,Mild,N,rubric,N,N
+Greer 1986_AE14,Greer 1986,AE,Feeling cold during session reported as a problem by 2 subjects.,in-session,Mild,N,rubric,N,N
+Greer 1986_AE15,Greer 1986,AE,"Sweating during session specifically noted by 2 subjects (common, mentioned only in passing).",in-session,Mild,N,rubric,N,N
+Greer 1986_AE16,Greer 1986,AE,"One-off in-session symptoms (n=1 each): jittery vision, lip swelling, shakiness, numb hands and face.",in-session,Mild,N,rubric,N,N
+Greer 1986_AE17,Greer 1986,AE,"Headache late in the session, reported by 1 subject.",in-session,Mild,N,rubric,N,N
+Greer 1986_AE18,Greer 1986,AE,"Subject #16 fainted the evening of the session; author suggests psychosomatic cause, no further detail given.",post-session-acute,Mild,Y,rubric,.,N
+Greer 1986_AE19,Greer 1986,AE,"Anorgasmia the day after session, reported by 1 subject.",post-session-acute,Mild,N,rubric,N,N
+Greer 1986_AE20,Greer 1986,AE,"Decreased sexual desire for one to two days, reported by 1 subject.",post-session-acute,Mild,N,rubric,N,N
+Greer 1986_AE21,Greer 1986,AE,"Transient elevated pulse/BP during session in 2 monitored subjects (e.g. pulse 60->112, BP 90/50->128/70).",in-session,Mild,N,rubric,N,N
+Greer 1986_AE22,Greer 1986,challenging_experience,"Anxiety or nervousness during session, reported by 5 subjects (general cohort, excluding subject #19's later course).",in-session,Mild,N,rubric,N,N
+Greer 1986_AE23,Greer 1986,AE,"Mild depression the day after session, reported by 2 subjects.",post-session-acute,Mild,N,rubric,N,N
+Greer 1986_AE24,Greer 1986,AE,"Mental fatigue for one day, reported by 1 subject.",post-session-acute,Mild,N,rubric,N,N
+Greer 1986_AE25,Greer 1986,AE,"Mild emotional inflation for one day, reported by 1 subject.",post-session-acute,Mild,N,rubric,N,N
+Greer 1986_AE26,Greer 1986,challenging_experience,"Feeling lonely or sad for brief periods during session, reported by 1 subject.",in-session,Mild,N,rubric,N,N
+Greer 1986_AE27,Greer 1986,challenging_experience,"One to three minutes of fear and paranoia early in session, then flattened affect later that evening; 1 subject.",in-session,Mild,N,rubric,N,N
+Greer 1986_AE28,Greer 1986,both,"Subject #18: waves of physical and emotional ""crud"" during session and over following days, interpreted as ""letting go.""",in-session,Mild,N,rubric,N,N
+Greer 1986_AE29,Greer 1986,AE,"Feeling simply more emotional after session, reported by 1 subject.",post-session-acute,Mild,N,rubric,N,N
+Greer 1986_AE30,Greer 1986,AE,"Subject #17: emotionally vulnerable/off-center for 3-4 days, including nonspecific anger two days after session.",post-session-acute,Moderate,N,rubric,N,N
+Greer 1986_AE31,Greer 1986,AE,Racing mind (1 subject) and confusion (1 subject) during the evening of their sessions.,post-session-acute,Mild,N,rubric,N,N
+Greer 1986_AE32,Greer 1986,AE,"Subject #6: hard to work the next day (""too much going on""), confused about relationship for two days.",post-session-acute,Moderate,N,rubric,N,N
+Greer 1986_AE33,Greer 1986,AE,"Five to seven days of ""negative self-talk,"" reported by 1 subject.",post-session-acute,Moderate,N,rubric,N,N
+Johnson 2017_AE01,Johnson 2017,challenging_experience,"Acute anxiety during the reference psychedelic session, one of the two most common psychological negative effects reported.",in-session,Mild,N,rubric,.,N
+Johnson 2017_AE02,Johnson 2017,challenging_experience,"Dysphoria during the reference psychedelic session, reported alongside anxiety as a psychological negative effect.",in-session,Mild,N,rubric,.,N
+Johnson 2017_AE03,Johnson 2017,AE,"Physical discomfort during the reference psychedelic session (e.g. gastrointestinal distress, stomachache, headache).",in-session,Mild,N,rubric,.,N
+Kolp 2006_AE01,Kolp 2006,challenging_experience,Ketamine-induced transpersonal ego-dissolution/'death-rebirth' experience with intense confrontation of guilt/trauma; resolved into bliss/forgiveness/peace by session end in both cases.,in-session,Mild,N,rubric,N,N
+Langner 1965_AE01,Langner 1965,both,"Acute in-session panic/threatening disorganization or intolerable distress during LSD episodes, terminated/ameliorated with IV barbiturate, Frenquel, barbiturate-methamphetamine, or IM Thorazine-barbiturate.",in-session,Moderate,N,rubric,Y,N
+Langner 1965_AE02,Langner 1965,AE,Violent acting-out under LSD: one attendant strenuously choked during projective acting-out; three separate attendants each physically attacked in other incidents.,in-session,Moderate,Y,rubric,.,N
+Langner 1965_AE03,Langner 1965,both,"LSD administered alone (without combined nembutal/methedrine) produced disabling anxiety in a number of patients, precluding continuation of unmedicated sessions.",in-session,Moderate,Y,rubric,.,N
+Langner 1965_AE04,Langner 1965,AE,"Vomiting and sensation of bodily cold, reported as the most common somatic reactions during LSD sessions.",in-session,Mild,N,rubric,N,N
+Langner 1965_AE05,Langner 1965,challenging_experience,"""Panic or disorganization"" listed as the next most frequent in-session reaction pattern among catalogued patient defenses/resistances.",in-session,Mild,Y,rubric,.,N
+Langner 1965_AE06,Langner 1965,AE,Profuse sweating and shaking through each of eight LSD episodes in a manic-depressive alcoholic patient; patient felt relieved after each episode.,in-session,Mild,N,rubric,N,N
+Lawn 2017_AE01,Lawn 2017,both,"Subjective rating of negative effects while high; ayahuasca rated higher than LSD/magic mushrooms (mean 3.88/10 vs 3.07/2.72), among new users",in-session,Mild,Y,rubric,.,N
+Lawn 2017_AE02,Lawn 2017,AE,Authors attribute ayahuasca's higher negative-effects rating partly to its 'well-known vomit-inducing effects'; not separately quantified in this sample,in-session,Mild,Y,rubric,.,N
+Noller 2018_AE01,Noller 2018,AE,"Provider-1 patient died during ibogaine treatment before formal enrollment; autopsy showed no cardiac pathology; death judged likely ibogaine-related, probably cardiac arrhythmia (coronial/HDC inquiry).",in-session,Severe,N,rubric,.,Y
+Noorani 2018_AE01,Noorani 2018,challenging_experience,"First psilocybin session negative in mood/tone; participant recalled painful childhood memories and reported wanting to smoke immediately afterward, managed via study-team check-ins.",in-session,Mild,Y,rubric,N,N
+Noorani 2018_AE02,Noorani 2018,challenging_experience,"First psilocybin session experienced as manipulative/frustrating ('wasted' session); followed by two weeks of painful, difficult smoking abstinence before second session.",in-session,Moderate,N,rubric,N,N
+Noorani 2018_AE03,Noorani 2018,challenging_experience,First psilocybin session included terrifying visual imagery (faces/'demons') the participant turned away from; resolved via self-directed meditation before an easier second session.,in-session,Mild,N,rubric,N,N
+Perkins 2022_AE01,Perkins 2022,challenging_experience,"Extent of extreme fear or panic experienced during an ayahuasca session (0-10 self-report item, analyzed as a covariate).",in-session,Mild,Y,rubric,.,N
+Perkins 2022_AE02,Perkins 2022,AE,"Number of emotional/psychological 'integration difficulties' (PHQ-4 based, plus nightmares/disconnection items) in the weeks-months after drinking ayahuasca; analyzed as a covariate.",delayed,Mild,Y,rubric,.,N
+Sarett 1966_AE01,Sarett 1966,AE,"Husband very depressed/irritable on first returning home; resolved after ~3 weeks, then became tolerant and communicative (per wife).",post-session-acute,Moderate,N,rubric,.,N
+Sarett 1966_AE02,Sarett 1966,AE,"Husband grew more remote, resumed/worsened heavy drinking, and became more abusive and violent toward wife and children; later stopped drinking.",post-session-acute,Moderate,N,rubric,.,N
+Sarett 1966_AE03,Sarett 1966,AE,Husband became more withdrawn/uncommunicative and emotionally distant; marriage progressively worsened over follow-up despite husband remaining sober.,delayed,Moderate,N,rubric,.,N
+Sarett 1966_AE04,Sarett 1966,AE,"Husband viewed the treatment as an easy 'cure,' became overconfident, and relapsed to heavy drinking shortly afterward.",post-session-acute,Moderate,N,rubric,.,N
+Sarett 1966_AE05,Sarett 1966,AE,Husband resumed drinking after a fellow LSD-program member with whom he was close relapsed and drew him back into drinking.,unknown,Moderate,N,rubric,.,N
+Sarett 1966_AE06,Sarett 1966,AE,"Husband became more aware of 'being no good'; wife described this as a problem, significance and consequence unclear.",unknown,Mild,Y,rubric,.,N
+Schenberg 2014_AE01,Schenberg 2014,AE,"Nausea during acute ibogaine effects (~10hr session); author-labeled a mild adverse effect, occurred frequently.",in-session,Mild,N,author,N,N
+Schenberg 2014_AE02,Schenberg 2014,AE,Ataxia during acute ibogaine effects; author-labeled mild; discussion notes absence of persistent ataxia.,in-session,Mild,N,author,N,N
+Schenberg 2014_AE03,Schenberg 2014,AE,"Vomiting during acute ibogaine effects; author-labeled a mild adverse effect, occurred frequently.",in-session,Mild,N,author,N,N
+Schenberg 2014_AE04,Schenberg 2014,AE,"Tremors during acute ibogaine effects; author-labeled a mild adverse effect, occurred frequently.",in-session,Mild,N,author,N,N
+Schenberg 2014_AE05,Schenberg 2014,AE,"Headaches during acute ibogaine effects; author-labeled a mild adverse effect, occurred frequently.",in-session,Mild,N,author,N,N
+Schenberg 2014_AE06,Schenberg 2014,AE,"Mental confusion during acute ibogaine effects; author-labeled a mild adverse effect, occurred frequently.",in-session,Mild,N,author,N,N
+Schenberg 2014_AE07,Schenberg 2014,AE,4 patients (5%) complained about the psychotherapeutic process/clinic activities during internment or post-ibogaine sessions.,unknown,Mild,Y,rubric,.,N
+Thomas 2013_AE01,Thomas 2013,AE,"Some participants purged (vomited) during ayahuasca ceremonies; authors describe as common, not necessarily adverse",in-session,Mild,N,rubric,N,N
+Thomas 2013_AE02,Thomas 2013,AE,Some participants reported initial difficulty incorporating the retreat experience into day-to-day life,post-session-acute,Mild,Y,rubric,.,N
+Wong 2014_AE01,Wong 2014,AE,Oversedation from ketamine infusion requiring dose reduction/adjustment,unknown,Moderate,N,rubric,Y,N

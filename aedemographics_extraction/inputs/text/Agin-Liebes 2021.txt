@@ -1,0 +1,1748 @@
+Naturalistic Use of Mescaline Is Associated with Self-Reported
+Psychiatric Improvements and Enduring Positive Life Changes
+Gabrielle Agin-Liebes,* Trevor F. Haas, Rafael Lancelotta, Malin V. Uthaug, Johannes G. Ramaekers,
+and Alan K. Davis*
+Cite This: ACS Pharmacol. Transl. Sci. 2021, 4, 543−552
+Read Online
+ACCESS
+Metrics & More
+Article Recommendations
+ABSTRACT: Mescaline is a naturally occurring psychoactive alkaloid that
+has been used as a sacrament by Indigenous populations in spiritual ritual
+and healing ceremonies for millennia. Despite promising early preliminary
+research and favorable anecdotal reports, there is limited research
+investigating mescaline’s psychotherapeutic potential. We administered an
+anonymous online questionnaire to adults (N = 452) reporting use of
+mescaline in naturalistic settings about mental health beneﬁts attributed to
+mescaline. We assessed respondents’ self-reported improvements in
+depression, anxiety, post-traumatic stress disorder (PTSD), and alcohol
+and drug use disorders (AUD and DUD). Of the respondents reporting
+histories of these clinical conditions, most (68−86%) reported subjective
+improvement following their most memorable mescaline experience.
+Respondents who reported an improvement in their psychiatric conditions
+reported signiﬁcantly higher ratings of acute psychological factors including mystical-type, psychological insight, and ego dissolution
+eﬀects compared to those who did not report improvements (Cohen’s d range 0.7 −1.5). Many respondents (35−50%) rated the
+mescaline experience as the single or top ﬁve most spiritually signiﬁcant or meaningful experience(s) of their lives. Acute experiences
+of psychological insight during their mescaline experience were associated with increased odds of reporting improvement in
+depression, anxiety, AUD and DUD. Additional research is needed to corroborate these preliminary ﬁndings and to rigorously
+examine the eﬃcacy of mescaline for psychiatric treatment in controlled, longitudinal clinical trials.
+KEYWORDS: psychedelics, mescaline, mental health, psychological insight, mystical-type experience
+P
+sychiatric conditions such as mood, anxiety-spectrum, and
+substance use disorders are commonplace and contribute
+substantially to the global disease burden.1 Nearly 30% of
+people meet diagnostic criteria for a psychiatric disorder at
+some point in their lifetimes,1 and psychiatric disorders
+comprise the leading cause of years lived with disability.2
+Psychiatric conditions also increase the risk of developing
+comorbid medical conditions such as type 2 diabetes and
+coronary vascular disease,3 and the public health burden
+involves high costs associated with lengthy hospitalization and
+a substantial loss in productivity.4 Treatment of psychiatric
+conditions typically focuses on a combination of psychother-
+apy and pharmacotherapy.5 The impact of these treatments,
+however, is complicated by disparities in access to care6 and
+treatment nonresponse by many who do receive intervention,7
+necessitating further research into eﬀective psychiatric treat-
+ment.
+Contemporary research involving classic psychedelics has
+shown promise in treating a variety of mental health conditions
+including major depression, existential distress associated with
+a serious illness, post-traumatic stress disorder (PTSD), and
+addiction.8 Classic psychedelics such as psilocybin, lysergic
+acid diethylamide (i.e., LSD), and ayahuasca (containing
+dimethyltryptamine and naturally occurring beta-carbolines)
+are known to stimulate signiﬁcant perceptual, cognitive, and
+aﬀective changes via agonist activity at the serotonin-2A
+receptor, although many other neurotransmitter systems likely
+contribute to their subjective eﬀects.9 The precise neuro-
+biological eﬀects of psychedelic-assisted psychotherapy remain
+unidentiﬁed but appear related to functional changes in brain
+regions responsible for emotional processing and self-
+reference.10 Psychiatric improvement following psychother-
+apeutic psilocybin administration has also been associated with
+the intensity of acute psychological factors including mystical-
+type11−13 and psychological insight experiences.14−17 These
+Special Issue: Psychedelics
+Received:
+January 9, 2021
+Published: March 23, 2021
+Article
+pubs.acs.org/ptsci
+© 2021 American Chemical Society
+543
+https://doi.org/10.1021/acsptsci.1c00018
+ACS Pharmacol. Transl. Sci. 2021, 4, 543−552
+Downloaded via BUTLER UNIV on May 15, 2021 at 19:54:08 (UTC).
+See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.
+
+
+Table 1. Demographic Characteristics among the Total Sample and among Those with Depression, Anxiety, PTSD, Alcohol Misuse or Alcohol Use Disorder, and Drug
+Misuse or Use Disorder as a Function of Whether Conditions Improved or Did Not Improve Following Mescaline Usea
+total sample
+(n = 452)
+respondents with depression
+(n = 184)
+respondents with anxiety
+(n = 210)
+respondents with PTSD (n = 72)
+respondents with alcohol misuse/
+AUD (n = 72)
+respondents with drug misuse/
+DUD (n = 85)
+demographic variables
+M (SD) or %
+better
+(n = 159)
+no change/worse
+(n = 25)
+better
+(n = 167)
+no change/worse
+(n = 43)
+better
+(n = 55)
+no change/worse
+(n = 17)
+better
+(n = 48)
+no change/worse
+(n = 24)
+better
+(n = 58)
+no change/worse
+(n = 27)
+age
+38(14.4)
+35.8(14.1)
+41.4(14.1)
+35.5(13.3)
+40.8(14.7)
+45.6(14.7)
+39.8(15.7)
+39.8(15.6)
+45.3(13.6)
+33.5(11.4)
+38.3(15.4)
+gender
+female
+20%
+19%
+20%
+30%
+16%
+22%
+18%
+13%
+17%
+14%
+4%
+male
+76%
+70%
+76%
+61%
+75%
+66%
+65%
+83%
+75%
+79%
+82%
+transgender or
+gender-ﬂuid
+4%
+11%
+4%
+9%
+10%
+12%
+17%
+4%
+8%
+7%
+14%
+ethnicity
+White
+83%
+84%
+92%
+80%
+84%
+82%
+67%
+81%
+92%
+79%
+100%
+non-White
+17%
+16%
+8%
+20%
+16%
+18%
+33%
+19%
+8%
+0%
+21%
+sexual orientation
+heterosexual
+82%
+84%
+76%
+73%
+86%
+63%
+71%
+78%
+83%
+77%
+82%
+non-heterosexual
+18%
+16%
+26%
+27%
+14%
+37%
+29%
+22%
+17%
+23%
+18%
+location
+North America
+60%
+65%
+60%
+64%
+58%
+71%
+59%
+62%
+75%
+60%
+67%
+Europe
+20%
+11%
+28%
+13%
+23%
+6%
+18%
+19%
+8%
+19%
+19%
+other
+20%
+24%
+12%
+23%
+19%
+23%
+23%
+19%
+17%
+21%
+14%
+employment
+employed
+68%
+68%
+65%
+66%
+60%
+56%
+59%
+65%
+70%
+66%
+67%
+other (e.g.,
+retired/disabled)
+32%
+32%
+35%
+34%
+40%
+44%
+41%
+35%
+30%
+34%
+33%
+education
+less than
+Bachelor’s
+48%
+52%
+56%
+51%
+42%
+59%
+55%
+65%
+50%
+70%
+67%
+Bachelor’s or
+higher
+52%
+48%
+44%
+49%
+58%
+41%
+45%
+35%
+50%
+30%
+33%
+aAbbreviations: PTSD = post-traumatic stress disorder; AUD = alcohol use disorder; DUD = drug use disorder. Values in italics (in the anxiety and drug misuse/DUD group) indicate a signiﬁcant
+between-group diﬀerence (p < 0.05).
+ACS Pharmacology & Translational Science
+pubs.acs.org/ptsci
+Article
+https://doi.org/10.1021/acsptsci.1c00018
+ACS Pharmacol. Transl. Sci. 2021, 4, 543−552
+544
+
+
+ﬁndings suggest important psychological factors responsible for
+facilitating clinical improvements in addition to environmental
+variables such as interpersonal support, preparation, and
+therapeutic integration.
+The psychiatric beneﬁts of certain classic psychedelics (e.g.,
+psilocybin) have been well studied in recent years, paving the
+way for more research into other classic psychedelics. For
+example, a recent study assessed patterns of use, motivation for
+consumption, and acute subjective eﬀects among users of the
+classic psychedelic 3,4,5-trimethoxyphenethylamine (mesca-
+line).18 Mescaline is a naturally occurring phenethylamine and
+a serotonin-2A/2C receptor agonist that can be prepared
+synthetically or extracted from the peyote or San Pedro
+cactus.19 A relatively low-potency psychedelic requiring active
+doses in the 200−400 mg range, mescaline produces subjective
+eﬀects typically lasting 8 to 12 h.20,21 The medical uses of
+mescaline were ﬁrst reported to the Western world in the late
+19th century,22 but archeological evidence suggests that native
+North American peoples have used peyote ceremonially for
+nearly 6000 years.20,23 Peyote has long been used in the
+treatment of chronic alcoholism among members of the Native
+American Church.24 Native American Church members who
+use peyote also show signiﬁcant improvements in psycho-
+logical well-being when compared with control groups.25
+These ﬁndings support more recent anecdotal reports of
+symptom reduction following mescaline use described in
+online forums and communities.26,27 Furthermore, in a recent
+epidemiological survey of mescaline users,18 approximately
+two-thirds or more of the respondents who reported having a
+psychiatric condition prior to their mescaline experience also
+reported that the condition had improved following their
+mescaline experience.
+Although preliminary data suggest that mescaline users
+report positive improvements in psychiatric conditions after
+use,18 no study has yet explored the possible mechanisms of
+change related to these psychiatric improvements or assessed
+the long-term eﬀects associated with mescaline consumption.
+Therefore, the primary objective of this study was18 to explore
+the potential therapeutic and enduring eﬀects of mescaline, and
+the mechanisms that may contribute to therapeutic eﬀects.
+Speciﬁcally, we examined whether mescaline use was
+associated with improvements in self-reported depression,
+anxiety, PTSD, and alcohol/drug use disorders and whether
+acute subjective eﬀects (i.e., mystical-type or psychological
+Table 2. Means and Standard Deviations of Acute Subjective Experiences and Persisting Eﬀects among the Total Sample and
+among Those with Depression, Anxiety, PTSD, Alcohol Misuse/AUD, or Drug Misuse/DUD as a Function of Whether
+Conditions Improved or Did Not Improve Following Mescaline Usea
+depression (n = 184)
+anxiety (n = 210)
+PTSD (n = 72)
+variables
+total
+sample
+(N = 452)
+better
+(n = 159)
+no
+change or
+worse
+(n = 25)
+t-stat
+d
+better
+(n = 167)
+no
+change or
+worse
+(n = 43)
+t-stat
+d
+better
+(n = 55)
+no
+change or
+worse
+(n = 17)
+t-stat
+d
+psychological
+insight (PIQ)
+2.4(1.2)
+2.9(1.0)
+1.5(0.9)
+−6.6***
+1.5
+3.0(0.9)
+1.7(1.0)
+−8.5***
+1.4
+3.2(1.0)
+2.3(1.1)
+−3.1***
+0.9
+mystical-type
+eﬀects (MEQ)
+3.2(1.1)
+3.5(1.0)
+2.2(1.0)
+−6.0***
+1.3
+3.5(0.9)
+2.4(1.2)
+−6.9***
+1.0
+3.7(0.8)
+2.7(1.4)
+−3.7***
+0.9
+challenging
+eﬀects (CEQ)
+0.6(0.7)
+0.7(0.6)
+0.8(0.9)
+0.9
+NS
+0.7(0.6)
+0.9(0.9)
+1.8
+NS
+0.7(0.6)
+1.1(1.1)
+2.1*
+0.5
+ego dissolution
+(EDI)
+2.4(1.3)
+2.6(1.2)
+1.6(1.0)
+−3.8***
+1.0
+2.7(1.2)
+1.7(1.0)
+−4.8***
+0.9
+2.6(1.3)
+2.1(1.3)
+−1.5
+NS
+personal meaning
+4.6(1.4)
+4.9(1.3)
+3.6(1.3)
+−4.5***
+1.0
+4.8(1.4)
+4.1(1.2)
+−3.0**
+0.5
+5.1(1.2)
+4.2(1.4)
+−2.4*
+0.7
+spiritual
+signiﬁcance
+4.4(1.9)
+4.9(1.6)
+3.3(1.8)
+−4.5***
+0.9
+4.8(1.6)
+3.6(2.0)
+−4.2***
+0.7
+4.8(1.4)
+4.5(2.0)
+−0.7
+NS
+psychologically
+challenging
+2.8(2.1)
+4.9(1.6)
+2.3(1.8)
+−1.5
+NS
+2.8(2.0)
+2.5(2.1)
+−0.8
+NS
+2.7(2.1)
+2.9(2.0)
+0.5
+NS
+psychologically
+insightful
+4.1(1.7)
+4.7(1.6)
+2.9(1.5)
+−5.4***
+1.2
+4.5(1.6)
+3.5(1.7)
+−3.5**
+0.6
+4.9(1.6)
+3.4(2.0)
+−3.1**
+0.8
+well-being/life
+satisfaction
+2.1(1.1)
+2.5(0.7)
+0.7(0.9)
+−10.6***
+2.2
+2.5(0.7)
+1.1(1.1)
+−9.1***
+1.5
+2.5(0.8)
+1.5(1.4)
+−3.6**
+0.9
+life’s purpose
+1.8(1.1)
+2.1(1.0)
+0.7(0.8)
+−6.8***
+1.6
+2.2(1.0)
+1.0(1.0)
+−6.8***
+1.2
+2.2(1.0)
+1.3(1.2)
+−3.1**
+0.8
+life’s meaning
+1.8(1.2)
+2.0(1.1)
+0.6(0.7)
+−6.0***
+1.5
+2.1(1.0)
+1.0(1.0)
+−6.4***
+1.1
+2.3(1.0)
+1.2(1.1)
+−3.9***
+1.1
+social
+relationships
+1.6(1.3)
+2.0(1.0)
+0.6(0.8)
+−6.5***
+1.6
+2.1(1.0)
+0.7(1.2)
+−7.6***
+1.3
+2.2(0.9)
+1.5(1.2)
+−2.7**
+0.7
+attitudes about
+life
+1.9(1.1)
+2.3(0.8)
+0.8(0.8)
+−8.4***
+1.9
+2.3(0.8)
+1.1(1.2)
+−7.8***
+1.2
+2.4(1.0)
+1.5(1.1)
+−3.4**
+0.9
+attitudes about
+self
+1.8(1.1)
+2.0(1.0)
+0.8(0.8)
+−6.4***
+1.3
+2.2(1.0)
+1.1(0.9)
+−7.2***
+1.2
+2.3(1.1)
+1.5(1.2)
+−2.6*
+0.7
+relationship to
+nature
+2.0(1.0)
+2.3(0.9)
+1.1(0.9)
+−6.1***
+1.3
+2.4(0.9)
+1.3(1.1)
+−6.5***
+1.1
+2.4(1.0)
+1.6(1.1)
+−2.9**
+0.8
+behaviors
+1.5(1.1)
+1.9(1.0)
+0.5(0.8)
+−6.9***
+1.6
+2.0(1.0)
+0.7(1.1)
+−7.8***
+1.2
+2.2(1.0)
+1.1(1.2)
+−3.5**
+1.0
+how spiritual you
+are
+1.6(1.2)
+1.9(1.1)
+0.6(0.8)
+−5.8***
+1.4
+1.9(1.0)
+0.9(1.1)
+−5.7***
+1.0
+2.0(1.2)
+1.1(1.2)
+2.8**
+0.8
+attitudes about
+death
+1.2(1.2)
+1.5(1.3)
+0.5(0.8)
+−3.6***
+0.9
+1.5(1.2)
+0.5(0.8)
+−5.2***
+1.0
+1.7(1.3)
+0.8(1.2)
+−2.6*
+0.7
+views re: true
+nature of reality
+1.7(1.2)
+1.9(1.1)
+0.8(0.8)
+−4.7***
+1.1
+2.0(1.1)
+1.1(1.2)
+−4.4***
+0.8
+2.2(1.2)
+0.9(1.1)
+−3.8***
+1.1
+a*p < 0.05, **p < 0.01, ***p < 0.001. Note: Cohen’s d was calculated to estimate eﬀect sizes and is interpreted as 0.2 = small, 0.5 = medium. 0.8 =
+large. Scores on the PIQ, MEQ, and CEQ range from 0 to 5, and ratings of subjective well-being can range from −3 to +3.
+ACS Pharmacology & Translational Science
+pubs.acs.org/ptsci
+Article
+https://doi.org/10.1021/acsptsci.1c00018
+ACS Pharmacol. Transl. Sci. 2021, 4, 543−552
+545
+
+
+insight) were associated with improvements in these clinical
+domains.
+■RESULTS
+Respondent Characteristics. During the recruitment
+period, 2025 individuals clicked on the recruitment advertise-
+ment, and 788 of them consented to participate in the survey.
+A total of 477 people completed all primary study
+questionnaires and reported valid responses. We removed
+data from 22 respondents who could not provide information
+regarding type of mescaline used and an additional three who
+reported being younger than 18 years old, leaving us with a
+ﬁnal sample of 452 people.
+Respondents were primarily White (83%), male (76%), and
+heterosexual (82%). The average age was 38 (SD = 14.4).
+Almost one-half (46%) of the sample reported lifetime use of
+mescaline between 1 and 3 times, with 70% reporting that they
+used yearly or less than once per year. Demographic
+characteristics across psychiatric subgroups did not diﬀer
+signiﬁcantly except for the volunteers who reported that their
+anxiety and drug misuse/DUD conditions improved after
+mescaline. Within the anxiety group, respondents who
+reported that their anxiety improved were signiﬁcantly younger
+(M = 35.5; SD = 13.3) than those who reported that their
+conditions did not improve or worsened after use [(M = 40.8;
+SD = 14.7), t(2.21) = 3.17, p = 0.04]. Within the drug misuse/
+DUD group, a larger proportion of White respondents
+reported that their condition did not improve or worsened
+(100%) compared with those who reported that their
+condition improved (79%; χ(1) = 6.5, p = 0.01). There were
+no other signiﬁcant diﬀerences in demographic characteristics
+in the psychiatric subgroups between those who did or did not
+report an improvement in their respective conditions following
+mescaline.
+Moreover, at the time of the survey, approximately one-third
+of the entire sample reported that their most memorable
+experience with mescaline was among the top ﬁve or single
+most (29% and 35%, respectively) personally meaningful or
+spiritually signiﬁcant experiences of their lives. Of those
+respondents who reported that their psychiatric condition
+improved (compared with groups who reported No Change/
+Worse) after mescaline, 36−42% and 35−50%, respectively,
+rated the experience as the single or top ﬁve most meaningful
+experiences of their lives and the single or top ﬁve most
+spiritually signiﬁcant experiences of their lives.
+Factors Associated with Improvement in Mood,
+Anxiety, and Substance Use Outcomes Following
+Mescaline Use. Table 1 shows that nearly half the study
+sample reported having depression (41%; n = 184) or anxiety,
+(46%; n = 210) at the time of their most memorable mescaline
+use. A smaller proportion of the sample reported having PTSD
+(16%; n = 72), alcohol misuse or alcohol use disorder (AUD
+16%; n = 72), and drug misuse or drug use disorder (DUD;
+19%; n = 85). Of those respondents reporting a prior
+psychiatric condition, the majority reported improvements in
+these conditions following mescaline as follows: depression
+(86%; n = 184), anxiety (80%; n = 167), PTSD (76%; n = 55),
+alcohol misuse or AUD (76%; n = 48), and drug misuse or
+Table 3. Means and Standard Deviations of Acute Subjective Experiences and Persisting Eﬀects among the Total Sample and
+among Those with Alcohol Misuse/AUD or Drug Misuse/DUD as a Function of Whether Conditions Improved or Did Not
+Improve Following Mescaline Usea
+alcohol misuse/AUD (n = 72)
+drug misuse/DUD (n = 85)
+variables
+total sample
+(N = 452)
+better
+(n = 48)
+no change or worse
+(n = 2)
+t-stat
+d
+better
+(n = 58)
+no change or worse
+(n = 27)
+t-stat
+d
+psychological insight
+(PIQ)
+2.4(1.2)
+3.2(1.0)
+1.9(1.2)
+−5.0***
+1.2
+3.2(0.9)
+2.0(1.0)
+−5.7***
+1.3
+mystical type eﬀects
+(MEQ)
+3.2(1.1)
+3.8(0.8)
+3.0(1.1)
+−3.5**
+0.8
+3.8(0.8)
+2.9(1.2)
+−4.4***
+0.9
+challenging eﬀects
+(CEQ)
+0.6(0.7)
+0.7(0.6)
+0.5(0.4)
+−1.2
+NS
+0.8(0.6)
+0.6(0.4)
+−0.9
+NS
+ego dissolution (EDI)
+2.4(1.3)
+3.0(1.1)
+2.2(1.3)
+−2.5*
+0.7
+2.9(1.2)
+2.1(1.1)
+−2.7**
+0.7
+personal meaning
+4.6(1.4)
+5.1(1.3)
+4.3(1.8)
+−2.3*
+0.5
+4.8(1.3)
+4.2(1.5)
+−2.0
+NS
+spiritual signiﬁcance
+4.4(1.9)
+5.2(1.4)
+4.0(2.1)
+−3.0**
+0.7
+4.9(1.4)
+3.6(2.2)
+−3.4**
+0.7
+psychologically
+challenging
+2.8(2.1)
+3.3(2.3)
+2.4(2.4)
+−1.5
+NS
+3.0(2.0)
+2.1(1.9)
+−1.9
+NS
+psychologically
+insightful
+4.1(1.7)
+5.0(1.5)
+3.7(2.1)
+−3.0**
+0.7
+4.7(1.5)
+3.5(1.6)
+−3.4**
+0.8
+well-being/life
+satisfaction
+2.1(1.1)
+2.6(0.8)
+1.6(1.1)
+−5.0***
+1.0
+2.5(0.7)
+1.6(1.2)
+−4.4***
+0.9
+life’s purpose
+1.8(1.1)
+2.5(0.8)
+1.2(1.2)
+−5.6***
+1.3
+2.3(1.0)
+1.3(1.1)
+−4.1***
+1.0
+life’s meaning
+1.8(1.2)
+2.4(0.8)
+1.1(1.1)
+−6.0***
+1.4
+2.1(1.0)
+1.0(1.0)
+−5.4***
+1.1
+social relationships
+1.6(1.3)
+2.3(0.8)
+0.8(1.3)
+−5.9***
+1.4
+2.2(0.9)
+0.9(1.6)
+−4.6***
+1.0
+attitudes about life
+1.9(1.1)
+2.5(0.7)
+1.3(1.5)
+−4.8***
+1.0
+2.4(0.8)
+1.5(1.5)
+−3.8***
+0.8
+attitudes about self
+1.8(1.1)
+2.4(0.9)
+1.0(1.1)
+−5.7***
+1.4
+2.3(0.9)
+1.2(1.1)
+−4.9***
+1.1
+relationship to nature
+2.0(1.0)
+2.7(0.7)
+1.5(1.1)
+−5.6***
+1.3
+2.6(0.7)
+1.6(1.1)
+−5.2***
+1.1
+behaviors
+1.5(1.1)
+2.3(0.9)
+0.8(1.3)
+−5.5***
+1.3
+2.1(1.0)
+0.9(1.4)
+−4.5***
+1.0
+how spiritual you are
+1.6(1.2)
+2.3(1.0)
+1.2(1.1)
+−4.4***
+1.1
+2.1(1.0)
+1.2(1.2)
+−3.6**
+0.8
+attitudes about death
+1.2(1.2)
+1.8(1.3)
+0.7(1.1)
+−3.9***
+0.9
+1.6(1.3)
+0.8(1.2)
+−3.0**
+0.6
+views re: true nature of
+reality
+1.7(1.2)
+2.4(1.0)
+1.4(1.1)
+−3.6**
+1.0
+2.1(1.1)
+1.4(1.2)
+−2.8**
+0.6
+a*p < 0.05, **p < 0.01, ***p < 0.001. Note: Cohen’s d was calculated to estimate eﬀect sizes and is interpreted as 0.2 = small, 0.5 = medium, 0.8 =
+large. Scores on the PIQ, MEQ, and CEQ range from 0 to 5, and ratings of subjective well-being can range from −3 to +3.
+ACS Pharmacology & Translational Science
+pubs.acs.org/ptsci
+Article
+https://doi.org/10.1021/acsptsci.1c00018
+ACS Pharmacol. Transl. Sci. 2021, 4, 543−552
+546
+
+
+DUD (68%; n = 58). Interestingly, only a small minority of
+these respondents, 2−5%, reported an explicit intention to
+address or resolve their psychiatric conditions during their
+mescaline experience.
+As shown in Tables 2 and 3, those respondents who
+reported an improvement in their psychiatric conditions
+reported signiﬁcantly higher acute mystical-type (MEQ-30),
+psychological insight (PIQ), and ego dissolution eﬀects (EDI)
+compared with their counterparts who did not report
+improvements (Cohen’s d range 0.7−1.5). However, there
+were no signiﬁcant diﬀerences in ratings of ego dissolution
+eﬀects among those who did and did not report reductions in
+their PTSD symptoms after mescaline use. Additionally, with
+regard to enduring positive eﬀects, those whose psychiatric
+conditions reportedly improved had higher ratings of the
+following variables: current sense of personal well-being or life
+satisfaction, life’s purpose, life’s meaning, social relationship as
+a whole, attitudes about life, attitudes about self, relationship to
+nature, positive behavioral changes, spirituality, attitudes about
+death, and views regarding the true nature of reality (Cohen’s d
+range 0.6−2.2). Moreover, improvers in nearly all psychiatric
+subgroups rated their mescaline experience as more highly
+personally meaningful, spiritually signiﬁcant, and psychologi-
+cally insightful compared with those whose psychiatric
+conditions did not improve (Cohen’s d range 0.5−1.2).
+There were no diﬀerences in ratings of acute psychologically
+challenging experiences between those who did or did not
+report improvements in psychiatric conditions after their most
+meaningful mescaline experience except within the PTSD
+subgroup. The respondents whose PTSD reportedly improved
+after mescaline reported lower ratings of acute challenging
+experiences than did their counterparts who reported no
+change or worsening in this condition.
+On the basis of the signiﬁcant subgroup diﬀerences (“better”
+versus “no change”/”worse”) in ratings of acute subjective
+eﬀects (i.e., PIQ, MEQ-30, and EDI), we conducted a series of
+logistic regressions to determine if these acute eﬀects were
+associated with improvements in respondents’ reference
+psychiatric conditions following mescaline use (see Table 4).
+In the ﬁnal models, a greater intensity of insight (PIQ), but not
+mystical-type (MEQ-30) or ego dissolution (EDI) experiences,
+was associated with increased odds of reporting improvement
+in depression (OR = 2.60, 95% CI, 1.43−4.58), alcohol
+misuse/AUD (OR = 3.25, 95% CI, 1.91−5.54), and drug
+misuse/DUD (OR = 3.34, 95% CI, 1.47−7.59). In the PTSD
+subgroup, the intensity of mystical-type (MEQ-30), but not
+insight (PIQ) or ego dissolution (EDI), was associated with
+increased odds of symptom improvement (OR = 3.72, 95% CI,
+1.20−11.51).
+■DISCUSSION
+This report from an online survey study provides detailed
+information from an international sample of 452 adults who
+reported improvements in psychiatric conditions following
+naturalistic use of mescaline. This is the ﬁrst international
+survey study to examine the use of mescaline and its beneﬁts
+on various psychiatric indices. Results indicate that mescaline
+use was associated with self-reported improvements in a variety
+of domains including mood, anxiety, and substance use
+disorders. Nearly half of all respondents reported having
+depression (41%) or anxiety (46%) at the time of their most
+memorable mescaline use, with a smaller proportion,
+approximately one-ﬁfth, reporting having PTSD or drug or
+alcohol misuse or use disorders. A growing evidence base
+suggests that psychedelics used in naturalistic and human
+laboratory settings holds considerable promise for the
+treatment of a variety of clinical conditions.16,17,28,29 The
+transdiagnostic applications are wide ranging and include
+major depression,10,15,30 existential distress,13,31−34 substance
+use disorders,29,35,36 and PTSD,31 with sustained therapeutic
+eﬀects observed in many cases.13,33,37 Although most
+respondents (95−98%) in our study did not report an explicit
+intention to address or change these conditions during their
+mescaline experience, it is possible that general intentions for
+psychological or spiritual exploration may have contributed to
+symptom improvement among this study sample.
+The exploration of psychological mechanisms involved in
+the therapeutic process of psychedelic experiences is still in
+early phases. Several group diﬀerences in the present study
+highlight potentially relevant clinical factors and suggest
+compelling explanatory mechanisms to be explored in future
+controlled trials. For example, ratings of acute eﬀects (mystical-
+type, psychological insight, and ego dissolution) and enduring
+eﬀects (enhanced sense of personal well-being and life purpose,
+improved attitudes about life and self, and positive behavioral
+changes) diﬀered signiﬁcantly between those volunteers who
+reported that their psychiatric conditions improved and those
+who reported that their conditions did not improve or
+worsened following mescaline use. The eﬀect sizes of these
+between-group diﬀerences were medium to large. Interestingly,
+acute phenomenological experiences of psychological insight,
+as indexed by a recently validated outcome measure,38 was the
+only signiﬁcant predictor of clinical improvement across
+several diagnostic categories in this study after controlling for
+the inﬂuence of acute mystical-type and ego dissolution
+experiences. This measure assessed the degree to which
+respondents gained new awareness into their emotions,
+behaviors, memories, or relationships during the mescaline
+experience.38 These ﬁndings are compatible with two recent
+studies employing path analysis models that documented
+stronger associations between acute gains in psychological
+insight and clinical change, compared with acute mystical-type
+Table 4. Analysis of Odds Ratio Estimates for Acute Subjective Mescaline Eﬀects Predicting “Better” or “No Change/Worse”
+in Reference Psychiatric Conditiona
+depression
+anxiety
+PTSD
+alcohol misuse/AUD
+drug misuse/DUD
+predictor
+OR
+95% CI
+OR
+95% CI
+OR
+95% CI
+OR
+95% CI
+OR
+95% CI
+psychological insight
+2.60**
+1.43−4.58
+3.25
+1.91−5.54***
+1.30
+0.63−2.71
+2.6**
+1.34−5.14
+3.34**
+1.47−7.59
+mystical-type
+2.23
+0.94−5.26
+1.61
+0.82−3.14
+3.72*
+1.20−11.51
+1.2
+0.47−3.39
+1.53
+0.49−4.75
+ego dissolution
+0.81
+0.38−1.72
+0.94
+0.52−1.68
+1.30
+0.24−1.18
+0.9
+0.47−1.82
+0.88
+0.43−1.83
+aOR = odds ratio; CI = conﬁdence interval; *p < 0.05, **p < 0.01, ***p < 0.001.
+ACS Pharmacology & Translational Science
+pubs.acs.org/ptsci
+Article
+https://doi.org/10.1021/acsptsci.1c00018
+ACS Pharmacol. Transl. Sci. 2021, 4, 543−552
+547
+
+
+experience.14,17 A large number of studies have documented a
+consistent relationship between mystical-type experiences and
+clinical outcomes.11−13,15,33,35,39−41 However, more nuanced
+and process-oriented models bolstered by the ﬁndings of the
+present study propose that although accessing acute self-
+transcendent states may be therapeutically necessary and
+valuable, what may ultimately be required for lasting
+therapeutic change is the assimilation of these transpersonal
+experiences with personal insights into one’s psychological
+coping patterns.42 These experiential factors may enable
+individuals to re-examine their lives in the service of personal
+healing, consistent with reports of “quantum change”43 or
+spontaneous spiritual conversion experiences.44 Furthermore,
+we did not directly assess the role of emotionally cathartic
+experiences in this study, a phenomenon which has been
+documented in prior experimental studies with psyche-
+delics41,45 and may be particularly relevant for clinical
+populations who use psychedelics. Cognitive insight in relation
+to one’s intra- and interpersonal patterns may be insuﬃcient to
+produce lasting change in the absence of emotional expression
+or processing. The coactivation of psychological insight and
+aﬀective processing during the acute phase of a psychedelic
+experience may support the development of greater psycho-
+logical ﬂexibility46 and emotion regulation47 in the face of
+future stressors and serve to counteract the maladaptive use of
+experiential avoidance strategies.48
+It is intriguing to note that mescaline use was associated with
+improvements in PTSD symptoms in our study sample. Only
+one clinical trial has documented improvements in PTSD
+symptoms following the use of a classic serotonergic
+psychedelic,31 and no studies have explored the use of classic
+psychedelics to directly target PTSD as a primary outcome or
+clinical indication. Interestingly, the intensity of acute mystical-
+type experience in the PTSD group was associated with
+increased odds of symptom improvement in our logistic
+regression model. This is somewhat at odds with mounting
+evidence supporting the use of the entactogenic drug 3,4-
+methylenedioxymethamphetamine (MDMA) as an adjunct to
+psychotherapy for the treatment of PTSD,49 wherein mystical
+experiences are less common50 and the hypothesized
+mechanisms include enhanced fear extinction and reconsoli-
+dation of aﬀective memories associated with the trauma.51
+However, according to prevailing cognitive theories, traumatic
+experiences can profoundly violate a person’s global beliefs
+about self, future, and the world, resulting in pervasive negative
+cognitions that maintain PTSD over time.52,53 A tentative
+explanation for the potential therapeutic eﬀects of mescaline
+may relate to mescaline’s combined psychedelic and
+entactogenic properties.54 Phenomenological states of awe
+and interconnectedness55−57 may harmonize with feelings of
+emotional openness, trust, and safety to facilitate meaningful
+and constructive shifts in one’s schemas, avoidance patterns,
+and appraisals of threat and safety. We hope that investigators
+will systematically explore the application of mescaline and
+other classic psychedelics toward the treatment of PTSD in
+future experimental trials.
+In addition, it is notable that approximately 35−50% of
+respondents rated their naturalistic mescaline experience to be
+either the single most or among the top ﬁve most meaningful
+or spiritual experiences of their lives. These results align with
+other naturalistic16,17,28,29 and human laboratory studies that
+establish the potential of psychedelics to facilitate highly
+meaningful and spiritually signiﬁcant experiences and improve
+a variety of psychological outcomes.11−13,15,33,37 The slightly
+higher range of responses (52−96%) recorded in human
+laboratory studies suggests that the careful monitoring and
+therapeutic support associated with controlled administration
+of psychedelics in contemporary trials may potentiate the
+impact of psychedelics on psychological outcomes. It should
+also be noted that a considerably high proportion of
+respondents (73−80%) who reported on their use of 5-
+methoxy-N,N-dimethyltryptamine (5-MeO−DMT) in a natu-
+ralistic survey study endorsed that their ﬁrst 5-MeO−DMT
+experience, taking place in a group context with trained
+facilitators, was among the top ﬁve most meaningful or
+spiritual experiences of their lives.28 These sessions involved
+similar structured preparation and integration activities to
+those utilized in human laboratory trials, underscoring the
+therapeutic value associated with these practices. Lastly, our
+results support the notion that psychologically challenging
+eﬀects that occur during a psychedelic experience may be
+neutral or positively associated with the meaningfulness or
+spiritual signiﬁcance of psychedelic experiences.28,58,59
+It is important to note the methodological limitations of our
+study and to urge caution when interpreting these ﬁndings. As
+this was a cross-sectional study, we cannot infer causality
+regarding the impact of mescaline on psychiatric conditions.
+Results are also limited by possible self-selection by individuals
+favorably disposed toward psychedelic experiences. For
+example, that recruitment occurred primarily via social
+media, email, and word-of-mouth, it is possible that
+respondents were biased in their predisposition to be publicly
+or privately aﬃliated with others who have used psychedelics.
+Additionally, it is possible that nonpharmacological variables
+including respondents’ mindsets, positive expectancies, and
+environmental factors shaped their views and responses to our
+survey questions.60,61 The retrospective nature of respondents’
+reports is also subject to recall bias. Moreover, we did not
+administer standardized or psychometrically validated clinical
+measures of depression, anxiety, PTSD, AUD, and DUD and,
+instead, used a single item assessment to assess this history.
+Therefore, we were not able to verify the clinical information
+that respondents reported, and they do not represent absolute
+diagnoses. An additional design limitation is that we did not
+analyze outcomes with respect to psychiatric comorbidity;
+given the high rates of co-occurring disorders in the general
+population,62 it is likely that many of our respondents
+presented with multiple diagnoses that were not captured in
+this study. A ﬁnal and important shortcoming of our study was
+that respondents were predominately young White males,
+which greatly limits the generalizability of these ﬁndings to
+other demographic groups. Across psychedelic research trials,
+Black, Indigenous, and People of Color are greatly under-
+represented, and the ﬁeld remains severely lacking in diversity
+and inclusion. It behooves the research community to assert
+more proactive eﬀorts to recruit these individuals in future
+naturalistic and experimental trials.
+Given these limitations, the present ﬁndings must be
+interpreted with caution. Nevertheless, the results from our
+study indicate that when administered in a naturalistic setting,
+mescaline may facilitate unintended improvements in self-
+reported depression, anxiety, PTSD, and substance use
+disorders. As documented in our previous report with this
+study sample,18 respondents in our study reported very low
+rates of adverse experiences, corroborating empirical evidence
+that mescaline carries a low risk for harmful health
+ACS Pharmacology & Translational Science
+pubs.acs.org/ptsci
+Article
+https://doi.org/10.1021/acsptsci.1c00018
+ACS Pharmacol. Transl. Sci. 2021, 4, 543−552
+548
+
+
+consequences.63,64 These observations also contribute impor-
+tant preliminary data to our growing understanding of core
+therapeutic processes associated with mescaline use and
+suggest an important pathway through which psychological
+insight and mystical-type experience might inﬂuence subse-
+quent clinical improvements. Our ﬁndings provide further
+support for a potential psychological mechanism of action of
+the clinically beneﬁcial eﬀects of mescaline on depression,
+anxiety, substance use disorders, and PTSD. Additional
+research is needed to systematically examine these processes
+in rigorous trials employing prospective, longitudinal designs.
+It is our hope that future investigators will continue to examine
+the therapeutic potential and explanatory mechanisms of this
+interesting psychedelic substance.
+■METHODS
+This study is a secondary data analysis from a larger
+epidemiological study assessing individuals’ patterns of use,
+motivations for consumption, beneﬁts/consequences, and
+acute subjective eﬀects of mescaline use among an interna-
+tional sample of volunteers.18 Respondents were recruited via
+Internet advertisements provided on several Web sites (e.g.,
+www.facebook.com, www.reddit.com) and was distributed
+widely via email invitation to organizations (e.g., Chacruna)
+that may have newsletters, blogs, or listservs of potential
+respondents. Lastly, recruitment via word-of-mouth (i.e.,
+snowballing) was evidenced by “shares” of our postings by
+nonstudy team members on Facebook and other social media.
+Recruitment occurred between January and October 2019.
+Potential respondents were presented with information
+regarding the purpose of the study, the anonymous nature of
+the study, and the approximate time required to complete the
+survey (45−60 min). Respondents were not provided
+compensation for their responses. Inclusion criteria consisted
+of having reading and writing ﬂuency in English, being at least
+18 years of age, and having ingested mescaline on at least one
+occasion. We did not collect identifying information. All
+procedures were approved by the Local Standing Ethical
+Committee at Maastricht University in The Netherlands.
+Measures. Mescaline Survey. The primary survey utilized
+in this study included a wide-ranging series of questions
+detailed in a recent report18 about respondents’ pattern of use,
+acute subjective eﬀects, and potential consequences and
+beneﬁts of their use of mescaline in the context of their
+most “memorable” experience.
+Mental Health Measure. This questionnaire included a
+series of questions about whether respondents had been
+diagnosed with a mental health condition in the past, including
+depression, anxiety, PTSD, alcohol misuse or AUD, or drug
+misuse or DUD (categorical response options: yes, no, or
+unsure). Respondents could select multiple categories. The
+questionnaire also queried whether respondents’ conditions
+had changed after mescaline consumption (categorical
+response options: better, stayed the same, or worsened).
+Acute Mescaline Eﬀects. Psychological Insight Ques-
+tionnaire (PIQ). The PIQ consists of 23 items with two
+subscales: avoidance and maladaptive patterns, and goals and
+adaptive patterns.28 Respondents were asked to reﬂect on their
+most memorable mescaline use and to rate the degree to which
+they experienced a broad range of insights on a 6-point scale
+from 0 = “None; not at all” to 5 = “Extremely (more than ever
+before in my life).” We used an overall total scale mean for
+analyses. This measure showed excellent internal consistency
+in the current sample (Cronbach’s α = 0.95)
+Mystical Experiences Questionnaire (MEQ-30). The MEQ-
+30 is a 30-item self-report questionnaire that measures the
+phenomenological eﬀects occasioned by a psychedelic.52
+Respondents were asked to think back on their most
+meaningful experience with mescaline and then to rate the
+intensity of the eﬀects they experienced during that session on
+a 6-point scale from 0 = “None; not at all” to 5 = “Extreme
+(more than ever before in my life).” The MEQ-30 contains
+four factors: mystical, positive mood, transcendence of time/
+space, and ineﬀability. We used on overall total scale mean for
+analyses. This measure has shown good reliability (Cronbach’s
+α ranging from 0.80 to 0.93) and demonstrated excellent
+internal consistency (of the total score) within our study
+sample (Cronbach’s α = 0.96).
+Challenging Experiences Questionnaire (CEQ). The CEQ
+is a 26-item self-report instrument that measures the intensity
+of challenging experiences that may occur after ingesting a
+psychedelic.57 Respondents were asked to consider their most
+meaningful experience with mescaline and then to report on
+the intensity of any psychologically or physically challenging
+eﬀects they experienced using a 5-point scale from 0 = “None;
+not at all” to 5 = “Extreme (more than ever before in my life).”
+The CEQ contains seven total factors: fear, death, insanity,
+isolation, physical distress, and paranoia. We also calculated a
+total mean score to assess the overall intensity of challenging
+experiences during the respondents’ mescaline sessions. This
+measure has shown good reliability in previous studies
+(Cronbach’s α ranging from 0.70−0.89) and showed excellent
+internal consistency (of the total score) within the present
+sample (Cronbach’s α = 0.92).
+Ego Dissolution Inventory (EDI). The EDI is an 8-item self-
+report measure that assesses the extent to which an individual
+experiences dissolution of ego boundaries after ingesting a
+psychedelic.65 We asked respondents to reﬂect on their most
+memorable mescaline experience and to rate the degree of ego
+dissolution they experienced. We modiﬁed the original sliding
+scale from 0 to 100% to a Likert scale from 0 = “None; not at
+all” to 5 = “Extreme” in the present study. We used a total
+mean score in analyses. The measure has shown good
+convergent validity (Spearman’s rho ranging from 0.83−
+0.89) and demonstrated excellent internal consistency within
+our sample (Cronbach’s α = 0.91).
+Persisting Eﬀects Questionnaire (PEQ). The PEQ11
+assesses self-rated changes in one’s attitude, mood, behavior,
+and experience of spirituality after a psychedelic experience.
+The structure of the PEQ also enables it to capture
+longitudinal eﬀects. Respondents were asked to consider
+their most meaningful experience with mescaline and then to
+report on the degree to which the session was personally
+meaningful, spiritually signiﬁcant, psychologically challenging,
+and psychologically insightful. They were asked to rate these
+four items on a scale of from 0 = “No more than routine,
+everyday experiences” to 7 = “The single most [personally
+meaningful, spiritually signiﬁcant, psychologically challenging,
+or psychologically insightful] experience of my life,”
+respectively. Additionally, we asked respondents to rate
+whether their experience with mescaline had led to any
+enduring changes in their current sense of well-being or life
+satisfaction, life’s purpose, life’s meaning, social relationships,
+attitudes about life, attitudes about death, and views regarding
+the true nature of reality and the universe using a scale from
+ACS Pharmacology & Translational Science
+pubs.acs.org/ptsci
+Article
+https://doi.org/10.1021/acsptsci.1c00018
+ACS Pharmacol. Transl. Sci. 2021, 4, 543−552
+549
+
+
+−3 = “Strong negative changes that I consider undesirable” to
++3 = “Strong positive changes that I consider desirable”. Each
+item was used individually in analyses.
+Data Analyses. The ﬁrst step of our analysis involved
+calculating frequency counts and analyzing descriptive data
+regarding demographics, patterns of mescaline use, acute
+subjective eﬀects (i.e., mystical-type, ego dissolution, psycho-
+logical insight and challenging eﬀects), beliefs about the
+mescaline experience, and rates of reported psychiatric
+conditions. We then split the sample into ﬁve psychiatric
+subgroups based on whether respondents reported having
+prior diagnoses of depression, anxiety, PTSD, alcohol misuse
+or AUD, or drug misuse or DUD conditions. We then split
+these psychiatric subgroups based on whether respondents
+reported that their psychiatric conditions became “Better”, or
+“Worse”/“No Change” after their most memorable mescaline
+experience. Next, we conducted a series of chi-square analyses
+and t-tests to compare variables (e.g., demographic character-
+istics, mean ratings of acute subjective eﬀects and mean ratings
+of beliefs about the positive eﬀects of mescaline) as a function
+of outcome (e.g., Better versus No Change/Worse) within
+each psychiatric subgroups. We subsequently conducted a
+series of logistic regression analyses to determine whether any
+signiﬁcant between-group ﬁndings on any measures of acute
+eﬀects, identiﬁed in the previous step, were predictive of
+whether respondents did or did not report improvements in
+their conditions in each psychiatric subgroup. We utilized a
+standard alpha of 0.05 to determine statistical signiﬁcance. We
+also calculated Cohen’s d eﬀect sizes and odds ratios to
+facilitate interpretation of signiﬁcant eﬀects.
+■AUTHOR INFORMATION
+Corresponding Authors
+Gabrielle Agin-Liebes −Department of Psychiatry, University
+of California, San Francisco, San Francisco, California
+94110, United States; Zuckerberg San Francisco General
+Hospital, San Francisco, California 94110, United States;
+orcid.org/0000-0002-9754-229X; Phone: 646-641-
+2000; Email: gabrielle.agin-liebes@ucsf.edu
+Alan K. Davis −College of Social Work, The Ohio State
+University, Columbus, Ohio 43210, United States; Center for
+Psychedelic and Consciousness Research, Johns Hopkins
+University, Baltimore, Maryland 21224, United States;
+Phone: 614-292-5251; Email: davis.5996@osu.edu
+Authors
+Trevor F. Haas −University of California, Davis, School of
+Medicine, Sacramento, California 95817, United States;
+Department of Psychiatry and Behavioral Sciences, University
+of Southern California, Los Angeles, California 90089-0001,
+United States
+Rafael Lancelotta −Habituating to Wholeness, LLC,
+Lakewood, Colorado 80214, United States
+Malin V. Uthaug −Department of Clinical Psychological
+Science, Faculty of Psychology and Neuroscience, Maastricht
+University, Maastricht, Limburg 6200 MD, The Netherlands
+Johannes G. Ramaekers −Department of Clinical
+Psychological Science, Faculty of Psychology and
+Neuroscience, Maastricht University, Maastricht, Limburg
+6200 MD, The Netherlands
+Complete contact information is available at:
+https://pubs.acs.org/10.1021/acsptsci.1c00018
+Funding
+This work was supported by the National Institutes of Health
+(T32DAA00725 to GAL). Eﬀort for A.K.D. was provided from
+support from Tim Ferriss, Matt Mullenweg, Craig Nerenberg,
+Blake Mycoskie, and the Steven and Alexandra Cohen
+Foundation. The funders had no role in study design, data
+collection and analysis, decision to publish, or preparation of
+the manuscript.
+Notes
+The authors declare the following competing ﬁnancial
+interest(s): A.K.D. and R.L. are board members of Source
+Research Foundation. This organization was not involved in
+the design/execution of this study or the interpretation or
+communication of ﬁndings.
+■ACKNOWLEDGMENTS
+The authors would like to extend their gratitude to the
+volunteers for their important contributions to this study. The
+authors also would like to thank Dr. Raymond Weitekamp and
+Elena Lancelotta for their artistic help designing the image
+graphic for this article.
+■REFERENCES
+(1) Steel, Z., Marnane, C., Iranpour, C., Chey, T., Jackson, J. W.,
+Patel, V., and Silove, D. (2014) The global prevalence of common
+mental disorders: A systematic review and meta-analysis 1980−2013.
+Int. J. Epidemiol. 43, 476−493.
+(2) Whiteford, H. A., Degenhardt, L., Rehm, J., Baxter, A. J., Ferrari,
+A. J., Erskine, H. E., Charlson, F. J., Norman, R. E., Flaxman, A. D.,
+Johns, N., Burstein, R., Murray, C. J. L., and Vos, T. (2013) Global
+burden of disease attributable to mental and substance use disorders:
+findings from the Global Burden of Disease Study 2010. Lancet 382,
+1575−1586.
+(3) Katon, W. J. (2011) Epidemiology and treatment of depression
+in patients with chronic medical illness. Dialogues Clin. Neurosci. 13,
+7−23.
+(4) World Health Organization (WHO). (2001) An overview of a
+strategy to improve the mental health of underserved populations, WHO,
+Geneva, Switzerland.
+(5) Cuijpers, P., Sijbrandij, M., Koole, S. L., Andersson, G.,
+Beekman, A. T., and Reynolds, C. F. (2014) Adding psychotherapy to
+antidepressant medication in depression and anxiety disorders: a
+meta-analysis. Focus (Madison). 12, 347−358.
+(6) Collins, K. A., Westra, H. A., Dozois, D. J. A., and Burns, D. D.
+(2004) Gaps in accessing treatment for anxiety and depression:
+Challenges for the delivery of care. Clin. Psychol. Rev. 24, 583−616.
+(7) Arroll, B., Elley, C. R., Fishman, T., Goodyear-Smith, F. A.,
+Kenealy, T., Blashki, G., Kerse, N., and MacGillivray, S. (2009)
+Antidepressants versus placebo for depression in primary care.
+Cochrane Database Syst. 3, CD007954.
+(8) Andersen, K. A. A., Carhart-Harris, R., Nutt, D. J., and Erritzoe,
+D. (2020) Therapeutic effects of classic serotonergic psychedelics: a
+systematic review of modern-era clinical studies. Acta Psychiatr. Scand.
+141, 410.
+(9) Rickli, A., Moning, O. D., Hoener, M. C., and Liechti, M. E.
+(2016) Receptor interaction profiles of novel psychoactive trypt-
+amines compared with classic hallucinogens. Eur. Neuropsychophar-
+macol. 26, 1327−1337.
+(10) Carhart-Harris, R. L., Roseman, L., Bolstridge, M., Demetriou,
+L., Pannekoek, J. N., Wall, M. B., Tanner, M., Kaelen, M., McGonigle,
+J., Murphy, K., Leech, R., Curran, H. V., and Nutt, D. J. (2017)
+Psilocybin for treatment-resistant depression: fMRI-measured brain
+mechanisms. Sci. Rep. 7, 13187.
+(11) Griffiths, R. R., Richards, W. A., Johnson, M. W., McCann, U.
+D., and Jesse, R. (2008) Mystical-type experiences occasioned by
+ACS Pharmacology & Translational Science
+pubs.acs.org/ptsci
+Article
+https://doi.org/10.1021/acsptsci.1c00018
+ACS Pharmacol. Transl. Sci. 2021, 4, 543−552
+550
+
+
+psilocybin mediate the attribution of personal meaning and spiritual
+significance 14 months later. J. Psychopharmacol. 22, 621−632.
+(12) Griffiths, R. R., Johnson, M. W., Richards, W. A., Richards, B.
+D., McCann, U., and Jesse, R. (2011) Psilocybin occasioned mystical-
+type experiences: immediate and persisting dose-related effects.
+Psychopharmacology (Berl) 218, 649−665.
+(13) Ross, S., Bossis, A., Guss, J., Agin-Liebes, G., Malone, T.,
+Cohen, B., Mennenga, S. E., Belser, A., Kalliontzi, K., Babb, J., Su, Z.,
+Corby, P., and Schmidt, B. L. (2016) Rapid and sustained symptom
+reduction following psilocybin treatment for anxiety and depression in
+patients with life-threatening cancer: a randomized controlled trial. J.
+Psychopharmacol. 30, 1165−1180.
+(14) Davis, A. K., Barrett, F. S., and Griffiths, R. R. (2020)
+Psychological flexibility mediates the relations between acute
+psychedelic effects and subjective decreases in depression and anxiety.
+J. Context. Behav. Sci. 15, 39−45.
+(15) Davis, A. K., Barrett, F. S., May, D. G., Cosimano, M. P.,
+Sepeda, N. D., Johnson, M. W., Finan, P. H., and Griﬃths, R. R.
+(2020) Eﬀects of psilocybin-assisted therapy on major depressive
+disorder: a randomized clinical trial. JAMA Psychiatry. DOI: 10.1001/
+jamapsychiatry.2020.3285
+(16) Garcia-Romeu, A., Davis, A. K., Erowid, F., Erowid, E., Griffiths,
+R. R., and Johnson, M. W. (2019) Cessation and reduction in alcohol
+consumption and misuse after psychedelic use. J. Psychopharmacol. 33,
+1088−1101.
+(17) Garcia-Romeu, A., Davis, A. K., Erowid, E., Erowid, F., Griffiths,
+R. R., and Johnson, M. W. (2020) Persisting reductions in cannabis,
+opioid, and stimulant misuse after naturalistic psychedelic use: an
+online survey. Front. Psychiatry 10, 955.
+(18) Uthaug, M., Davis, A. K., Haas, T., Davis, D., Dolan, S.,
+Lancelotta, R., Timmerman, C., and Ramaekers, J. (under review).
+(19) Jay, M. (2019) Mescaline: a global history of the ﬁrst psychedelic,
+Yale University Press, New Haven, CT.
+(20) Dasgupta, A. (2019) Chapter 33 - Abuse of Magic Mushroom,
+Peyote Cactus, LSD, Khat, and Volatiles. In Critical Issues in Alcohol
+and Drugs of Abuse Testing (Dasgupta, A., Ed.), pp 477−494, Elsevier,
+Amsterdam.
+(21) Nichols, D. E. (2004) Hallucinogens. Pharmacol. Ther. 101,
+131−181.
+(22) Prentiss, D. W., and Morgan, F. P. (1895) Anhalonium lewinii
+(Mescal buttons). Therap. 19, 577.
+(23) Rucker, J. J. H., Iliff, J., and Nutt, D. J. (2018) Psychiatry & the
+psychedelic drugs. past, present & future. Neuropharmacology 142,
+200−218.
+(24) Albaugh, B. J., and Anderson, P. O. (1974) Peyote in the
+treatment of alcoholism among American Indians. Am. J. Psychiatry
+131, 1247−1250.
+(25) Halpern, J. H., Sherwood, A. R., Hudson, J. I., Yurgelun-Todd,
+D., and Pope, H. G. (2005) Psychological and cognitive effects of
+long-term peyote use among Native Americans. Biol. Psychiatry 58,
+624−631.
+(26) Erowid. (2011) A seminal spiritual event: an experience with
+mescaline (exp91450). Available at: www.erowid.org/exp/91450.
+(27) Erowid. (2012) Who are you accepting death and utter ecstasy:
+an experience with mescaline (exp88982). Available at: https://
+erowid.org/experiences/exp.php?ID=88982.
+(28) Davis, A. K., So, S., Lancelotta, R., Barsuglia, J. P., and Griffiths,
+R. R. (2019) 5-methoxy-N,N-dimethyltryptamine (5-MeO-DMT)
+used in a naturalistic group setting is associated with unintended
+improvements in depression and anxiety. Am. J. Drug Alcohol Abuse
+45, 161−169.
+(29) Johnson, M. W., Garcia-Romeu, A., Johnson, P. S., and
+Griffiths, R. R. (2017) An online survey of tobacco smoking cessation
+associated with naturalistic psychedelic use. J. Psychopharmacol. 31,
+841−850.
+(30) Palhano-Fontes, F., Barreto, D., Onias, H., Andrade, K. C.,
+Novaes, M. M., Pessoa, J. A., Mota-Rolim, S. A., Osório, F. L.,
+Sanches, R., Dos Santos, R. G., Tófoli, L. F., De Oliveira Silveira, G.,
+Yonamine, M., Riba, J., Santos, F. R., Silva-Junior, A. A., Alchieri, J. C.,
+Galvão-Coelho, N. L., Lobão-Soares, B., Hallak, J. E. C., Arcoverde,
+E., Maia-De-Oliveira, J. P., and Araújo, D. B. (2019) Rapid
+antidepressant effects of the psychedelic ayahuasca in treatment-
+resistant depression: a randomized placebo-controlled trial. Psychol.
+Med. 49, 655−663.
+(31) Anderson, B. T., Danforth, A., Daroff, P. R., Stauffer, C.,
+Ekman, E., Agin-Liebes, G., Trope, A., Boden, M. T., Dilley, P. J.,
+Mitchell, J., and Woolley, J. (2020) Psilocybin-assisted group therapy
+for demoralized older long-term AIDS survivor men: an open-label
+safety and feasibility pilot study. EClinicalMedicine 27, 100538.
+(32) Gasser, P., Holstein, D., Michel, Y., Doblin, R., Yazar-Klosinski,
+B., Passie, T., and Brenneisen, R. (2014) Safety and efficacy of lysergic
+acid diethylamide-assisted psychotherapy for anxiety associated with
+life-threatening diseases. J. Nerv. Ment. Dis. 202, 513−520.
+(33) Griffiths, R. R., Johnson, M. W., Carducci, M. A., Umbricht, A.,
+Richards, W. A., Richards, B. D., Cosimano, M. P., and Klinedinst, M.
+A. (2016) Psilocybin produces substantial and sustained decreases in
+depression and anxiety in patients with life-threatening cancer: a
+randomized double-blind trial. J. Psychopharmacol. 30, 1181−1197.
+(34) Grob, C. S., Danforth, A. L., Chopra, G. S., Hagerty, M.,
+McKay, C. R., Halberstadt, A. L., and Greer, G. R. (2011) Pilot study
+of psilocybin treatment for anxiety in patients with advanced-stage
+cancer. Arch. Gen. Psychiatry 68, 71−78.
+(35) Bogenschutz, M. P., Forcehimes, A. A., Pommy, J. A., Wilcox,
+C. E., Barbosa, P., and Strassman, R. J. (2015) Psilocybin-assisted
+treatment for alcohol dependence: a proof-of-concept study. J.
+Psychopharmacol. 29, 289−299.
+(36) Johnson, M. W., Garcia-Romeu, A., Cosimano, M. P., and
+Griffiths, R. R. (2014) Pilot study of the 5-HT2AR agonist psilocybin
+in the treatment of tobacco addiction. J. Psychopharmacol. 28, 983−
+992.
+(37) Agin-Liebes, G. I., Malone, T., Yalch, M. M., Mennenga, S. E.,
+Ponté, K. L., Guss, J., Bossis, A. P., Grigsby, J., Fischer, S., and Ross, S.
+(2020) Long-term follow-up of psilocybin-assisted psychotherapy for
+psychiatric and existential distress in patients with life-threatening
+cancer. J. Psychopharmacol. 34, 155−166.
+(38) Davis, A. K., Barrett, F. S., So, S., Gukasyan, N., Swift, T. C.,
+and Griﬃths, R. G. (2021) Development of the Psychological Insight
+Questionnaire among a sample of people who have consumed
+psilocybin
+or
+LSD.
+J.
+Psychopharmacol.
+DOI:
+10.1177/
+0269881120967878
+(39) Liechti, M. E., Dolder, P. C., and Schmid, Y. (2017) Alterations
+of consciousness and mystical-type experiences after acute LSD in
+humans. Psychopharmacology (Berl) 234, 1499−1510.
+(40) MacLean, K. A., Johnson, M. W., and Griffiths, R. R. (2011)
+Mystical experiences occasioned by the hallucinogen psilocybin lead
+to increases in the personality domain of openness. J. Psychopharma-
+col. 25, 1453−1461.
+(41) Roseman, L., Nutt, D. J., and Carhart-Harris, R. L. (2018)
+Quality of acute psychedelic experience predicts therapeutic efficacy
+of psilocybin for treatment-resistant depression. Front. Pharmacol. 8,
+974.
+(42) Watts, R., and Luoma, J. B. (2020) The use of the psychological
+flexibility model to support psychedelic assisted therapy. J. Context.
+Behav. Sci. 15, 92−102.
+(43) Miller, W. R. (2004) The phenomenon of quantum change. J.
+Clin. Psychol. 60, 453−460.
+(44) Mahoney, A., and Pargament, K. I. (2004) Sacred changes:
+spiritual conversion and transformation. J. Clin. Psychol. 60, 481−492.
+(45) Kraehenmann, R., Schmidt, A., Friston, K., Preller, K. H.,
+Seifritz, E., and Vollenweider, F. X. (2016) The mixed serotonin
+receptor agonist psilocybin reduces threat-induced modulation of
+amygdala connectivity. NeuroImage Clin. 11, 53−60.
+(46) Hayes, S. C., Strosahl, K., Wilson, K. G., Bissett, R. T.,
+Pistorello, J., Toarmino, D., Polusny, M. A., Dykstra, T. A., Batten, S.
+V., Bergan, J., Stewart, S. H., Zvolensky, M. J., Eifert, G. H., Bond, F.
+W., Forsyth, J. P., Karekla, M., and Mccurry, S. M. (2004) Measuring
+experiential avoidance: a preliminary test of a working model. Psychol.
+Rec. 54, 553−578.
+ACS Pharmacology & Translational Science
+pubs.acs.org/ptsci
+Article
+https://doi.org/10.1021/acsptsci.1c00018
+ACS Pharmacol. Transl. Sci. 2021, 4, 543−552
+551
+
+
+(47) Thiessen, M. S., Walsh, Z., Bird, B. M., and Lafrance, A. (2018)
+Psychedelic use and intimate partner violence: the role of emotion
+regulation. J. Psychopharmacol. 32, 749−755.
+(48) Zeifman, R. J., Wagner, A. C., Watts, R., Kettner, H., Mertens,
+L. J., and Carhart-Harris, R. L. (2020) Post-psychedelic reductions in
+experiential avoidance are associated with decreases in depression
+severity and suicidal ideation. Front. Psychiatry 11, 782.
+(49) Mithoefer, M. C., Feduccia, A. A., Jerome, L., Mithoefer, A.,
+Wagner, M., Walsh, Z., Hamilton, S., Yazar-Klosinski, B., Emerson, A.,
+and Doblin, R. (2019) MDMA-assisted psychotherapy for treatment
+of PTSD: study design and rationale for phase 3 trials based on
+pooled analysis of six phase 2 randomized controlled trials.
+Psychopharmacology (Berl) 236, 2735−2745.
+(50) Lyvers, M., and Meester, M. (2012) Illicit use of LSD or
+psilocybin, but not MDMA or nonpsychedelic drugs, is associated
+with mystical experiences in a dose-dependent manner. J. Psychoact.
+Drugs 44, 410−417.
+(51) Feduccia, A. A., and Mithoefer, M. C. (2018) MDMA-assisted
+psychotherapy for PTSD: are memory reconsolidation and fear
+extinction underlying mechanisms? Prog. Neuro-Psychopharmacol. Biol.
+Psychiatry 84, 221−228.
+(52) Horowitz, M. J. (1986) Stress-response syndromes: a review of
+posttraumatic and adjustment disorders. Psychiatr. Serv. 37, 241−249.
+(53) Park, C. L., Mills, M. A., and Edmondson, D. (2012) PTSD as
+meaning violation: testing a cognitive worldview perspective.
+Psychological Trauma: Theory, Research, Practice, and Policy 4, 66−73.
+(54) Passie, T., and Benzenhöfer, U. (2018) MDA, MDMA, and
+other “mescaline-like” substances in the US military’s search for a
+truth drug (1940s to 1960s). Drug Test. Anal. 10, 72−80.
+(55) Hendricks, P. S. (2018) Awe: a putative mechanism underlying
+the effects of classic psychedelic-assisted psychotherapy. Int. Rev.
+Psychiatry 30, 331−342.
+(56) Barrett, F. S., Johnson, M. W., and Griffiths, R. R. (2015)
+Validation of the revised Mystical Experience Questionnaire in
+experimental sessions with psilocybin. J. Psychopharmacol. 29, 1182−
+1190.
+(57) MacLean, K. A., Leoutsakos, J. M. S., Johnson, M. W., and
+Griffiths, R. R. (2012) Factor analysis of the Mystical Experience
+Questionnaire: a study of experiences occasioned by the hallucinogen
+psilocybin. J. Sci. Study Relig. 51, 721−737.
+(58) Barrett, F. S., Bradstreet, M. P., Leoutsakos, J. M. S., Johnson,
+M. W., and Griffiths, R. R. (2016) The Challenging Experience
+Questionnaire: characterization of challenging experiences with
+psilocybin mushrooms. J. Psychopharmacol. 30, 1279−1295.
+(59) Carbonaro, T. M., Bradstreet, M. P., Barrett, F. S., MacLean, K.
+A., Jesse, R., Johnson, M. W., and Griffiths, R. R. (2016) Survey study
+of challenging experiences after ingesting psilocybin mushrooms:
+acute and enduring positive and negative consequences. J.
+Psychopharmacol. 30, 1268−1278.
+(60) Hartogsohn, I. (2016) Set and setting, psychedelics and the
+placebo response: an extra-pharmacological perspective on psycho-
+pharmacology. J. Psychopharmacol. 30, 1259−1267.
+(61) Olson, J. A., Suissa-Rocheleau, L., Lifshitz, M., Raz, A., and
+Veissière, S. P. (2020) Tripping on nothing: placebo psychedelics and
+contextual factors. Psychopharmacology 237, 1371−1382.
+(62) Schuckit, M. A. (2006) Comorbidity between substance use
+disorders and psychiatric conditions. Addiction. 101, 76−88.
+(63) Nutt, D. J., King, L. A., and Phillips, L. D. (2010) Drug harms
+in the UK: a multicriteria decision analysis. Lancet 376, 1558−1565.
+(64) Nutt, D., King, L. A., Saulsbury, W., and Blakemore, C. (2007)
+Development of a rational scale to assess the harm of drugs of
+potential misuse. Lancet. 369, 1047−1053.
+(65) Nour, M. M., Evans, L., Nutt, D., and Carhart-Harris, R. L.
+(2016) Ego-Dissolution and psychedelics: validation of the Ego-
+Dissolution Inventory (EDI). Front. Hum. Neurosci. 10, 269.
+ACS Pharmacology & Translational Science
+pubs.acs.org/ptsci
+Article
+https://doi.org/10.1021/acsptsci.1c00018
+ACS Pharmacol. Transl. Sci. 2021, 4, 543−552
+552

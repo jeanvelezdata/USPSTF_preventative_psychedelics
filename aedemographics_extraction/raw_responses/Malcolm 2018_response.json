@@ -1,0 +1,44 @@
+{
+  "data": {
+    "article": {
+      "StudyID": "Malcolm 2018",
+      "Citation": "Malcolm BJ, et al. Changes in Withdrawal and Craving Scores in Participants Undergoing Opioid Detoxification Utilizing Ibogaine. Journal of Psychoactive Drugs. 2018.",
+      "Title": "Changes in Withdrawal and Craving Scores in Participants Undergoing Opioid Detoxification Utilizing Ibogaine",
+      "Year": 2018,
+      "Corpus/Prefix": ".",
+      "Condition": "Opioid",
+      "Substance": "Ibogaine",
+      "IsObservational": "Y",
+      "N": 50,
+      "AE_denominator": ".",
+      "ArmScope": "psychedelic_arm",
+      "PctFemale": 39,
+      "GenderCategory": "male/female (39% female)",
+      "PctBIPOC": 22.5,
+      "PctIndigenous": ".",
+      "SafetyReported": "N",
+      "AnyAEReported": "NA",
+      "NumDistinctAEs": "NA",
+      "NParticipantsWithAE": "NA",
+      "WorstSeverity": "NA",
+      "text_source": "born-digital",
+      "Model": "claude-sonnet-5",
+      "PromptVersion": "ae_extraction_prompt_v1",
+      "RubricVersion": "severity_rubric_v1",
+      "Temperature": 1
+    },
+    "ae_events": []
+  },
+  "rationale": {
+    "article": {
+      "IsObservational": "Retrospective chart review of participants admitted to a single residential ibogaine treatment center; no randomization or comparator arm. Authors themselves describe it in the Discussion as 'an open-label and retrospective design that lacked a control group.' Clearly observational, not RCT.",
+      "N": "The article reports two denominators: 50 participants analyzed for COWS (the primary outcome) and 40 for the demographic/ASI analysis (10 excluded for missing baseline ASI). N=50 was used as the final analyzed sample tied to the primary outcome (COWS); PctFemale and PctBIPOC are drawn from the n=40 demographic subset (Table 2), which is narrower than N.",
+      "AE_denominator": "Coded '.' per the schema exception: SafetyReported='N' here (no AE/safety data collected or reported for this cohort), and AE_denominator never takes 'NA' even under SafetyReported='N'.",
+      "SafetyReported": "The Results section reports only withdrawal/craving scale scores (COWS/SOWS/BSCS) and demographics \u2014 no adverse events, complications, or safety outcomes for this study's 50 participants are reported anywhere. The Discussion explicitly states: 'Unfortunately, safety information, such as vital signs and telemetry reports, were not available for review in this study.' The Discussion's remarks on ibogaine cardiac risk, fatalities, and mania are framed as general literature context (citing Asua 2013, Hildyard et al. 2016, Marta et al. 2015, and specifically a death 'within a study' attributed to Noller, Frampton, and Yazar-Klosinski 2017) \u2014 not events observed in this study's own cohort. Per the missingness convention this is coded as the article being silent on safety for its own sample: SafetyReported='N', with AnyAEReported/NumDistinctAEs/NParticipantsWithAE/WorstSeverity all 'NA' and zero ae_events rows.",
+      "PctBIPOC": "Table 2 (Ethnicity, n=40) reports White 77.5%, Asian 5%, Other 17.5%. PctBIPOC computed as sum of non-white categories: 5 + 17.5 = 22.5%.",
+      "PctIndigenous": "Not separately reported; the 'Other' ethnicity category (17.5%) is not broken down further, so an Indigenous-specific figure cannot be determined.",
+      "GenderCategory": "Article reports only a binary female percentage ('39% were female') with no mention of non-binary or other gender categories."
+    },
+    "ae_events": {}
+  }
+}

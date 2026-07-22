@@ -1,0 +1,1632 @@
+Short-Term Treatment Effects of a Substance Use Disorder Therapy Involving
+Traditional Amazonian Medicine
+Ilana Berlowitza,b, Heinrich Waltc, Christian Ghasariand, Fernando Mendivee, and Chantal Martin-Soelcha
+aDepartment of Psychology, University of Fribourg, Fribourg, Switzerland; bFaculty of Medicine, University of Zurich, Zurich, Switzerland;
+cDepartment of Oral- and Cranio-Maxillo-Facial Surgery, University Hospital Zurich, Zurich, Switzerland; dInstitute of Ethnology, University of
+Neuchâtel, Neuchâtel, Switzerland; eResearch Coordination, Takiwasi Addiction Treatment Center, Tarapoto, Peru
+ABSTRACT
+Chronic illness management today commonly involves alternative medicines. Substance use disorder
+(SUD), as a chronic psychosomatic illness, might benefit from a similar approach. The accredited
+Takiwasi Center offers such an SUD treatment program involving Amazonian medicine combined
+with psychotherapy. The current study assessed this integrative program‘s short-term therapeutic
+effects. We measured baseline data from 53 dependence-diagnosed males admitted to treatment (T1)
+and repeated clinical outcome variables at treatment completion (T2). Paired samples t-tests were
+used to assess changes between T1 and T2 (n = 36). Nearly all participants (age M= 30.86, SD= 8.17)
+were dependent on multiple substances, most prominently cannabis, alcohol, and cocaine-related
+drugs. A significant decrease (T1 to T2) was found for addiction severity outcomes drug use (p < .001),
+alcohol use (p < .001), psychiatric status (p < .001), and social/familial relationships (p < .001).
+Emotional distress also diminished significantly (p < .001), as did substance craving (p < .001).
+Quality of life increased significantly from T1 to T2 (p < .001). Our results provide first indications for
+significantly improved SUD symptoms after the Amazonian medicine-based treatment. These findings
+are preliminary given the design, but strongly encourage further investigation of this therapy, which
+in the long term may open new therapeutic avenues for SUDs.
+ARTICLE HISTORY
+Received 12 October 2018
+Accepted 11 March 2019
+KEYWORDS
+Substance use disorder;
+Amazonian medicine;
+addiction treatment;
+ayahuasca; drug abuse;
+alternative medicine
+Background
+Substance use disorder (SUD) is a large-scale public
+health problem that continues to affect global modern
+society. It is associated with extensive costs and adverse
+consequences, including health impairments, accidents,
+and early death (Gowing et al. 2015). Today SUD is
+increasingly understood as a chronic illness, due to the
+disorder’s persistent nature, characteristic tendency for
+relapse, and on the basis of neurobiological evidence
+showing long-term cerebral adaptations associated with
+regular drug use (Brandon, Vidrine, and Litvin 2007;
+Koob and Le Moal 2008). Nonetheless, existing treat-
+ments for SUD are frequently delivered as if for an
+acute condition (McLellan et al. 2000; White, Boyle,
+and Loveland 2002). It has been suggested, therefore,
+that SUD therapy could benefit from more alignment
+with state-of-the-art health-care models that are being
+employed in somatic medicine for chronic illnesses
+(McLellan et al. 2000). Present day chronic illness man-
+agement is often integrative and may, for example,
+involve referral protocols for patients to access thera-
+pies other than biomedical, such as acupuncture,
+osteopathy, or homeopathy (for instance in the case of
+chronic musculoskeletal pain; Jong et al. 2016). Thus,
+chronic care today increasingly combines conventional
+treatments with alternative or traditional medicines
+(Molassiotis et al. 2005; Templeman and Robinson
+2011; World Health Organization 2013), a model that
+could be beneficial also for SUD. The Takiwasi
+Addiction Treatment Center (Peru) offers an SUD
+treatment protocol that parallels this somatic chronic
+care framework, combining methods from traditional
+Amazonian medicine and modern psychotherapy.
+Amazonian medicine is an ancient indigenous healing
+system making use of medicinal plants from the Amazon
+rainforest, according to sophisticated application methods
+and ritual techniques (Berlowitz etal. 2017; Bussmann and
+Sharon 2006; Luna 1986; Sanz-Biset et al. 2009). Among
+Amazonian medicinal plants, Banisteriopsis caapi, the
+ayahuasca vine, has become well known in the modern
+west, and is increasingly discussed for its potentials for
+assisting the treatment of psychosomatic problems, such
+as SUD (Bouso and Riba 2014; Fabregas et al. 2010; Labate
+and Cavnar 2014; McKenna 2004; Riba et al. 2003;
+CONTACT Ilana Berlowitz
+ilana.berlowitz@unifr.ch
+Department of Psychology, University of Fribourg, Rue de Faucigny 2, Fribourg 1700, Switzerland
+This article has been republished with minor changes. These changes do not impact the academic content of the article.
+JOURNAL OF PSYCHOACTIVE DRUGS
+2019, VOL. 51, NO. 4, 323–334
+https://doi.org/10.1080/02791072.2019.1607956
+© 2019 Taylor & Francis Group, LLC
+
+
+Thomas et al. 2013). Nonetheless, Amazonian medicine
+offers numerous other plants aside from ayahuasca (Sanz-
+Biset et al. 2009; Shepard 1998), some of which are being
+applied at the Takiwasi Center to target symptoms of
+SUD, such as withdrawal or craving, as part of the addic-
+tion treatment program (Berlowitz et al. 2017). Internally
+generated data from the center suggest favorable results
+(Giove Nakazawa 2002), but clinical parameters and out-
+comes have not yet been scientifically established.
+Consequently, the goal of the current study was to empiri-
+cally assess the short-term therapeutic effects of this inno-
+vational treatment program.
+At an early stage of therapeutics evaluation, it is neces-
+sary to ask whether an intervention has any benefit at all,
+rather than testing incremental utilities using compari-
+sons (Donovan et al. 2012). We therefore explored the
+short-term effects of the Takiwasi treatment by means of
+a naturalistic design, with a particular focus on (a) addic-
+tion severity, (b) substance craving, (c) depressive and
+anxiety symptoms, and (d) quality of life. Outcome indi-
+cators were chosen with reference to international recom-
+mendations for the evaluation of addiction treatment
+effects (Tiffany et al. 2012). We hypothesized a reduction
+in clinical symptoms (a-c) and an increase in quality of life
+(d) after treatment completion.
+Methods
+Participants
+Study inclusion criteria consisted of substance depen-
+dence diagnosis as per Diagnostic and Statistical
+Manual of Mental Disorders (DSM–IV–TR; American
+Psychiatric Association [APA] 2000) based on the
+Mini
+International
+Neuropsychiatric
+Interview
+(MINI; Sheehan et al. 1998), and of the fulfillment of
+admission criteria to the Takiwasi inpatient treatment
+(i.e., medical clearance from the center‘s medical team,
+Spanish language skills, written motivational state-
+ment). Since this research was designed before the
+DSM-5 release (American Psychiatric Association
+2013), we used the prior version of the DSM for the
+purpose of this study. Data collection was initiated in
+April 2014 and pre-treatment assessment (T1) was
+discontinued in June 2016. Post-treatment (T2) data
+collection carried on until January 2017. From the 68
+patient admissions during this time frame, 2 preferred
+not to participate (personal reasons), 3 did not meet
+dependence criteria, and 10 entered the study but had
+incomplete baseline data and were therefore excluded
+(see Figure 1). The sample at T1 consisted of 53
+participants. Since 17 participants dropped out of
+treatment,
+the
+final
+sample
+with
+post-treatment
+measures at T2 consisted of 36 participants. The
+study was conducted according to international regu-
+latory requirements and the Declaration of Helsinki
+and had been approved by the responsible ethics com-
+mittee (University of Fribourg, Switzerland).
+Study setting
+The study was conducted at the facilities of the Takiwasi
+Addiction Treatment Center in Tarapoto, San Martín
+Province, Peru. This health-care center offers inpatient
+treatment (maximum of 18 beds capacity) for individuals
+with addictive problem. The program is limited to males,
+due to a Peruvian legal restriction of gender-specificity in
+this type of residential therapy. In addition, outpatient
+services are available to both genders and provide assis-
+tance for a broad range of mental health problems. The
+Takiwasi Center has a pioneering character as the world‘s
+first accredited, governmentally recognized health institu-
+tion (Peruvian Health Ministry) applying traditional
+Amazonian medicine to SUD. It was founded in 1992
+by a French medical doctor after a mission with Doctors
+Without Borders for a primary health-care project (unre-
+lated to addictions) in the Peruvian Andes. Due to the
+spread of cocaine production sites in the Amazon during
+the 1980s, there had been a substantial rise in incidence of
+cocaine and cocaine base paste dependence in the
+Peruvian San Martín Province (Giove Nakazawa 2002;
+Sanz-Biset et al. 2009). The Takiwasi Center was created
+to provide assistance to this situation by making use of
+local medical resources and Western knowledge about
+SUD. Today, owing to extensive governmental efforts
+that supported the cultivation of alternative produce,
+such as coffee or corn, cocaine production in this area
+has virtually ceased. The necessity for addiction treatment
+in the region however remains. The work of the center has
+become known throughout Peru and beyond its borders,
+such that it now receives requests by treatment-seekers
+from around the globe. The clinical staff of the Takiwasi
+Center is composed of health professionals from both
+traditional Amazonian and Western medical systems,
+i.e., specialized traditional healers as well as Western-
+trained psychologists and physicians, who are operating
+within a plurimedical and intercultural framework.
+SUD treatment protocol
+The SUD inpatient treatment at the Takiwasi Center
+typically lasts between 3 and 12 months, with duration
+varying according to individual needs. The therapeutic
+protocol includes both traditional Amazonian treat-
+ments and Western psychotherapeutic methods and
+324
+I. BERLOWITZ ET AL.
+
+
+involves three stages: 1) an initial phase (2–4 weeks)
+focusing on detoxification; 2) a stage where the ther-
+apeutic work deepens and key issues, which often
+underlie the addictive problem, tend to be addressed;
+and 3) a final stage in which the person‘s return to
+a professional and social life is gradually prepared. All
+three stages involve the application of both traditional
+Amazonian and Western therapeutic methods.
+Main methods from traditional Amazonian medicine
+applied at Takiwasi
+Amazonian methods for SUD treatment applied at the
+Takiwasi Center can be grouped into three broad cate-
+gories, all making use of local medicinal plants in
+a ritualized context (Berlowitz et al. 2017). First, purging
+rituals use plants with emetic effects that are thought to
+detoxify the organism, alleviate withdrawal symptoms,
+Excluded 
+from study
+Admissions to Takiwasi inpatient treatment 
+between April 2014 and June 2016 (n = 68)
+Consent to 
+study 
+participation?
+yes
+(n = 66)
+Dependence 
+criteria
+met?
+Complete T1 
+measures 
+obtained?
+Complete T2
+measures 
+obtained?
+no
+(n = 2)
+Treatment
+dropouts
+tn
+e
+m
+tiu
+rc
+e
+R
+Phase
+e
+s
+a
+h
+P
+tn
+e
+m
+ss
+e
+ss
+A
+/tn
+e
+m
+ta
+er
+T
+no
+(n = 3)
+no
+(n = 10)
+no
+(n = 17)
+Treatment completers
+yes
+(n = 63)
+yes
+(n = 53)
+yes
+(n = 36)
+Excluded 
+from study
+Excluded 
+from study
+Figure 1. Flow chart illustrating rate of consent to participation, study exclusion/inclusion, and treatment dropout throughout
+recruitment and assessment.
+JOURNAL OF PSYCHOACTIVE DRUGS
+325
+
+
+and craving. This technique is applied several times a week
+in the initial detoxification period, and with a lesser fre-
+quency throughout the entire treatment. Second, dietary
+forest retreats are weeklong retreats where patients stay
+socially secluded in forest huts and are administered med-
+icinal plants by a curandero/a (traditional healer), while
+adhering to strict nutritional and other behavioral rules.
+This intervention aims to facilitate emotional processing
+and self-understanding, as well as to detoxify the client.
+Dietary forest retreats are prescribed about once every
+three months, with several weeks of “post-diet” during
+which certain restrictions still need to be kept. Third,
+healing ceremonies are introduced after an initial detoxifi-
+cation period and are then administered twice a month on
+average. They involve a ceremonially framed group setting
+guided by a curandero/a, who administers specific plant
+medicines, among them also preparations based on the
+aforementioned ayahuasca plant. These interventions
+intend to increase awareness of self, of one’s relationship
+to the world, as well as to cleanse the client from toxins.
+Plant ceremonies and retreats may involve peak experi-
+ences and are believed to help reconcile unresolved emo-
+tional trauma, as well as facilitate an increased sense of
+connection with life, purpose, or meaning.
+Main western therapeutic methods applied at
+Takiwasi
+Besides the Amazonian treatments, all patients have
+weekly psychotherapy sessions with trained psychothera-
+pists, participate in group therapy on a daily basis (e.g.,
+relapse
+prevention,
+psychodrama)
+and
+occasionally
+undergo biomedical health checks. They live together in
+a therapeutic community and perform daily chores
+guided by an occupational therapist.
+Both
+Amazonian
+and
+conventional
+therapeutic
+methods are applied simultaneously; however, the spe-
+cific therapy plan of a given patient is adapted to that
+person‘s clinical necessities.
+Measures
+Psychiatric diagnoses were assigned using the MINI
+(Ferrando et al. 1998; Sheehan et al. 1998). The
+Hospital Anxiety and Depression Scale (Zigmond
+and Snaith 1983, HADS; Quintana et al. 2003) was
+used
+to
+assess
+emotional
+distress
+(range
+0–42;
+Cronbach‘s alpha .85), consisting of two subscales
+measuring depression and anxiety (range 0–21; clin-
+ical cutoff +8; Bjelland et al. 2002). We measured
+severity
+of
+dependence
+symptoms
+with
+the
+Addiction Severity Index 5 (ASI; McLellan et al.
+1992), assessing areas of functioning through med-
+ical,
+employment,
+alcohol
+use,
+drug
+use,
+legal,
+familial/social,
+and
+psychiatric
+composite
+scores
+(range 0–1; clinical cutoff scores are available for
+alcohol use [.17] and drug use [.16]; Rikoon et al.
+2006). We used the ASI also for assessing socio-
+demographic
+characteristics
+of
+participants.
+The
+Craving Experience Questionnaire frequency form
+was employed to measure substance craving (CEQ;
+May
+et
+al.
+2014).
+This
+10-item
+questionnaire
+assesses craving frequency on an 11-point visual
+analog scale, obtaining averaged scores for total
+craving (range 0–10; Cronbach’s alpha .94) and
+three subscales (intensity, imagery, and intrusive-
+ness of craving). Finally, to assess quality of life
+we used the World Health Organization Quality of
+Life-BREF (WHOQOL-BREF; Lucas-Carrasco 2012,
+WHOQOL; Group 1998). Its 26 items are answered
+on a scale from 1 (very poor) to 5 (very good). Two
+items are combined to provide an indicator for
+overall quality of life and health (range 1–5). Four
+domain scores (range 0–100) are computed out of
+the remaining 24 items, concerning physical health
+(7
+items;
+Cronbach‘s
+alpha
+.78),
+psychological
+health (6 items; Cronbach‘s alpha .80), social rela-
+tionships (3 items; Cronbach‘s alpha .401), and
+environment (6 items; Cronbach‘s alpha .72), with
+higher scores representing higher quality of life.
+Change
+motivation
+was
+assessed
+using
+the
+Readiness
+to
+Change
+Questionnaire
+(RCQ;
+Rodríguez-Martos et al. 2000; Rollnick et al. 1992),
+with items rated on a scale from −2 (strongly dis-
+agree) to +2 (strongly agree). Motivational stage was
+assigned on the basis of the highest score among
+the RCQ stages (pre-contemplation, contemplation,
+and action).
+Procedure
+Participants were approached within the first week of
+admission and informed about the study. Those that
+agreed to participate wrote an informed consent and
+completed the battery of socio-demographic and clinical
+measures for the baseline assessment (T1). The tests
+related to the main outcome measures (i.e., ASI, HADS,
+CEQ, WHOQOL-BREF) were re-administered upon
+treatment completion (T2) within one week (i.e., plus/
+minus 4 days) of the final treatment day. The average test–
+retest interval was 215.6 days (SD = 84.7). We have
+measured post-treatment outcomes in the short term
+(i.e., in the immediacy of treatment completion), but
+since the average treatment duration and test–retest inter-
+val were extended, the T2 assessment may be argued to
+reflect medium-term effects with regard to T1.
+326
+I. BERLOWITZ ET AL.
+
+
+Data analysis
+Statistical analyses were conducted using SPSS 17.0.1
+(Statistics for Windows, released 2008, Chicago: SPSS
+Inc). We performed chi-square and Fisher’s exact tests
+to determine if there were systematic differences among
+dropouts and treatment completers in the distribution of
+key categorical variables (i.e., substance type, single vs.
+poly-substance use, comorbid psychiatric diagnoses,
+nationality, context of upbringing, marital status, change
+readiness).
+Paired-samples t-tests were used to evaluate differences
+in the outcome variables between T1 and T2. We tested
+for the normality of distributions of the pre-post differ-
+ence
+scores
+using
+the
+Kolmogorov–Smirnov
+test.
+Normally distributed variables included the ASI compo-
+site scores‘ medical status, D(36) = .10, p = .20; alcohol
+use, D(36) = .14, p = .06; drug use, D(36) = .08, p = .20;
+familial/social relationships, D(36) = .08, p = .20; psychia-
+tric status, D(36) = .10, p = .20; the HADS‘ overall emo-
+tional distress, D(36) = .20, p = .20; and the WHOQOL-
+BREF overall quality of life, D(36) = .13, p = .16. Only for
+overall substance craving (CEQ), difference scores were
+significantly non-normal, D(36) = .15, p < .05. We there-
+fore used the Wilcoxon Signed Rank test for this outcome
+variable. Significance levels were corrected for multiple
+comparisons (Bonferroni-corrected [BF] level of signifi-
+cance of p < .05/8 = .00625, 2-tailed) since we tested
+differences on 8 distinct scales. In case of significant
+differences on the t-test, Cohen‘s d was calculated as an
+effect size measure; r was used in the instance of the non-
+parametric Wilcoxon test.
+Results
+Sample characteristics
+Table 1 displays sociodemographics and clinical features at
+baseline (T1) for the total initial sample (n = 53), for
+participants who completed the treatment (n = 36), and
+for those that dropped out (n = 17). The mean age of
+treatment completers was 30.86 years (SD= 8.17) with an
+average of 13.07 years of education (SD= 2.96). Most com-
+pleters had never been married (86.1%) and were living
+with their parents or other relatives (47.2%). Almost 40% of
+the completers were from Peru. An equal percentage came
+from other Latin American countries and about 20% came
+from Europe or North America. A large majority of com-
+pleters grew up in an urban rather than a rural context
+(91.7%). Types of substances, for which dependence was
+diagnosed, involved cannabis (72.2%), alcohol (63.9%),
+cocaine or cocaine base paste (61.1%), opiates (13.9%),
+amphetamines and related stimulants (11.1%), and tran-
+quilizers (11.1%). The SUDs of about 80% of the completers
+involved several DSM–IV (APA, 2000) diagnoses of depen-
+dence and/or abuse simultaneously; only 16.7% used exclu-
+sively one substance. Comorbid diagnoses of affective
+disorders were prevalent among completers (58.3%), as
+were anxiety disorders (36.1%) and antisocial personality
+disorder (27.8%). RCQ scores (assessed at T1) placed most
+completers in the contemplation stage (61.1%) and the rest
+in the action stage. None were placed in the pre-
+contemplation stage.
+Treatment completion and dropout
+About one-third of the initial sample abandoned treat-
+ment prematurely (32.08%). The participants who com-
+pleted the treatment stayed at the center for an average
+of 217.2 days (SD = 85.0). Significance tests for catego-
+rical differences between dropouts and completers are
+displayed in Table 1. Nationality was the only variable
+that was significantly associated with whether or not
+treatment was completed (p < .05); standardized resi-
+duals of the chi-square test indicated the significant
+difference to reflect an overrepresentation of North
+American participants amongst dropouts (seᵢ= 2.1).
+Treatment effects
+Table 2 shows means and standard deviations of the out-
+come variables and paired-samples t-tests for each outcome
+variable‘s main scale. Significant differences on the ASI
+were found at a BF corrected alpha of .00625 for average
+drug use (p < .001, d= 1.59), alcohol use (p < .001, d= 1.21),
+psychiatric status (p < .001, d= .91), as well as social/familial
+relationships (p < .001, d= 1.44), all of them being signifi-
+cantly lower after treatment than before. The medical status
+composite score also decreased from T1 to T2, but the
+difference was not significant (p = .317). There was
+a significant increase in overall quality of life on the
+WHOQOL-BREF from T1 to T2 (p < .001, d= .98).
+Average emotional distress on the HADS diminished sig-
+nificantly from T1 to T2 (p < .001, d= .97), as did overall
+substance craving on the CEQ (p < .001, r= .60). Figure 2
+displays the significant pre-/post-treatment differences
+found for addiction severity (Figure 2a) and for substance
+craving, emotional distress, and quality of life (Figure 2b)
+on the paired samples t-tests.
+Discussion
+This naturalistic study investigated the short-term ther-
+apeutic effects of an alternative SUD treatment which
+applies a therapeutic protocol combining traditional
+Amazonian medicine and contemporary psychotherapy.
+We found significant improvements after treatment for
+JOURNAL OF PSYCHOACTIVE DRUGS
+327
+
+
+Table 1. Demographics and clinical features of treatment completers, dropouts, and total initial sample at baseline (T1), and chi-square analyses comparing completers vs. dropouts.
+Total initial sample
+Completers
+Dropouts
+Chi-square analysis
+N = 53
+N = 36
+N = 17
+χ2(df)
+p ᵇ
+Age in years, M (SD)
+30.05 (7.74)
+30.86 (8.17)
+28.34 (6.66)
+School education in years, M (SD)
+12.86 (2.97)
+13.07 (2.96)
+12.41 (3.04)
+Male sex %
+100
+100
+100
+Living arrangement %
+With sexual partner/children
+18.9
+16.7
+23.5
+With parents/relatives
+47.1
+47.2
+47.1
+With friends
+3.8
+5.5
+0
+Alone
+22.7
+25
+17.6
+No stable arrangement
+7.5
+5.6
+11.8
+Marital status %
+Married
+7.5
+11.1
+0
+2.27(2)
+.361
+Divorced/separated
+3.8
+2.8
+5.9
+Never married
+88.7
+86.1
+94.1
+Nationality %
+Peruvian
+43.4
+38.9
+52.9
+9.50(3)
+.027
+Latin American (except Peru)
+34
+38.9
+23.5
+European
+17
+22.2
+5.9
+North American
+5.6
+0
+17.7
+Context of upbringing %
+Urban
+84.9
+91.7
+70.6
+4.00(1)
+.094
+Rural
+15.1
+8.3
+29.4
+ᵃMINI diagnoses %
+Substance use disorders
+100
+100
+100
+Affective disorders
+62.7
+58.3
+73.3
+1.02(1)
+.360
+Anxiety disorders
+43.1
+36.1
+60
+2.46(1)
+.135
+Psychotic disorders
+5.9
+5.6
+6.7
+.02(1)
+1.00
+Antisocial pers. disorder
+35.3
+27.8
+53.5
+3.03(1)
+.112
+Dependence diagnosed for %
+2 or more substances
+71.7
+69.4
+76.5
+.30(2)
+1.00
+1 substance + abuse of others
+13.2
+13.9
+11.8
+1 substance only
+15.1
+16.7
+11.8
+Substances dependent on %
+Cannabis
+71.7
+72.2
+70.6
+0.02(1)
+1.00
+Alcohol
+54.7
+63.9
+35.3
+3.81(1)
+.077
+Cocaine
+30.2
+38.9
+11.8
+Cocaine base paste
+24.5
+22.2
+29.4
+Opiates
+15.1
+13.9
+17.6
+0.13(1)
+.700
+Amphetamines/related stimulants
+11.3
+11.1
+11.8
+0.01(1)
+1.00
+Hallucinogens
+1.9
+0
+5.9
+2.16(1)
+.321
+Tranquilizers
+15.1
+11.1
+23.5
+1.39(1)
+.252
+Dominant RCQ stage %
+Precontemplation
+1.9
+0
+5.8
+2.71(2)
+.268
+Contemplation
+56.6
+61.1
+47,1
+Action
+41.5
+38.9
+47,1
+Note. MINI = Mini International Neuropsychiatric Interview; RCQ = Readiness to Change Questionnaire.
+ᵃComorbid diagnoses for 2 participants were missing. ᵇp-values for Fisher‘s exact test.
+328
+I. BERLOWITZ ET AL.
+
+
+nearly all outcomes, including the severity of addiction
+symptoms (drug use, alcohol use, psychiatric status,
+social/familial relationships), substance craving, emo-
+tional distress (anxiety and depressive symptoms), as
+well as overall quality of life, with large effect sizes. An
+exception was the somatic medical status of the addic-
+tion severity index, which did not significantly change in
+response to treatment.
+Overall, and in accordance with our hypotheses, these
+results suggest that the long-term, integrative treatment
+delivered at this center was associated with beneficial
+changes in key symptoms of substance dependence. Our
+results reflect short-term outcomes in relation to the end
+of the treatment, but medium-term effects with regard to
+T1 measurement. Our findings are in line with observa-
+tions by the WHO and others suggesting indigenous
+medicines to be promising for SUD treatment (Bill et al.
+1993; Lu et al. 2009) and with studies reporting positive
+effects of ayahuasca for SUD (cf. Labate and Cavnar 2014;
+Nunes et al. 2016). Several large-scale cross-sectional sur-
+veys report associations between reduced substance use
+and ayahuasca applied in varying contexts (Barbosa et al.
+Table 2. Dependent-samples t-tests with means and standard deviations of outcome variables.
+Pre-Treatment
+Post-Treatment
+95% CI of mean difference
+M
+SD
+M
+SD
+Lower
+Upper
+t(df)
+p
+ASI composite scores
+Severity of medical status
+.26
+.27
+.21
+.21
+−.05
+.14
+1.02(35)
+.317
+Severity of alcohol use
+.38
+.28
+.06
+.10
+.22
+.40
+7.28(35)
+p < .0001
+Severity of drug use
+.26
+.12
+.06
+.06
+.16
+.24
+9.52(35)
+p < .0001
+Severity of family/social relationships
+.49
+.19
+.26
+.15
+.17
+.28
+8.64(35)
+p < .0001
+Severity of psychiatric status
+.44
+.21
+.21
+.17
+.14
+.31
+5.46(35)
+p < .0001
+CEQ
+Total score (overall craving)
+4.73
+2.65
+1.36
+1.38
+ᵃ5.10
+p < .0001
+Intensity
+5.46
+2.93
+0.99
+1.09
+Imagery
+4.13
+2.96
+1.47
+1.34
+Intrusion
+4.79
+2.89
+1.60
+2.06
+HADS
+Total score (emotional distress)
+18.69
+7.08
+10.56
+6.42
+5.31
+10.97
+5.83(35)
+p < .0001
+Anxiety scale
+10.25
+4.03
+6.67
+3.99
+Depression scale
+8.44
+4.05
+3.89
+3.39
+WHOQOL
+Overall quality of life
+2.58
+1.07
+3.78
+0.93
+−1.61
+−0.78
+−5.87(35)
+p < .0001
+Physical health domain
+47.42
+19.35
+70.93
+18.29
+Psychological domain
+43.17
+18.21
+66.78
+16.98
+Social relationships domain
+40.05
+17.23
+56.25
+19.76
+Environment domain
+52.00
+17.25
+59.81
+13.53
+Note. ASI = Addiction Severity Index; CEQ = Craving Experience Questionnaire; HADS = Hospital Anxiety and Depression Scale; WHOQOL-BREF = World Health
+Organization Quality of Life-BREF. Higher scores indicate more extreme responses in the direction of the assessed construct for all scales. ᵃz-score from the
+Wilcoxon Signed Rank test.
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+Pre-Treatment
+Post-Treatment
+Severity of alcohol
+use
+Severity of drug use
+Severity of
+family/social
+relationships
+Severity of
+psychiatric status
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+Pre-Treatment
+Post-Treatment
+Overall craving
+(CEQ)
+Emotional distress
+(HADS)
+Overall quality of
+life (WHOQOL-
+BREF)
+(a) Addiction severity as per ASI composite scores
+(b) Substance craving, emotional distress, and quality of life
+Figure 2. Significant pre-/post-treatment differences.
+Significant results of the paired-samples t-tests on the outcome variables. Figure 2(a) displays significant differences on the Addiction
+Severity Index (ASI) composite scores. ASI scores may range from 0 (no problem) to 1.0 (extremely serious). Figure 2(b) shows significant
+differences on the Craving Experience Questionnaire (CEQ) in overall craving frequency (from 0 = no craving at all, to 10 = constantly
+craving the substance), on overall emotional distress (from 0 = none to 24 = severe) of the Hospital Anxiety and Depression Scale (HADS),
+and on overall quality of life of the World Health Organization Quality of Life-BREF (WHOQOL-BREF) scale (from 1 = very poor, to 5 = very
+good quality of life). ***p < .001 (two-tailed) for all effects, significance at Bonferroni-corrected α of .00625.
+JOURNAL OF PSYCHOACTIVE DRUGS
+329
+
+
+2018; Lawn et al. 2017). A small pilot study on patients
+attending biweekly ayahuasca sessions over 3–9 months
+in Brazil observed amelioration of psychological factors
+related to drug dependence (Fernández et al. 2014).
+Similarly, an observational study reported improvements
+of problematic substance use indicators in a Canadian
+aboriginal sample after a brief retreat involving ayahuasca
+(Thomas et al. 2013). Other studies explore applications
+in the context of specific SUDs, for instance, crack cocaine
+dependence (Cruz and Nappo 2018). The Takiwasi treat-
+ment, however, consists of a complex blend of methods
+from traditional Amazonian medicine not limited to aya-
+huasca, as well as methods from psychotherapy. The
+associations found in this study may hence not be speci-
+fically related to one plant but should be interpreted in
+light of the intricacies of the overall treatment.
+The sample‘s high prevalence of comorbid affectiveand
+anxiety disorders as well as antisocial personality disorder
+replicates large-scale cross-national findings of SUD
+patients‘ most common comorbid psychiatric disorders
+in general (Merikangas et al. 1998). As our findings
+demonstrate, in addition to improved SUD-specific symp-
+toms such as urge for consumption, the Takiwasi treat-
+ment was also associated with improvements in anxiety
+and affective states. One potential mechanism within the
+overall treatment explaining these changes could be the
+ceremonial usage of ayahuasca. Several studies report
+antidepressant effects in this context, including a first
+randomized
+placebo-controlled
+trial
+with
+clinically
+depressed patients (Osorio Fde et al. 2015; Palhano-
+Fontes et al. 2018; Sanches et al. 2016). Studies also report
+anxiolytic effects of ayahuasca, but evidence is less con-
+clusive (Coe and McKenna 2017; Dos Santos et al. 2016;
+Santos et al. 2007). Further, a recent study found improve-
+ment of emotion dysregulation in a sample with border-
+line personality traits (Domínguez-Clavé et al. 2018).
+However, mechanisms other than ayahuasca, such as the
+Amazonian plants and techniques applied in the scope of
+dietary retreats and purging rituals, may also support the
+beneficial changes we found. Indeed, indications from
+ethnobotanical studies point to other Amazonian plant
+medicines with relevance for psychological well-being
+(Sanz-Biset and Canigueral 2013, 2011; Shepard 1998).
+Further, there are early indications for peak experiences,
+such as the ones that may arise in Amerindian plant
+ceremonies, to be associated with lasting structural
+changes, including shifts in personality traits (MacLean,
+Johnson, and Griffiths 2011). Such changes could be
+reflected also on a neurobiological level, which could be
+especially relevant in relation to the aforementioned long-
+term cerebral adaptations typically observed in SUD
+patients‘ brains (Koob and Volkow 2010). Indeed, current
+neuropharmacological research describes evidence for
+certain alkaloids of the ayahuasca brew to play a role in
+neuroregeneration (Frecska, Bokor, and Winkelman
+2016) and hypothesize ayahuasca to facilitate neural archi-
+tectural changes in the cerebral reward system (Prickett
+and Liester 2014). Given the complexity and integrative
+nature of this treatment, individual contributions of the
+various therapeutic constituents may not be mapped on
+the basis of our study. Carefully designed randomized
+placebo-controlled studies could provide complementary
+information about therapeutic effects of specific methods
+within this multifaceted integrative treatment.
+The lack of significant change we found in the medical
+composite scores may suggest that the Takiwasi treatment
+impacts specific psychosocial and consumption-related fac-
+tors, but does not significantly improve the general somatic
+health of patients. A large-scale study that compared ASI
+scores of a general health insurance membership sample
+(N = 9,398) with a clinical sample of insurers with SUD (N=
+327) reports that, while differences for the other ASI areas
+were striking, the medical composite scores showed simi-
+larity, with the clinical sample‘s score being only slightly
+higher (Weisner, McLellan, and Hunkeler 2000). That this
+measure did not differentiate markedly between clinical
+and general population in a large scale between-subject
+designmayimplythatthemedicalbaserateofSUDpatients
+may be relatively high on a population level and/or that
+a more elaborate instrument with increased sensitivity
+would be required to understand the nature of differences
+in this context.
+The finding that there were no individuals in the pre-
+contemplation stage may be attributed to the Takiwasi
+admission procedure. Since the Takiwasi treatment
+demands patients‘ engagement over a lengthy period of
+time, it may not be suited for individuals with very low
+change readiness, which, in turn, may have implications
+for the transferability of this approach to other settings
+(where clients in the pre-contemplative stage may not be
+filtered out).
+Dropout in our sample was at a similar level as the
+generally reported average rate for psychosocial SUD
+interventions found in a meta-analytic review (35.4%;
+Dutra et al. 2008). Participants who dropped out of treat-
+ment did not significantly differ from completers in any of
+the tested clinical and socio-demographic measures with
+the exception that North Americans abandoned treatment
+more frequently than expected, which may imply a lesser
+cultural fit of this treatment for people from these geogra-
+phical regions. However, while it is plausible that specific
+cultural aspects may have played a role in the increased
+dropout among North Americans, the number of such
+participants in the overall sample was small (n = 3). This
+finding could therefore also reflect a sample bias and
+should be interpreted with caution. A possible reason for
+330
+I. BERLOWITZ ET AL.
+
+
+why the increased dropout was observed for North
+American, but not for European participants, might relate
+to a higher degree of familiarity of Europeans with the
+micro-cultural climate at this center, which is influenced
+by its European founder and the Hispanic context of Peru.
+Future studies should aim to further explore the patients‘
+cultural profiles in relation to the cultural characteristics
+of this treatment program and its staff.
+This study has a number of limitations. Treatment out-
+comes were assessed in a naturalistic setting without
+a comparison group, and outcomes were available only
+for treatment completers. This design does not allow causal
+interpretation and limits generalizability. We measured
+outcomes only in the short term, and sample size was
+relatively small. The lack of outcome assessment upon
+participants‘ return presents a limitation in that the
+Takiwasi treatment entailed a prolonged period away
+from a context likely to have been critical in the perpetua-
+tion of the pathological substance use. Furthermore, parti-
+cipants were heterogeneous with several comorbidities,
+however, this is generally representative of substance
+dependent individuals in residential treatment settings
+(Chen et al. 2011; Merikangas et al. 1998; Weisner,
+McLellan, and Hunkeler 2000).
+In sum, our findings are preliminary, but indicate multi-
+ple positive outcomes and suggest the need for further
+investigation of this treatment approach. Future studies
+may build on our findings and extend them to the long
+term. Whilst the naturalistic research design inevitably had
+costs, it also had the advantage of capturing synergistic
+effects arising from the interplay between the various treat-
+ment methods, which is considered especially relevant for
+traditional medical systems (Fønnebø et al. 2007). The loss
+of synergistic effects is indeed one of the main reasons why,
+for traditional medicines research, comprehensive para-
+digms (i.e., whole systems research) are generally preferred
+to designs that study the various components individually
+and isolated from the rest of the medical system (Verhoef
+et al. 2005; World Health Organization 2000). This is to our
+knowledge the first study empirically assessing the thera-
+peutic effects of this accredited Amazonian medicine-based
+addiction treatment program, generating novel findings in
+a field where improved therapeutic means are considered
+a need on a global level. Our results may aid the develop-
+ment of enhanced SUD therapies combining western treat-
+ments with traditional medicines and, in the long term,
+open new treatment avenues.
+Note
+1. Due to the small item number in this domain‘s scale,
+the indicator for internal consistency may not be reli-
+able (WHOQOL Group 1998).
+Acknowledgments
+We thank the Swiss National Science Foundation for sup-
+porting this work with a research grant. We are grateful to
+the Takiwasi Center and its patients for enabling data collec-
+tion for this research.
+Disclosure statement
+Dr. Mendive works as scientific coordinator at the Takiwasi
+Addiction
+Treatment
+Center,
+where
+the
+study
+was
+conducted.
+Funding
+This work was supported by the Swiss National Science
+Foundation [SNSF-148981].
+References
+American Psychiatric Association. 2013. Diagnostic and sta-
+tistical manual of mental disorders. 5th ed. Washington,
+DC: Author.
+Association, A. P. 2000. Diagnostic and statistical manual of
+mental disorders, 4th ed. Washington, DC: Author. text rev.
+Barbosa, P., L. F. Cesar Ribeiro, M. P. Tófoli, R. H. Bogenschutz,
+L. F. Berro, A. V. Eduardo, K. N. A. Marinho, and
+M. J. Winkelman. 2018. Assessment of alcohol and tobacco
+use disorders among religious users of ayahuasca. Frontiers in
+Psychiatry 9:136. doi:10.3389/fpsyt.2018.00136.
+Berlowitz, I., C. Ghasarian, H. Walt, F. Mendive, V. Alvarado,
+and C. Martin-Soelch. 2017. Conceptions and practices of an
+integrative treatment for substance use disorders involving
+Amazonian medicine: Traditional healers‘ perspectives.
+Brazilian Journal of Psychiatry. doi:10.1590/1516-4446-
+2016-2117.
+Bill, A., F. B. Glaser, R. K. Hester, W. G. Jilek, H. Kalant,
+H. Rosovsky, D. Samarasinghe, and C. Weisner. 1993.
+Approaches to treatment of substance abuse. Geneva:
+World Health Organization.
+Bjelland, I., A. A. Dahl, T. T. Haug, and D. Neckelmann.
+2002. The validity of the hospital anxiety and depression
+scale:
+An
+updated
+literature
+review.
+Journal
+of
+Psychosomatic Research 52 (2):69–77.
+Bouso, J. C., and J. Riba. 2014. Ayahuasca and the treatment of
+drug addiction. In The therapeutic use of ayahuasca, ed.
+B. C. Labate and C. Cavnar, 95–109. Berlin, Heidelberg:
+Springer.
+Brandon, T. H., J. I. Vidrine, and E. B. Litvin. 2007. Relapse and
+relapse prevention. Annual Review of Clinical Psychology
+3:257–84. doi:10.1146/annurev.clinpsy.3.022806.091455.
+Bussmann, R. W., and D. Sharon. 2006. Traditional medicinal
+plant use in Northern Peru: Tracking two thousand years
+of
+healing
+culture.
+Journal
+of
+Ethnobiology
+and
+Ethnomedicine 2 (47):47–65. doi:10.1186/1746-4269-2-47.
+Chen, K. W., A. N. Banducci, L. Guller, R. J. Macatee,
+A. Lavelle, S. Daughters, and C. W. Lejuez. 2011. An
+examination of psychiatric comorbidities as a function of
+gender and substance type within an inpatient substance
+JOURNAL OF PSYCHOACTIVE DRUGS
+331
+
+
+use treatment program. Drug and Alcohol Dependence 118
+(2–3):92–99. doi:10.1016/j.drugalcdep.2011.03.003.
+Coe, M. A., and D. J. McKenna. 2017. The therapeutic
+potential of ayahuasca. In Evidence-based herbal and nutri-
+tional treatments for anxiety in psychiatric disorders, ed.
+D. Camfield, E. McIntyre, and J. Sarris, 123–37. Cham:
+Springer International Publishing.
+Cruz, J. I., and S. A. Nappo. 2018. Is ayahuasca an option for
+the treatment of crack cocaine dependence?. Journal of
+Psychoactive
+Drugs
+50
+(3):247–55.
+doi:10.1080/
+02791072.2018.1447174.
+Domínguez-Clavé, E., J. C. Joaquim Soler, M. E. Pascual,
+A. Franquesa, M. Valle, E. Alvarez, and J. Riba. 2018.
+Ayahuasca improves emotion dysregulation in a community
+sample and in individuals with borderline-like traits.
+Psychopharmacology. doi:10.1007/s00213-018-5085-3.
+Donovan, D. M., G. E. Bigelow, G. S. Brigham, K. M. Carroll,
+A. J. Cohen, J. G. Gardin, J. A. Hamilton, M. A. Huestis,
+J. R. Hughes, R. Lindblad, et al. 2012. Primary outcome
+indices in illicit drug dependence treatment research:
+Systematic approach to selection and measurement of
+drug use end-points in clinical trials. Addiction 107
+(4):694–708. doi:10.1111/j.1360-0443.2011.03473.x.
+Dos Santos, R. G., F. L. Osório, J. A. S. Crippa, and
+J. E. C. Hallak. 2016. Antidepressive and anxiolytic effects
+of ayahuasca: A systematic literature review of animal and
+human studies. Brazilian Journal of Psychiatry 38:65–72.
+doi:10.1590/1516-4446-2015-1701.
+Dutra, L., G. Stathopoulou, S. L. Basden, T. M. Leyro,
+M. B. Powers, and M. W. Otto. 2008. A meta-analytic
+review of psychosocial interventions for substance use
+disorders. American Journal of Psychiatry 165 (2):179–87.
+doi:10.1176/appi.ajp.2007.06111851.
+Fabregas, J. M., D. Gonzalez, S. Fondevila, M. Cutchet,
+X. Fernandez, P. C. Barbosa, M. A. Alcazar-Corcoles,
+M.
+J.
+Barbanoj,
+J.
+Riba,
+and
+J.
+C.
+Bouso.
+2010.
+Assessment of addiction severity among ritual users of
+ayahuasca. Drug and Alcohol Dependence 111 (3):257–61.
+doi:10.1016/j.drugalcdep.2010.03.024.
+Fernández, X., R. Guimarães Dos Santos, M. Cutchet,
+S. Fondevila, D. González, M. Á. Alcázar, J. Riba,
+J. C. Bouso, and J. M. Fábregas. 2014. Assessment of the
+psychotherapeutic effects of ritual ayahuasca use on drug
+dependency: A pilot study. In The therapeutic use of aya-
+huasca, ed. B. C. Labate and C. Cavnar, 183–96. Berlin,
+Heidelberg: Springer Berlin Heidelberg.
+Ferrando, L., L. Franco, M. Soto, J. Bobes, O. Soto, L. Franco,
+and J. Gilbert. 1998. MINI International neuropsychiatric
+interview. Madrid: Instituto IAP.
+Fønnebø, V., S. Grimsgaard, H. Walach, C. Ritenbaugh,
+A. J. Norheim, H. MacPherson, G. Lewith, L. Launsø,
+M. Koithan, T. Falkenberg, et al. 2007. Researching com-
+plementary and alternative treatments – The gatekeepers
+are not at home. BMC Medical Research Methodology 7
+(1):7. doi:10.1186/1471-2288-7-7.
+Frecska, E., P. Bokor, and M. Winkelman. 2016. The thera-
+peutic potentials of ayahuasca: possible effects against var-
+ious diseases of civilization. Frontiers in Pharmacology
+7:35. doi:10.3389/fphar.2016.00035.
+Giove Nakazawa, R. 2002. La liana de los muertos al rescate
+de
+la
+vida.
+Medicina
+tradicional
+amazónica
+en
+el
+tratamiento de las toxicomanias. Siete anõs de experiencia
+del Centro Takiwasi. Tarapoto: Takiwasi/DEVIDA.
+Gowing, L. R., R. L. Ali, S. Allsop, J. Marsden, E. E. Turf,
+R. West, and J. Witton. 2015. Global statistics on addictive
+behaviours: 2014 status report. Addiction 110 (6):904–19.
+doi:10.1111/add.12899.
+WHOQOL Group. 1998. Development of the World Health
+Organization WHOQOL-BREF quality of life assessment.
+The
+WHOQOL
+Group.
+Psychological
+Medicine
+28
+(3):551–58.
+Jong, M. C., M. Busch, L. P. L. van de Vijver, M. Jong,
+J. Fritsma, and R. Seldenrijk. 2016. Pragmatic model for
+integrating complementary and alternative medicine in pri-
+mary care management of chronic musculoskeletal pain.
+Primary Health Care 6 (2). doi: 10.4172/2167-1079.1000224.
+Koob, G. F., and M. Le Moal. 2008. Addiction and the brain
+antireward system. Annual Review of Clinical Psychology
+59:29–53. doi:10.1146/annurev.psych.59.103006.093548.
+Koob, G. F., and N. D. Volkow. 2010. Neurocircuitry of
+addiction.
+Neuropsychopharmacology
+35
+(1):217–38.
+doi:10.1038/npp.2009.110.
+Labate, B. C., and C. Cavnar. 2014. The therapeutic use of
+ayahuasca. Berlin, Heidelberg: Springer.
+Lawn, W., J. E. Hallak, J. A. Crippa, R. D. Santos, L. Porffy,
+M.
+J.
+Barratt,
+J.
+A.
+Ferris,
+A.
+R.
+Winstock,
+and
+C. J. A. Morgan. 2017. Well-being, problematic alcohol con-
+sumption and acute subjective drug effects in past-year aya-
+huasca users: A large, international, self-selecting online
+survey. Scientific Reports 7 (1):15201. doi:10.1038/s41598-
+017-14700-6.
+Lu, L., Y. Liu, W. Zhu, J. Shi, Y. Liu, W. Ling, and T. R. Kosten.
+2009. Traditional medicine in the treatment of drug
+addiction. The American Journal of Drug and Alcohol Abuse
+35 (1):1–11. doi:10.1080/00952990802455469.
+Lucas-Carrasco,
+R.
+2012.
+The
+WHO
+quality
+of
+life
+(WHOQOL) questionnaire: Spanish development and vali-
+dation studies. Quality of Life Research 21 (1):161–65.
+doi:10.1007/s11136-011-9926-3.
+Luna, L. E. 1986. Vegetalismo shamanism among the Mestizo
+population of the Peruvian Amazon, Acta Universitatis
+Stockholmiensis. Stockholm studies in comparative religion,
+0562-1070; 27. Stockholm: Almqvist & Wiksell International.
+MacLean, K. A., M. W. Johnson, and R. R. Griffiths. 2011.
+Mystical experiences occasioned by the hallucinogen psi-
+locybin lead to increases in the personality domain of
+openness.
+Journal
+of
+Psychopharmacology
+(Oxford,
+England) 25 (11):1453–61. doi:10.1177/0269881111420188.
+May, J., J. Andrade, D. J. Kavanagh, G. F. Feeney, M. J. Gullo,
+D.
+J.
+Statham,
+J.
+Skorka-Brown,
+J.
+M.
+Connolly,
+M. Cassimatis, R. M. Young, et al. 2014. The craving
+experience questionnaire: A brief, theory-based measure
+of consummatory desire and craving. Addiction 109
+(5):728–35. doi:10.1111/add.12472.
+McKenna, D. J. 2004. Clinical investigations of the therapeu-
+tic potential of ayahuasca: Rationale and regulatory
+challenges. Pharmacology & Therapeutics 102 (2):111–29.
+doi:10.1016/j.pharmthera.2004.03.002.
+McLellan, A. T., H. Kushner, D. Metzger, R. Peters, I. Smith,
+G. Grissom, H. Pettinati, and M. Argeriou. 1992. The fifth
+edition
+of
+the
+addiction
+severity
+index.
+Journal
+of
+Substance Abuse Treatment 9 (3):199–213.
+332
+I. BERLOWITZ ET AL.
+
+
+McLellan, A. T., D. C. Lewis, C. P. O‘Brien, and H. D. Kleber.
+2000. Drug dependence, a chronic medical illness: Implications
+for treatment, insurance, and outcomes evaluation. JAMA 284
+(13):1689–95. doi:10.1001/jama.284.13.1689.
+Merikangas, K. R., R. L. Mehta, B. E. Molnar, E. E. Walters,
+J. D. Swendsen, S. Aguilar-Gaziola, R. Bijl, G. Borges,
+J. J. Caraveo-Anduaga, D. J. DeWit, et al. 1998. Comorbidity
+of substance use disorders with mood and anxiety disorders:
+Results of the international consortium in psychiatric
+epidemiology. Addictive Behaviors 23 (6):893–907.
+Molassiotis, A., P. Fernadez-Ortega, D. Pud, G. Ozden,
+J.
+A.
+Scott,
+V.
+Panteli,
+A.
+Margulies,
+M.
+Browall,
+M. Magri, S. Selvekerova, et al. 2005. Use of complemen-
+tary
+and
+alternative
+medicine
+in
+cancer
+patients:
+A European survey. Annals of Oncology 16 (4):655–63.
+doi:10.1093/annonc/mdi110.
+Nunes, A. A., R. G. Dos Santos, F. L. Osório, R. F. Sanches,
+J. A. S. Crippa, and J. E. C. Hallak. 2016. Effects of
+ayahuasca
+and
+its
+alkaloids
+on
+drug
+dependence:
+A systematic literature review of quantitative studies in
+animals and humans. Journal of Psychoactive Drugs 48
+(3):195–205. doi:10.1080/02791072.2016.1188225.
+Osorio Fde, L., R. F. Sanches, L. R. Macedo, R. G. Santos,
+J. P. Maia-de-Oliveira, L. Wichert-Ana, D. B. Araujo,
+J.
+Riba,
+J.
+A.
+Crippa,
+and
+J.
+E.
+Hallak.
+2015.
+Antidepressant effects of a single dose of ayahuasca in
+patients with recurrent depression: A preliminary report.
+Brazilian Journal of Psychiatry 37 (1):13–20. doi:10.1590/
+1516-4446-2014-1496.
+Palhano-Fontes,
+F.,
+D.
+Barreto,
+K.
+C.
+Heloisa
+Onias,
+M. M. Andrade, J. A. Novaes, S. A. Pessoa, F. L. Mota-
+Rolim, R. S. Osório, D. S. Rafael G., L. F. Tófoli, et al. 2018.
+Rapid antidepressant effects of the psychedelic ayahuasca
+in
+treatment-resistant
+depression:
+A
+randomized
+placebo-controlled
+trial.
+Psychological
+Medicine
+1–9.
+doi:10.1017/S0033291718001356.
+Prickett, J. I., and M. B. Liester. 2014. Hypotheses regarding
+ayahuasca’s potential mechanisms of action in the treat-
+ment of addiction. In The therapeutic use of ayahuasca, ed.
+B. C. Labate and C. Cavnar, 111–32. Berlin, Heidelberg:
+Springer Berlin Heidelberg.
+Quintana, J. M., A. Padierna, C. Esteban, I. Arostegui, A. Bilbao,
+and I. Ruiz. 2003. Evaluation of the psychometric character-
+istics of the Spanish version of the hospital anxiety and
+depression
+scale.
+Acta
+Psychiatrica
+Scandinavica
+107
+(3):216–21. doi:10.1034/j.1600-0447.2003.00062.x.
+Riba, J., M. Valle, G. Urbano, M. Yritia, A. Morte, and
+M. J. Barbanoj. 2003. Human pharmacology of ayahuasca:
+Subjective and cardiovascular effects, monoamine metabo-
+lite excretion, and pharmacokinetics. The Journal of
+Pharmacology
+and
+Experimental
+Therapeutics
+306
+(1):73–83. doi:10.1124/jpet.103.049882.
+Rikoon, S. H., J. S. Cacciola, D. Carise, A. I. Alterman, and
+A. T. McLellan. 2006. Predicting DSM-IV dependence
+diagnoses from addiction severity index composite scores.
+Journal of Substance Abuse Treatment 31 (1):17–24.
+doi:10.1016/j.jsat.2006.03.003.
+Rodríguez-Martos, A., G. Rubio, J. Aubà, J. Santo-Domingo,
+L. Torralba, and M. Campillo. 2000. Readiness to change
+questionnaire: Reliability study of its Spanish version.
+Alcohol
+and
+Alcoholism
+(Oxford,
+Oxfordshire)
+35
+(3):270–75. doi:10.1093/alcalc/35.3.270.
+Rollnick, S., N. Heather, R. Gold, and W. Hall. 1992.
+Development of a short ‘readiness to change’ questionnaire
+for use in brief, opportunistic interventions among exces-
+sive drinkers. British Journal of Addiction 87 (5):743–54.
+doi:10.1111/j.1360-0443.1992.tb02720.x.
+Sanches, R. F., F. de Lima Osório, R. G. Dos Santos,
+L. R. H. Macedo, J. P. Maia-de-Oliveira, L. Wichert-Ana,
+D. B. de Araujo, J. Riba, J. A. S. Crippa, and J. E. C. Hallak.
+2016. Antidepressant effects of a single dose of ayahuasca
+in patients with recurrent depression: A SPECT study.
+Journal of Clinical Psychopharmacology 36 (1):77–81.
+doi:10.1097/jcp.0000000000000436.
+Santos, R. G., J. Landeira-Fernandez, R. J. Strassman, V. Motta,
+and A. P. Cruz. 2007. Effects of ayahuasca on psychometric
+measures of anxiety, panic-like and hopelessness in Santo
+Daime
+members.
+Journal
+of
+Ethnopharmacology
+112
+(3):507–13. doi:10.1016/j.jep.2007.04.012.
+Sanz-Biset, J., J. Campos-de-la-Cruz, M. A. Epiquien-Rivera,
+and S. Canigueral. 2009. A first survey on the medicinal
+plants of the Chazuta valley (Peruvian Amazon). Journal of
+Ethnopharmacology
+122
+(2):333–62.
+doi:10.1016/j.
+jep.2008.12.009.
+Sanz-Biset, J., and S. Canigueral. 2011. Plant use in the
+medicinal practices known as “strict diets” in Chazuta
+valley (Peruvian Amazon). Journal of Ethnopharmacology
+137 (1):271–88. doi:10.1016/j.jep.2011.05.021.
+Sanz-Biset, J., and S. Canigueral. 2013. Plants as medicinal
+stressors, the case of depurative practices in Chazuta valley
+(Peruvian Amazonia). Journal of Ethnopharmacology 145
+(1):67–76. doi:10.1016/j.jep.2012.09.053.
+Sheehan, D. V., Y. Lecrubier, K. H. Sheehan, P. Amorim,
+J. Janavs, E. Weiller, T. Hergueta, R. Baker, and
+G.
+C.
+Dunbar.
+1998.
+The
+Mini-International
+Neuropsychiatric Interview (MINI): The development
+and validation of a structured diagnostic psychiatric
+interview for DSM–IV and ICD–10. The Journal of
+Clinical Psychiatry 59 (20):22–33.
+Shepard, G. H. 1998. Psychoactive plants and ethnopsy-
+chiatric
+medicines
+of
+the
+Matsigenka.
+Journal
+of
+Psychoactive
+Drugs
+30
+(4):321–32.
+doi:10.1080/
+02791072.1998.10399708.
+Templeman, K., and A. Robinson. 2011. Integrative medicine
+models
+in
+contemporary
+primary
+health
+care.
+Complementary
+Therapies
+in
+Medicine
+19
+(2):84–92.
+doi:10.1016/j.ctim.2011.02.003.
+Thomas, G., P. Lucas, N. R. Capler, K. W. Tupper, and
+G. Martin. 2013. Ayahuasca-assisted therapy for addiction:
+Results from a preliminary observational study in Canada.
+Current Drug Abuse Reviews 6 (1):30–42.
+Tiffany, S. T., L. Friedman, S. F. Greenfield, D. S. Hasin, and
+R. Jackson. 2012. Beyond drug use: A systematic consid-
+eration of other outcomes in evaluations of treatments for
+JOURNAL OF PSYCHOACTIVE DRUGS
+333
+
+
+substance
+use
+disorders.
+Addiction
+107
+(4):709–18.
+doi:10.1111/j.1360-0443.2011.03581.x.
+Verhoef, M. J., G. Lewith, C. Ritenbaugh, H. Boon, S. Fleishman,
+and A. Leis. 2005. Complementary and alternative medicine
+whole systems research: Beyond identification of inadequacies
+of the RCT. Complementary Therapies in Medicine 13
+(3):206–12. doi:10.1016/j.ctim.2005.05.001.
+Weisner, C., A. T. McLellan, and E. M. Hunkeler. 2000.
+Addiction severity index data from general membership
+and treatment samples of HMO members. One case of
+norming the ASI. Journal of Substance Abuse Treatment
+19 (2):103–09. doi:10.1016/S0740-5472(99)00103-8.
+White, W. L., M. Boyle, and D. Loveland. 2002. Alcoholism/
+addiction
+as
+a
+chronic
+disease.
+Alcoholism
+Treatment
+Quarterly 20 (3–4):107–29.
+World Health Organization. 2000. General guidelines for
+methodologies on research and evaluation of traditional
+medicine. Geneva: Author.
+World Health Organization. 2013. WHO traditional medicine
+strategy 2014-2023. Geneva: Author.
+Zigmond, A. S., and R. P. Snaith. 1983. The hospital
+anxiety
+and
+depression
+scale.
+Acta
+Psychiatrica
+Scandinavica 67 (6):361–70.
+334
+I. BERLOWITZ ET AL.
+
+
+Copyright of Journal of Psychoactive Drugs is the property of Routledge and its content may
+not be copied or emailed to multiple sites or posted to a listserv without the copyright holder's
+express written permission. However, users may print, download, or email articles for
+individual use.

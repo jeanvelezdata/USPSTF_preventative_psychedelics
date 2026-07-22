@@ -1,0 +1,849 @@
+234
+D
+etoxication is a necessary step in the
+treatment of opioid dependence. Ibo-
+gaine, an indole alkaloid found in the bark
+of the root of the African shrub Tabernan-
+the iboga, is alleged to have anti-addictive
+qualities, including efcacy in acute opioid
+withdrawal.1 The Medications Development
+Division of the National Institute on Drug
+Abuse (MDD-NIDA) has given serious con-
+sideration to a clinical trial of ibogaine.2
+Currently, research on humans receiving
+ibogaine conducted in a conventional U.S.
+research setting has been limited to the ad-
+ministration of low subtherapeutic dosages
+in initial phase I dose escalation studies
+under the US Food and Drug Administra-
+tion (FDA).3 In contrast to the limited clini-
+cal experience with ibogaine in conven-
+tional U.S. research settings, an unofcial
+network has been providing treatment with
+ibogaine for over 30 years. Most of the clin-
+ical observations on ibogaine treatment of
+The American Journal on Addictions 8:234–242, 1999
+Published by Brunner/Mazel
+©1999 American Academy of Addiction Psychiatry
+1055-0496/99 $12.00 + .00
+Treatment of Acute Opioid
+Withdrawal with Ibogaine
+Kenneth R. Alper, M.D.,  Howard S. Lotsof,  
+Geerte M. N. Frenken, M.F.A.,  Daniel J. Luciano, M.D.,  
+Jan Bastiaans, M.D.†
+Ibogaine is an alkaloid with putative effect in acute opioid with-
+drawal. Thirty-three cases of treatments for the indication of opi-
+oid detoxication performed in non-medical settings under open
+label conditions are summarized involving an average daily use
+of heroin of .64 ± .50 grams, primarily by the intravenous route.
+Resolution of the signs of opioid withdrawal without further drug
+seeking behavior was observed within 24 hours in 25 patients
+and was sustained throughout the 72-hour period of posttreat-
+ment observation. Other outcomes included drug seeking behav-
+ior without withdrawal signs (4 patients), drug abstinence with
+attenuated withdrawal signs (2 patients), drug seeking behavior
+with continued withdrawal signs (1 patient), and one fatality
+possibly involving surreptitious heroin use. The reported effective-
+ness of ibogaine in this series suggests the need for systematic in-
+vestigation in a conventional clinical research setting. (Am J Ad-
+dict 1999;8:234–242)
+Received September 28, 1998; accepted February 15, 1999.
+From the Departments of Psychiatry (Dr. Alper) and Neurology (Drs. Alper and Luciano), New York University
+School of Medicine, New York; NDA International, Staten Island, New York (Mr. Lotsof); National Development
+and Research Institute, New York, NY (Ms. Frenken); and the Department of Psychiatry, State University of Lei-
+den, The Netherlands (Dr. Bastiaans). Address correspondence to Dr. Alper, Brain Research Laboratories, Depart-
+ment of Psychiatry, New York University School of Medicine, 550 First Avenue, New York, NY 10016. E-mail:
+kra1@is9.nyu.edu.
+†Deceased.
+
+
+drug dependence in humans have been
+provided by this treatment network, which
+exists as a consequence of demand by ad-
+dicts regardless of ibogaine’s legal status in
+the U.S. While the existing informal treat-
+ment context is not optimally suited to
+conventionally rigorous clinical research, it
+appears warranted to direct some attention
+toward reports of efcacy of ibogaine for
+opioid withdrawal.
+Evidence for ibogaine’s effectiveness
+includes observations of reductions in
+morphine and cocaine self administration
+in animals and anecdotal reports in hu-
+mans.1 The reported efcacy of ibogaine in
+multiple substance dependence syndromes
+raises the possibility of implementing a
+pharmacologic strategy suggested by Lesh-
+ner4 of targeting “common effects that may
+underlie some common properties of all
+addictions.” 4 If ibogaine is indeed effec-
+tive, it is of great potential interest as rep-
+resenting a novel pharmacologic approach
+to treating addiction. Ibogaine does not
+appear to be a conventional dopamine or
+opioid agonist or antagonist or an amine
+re-uptake inhibitor.1,5,6 Ibogaine has sig-
+nicant afnities for multiple binding sites
+within the central nervous system, includ-
+ing N-methyl-D-aspartate (NMDA), kappa
+opioid, and sigma and nicotinic receptors.6
+Ibogaine’s mechanism of action is not
+known; however, interest has been fo-
+cussed on NMDA antagonism as one pos-
+sible mechanism of particular relevance to
+its putative effect on opioid withdrawal.5–10
+Because ibogaine apparently does not ex-
+ert its effects by mechanisms of drugs cur-
+rently in use for the treatment of drug
+dependence syndromes, it represents a
+potentially new strategic approach to un-
+derstanding the neurobiology of addiction
+and the development of new treatments.
+In this report, we present observations
+on patients treated with ibogaine for opi-
+oid detoxication over the time interval of
+3 days after their last use of opiates. A
+specic focus on opioid withdrawal, in
+evaluating clinical reports from the exist-
+ing informal ibogaine treatment network,
+is suggested for several reasons. One rea-
+son is that opioid dependence is the major
+reported indication for which addicts have
+sought out ibogaine treatment. Another
+reason to specically focus on acute opi-
+oid withdrawal is to minimize the method-
+ologic limitations of the informal treatment
+context by choosing to study a clinically
+robust phenomenon occurring within a
+relatively limited time frame. With respect
+to data that is currently available, the basic
+question of efcacy of ibogaine can possi-
+bly be most effectively addressed by study-
+ing opioid withdrawal due to the clinically
+obvious and unambiguous nature of the
+acute withdrawal syndrome. The distinc-
+tive, well recognized syndrome of opioid
+withdrawal contrasts, for example, with
+the lesser consensus regarding the clinical
+syndrome of cocaine withdrawal.11,12 The
+current state of ibogaine research is such
+that the basic question of any human
+efcacy must be addressed, and opioid
+withdrawal provides a clearer and more
+readily available set of outcome measures
+than other drug withdrawal syndromes,
+such as cocaine or nicotine.
+The support for efcacy of ibogaine in
+opioid withdrawal consists of animal stud-
+ies and anecdotal reports in humans. In
+rats, ibogaine has been observed to attenu-
+ate the signs of morphine withdrawal13–15
+and to reduce heroin or morphine self ad-
+ministration. 16–18 Similar effects on mor-
+phine withdrawal have been reported in
+monkeys19 and mice.5 There are some case
+studies in humans in the literature20–23 that
+describe ibogaine treatment in an aggre-
+gate total of 13 patients, as well as recent
+preliminary reports from a private clinic in
+the Caribbean.3,24
+Common features of
+these reports are reductions in drug crav-
+ing and opiate withdrawal signs and symp-
+toms within 1 to 2 hours and relatively
+complete resolution of the opioid with-
+drawal syndrome within 24 to 48 hours af-
+Alper et al.
+THE AMERICAN JOURNAL ON ADDICTIONS
+235
+
+
+ter the ingestion of ibogaine. These case
+studies appear consistent with general de-
+scriptions of ibogaine treatment.25–27
+Patients treated with ibogaine describe
+the persistent elimination of withdrawal
+symptoms and craving beginning within
+hours of initiating treatment. Within 1 to 3
+hours of ingestion, ibogaine produces its
+most intense subjective effects during a
+state lasting approximately 4 to 8 hours.
+The acute phase is characterized by the
+panoramic recall of a large amount of ma-
+terial relating to prior life events from
+long-term memory, primarily in the visual
+modality. Hallucinations have also been
+described but do not appear to be as
+prominent an aspect of the experience as
+the volume of images recalled from visual
+long-term memory. Following the acute
+phase is a state lasting approximately 8 to
+20 hours in which the density of recall of
+visual images is greatly reduced and atten-
+tion is directed toward evaluating the ma-
+terial recalled in the acute phase. The
+emotional tone of this second state ap-
+pears to be generally characterized as neu-
+tral and reective. Insomnia is often evi-
+dent for 72 hours following administration
+of ibogaine to both opioid and non-opioid
+dependent patients, and it is responsive to
+sleep medication.26 Patients have reported
+signicant reductions or total cessation of
+substance use and craving for weeks to
+months or longer following treatment, al-
+though methodologically adequate follow-
+up observations are lacking. The purpose
+of this work is to systematically present a
+series of case reports of the possible
+efcacy of ibogaine in acute opioid with-
+drawal.
+METHODS
+The cases presented in this paper are a
+subset of 41 cases of patients treated with
+ibogaine between 1962 and 1993 that were
+presented at the Ibogaine Review Meeting
+held by MDD-NIDA in Rockville, MD, on
+March 8, 1995. Thirty-three of these cases
+were selected according to the following
+criteria:
+(1) Heroin dependence, with or with-
+out other comorbid substance use disor-
+ders, as an indication for treatment with
+ibogaine (all 8 of the subjects who were
+receiving methadone at the time of their
+treatment also reported concurrent use of
+heroin). All patients in this study retro-
+spectively met the DSM IV criteria28 for
+Opioid Dependence with Physiological
+Dependence at the time of their treatment.
+(2) Having been directly observed by
+either or both co-authors H.S.L. and/or
+G.M.N.F., continuously at the scene for at
+least 48 hours following treatment with
+ibogaine. 
+Eight of all 41 cases presented at the
+NIDA Ibogaine Review Meeting were ex-
+cluded from this series. Five of those pa-
+tients were not opioid dependent, and
+post treatment observation was lacking on
+3 patients.
+The demographic and drug use charac-
+teristics of the patients are summarized in
+Table 1. Treatments were provided in the
+setting of a hotel room or apartment under
+an open label condition with H.S.L. and/or
+G.M.N.F. continuously present on site to
+observe the patients for at least the rst 48
+hours following ibogaine administration.
+Observers well known to the above co-
+authors were additionally present when the
+co-authors slept and immediately notied
+the co-authors of withdrawal signs or symp-
+toms or drug seeking behavior.
+Patient behaviors between 48 and 72
+hours were monitored by H.S.L., G.M.N.F.,
+and/or their observers. In 1962 and 1963, a
+total of 7 treatments were carried out in
+the U.S., with the remaining 26 treatments
+taking place in the Netherlands between
+1989 and 1993. Twenty-three of these
+treatments were observed by H.S.L., 9 by
+G.M.N.F., and 1 by both. Eighteen of the
+33 patients in this study were under the
+care of Jan Bastiaans, M.D., Professor
+Treatment of Acute Opioid Withdrawal with Ibogaine
+236
+VOLUME 8  NUMBER 3  SUMMER 1999
+
+
+Emeritus and former Chairman of the De-
+partment of Psychiatry at the State Univer-
+sity of Leiden, whose areas of research
+emphasis within psychiatry included psy-
+chosomatic medicine and the medical uses
+of hallucinogens.29,30 Dr. Bastiaans saw the
+patients before and after their treatments
+and was typically present for the rst 4 to
+8 hours, returning 24 hours post ibogaine
+administration. When present, Dr. Basti-
+aans provided corroboration regarding
+the observations made by H.S.L. and
+G.M.N.F. on the presence or absence of
+the clinical features of acute opioid with-
+drawal.
+The subjects in this series of cases
+received an average dose of ibogaine of
+19.3 ± 6.9 mg/kg (range of 6 to 29
+mg/kg). Patients were instructed to in-
+gest their last food, liquids, heroin, or
+other substances the night before treat-
+ment and received the ibogaine approxi-
+mately 8 to 10 hours later the following
+morning. Patients on methadone took
+their last methadone dosage the morning
+before the next day’s ibogaine treatment,
+approximately 24 hours prior to receiv-
+ing ibogaine. During treatments, subjects
+were instructed to lie down in a dimly lit
+room whose location and ambient activ-
+ity were made to be as quiet as possible.
+Both 
+H.S.L. 
+and 
+G.M.N.F. 
+kept
+journals and recorded their observations
+of patient behaviors during treatment,
+which included assessment of signs of
+opioid withdrawal such as midriasis,
+sweating, elevated pulse rate, shivering,
+piloerection, or diarrhea. Vomiting is
+common during ibogaine treatment, but
+it typically occurs relatively suddenly as a
+single episode and is usually related to
+motion. Therefore, a single episode of
+vomiting was not regarded as an opioid
+withdrawal 
+sign, 
+although 
+sustained
+vomiting and nausea persisting more
+than 2 hours was regarded as a sign of
+opioid withdrawal. Subjective sympto-
+matic complaints such as chills, muscle
+pain, abdominal pain and nausea were
+also noted.
+Both co-authors who assessed and
+recorded the presence or absence of
+withdrawal signs and symptoms were
+very experienced and familiar with the
+clinical syndrome of opioid withdrawal.
+H.S.L. has had clinical experience with
+withdrawing and detoxifying addicts
+over a 30 year period in the context of
+his involvement with the development of
+ibogaine as a treatment for acute opioid
+withdrawal.31
+G.M.N.F. has been in-
+volved with the Dutch and US addict self
+help and harm reduction movements
+since 1985, and is experienced in ethno-
+graphic eld work with injection drug
+users.32
+Alper et al.
+THE AMERICAN JOURNAL ON ADDICTIONS
+237
+TABLE 1.
+Demographic and drug use characteristics of study sample
+Gender
+22 (67%) male, 11 (33%) female 
+Mean Age
+27.3 ± 4.7 years 
+Ethnicity
+32 Caucasian, 1 Surinamese 
+Mean daily heroin use
+.64 ± .50 grams/day 
+Predominant route of heroin self administration
+26 intravenous, 4 intranasal, 3 smoking 
+Mean duration of heroin use
+6.2 ± 5.8 years 
+Number of subjects with concurrent methadone maintenance
+8 (24%)
+Mean methadone dose (N = 8)
+48 ± 30 milligrams 
+Number of subjects additional seeking treatment for concurrent
+8 (24%)
+cocaine use
+Mean daily cocaine use (N = 8)
+1.4 ± 2.3 grams
+
+
+RESULTS
+The outcomes with respect to opioid with-
+drawal signs and drug seeking behavior
+following ibogaine treatment are summa-
+rized in Table 2. Twenty-ve (76%) of the
+patients had no signs or subjective com-
+plaints at 24 and 48 hours and did not seek
+to obtain or attempt to use opioids for at
+least 72 hours after the initial dose of ibo-
+gaine. The reported onset of relief of
+symptoms was rapid—within 1 to 3 hours
+for these patients, many of whom were al-
+ready at least mildly symptomatic from
+having abstained from opioid use over-
+night prior to the morning of the ibogaine
+treatment.
+An additional patient was noted to
+have sweating at 24 hours but not at 48
+hours post treatment and did not seek, ob-
+tain, or attempt to use opioids within 72
+hours post treatment. Another patient had
+chills that were present at 24 hours and 48
+hours but nonetheless did not seek to ob-
+tain or use opioids for at least 72 hours
+post treatment. This particular patient was
+using 1 gram of heroin intravenously daily
+and received an ibogaine dose of 25
+mg/kg. Four patients appeared to achieve
+resolution of opioid withdrawal, as judged
+by an absence of signs and subjective
+symptoms at 24 and 48 hours, but none-
+theless returned immediately to opioid use
+within 72 hours. Two of these subjects,
+males aged 26 and 20, explicitly acknowl-
+edged a continued interest in pursuing a
+heroin-centered lifestyle despite the appar-
+ent elimination of the signs and symptoms
+of their opioid withdrawal. These two indi-
+viduals received doses of only 8 mg/kg,
+and they were each using approximately
+only 0.1 grams per day of heroin. The two
+other individuals who relapsed immedi-
+ately to continued heroin use, despite the
+apparent resolution of the opioid with-
+drawal syndrome, were both 27 year old
+males who were using approximately 0.4
+grams and 0.75 grams of heroin a day, and
+received 23 and 25 mg/kg of ibogaine, re-
+spectively.
+The only patient with clear objective
+signs and subjective complaints of opioid
+withdrawal following ibogaine treatment
+was a 27 year old female who used an av-
+erage of 0.4 grams of heroin a day intra-
+venously and received 10 mg/kg of ibo-
+gaine. This case is the only one in which
+ibogaine did not appear to provide
+signicant relief from the opioid with-
+drawal syndrome, as this patient com-
+plained of nausea, chills, muscle aches,
+and was observed to be sweating with di-
+lated pupils. This patient left the treatment
+environment and used heroin approxi-
+mately 8 hours after the administration of
+ibogaine. The failure of ibogaine in this
+particular case was felt to be due to a
+dosage that was inadequate to the patient’s
+level of opioid dependence.
+Lastly (and importantly) is the case in-
+volving a fatal outcome in a 24-year-old fe-
+male treated in the Netherlands in 1993.
+Treatment of Acute Opioid Withdrawal with Ibogaine
+238
+VOLUME 8  NUMBER 3  SUMMER 1999
+TABLE 2.
+Opioid detoxication with ibogaine: outcomes (N = 33)
+Drug Seeking During the 72
+N
+Signs of Opioid Withdrawal Post-Treatment
+Hour Post-Treatment Interval
+25
+Fully resolved at 24 hours 
+2
+4
+Fully resolved at 24 hours 
+1
+1
+Partial resolution at 24 hours (sweating) fully resolved at 48 hours 
+2
+1
+Partial resolution at 24 and 48 hours (chills)
+2
+1
+Multiple opioid abstinence signs 
+1
+1
+Fatality at 19 hours 
+?
+
+
+This patient had a history of intravenous
+and smoking use of approximately 0.6
+grams of heroin per day, and received an
+ibogaine dose of 29 mg/kg. The patient
+complained of muscle aches and nausea at
+17 hours following the administration of
+ibogaine, without other evidence of signs
+of withdrawal. About an hour later, she
+suffered a respiratory arrest, possibly in-
+volving aspiration, and was pronounced
+dead at about 19 hours post treatment.
+Forensic pathological examination re-
+vealed no denitive conclusion regarding
+the probable cause of death33 and cited the
+lack of information correlating ibogaine
+concentrations with possible toxic effects
+in humans. Another problem regarding the
+interpretability of postmortem levels of
+ibogaine, or its principal metabolite nori-
+bogaine, relates to potential for artifactual
+elevations of serum levels of drug or
+metabolites with a large volume of distri-
+bution due to postmortem release from tis-
+sue.34–36 An additional source of uncer-
+tainty was the possibility of surreptitious
+opioid use, which was suggested by the
+nding of charred tin foil among the pa-
+tient’s effects, which is used to smoke
+heroin by the method of “chasing the
+dragon” (which is popular in the Dutch
+heroin scene).37 There is evidence that
+suggests that the toxicity of opioids may
+be relatively greater following treatment
+with ibogaine.5,38 Analysis of gastric con-
+tents for heroin or morphine, which might
+have conrmed recent heroin smoking,
+and analysis of blood for 6-monoacetyl
+morphine, a heroin metabolite whose
+presence indicates recent use,39 were not
+performed.
+DISCUSSION
+Within the context of the methodological
+limitations imposed by the informal treat-
+ment setting, this series of open label case
+studies appears to provide some evidence
+for the efficacy of ibogaine in acute opioid
+withdrawal. Seventy-six percent of the pa-
+tients in this series were reportedly free of
+opioid withdrawal signs and symptoms at
+24 hours and did not seek drugs over the
+period of observation of 72 hours. Another
+12 percent were without evidence of with-
+drawal but nonetheless chose to resume
+opioid use. While the lack of formal clini-
+cal research methodology such as a struc-
+tured instrument rating withdrawal is un-
+fortunate, the apparent validity of the
+ndings rests largely on the ability of the
+two co-authors H.S.L. and G.M.N.F. to reli-
+ably recognize the features of the acute
+opiate withdrawal syndrome. Both of the
+above co-authors had extensive experi-
+ence in observing the clinical features of
+opioid dependence including the acute
+withdrawal syndrome. The corroboration
+of Dr. Bastiaans on over half the cases pro-
+vides some additional support for the ac-
+curacy of the above co-author’s assess-
+ment regarding the presence or absence of
+acute opioid withdrawal.
+The safety concern that has currently
+been most problematic for the develop-
+ment of ibogaine has been the one fatality
+in this series, following the administration
+of ibogaine in a female patient in the
+Netherlands in 1993. This incident was a
+signicant factor in the decision not to
+pursue a clinical trial of ibogaine following
+the NIDA Review Meeting held in March of
+1995 {F. Vocci, director, MDD-NIDA, per-
+sonal communication, 1998}. This incident
+also underscores the need for the security
+procedures and medical supervision avail-
+able in a conventional medical setting and
+for completion of the FDA dose escalation
+studies3 to allow systematic collection of
+pharmacokinetic and safety data.
+Another safety concern regarding po-
+tential neurotoxicity was raised by the ob-
+servation of cerebellar damage in rats
+treated with ibogaine at a high dose of 100
+mg/kg.40 However, no evidence of toxicity
+was seen at the dose of 40 mg/kg demon-
+strated to reduce morphine or cocaine self-
+Alper et al.
+THE AMERICAN JOURNAL ON ADDICTIONS
+239
+
+
+administration in rats.16,18,41,42 Helsley et
+al43 treated rats with 10 mg/kg ibogaine
+every other day for 60 days and observed
+no evidence of neurotoxicity. Likewise,
+Mash et al3 observed no evidence of neu-
+rotoxicity in monkeys treated for 5 days
+with repeated oral doses of ibogaine of 5
+to 25 mg/kg or subcutaneously adminis-
+tered doses of 100 mg/kg. J. W. Olney has
+described the rationale for the use of ibo-
+gaine as an actual neuroprotective agent to
+minimize excitotoxic damage in stroke and
+anoxic brain injury.44 The available evi-
+dence appears to suggest that the neuro-
+toxic effects of ibogaine occur at levels
+higher than those observed to have effects
+on opioid withdrawal and self administra-
+tion. In addition, the neurotoxic effects of
+ibogaine appear to be specically medi-
+ated by activity at the sigma type 2 recep-
+tor and to be potentially dissociable from
+ibogaine’s putative antiaddictive effect.6
+An ibogaine congener with relatively less
+sigma 2 activity, 18-methoxycoronaridine,
+reportedly produces effects similar to ibo-
+gaine on morphine and cocaine adminis-
+tration in rats, but has shown no evidence
+of neurotoxicity even at high dosages.6
+The cases and literature reviewed here
+indicate signicant clinical issues that will
+need to be addressed if ibogaine is to be
+considered as a clinical option for opioid
+detoxication. There are safety concerns
+(as discussed above) that must be ad-
+dressed by careful investigation in clinical
+research settings. Ibogaine can presently
+be purchased at a wholesale price of ap-
+proximately 200 US dollars per treatment,
+and that price could drop considerably if
+signicant demand were to stimulate in-
+creased production. The time frame of
+treatment with ibogaine places it competi-
+tively within the time frame of rapid
+detoxication.45
+However, despite ibo-
+gaine treatments having taken place under
+conditions of relatively “low tech” improvi-
+sation, there is a question of whether ibo-
+gaine in a conventional medical setting,
+with its attendant evaluation and super-
+vision, would still be economically com-
+petitive with other existing approaches to
+opioid detoxication. The need for super-
+visory personnel to serve the functions
+presently served by volunteer participants
+in the existing informal treatment network
+must be included in the overall cost of ibo-
+gaine treatment in a conventional medical
+setting. The signicant subjective psycho-
+active state produced by ibogaine might
+not be widely desired or tolerated. Al-
+though anecdotal evidence suggests that
+ibogaine is well tolerated and that the ma-
+terial recalled in the psychoactive state
+might have potential psychotherapeutic
+signicance,21,25,27,46,47 a follow-up study of
+individuals treated with ibogaine assessing
+the tolerability of treatment would be use-
+ful. One limitation of such a study, how-
+ever, would be the possible bias of self
+selection on a sample that has been
+sufciently motivated to seek out ibogaine
+treatment in the existing unconventional
+network. It also remains to be seen whether
+a pharmacologic intervention or molecular
+modication of ibogaine can provide the
+option of resolving the psychoactive ef-
+fects of the drug from its putative anti-ad-
+dictive qualities.
+The results reported here originate
+from an informal treatment context that
+presents methodologic disadvantages com-
+pared to a conventional clinical research
+setting. Nonetheless, 
+the observations
+made in this setting do appear to provide
+some support for the efcacy of ibogaine
+in the treatment of acute opioid with-
+drawal. Whether or not ibogaine emerges
+as a viable conventional treatment option,
+the question of its pharmacologic effective-
+ness is interesting. If the results obtained
+under open label conditions summarized
+here are conrmed in controlled clinical
+studies, it would appear that ibogaine rep-
+resents a novel pharmacologic mechanism
+that is not currently being utilized in the
+treatment of drug dependence. If it is in-
+Treatment of Acute Opioid Withdrawal with Ibogaine
+240
+VOLUME 8  NUMBER 3  SUMMER 1999
+
+
+deed effective, ibogaine could eventually
+prove to be a productive paradigm for the
+study of the neurobiology and develop-
+ment of new approaches to addiction.
+The assistance of Norma E. Alexander
+and Patricia A. Graham is gratefully ac-
+knowledged.
+Alper et al.
+THE AMERICAN JOURNAL ON ADDICTIONS
+241
+REFERENCES
+1. Popik P, Skolnick P. Pharmacology of Ibogaine
+and Igogaine-Related Alkaloids. The Alkaloids.
+Vol. 52. New York, NY: Academic Press; 1999:
+197–231.
+2. MDD-NIDA. Draft Protocol: Rising Dose Toler-
+ance Study Using Single Administration to Assess
+the Safety and Preliminary Efcacy of Ibogaine for
+the Treatment of Cocaine and/or Heroin Depen-
+dency. Rockville, Md.: NIDA;1993.
+3. Mash DC, Kovera CA, Buch BE, et al. Medication
+development of ibogaine as a pharmacotherapy
+drug dependence. Ann NY Acad Sci. 1998;844:
+274–292.
+4. Leshner A. Drug abuse and addiction treatment
+research: the next generation. Arch Gen Psychia-
+try. 1997;54:691– 694.
+5. Popik P, Layer RT, Skolnick P. 100 years of ibo-
+gaine: neurochemical and pharmacological ac-
+tions of a putative anti-addictive drug. Pharmacol
+Rev. 1995;47:235– 253.
+6. Glick SD, Maisonneuve IM. Mechanisms of anti-
+addictive actions of ibogaine. Ann NY Acad Sci.
+1998;844:214– 226.
+7. Mash DC, Staley KK, Pablo JP, et al. Properties of
+ibogaine and its principal metabolite (12-hydroxy-
+ibogamine) at the MK-801 binding site of the
+NMDA receptor complex. Neurosci Lett. 1995;192:
+53–56.
+8. Chen K, Kokate TG, Donevan SD, et al. Ibogaine
+block of the NMDA receptor: in vitro and in
+vivo studies. Neuropharmacology.
+1996;35:423–
+431.
+9. Layer RT, Skolnick P, Bertha CM, et al. Structurally
+modied ibogaine analogs exhibit differing afni-
+ties for NMDA receptors. Eur J Pharmacol. 1996;
+309:159–165.
+10. Sershen H, Hashim A, Lajtha A. Ibogaine and co-
+caine abuse: pharmacological interactions at dop-
+amine and serotonin receptors. Brain Res Bull.
+1997;42:161– 168.
+11. Gawin FH, Kleber HD. Abstinence symptomatol-
+ogy and psychiatric diagnosis in cocaine abusers.
+Arch Gen Psychiatry. 1986;43:107– 113.
+12. Weddington WW, Brown BS, Haertzen CA, et al.
+Changes in mood, craving, and sleep during
+short-term abstinence reported by male cocaine
+addicts. Arch Gen Psychiatry. 1990;47:861– 868.
+13. Glick SD, Rossman K, Rao NC, et al. Effects of
+ibogaine on acute signs of morphine withdrawal
+in rats: independence from tremor. Neurophar-
+macology. 1992;31:497– 500.
+14. Cappendijk TSL, Fekkes D, Dzoljic MR. The in-
+hibitory effects of norharman on morphine syn-
+drome in rats: comparison with ibogaine. Behav
+Brain Res. 1994;65:117– 119.
+15. Dzoljic ED, Kaplan CD, Dzoljic MR. Effects of ibo-
+gaine on naloxone-precipitated withdrawal syn-
+drome in chronic morphine-dependent rats. Arch
+Int Pharmacodyn. 1988;294:64– 70.
+16. Glick SD, Rossman K, Steindorf S, et al. Effects
+and after-effects of ibogaine on morphine self-
+administration in rats. Eur J Pharmacol. 1991;195:
+341–345.
+17. Dworkin SI, Gleeson S, Meloni D, et al. Effects of
+ibogaine on responding maintained by food, co-
+caine, and heroin reinforcement in rats. Psy-
+chopharmacology. 1995;117:257– 261.
+18. Glick SD, Kuehne ME, Raucci J, et al. Effects of
+iboga alkaloids on morphine and self-administra-
+tion in rats: relationship to tremorigenic effects
+and to effects on dopamine release in nucleus ac-
+cumbens and striatum. Brain Res. 1994;657:14– 22.
+19. Aceto MD, Bowman ER, Harris LS. Dependence
+studies of new compounds in the rhesus monkey,
+rat, and mouse. NIDA Res Monogr.
+1990;95:
+576–631.
+20. Sheppard SG. A preliminary investigation of ibo-
+gaine: case reports and recommendations for fur-
+ther study. J Subst Abuse Treat. 1994;11:379– 385.
+21. Sisko B. Interrupting drug dependency with ibo-
+gaine: a summary of four case histories. Multidis-
+ciplinary Assoc Psychedelic Stud. 1993;4:15– 24.
+22. Cantor M. Interviews: ibogaine treated addicts.
+The Truth Seeker. 1990;117:23– 26.
+23. Luciano D. Observations on treatment with ibo-
+gaine. Am J Addict. 1998;7:89– 90.
+24. Kovera CA, Kovera MB, Singleton EG, et al.
+Decreased drug craving during inpatient detoxi-
+cation with ibogaine. Poster presented at the
+College of Problems Drug Dependence Sixtieth
+Annual Scientic Meeting. Scottsdale, Ariz., 
+June 13–19, 1998.
+25. DiRienzo P, Beal D. The Ibogaine Story. New
+York, NY: Autonomedia;1997.
+
+
+26. Lotsof HS, Della ES, Kaplan CD. Ibogaine in the
+treatment of narcotic withdrawal. In Paper pre-
+sented at the Proceedings of the 37th Interna-
+tional Congress on Alcohol and Drug Depen-
+dence. La Jolla, Calif.; August 20–25, 1995.
+27. Kaplan CD, Ketzer E, DeJong J, et al. Reaching a
+state of wellness: multistage exploration in social
+neuroscience. Social Neurosci Bull. 1993;6:6–7.
+28. American Psychiatric Association. Diagnostic and
+Statistical Manual of Mental Disorders, DSM IV.
+Washington, DC: American Psychiatric Associa-
+tion; 1994.
+29. Bastiaans J. Insolement en Befrijding (Isolation
+and Liberation). Amsterdam: Uitgeverij Belans;
+1986.
+30. Bastiaans J. Sociopsychosomatic aspects of indi-
+vidual, familial, and national suffering and pain.
+Acta Neurochir. 1987;38:105– 110.
+31. Lotsof HS. Rapid Method for Interrupting the Nar-
+cotic Addiction. US patent 4 499 096. 1985.
+32. Frenken GM, Sifanek SJ. Sexworkers and dope: an
+ethnography of heroin-using lapdancers in New
+York City. Addict Res. 1999;6:341– 370.
+33. Van Ingen G. Pro Justitia Case No. 93221/I057. Ri-
+jswikjk, The Netherlands: Department of Justice;
+1994.
+34. Hough LB, Pearl SM, Glick SD. Tissue distribution
+of ibogaine after intraperitoneal and subcuta-
+neous administration. Life Sci. 1996;58:119– 122.
+35. Broderick PA, Phelan FT, Eng F, et al. Ibogaine
+modulates cocaine responses which are altered
+due to environmental habituation: in vivo micro-
+coltammetric and behavioral studies. Pharmacol
+Biochem Behav. 1994;49:771– 728.
+36. Dhahir HI. A Comparative Study of the Toxicity
+of Ibogaine and Serotonin. Doctoral Thesis. Ann
+Arbor, MI: University Microlm International;
+1971.
+37. Strang M, Grifth P, Gossop M. Heroin smoking
+by ‘chasing the dragon’: origins and history. Ad-
+diction. 1997;92:673– 683.
+38. Schneider JA, McArthur M. Potentiation action of
+ibogaine on morphine analgesia. Experentia.
+1956;12:323– 324.
+39. Kintz P, Mangin A, Lugnier A, et al. Toxicological
+data after heroin overdose. Human Toxicol. 1989;
+8:487–489.
+40. O’Hearn E, Long DB, Molliver ME. Ibogaine in-
+duces glial activation in parasagittal zones in the
+cerebellum. NeuroReport. 1993;4:303– 310.
+41. Molinari HH, Maisonneuve IM, Glick SD. Ibogaine
+neurotoxicity: a re-evaluation. Brain Res. 1996;
+737:255–262.
+42. Cappendjik TSL, Dzoljic MR. Inhibitory effects of
+ibogaine on cocaine self-administration in rats.
+Eur J Pharmacol. 1994;241:261– 265.
+43. Helsley S, Dlugos CA, Pentney RJ, et al. Effects of
+chronic ibogaine treatment on cerebellar Pur-
+kinje cells in the rat. Brain Res. 1997;759:306–
+308.
+44. Olney JW. Use of Ibogaine in Reducing Excito-
+toxic Brain Injury. US patent 5 629 307. 1997.
+45. O’Connor PG, Kosten TR. Rapid and ultrarapid
+opioid detoxication techniques. JAMA. 1998;279:
+229–234.
+46. Judd B. Ibogaine, Psychotherapy, and the Treat-
+ment of Substance-Related Disorders. Paper pre-
+sented at: Eighth International Conference on Pol-
+icy Reform; November 16–19, 1994; Washington,
+DC.
+47. Lotsof HS. Ibogaine in the treatment of chemical
+dependence clinical perspectives. Multidiscipli-
+nary Assoc Psychedelic Stud. 1995;5:16– 27.
+Treatment of Acute Opioid Withdrawal with Ibogaine
+242
+VOLUME 8  NUMBER 3  SUMMER 1999

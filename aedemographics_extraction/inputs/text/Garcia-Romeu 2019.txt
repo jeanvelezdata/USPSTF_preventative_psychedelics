@@ -1,0 +1,1916 @@
+https://doi.org/10.1177/0269881119845793
+Journal of Psychopharmacology
+﻿1­–14
+© The Author(s) 2019
+Article reuse guidelines: 
+sagepub.com/journals-permissions
+DOI: 10.1177/0269881119845793
+journals.sagepub.com/home/jop
+Introduction
+Alcohol use disorder (AUD) is widespread (WHO, 2018), with 
+an estimated 68.5 million (29.1%) American adults exhibiting 
+lifetime prevalence, and 32.6 million (13.9%) currently meeting 
+Diagnostic and Statistical Manual of Mental Disorders, 5th 
+Edition (DSM-5; American Psychiatric Association, 2013) crite-
+ria for AUD diagnosis (Grant et al., 2015). The National Institute 
+on Alcohol Abuse and Alcoholism (NIAAA) reports that 28% of 
+American adults currently exhibit unhealthy alcohol use patterns 
+(Saitz, 2005), many of whom could benefit from targeted health-
+care interventions (US DHHS, 2005). Only 19.8% of individuals 
+with lifetime prevalence of AUD have, however, ever sought 
+treatment (Grant et al., 2015).
+Current FDA-approved pharmacotherapies for AUD include 
+acamprosate (Carmen et  al., 2004), naltrexone (Maisel et  al., 
+2013), and disulfiram (Jørgensen et al., 2011; SAMHSA, 2015). 
+Additionally, psychosocial treatments such as screening and brief 
+intervention or motivational enhancement therapy (MET), alone 
+or with medications, have shown some success in reducing 
+excessive drinking, though upwards of 70% of individuals with 
+AUD generally relapse to heavy drinking within the first year 
+after treatment (Anton et al., 2006; Davis et al., 2018a; Dawson 
+et al., 2005; Jonas et al., 2012; Martin and Rehm, 2012; Miller 
+et al., 2001; Moyer, 2013; Saitz, 2010; Vaillant, 2003; Vasilaki 
+et  al., 2006; Weiss et  al., 2008). Poor treatment response is 
+typically associated with greater baseline alcohol use severity 
+indicators (Davis et al., 2018a; Saitz, 2010), suggesting an unmet 
+intervention need in heavy users.
+Serotonin 2A (5-HT2A) agonist “classic hallucinogens” 
+(hereafter referred to as “psychedelics”) have shown promise in 
+treating AUD (Bogenschutz et  al., 2015; Krebs and Johansen, 
+2012). Psychedelics, primarily lysergic acid diethylamide (LSD), 
+were studied for their potential to help reduce problematic alco-
+hol use in the 1950s through 1970s (Abuzzahab and Anderson, 
+1971; Bowen et  al., 1970; Chwelos et  al., 1959; Dyck, 2006; 
+Hollister et al., 1969; Krebs and Johansen, 2012; Kurland et al., 
+1967; Ludwig et al., 1969; Mangini, 1998; Osmond et al., 1967; 
+Pahnke et  al., 1970; Smart et  al., 1966; Smith, 1958, 1959; 
+Tomsovic and Edwards, 1970). Results from early clinical 
+Cessation and reduction in alcohol 
+consumption and misuse after psychedelic use
+Albert Garcia-Romeu1
+, Alan K Davis1, Fire Erowid2,  
+Earth Erowid2, Roland R Griffiths1,3 and Matthew W Johnson1
+Abstract
+Background: Meta-analysis of randomized studies using lysergic acid diethylamide (LSD) for alcohol use disorder (AUD) showed large, significant 
+effects for LSD efficacy compared to control conditions. Clinical studies suggest potential anti-addiction effects of LSD and mechanistically-related 
+classic psychedelics for alcohol and other substance use disorders.
+Aims: To supplement clinical studies, reports of psychedelic use in naturalistic settings can provide further data regarding potential effects of 
+psychedelics on alcohol use.
+Methods: An anonymous online survey of individuals with prior AUD reporting cessation or reduction in alcohol use following psychedelic use in non-
+clinical settings.
+Results: 343 respondents, mostly White (89%), males (78%), in the USA (60%) completed the survey. Participants reported seven years of problematic 
+alcohol use on average before the psychedelic experience to which they attributed reduced alcohol consumption, with 72% meeting retrospective 
+criteria for severe AUD. Most reported taking a moderate or high dose of LSD (38%) or psilocybin (36%), followed by significant reduction in alcohol 
+consumption. After the psychedelic experience 83% no longer met AUD criteria. Participants rated their psychedelic experience as highly meaningful 
+and insightful, with 28% endorsing psychedelic-associated changes in life priorities or values as facilitating reduced alcohol misuse. Greater psychedelic 
+dose, insight, mystical-type effects, and personal meaning of experiences were associated with a greater reduction in alcohol consumption, controlling 
+for prior alcohol consumption and related distress.
+Conclusions: Although results cannot demonstrate causality, they suggest that naturalistic psychedelic use may lead to cessation or reduction in 
+problematic alcohol use, supporting further investigation of psychedelic-assisted treatment for AUD.
+Keywords
+Psychedelics, hallucinogens, alcohol, psilocybin, lysergic acid diethylamide (LSD)
+1Department of Psychiatry and Behavioral Sciences, Johns Hopkins 
+University School of Medicine, Baltimore, MD, USA
+2Erowid Center, Grass Valley, CA, USA
+3Department of Neuroscience, Johns Hopkins University School of 
+Medicine, Baltimore, MD, USA
+Corresponding author:
+Matthew W. Johnson, Department of Psychiatry and Behavioral 
+Sciences, Johns Hopkins University School of Medicine, 5510 Nathan 
+Shock Drive, Baltimore, MD 21224-6823, USA. 
+Email: mwj@jhu.edu
+845793 JOP0010.1177/0269881119845793Journal of PsychopharmacologyGarcia-Romeu et al.
+research-article2019
+Original Paper
+
+
+2	
+Journal of Psychopharmacology 00(0)
+research with LSD for alcohol misuse were not always consistent 
+due to considerable variation in methods between studies 
+(Abuzzahab and Anderson, 1971; Carhart-Harris et  al., 2018; 
+Hartogsohn, 2016, 2017; Johnson et  al., 2008; Rucker et al., 
+2018). A meta-analysis of six randomized controlled trials admin-
+istering a single high-dose of LSD (ranging from 3 μg/kg to 800 
+μg) for treatment of alcoholism (total n = 536) found that indi-
+viduals who received LSD exhibited significantly greater odds of 
+improvement in alcohol misuse at the first follow-up assessment 
+than those in control groups (OR = 1.96, p = 0.0003; Krebs and 
+Johansen, 2012). Dichotomized data from five of those trials 
+showed 59% of LSD patients improved at initial follow-up com-
+pared to 38% of control patients (Krebs and Johansen, 2012). 
+These effects rival those of currently available AUD medications, 
+with meta-analyses showing significant improvement in alcohol 
+abstinence rates with acamprosate vs. placebo (OR = 1.88, p < 
+0.001; Carmen et  al., 2004), non-significant improvement in 
+abstinence rates with naltrexone vs. placebo (OR = 1.26, p = 
+0.08; Carmen et al., 2004), and significantly increased abstinence 
+with unsupervised disulfiram vs. other or no treatment (OR = 
+1.59; p = 0.02; Jørgensen et al., 2011).
+From 1971 to the 1990s, human research with psychedelics 
+largely stalled due to Schedule I classification and associated 
+stigma (Bonson, 2017; Nutt et al., 2013). Novel studies investigat-
+ing the effects of psychedelics such as dimethyltryptamine (DMT; 
+Strassman and Qualls, 1994; Strassman et al., 1994), mescaline 
+(Hermle et al., 1992, 1998), and psilocybin were, however, gradu-
+ally reinitiated (Gouzoulis-Mayfrank et al., 1998, 1999; Griffiths 
+et al., 2006, 2008; Spitzer et al., 1996; Vollenweider et al., 1997), 
+including a reemergence of clinical research examining psyche-
+delics as potential treatments for addiction (Bogenschutz et al., 
+2015; Garcia-Romeu et  al., 2015, 2016; Johnson et  al., 2014, 
+2017a; Sessa and Johnson, 2015; Tupper et al., 2015).
+In the first contemporary study to reassess psychedelic-
+assisted treatment for alcohol misuse, Bogenschutz and col-
+leagues (2015) administered one or two doses of psilocybin (0.3 
+mg/kg and 0.4 mg/kg) with motivational enhancement therapy to 
+10 treatment-seeking volunteers meeting DSM-IV (American 
+Psychiatric Association, 1994) criteria for alcohol dependence in 
+an open-label trial. Participants reported significantly fewer 
+drinking days and heavy drinking days for 32 weeks after the first 
+dose of psilocybin compared to baseline (Bogenschutz et  al., 
+2015). Consistent with observations from earlier studies of LSD 
+(Kurland et al., 1967, Pahnke et al., 1970), and contemporary 
+pilot research of psilocybin-facilitated treatment for tobacco 
+dependence (Garcia-Romeu et al., 2015), results suggested quali-
+tative attributes of the drug experience (e.g., mystical-type 
+effects, ego dissolution, intensity) as potential key factors facili-
+tating subsequent behavior changes (Bogenschutz et al., 2015; 
+Nielson et al., 2018). Although these recent findings are limited 
+by the small sample size and lack of randomized comparison or 
+blinding conditions, additional controlled research on psilocybin-
+facilitated treatment of alcohol dependence is currently under-
+way (ClinicalTrials.gov Identifier: NCT02061293, 2014a).
+Anecdotal reports and observational data also suggest a poten-
+tial link between psychedelic use in non-treatment settings, and 
+associated reductions in problematic alcohol and drug use 
+(Albaugh and Anderson, 1974; Barbosa et  al., 2012, 2018; 
+Fábregas et  al., 2010; Halpern et  al., 2008; Hill, 1990; Lattin, 
+2012; Prue, 2013; Thomas et  al., 2013). Instances in which 
+naturalistic psychedelic use are followed by subsequent cessation 
+or reduction in alcohol misuse have not, however, been systemati-
+cally investigated. Anonymous online surveys have previously 
+been used to collect data regarding trends in naturalistic substance 
+use that help inform potential risks and benefits of particular drugs 
+and provide complementary evidence for hypothesis generation 
+and testing in laboratory research and clinical trials (Davis et al., 
+2018b; Johnson et al., 2017b; Winstock et al., 2014). The aims of 
+the present anonymous online survey study were to systematically 
+characterize, and determine patterns within, instances in which 
+naturalistic psychedelic use led to self-reported reductions in alco-
+hol misuse outside a formal treatment setting. We hypothesized 
+that some individuals would report lasting reductions in their 
+problematic alcohol use attributed to an experience with a classic 
+psychedelic, and that greater reductions would be associated with 
+greater ratings of mystical-type subjective qualities for the psy-
+chedelic experience.
+Materials and methods
+This cross-sectional, anonymous (i.e., no name or IP address 
+recorded) online survey study was conducted using Survey 
+Monkey (www.surveymonkey.com) from October 2015 to 
+August 2017. Advertisements for study recruitment were posted 
+on social media and on websites devoted to drug discussion, edu-
+cation or research, such as Erowid Center (www.erowid.org), and 
+the Multidisciplinary Association for Psychedelic Studies (www.
+maps.org). Advertisements sought individuals who had “over-
+come alcohol or drug addiction after using psychedelics,” and 
+provided a direct link to an introductory page detailing the pur-
+pose of the study, what participation entailed (e.g., filling out a 
+survey), and study inclusion criteria. Inclusion criteria were: (1) 
+at least 18 years of age; (2) able to speak, read, and write English 
+fluently; (3) retrospectively met DSM-5 criteria for AUD; and (4) 
+had used a classic psychedelic1 outside of a university or medical 
+setting, followed by reduction or cessation of subsequent alcohol 
+use. Individuals who asserted that they met inclusion criteria, 
+understood the study requirements, and were willing to voluntar-
+ily participate were able to begin the survey. Participants were 
+not financially compensated for participation. The study was 
+approved by an Institutional Review Board of the Johns Hopkins 
+University School of Medicine. Participants provided informed 
+consent by choosing to complete the survey after reviewing 
+introductory information.
+Measures
+Demographic information and lifetime drug use data were col-
+lected. The survey retrospectively assessed participants’ alcohol 
+use before and after the psychedelic experience to which they 
+attributed their alcohol use cessation or reduction (hereafter 
+referred to as “reference psychedelic experience”). This included 
+items rating distress related to alcohol use prior to the reference 
+psychedelic experience, overall duration of alcohol misuse, use 
+of medication or other AUD treatments before and after the refer-
+ence psychedelic experience, age of first alcohol use, and lifetime 
+presence of other mental health diagnoses.2
+Participants also provided detailed information regarding 
+their reference psychedelic experience, including the substance 
+
+
+Garcia-Romeu et al.	
+3
+used, approximate dose, setting in which the experience took 
+place, intention for taking the substance, and any adverse effects 
+or other behavioral changes attributed to the reference psyche-
+delic experience. Participants were asked to endorse potential 
+mechanisms of change attributed to their psychedelic-associated 
+alcohol use cessation or reduction. Withdrawal symptoms after 
+the reference psychedelic experience were rated in comparison to 
+prior attempts to reduce or stop alcohol use. Additional measures 
+described below were used to probe changes in alcohol use and 
+the nature of the reference psychedelic experience hypothesized 
+to influence alcohol-related outcomes. Participants completed 
+two iterations of the Alcohol Use Disorders Identification Test – 
+Consumption (AUDIT-C), the DSM-5 Alcohol Use Disorder 
+Symptom Checklist, and the Alcohol Urge Questionnaire (AUQ). 
+In the first, they were asked to characterize their alcohol con-
+sumption in the year prior to their reference psychedelic experi-
+ence. In the second, they responded regarding their alcohol 
+consumption since the reference psychedelic experience.
+AUDIT-C.  This instrument consists of the first three items of the 
+AUDIT (Saunders et al., 1993), and provides a validated measure 
+of alcohol use, with AUDIT-C scores ⩾3 (in women) or ⩾4 (in 
+men) indicating potential misuse (Bush et al., 1998). The AUDIT-
+C has been widely used in clinical practice and research, and 
+exhibits good reliability and construct validity (Bradley et al., 
+2007; Reinert and Allen, 2002).
+DSM-5 alcohol use disorder symptom checklist.  This instru-
+ment was adapted for DSM-5 AUD symptoms to determine past 
+and current alcohol use behavior (American Psychiatric Associa-
+tion, 2013; Hudziak et al., 1993). It asked participants to endorse 
+whether each of the 11 symptoms listed as diagnostic criteria for 
+AUD were true or false regarding their alcohol use in the year prior 
+to their reference psychedelic experience, and in the time since the 
+reference psychedelic experience. According to DSM-5 criteria, 
+the presence of two–three symptoms indicates a mild, four–five 
+symptoms indicate a moderate, and six or more symptoms indicate 
+a severe AUD (American Psychiatric Association, 2013).
+AUQ.  This instrument is an eight-item measure of alcohol crav-
+ing across three domains: (1) desire to drink; (2) expectation of 
+positive effects from drinking; and (3) inability to resist drinking 
+when alcohol is accessible (Bohn et al., 1995; Drummond and 
+Phillips, 2002). Scores on the AUQ range from 8 to 56, with 
+higher scores indicating greater craving.
+Mystical Experience Questionnaire (MEQ30).  This is a vali-
+dated 30-item measure assessing the intensity of mystical-type 
+experiences, which has shown sensitivity to the subjective effects 
+of psychedelics (Barrett et al., 2015; Davis et al., 2018b; Liechti 
+et al., 2017; MacLean et al., 2012). The MEQ30 consists of four 
+dimensions: (1) mystical, including feelings of unity, sacredness, 
+and noetic quality (i.e., direct knowledge or insight); (2) positive 
+mood (e.g., awe, joy); (3) transcendence of time and space; and 
+(4) ineffability. The MEQ30 was completed with respect to the 
+reference psychedelic experience, and individuals scoring ⩾60% 
+of the maximum possible score on each of the four subscales of 
+the MEQ30 were considered to have had a “complete” mystical 
+experience (Barrett et al., 2015).
+Ratings of persisting effects.  Participants were asked to rate 
+the personal meaning, psychological challenge, psychological 
+insight, spiritual significance, and change in well-being or life 
+satisfaction attributed to their reference psychedelic experience 
+(Griffiths et al., 2006, 2011). Personal meaning, psychological 
+challenge, and psychological insight were rated on a scale from 1 
+to 8 (1 = no more than routine, everyday experiences; 7 = among 
+the five most meaningful/challenging/insightful experiences of 
+my life; and 8 = the single most meaningful/challenging/insight-
+ful experience of my life). Spiritual significance was rated on a 
+scale from 1 to 6 (1 = not at all; 5 = among the five most spiritu-
+ally significant experiences of my life; 6 = the single most spiri-
+tually significant experience of my life). Change in well-being or 
+life satisfaction was rated on a scale from −3 (decreased very 
+much) to 0 (no change) to +3 (increased very much).
+Data analyses
+We calculated descriptive statistics of demographic and back-
+ground characteristics, psychedelic use history and session char-
+acteristics, alcohol use and treatment history, alcohol withdrawal 
+symptoms, and mental health history. We compared pre- to post-
+reference psychedelic experience scores for each of the following 
+instruments and items using two-tailed Wilcoxon matched-pairs 
+signed rank tests: AUDIT-C, DSM-5 symptom checklist, AUQ, 
+and self-reported drinks per week. We calculated Pearson corre-
+lation coefficients between AUDIT-C change scores (post- minus 
+pre-) and all primary study variables (sex, age, time since psyche-
+delic experience, dose of psychedelic, mystical experiences, per-
+sisting effects, Pre-AUDIT-C, alcohol distress prior to experience, 
+DSM-5 AUD checklist prior to experience, age of first drink, and 
+number of years with a drinking problem). We conducted this 
+first set of analyses using SPSS v.24 (IBM Corporation, 2016).
+Based on correlation data regarding factors associated with 
+change in AUDIT-C alcohol consumption score, a path analysis 
+was conducted examining a proposed model to explain the effect 
+of psychedelic experience on alcohol reduction (see Figure 1). 
+The model tested included: (1) Pre-AUDIT-C as a predictor of 
+AUDIT-C change score and alcohol distress before the reference 
+psychedelic experience; (2) dose of the psychedelic as a predictor 
+of insight (from persisting effects) and MEQ30 score of reference 
+psychedelic experience; (3) insight and MEQ30 score of refer-
+ence psychedelic experience as predictors of ratings of personal 
+meaning associated with the psychedelic experience; and (4) per-
+sonal meaning as a predictor of AUDIT-C change score. In this 
+model, we also controlled for the intercorrelation of acute mysti-
+cal and insightful experiences that occurred during the psyche-
+delic experience. Analyses were conducted using maximum 
+likelihood with robust standard errors in MPlus v.7.0 (Muthén 
+and Muthén, 1998–2017).
+Results
+Respondent characteristics
+During recruitment (October, 2015 through August, 2017), 4095 
+people clicked one of the recruitment ads and started the survey. 
+Of these individuals, 1429 met study inclusion criteria, consented 
+to participate, and began filling out the survey regarding alcohol. 
+Of these respondents, a total of 512 subsequently completed the 
+
+
+4	
+Journal of Psychopharmacology 00(0)
+entire survey regarding alcohol. Of these, we excluded 120 
+respondents because they reported that their psychedelic experi-
+ence occurred within the three months prior to the study thus lim-
+iting our ability to estimate a reliable change in alcohol use on the 
+AUDIT-C (Canagasaby and Vinson, 2005). Of the remaining 
+392, we excluded an additional 33 for not meeting criteria for at 
+least a DSM-5 mild AUD (i.e., ⩾2 AUD symptoms) prior to their 
+reference psychedelic experience, and 16 for reporting that they 
+had used a substance other than a classic psychedelic (e.g., 
+3,4-methylenedioxy-methamphetamine or MDMA) in their 
+experience that led to a change in drinking. The final sample 
+comprised 343 adults (Table 1), the majority of whom were 
+White (89%), male (78%), and from the US (60%), with a mean 
+age of 31.4 (SD = 10.8) years. According to self-reported life-
+time drug use history, alcohol and cannabis were most heavily 
+used, with only alcohol (63.0%) and cannabis (55.4%) showing 
+⩾500 lifetime uses. The most commonly used classic psyche-
+delics were LSD and psilocybin, both of which had modal 
+responses of two to five lifetime uses, with most respondents 
+reporting <10 lifetime uses of both LSD (72.9%) and psilocybin 
+(78.1%). Median time to complete the survey was 1 h 9 min 
+(inter-quartile range: 0 h 47 min to 1 h 59 min), though partici-
+pants could begin the survey, leave unattended, and complete 
+later, possibly resulting in overestimated completion time.
+Alcohol use, treatment, and mental health 
+prior to psychedelic experience
+Prior to their reference psychedelic experience, most respond-
+ents (72%) met the criteria for a severe AUD (Table 2), with 
+smaller proportions meeting the criteria for a moderate (17%) or 
+mild AUD (11%). Overall, participants endorsed a mean of 7.3 
+(SD = 2.7) DSM-5 AUD symptoms in the year prior to the refer-
+ence psychedelic experience. Respondents self-reported con-
+suming an average of 25.5 (SD = 21.5) drinks per week before 
+the reference psychedelic experience. Overall, the mean alcohol 
+consumption score on the AUDIT-C was 8.5 (SD = 2.2), sug-
+gesting these respondents were heavy drinkers experiencing 
+several alcohol use-related consequences prior to their reference 
+psychedelic experience. Moreover, respondents had been deal-
+ing with a drinking problem for approximately seven (SD = 7.3) 
+Figure 1.  Path analysis examining predictors of alcohol consumption change score from pre- to post-psychedelic experience among individuals 
+meeting criteria for an alcohol use disorder. *p < .05; **p < .01; ***p < .001. AUDIT-C = Alcohol Use Disorders Identification Test – Consumption.
+Table 1.  Demographic characteristics and lifetime mental health 
+diagnoses (n = 343).
+Demographics
+n (%)
+Age in years, Mean (SD)
+31.4 (10.8)
+Female sex
+76 (22.2%)
+White
+305 (88.9%)
+Hispanic
+20 (5.8%)
+Single/not married
+140 (40.8%)
+US resident
+207 (60.3%)
+Education
+High school/GED or below
+50 (14.6%)
+Some college
+102 (29.7%)
+College graduate
+94 (27.4%)
+Some graduate school or graduate
+97 (28.3%)
+Income (US$)
+ 
+0–19.9K
+93 (27.1%)
+ 
+20–39.9K
+76 (22.2%)
+ 
+40–59.9K
+56 (16.3%)
+ 
+60–99.9K
+59 (17.2%)
+ 
+100K+
+59 (17.2%)
+Lifetime mental health diagnoses
+ 
+Any mental health disorder
+287 (83.7%)
+ 
+Anxiety disorder
+202 (58.9%)
+ 
+Eating disorder
+24 (7.0%)
+ 
+Impulse control disorder
+27 (7.9%)
+ 
+Mood disorder
+212 (61.8%)
+ 
+Personality disorder
+52 (15.2%)
+ 
+Psychotic disorder
+17(5.0%)
+ 
+Substance use disorder (including AUD)
+188 (54.8%)
+AUD: alcohol use disorder; GED: general educational development (high school 
+equivalent).
+
+
+Garcia-Romeu et al.	
+5
+years on average, had been drinking since the age of 15 
+(SD = 2.8), and reported between “a moderate amount” and “a 
+lot” of distress related to their alcohol use (M = 2.5/4, SD = 
+1.2). Furthermore, most respondents (68%) had not received 
+treatment for their alcohol use prior to the reference psychedelic 
+experience (Table 2), with smaller proportions having received 
+counseling (20%), attending a support group (13%), or utilizing 
+self-help (13%). Six percent had been treated with at least one 
+medication (e.g., disulfiram, naltrexone, acamprosate) before 
+the reference psychedelic experience. Furthermore, large pro-
+portions of the sample had a history of being diagnosed with a 
+mood disorder (62%), anxiety disorder (59%), or a substance 
+use disorder not otherwise specified (55%).
+Reference psychedelic experience
+Approximately three quarters of the sample reported that they 
+used either psilocybin (36%) or LSD (38%) in the reference 
+psychedelic experience (Table 3). Most respondents reported 
+using a “moderate” (54%) or “high” (29%) dose, and reported 
+that it had been at least one year since their experience (75%). 
+Most respondents (65%) had the reference psychedelic experi-
+ence in their home (Table 3), with the intention for either psy-
+chological (62%) or spiritual (39%) exploration. Only a small 
+minority (10%) reported that they intended to reduce/quit 
+drinking alcohol through using the psychedelic substance. 
+Despite few respondents having the intention to change their 
+drinking via the reference psychedelic experience, 28% of par-
+ticipants reported that the reference psychedelic experience 
+contributed to a change in values or life priorities, which was 
+the most commonly endorsed way that they believed the expe-
+rience helped change their alcohol use. Participants also 
+endorsed psychedelic-associated changes in orientation toward 
+the future so that long-term benefits outweighed immediate 
+desires (17%), and increased belief in their own ability to 
+abstain (16%) as among the most important ways in which the 
+reference psychedelic experience facilitated change in alcohol 
+misuse (Table 3).
+Table 3 shows a mean of 67% of maximum total score on the 
+MEQ30. Additionally, approximately 39% of the sample had a 
+“complete mystical experience” as evidenced by endorsement of 
+⩾60% of the total possible score on each subscale of the MEQ30 
+(Barrett et al., 2015). Overall, 80% of respondents rated their ref-
+erence psychedelic experience among the 10 most personally 
+meaningful; 39% rated it among the 10 most psychologically 
+challenging; and 74% rated it among the 10 most psychologically 
+insightful experiences of their lives. The majority of the sample 
+(51%) rated the reference psychedelic experience among the five 
+most spiritually significant experiences of their lives, and 79% 
+said their sense of well-being or life satisfaction had increased 
+Table 2.  Alcohol use variables and AUD diagnosis and treatment history pre- and post-reference psychedelic experience (n = 343).
+Alcohol use variables
+Retrospective (pre- 
+psychedelic) mean (SD)
+Current (post- 
+psychedelic) mean (SD)
+Retrospective 
+(pre-psychedelic)
+n (%)
+Current (post-psychedelic)
+n (%)
+Drinks/week
+25.5 (21.5)
+4.3 (10.2)
+ 
+AUDIT-C consumption score
+8.5 (2.2)
+2.7 (2.5)
+ 
+AUQ (craving)
+38.8 (10.0)
+13.4 (6.8)
+ 
+Years of problematic alcohol use
+6.6 (7.3)
+n/a
+ 
+Age in years of first alcohol use
+15.1 (2.8)
+n/a
+ 
+DSM5 AUD diagnostic criteria met
+ 
+ 
+No AUD
+0 (0)
+283 (82.5%)
+ 
+Mild AUD
+38 (11.1%)
+32 (9.3%)
+ 
+Moderate AUD
+59 (17.2%)
+12 (3.5%)
+ 
+Severe AUD
+246 (71.7%)
+16 (4.7%)
+AUD treatments used
+ 
+ 
+None
+233 (67.9%)
+241 (70.3%)
+ 
+Detox
+30 (8.7%)
+9 (2.6%)
+ 
+Counseling
+70 (20.4%)
+20 (5.8%)
+ 
+Phone counseling
+6 (1.7%)
+0 (0%)
+ 
+Website counseling
+12 (3.5%)
+4 (1.2%)
+ 
+Hypnosis
+6 (1.7%)
+5 (1.5%)
+ 
+Acupuncture
+7 (2.0%)
+3 (0.9%)
+ 
+Support group
+46 (13.4%)
+24 (7.0%)
+ 
+Self help
+45 (13.1%)
+15 (4.4%)
+ 
+Spiritual practice
+47 (13.7%)
+56 (16.3%)
+Medications
+ 
+ 
+Disulfiram
+6 (1.7%)
+0 (0%)
+ 
+Naltrexone
+9 (2.6%)
+2 (0.6%)
+ 
+Acamprosate
+6 (1.7%)
+1 (0.3%)
+AUD: alcohol use disorder; AUDIT-C: Alcohol Use Disorders Identification Test – Consumption score; DSM5: Diagnostic and Statistical Manual of Mental Disorders, 5th  
+Edition; AUQ: Alcohol Urge Questionnaire.
+
+
+6	
+Journal of Psychopharmacology 00(0)
+Table 3.  Psychedelic experience variables, intentions, perceived 
+mechanisms, and behavioral changes in the sample (n = 343).
+Psychedelic experience variables
+n (%)
+Substance used
+  Psilocybin mushrooms
+124 (36.2%)
+  LSD
+130 (37.9%)
+  Ayahuasca
+27 (7.9%)
+  DMT (pure compound)
+17 (5.0%)
+  Other (e.g., peyote, San Pedro)
+45 (13.1%)
+Estimated dose used
+  Very low
+3 (0.9%)
+  Low
+31 (9.0%)
+  Moderate
+184 (53.6%)
+  High
+101 (29.4%)
+  Very high
+24 (7.0%)
+Time since experience
+  4–6 months
+41 (12.0%)
+  7–12 months
+46 (13.4%)
+  1–2 years
+110 (32.1%)
+  3–5 years
+70 (20.4%)
+  6–10 years
+38 (11.1%)
+  More than 10 years
+38 (11.1%)
+Setting of psychedelic experience†
+  At home
+223 (65.0%)
+  At a party
+26 (7.6%)
+  In a public place (e.g., mall, movie theatre)
+21 (6.1%)
+  At a concert/festival
+33 (9.6%)
+  In nature
+123 (35.9%)
+  In a religious/spiritual setting
+38 (11.1%)
+  Other
+17 (5.0%)
+Intention for psychedelic experience†
+  No serious intention, because others were 
+using
+7 (2.0%)
+  Curiosity
+68 (19.8%)
+  Recreational
+149 (43.4%)
+  Psychological self-exploration
+213 (62.1%)
+  Explore spirituality or the sacred
+135 (39.4%)
+  To reduce/quit drinking alcohol
+34 (9.9%)
+Other behavioral changes attributed to refer-
+ence psychedelic experience
+  None
+17 (5.0%)
+  Reduced/quit using other drugs
+155 (45.2%)
+  Started using other drugs
+36 (10.5%)
+  Improved diet
+215 (62.7%)
+  Worsened diet
+1 (0.3%)
+  Increased exercise
+190 (55.4%)
+  Decreased exercise
+3 (0.9%)
+  Improved relationships
+261 (76.1%)
+  Worsened relationships
+13 (3.8%)
+  Improved career
+182 (53.1%)
+  Worsened career
+15 (4.4%)
+Primary mechanism attributed to psychedelic 
+experience for alcohol abstinence/reduction
+  Changed life priorities or values
+97 (28.3%)
+  Increased ability for delayed gratification
+58 (16.9%)
+  Increased belief in own ability to quit/reduce
+56 (16.3%)
+  Reframed quitting as a spiritual task
+50 (14.6%)
+Psychedelic experience variables
+n (%)
+  Reduced stress involved with quitting
+41 (12.0%)
+  Increased ability to cope with craving
+30 (8.7%)
+MEQ30 “complete” mystical experience
+132 (38.5%)
+Mean (SD)
+Age in years at time of experience
+26.1 (8.6)
+MEQ30 percentage of maximum total score
+67.1 (20.3)
+PEQ – Personal meaning‡
+6.4 (1.3)
+PEQ – Challenging‡
+4.6 (2.2)
+PEQ – Psychological insight‡
+6.2 (1.6)
+PEQ – Spiritual significance§
+4.2 (1.5)
+PEQ – Change in wellbeing/life satisfaction¶
+2.7 (0.7)
+LSD: lysergic acid diethylamide; DMT: dimethyltryptamine; MEQ30: Mystical 
+Experience Questionnaire 30; PEQ: Persisting Effects Questionnaire. †These 
+responses were not mutually exclusive (i.e., participants could choose more than 
+one). ‡Personal meaning, psychological challenge, and psychological insight were 
+rated on a scale from 1–8 (1 = no more than routine, everyday experiences; 7 = 
+among the five most meaningful/challenging/insightful experiences of my life; 
+and 8 = the single most meaningful/challenging/insightful experience of my 
+life). §Spiritual significance was rated on a scale from 1–6 (1 = not at all; 5 = 
+among the five most spiritually significant experiences of my life; 6 = the single 
+most spiritually significant experience of my life). ¶Change in well-being or life 
+satisfaction was rated on a scale from −3 (decreased very much) to 0 (no change) 
+to +3 (increased very much).
+Table 3. (Continued)
+“very much” as a result of the reference psychedelic experience 
+and contemplation of that experience (Table 3).
+Adverse effects
+A large majority of participants (89%; n = 305) reported no per-
+sisting adverse effects beyond the period of acute drug action 
+from their reference psychedelic experience, 6% (n = 21) reported 
+they were unsure whether there were any persisting adverse 
+effects, and 5% (n = 17) reported persisting adverse effects that 
+were largely rated as not severe or slightly severe (e.g., anxiety, 
+headache) by two-thirds of those reporting potential persisting 
+adverse effects. Only two individuals among these 38 reported 
+adverse effects of extreme severity, described in the participants’ 
+language as, “Panic attacks. Spiritual, existential crisis,” and “loss 
+of the ability to think clearly and a significantly altered mind that 
+is undescribable [sic].” Neither of these individuals reported any 
+decrease in well-being or life satisfaction related to the reference 
+psychedelic experience. The first individual additionally described 
+these insights from their experience, “It allowed me to feel whole 
+again and forced me to reconnect with emotional trauma. It gave 
+me insight into the nature of addiction and how it enslaves us—
+physically, mentally and spiritually. Addiction numbs us to any 
+kind of growth as a human being.” And the second stated, “I real-
+ize that I need help from a power greater than myself to overcome 
+my alcoholism and that the psychedelics themselves were effec-
+tive but cannot cure my disease.”
+Alcohol withdrawal symptoms
+Several alcohol withdrawal symptoms were endorsed by at least 
+half of the sample after the reference psychedelic experience 
+(Table 4), including craving (58%), depression (58%), anxiety 
+
+
+Garcia-Romeu et al.	
+7
+(55%), irritability (55%), and restlessness (52%). Despite expe-
+riencing these withdrawal symptoms, many respondents (range 
+= 37–69%) reported that these symptoms were “much less 
+severe” after their reference psychedelic experience compared 
+to prior attempts to reduce their alcohol consumption. Although 
+less frequent, lack of appetite (36%), increased heart rate (35%), 
+tremors (27%), fever (16%), and seizures (10%) were reported, 
+but almost all respondents indicated that symptom severity was 
+the same, or less/much less severe, compared to prior quit 
+attempts (Table 4). Craving in particular seemed to be attenu-
+ated among those who had previously experienced this with-
+drawal symptom, with 69% of these individuals reporting their 
+craving as much less severe after the reference psychedelic 
+experience compared with prior attempts to reduce or stop alco-
+hol use.
+Alcohol consumption following the 
+psychedelic experience
+Almost all respondents reported that they had greatly reduced or 
+quit drinking alcohol since their reference psychedelic experi-
+ence as evidenced by a current self-reported mean of 4.3 drinks 
+per week (SD = 10.2), down from a mean of 25.5 (SD = 21.5) 
+drinks per week before the reference psychedelic experience 
+(Table 2). Similarly, on average, AUDIT-C scores reduced by 5.8 
+(SD = 3.0) from a mean of 8.5 (SD = 2.2) before the reference 
+psychedelic experience to 2.7 (SD = 2.5) afterward, indicating 
+that many respondents were no longer above the threshold con-
+sidered to be a risky drinker at the time of the survey (⩾4 for 
+males, ⩾3 for females). The majority of respondents (83%) no 
+longer met criteria for an AUD at the time of responding to the 
+survey, with an average of 1.0 (SD = 2.1) DSM-5 AUD symp-
+toms endorsed since the reference psychedelic experience. Small 
+proportions still met the criteria for mild (9%), moderate (4%), 
+and severe (5%) AUDs. Additionally, some individuals reported 
+only temporary reductions in alcohol consumption before return-
+ing to baseline rates. Most participants (70%) reported that they 
+had not sought any other treatment for alcohol use problems 
+since their reference psychedelic experience, but some endorsed 
+that they had done so in the form of a spiritual practice (16%), 
+support group (7%), or counseling (6%). All Wilcoxon matched-
+pairs signed rank tests of alcohol use variables from pre- to post-
+reference psychedelic experience showed significant reductions 
+from retrospective to current AUDIT-C scores, DSM-5 symptom 
+checklist totals, AUQ scores, and self-reported drinks per week at 
+p < 0.0001.
+Path analysis
+First, Pearson correlation coefficients revealed that the AUDIT-C 
+change score was significantly positively associated with dose of 
+psychedelic substance, intensity of acute mystical experiences, 
+ratings of the experience as personally meaningful and insightful, 
+pre-AUDIT-C scores, intensity of alcohol distress and number of 
+AUD symptoms prior to the experience, and number of years 
+with a drinking problem (Table 5). Other clusters of variables 
+with significant positive correlations included: (1) mystical and 
+persisting effects (i.e., insight, personal meaning) associated with 
+the reference psychedelic experience; and (2) alcohol consump-
+tion, AUD, and alcohol distress variables.
+Table 4.  Withdrawal severity after psychedelic-associated alcohol cessation or reduction in comparison with previous quit attempts. Modal 
+responses shown in bold type. (N = 343).
+Withdrawal symptom
+n
+Symptom severity
+Much less severe
+n (%)
+Less severe
+n (%)
+Same
+n (%)
+More severe
+n (%)
+Much more severe
+n (%)
+Seizures
+34
+10 (29.4)
+6 (17.6)
+16 (47.1)
+1 (2.9)
+1 (2.9)
+Increased heart rate
+121
+38 (31.4)
+30 (24.8)
+39 (32.2)
+11 (9.1)
+3 (2.5)
+Lack of appetite
+125
+41 (32.8)
+32 (25.6)
+44 (35.2)
+6 (4.8)
+2 (1.6)
+Tremors
+94
+31 (33.0)
+22 (23.4)
+33 (35.1)
+6 (6.4)
+2 (2.1)
+Fever
+54
+19 (35.2)
+7 (13.0)
+24 (44.4)
+1 (1.9)
+3 (5.6)
+Insomnia
+172
+59 (34.3)
+39 (22.7)
+48 (27.9)
+15 (8.7)
+11 (6.4)
+Difficulty concentrating
+162
+57 (35.2)
+55 (34.0)
+38 (23.5)
+6 (3.7)
+6 (3.7)
+Heart pounding
+113
+42 (37.2)
+26 (23.0)
+33 (29.2)
+9 (8.0)
+3 (2.7)
+Restless
+177
+66 (37.3)
+48 (27.1)
+41 (23.2)
+16 (9.0)
+6 (3.4)
+Tactile disturbance
+96
+37 (38.5)
+22 (22.9)
+31 (32.3)
+4 (4.2)
+2 (2.1)
+Fatigue
+153
+59 (38.6)
+36 (23.5)
+40 (26.1)
+13 (8.5)
+5 (3.3)
+Drowsiness
+138
+54 (39.1)
+32 (23.2)
+41 (29.7)
+8 (5.8)
+3 (2.2)
+Headaches
+140
+57 (40.7)
+28 (20.0)
+44 (31.4)
+6 (4.3)
+5 (3.6)
+Hallucinations
+49
+20 (40.8)
+8 (16.3)
+16 (32.7)
+4 (8.2)
+1 (2.0)
+Nausea
+98
+42 (42.9)
+20 (20.4)
+27 (27.6)
+7 (7.1)
+2 (2.0)
+Anxiety
+187
+83 (44.4)
+53 (28.3)
+33 (17.6)
+12 (6.4)
+6 (3.2)
+Irritability
+187
+85 (45.5)
+45 (24.1)
+32 (17.1)
+18 (9.6)
+7 (3.7)
+Confusion
+129
+60 (46.5)
+28 (21.7)
+32 (24.8)
+5 (3.9)
+4 (3.1)
+Depression
+198
+97 (49.0)
+42 (21.2)
+35 (17.7)
+15 (7.6)
+9 (4.5)
+Cravings
+200
+137 (68.5)
+37 (18.5)
+16 (8.0)
+4 (2.0)
+6 (3.0)
+
+
+8	
+Journal of Psychopharmacology 00(0)
+As shown in the path analysis data in Figure 1, greater alcohol 
+consumption prior to the reference psychedelic experience (pre-
+AUDIT-C) and greater alcohol distress were directly related to 
+greater change in alcohol consumption (AUDIT-C change score). 
+Greater pre-AUDIT-C scores were also indirectly related to a greater 
+AUDIT-C change score via greater alcohol distress (β = .05, SE = 
+.02, p < .01, 95% CI [.02, .09]). While controlling for the positive 
+association between acute insight and mystical experiences, a higher 
+dose of the psychedelic substance was directly related to greater 
+insight and mystical effects during the psychedelic experience, both 
+of which were also directly related to greater personal meaning asso-
+ciated with the experience. Additionally, higher ratings of personal 
+meaning were directly related to a greater AUDIT-C change score. 
+There were also two indirect effects between greater intensity of 
+acute insight (β = .07, SE = .03, p < .01, 95% CI [.02, .12]) and 
+mystical effects (β = .03, SE = .01, p < .01, 95% CI [.01, .05]) on 
+higher AUDIT-C change scores via higher ratings of personal mean-
+ing. Model fit was excellent, χ2 (1, n = 343) = 8.28, p = .687; root-
+mean-square error of approximation = .00 (CI [.00, .05]); 
+standardized root-mean-square residual = .025.
+Other effects
+Beyond cessation or reduction in alcohol consumption, partici-
+pants were also asked about other behavioral changes that may 
+have occurred after the reference psychedelic experience 
+(Table 3). These included changes in other drug use, diet and 
+nutrition, physical activity and exercise, interpersonal relation-
+ships, and work/career. Many endorsed improvements in per-
+sonal relationships (76%), diet (63%), exercise (55%), and 
+work or career (53%). A minority (0.3% to 10.5%) reported 
+deterioration in these areas overall (Table 3), and 5.0% no 
+changes in these domains after the reference psychedelic 
+experience.
+Discussion
+Findings indicate that, in some cases, naturalistic psychedelic use 
+outside of treatment settings is followed by pronounced and 
+enduring reductions in alcohol misuse. This survey was not 
+designed to determine how commonly such results occur follow-
+ing psychedelic use, but it does provide a detailed description of 
+such cases that suggest the potential for dramatic change. Most 
+respondents reported meeting criteria for DSM-5 severe AUD in 
+the year prior to the reference psychedelic experience. In the time 
+since that experience, only a very small percentage still met the 
+criteria for severe AUD, with the large majority no longer meet-
+ing the criteria for any AUD. Results showed congruent and sta-
+tistically significant reductions in self-reported drinks per week, 
+AUDIT-C scores, and AUQ craving. These data are consistent 
+with reports that psychedelic use in both clinical and religious 
+contexts has been linked to decreases in problematic alcohol con-
+sumption (Albaugh and Anderson, 1974; Barbosa et al., 2018; 
+Bogenschutz et al., 2015; Davis et al., 2018b; Fábregas et al., 
+2010; Krebs and Johansen, 2012; Kurland et al., 1967; Osmond 
+et al., 1967; Pahnke et al., 1970; Thomas et al., 2013). Although 
+only 10% of participants reported an explicit intention to change 
+their drinking behavior going into their reference psychedelic 
+experience, it is possible that general intentions for psychological 
+or spiritual exploration may have resulted in changes in drinking 
+behavior among this sample of heavy drinkers. Furthermore, 
+these changes appear to be long-lasting and associated with 
+broader functional gains. Specifically, nearly three-quarters of 
+participants reported their reference psychedelic experience to 
+have occurred a year or more before taking the online survey, and 
+the majority endorsed additional improvements in personal rela-
+tionships, diet, exercise, and work or career (Table 3). Although 
+such benefits cannot be wholly separated from accompanying 
+reductions in unhealthy alcohol use, they are consistent with 
+reports of persisting positive effects of psychedelics lasting well 
+Table 5.  Correlations between change in AUDIT-C scores from pre- to post-psychedelic experience and primary study variables.
+Variable
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+1. Change score†
+1
+–.03 .01
+.07
+.13*
+.11*
+.18**
+.07
+.05
+.13*
+.57***
+.34***
+.33*** –.06
+.13**
+2. Sex
+1
+.03 –.04
+–.07
+.12*
+.01
+.06
+–.01
+.02
+–.19**
+–.03
+–.06
+–.05
+–.04
+3. Age
+1
+.43*** –.02
+–.02
+–.09
+–.08
+.03
+–.05
+–.07
+.13*
+.03
+–.01
+.57***
+4. Time since experience
+1
+.13*
+.05
+–.01
+–.05
+.01
+–.02
+.21*** –.01
+.08
+–.17**
+.15**
+5. Dose of psychedelic
+1
+.28***
+.18**
+.23***
+.25***
+.19***
+.18**
+–.01
+.03
+–.08
+.02
+6. MEQ30 mean
+1
+.56***
+.60***
+.34***
+.54***
+.04
+.07
+.10
+–.07
+–.01
+7. Experience meaningful
+1
+.58***
+.35***
+.71***
+.09
+.08
+.12*
+–.01
+.00
+8. Experience spiritually 
+significant
+1
+.33***
+.54***
+.00
+.05
+.09
+–.03
+.04
+9. Experience challenging
+1
+.41*** –.03
+.05
+.04
+.01
+–.02
+10. Experience insightful
+1
+.10
+.04
+.13*
+–.08
+.03
+11. Pre-AUDIT-C
+1
+.32***
+.48*** –.08
+.27***
+12. Alcohol distress
+1
+.47*** –.02
+.29***
+13. DSM5 symptoms
+1
+–.16**
+.28***
+14. Age of first drink
+1
+–.16**
+15. Years problematic drinking
+1
+AUDIT-C: Alcohol Use Disorders Identification Test – Consumption score; DSM5: Diagnostic and Statistical Manual of Mental Disorders, 5th Edition; MEQ30: Mystical Experi-
+ence Questionnaire 30. *p < .05; **p < .01; ***p < .001. †This variable was calculated as a difference in total score on the AUDIT-C reported in the year prior to the 
+psychedelic experience from the AUDIT-C reported since the psychedelic experience.
+
+
+Garcia-Romeu et al.	
+9
+beyond the period of acute drug action (Doblin, 1991; Griffiths 
+et al., 2008; Johnson et al., 2017a; Schmid and Liechti, 2018).
+A number of potential psychological mechanisms for psyche-
+delic-associated reductions in alcohol and other substance misuse 
+have been hypothesized, including spiritual and mystical-type 
+effects, increased self-efficacy and motivation to change, and 
+decreased craving, anxiety, and depressed mood (Bogenschutz 
+and Pommy, 2012; Garcia-Romeu et al., 2015; Kurland et al., 
+1967; Majić et  al., 2015; Osmond et  al., 1967; Pahnke et  al., 
+1970; Savage and McCabe, 1973; Ross, 2012). Consistent with 
+these hypotheses, a large majority of respondents in the current 
+survey rated their reference psychedelic experiences among the 
+10 most personally meaningful experiences of their lives, and 
+more than half considered it among the five most spiritually sig-
+nificant experiences of their lives, consistent with high overall 
+MEQ30 scores indicating strong mystical-type effects. Craving 
+was the most commonly reported alcohol withdrawal symptom 
+in the present sample, and more than two-thirds of respondents 
+who experienced craving rated it as much less severe after the 
+reference psychedelic experience in comparison with previous 
+attempts to reduce alcohol consumption.
+Similarly, a recent pilot study of psilocybin-assisted treatment 
+for alcohol dependence found that both greater overall intensity 
+of drug effects and greater mystical-type effects were highly cor-
+related with subsequent decreases in percentage drinking days 
+and percentage heavy drinking days, decreased craving, and 
+increased alcohol abstinence self-efficacy (Bogenschutz et  al., 
+2015). Previous studies of LSD treatment for alcoholism 
+(Kurland et al., 1967; Pahnke et al., 1970) and opioid dependence 
+(Savage and McCabe, 1973) also observed a relationship between 
+mystical-type qualities of the psychedelic experience and treat-
+ment outcome. Comparable associations have been found 
+between mystical-type effects (but not overall intensity) and 
+long-term smoking abstinence in a pilot study of psilocybin-
+assisted treatment for tobacco dependence (Garcia-Romeu et al., 
+2015; Johnson et al., 2014, 2017a). These results highlight an 
+important and potentially transdiagnostic therapeutic mechanism 
+of psychedelic-assisted addiction treatment, which is also cur-
+rently being studied in people who use cocaine (ClinicalTrials.
+gov Identifier: NCT02037126, 2014b). Based on current and pre-
+vious findings including preclinical data (Cata-Preta et al., 2018; 
+Godinho et al., 2017; Oliveira-Lima et al., 2015; Vargas-Perez 
+et al., 2017), it seems plausible that serotonin 2A agonist psych-
+edelics may possess some inherently anti-addictive properties, 
+and that in humans, these may be mediated by overall intensity 
+and/or mystical-type effects of the drug experience (Bogenschutz 
+et al., 2015; Garcia-Romeu et al., 2015).
+Spirituality has long been thought to play an important role in 
+recovery from alcohol dependence, and has been posited as a 
+protective factor against alcohol misuse (Bliss, 2008; Miller, 
+1998). Spirituality and spiritual practice have also been found to 
+correlate with abstinence in alcohol dependence recovery (Bliss, 
+2008; Carroll, 1993; Kelly et al., 2011; Piderman et al., 2008). 
+Though a major focus of research on spirituality and alcohol mis-
+use has been on Alcoholics Anonymous (AA) and 12-step pro-
+grams, psychedelics may represent an alternative path to spiritual 
+or otherwise highly meaningful experiences that can help reframe 
+life priorities and values, enhance self-efficacy, and increase 
+motivation to change (Bogenschutz and Pommy, 2012; Nielson 
+et  al., 2018). Notably, Bill Wilson, the co-founder of AA, 
+participated in medically supervised administration of LSD in the 
+1950s, and cited similarities between the spontaneous experience 
+to which he attributed his sobriety, and his experience with LSD 
+(Lattin, 2012). While such mechanisms appear largely psycho-
+logical in nature, a growing body of evidence is informing the 
+role of underlying neurological correlates of psychedelic effects 
+in potential therapeutic efficacy, including acute and post-acute 
+alterations in default mode network activity and functional con-
+nectivity, and changes in amygdala reactivity (Carhart-Harris 
+et  al., 2012, 2017; Kraehenmann et  al., 2015; Palhano-Fontes 
+et al., 2015; Tagliazucchi et al., 2014). Furthermore, as growing 
+evidence continues to elucidate the role of inflammatory pro-
+cesses in psychiatric conditions including addiction (Crews et al., 
+2011; Cui et al., 2014) and depression (Hong et al., 2016; Kim 
+et al., 2016), anti-inflammatory effects of psychedelics may rep-
+resent another mechanism contributing to their therapeutic poten-
+tial (Flanagan and Nichols, 2018; Nichols et al., 2017).
+Although the spiritual and mystical-type effects attributed to 
+psychedelics have garnered much of the attention surrounding 
+behavioral and psychological changes observed following psy-
+chedelic administration in the laboratory (Bogenschutz et  al., 
+2015; Garcia-Romeu et al., 2015; Griffiths et al., 2008; 2011; 
+2016; Liechti et al., 2017; MacLean et al., 2011; Roseman et al., 
+2017; Ross et al., 2016), evidence from the present study sug-
+gests the utility of examining other psychological mechanisms 
+that might provide more breadth in understanding how positive 
+outcomes such as reduced alcohol misuse may be achieved 
+through an acute psychedelic experience. For example, it is plau-
+sible that psychedelic-occasioned experiences including both 
+mystical-type effects and psychological insight might produce 
+more profound behavioral changes than either type of experience 
+alone. Miller (2004) made a similar observation regarding the 
+construct of quantum change, described as a form of rapid, 
+enduring transformation that includes both mystical experience 
+and psychological insight subtypes (Miller and C’de Baca, 2001). 
+Current results showed that most respondents (74%) reported 
+their reference psychedelic experience as among the 10 most psy-
+chologically insightful experiences of their lives. Furthermore, in 
+a path analysis predicting change in alcohol consumption, both 
+the intensity of mystical experience and the degree to which the 
+experience was psychologically insightful predicted alcohol con-
+sumption change via the degree to which the experience was con-
+sidered personally meaningful. Additionally, these findings were 
+significant while controlling for the influence of alcohol use 
+severity indicators, which are themselves known to predict 
+response to traditional interventions for problematic alcohol use 
+(Davis et al., 2018a; Ryan et al., 1995). Although this finding is 
+preliminary, it suggests that psychological insight is also an 
+important mechanism of behavior change following a psyche-
+delic experience. These data suggest a compelling need for fur-
+ther 
+investigation 
+of 
+mechanisms 
+and 
+efficacy 
+of 
+psychedelic-assisted treatment of AUD in prospective, well-con-
+trolled laboratory and clinical studies, some of which are already 
+underway (ClinicalTrials.gov Identifier: NCT02061293, 2014a).
+In addition to substance use disorders, psychedelics have 
+recently begun to be re-examined as treatments for depression and 
+anxiety. Results from initial clinical trials have shown robust and 
+rapid-acting anxiolytic and antidepressant effects in individuals 
+with treatment-resistant depression (Carhart-Harris et  al., 2016, 
+2017; dos Santos et al., 2016; Palhano-Fontes et al., 2019), as well 
+
+
+10	
+Journal of Psychopharmacology 00(0)
+as patients with symptoms of anxiety or depression associated with 
+life-threatening illness (Gasser et al., 2014; Griffiths et al., 2016; 
+Grob et al., 2011; Ross et al., 2016). These results are also consist-
+ent with observational studies suggesting anxiolytic and antidepres-
+sant effects of psychedelics among psychedelic users in nonclinical 
+settings (Davis et al., 2018b; 2019; dos Santos et al., 2007; Uthaug 
+et al., 2018). Self-reported lifetime prevalence of depression (62%) 
+and anxiety (59%) in the study sample was high, consistent with 
+data showing significant comorbidity between AUD and mood and 
+anxiety disorders (Grant et al., 2015; Hasin et al., 2018; Lai et al., 
+2015). A large proportion of respondents also reported affective 
+withdrawal symptoms (e.g., depression, anxiety, irritability, rest-
+lessness) as much less severe after the reference psychedelic experi-
+ence compared with previous attempts to cut down or stop drinking. 
+Findings from a previous survey on psychedelic-associated tobacco 
+smoking cessation also showed a similar pattern of reduced craving 
+and affective withdrawal symptoms (Johnson et al., 2017b). Results 
+suggest that observed anxiolytic and antidepressant effects of 
+psychedelics likely serve as key mediators of potential efficacy in 
+ameliorating alcohol and other substance use disorders (Bogenschutz 
+and Pommy, 2012). Additionally, the effects of psychedelics in 
+altering emotional processing and social cognition may represent 
+another potential mechanism of psychedelic-associated reductions 
+in alcohol misuse (Dolder et  al., 2016; Kometer et  al., 2012; 
+Kraehenmann et al., 2016; Mueller et al., 2017; Preller et al., 2016; 
+Stroud et al., 2018), consistent with recent findings that patients 
+with poorer facial emotion recognition were more likely to relapse 
+or prematurely terminate treatment for alcohol dependence (Rupp 
+et al., 2017). Such mechanisms may also be relevant for investiga-
+tion of the entactogen MDMA as a treatment for AUD and other 
+mental health conditions (Sessa, 2018).
+The current study has several notable limitations. Results are 
+limited due to participant self-selection, volunteer bias, and the 
+retrospective nature of the data, which are subject to recall bias. 
+No definitive conclusions can be drawn about the role of psych-
+edelics in alcohol use reduction as data were collected via online 
+survey, are cross-sectional, and neither the details regarding the 
+reference psychedelic experience nor the veracity of alcohol use 
+information can be verified. The current study design cannot 
+address absolute prevalence or efficacy of psychedelic-associ-
+ated AUD remission, as rates of AUD remission without psych-
+edelics were not assessed. Similarly, rates of increased alcohol 
+consumption after psychedelic use were not assessed, as the 
+study was conducted in a convenience sample of purposively 
+recruited individuals who had to have experienced a reduction in 
+their alcohol use following a psychedelic experience in order to 
+be included in the study. In some cases, participants reported only 
+temporary reductions in alcohol misuse that later subsided to 
+baseline rates, as often happens following established treatments, 
+and consistent with data from early clinical trials with LSD 
+(Krebs and Johansen, 2012). Additionally, due to the homogene-
+ity of the study sample (i.e., most respondents were White males), 
+results are not necessarily generalizable to other populations. In 
+this respect, however, current results are analogous to findings 
+from other online surveys on psychedelic use where White males 
+are typically over-represented (Davis et  al., 2018b; Johnson 
+et al., 2017b; Winstock et al., 2014), consistent with greater psy-
+chedelic use among this demographic in national epidemiologi-
+cal data (Center for Behavioral Health Statistics and Quality, 
+2017; Hendricks et al., 2015; Johnston et al., 2016).
+Nevertheless, taken in combination with observational and 
+anecdotal reports, results from historical clinical research, and 
+contemporary pilot laboratory results, these findings indicate that 
+serotonergic psychedelics such as psilocybin and LSD may hold 
+considerable potential in the treatment of AUD. Studies of psy-
+chedelic-assisted treatment of AUD and related lines of research 
+were relatively well-funded by the US government prior to pas-
+sage of the Controlled Substances Act. A lack of federal support 
+for therapeutic psychedelic research, prohibitive regulatory bur-
+dens, and lack of financial incentive for the clinical development 
+of psychedelics as mostly off-patent, Schedule I substances have, 
+however, been major limiting factors in conducting contempo-
+rary research with psychedelics (Bonson, 2017; Nutt et al., 2013; 
+Sellers and Leiderman, 2018), despite a growing need to examine 
+a broader range of treatment options for those with AUD. 
+Considering the substantial mortality and morbidity associated 
+with unhealthy alcohol use (CDC, 2013; Connor, 2017; Stahre 
+et al., 2014), the high prevalence of AUD (WHO, 2018), and the 
+limitations of current treatments, psychedelic-assisted treatment 
+of AUD constitutes an innovative, timely, and compelling direc-
+tion for future research for which safety and feasibility have been 
+established (Bogenschutz et  al., 2015; Johnson et  al., 2008, 
+2018). Such work could be fostered and promoted via coopera-
+tive efforts between clinical alcohol researchers, US funding 
+agencies such as the National Institute on Alcohol Abuse and 
+Alcoholism, and the Substance Abuse and Mental Health 
+Services Administration, and regulatory bodies such as the Food 
+and Drug Administration, and the Drug Enforcement 
+Administration. The authors advocate for a more focused and 
+collaborative approach to accelerate research and clinical devel-
+opment of psychedelic-assisted treatment of AUD at this time.
+Authors’ note
+Dr. Griffiths is on the board of directors of the Heffter Research Institute.
+Acknowledgements
+The authors would like to thank Nora Belblidia, MPS for her assistance 
+with data management and analysis; Toni White, BA for her help imple-
+menting the online survey questionnaire and pilot testing the initial survey; 
+and Jefferson Mattingly, BS for his help pilot-testing the initial survey.
+Declaration of conflicting interest
+The author(s) declared no potential conflicts of interest with respect to 
+the research, authorship, and/or publication of this article.
+Funding
+The author(s) disclosed receipt of the following financial support for the 
+research, authorship, and/or publication of this article: This research was 
+funded by the Heffter Research Institute (PI: Dr. Johnson). Support for Dr. 
+Garcia-Romeu and Dr. Davis was provided by National Institute on Drug 
+Abuse Grant T32DA07209. Support for Dr. Griffiths was provided in part 
+by NIDA Grant R01DA003889.
+Notes
+1.	
+That is, psilocybin (magic) mushrooms, LSD, morning 
+glory seeds, mescaline, peyote or San Pedro cactus, DMT, 
+or Ayahuasca.
+2.	
+A copy of the survey questionnaire is available online (see 
+the Supplementary Material).
+
+
+Garcia-Romeu et al.	
+11
+ORCID iD
+Albert Garcia-Romeu 
+ https://orcid.org/0000-0003-2182-1644
+References
+Abuzzahab FS and Anderson BJ (1971) A review of LSD treatment in 
+alcoholism. Int Pharmacopsychiatry 6: 223–235.
+Albaugh BJ and Anderson PO (1974) Peyote in the treatment of alco-
+holism among American Indians. Am J Psychiatry 131: 1247–1250.
+American Psychiatric Association (1994) DSM-IV: Diagnostic and Sta-
+tistical Manual of Mental Disorders. 4th ed. Washington DC: Amer-
+ican Psychiatric Press.
+American Psychiatric Association (2013) Diagnostic and Statistical 
+Manual of Mental Disorders. 5th ed. Arlington, VA: American Psy-
+chiatric Publishing.
+Anton RF, O’Malley SS, Ciraulo DA, et al. (2006) Combined pharma-
+cotherapies and behavioral interventions for alcohol dependence: 
+The COMBINE study: A randomized controlled trial. JAMA 295: 
+2003–2017.
+Barbosa PC, Tofoli LF, Bogenschutz MP, et al. (2018) Assessment of 
+alcohol and tobacco use disorders among religious users of Aya-
+huasca. Front Psychiatry 9: 136.
+Barbosa PCR, Mizumoto S, Bogenschutz MP, et al. (2012) Health status 
+of Ayahuasca users. Drug Test Anal 4: 601–609.
+Barrett FS, Johnson MW and Griffiths RR (2015) Validation of the 
+revised Mystical Experience Questionnaire in experimental sessions 
+with psilocybin. J Psychopharmacol 29: 1182–1190.
+Bliss DL (2008) Empirical research on spirituality and alcoholism: A 
+review of the literature. J Soc Work Pract Addict 7: 5–25.
+Bogenschutz MP, Forcehimes AA, Pommy JA, et al. (2015) Psilocybin-
+assisted treatment for alcohol dependence: A proof-of-concept study. 
+J Psychopharmacol 29: 289–299.
+Bogenschutz MP and Pommy JM (2012) Therapeutic mechanisms of 
+classic hallucinogens in the treatment of addictions: From indirect 
+evidence to testable hypotheses. Drug Test Anal 4: 543–555.
+Bohn MJ, Krahn DD and Staehler BA (1995) Development and initial 
+validation of a measure of drinking urges in abstinent alcoholics. 
+Alcohol Clin Exp Res 19: 600–606.
+Bonson KR (2017) Regulation of human research with LSD in the United 
+States (1949–1987). Psychopharmacology 235(2): 591–604.
+Bowen WT, Soskin RA and Chotlos JW (1970) Lysergic acid diethylam-
+ide as a variable in the hospital treatment of alcoholism: A follow-up 
+study. J Nerv Ment Dis 150: 111–118.
+Bradley KA, DeBenedetti AF, Volk RJ, et al. (2007) AUDIT-C as a brief 
+screen for alcohol misuse in primary care. Alcohol Clin Exp Res 31: 
+1208–1217.
+Bush K, Kivlahan DR, McDonell MB, et al. (1998) The AUDIT alcohol 
+consumption questions (AUDIT-C): An effective brief screening test 
+for problem drinking. Arch Intern Med 158: 1789–1795.
+Canagasaby A and Vinson DC (2005) Screening for hazardous or harm-
+ful drinking using one or two quantity–frequency questions. Alcohol 
+Alcohol 40: 208–213.
+Carhart-Harris RL, Bolstridge M, Rucker J, et al. (2016) Psilocybin with 
+psychological support for treatment-resistant depression: An open-
+label feasibility study. Lancet Psychiatry 3: 619–627.
+Carhart-Harris RL, Erritzoe D, Williams T, et al. (2012) Neural correlates 
+of the psychedelic state as determined by fMRI studies with psilocy-
+bin. Proc Natl Acad Sci 109: 2138–2143.
+Carhart-Harris RL, Roseman L, Bolstridge M, et al. (2017) Psilocybin for 
+treatment-resistant depression: fMRI-measured brain mechanisms. 
+Sci Rep 7: 13187.
+Carhart-Harris RL, Roseman L, Haijen E, et  al. (2018) Psychedelics 
+and the essential importance of context. J Psychopharmacol 32: 
+725–731.
+Carmen B, Angeles M, Ana M, et al. (2004) Efficacy and safety of nal-
+trexone and acamprosate in the treatment of alcohol dependence: A 
+systematic review. Addiction 99: 811–828.
+Carroll S (1993) Spirituality and purpose in life in alcoholism recovery. J 
+Stud Alcohol 54: 297–301.
+Cata-Preta EG, Serra YA, Moreira-Junior ED, et al. (2018) Ayahuasca 
+and its DMT- and β-carbolines – containing ingredients block the 
+expression of ethanol-induced conditioned place preference in mice: 
+Role of the treatment environment. Front Pharmacol 9: 561.
+Center for Behavioral Health Statistics and Quality (2017) 2016 National 
+Survey on Drug Use and Health: Detailed Tables. Rockville, MD: 
+Substance Abuse and Mental Health Services Administration.
+Centers for Disease Control and Prevention (CDC) (2013) Alcohol 
+Related Disease Impact (ARDI) Application. Available at: www.cdc.
+gov/ARDI.
+Chwelos N, Blewett DB, Smith CM, et al. (1959) Use of d-lysergic acid 
+diethylamide in the treatment of alcoholism. Quart J Stud Alcohol 
+20: 577–590.
+ClinicalTrials.gov. National Library of Medicine (U.S.) (2014a, February 
+12). A Double-Blind Trial of Psilocybin-Assisted Treatment of Alco-
+hol Dependence. Identifier NCT02061293. Available at: https://
+clinicaltrials.gov/ct2/show/NCT02061293 (accessed 12 May 2016).
+ClinicalTrials.gov. National Library of Medicine (U.S.) (2014b, Janu-
+ary 15). Psilocybin-facilitated Treatment for Cocaine Use. Identi-
+fier NCT02037126. Available at: https://clinicaltrials.gov/ct2/show 
+/NCT02037126 (accessed 12 May 2018).
+Connor J (2017) Alcohol consumption as a cause of cancer. Addiction 
+112: 222–228.
+Crews FT, Zou J and Qin L (2011) Induction of innate immune genes 
+in brain create the neurobiology of addiction. Brain Behav Immun 
+25: S4–S12.
+Cui C, Shurtleff D and Harris RA (2014) Neuroimmune mechanisms of 
+alcohol and drug addiction. Int Rev Neurobiol 118: 1–12.
+Davis AK, Arterberry BJ, Bonar EE, et al. (2018a) Predictors of posi-
+tive treatment response among youth receiving a brief alcohol inter-
+vention in the emergency department. Drug Alcohol Depend 188: 
+102–108. doi: 10.1016/j.drugalcdep.2018.03.044
+Davis AK, Barsuglia JP, Lancelotta R, et al. (2018b) The epidemiology 
+of 5-methoxy-N, N-dimethyltryptamine (5-MeO-DMT) use: Ben-
+efits, consequences, patterns of use, subjective effects, and reasons 
+for consumption. J Psychopharmacol 32: 779–792.
+Davis AK, So S, Lancelotta R, et al. (2019) 5-Methoxy-N, N-dimethyl-
+tryptamine (5-MeO-DMT) used in a naturalistic setting is associated 
+with unintended improvements in depression and anxiety. Am J Drug 
+Alcohol Ab. doi: 10.1080/00952990.2018.1545024
+Dawson DA, Grant BF, Stinson FS, et al. (2005) Recovery from DSM-
+IV alcohol dependence: United States, 2001–2002. Addiction 100: 
+281–292.
+Doblin R (1991) Pahnke’s “Good Friday Experiment”: A long-term fol-
+low-up and methodological critique. J Transpers Psychol 23: 1–28.
+Dolder PC, Schmid Y, Müller F, et al. (2016) LSD acutely impairs fear 
+recognition and enhances emotional empathy and sociality. Neuro-
+psychopharmacology 41: 2638.
+dos Santos RG, Landeira-Fernandez J, Strassman RJ, et al. (2007) Effects 
+of ayahuasca on psychometric measures of anxiety, panic-like, and 
+hopelessness in Santo Daime members. J Ethnopharmacol 112: 
+507–513.
+dos Santos RG, Osório FL, Crippa JAS, et  al. (2016) Antidepressive 
+and anxiolytic effects of ayahuasca: A systematic literature review 
+of animal and human studies. Revista Brasileira de Psiquiatria 38: 
+65–72.
+Drummond DC and Phillips TS (2002) Alcohol urges in alcohol-depen-
+dent drinkers: Further validation of the Alcohol Urge Questionnaire 
+in an untreated community clinical population. Addiction 97: 1465–
+1472.
+Dyck E (2006) ‘Hitting highs at rock bottom’: LSD treatment for alcohol-
+ism, 1950–1970. Soc Hist Med 19: 313–329.
+Fábregas JM, González D, Fondevila S, et  al. (2010) Assessment of 
+addiction severity among ritual users of ayahuasca. Drug Alcohol 
+Depend 111: 257–261.
+
+
+12	
+Journal of Psychopharmacology 00(0)
+Flanagan TW and Nichols CD (2018) Psychedelics as anti-inflammatory 
+agents. Int Rev Psychiatry 30(4): 363–375.
+Garcia-Romeu A, Griffiths RR and Johnson MW (2015) Psilocybin-
+occasioned mystical experiences in the treatment of tobacco addic-
+tion. Curr Drug Abuse Rev 7: 157.
+Garcia-Romeu A, Kersgaard B and Addy PH (2016) Clinical applications 
+of hallucinogens: A review. Exper Clin Psychopharmacol 24: 229.
+Gasser P, Holstein D, Michel Y, Doblinet al. (2014) Safety and efficacy of 
+lysergic acid diethylamide-assisted psychotherapy for anxiety associ-
+ated with life-threatening diseases. J Nerv Ment Dis 202: 513.
+Godinho AF, Silva MC, Kawashima JD, et al. (2017) Ayahuasca modi-
+fies amphetamine self-ingestion and modifies anxiety and locomotor 
+activity in adolescent rats. Electr J Biol 13: 159–165.
+Gouzoulis-Mayfrank E, Heekeren K, Thelen B, et al. (1998) Effects of 
+the hallucinogen psilocybin on habituation and prepulse inhibition of 
+the startle reflex in humans. Behav Pharmacol 9: 561–566.
+Gouzoulis-Mayfrank E, Schreckenberger M, Sabri O, et al. (1999) Neu-
+rometabolic effects of psilocybin, 3, 4-methylenedioxyethylamphet-
+amine (MDE) and d-methamphetamine in healthy volunteers: A 
+double-blind, placebo-controlled PET study with [18F] FDG. Neu-
+ropsychopharmacology 20: 565–581.
+Grant BF, Goldstein RB, Saha TD, et al. (2015) Epidemiology of DSM-5 
+alcohol use disorder: Results from the National Epidemiologic Sur-
+vey on Alcohol and Related Conditions III. JAMA Psychiatry 72: 
+757–766.
+Griffiths RR, Johnson MW, Richards WA, et al. (2011) Psilocybin occa-
+sioned mystical-type experiences: immediate and persisting dose-
+related effects. Psychopharmacology 218: 649–665.
+Griffiths RR, Johnson MW, Carducci MA, et al. (2016) Psilocybin pro-
+duces substantial and sustained decreases in depression and anxiety 
+in patients with life-threatening cancer: A randomized double-blind 
+trial. J Psychopharmacol 30: 1181–1197.
+Griffiths RR, Richards WA, Johnson MW, et al. (2008) Mystical-type 
+experiences occasioned by psilocybin mediate the attribution of per-
+sonal meaning and spiritual significance 14 months later. J Psycho-
+pharmacol 22: 621–632.
+Griffiths RR, Richards WA, McCann U, et  al. (2006) Psilocybin can 
+occasion mystical-type experiences having substantial and sustained 
+personal meaning and spiritual significance. Psychopharmacology 
+187: 268–283.
+Grob CS, Danforth AL, Chopra GS, et al. (2011) Pilot study of psilocybin 
+treatment for anxiety in patients with advanced-stage cancer. Arch 
+Gen Psychiatry 68: 71–78.
+Halpern JH, Sherwood AR, Passie T, et al. (2008) Evidence of health and 
+safety in American members of a religion who use a hallucinogenic 
+sacrament. Med Sci Monit 14: SR15–SR22.
+Hartogsohn I (2016) Set and setting, psychedelics and the placebo 
+response: An extra-pharmacological perspective on psychopharma-
+cology. J Psychopharmacol 30: 1259–1267.
+Hartogsohn I (2017) Constructing drug effects: A history of set and set-
+ting. Drug Sci Policy Law 3: 1–17.
+Hasin DS, Sarvet AL, Meyers JL, et al. (2018) Epidemiology of adult 
+DSM-5 major depressive disorder and its specifiers in the United 
+States. JAMA Psychiatry 75: 336–346.
+Hendricks PS, Thorne CB, Clark CB, et al. (2015) Classic psychedelic use 
+is associated with reduced psychological distress and suicidality in 
+the United States adult population. J Psychopharmacol 29: 280–288.
+Hermle L, Fünfgeld M, Oepen G, et al. (1992) Mescaline-induced psy-
+chopathological, neuropsychological, and neurometabolic effects in 
+normal subjects: Experimental psychosis as a tool for psychiatric 
+research. Biol Psychiatry 32: 976–991.
+Hermle L, Gouzoulis-Mayfrank E and Spitzer M (1998) Blood flow and 
+cerebral laterality in the mescaline model of psychosis. Pharmaco-
+psychiatry 31: 85–91.
+Hill TW (1990) Peyotism and the control of heavy drinking: The 
+Nebraska Winnebago in the early 1900s. Hum Org 255–265.
+Hollister LE, Shelton J and Krieger G (1969) A controlled comparison of 
+lysergic acid diethylamide (LSD) and dextroamphetamine in alco-
+holics. Am J Psychiatry 125: 1352–1357.
+Hong H, Kim BS and Im HI (2016) Pathophysiological role of neuroin-
+flammation in neurodegenerative diseases and psychiatric disorders. 
+Int Neurourol J 20(Suppl 1): S2–S7.
+Hudziak JJ, Helzer JE, Wetzel MW, et al. (1993) The use of the DSM-
+III-R Checklist for initial diagnostic assessments. Compr Psychiatry 
+34: 375–383.
+IBM Corporation (2016) IBM SPSS Statistics for Windows, Version 
+24.0. Armonk, NY: IBM Corp.
+Johnson MW, Garcia-Romeu A, Cosimano MP, et al. (2014) Pilot study 
+of the 5-HT2AR agonist psilocybin in the treatment of tobacco 
+addiction. J Psychopharmacol 28: 983–992.
+Johnson MW, Garcia-Romeu A and Griffiths RR (2017a) Long-term 
+follow-up of psilocybin-facilitated smoking cessation. Am J Drug 
+Alcohol Abuse 43: 55–60.
+Johnson MW, Garcia-Romeu A, Johnson PS, et al. (2017b) An online 
+survey of tobacco smoking cessation associated with naturalistic 
+psychedelic use. J Psychopharmacol 31: 841–850.
+Johnson MW, Griffiths RR, Hendricks PS, et al. (2018) The abuse poten-
+tial of medical psilocybin according to the 8 factors of the Controlled 
+Substances Act. Neuropharmacology 142: 143–166.
+Johnson MW, Richards WA and Griffiths RR (2008) Human hallu-
+cinogen research: Guidelines for safety. J Psychopharmacol 22: 
+603–620.
+Johnston LD, O’Malley PM, Bachman JG, et al. (2016) Monitoring the 
+Future National Survey Results on Drug Use, 1975–2015: Volume 
+II, College Students and Adults Ages. Ann Arbor: MI: Institute for 
+Social Research, pp. 19–55.
+Jonas DE, Garbutt JC, Amick HR, Brown JM, et al. (2012) Behavioral 
+counseling after screening for alcohol misuse in primary care: A 
+systematic review and meta-analysis for the US Preventive Services 
+Task Force. Ann Int Med 157: 645–654.
+Jørgensen CH, Pedersen B and Tønnesen H (2011) The efficacy of disul-
+firam for the treatment of alcohol use disorder. Alcohol Clin Exp Res 
+35: 1749–1758.
+Kelly JF, Stout RL, Magill M, et al. (2011) Spirituality in recovery: A 
+lagged mediational analysis of Alcoholics Anonymous’ principal 
+theoretical mechanism of behavior change. Alcohol Clin Exp Res 35: 
+454–463.
+Kim YK, Na KS, Myint AM, et al. (2016) The role of pro-inflammatory 
+cytokines in neuroinflammation, neurogenesis and the neuroendo-
+crine system in major depression. Progr Neuro Psychopharmacol 
+Biol Psychiatry 64: 277–284.
+Kometer M, Schmidt A, Bachmann R, et al. (2012) Psilocybin biases 
+facial recognition, goal-directed behavior, and mood state toward 
+positive relative to negative emotions through different serotonergic 
+subreceptors. Biol Psychiatry 72: 898–906.
+Kraehenmann R, Preller KH, Scheidegger M, et al. (2015) Psilocybin-
+induced decrease in amygdala reactivity correlates with enhanced 
+positive mood in healthy volunteers. Biol Psychiatry 78: 
+572–581.
+Kraehenmann R, Schmidt A, Friston K, et al. (2016) The mixed sero-
+tonin receptor agonist psilocybin reduces threat-induced modulation 
+of amygdala connectivity. NeuroImage Clin 11: 53–60.
+Krebs TS and Johansen PØ (2012) Lysergic acid diethylamide (LSD) for 
+alcoholism: Meta-analysis of randomized controlled trials. J Psycho-
+pharmacol 26: 994–1002.
+Kurland AA, Unger S, Shaffer JW, et al. (1967) Psychedelic therapy uti-
+lizing LSD in the treatment of the alcoholic patient: A preliminary 
+report. Am J Psychiatry 123: 1202–1209.
+Lai HMX, Cleary M, Sitharthan T, et al. (2015) Prevalence of comor-
+bid substance use, anxiety and mood disorders in epidemiological 
+surveys, 1990–2014: A systematic review and meta-analysis. Drug 
+Alcohol Depend 154: 1–13.
+
+
+Garcia-Romeu et al.	
+13
+Lattin D (2012) Distilled Spirits: Getting High, Then Sober, with a 
+Famous Writer, a Forgotten Philosopher, and a Hopeless Drunk. 
+Berkeley, CA: University of California Press.
+Liechti ME, Dolder PC and Schmid Y (2017) Alterations of conscious-
+ness and mystical-type experiences after acute LSD in humans. Psy-
+chopharmacology 234: 1499–1510.
+Ludwig A, Levine J, Stark L, et al. (1969) A clinical study of LSD treat-
+ment in alcoholism. Am J of Psychiatry 126: 59–69.
+MacLean KA, Johnson MW and Griffiths RR (2011) Mystical experi-
+ences occasioned by the hallucinogen psilocybin lead to increases 
+in the personality domain of openness. J Psychopharmacol 25: 
+1453–1461.
+MacLean KA, Leoutsakos JMS, Johnson MW, et al. (2012) Factor analy-
+sis of the mystical experience questionnaire: A study of experiences 
+occasioned by the hallucinogen psilocybin. J Sci Study Relig 51: 
+721–737.
+Maisel NC, Blodgett JC, Wilbourne PL, et al. (2013) Meta-analysis of 
+naltrexone and acamprosate for treating alcohol use disorders: When 
+are these medications most helpful? Addiction 108: 275–293.
+Majić T, Schmidt TT and Gallinat J (2015) Peak experiences and the 
+afterglow phenomenon: When and how do therapeutic effects of hal-
+lucinogens depend on psychedelic experiences? J Psychopharmacol 
+29: 241–253.
+Mangini M (1998) Treatment of alcoholism using psychedelic drugs: A 
+review of the program of research. J Psychoactive Drugs 30: 381–
+418.
+Martin GW and Rehm J (2012) The effectiveness of psychosocial modal-
+ities in the treatment of alcohol problems in adults: A review of the 
+evidence. Can J Psychiatry 57: 350–358.
+Miller WR (1998) Researching the spiritual dimensions of alcohol and 
+other drug problems. Addiction 93: 979–990.
+Miller WR (2004) The phenomenon of quantum change. J Clin Psychol 
+60: 453–460.
+Miller WR and C’de Baca J (2001) Quantum Change: When Epiphanies 
+and Sudden Insights Transform Ordinary Lives. New York, NY: 
+Guilford Press.
+Miller WR, Walters ST and Bennett ME (2001) How effective is alco-
+holism treatment in the United States? J Stud Alcohol 62: 211–220.
+Moyer VA (2013) Screening and behavioral counseling interventions in 
+primary care to reduce alcohol misuse: US Preventive Services Task 
+Force recommendation statement. Ann Int Med 159: 210–218.
+Mueller F, Lenz C, Dolder PC, et al. (2017) Acute effects of LSD on 
+amygdala activity during processing of fearful stimuli in healthy sub-
+jects. Transl Psychiatry 7: e1084.
+Muthén LK and Muthén B (1998–2017) Mplus User’s Guide: Statistical 
+Analysis with Latent Variables. Los Angeles, CA: Authors.
+Nichols DE, Johnson MW and Nichols CD (2017) Psychedelics as 
+medicines: An emerging new paradigm. Clin Pharmacol Ther 101: 
+209–219.
+Nielson EM, May DG, Forcehimes AA, et al. (2018) The psychedelic 
+debriefing in alcohol dependence treatment: Illustrating key change 
+phenomena through qualitative content analysis of clinical sessions. 
+Front Pharmacol 9: 132.
+Nutt DJ, King LA and Nichols DE (2013) Effects of Schedule I drug 
+laws on neuroscience research and treatment innovation. Nat Rev 
+Neurosci 14: 577.
+Oliveira-Lima AJ, Santos R, Hollais AW, et al. (2015) Effects of ayahuasca 
+on the development of ethanol-induced behavioral sensitization and on 
+a post-sensitization treatment in mice. Physiol Behav 142: 28–36.
+Osmond H, Albahary R, Cheek F, et al. (1967) Some problems in the use 
+of LSD 25 in the treatment of alcoholism. In: Abramson HA (ed) 
+The Use of LSD in Psychotherapy and Alcoholism. Indianapolis, IN: 
+Bobbs-Merrill, pp. 434–457.
+Pahnke WN, Kurland AA, Unger S, et al. (1970) The experimental use of 
+psychedelic (LSD) psychotherapy. JAMA 212: 1856–1863.
+Palhano-Fontes F, Andrade KC, Tofoli LF, et al. (2015) The psychedelic 
+state induced by ayahuasca modulates the activity and connectivity 
+of the default mode network. PLoS One 10: e0118143.
+Palhano-Fontes F, Barreto D, Onias H, et al. (2019) Rapid antidepressant 
+effects of the psychedelic ayahuasca in treatment-resistant depres-
+sion: A randomized placebo-controlled trial. Psychol Med 49(4): 
+655–663.
+Piderman KM, Schneekloth TD, Pankratz VS, et al. (2008) Spirituality 
+during alcoholism treatment and continuous abstinence for one year. 
+Int J Psychiatry Med 38: 391–406.
+Preller KH, Pokorny T, Hock A, et al. (2016) Effects of serotonin 2A/1A 
+receptor stimulation on social exclusion processing. Proc Natl Acad 
+Sci 113: 5119–5124.
+Prue B (2013) Indigenous supports for recovery from alcoholism and 
+drug abuse: The Native American Church. J Ethn Cult Divers Soc 
+Work 22: 271–287.
+Reinert DF and Allen JP (2002) The alcohol use disorders identification 
+test (AUDIT): a review of recent research. Alcohol Clin Exp Res 
+26: 272–279.
+Roseman L, Nutt DJ and Carhart-Harris RL (2017) Quality of acute psy-
+chedelic experience predicts therapeutic efficacy of psilocybin for 
+treatment-resistant depression. Front Pharmacol 8: 974.
+Ross S (2012) Serotonergic hallucinogens and emerging targets for 
+addiction pharmacotherapies. Psychiatr Clin 35: 357–374.
+Ross S, Bossis A, Guss J, et al. (2016) Rapid and sustained symptom 
+reduction following psilocybin treatment for anxiety and depression 
+in patients with life-threatening cancer: A randomized controlled 
+trial. J Psychopharmacol 30:1165–1180.
+Ryan RM, Plant RW and O’Malley S (1995) Initial motivations for 
+alcohol treatment: Relations with patient characteristics, treatment 
+involvement, and dropout. Addict Behav 20: 279–297.
+Rucker JJ, Iliff J and Nutt DJ (2018) Psychiatry & the psychedelic drugs. 
+Past, present & future. Neuropharmacology 142: 200–218.
+Rupp CI, Derntl B, Osthaus F, et al. (2017) Impact of social cognition 
+on alcohol dependence treatment outcome: Poorer facial emotion 
+recognition predicts relapse/dropout. Alcohol Clin Exper Res 41: 
+2197–2206.
+Saitz R (2005) Clinical practice. Unhealthy alcohol use. N Engl J Med 
+352: 596–607.
+Saitz R (2010) Alcohol screening and brief intervention in primary care: 
+Absence of evidence for efficacy in people with dependence or very 
+heavy drinking. Drug Alcohol Rev 29: 631–640.
+Saunders JB, Aasland OG, Babor TF, et al. (1993) Development of the 
+alcohol use disorders identification test (AUDIT): WHO collabora-
+tive project on early detection of persons with harmful alcohol con-
+sumption-II. Addiction 88: 791–804.
+Savage C and McCabe OL (1973) Residential psychedelic (LSD) therapy 
+for the narcotic addict: A controlled study. Arch Gen Psychiatry 28: 
+808–814.
+Schmid Y and Liechti ME (2018) Long-lasting subjective effects of LSD 
+in normal subjects. Psychopharmacology 235: 535–545.
+Sellers EM and Leiderman DB (2018) Psychedelic drugs as therapeutics: 
+No illusions about the challenges. Clin Pharmacol Ther 103: 561–564.
+Sessa B (2018) Why MDMA therapy for alcohol use disorder? And why 
+now? Neuropharmacology 142: 83–88.
+Sessa B and Johnson MW (2015) Can psychedelic compounds play a part 
+in drug dependence therapy? Br J Psychiatry 206: 1–3.
+Smart RG, Storm T, Baker EF, et al. (1966) A controlled study of lyser-
+gide in the treatment of alcoholism. 1. The effects on drinking behav-
+ior. Quart J Stud Alcohol 27: 469–482.
+Smith CM (1958) A new adjunct to the treatment of alcoholism: The hal-
+lucinogenic drugs. Quart J Stud Alcohol 19: 406–417.
+Smith CM (1959) Some reflections on the possible therapeutic effects of 
+the hallucinogens; with special reference to alcoholism. Quart J Stud 
+Alcohol 20: 292–301.
+
+
+14	
+Journal of Psychopharmacology 00(0)
+Spitzer M, Thimm M, Hermle L, et al. (1996) Increased activation of indirect 
+semantic associations under psilocybin. Biol Psychiatry 39: 1055–1057.
+Stahre M, Roeber J, Kanny D, et al. (2014) Contribution of excessive 
+alcohol consumption to deaths and years of potential life lost in the 
+United States. Prev Chronic Dis 11: E109. doi: 10.5888/pcd11.130293
+Strassman RJ and Qualls CR (1994) Dose-response study of N, N-dimeth-
+yltryptamine in humans: I. Neuroendocrine, autonomic, and cardio-
+vascular effects. Arch Gen Psychiatry 51: 85–97.
+Strassman RJ, Qualls CR, Uhlenhuth EH, et al. (1994) Dose-response 
+study of N, N-dimethyltryptamine in humans: II. Subjective effects 
+and preliminary results of a new rating scale. Arch Gen Psychiatry 
+51: 98–108.
+Stroud JB, Freeman TP, Leech R, et al. (2018) Psilocybin with psycho-
+logical support improves emotional face recognition in treatment-
+resistant depression. Psychopharmacology 235: 459–466.
+Substance Abuse and Mental Health Services Administration (SAMHSA) 
+and National Institute on Alcohol Abuse and Alcoholism (NIAAA) 
+(2015) Medication for the Treatment of Alcohol Use Disorder: A Brief 
+Guide. HHS Publication No. (SMA) 15-4907. Rockville, MD: Sub-
+stance Abuse and Mental Health Services Administration.
+Tagliazucchi E, Carhart-Harris R, Leech R, et al. (2014) Enhanced rep-
+ertoire of brain dynamical states during the psychedelic experience. 
+Hum Brain Mapp 35: 5442–5456.
+Thomas G, Lucas P, Capler NR, et al. (2013) Ayahuasca-assisted ther-
+apy for addiction: Results from a preliminary observational study in 
+Canada. Curr Drug Abuse Rev 6: 30–42.
+Tomsovic M and Edwards RV (1970) Lysergide treatment of schizo-
+phrenic and nonschizophrenic alcoholics: A controlled evaluation. 
+Quart J Stud Alcohol 31: 932–949.
+Tupper KW, Wood E, Yensen R, et al. (2015) Psychedelic medicine: A 
+re-emerging therapeutic paradigm. CMAJ 187: 1054–1059.
+US Department of Health and Human Services (DHHS) (2005) Help-
+ing Patients Who Drink Too Much: A Clinician’s Guide. Bethesda 
+,MD: National Institute on Alcohol Abuse and Alcoholism. Avail-
+able at: http://pubs.niaaa.nih.gov/publications/Practitioner/Clinicians-
+Guide2005/guide.pdf (accessed 2 May 2018).
+Uthaug MV, van Oorsouw K, Kuypers KPC, et al. (2018) Sub-acute and 
+long-term effects of ayahuasca on affect and cognitive thinking style 
+and their association with ego dissolution. Psychopharmacol 235: 
+2979–2989.
+Vaillant GE (2003) A 60-year follow-up of alcoholic men. Addiction 98: 
+1043–1051.
+Vargas-Perez H, Grieder TE, Ting-A-Kee R, et  al. (2017) A single 
+administration of the hallucinogen, 4-acetoxy-dimethyltryptamine, 
+prevents the shift to a drug-dependent state and the expression of 
+withdrawal aversions in rodents. Eur J Neurosci 45: 1410–1417.
+Vasilaki EI, Hosier SG and Cox WM (2006) The efficacy of motivational 
+interviewing as a brief intervention for excessive drinking: A meta-
+analytic review. Alcohol Alcohol 41: 328–335.
+Vollenweider FX, Leenders KL, Scharfetter C, et  al. (1997) Posi-
+tron emission tomography and fluorodeoxyglucose studies of 
+metabolic hyperfrontality and psychopathology in the psilocybin 
+model of psychosis. Neuropsychopharmacology 16:357–372.
+Weiss RD, O’Malley SS, Hosking JD, et al. (2008) Do patients with alco-
+hol dependence respond to placebo? Results from the COMBINE 
+Study. J Stud Alcohol Drugs 69: 878–884.
+Winstock AR, Kaar S and Borschmann R (2014) Dimethyltryptamine 
+(DMT): Prevalence, user characteristics and abuse liability in a large 
+global sample. J Psychopharmacol 28: 49–54.
+World Health Organization (WHO) (2018) Management of Substance 
+Abuse Unit: Global Status Report on Alcohol and Health, 2018. 
+Geneva: World Health Organization.

@@ -1,0 +1,84 @@
+{
+  "data": {
+    "article": {
+      "StudyID": "Faillace 1970",
+      "Citation": "Faillace LA, Vourlekis A, Szara S. Hallucinogenic Drugs in the Treatment of Alcoholism: A Two-year Follow-up. Comprehensive Psychiatry. 1970.",
+      "Title": "Hallucinogenic Drugs in the Treatment of Alcoholism: A Two-year Follow-up",
+      "Year": 1970,
+      "Corpus/Prefix": ".",
+      "Condition": "Alcohol",
+      "Substance": "DPT, DET, 6-FDET",
+      "IsObservational": "N",
+      "N": 12,
+      "AE_denominator": 11,
+      "ArmScope": "psychedelic_arm",
+      "PctFemale": 0,
+      "GenderCategory": "Male (inferred; all individually discussed subjects referred to with he/his pronouns, no female pronouns used, no explicit gender statement given)",
+      "PctBIPOC": ".",
+      "PctIndigenous": ".",
+      "SafetyReported": "Y",
+      "AnyAEReported": "Y",
+      "NumDistinctAEs": 3,
+      "NParticipantsWithAE": 3,
+      "WorstSeverity": "Severe",
+      "text_source": "born-digital",
+      "Model": "claude-sonnet-5",
+      "PromptVersion": "ae_extraction_prompt_v1",
+      "RubricVersion": "severity_rubric_v1",
+      "Temperature": 1
+    },
+    "ae_events": [
+      {
+        "AE_ID": "Faillace 1970_AE01",
+        "StudyID": "Faillace 1970",
+        "AE_type": "AE",
+        "Description": "Subject 3 became depressed, relapsed to heavy drinking, and was hospitalized for a severe suicide attempt at 2-yr follow-up",
+        "Onset": "delayed",
+        "Severity": "Severe",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "rubric",
+        "InterventionRequired": "Y",
+        "MeetsFDASerious": "Y"
+      },
+      {
+        "AE_ID": "Faillace 1970_AE02",
+        "StudyID": "Faillace 1970",
+        "AE_type": "AE",
+        "Description": "Subject 8, hospitalized at 2-yr follow-up, died shortly afterward from continued drinking and excessive Thorazine ingestion",
+        "Onset": "delayed",
+        "Severity": "Severe",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "Y"
+      },
+      {
+        "AE_ID": "Faillace 1970_AE03",
+        "StudyID": "Faillace 1970",
+        "AE_type": "AE",
+        "Description": "One subject (unnamed) speculated his continued heavy drinking might reflect brain damage secondary to the drug treatment; self-reported, unconfirmed",
+        "Onset": "delayed",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "Y",
+        "SeveritySource": "rubric",
+        "InterventionRequired": ".",
+        "MeetsFDASerious": "N"
+      }
+    ]
+  },
+  "rationale": {
+    "article": {
+      "IsObservational": "Borderline call, flagged per prompt guidance on open-label single-arm trials. The paper being extracted is framed as a naturalistic 2-year follow-up survey (mail/in-person contact, no new intervention delivered in this paper), which reads observationally. However, its own Methods section describes the underlying treatment as a structured research protocol in which 'the drugs DPT, DET and 6-FDET were administered in a random design' at fixed doses (0.7/1.0/1.3 mg/kg) with continuous physiological monitoring in a dedicated research ward -- i.e., randomization to arms and an interventional protocol run for research purposes, not usual care. Set to 'N' on the strength of that explicit randomized/interventional treatment design; a human reviewer may reasonably override to 'Y' given the follow-up-survey framing of this specific paper and the lack of any control/comparator group.",
+      "N": "Set to 12 (enrolled cohort; 'Twelve chronic, nonpsychotic alcoholic patients volunteered...', age range/mean reported for this group). Two-year follow-up OUTCOME data was obtained on only 11 of the 12 (Subject 12 was lost to follow-up). Separately, the closing summary paragraph states 'Of the 18 subjects, three were relatively stable, eight were drinking or hospitalized... and one subject was lost to follow-up' -- this '18' is internally inconsistent with 'Twelve chronic alcoholic patients... were evaluated' in the same paragraph and with every other N given in the article (and 3+8+1=12, not 18). Per input-fidelity instructions this is reported as printed and flagged, not silently 'corrected'; N=12 was used based on the overwhelming consistency of that figure elsewhere, not by decoding the '18'.",
+      "AE_denominator": "Set to 11 -- the population for whom 2-year follow-up data (during which the coded AEs occurred) was actually obtained, per 'data was obtained on 11 of the 12 subjects.' The 12th subject (lost to follow-up) is excluded from this denominator.",
+      "PctFemale / GenderCategory": "No explicit statement of sex/gender composition anywhere in the article. Inferred all-male from consistent use of 'he/his' for every individually discussed subject (Subjects 1, 3, 8, 9, 10, 11) and zero instances of 'she/her'. Flagged because this is an inference from pronoun usage, not an explicit demographic statement.",
+      "SafetyReported / AnyAEReported": "The article is not structured as a formal safety/AE report -- no systematic tabulation of side effects from the drug sessions themselves is given (despite stating physiological measures were continuously recorded during two of the five sessions). However, the follow-up narrative does report a severe suicide attempt (Subject 3) and a death associated with excessive Thorazine ingestion during a relapse (Subject 8), plus one subject's own speculation about drug-related brain damage. These were coded as reported safety-relevant events per the instruction that understating harm is the cardinal error for this dataset, even though the article does not explicitly attribute them causally to the hallucinogen treatment (both occurred ~2 years post-treatment, in the context of relapse to heavy drinking) -- flagging for human review whether these should be counted as AEs of the psychedelic intervention or as background morbidity/mortality of severe, unremitted alcoholism.",
+      "Title/Year confirmation": "Journal masthead found in running text: 'COMPREHENSIVE PSYCHIATRY, VOL. 11, No. 1 (JANUARY), 1970', p.51 -- confirms the given Year=1970 and identifies the journal as Comprehensive Psychiatry, which is absent from the given Citation string."
+    },
+    "ae_events": {
+      "Faillace 1970_AE01": "Graded Severe: hospitalization for a suicide attempt meets the FDA 'inpatient hospitalization' and 'life-threatening event' seriousness criteria. Onset coded 'delayed' since it occurred at the 2-year follow-up point, well after the drug sessions. Causal link to the hallucinogen treatment vs. to depressive relapse/resumed heavy drinking is not asserted by the authors and is uncertain.",
+      "Faillace 1970_AE02": "Graded Severe (death = CTCAE Grade 5 / FDA seriousness criterion 'death'), regardless of proximate cause (drinking + excessive Thorazine ingestion). Onset 'delayed' -- occurred shortly after a 2-year-follow-up hospitalization. InterventionRequired coded '.' -- article gives no detail on any intervention attempted before death. As with AE01, the article does not causally link this event to the hallucinogen treatment itself; it occurred amid relapse to heavy drinking roughly two years post-treatment.",
+      "Faillace 1970_AE03": "Under-specified AE: a single subject's own speculation that ongoing heavy drinking might reflect brain damage 'secondary to his drug treatment,' with no clinical/diagnostic confirmation anywhere in the article. No intervention, outcome, or seriousness signal is present, so per the rubric this defaults to Mild with SeverityIndeterminate='Y'. Included per the safety-dataset principle of not silently dropping a patient-raised safety concern, but a human reviewer should note this is unconfirmed and self-reported, not a clinical finding."
+    }
+  }
+}

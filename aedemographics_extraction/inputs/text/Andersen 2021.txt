@@ -1,0 +1,1678 @@
+This article has been accepted for publication and undergone full peer review but has not been 
+through the copyediting, typesetting, pagination and proofreading process, which may lead to 
+differences between this version and the Version of Record. Please cite this article as doi: 
+10.1111/ACPS.13249
+ This article is protected by copyright. All rights reserved
+MR KRISTOFFER ANDREAS AAMODT ANDERSEN (Orcid ID : 0000-0002-9313-4459)
+DR DAVID  ERRITZOE (Orcid ID : 0000-0002-7022-6211)
+Article type      : Systematic Review or Meta-analysis
+Corresponding Author Email ID:  d.erritzoe@imperial.ac.uk
+Title:
+Therapeutic effects of classic serotonergic psychedelics: A systematic 
+review of modern-era clinical studies.
+Kristoffer A. A. Andersen1,2), Robin Carhart-Harris1), David J. Nutt2), David Erritzoe 1,2) 
+1) Centre for Psychedelic Research, Division of Psychiatry, Imperial College London, London, 
+United Kingdom.
+2) Centre for Neuropsychopharmacology, Division of Psychiatry, Imperial College London, 
+London, United Kingdom.
+Short title:
+Review of modern-era psychedelic therapy trials
+ABSTRACT
+Objective: To conduct a systematic review of modern-era (post-millennium) clinical studies 
+Accepted Article
+
+
+This article is protected by copyright. All rights reserved
+assessing the therapeutic effects of serotonergic psychedelics drugs for mental health conditions. 
+Although the main focus was on efficacy and safety, study characteristics, duration of 
+antidepressants effects across studies, and the role of the subjective drug experiences were also 
+reviewed and presented. 
+Method: A systematic literature search (1st Jan 2000 to 1st May 2020) was conducted in Pubmed 
+and Psychinfo for studies of patients undergoing treatment with a serotonergic psychedelic. 
+Results: Data from 16 papers, representing 10 independent psychedelic-assisted therapy trials 
+(psilocybin=7, ayahuasca = 2, LSD=1) were extracted, presented in figures and tables, and 
+narratively synthesized and discussed. Across these studies, a total of 188 patients suffering either 
+anxiety and/or depressive symptoms associated with cancer (C-RPD), major depressive disorder 
+(MDD), obsessive compulsive disorder (OCD) or substance use disorder (SUD) were included. 
+The reviewed studies established feasibility and evidence of safety, alongside promising early data 
+of efficacy in the treatment of depression, anxiety, OCD, and tobacco and alcohol use disorders. 
+For a majority of patients, the therapeutic effects appeared to be long-lasting (weeks-months) after 
+only 1 to 3 treatment session(s). All studies were conducted in line with guidelines for the safe 
+conduct of psychedelic therapy and no severe adverse events were reported. 
+Conclusion: The resurrection of clinical psychedelic research provides early evidence for 
+treatment efficacy and safety for a range of psychiatric conditions, and constitutes an exciting new 
+treatment avenue in a health area with major unmet needs.
+Keywords: psychedelic, LSD, ayahuasca, DMT, psilocybin, 5HT, serotonergic.
+Summations
+
+Promising early support for therapeutic effects of psychedelic compounds as adjunct 
+to psychotherapy for mood disorders and addictions.  
+
+Apparent long-lasting effects for weeks/months after single interventions.
+
+The nature of the psychedelic experience is in most studies predictive of mid-term 
+and long-term treatment outcomes. 
+Limitations.
+
+Despite the promising efficacy and safety results presented in this review, evidence 
+Accepted Article
+
+
+This article is protected by copyright. All rights reserved
+for psychedelic therapy is to be considered preliminary at this stage.
+
+Additional evidence from ongoing and future larger-scale controlled studies using 
+placebo or comparator conditions and/or multiple doses will allow for firmer 
+conclusions about both efficacy and safety.
+Data availability statement:
+Data sharing is not relevant for this article, as no new data were created or analyzed in this article. 
+Conflict of interest: The author(s) declared the following potential conflicts of interest with 
+respect to the research, authorship, and/or publication of this article: D Nutt is advisor at Compass 
+Pathways and AWAKN Life Sciences. R Carhart-Harris is advisor at Entheon Biomedical, Small 
+Pharma and Synthesis Institute. D Erritzoe is advisor at Field Trip Health And Small Pharma. K 
+Andersen is director at the Norwegian Association for Psychedelic Science (NFPV). 
+INTRODUCTION
+Inspired by early reports on the unique subjective effects of lysergic acid diethylamide 
+(LSD) in the late 1940s - early 1950s, psychedelic compounds became widely used among 
+psychologists and psychiatrists in both research and clinical practice in the 1950-60s. In total, an 
+estimate of more than 40.000 patients underwent “psychedelic psychotherapy” over a period of 
+about 15-20 years, and by 1961 over 1000 papers had been published on the clinical science of 
+LSD, psilocybin, DMT and mescaline 1.  
+Psychedelics were initially tested in a series of studies comparing their acute effects to the 
+symptoms of schizophrenia, later creating the rationale for a biochemical theory on model 
+psychosis 2,3. However, the most significant aspect of the psychedelic research in that period was 
+on these compounds’ therapeutic potential. Studies were carried out for a range of psychiatric 
+indications, hereunder in patients suffering chronic alcoholism 4-15, obsessive neurosis 16-19, 
+chronic pain 20, opioid dependence 21, and anxiety associated with cancer 22. 
+A recent meta-analysis of such early studies of LSD’s therapeutic efficacy for treatment of 
+alcoholism included data from more than 500 participants, and found evidence for a beneficial 
+effect of LSD on alcohol misuse 23. Another recent systematic review of 19 studies of psychedelic 
+Accepted Article
+
+
+This article is protected by copyright. All rights reserved
+therapy for unipolar mood disorders carried out between 1949 and 1973 reported that 79% showed 
+clinician-judged improvement on depressive symptoms after treatment with a psychedelic 24. 
+Although some studies were of relatively high scientific quality in this period, most did not live up 
+to today’s standards in psychological and pharmacological research. Typically, researchers did not 
+pay the same stringent attention to patient screening/inclusion, control groups/conditions, blinding 
+procedures, standardized and continuous clinical assessments, assessment of side-effects - limiting 
+the potential for firm conclusions on the clinical efficacy and safety of this form of therapy 24. 
+However, popular and countercultural movements increasingly embraced psychedelics 
+during this period, and in combination with some examples of controversial psychedelic science 
+being carried out 25,26, this eventually led to legislations that put an end to this period of early 
+psychedelic research. In addition, it has also been suggested that the introduction of novel 
+conventions about how to conduct state of the art randomized clinical trials, exemplified by the 
+“1962 Drug Efficacy Amendment" to the Federal Food, Drug, and Cosmetic Act in the US, might 
+have played a role in the field’s downfall 27. The emphasis on context, or “setting”, when 
+conducting psychedelic therapy made it hard to subjugate this therapy to a model mainly aimed for 
+trialing new pharmaceuticals where the focus was on a ‘pure’ pharmacological action. Studies that 
+neglected a therapeutic setting and support  generally failed to produce the same positive outcomes 
+27. After the main drug provider stopped manufacture and psychedelics were placed in Schedule 1 
+of the 1970’s controlled substance act in the United States 28,29, psychedelic research was 
+effectively ended. 
+However, over the last couple of decades, a renewed interest in the classic serotonergic 
+psychedelic compounds has emerged from different scientific fields. Neuroscientists currently 
+apply modern brain imaging techniques such as positron emission tomography (PET) 30-33, single 
+photon emission computer tomography (SPECT) 34,35, magnetic resonance imaging (MRI)36,37 38,39, 
+electroencephalogram (EEG)40 41, and magnetoencephalography (MEG) 36  to the study of these 
+drugs in the lab, allowing for new and valuable understandings about their brain mechanisms 
+including neuro-correlates of their unique psychological effects. 
+Outside the lab setting, this research is supplemented by naturalistic studies into the impact 
+of the recreational use of psychedelics. Thus, large-scale epidemiological studies in 100,000+ 
+individuals have reported that past psychedelic use is associated with reduced recent psychological 
+distress and suicidality 42,43. Naturalistic prospective studies in users of the psychedelic brew, 
+ayahuasca (that has n,n-DMT as its active psychedelic), in religious contexts support these 
+Accepted Article
+
+
+This article is protected by copyright. All rights reserved
+findings; with first time users showing acute reductions in minor psychiatric distress 44, as well as 
+reductions in personality measures of harm avoidance and reward dependence at six months 
+follow-up 45, and more recent prospective surveys have consolidated evidence for improvements 
+in mental-health outcomes with psychedelic use, also identifying important ‘contextual’ predictors 
+of response46. Long-term ayahuasca use has further been associated with enhanced neurocognitive 
+functioning and mood and with reduced impulsivity 47. However, cases of serious adverse events 
+such as manic and psychotic reactions in some ceremonial users of ayahuasca have been 
+documented 48.
+Lastly, experimental studies in healthy psychedelic naïve human volunteers, using single 
+administration(s) of classic psychedelics in a controlled and supported setting, have shown 
+improvements in psychological well-being 49 above active placebo, as well as increases in 
+measures of personality trait, ‘openness to experience’ 50. Intriguingly, these outcomes appear to 
+last for several months - much longer than the pharmacological presence of the actual compounds 
+– with DMT, psilocybin and LSD all having half-lives of less than 4 hours 51-53. More recently, 
+researchers have re-targeted intervention with psychedelics towards clinical populations, mainly 
+for treatment of depression, anxiety and addiction 54. Typically, psychedelic-assisted therapy 
+involves only one single (or a couple of) session(s) with administration of a moderate to high dose 
+of a psychedelic compound with the aim to evoke peak 53 or mystical-type 55 experiences, 
+characterized by profound meaningfulness, connectedness 56, accompanied by a sense of oneness 
+or unity 49,57. 
+Aims of the study
+The aim of this systematic review is to collate the literature and provide an overview of the 
+new (post-millennium) wave of clinical studies on the therapeutic effects of serotonergic 
+hallucinogenic drugs in treatment of psychiatric disorders. Specifically, this article will focus on 
+preliminary evidence for the efficacy and safety of these treatments, the duration of their effects, 
+and the role of the subjective psychedelic experience.
+METHODS
+Search 
+Accepted Article
+
+
+This article is protected by copyright. All rights reserved
+The Systematic Reviews and Meta-Analysis guidelines (PRISMA) served as guiding 
+principles for the data collection for this review. A systematic literature search was performed 
+using PubMed and PsychINFO databases and was restricted to studies published in English 
+between January 1st 2000 and May 1st 2020. The start of the search period was informed by 
+previous literature reviews that were not able to identify any clinical research trials published 
+between 1982-2000 58,59. The search was conducted with the following search string: 
+“schizophrenia OR OCD OR cancer OR anxiety OR depression OR PTSD OR substance use OR 
+addiction AND (Psilocybin OR DMT OR LSD OR Mescaline OR Ayahuasca) AND treatment”. 
+The search words were identical in both databases, however syntax was modified to meet 
+requirements of the individual databases. 
+Eligibility criteria 
+Both single-blind and double-blind placebo-controlled randomized trials, open label trials, 
+and proof of concept trials in mental health patient populations were included. Additional follow-
+up papers providing long-term data of the clinical trials were also included. Only articles 
+published in peer-reviewed journals were included in the systematic search. Case reports, 
+observational studies and cross-sectional studies were not included. 
+Participants
+Adult patients (18 years +) with a psychiatric disorder diagnosed by their general 
+practitioner and/or by structured clinical interview based on DSM or ICD criteria. 
+Interventions
+Trials included in the review are limited to those administering one or more doses of a 
+classic serotonergic psychedelic drug in a controlled lab-setting. The term “classic serotonergic 
+psychedelic drug” covers the four drugs; Psilocybin, LSD, Ayahuasca (n,n-DMT) and Mescaline. 
+Outcome measures
+Only studies assessing primary outcomes using reliable and validated self-report and/or 
+clinician administered symptom rating scales were included.
+Data extraction
+Accepted Article
+
+
+This article is protected by copyright. All rights reserved
+All non-duplicated studies were screened by two authors (KA and DE). From each 
+included trial the following data was extracted: (1) year of publication and names of authors; (2) 
+psychiatric exclusion criteria; (3) Participant characteristics (age, ethnicity, gender, diagnosis, 
+previous exposure to drug, and sample size); (4) type of study design (including randomization, 
+blinding, experimental condition groups); (5) type of pharmacological intervention (including 
+type, comparator, dose, frequency); (6) type of non-drug intervention (including description of 
+psychotherapeutic/psychosocial intervention, frequency and total hours); (7) type of clinical 
+outcome measure (including level of clinical response, clinical remission, symptom reduction and 
+length of follow up); (8) Assessment of the participants subjective experience during drug effects 
+(including type of instrument used and potential correlations with clinical outcome data); (9) type 
+of side-effect measure/collection method (including number of reported side effects).
+RESULTS
+Study selection
+The systematic search identified 671 references. Fourteen references automatically 
+identified as duplicates (Endnote X9). 657 references were screened based on titles and abstracts, 
+641 records were excluded in screening, leaving 16 potential research papers. Full text reports of 
+the 16 identified research papers were assessed according to eligibility criteria. All 16 are included 
+in this systematic review, ten of these papers represent unique clinical trials with oral 
+administration of serotonergic psychedelics; seven trials on psilocybin 60-66 two trials on 
+DMT/Ayahuasca 67,68 and one trial on LSD 69. Two recent papers 35,70 provided additional 
+participants and data to their original trials 64,68. Outcome data was only extracted from the most 
+recent trials; however, procedures and trial designs were extracted from one or both (including 
+supplementary files). Three papers are pure follow-up studies on the same original trial samples 71-
+73.
+Heterogeneity 
+Due to strong heterogeneity between the trials (trial designs, frequency of drug 
+administration, drug type and patient populations) a quantitative meta-analysis of the included 
+trials was deemed inappropriate. Two trials, both investigating psilocybin for cancer related 
+anxiety and depression65,66, are however quite similar, but due to missing descriptive statistics 
+(standard deviation and confidence intervals), a meta-analysis of these two trials were not 
+Accepted Article
+
+
+This article is protected by copyright. All rights reserved
+performed. Instead the extracted data were synthesized narratively. Data from the ten trials are 
+presented in text and synthesized to table form grouped into three broad diagnostic categories; 
+Mood and anxiety disorders (n=4), cancer related anxiety and depression disorders (n=4), and 
+substance use disorders (n=2), these are listed in table 1, 2 and 3, respectively. 
+Study characteristics
+The included trials covers five different diagnostic groups; cancer related anxiety and 
+depression disorders 61,65,66 [C-RADD], illness-related anxiety and depression disorders 69 [I-
+RADD), depressive disorders 35,64, obsessive compulsive disorder 60 [OCD], and substance use 
+disorders 63,74 [SUD]. Four trials 67,72,75,76 used a randomized, placebo (including active placebo) 
+controlled, crossover design, allowing for both comparison of the placebo versus active drug 
+effects as well as , and pre-post analyses of the collapsed groups (including crossover subjects) 
+from baseline to follow-up. Four trials 35,64,74,77 were open label allowing for within-group pre-post 
+treatment analyses only. One trial 60 utilized a pre/post-test design, with a randomized order of 
+drug dose administration, however, it provided no comparison between groups. Another trial 78 
+was designed as a randomized controlled trial, however it provided no data of the between-group 
+comparison, thus it was treated in this review as an open label trial. Six trials were conducted in 
+USA, two trials were conducted in Brazil, one in the UK and one in Switzerland. A total of 201 
+patients were studied (89 with C-RADD, 12 with I-RADD, 66 with depression, 25 with SUD, 9 
+with OCD). A total of 188 patients (95 female) received at least one active dose of a serotonergic 
+psychedelic drug (327 unique dosages, 264 active doses, and 63 very low/ active placebo doses). 
+Inactive placebos were administered to 54 participants, with 39 of these also receiving a 
+psychedelic due to crossover trial designs. Supplementary table 4 presents trial characteristics; 
+including participant characteristics, trial design, pharmacological and psychosocial interventions, 
+and employed clinical outcome measure. Psychiatric exclusion criteria for each trial are listed in 
+suppl. table 5.
+Non-drug psychotherapy interventions 
+The psychotherapeutic interventions outside the psychedelic session day varied both in 
+quantity and type. Two trials, one investigating psilocybin for C-RADD and one LSD for I-RADD 
+65,69 both delivered integrative psychotherapy, e.g. integrating aspects from humanistic, existential, 
+psychodynamic, body-awareness, mindfulness and cognitive behavioral therapy. In the psilocybin 
+Accepted Article
+
+
+This article is protected by copyright. All rights reserved
+for smoking cessation trial74 cognitive behavioral therapy (CBT) was delivered. In the other 
+substance abuse trial in which psilocybin was tested for alcohol dependence 63, both CBT and 
+motivational enhancement therapy were employed. Three trials (psilocybin for I-RADD, TR-D, 
+and C-RADD) 61,64,66 provided structured sessions, defined as psychosocial interventions in suppl. 
+table 6, prior to and following the psychedelic sessions, with focus on building rapport, preparing 
+for, and debriefing/reflecting on, the psychedelic experience. They did however not explicitly state 
+information regarding type of therapy provided thus providing uncertainty about the content of 
+these sessions. Three trials (psilocybin for OCD, and two trials testing ayahuasca for 
+depression)35,60,67 did not provide any sort of psychotherapy or psychosocial interventions to their 
+participants. A vote counting table was created to present individual trial variables related to 
+procedures and psychosocial/psychotherapeutic interventions (table 6 in supplementary).
+Depression rating scales
+Across the included papers, depression was measured with the following scales: Beck’s 
+depression inventory [BDI] 79, Montgomery-Åsberg Depression Rating Scale [MADRS] 80, 
+Hamilton Depression Rating Scale [HAM-D] 81, GRID Hamilton depression rating scale 17 
+[GRID-HAM-D-17] 82, Snaith-Hamilton Pleasure Scale [SHAPS] 83, Quick inventory of 
+depressive symptomatology self-report [QIDS-SR] 84, Profile of Mood States [POMS] 85, and the 
+depression subscale of the Hospital Anxiety and depression Scale [HADS-D] 86. BDI, QIDS-SR, 
+POMS, SHAPS and HADS-D are self-rated measures of depression, while MADRS, HAM-D and 
+GRID-HAM-D-17 are clinician administered.
+Anxiety rating scales
+Measures of anxiety was collected using Spielberger’s State-trait Anxiety Index [STAI-T 
+& STAI-S] 87, anxiety subscale of the Hospital Anxiety Depression Scale [HADS-A] 86 and 
+Hamilton Anxiety Rating Scale [HAM-A] 88. STAI-T, STAI-S and HADS-A are patient rated 
+measures, while the HAM-A is a clinician rated instrument.
+Substance use assessments
+Measurements of treatment outcome related to substance use/dependence disorders were 
+collected using Time-Line Follow back (TLFB). TLFB is a retrospective calendar for self-report 
+daily substance use 89. Biological markers of Nicotine dependence were collected in urine and 
+Accepted Article
+
+
+This article is protected by copyright. All rights reserved
+breath. Urine samples were lab analyzed for cotinine levels, sensitive to detecting past 6 day use. 
+Breath carbon monoxide (CO) were collected using Bedfont Micro lll Smokalizer instrument, 
+sensitive at detecting nicotine use past 24 hours 74.  
+OCD rating scales
+Symptoms of OCD were measured with a patient rated visual analogue scale for overall 
+obsessive-compulsive symptom severity (lacking information regarding which scale) and the 
+clinician administered Yale-Brown obsessive compulsive scale [YBOCS] 90.
+Subjective experience rating scales
+Across the included studies, the subjective drug experience were measured by the 
+following scales: The Mystical Experience Questionnaire 30 item version [MEQ30] and 43 item 
+version (MEQ43) 91,92, 11-Dimensional altered states of consciousness questionnaire [11D-ASC] 
+93, 5-Dimentional altered states of consciousness questionnaire [5D-ASC] 94, Hallucinogen rating 
+scale [HRS] 95, and State of consciousness questionnaire [SOCQ] 91. Both the MEQ30 and 
+MEQ43 are embedded within the 100-item States of consciousness questionnaire [SOCQ] and 
+thus requires administration of the SOCQ 91. See supplementary table 7 for details. 
+Mood and anxiety disorders
+In an open-label trial by Sanches and colleagues 35, 17 patients with recurrent major 
+depressive disorder (DSM-IV diagnosed) participated received one oral dose of ayahuasca 
+(1.76mg/kg n,n-DMT). In study there was no control condition and participants therefore served as 
+their own controls. They had an average HAM-D score of 19.2 at baseline, and their symptoms 
+were assessed at baseline and again at 1, 2, 7, and 21 days post treatment.  Participants were 
+admitted to an inpatient ward for a 2 week stay prior to drug ingestion, including a complete taper 
+off any antidepressant medication. None of the participants had any history of illicit drug use or 
+any use of ayahuasca. Significant decreases in scores of depression (HAM-D, MADRS) and 
+scores of anxious-depression (subscale of Brief psychiatric rating scale) were observed at all 
+points of assessment post treatment (p< 0.001). 
+Palhano-Fontes and colleagues 96 also tested ayahuasca for treatment of depression. Here, 
+29 patients with treatment-resistant unipolar depression were randomized to either placebo or one 
+dose of freeze-dried ayahuasca brew (1.1mg/kg n,n-dmt). All participants had HAM-D score of 18 
+Accepted Article
+
+
+This article is protected by copyright. All rights reserved
+or more, with a mean of 21.8. All patients had a history of two or more failed antidepressant 
+treatments, and 23 had previously been in psychotherapy. None of the patients had any prior use of 
+ayahuasca. All participants were weaned off their antidepressant medications prior to drug 
+administration, however most were regular users of benzodiazepines. Significant between group 
+differences with a strong effect size are seen at day seven in favor of the Ayahuasca group (p= 
+0.019, d = 0.98).  At day seven, a significant difference in response rate were seen between the 
+ayahuasca group and placebo group, with a clinical response rate of 57% and 20%, respectively 
+(p= 0.04). No significant group differences were seen in remission rates, 43% in aya group vs. 
+13% in placebo (p=0.07). 
+In a London-based open-label, uncontrolled study by Carhart-Harris and colleagues, 20 
+patients with moderate (2/20) or severe (18/20) unipolar major treatment-resistant depression each 
+received two doses of psilocybin 97. Seventeen patients had previously received some form of 
+psychotherapy intervention, and all participants had a history of unsuccessful treatment of no less 
+than two different anti-depressant medication. Psilocybin was administered at a moderate [safety 
+test] dose (10mg), and one week later followed by a high dose (25mg). Significant short to mid-
+term reductions in Quick Inventory of Depressive Symptoms (QIDS-SR16) scores were seen on 
+assessments 1-5 weeks post therapy (d range = 2.1-2.3, p<0.001), as compared with baseline. 
+Long term assessments revealed sustained effects with significant effects sizes at 3 (d=1.5, 
+p<0.001) and 6 months (d=1.6, p=0.004) follow-up. Significant and sustained effects were also 
+seen on all secondary outcome depression (HAM-D, BDI), anxiety (STAI) and anhedonia 
+(SHAPS) measures at all points of assessment. 
+[ INSERT TABLE 1 – MOOD ANXIETY STUDY OUTCOMES ]
+Moreno and colleagues 60 recruited 9 TR-OCD patients with obsessive compulsive disorder 
+(OCD) for a modified double-blind study on psilocybin’s treatment efficacy, tolerability and 
+safety 60. All participants met DSM-IV criteria for OCD and were required to have at least one 
+earlier treatment failure with an SRI before study enrollment. None of the participants were 
+currently on anti-depressant medication during the trial. Participants were given up to four 
+administrations of psilocybin separated by at least one week, in an escalating dosage sequence of 
+100µg/kg, 200µg/kg and 300µg/kg. Following the first 100µg/kg session, each participant 
+received an active placebo-like dose (25µg psilocybin), which was randomly assigned once at any 
+Accepted Article
+
+
+This article is protected by copyright. All rights reserved
+of the remaining three sessions. Decreases in OCD symptoms score (YBOCS) were observed in 
+all nine subjects at one or more of the testing sessions, decreases ranged from 23-100%. Eight of 
+the nine subjects reported a symptom reduction of  ≥ 25%, while six of them experienced ≥ 50% 
+symptom reduction, as measured 24hours after at least one of the various psilocybin treatment 
+sessions. One subject qualitatively reported having achieved a sustained long-term remission at 6-
+month follow-up.
+End of life anxiety and depression
+Grob and colleagues 61 recruited 12 subjects for a double blind, placebo-controlled study 
+on psilocybin’s anxiolytic effects. Together with a life-threatening cancer diagnosis all participants 
+had a DSM-IV diagnosis of either acute stress disorder, generalized anxiety disorder, anxiety 
+disorder due to cancer, or adjustment disorder with anxiety (number of patients with each 
+diagnosis not reported). Every patient underwent a total of two experimental sessions; one active 
+placebo session (Niacin 250mg) and one psilocybin session (0.2mg/kg dose). The order of the 
+drug administration was randomized, with both the treatment staff and patients being blinded to 
+this procedure. Between groups and within group analysis was conducted. No significant between 
+groups differences were found on any of the outcome measures. Comparing means of the whole 
+group at baseline with scores at follow up (after both groups received the psilocybin) shows 
+significant reduction in trait anxiety at 1 and 3-months, and in depression at 6-month follow-up.  
+In a related trial, Peter Gasser and colleagues 69 evaluated the safety and efficacy of LSD-
+assisted psychotherapy in patients with anxiety related to chronic life-threatening illness (cancer, 
+chronic motor- or autoimmune disease). A total of 12 patients were enrolled for this double-blind, 
+randomized, active placebo-controlled pilot study. All patients had a baseline STAI trait or state 
+score of above 40 and met DSM-IV criteria for an anxiety or depression disorder, with the 
+majority meeting criteria for GAD (n=6) and/or Major depression (n=7). The participants were 
+allocated to receive two experimental sessions assisted by either active dose LSD (200µg) or LSD 
+at an active placebo dose (20µg), separated 2-3 weeks apart. Two months after the final 
+experimental session, the blinding subsided; participants in placebo group were allocated to an 
+additional open label crossover to the LSD (200µg) treatment condition.  Results at two-month 
+assessment after final experimental sessions show significant between group differences in state 
+anxiety (p = 0.021, F = 4.846, df = 2,18). Looking at the assessments after all participants have 
+received the full dose condition (after crossover, post-hoc within-group analysis) shows significant 
+Accepted Article
+
+
+This article is protected by copyright. All rights reserved
+reductions of trait and state anxiety at 2 and 12-month follow-up, as compared to scores at 
+baseline 72.
+Griffiths and colleagues 66 more recently conducted a study of psilocybin efficacy in 
+treatment of depressed mood and anxiety in psychologically distressed cancer patients 75. In 
+addition to a confirmed life-threatening cancer diagnosis, all participants met DSM-IV criteria for 
+the following disorders: chronic adjustment disorder with anxiety (n=11) or with mixed anxiety 
+and depression (n=11), MDD (n=14), dysthymic disorder (n=6), generalized anxiety (GAD) (n=5), 
+or a combination of GAD and MDD (n=4). Participants were randomly assigned to either a group 
+receiving a placebo-like low dose first (1 or 3 mg/70kg, or to a high dose first group (22 or 
+30mg/70kg), with a crossover to the opposite condition after 5 weeks. Clinical assessments were 
+performed at baseline, 5 weeks post dose 1 (prior to second dose), 10 weeks post dose 1 (5 weeks 
+post dose 2) and 6 months post dose 2. Five weeks after the first psilocybin session, the patients 
+who had received the high dose experienced significantly more pronounced decreases in measures 
+of depressed mood and anxiety when compared to patients who had received the low (placebo-
+like) dose. Thus, clinical significant anti-depressant response at 5 weeks post first drug session 
+was observed for 92% of the patients receiving the high dose, compared to a 32% response rate in 
+patients receiving the low dose. Similarly, significant results were seen for anxiety with clinical 
+response rates of 76% and 24%, for the high and low-dose group, respectively. Effects were 
+significant, immediately after receiving the high dose sessions, no matter what order patients 
+received the two sessions. These effects were for both groups sustained at 6 months’ follow-up. 
+Thus, at the 6 months follow-up, there was an average clinical response rate of 83% for anxiety 
+and 78% for depression among the whole group, with remission rates of 57% and 65%, 
+respectively. 
+In a similar study by Ross and colleagues 65, 29 cancer patients participated in a 
+randomized, double-blind, placebo controlled trial assessing the symptom reduction of psilocybin 
+assisted psychotherapy on anxiety and depression associated with life-threatening cancer 65. All 
+patients met DSM criteria of a psychiatric diagnosis related to anxiety of either adjustment 
+disorder (90%) or GAD (10%). Participants were randomly allocated to two groups, one group 
+receiving psilocybin first and other group receiving a non-active placebo, niacin, first, with a 
+crossover 7 weeks later to the opposite experimental condition. Clinical assessments were 
+conducted 1 day, 2 weeks, 6 weeks and 7 weeks (1 day prior to second dose) following the first 
+drug dose. Then 1-day, 6 weeks and 6 months post dose 2. The psilocybin first treatment group 
+Accepted Article
+
+
+This article is protected by copyright. All rights reserved
+achieved significant within-group reductions after their psilocybin dose, on all measures on 
+anxiety and depression, as compared to scores at baseline. These reductions were acute (one day 
+after), and significantly maintained at all points of assessment. At 7 weeks after the first psilocybin 
+dose there were significant clinical anti-depressive response rate in 83% of the patients (using 
+BDI) and a 58% anxiolytic response rate by measure of HADS-A (vs. a 14% response rate in the 
+placebo group for both measures). Symptom reductions were also significantly larger than what 
+was seen for the niacin first group for all clinical outcome measure assessments up until the cross 
+over. After receiving their psilocybin dose at cross-over, the niacin first group demonstrated 
+within-group symptom reductions similar to the psilocybin first group. For both groups, all clinical 
+outcome scores were significantly reduced at the 8 months’ follow-up in comparison with 
+baseline. Response rates at 8 months were ranging from 60-80% on all outcome measures (HADS-
+A, HADS-D, HADS-T and BDI). A recent long-term follow-up on the same sample73 shows that 
+for the surviving sample (n=15) 60-80% of these participants still met criteria for clinically 
+significant antidepressant or anxiolytic response at 4.5 year follow-up. Additionally, the reductions 
+in hopelessness, demoralization, and death anxiety seen in the original 8 month follow-up were 
+sustained at the 4.5 year follow-up.  
+[ INSERT TABLE  2 – END OF LIFE STUDY OUTCOMES ]
+[ INSERT FIGURE 1 – DEPRESSION OVER TIME ]
+Substance use disorder
+In an open-label trial, Bogenschutz and colleagues 63 assessed the effect of psilocybin 
+treatment in 10 patients with DSM-IV-established diagnosis alcohol dependence. Psilocybin was 
+administered at two separate occasions, first at week 4 (moderate-high dose of 21mg/70kg) and 
+second session at week 8 (high dose 28mg/70kg). The change in drinking behavior (change in 
+percent heavy drinking days assessed with TLFB) from baseline to 1 to 8 weeks after the first 
+psilocybin session, served as the primary study outcome. Drinking behaviour was divided into 
+number of days with any drinking (abbreviated TLFB AD) and number of days in which more 
+than 4 alcohol units were consumed (i.e. heavy drinking, abbreviated TLFB HD). Patients were 
+followed up for 32 weeks after their first psilocybin treatment, and compared to both baseline and 
+Accepted Article
+
+
+This article is protected by copyright. All rights reserved
+to the 4-week period prior to psilocybin administration, significant reductions in drinking days and 
+heavy drinking days were observed at all assessment time points throughout this 32 week follow 
+up period. 
+In another substance use disorder study, Johnson and colleagues 74 examined the feasibility 
+and safety of using psilocybin treatment to treat smoking dependence. Fifteen nicotine-dependent 
+smokers were included in the trial, and psilocybin was given in up to three sessions. Psilocybin 
+was administered at week 5 (moderate dose, 20mg/70kg), week 7 (high dose, 30mg/70kg) and 
+week 13 (moderate or high dose, 30mg/70kg). Monitoring of smoking cessation consisted of a 
+retrospective self-report calendar assessing smoking days, biomarker analysis of breath carbon 
+monoxide, and urine-cotinine. At 6 months’ follow-up, 80% of the participants (12/15) were 
+abstinent, and compared to baseline, all participants showed significant reductions in both self-
+reported daily smoking, urine cotinine, and breath carbon monoxide at this time point 74. In a 
+recent follow-up paper by the same authors 71, 67% (10/15) of the participants were still abstinent 
+after 12-months (confirmed by levels of urine cotinine and breath carbon monoxide) with 9 of 
+them abstinent at subsequent long-term follow-up (mean 30 months post-first psilocybin session). 
+Seven of the 
+nine reported continuous abstinence since first psilocybin session 71.
+[ INSERT TABLE 3 – SUBSTANCE USE STUDY OUTCOMES ]
+Quality of the subjective experience as clinical predictor.
+Except for the trial investigating ayahuasca for major depressive disorder35, all other 
+reviewed trials collected data on participant’s subjective psychedelic experience. Seven of these 9 
+trials reported on associations between these measures and primary clinical outcomes. Two trials 
+(one investigating psilocybin for I-RADD, and one investigating LSD for C-RADD) out of these 9 
+trials did report collecting subjective experience data but did not provide information about 
+conducting any analyses with such data. For the only trial testing psilocybin for OCD 60 a non-
+significant correlation was detected between HRS score and YBOCS score changes. 
+In the remaining 6 studies (1 x psilocybin for TR-D, 2 x psilocybin for C-RADD, 2 x 
+psilocybin for substance use disorder, and 1 x ayahuasca for depression) the magnitude of the 
+mystical/peak experience during the psychedelic treatment session was found to be a significant 
+predictor of short and mid/long term clinical benefits. Mystical/peak experience predicted short 
+Accepted Article
+
+
+This article is protected by copyright. All rights reserved
+term clinical outcomes (1-8 weeks) in 5 of these 6 studies 75-77,96,98, and long term clinical outcome 
+(30 months) in one trial (psilocybin for smoking cessation)99. 
+Additionally, non-significant correlations were also found in several trials. As an example, 
+in one trial (investigating psilocybin for cancer related anxiety and depression) MEQ30 measured 
+on the psilocybin dosing day did not significantly correlate with clinical outcome change scores 
+measured at long term follow up after 4.5 years 73. For a complete overview of the different 
+mystical/peak experience outcome measures and treatment outcome correlations for each study, 
+please see suppl. table 7.
+Setting
+In all trials included in this review, the active drug was administered in quite similar 
+controlled settings. Common for the psychedelic sessions in 9 of 10 of the trials are the following 
+five factors: 1) Session conducted individually in an isolated environment/specific room, 2) 
+treatment personnel present for the patient at all times (either in the same room, or in the room 
+next door), 3) participants instructed to listen to a standardized set of music while lying down on a 
+bed, or in a reclined chair, 4) Limit lightning by dimmed lights, and/or instructing patients to wear 
+eyeshades, 5) treatment staff providing non-directive psychosocial support if needed. The only 
+trial deviating from these five factors was the open label ayahuasca trial 35, where the music 
+component was not included. See table 6 (supplementary file) for tabular overview of each trial 
+setting.
+Adverse events
+Apart from the ayahuasca trial by Palhano-Fontes and colleagues67, all studies monitored 
+blood pressure (BP) and heart rate (HR). Across studies, BP and HR increases were reported to be 
+transient and dose-dependent (when more than one dose was used, 61,65), and typically peaking 
+about 2-3 hours post-dose with a subsequent steady return to pre-dose levels towards the end of 
+the sessions. There were no reports of any serious cardiovascular adverse events in any of the 
+trials. With regard to non-cardiovascular side-effects, the reporting varied between studies, with 
+some using systematic collections with formal questionnaires and observer ratings 35,66,74,96, while 
+others relied on less formalized patient reports or structured questioning during follow-up 
+60,61,65,69,70,77. For the ayahuasca trials, 31 ayahuasca doses were given to 31 patients, and the most 
+common side-effects reported purging (n=16, 52%), nausea (n=10, 32%) and transient anxiety 
+Accepted Article
+
+
+This article is protected by copyright. All rights reserved
+(n=7, 23%). Across the psilocybin trials, a total of 145 patients received 268 doses psilocybin. 
+Most common side-effects reported among this group were transient anxiety/fear (n=39, 27%), 
+headache (n=32, 22%), nausea or purging (n=18, 12%). In the single study using LSD, 11 patients 
+received 22 doses of LSD, and the most frequent adverse events were illusions (72.7%), feeling 
+cold (45.4 %), and a feeling of abnormality (40.9%). Overall, all reported side effects were mild 
+and transient. See suppl. table 8 for complete overview of reported side-effects. 
+DISCUSSION
+We systematically reviewed 10 post-millennium psychedelic-assisted therapy studies (16 
+papers) for mental health indications, with a total of 188 patients being dosed with psilocybin, 
+LSD or ayahuasca/DMT. Overall, these trials established feasibility and evidence of safety, 
+alongside promising early data of efficacy in the treatment of depression / depressive symptoms, 
+anxiety, OCD, and tobacco and alcohol use disorders. Importantly, all the reviewed studies were 
+conducted in line with guidelines for the safe conduct of psychedelic therapy 100, and no severe 
+adverse events were reported. The most prevalent transient side effects were anxiety/psychological 
+distress, headache and nausea, the latter particularly in ayahuasca studies (suppl. table 8).
+The open-label nature and the relatively small scale of most of these reviewed studies 
+warrant some caution when trying to conclude on efficacy of psychedelic-assisted therapies. 
+This is also the case for a study undertaken by our team, where marked and sustained 
+reductions in depression scores among 20 patients suffering resistant major depression were 
+observed, even at 6 months follow-up 97. In support of an antidepressant effect beyond placebo 
+levels, however, comparable efficacies were reported in the two larger controlled studies assessing 
+depressive (and anxiety) symptoms in cancer patients, using non-active placebo 76 or low-dose of 
+psilocybin 75 as control condition. Conclusive evidence for an antidepressant effect may come 
+from the larger-scale multicentre COMPASSPathways101 and Usona Institute102 studies, both of 
+which have received breakthrough status by the US Food and Drug Administration. In these 
+studies, patients with resistant and major depression, respectively, will be randomised to full dose 
+psilocybin condition versus either low/miniscule dose psilocybin as control condition in the 
+COMPASS trial103 or niacin in the Usona trial104. The prediction for these trials is that the 
+antidepressant effect will be dose-dependent and superior to placebo, with the lowest dose of 1mg 
+being ineffective. Furthermore, our current trial of psilocybin versus the selective serotonin 
+Accepted Article
+
+
+This article is protected by copyright. All rights reserved
+reuptake inhbitor (SSRI), escitalopram105, is addressing possible differences in neurobiological 
+mechanisms (e.g. on functional magnetic resonanse, fMRI, network connectivity and amygdala 
+reactivity) behind the antidepressant effects of these two different treatment paradigms. Similarly, 
+more work is required to confirm open-label early evidence of efficacy for treatment of OCD 60. 
+The only published modern-era study of psychedelic-assisted therapy for alcohol use 
+disorder supports these observations, shows significant long-lasting (> 8months) reductions in 
+drinking days following psilocybin administration 63. In support, a recent meta-analysis of clinical 
+studies in alcohol dependence from The 1950-70s concluded significantly improved odds ratio 
+(OR) for abstinence (OR 2.0) after single high-dose of LSD 106. With the caveat of an open-label 
+design, the observed effect in the study by Bogenschutz and colleagues rivals those of currently 
+available medications for alcohol use disorder: acamprosate vs. placebo OR of 1.9 107; naltrexone 
+vs. placebo OR of 1.3 108; disulfiram vs. other/no treatment OR of 1.6 109. 
+In the reviewed study of tobacco dependence 71,110, 2-3 psilocybin doses in combination 
+with cognitive behavioural therapy (CBT) for smoking cessation resulted in substantially higher 6 
+months smoking abstinence rates than typically observed with other medications or CBT alone 111. 
+A potential future role in treatment of addiction also finds support from attenuated ethanol self-
+administration in rodents following administration of psychedelics 112, as well as from 
+observations in human subjects of reduced consumption and craving of alcohol and other 
+substances following psychedelic use in naturalistic contexts [e.g. in ceremonies]  113-117.
+A key shared feature of the range of conditions for which psychedelic therapies show 
+promise - from affective disorders to addictions – is a narrowed, internalized mental state 118. In 
+depression, patients often find themselves stuck in self-critical rumination about failing and guilt. 
+In addictions, the object of the given addiction – whether it is a substance or a behaviour - replaces 
+the negative thinking in depression, resulting in a specific, narrow, and rigid focus; with 
+rumination about seeking the relief afforded by the object. The rationale for using psychedelics in 
+conditions such as OCD, anorexia – and even in binge eating/food addiction in obesity -  is 
+consistent given that there is rumination on intrusive thoughts, e.g., about contamination or calorie 
+mismanagement.
+Role of the subjective experience
+Although the potentially transformative nature of safely supported psychedelic experiences 
+are still poorly understood, interesting discoveries are emerging. Through 5-HT2A receptor 
+Accepted Article
+
+
+This article is protected by copyright. All rights reserved
+agonism, psychedelics dose-dependently 33,  produce a wide range of idiosyncratic acute effects on 
+the consciousness of the self and the environment often referred to as ‘peak’ or ‘mystical’ 
+experiences 53. These are characterized by profound alterations in perception, accompanied by a 
+sense of meaningfulness, insightfulness and unity 119,120 and it has been proposed that the 
+psychedelic state is more malleable, flexible, sensitive to the environment, and open to change 
+121,122. A key feature that makes psychedelic therapy constitute a novel treatment paradigm when 
+compared to conventional pharmacological management of mental health conditions, is the role of 
+these subjective peak experiences. Thus, in most of the reviewed studies, the quality and intensity 
+of the acute psychological experience following psychedelic intake is predictive of the clinical 
+outcomes, i.e. reductions in depressive symptoms  120, alcohol use and craving 63, and tobacco 
+smoking 62. For complete overview of such relationships, please see supplementary table 7. 
+These observations replicate old-era studies in which the psychedelic-induced peak or 
+mystical-type experiences also were observed to predict positive long-term outcomes 14,123-126. 
+Similarly, increases in scores of openness to experience 50 as well as psychological wellbeing 
+46,49,127 following psychedelic interventions have been predicted by measures of the peak 
+experiences in studies of healthy volunteers. Interestingly, the relationship between the peak and 
+subsequent clinical outcome appears to be somewhat specific, in that measures related to peak 
+experiences are significantly more predictive of positive clinical outcomes than e.g. altered visual 
+and auditory perception 120 – thereby giving emphasis to the “psychedelic” (from Greek, meaning 
+“mind-revealing”) rather than the “hallucinogen” effect of these substances. Although not 
+consistently collected in such studies, similar observations have been reported with the non-classic 
+psychedelic or “dissociative” compound, ketamine. Thus, scores related to the mystical-type 
+experience - but not dissociative-type experiences - under ketamine were found to mediate 
+reduced drug use and craving among cocaine dependent individuals 128.
+The increasingly popular phenomenon of using psychedelic compounds in repeated small 
+doses (typically 2-3 doses per week of 5-10% of full tripping doses), so-called ”microdosing”, in 
+order to improve mood, wellbeing, cognition and creativity 129, raises the question of whether a 
+full psychedelic experience is required as microdosing is typically understood to be sub-
+perceptual. So far there have been no trials of microdosing for any psychiatric disorder and it 
+seems implausible that a single dose in microdosing range of psilocybin would have as big an 
+effect in depression as the 25mg psilocybin macrodose usually used. Again, the newly launched 
+depression trials using both micro[ as active placebo] and macrodoses of psilocybin will help us 
+Accepted Article
+
+
+This article is protected by copyright. All rights reserved
+understand this better, and additionally, placebo-controlled studies of psychedelic microdosing are 
+on their way.
+Long-lasting therapeutic effects
+In addition to the role of the subjective experience, another remarkable difference between 
+psychedelic therapy and the repeated (daily) dosing used in conventional pharmaco-therapy, is the 
+apparent long-lasting therapeutic effects of single psychedelic intervention(s). Of note, 
+psychedelics have plasma half-lives of minutes (DMT 130) to hours (psilocybin 131 and LSD 132). 
+Figure 1 gives a visual representation of the reductions over time in depressive symptoms from 
+studies assessing such symptoms, and indicates that treatment effects from psychedelic therapy 
+might last for months. In comparison, the antidepressant effect of the glutamate antagonist 
+anaesthetic ketamine, esketamine, ranges from days to weeks 133 -  its enantiomer, esketamine, was 
+recently licensed in the USA and Europe for treatment of resistant depression. It is here worth 
+noticing that ketamine, with its history as a drug used in anaesthesiology, is typically administered 
+in a medical context without same attention to the setting (such as preparation, psychological 
+integration, room design, light, music etc.) as in psychedelic interventions. In the future a direct 
+comparison of ketamine versus psilocybin should be carried out in a randomised design using a 
+psychedelic setting and post trip psychotherapy or both drugs, in order to assess duration of effects 
+when given under the same conditions – to see whether the context could affect (further 
+improve/prolong) the treatment effects of ketamine.
+How to explain these sustained therapeutic effects? Where standard antidepressants protect 
+against the stressors that lead to and perpetuate depression they do not directly affect the 
+underlying cause. In contrast, psychedelic therapy is understood to harnesses a therapeutic window 
+opened up by the brain effects of the drugs to facilitate insight and emotional release and, with 
+psychotherapeutic support, a subsequent healthy revision of outlook and lifestyle 122. This notion 
+is supported by observations from studies of healthy psychedelic-naive individuals, where the 
+majority of subjects who underwent psilocybin 2-3 administrations rated the psilocybin-
+occasioned experience as being among the five most personally meaningful and spiritually 
+significant experiences of their lives with  subsequent increases in well-being and life satisfaction 
+at follow-up after 14 months 134. Although the long-lasting effects – maybe even enduring for 
+some individuals – seem very promising, more work needs to be conducted to understand who 
+would benefit from re-dosing when/if the therapeutic [e.g. antidepressant] effects are wearing off. 
+Accepted Article
+
+
+This article is protected by copyright. All rights reserved
+How and when should patients who are relapsing receive a booster intervention session, and could 
+these be conducted more cost effectively than the current use of long [full day] sessions with 
+minimum two professionals present? Could re-dosing happen in a group setting and/or could 
+sessions be shortened, e.g. by administering shorter acting psychedelics, such as DMT or 5Meo-
+DMT, or by using intravenous rather than oral administration of psilocybin [which would shorten 
+the drug effect from 4-5 hrs to around 1 hr]?
+Possible mechanisms 
+In contrast to conventional antidepressant medication, such as SSRIs, which mainly exert 
+their action pre-synaptically via blockade of mono-amine transporters, psychedelic compound 
+show high affinity and agonist activity at serotonergic receptors; namely 5-HT2A but also 5-HT2c, 
+5-HT1a/b, and LSD also has affinity for dopaminergic receptors and 5-HT6 and 5-HT7 135-138. 
+Notably, blockade of the 5-HT2A receptor in humans, e.g. with the 5HT2A receptor antagonist 
+ketanserin, blocks the subjective effects as well as mood-improving effects of psilocybin and LSD 
+139-141, and furthermore, the experienced drug intensity under psilocybin is tightly associated with 
+its occupancy on the 5-HT2A receptor as assessed with positron emission tomography (PET) 33. 
+Evidence suggests that 5-HT2A receptors are centrally involved in affect regulation. Stress 
+can increase 5-HT2A receptor density 142 and affinity 143 in rodents, and elevated 5-HT2A receptor 
+expression has been observed in depressed suicide victims 144 and among un-medicated remitted 
+depressed patients with high traits “pessimism” 145 and “dysfunctional attitudes” 146. Similarly, 
+trait “negativism” 147 and “neuroticism” 148,149 - the latter a known vulnerability marker for 
+depression 150 -  are positively associated with 5-HT2A receptor binding. 
+Elevated 5-HT2A receptor binding might be related to a low serotonergic state 151 and 
+reflect a compensatory upregulation. Interestingly, LSD reverses deficient avoidance learning 152, 
+which is consistent with other effective antidepressants 153, and experimental exposure to LSD and 
+psilocybin causes down-regulation of the 5-HT2A receptor in rodents 154. Similarly, recreational 
+use of psychedelics in humans is associated with reduced cortical 5-HT2A receptor binding as 
+assessed with PET 155. Also most antidepressants cause 5-HT2A receptor down-regulation 156, and 
+the antidepressant effect of electro-convulsive therapy (ECT) has been positively associated with 
+down-regulation of cortical 5-HT2A receptor 157. Recently, however, PET scans revealed no 
+detectable changes in 5-HT2A receptor binding 1 week after oral psilocybin administration in a 
+small sample 10 healthy volunteers 158. 
+Accepted Article
+
+
+This article is protected by copyright. All rights reserved
+Increased flexible and “divergent” thinking induced by 5-HT2A receptor agonism 159-162 
+might constitute a central component of the therapeutic action of 5-HT2A receptor stimulation. 
+Importantly, administration of psilocybin 50 and LSD 163 to healthy individuals can lead to 
+increased openness – a trait positively associated with cognitive flexibility 164. Recreational use of 
+psychedelics is also associated with high openness scores 165, and recently, sustained increases in 
+openness after psilocybin therapy were detected among patients with treatment resistant 
+depression – of far greater magnitude than previously observed with conventional antidepressant 
+treatments 166. Psychedelics likely work by dysregulating activity in systems and circuits that 
+encode inflexible habits of thought and behaviour as seen in affective disorders and addictions 118, 
+allowing them to recalibrate as the acute effects of the drugs subside 121. Scientists from Johns 
+Hopkins University have suggested that their effects can be conceptualized similar to the model of 
+production of post-traumatic stress disorder (PTSD), but inverted 62. In contrast to a traumatic 
+event leaving the person with symptoms of avoidance, anxiety and long-term distress, the 
+psychedelic experience with its flexible brain state, offers a profound and meaningful experience 
+could cause lasting, beneficial and corrective change to the individual’s psyche 50. Studies looking 
+into both the longevity of plasticity-inducing effects as well as the neurobiological mechanisms 
+behind such effects are currently being undertaken in our lab at Imperial College using 
+neuroplasticity EEG paradigms – but can also be investigated with PET mapping of 
+synaptogenesis.
+In terms of effects on the brain’s functional networks, fMRI reveals increases in functional 
+connectivity within the default mode network (DMN) and decreased cerebral blood flow in 
+amygdala one day after psilocybin-treatment – the latter negatively correlating with improvement 
+in depression scores 167. These observations are consistent with studies reporting reductions in 
+DMN functional connectivity 168-170 and with elevated amygdala activity 171-174 among untreated 
+patients with major depression. Interestingly, successful ECT treatment to depressed patients leads 
+to a normalization (increase) of DMN functional connectivity 170. Other fMRI work has shown 
+that LSD affects cortico–striato–thalamo-cortical (CSTC) feedback loops implicated in the gating 
+of sensory and sensorimotor information to the cortex: LSD diminishes the influence of the 
+striatum on the thalamus and opens the thalamic filter to certain areas of the cortex, including the 
+posterior cingulate cortex 175.
+Another factor to consider when proposing possible mechanisms behind psychedelic 
+therapy is therapeutic alliance between the patient and the therapist. Research on factors common 
+Accepted Article
+
+
+This article is protected by copyright. All rights reserved
+for all psychotherapy traditions suggests that the therapeutic alliance between patient and therapist 
+is one of the most robust and consistent factors that predicts therapy outcome 176. The construct of 
+therapeutic alliance is centered around two qualities related to therapy practice; the shared 
+affective bond between patient and therapist; and common agreement about the tasks and goals of 
+the therapy 177. It is possible that the classic psychedelics – as it has been suggested for MDMA in 
+the treatment of PTSD 178 - can increase the affective bond between patient and therapist. LSD 
+increases blood level oxytocin 179, which is associated with modulating bonding-like experiences 
+in man 180. Consistent with this, recent research into the effects of LSD in healthy volunteer’s 
+states that LSD has distinct empathogenic effects as it significantly increases the subjects feelings 
+of closeness, openness, trust and happiness 181. Further research should assess this by 
+incorporating a valid and reliable psychometric measures of therapeutic alliance, one such 
+example being Working Alliance Inventory (WAI) 182.
+In summary, the resurrection of research into the therapeutic application of psychedelics 
+provides promising pilot data on efficacy and safety in the treatment of a range of mental health 
+conditions. Furthermore, brain imaging work applied to the study of these 5-HT2A agonists are 
+delivering remarkable insights into brain function and instigating an exciting new treatment 
+avenue, namely in the fields of affective disorders and addictions, health areas with major unmet 
+needs.
+Accepted Article
+
+
+This article is protected by copyright. All rights reserved
+References
+1.
+Grispoon L, Bakalar J. Psychedelic drugs reconsidered. New York: Basic Books; 1981.
+2.
+Osmond H, Smythies J. Schizophrenia: a new approach. The British Journal of Psychiatry. 
+1952;98(411):309-315.
+3.
+Hoffer A, Osmond H, Smythies J. Schizophrenia: a new approach. II. Result of a year's research. 
+The British Journal of Psychiatry. 1954;100(418):29-45.
+4.
+Jensen SE. A treatment program for alcoholics in a mental hospital. Quarterly journal of studies on 
+alcohol. 1962;23:315-320.
+5.
+Jensen S. Treatment of chronic alcoholism with lysergic acid diethylamide. Canadian Psychiatric 
+Association Journal. 1963;8:182-188.
+6.
+Osmond H, Albahary R, Cheek F, Sarett M, Abramson H. Some problems in the use of LSD 25 in 
+the treatment of alcoholism. The use of LSD in psychotherapy and alcoholism Indianapolis, IN: 
+Bobbs-Merrill. 1967:434-457.
+7.
+Van Dusen W, Wilson W, Miners W, Hook H. Treatment of alcoholism with lysergide. QJ Stud 
+Alcohol. 1967;28:295-304.
+8.
+Johnson FG. LSD in the treatment of alcoholism. American Journal of Psychiatry. 1969;126(4):481-
+487.
+9.
+Denson R, Sydiaha D. A controlled study of LSD treatment in alcoholism and neurosis. The British 
+Journal of Psychiatry. 1970;116(533):443-445.
+10.
+Smart RG, Storm T, Baker EF, Solursh L. A controlled study of lysergide in the treatment of 
+alcoholism: I. The effects on drinking behavior. Quarterly journal of studies on alcohol. 1966.
+11.
+Hollister LE, Shelton J, Krieger G. A controlled comparison of lysergic acid diethylamide (LSD) and 
+dextroamphetamine in alcoholics. American Journal of Psychiatry. 1969;125(10):1352-1357.
+12.
+Ludwig A, Levine J, Stark L, Lazar R. A clinical study of LSD treatment in alcoholism. American 
+Journal of Psychiatry. 1969;126(1):59-69.
+13.
+Bowen WT, Soskin RA, Chotlos JW. Lysergic acid diethylamide as a variable in the hospital 
+treatment of alcoholism: a follow-up study. The Journal of nervous and mental disease. 
+1970;150(2):111-118.
+14.
+Pahnke WN, Kurland AA, Unger S, Savage C, Grof S. The experimental use of psychedelic (LSD) 
+psychotherapy. Jama. 1970;212(11):1856-1863.
+15.
+Tomsovic M, Edwards R. Lysergide treatment of schizophrenic and nonschizophrenic alcoholics: a 
+controlled evaluation. Quarterly journal of studies on alcohol. 1970;31(4):932.
+16.
+Cohen S. The therapeutic potential of LSD-25. In: Simon RMFA, ed. A pharmacologic approach to 
+the study of the mind. Springfield, IL: Thomas; 1959.
+17.
+Johnsen G. Three years' experience with the use of LSD as an aid in Psychotherapy. Acta 
+psychiatrica Scandinavica. 1964;40:Suppl 180:383+.
+18.
+Eisner B, G., Cohen S. Psychotherapy with lysergic acid diethylamide. Journal of Nervous and 
+Mental Diseas. 1958;127:528-539. .
+19.
+Brandrup E, Vanggaard T. LSD treatment in a severe case of compulsive neurosis. Acta 
+psychiatrica Scandinavica. 1977;55(2):127-141.
+20.
+Kast EC, Collins VJ. Study of lysergic acid diethylamide as an analgesic agent. Anesthesia and 
+analgesia. 1964;43:285-291.
+21.
+Savage C, & McCabe, O. L. . Residential psychedelic (LSD) therapy for the narcotic 
+addict. A 
+Accepted Article
+
+
+This article is protected by copyright. All rights reserved
+controlled study. Archives of General Psychiatry. 1973;28(6):808 – 814.
+22.
+Grof S, Goodman L, Richards W, Kurland A. LSD-assisted psychotherapy in patients with terminal 
+cancer. International pharmacopsychiatry. 1973;8(3):129-144.
+23.
+Krebs TS, Johansen P-Ø. Lysergic acid diethylamide (LSD) for alcoholism: meta-analysis of 
+randomized controlled trials. Journal of Psychopharmacology. 2012;26(7):994-1002.
+24.
+Rucker JJ, Jelen LA, Flynn S, Frowde KD, Young AH. Psychedelics in the treatment of unipolar mood 
+disorders: a systematic review. Journal of psychopharmacology (Oxford, England). 
+2016;30(12):1220-1229.
+25.
+Wark C, Galliher JF. Timothy Leary, Richard Alpert (Ram Dass) and the changing definition of 
+psilocybin. The International journal on drug policy. 2010;21(3):234-239.
+26.
+Erritzoe D, Richards WA. Lessons to be learned from early psychedelic therapy in Denmark. Nordic 
+journal of psychiatry. 2017;71(7):487-488.
+27.
+Oram M. Efficacy and enlightenment: LSD psychotherapy and the Drug Amendments of 1962. 
+Journal of the history of medicine and allied sciences. 2014;69(2):221-250.
+28.
+Nutt DJ, King LA, Nichols DE. Effects of Schedule I drug laws on neuroscience research and 
+treatment innovation. Nature reviews Neuroscience. 2013;14(8):577-585.
+29.
+Nations U. Convention on Psychotropic Substances. Convention on Psychotropic Substances. ; 
+1971.
+30.
+Vollenweider FX, Leenders KL, Scharfetter C, Maguire P, Stadelmann O, Angst J. Positron emission 
+tomography and fluorodeoxyglucose studies of metabolic hyperfrontality and psychopathology in 
+the psilocybin model of psychosis. Neuropsychopharmacology. 1997;16(5):357-372.
+31.
+Vollenweider FX, Vontobel P, Hell D, Leenders KL. 5-HT modulation of dopamine release in basal 
+ganglia in psilocybin-induced psychosis in man--a PET study with [11C]raclopride. 
+Neuropsychopharmacology. 1999;20(5):424-433.
+32.
+Gouzoulis-Mayfrank E, Schreckenberger M, Sabri O, et al. Neurometabolic effects of psilocybin, 
+3,4-methylenedioxyethylamphetamine (MDE) and d-methamphetamine in healthy volunteers. A 
+double-blind, placebo-controlled PET study with [18F]FDG. Neuropsychopharmacology. 
+1999;20(6):565-581.
+33.
+Madsen MK, Fisher PM, Burmester D, et al. Psychedelic effects of psilocybin correlate with 
+serotonin 2A receptor occupancy and plasma psilocin levels. Neuropsychopharmacology. 
+2019;44(7):1328-1334.
+34.
+Riba J, Romero S, Grasa E, Mena E, Carrio I, Barbanoj MJ. Increased frontal and paralimbic 
+activation following ayahuasca, the pan-Amazonian inebriant. Psychopharmacology (Berl). 
+2006;186(1):93-98.
+35.
+Sanches RF, de Lima Osorio F, Dos Santos RG, et al. Antidepressant Effects of a Single Dose of 
+Ayahuasca in Patients With Recurrent Depression: A SPECT Study. Journal of clinical 
+psychopharmacology. 2016;36(1):77-81.
+36.
+Carhart-Harris RL, Muthukumaraswamy S, Roseman L, et al. Neural correlates of the LSD 
+experience revealed by multimodal neuroimaging. PROCEEDINGS OF THE NATIONAL ACADEMY OF 
+SCIENCES OF THE UNITED STATES OF AMERICA. 2016;113:4853-4858.
+37.
+Carhart-Harris RL, Erritzoe D, Williams T, et al. Neural correlates of the psychedelic state as 
+determined by fMRI studies with psilocybin. Proceedings of the National Academy of Sciences. 
+2012;109(6):2138-2143.
+Accepted Article
+
+
+This article is protected by copyright. All rights reserved
+38.
+Tagliazucchi E, Roseman L, Kaelen M, et al. Increased Global Functional Connectivity Correlates 
+with LSD-Induced Ego Dissolution. Current biology : CB. 2016;26(8):1043-1050.
+39.
+Kraehenmann R, Preller KH, Scheidegger M, et al. Psilocybin-Induced Decrease in Amygdala 
+Reactivity Correlates with Enhanced Positive Mood in Healthy Volunteers. Biol Psychiatry. 
+2015;78(8):572-581.
+40.
+Timmermann C, Roseman L, Schartner M, et al. Neural correlates of the DMT experience assessed 
+with multivariate EEG. Scientific reports. 2019;9(1):16324.
+41.
+Palenicek T, Tyls F, Viktorinova M, et al. PM502. Effect of psilocybin on EEG brain connectivity in 
+healthy volunteers – preliminary report. International Journal of Neuropsychopharmacology. 
+2016;19(Suppl 1):83-83.
+42.
+Johansen PO, Krebs TS. Psychedelics not linked to mental health problems or suicidal behavior: a 
+population study. Journal of psychopharmacology (Oxford, England). 2015;29(3):270-279.
+43.
+Hendricks PS, Thorne CB, Clark CB, Coombs DW, Johnson MW. Classic psychedelic use is 
+associated with reduced psychological distress and suicidality in the United States adult 
+population. Journal of psychopharmacology (Oxford, England). 2015;29(3):280-288.
+44.
+Barbosa PC, Giglio JS, Dalgalarrondo P. Altered states of consciousness and short-term 
+psychological after-effects induced by the first time ritual use of ayahuasca in an urban context in 
+Brazil. Journal of psychoactive drugs. 2005;37(2):193-201.
+45.
+Barbosa PC, Cazorla IM, Giglio JS, Strassman R. A six-month prospective evaluation of personality 
+traits, psychiatric symptoms and quality of life in ayahuasca-naive subjects. Journal of 
+psychoactive drugs. 2009;41(3):205-212.
+46.
+Haijen EC, Kaelen M, Roseman L, et al. Predicting responses to psychedelics: a prospective study. 
+Frontiers in pharmacology. 2018;9:897.
+47.
+Santos RGd, Balthazar FM, Bouso JC, Hallak JE. The current state of research on ayahuasca: A 
+systematic review of human studies assessing psychiatric symptoms, neuropsychological 
+functioning, and neuroimaging. Journal of Psychopharmacology. 2016;30(12):1230-1247.
+48.
+Dos Santos RG, Bouso JC, Hallak JEC. Ayahuasca, dimethyltryptamine, and psychosis: a systematic 
+review of human studies. Therapeutic advances in psychopharmacology. 2017;7(4):141-157.
+49.
+Griffiths RR, Richards WA, McCann U, Jesse R. Psilocybin can occasion mystical-type experiences 
+having substantial and sustained personal meaning and spiritual significance. 
+Psychopharmacology. 2006;187(3):268-283; discussion 284-292.
+50.
+MacLean KA, Johnson MW, Griffiths RR. Mystical experiences occasioned by the hallucinogen 
+psilocybin lead to increases in the personality domain of openness. Journal of 
+psychopharmacology (Oxford, England). 2011;25(11):1453-1461.
+51.
+Riba J, Valle M, Urbano G, Yritia M, Morte A, Barbanoj MJ. Human pharmacology of ayahuasca: 
+subjective and cardiovascular effects, monoamine metabolite excretion, and pharmacokinetics. 
+The Journal of pharmacology and experimental therapeutics. 2003;306(1):73-83.
+52.
+Brown RT, Nicholas CR, Cozzi NV, et al. Pharmacokinetics of Escalating Doses of Oral Psilocybin in 
+Healthy Adults. Clinical pharmacokinetics. 2017.
+53.
+Dolder PC, Schmid Y, Steuer AE, et al. Pharmacokinetics and Pharmacodynamics of Lysergic Acid 
+Diethylamide in Healthy Subjects. Clinical pharmacokinetics. 2017.
+54.
+Rucker JJH, Iliff J, Nutt DJ. Psychiatry & the psychedelic drugs. Past, present & future. 
+Neuropharmacology. 2018;142:200-218.
+Accepted Article
+
+
+This article is protected by copyright. All rights reserved
+55.
+Maslow AH. Religions, values, and peak-experiences. Vol 35: Ohio State University Press 
+Columbus; 1964.
+56.
+Carhart-Harris RL, Erritzoe D, Haijen E, Kaelen M, Watts R. Psychedelics and connectedness. 
+Psychopharmacology (Berl). 2017.
+57.
+Grof S. LSD Psychotherapy (The Healing Potential Potential of Psychedelic Medicine). MAPS; 2008.
+58.
+Dos Santos RG, Osorio FL, Crippa JA, Riba J, Zuardi AW, Hallak JE. Antidepressive, anxiolytic, and 
+antiaddictive effects of ayahuasca, psilocybin and lysergic acid diethylamide (LSD): a systematic 
+review of clinical trials published in the last 25 years. Therapeutic advances in 
+psychopharmacology. 2016;6(3):193-213.
+59.
+Reiche S, Hermle L, Gutwinski S, Jungaberle H, Gasser P, Majic T. Serotonergic hallucinogens in the 
+treatment of anxiety and depression in patients suffering from a life-threatening disease: A 
+systematic review. Progress in Neuro-Psychopharmacology & Biological Psychiatry. 2018;81:1-10.
+60.
+Moreno FA, Wiegand CB, Taitano EK, Delgado PL. Safety, tolerability, and efficacy of psilocybin in 
+9 patients with obsessive-compulsive disorder. The Journal of clinical psychiatry. 
+2006;67(11):1735-1740.
+61.
+Grob CS, Danforth AL, Chopra GS, et al. Pilot Study of Psilocybin Treatment for Anxiety in Patients 
+With Advanced-Stage Cancer. Archives of General Psychiatry. 2011;68(1):71-78.
+62.
+Garcia-Romeu A, Griffiths RR, Johnson MW. Psilocybin-occasioned mystical experiences in the 
+treatment of tobacco addiction. Current drug abuse reviews. 2014;7(3):157-164.
+63.
+Bogenschutz MP, Forcehimes AA, Pommy JA, Wilcox CE, Barbosa PC, Strassman RJ. Psilocybin-
+assisted treatment for alcohol dependence: a proof-of-concept study. Journal of 
+psychopharmacology (Oxford, England). 2015;29(3):289-299.
+64.
+Carhart-Harris RL, Bolstridge M, Rucker J, et al. Psilocybin with psychological support for 
+treatment-resistant depression: An open-label feasibility study. The Lancet Psychiatry. 
+2016;3(7):619-627.
+65.
+Ross S, Bossis A, Guss J, et al. Rapid and sustained symptom reduction following psilocybin 
+treatment for anxiety and depression in patients with life-threatening cancer: A randomized 
+controlled trial. Journal of Psychopharmacology. 2016;30(12):1165-1180.
+66.
+Griffiths RR, Johnson MW, Carducci MA, et al. Psilocybin produces substantial and sustained 
+decreases in depression and anxiety in patients with life-threatening cancer: A randomized 
+double-blind trial. Journal of Psychopharmacology. 2016;30(12):1181-1197.
+67.
+Palhano-Fontes F, Barreto D, Onias H, et al. Rapid antidepressant effects of the psychedelic 
+ayahuasca in treatment-resistant depression: a randomized placebo-controlled trial. Psychol Med. 
+2019;49(4):655-663.
+68.
+Osorio Fde L, Sanches RF, Macedo LR, et al. Antidepressant effects of a single dose of ayahuasca in 
+patients with recurrent depression: a preliminary report. Revista brasileira de psiquiatria. 
+2015;37(1):13-20.
+69.
+Gasser P, Holstein D, Michel Y, et al. Safety and efficacy of lysergic acid diethylamide-assisted 
+psychotherapy for anxiety associated with life-threatening diseases. J Nerv Ment Dis. 
+2014;202(7):513-520.
+70.
+Carhart-Harris RL, Bolstridge M, Day CMJ, et al. Psilocybin with psychological support for 
+treatment-resistant depression: six-month follow-up. Psychopharmacology (Berl). 
+2018;235(2):399-408.
+Accepted Article
+
+
+This article is protected by copyright. All rights reserved
+71.
+Johnson MW, Garcia-Romeu A, Griffiths RR. Long-term follow-up of psilocybin-facilitated smoking 
+cessation. The American journal of drug and alcohol abuse. 2017;43(1):55-60.
+72.
+Gasser P, Kirchner K, Passie T. LSD-assisted psychotherapy for anxiety associated with a life-
+threatening disease: a qualitative study of acute and sustained subjective effects. Journal of 
+psychopharmacology (Oxford, England). 2015;29(1):57-68.
+73.
+Agin-Liebes GI, Malone T, Yalch MM, et al. Long-term follow-up of psilocybin-assisted 
+psychotherapy for psychiatric and existential distress in patients with life-threatening cancer. 
+Journal of psychopharmacology (Oxford, England). 2020;34(2):155-166.
+74.
+Johnson MW, Garcia-Romeu A, Cosimano MP, Griffiths RR. Pilot study of the 5-HT2AR agonist 
+psilocybin in the treatment of tobacco addiction. Journal of Psychopharmacology. 
+2014;28(11):983-992.
+75.
+Griffiths RR, Johnson MW, Carducci MA, et al. Psilocybin produces substantial and sustained 
+decreases in depression and anxiety in patients with life-threatening cancer: A randomized 
+double-blind trial. Journal of psychopharmacology (Oxford, England). 2016;30(12):1181-1197.
+76.
+Ross S, Bossis A, Guss J, et al. Rapid and sustained symptom reduction following psilocybin 
+treatment for anxiety and depression in patients with life-threatening cancer: a randomized 
+controlled trial. Journal of psychopharmacology. 2016;30(12):1165-1180.
+77.
+Bogenschutz M, Forcehimes A, A Pommy J, Wilcox C, Ribeiro Barbosa PC, Strassman R. Psilocybin-
+assisted treatment for alcohol dependence: A proof-of-concept study. 2015;29.
+78.
+Grob CS, Danforth AL, Chopra GS, et al. Pilot study of psilocybin treatment for anxiety in patients 
+with advanced-stage cancer. Archives of general psychiatry. 2011;68(1):71-78.
+79.
+Beck A, Steer RA. BDI Beck Depression Inventory Manual. San Antonio, San Diego, Orlando, New 
+York, Chicago, Toronto: The Psychological Corporation Harcourt Brace Jovanovic, Inc; 1987.
+80.
+Montgomery SA, Asberg M. A new depression scale designed to be sensitive to change. Br J 
+Psychiatry. 1979;134:382-389.
+81.
+Hamilton M. Rating depressive patients. The Journal of clinical psychiatry. 1980;41(12 Pt 2):21-24.
+82.
+Williams JB, Kobak KA, Bech P, et al. The GRID-HAMD: standardization of the Hamilton Depression 
+Rating Scale. International clinical psychopharmacology. 2008;23(3):120-129.
+83.
+Snaith RP, Hamilton M, Morley S, Humayan A, Hargreaves D, Trigwell P. A scale for the assessment 
+of hedonic tone the Snaith-Hamilton Pleasure Scale. Br J Psychiatry. 1995;167(1):99-103.
+84.
+Rush AJ, Trivedi MH, Ibrahim HM, et al. The 16-Item Quick Inventory of Depressive 
+Symptomatology (QIDS), clinician rating (QIDS-C), and self-report (QIDS-SR): a psychometric 
+evaluation in patients with chronic major depression. Biol Psychiatry. 2003;54(5):573-583.
+85.
+McNair D, M, Lorr M, Droppleman L, F. Profile of Mood States. San Diago, CA: edITS/Educational 
+and Industrial Testing Service; 1992.
+86.
+Zigmond AS, Snaith RP. The hospital anxiety and depression scale. Acta psychiatrica Scandinavica. 
+1983;67(6):361-370.
+87.
+Spielberger CD, Gorssuch, R.L., Lushene, P.R., Vagg, P.R., & Jacobs, G.A. Manual for the State-Trait 
+Anxiety Inventory. . Consulting Psychologists Press, Inc.; 1983.
+88.
+Hamilton M. The assessment of anxiety states by rating. The British journal of medical psychology. 
+1959;32(1):50-55.
+89.
+Collins RL, Kashdan TB, Koutsky JR, Morsheimer ET, Vetter CJ. A self-administered Timeline 
+Followback to measure variations in underage drinkers' alcohol intake and binge drinking. 
+Accepted Article
+
+
+This article is protected by copyright. All rights reserved
+Addictive behaviors. 2008;33(1):196-200.
+90.
+Goodman WK, Price LH, Rasmussen SA, et al. The Yale-Brown Obsessive Compulsive Scale. II. 
+Validity. Arch Gen Psychiatry. 1989;46(11):1012-1016.
+91.
+Griffiths RR, Richards WA, McCann U, Jesse R. Psilocybin can occasion mystical-type experiences 
+having substantial and sustained personal meaning and spiritual significance. 
+Psychopharmacology. 2006;187(3):268-283.
+92.
+MacLean KA, Leoutsakos JMS, Johnson MW, Griffiths RR. Factor analysis of the mystical 
+experience questionnaire: a study of experiences occasioned by the hallucinogen psilocybin. 
+Journal for the scientific study of religion. 2012;51(4):721-737.
+93.
+Studerus E, Gamma A, Vollenweider FX. Psychometric evaluation of the altered states of 
+consciousness rating scale (OAV). PLoS One. 2010;5(8):e12412.
+94.
+Dittrich A, Lamparter D, Maurer M. A short introduction. 5D-ASC: Questionnaire for the 
+assessment of altered states of consciousness. Zurich, Switzerland: PSIN PLUS. 2010.
+95.
+Strassman RJ, Qualls CR, Uhlenhuth EH, Kellner R. Dose-response study of N,N-
+dimethyltryptamine in humans. II. Subjective effects and preliminary results of a new rating scale. 
+Arch Gen Psychiatry. 1994;51(2):98-108.
+96.
+Palhano-Fontes F, Barreto D, Onias H, et al. Rapid antidepressant effects of the psychedelic 
+ayahuasca in treatment-resistant depression: a randomized placebo-controlled trial. Psychol Med. 
+2019;49(4):655-663.
+97.
+Carhart-Harris RL, Bolstridge M, Day CMJ, et al. Psilocybin with psychological support for 
+treatment-resistant depression: six-month follow-up. Psychopharmacology (Berl). 2017.
+98.
+Carhart-Harris RL, Bolstridge M, Rucker J, et al. Psilocybin with psychological support for 
+treatment-resistant depression: an open-label feasibility study. The lancet Psychiatry. 
+2016;3(7):619-627.
+99.
+Garcia-Romeu A, Griffiths RR, Johnson MW. Psilocybin-occasioned Mystical Experiences in the 
+Treatment of Tobacco Addiction. Current drug abuse reviews. 2015;7(3):157-164.
+100.
+Johnson M, Richards W, Griffiths R. Human hallucinogen research: guidelines for safety. Journal of 
+psychopharmacology (Oxford, England). 2008;22(6):603-620.
+101.
+U.S. National Library of Medicine 2020. The Safety and Efficacy of Psilocybin in Participants With 
+Treatment Resistant Depression (P-TRD). https://clinicaltrials.gov/ct2/show/NCT03775200; 2020.
+102.
+U.S. National Library of Medicine 2020. A Study of Psilocybin for Major Depressive Disorder 
+(MDD). https://clinicaltrials.gov/ct2/show/NCT03866174; 2020.
+103.
+The Safety and Efficacy of Psilocybin in Participants with Treatment Resistant Depression (P-TRD). 
+EU Clinical Trials Register; 2020. www.clinicaltrialsregister.eu/ctr-search/trial/2017-003288-
+36/NL.
+104.
+Usona. Usona Clinical Trials. Major Depressive Disorder and Psilocybin Clinical Trial. 
+https://usonaclinicaltrials.org/major-depressive-disorder-psilocybin-clinical-trial-psil201. 
+https://usonaclinicaltrials.org/major-depressive-disorder-psilocybin-clinical-trial-psil201. 
+Published 2020. Accessed.
+105.
+U.S. National Library of Medicine 2020. Psilocybin vs Escitalopram for Major Depressive Disorder: 
+Comparative Mechanisms (Psilodep-RCT). https://clinicaltrials.gov/ct2/show/NCT03429075; 2020.
+106.
+Krebs TS, Johansen PO. Lysergic acid diethylamide (LSD) for alcoholism: meta-analysis of 
+randomized controlled trials. Journal of psychopharmacology (Oxford, England). 2012;26(7):994-
+Accepted Article
+
+
+This article is protected by copyright. All rights reserved
+1002.
+107.
+Mason BJ, Lehert P. Acamprosate for alcohol dependence: a sex-specific meta-analysis based on 
+individual patient data. Alcoholism, clinical and experimental research. 2012;36(3):497-508.
+108.
+Bouza C, Angeles M, Munoz A, Amate JM. Efficacy and safety of naltrexone and acamprosate in 
+the treatment of alcohol dependence: a systematic review. Addiction. 2004;99(7):811-828.
+109.
+Jorgensen CH, Pedersen B, Tonnesen H. The efficacy of disulfiram for the treatment of alcohol use 
+disorder. Alcoholism, clinical and experimental research. 2011;35(10):1749-1758.
+110.
+Johnson MW, Garcia-Romeu A, Cosimano MP, Griffiths RR. Pilot study of the 5-HT2AR agonist 
+psilocybin in the treatment of tobacco addiction. Journal of psychopharmacology. 
+2014;28(11):983-992.
+111.
+Cahill K, Stevens S, Lancaster T. Pharmacological treatments for smoking cessation. JAMA. 
+2014;311(2):193-194.
+112.
+Oppong-Damoah A, Curry KE, Blough BE, Rice KC, Murnane KS. Effects of the synthetic psychedelic 
+2,5-dimethoxy-4-iodoamphetamine (DOI) on ethanol consumption and place conditioning in male 
+mice. Psychopharmacology (Berl). 2019;236(12):3567-3578.
+113.
+Garcia-Romeu A, Davis AK, Erowid F, Erowid E, Griffiths RR, Johnson MW. Cessation and reduction 
+in alcohol consumption and misuse after psychedelic use. Journal of psychopharmacology (Oxford, 
+England). 2019;33(9):1088-1101.
+114.
+Barbosa PCR, Tofoli LF, Bogenschutz MP, et al. Assessment of Alcohol and Tobacco Use Disorders 
+Among Religious Users of Ayahuasca. Frontiers in psychiatry. 2018;9:136.
+115.
+Davis AK, Barsuglia JP, Lancelotta R, Grant RM, Renn E. The epidemiology of 5-methoxy- N, N-
+dimethyltryptamine (5-MeO-DMT) use: Benefits, consequences, patterns of use, subjective 
+effects, and reasons for consumption. Journal of psychopharmacology (Oxford, England). 
+2018;32(7):779-792.
+116.
+Fabregas JM, Gonzalez D, Fondevila S, et al. Assessment of addiction severity among ritual users 
+of ayahuasca. Drug and alcohol dependence. 2010;111(3):257-261.
+117.
+Thomas G, Lucas P, Capler NR, Tupper KW, Martin G. Ayahuasca-assisted therapy for addiction: 
+results from a preliminary observational study in Canada. Current drug abuse reviews. 
+2013;6(1):30-42.
+118.
+Nutt D, Erritzoe D, Carhart-Harris R. Psychedelic Psychiatry's Brave New World. Cell. 
+2020;181(1):24-28.
+119.
+Carhart-Harris RL, Leech R, Williams TM, et al. Implications for psychedelic-assisted 
+psychotherapy: functional magnetic resonance imaging study with psilocybin. Br J Psychiatry. 
+2012;200(3):238-244.
+120.
+Roseman L, Nutt DJ, Carhart-Harris RL. Quality of Acute Psychedelic Experience Predicts 
+Therapeutic Efficacy of Psilocybin for Treatment-Resistant Depression. Frontiers in pharmacology. 
+2017;8:974.
+121.
+Carhart-Harris RL, Friston KJ. REBUS and the Anarchic Brain: Toward a Unified Model of the Brain 
+Action of Psychedelics. Pharmacological reviews. 2019;71(3):316-344.
+122.
+Carhart-Harris RL, Nutt DJ. Serotonin and brain function: a tale of two receptors. Journal of 
+psychopharmacology (Oxford, England). 2017;31(9):1091-1120.
+123.
+Klavetter RE, Mogar RE. Peak experiences: Investigation of their relationship to psychedelic 
+therapy and self-actualization. Journal of Humanistic Psychology. 1967;7(2):171-177.
+Accepted Article
+
+
+This article is protected by copyright. All rights reserved
+124.
+O'Reilly P, Funk A. LSD in chronic alcoholism. Canadian Psychiatric Association Journal. 
+1964;9(3):258-261.
+125.
+Kurland AA, Grof S, Pahnke WN, Goodman LE. Psychedelic drug assisted psychotherapy in patients 
+with terminal cancer. Journal of Thanatology. 1972.
+126.
+Richards WA, Rhead JC, DiLeo FB, Yensen R, Kurland AA. The peak experience variable in DPT-
+assisted psychotherapy with cancer patients. Journal of Psychedelic Drugs. 1977;9(1):1-10.
+127.
+Schmid Y, Liechti ME. Long-lasting subjective effects of LSD in normal subjects. 
+Psychopharmacology (Berl). 2017.
+128.
+Dakwar E, Nunes EV, Hart CL, Hu MC, Foltin RW, Levin FR. A sub-set of psychoactive effects may 
+be critical to the behavioral impact of ketamine on cocaine use disorder: Results from a 
+randomized, controlled laboratory study. Neuropharmacology. 2018;142:270-276.
+129.
+Kuypers KP, Ng L, Erritzoe D, et al. Microdosing psychedelics: More questions than answers? An 
+overview and suggestions for future research. Journal of psychopharmacology (Oxford, England). 
+2019;33(9):1039-1057.
+130.
+Strassman RJ, Qualls CR. Dose-response study of N,N-dimethyltryptamine in humans. I. 
+Neuroendocrine, autonomic, and cardiovascular effects. Arch Gen Psychiatry. 1994;51(2):85-97.
+131.
+Passie T, Seifert J, Schneider U, Emrich HM. The pharmacology of psilocybin. Addiction biology. 
+2002;7(4):357-364.
+132.
+Dolder PC, Schmid Y, Haschke M, Rentsch KM, Liechti ME. Pharmacokinetics and Concentration-
+Effect Relationship of Oral LSD in Humans. The international journal of neuropsychopharmacology. 
+2015;19(1).
+133.
+Corriger A, Pickering G. Ketamine and depression: a narrative review. Drug Des Devel Ther. 
+2019;13:3051-3067.
+134.
+Griffiths R, Richards W, Johnson M, McCann U, Jesse R. Mystical-type experiences occasioned by 
+psilocybin mediate the attribution of personal meaning and spiritual significance 14 months later. 
+Journal of psychopharmacology (Oxford, England). 2008;22(6):621-632.
+135.
+Halberstadt AL, Geyer MA. LSD but not lisuride disrupts prepulse inhibition in rats by activating 
+the 5-HT2A receptor. Psychopharmacology. 2009;208(2):179.
+136.
+Marona-Lewicka D, Kurrasch-Orbaugh DM, Selken JR, Cumbay MG, Lisnicchia JG, Nichols DE. Re-
+evaluation of lisuride pharmacology: 5-hydroxytryptamine1A receptor-mediated behavioral 
+effects overlap its other properties in rats. Psychopharmacology. 2002;164(1):93-107.
+137.
+Nichols DE. Hallucinogens. Pharmacology & Therapeutics. 2004;101(2):131-181.
+138.
+Passie T, Halpern JH, Stichtenoth DO, Emrich HM, Hintzen A. The Pharmacology of Lysergic Acid 
+Diethylamide: A Review. CNS Neuroscience & Therapeutics. 2008;14(4):295-314.
+139.
+Preller KH, Herdener M, Pokorny T, et al. The Fabric of Meaning and Subjective Effects in LSD-
+Induced States Depend on Serotonin 2A Receptor Activation. Current Biology. 2017;27(3):451-
+457.
+140.
+Kraehenmann R, Pokorny D, Vollenweider L, et al. Dreamlike effects of LSD on waking imagery in 
+humans depend on serotonin 2A receptor activation. Psychopharmacology (Berl). 2017.
+141.
+Kometer M, Schmidt A, Bachmann R, Studerus E, Seifritz E, Vollenweider FX. Psilocybin biases 
+facial recognition, goal-directed behavior, and mood state toward positive relative to negative 
+emotions through different serotonergic subreceptors. Biol Psychiatry. 2012;72(11):898-906.
+142.
+Magalhaes AC, Holmes KD, Dale LB, et al. CRF receptor 1 regulates anxiety behavior via 
+Accepted Article
+
+
+This article is protected by copyright. All rights reserved
+sensitization of 5-HT2 receptor signaling. Nature neuroscience. 2010;13(5):622-629.
+143.
+Harvey BH, Naciti C, Brand L, Stein DJ. Endocrine, cognitive and hippocampal/cortical 5HT 1A/2A 
+receptor changes evoked by a time-dependent sensitisation (TDS) stress model in rats. Brain 
+research. 2003;983(1-2):97-107.
+144.
+Mann JJ, Stanley M, Mc Bride PA, Mc Ewen BS. Increased serotonin2 and beta receptor in the 
+frontal cortices of suicide victims. Arch Gen Psychiatry. 1986;43:954-959.
+145.
+Meyer JH, McMain S, Kennedy SH, et al. Dysfunctional attitudes and 5-HT2 receptors during 
+depression and self-harm. Am J Psychiatry. 2003;160(1):90-99.
+146.
+Bhagwagar Z, Hinz R, Taylor M, Fancy S, Cowen P, Grasby P. Increased 5-HT(2A) receptor binding 
+in euthymic, medication-free patients recovered from depression: a positron emission study with 
+[(11)C]MDL 100,907. Am J Psychiatry. 2006;163(9):1580-1587.
+147.
+Soloff PH, Price JC, Mason NS, Becker C, Meltzer CC. Gender, personality, and serotonin-2A 
+receptor binding in healthy subjects. Psychiatry research. 2010;181(1):77-84.
+148.
+Frokjaer VG, Mortensen EL, Nielsen FA, et al. Frontolimbic serotonin 2A receptor binding in 
+healthy subjects is associated with personality risk factors for affective disorder. Biol Psychiatry. 
+2008;63(6):569-576.
+149.
+Frokjaer VG, Vinberg M, Erritzoe D, et al. Familial risk for mood disorder and the personality risk 
+factor, neuroticism, interact in their association with frontolimbic serotonin 2A receptor binding. 
+Neuropsychopharmacology. 2010;35(5):1129-1137.
+150.
+Hirschfeld RM, Klerman GL, Lavori P, Keller MB, Griffith P, Coryell W. Premorbid personality 
+assessments of first onset of major depression. Arch Gen Psychiatry. 1989;46(4):345-350.
+151.
+Erritzoe D, Holst K, Frokjaer VG, et al. A nonlinear relationship between cerebral serotonin 
+transporter and 5-HT(2A) receptor binding: an in vivo molecular imaging study in humans. J 
+Neurosci. 2010;30(9):3391-3397.
+152.
+Buchborn T, Schroder H, Hollt V, Grecksch G. Repeated lysergic acid diethylamide in an animal 
+model of depression: Normalisation of learning behaviour and hippocampal serotonin 5-HT2 
+signalling. Journal of psychopharmacology (Oxford, England). 2014;28(6):545-552.
+153.
+Kelly JP, Wrynn AS, Leonard BE. The olfactory bulbectomized rat as a model of depression: an 
+update. Pharmacol Ther. 1997;74(3):299-316.
+154.
+Buckholtz NS, Zhou DF, Freedman DX. Serotonin2 agonist administration down-regulates rat brain 
+serotonin2 receptors. Life sciences. 1988;42(24):2439-2445.
+155.
+Erritzoe D, Frokjaer VG, Holst KK, et al. In vivo imaging of cerebral serotonin transporter and 
+serotonin(2A) receptor binding in 3,4-methylenedioxymethamphetamine (MDMA or "ecstasy") 
+and hallucinogen users. Arch Gen Psychiatry. 2011;68(6):562-576.
+156.
+Roth BL. Irving Page Lecture: 5-HT(2A) serotonin receptor biology: interacting proteins, kinases 
+and paradoxical regulation. Neuropharmacology. 2011;61(3):348-354.
+157.
+Yatham LN, Liddle PF, Lam RW, et al. Effect of electroconvulsive therapy on brain 5-HT(2) 
+receptors in major depression. Br J Psychiatry. 2010;196(6):474-479.
+158.
+Madsen MK, Fisher PM, Stenbæk DS, et al. A single psilocybin dose is associated with long-term 
+increased mindfulness, preceded by a proportional change in neocortical 5-HT2A receptor 
+binding. European Neuropsychopharmacology. 2020;33:71-80.
+159.
+Kuypers KP, Riba J, de la Fuente Revenga M, Barker S, Theunissen EL, Ramaekers JG. Ayahuasca 
+enhances creative divergent thinking while decreasing conventional convergent thinking. 
+Accepted Article
+
+
+This article is protected by copyright. All rights reserved
+Psychopharmacology (Berl). 2016;233(18):3395-3403.
+160.
+Janiger O, Dobkin de Rios M. LSD and creativity. Journal of psychoactive drugs. 1989;21(1):129-
+134.
+161.
+Frecska E, More CE, Vargha A, Luna LE. Enhancement of creative expression and entoptic 
+phenomena as after-effects of repeated ayahuasca ceremonies. Journal of psychoactive drugs. 
+2012;44(3):191-199.
+162.
+King AR, Martin IL, Melville KA. Reversal learning enhanced by lysergic acid diethylamide (LSD): 
+concomitant rise in brain 5-hydroxytryptamine levels. British journal of pharmacology. 
+1974;52(3):419-426.
+163.
+Lebedev AV, Kaelen M, Lovden M, et al. LSD-induced entropic brain activity predicts subsequent 
+personality change. Human brain mapping. 2016;37(9):3203-3213.
+164.
+DeYoung CG, Peterson JB, Higgins DM. Sources of openness/intellect: cognitive and 
+neuropsychological correlates of the fifth factor of personality. Journal of personality. 
+2005;73(4):825-858.
+165.
+Erritzoe D, Smith J, Fisher PM, Carhart-Harris R, Frokjaer VG, Knudsen GM. Recreational use of 
+psychedelics is associated with elevated personality trait openness: Exploration of associations 
+with brain serotonin markers. Journal of psychopharmacology (Oxford, England). 
+2019;33(9):1068-1075.
+166.
+Erritzoe D. RL, Nour M.M., MacLean K., Kaelen M., Nutt DJ., Carhart- Harris R.L.,. Effects of 
+psilocybin therapy on personality structure. Accepted for publication April 2018 in Acta 
+Scandinavica Psychiatrica. 2018.
+167.
+Carhart-Harris RL, Roseman L, Bolstridge M, et al. Psilocybin for treatment-resistant depression: 
+fMRI-measured brain mechanisms. Scientific reports. 2017;7(1):13187.
+168.
+Zhu X, Wang X, Xiao J, et al. Evidence of a dissociation pattern in resting-state default mode 
+network connectivity in first-episode, treatment-naive major depression patients. Biol Psychiatry. 
+2012;71(7):611-617.
+169.
+Chen Y, Wang C, Zhu X, Tan Y, Zhong Y. Aberrant connectivity within the default mode network in 
+first-episode, treatment-naïve major depressive disorder. J Affect Disord. 2015;183:49-56.
+170.
+Mulders PC, van Eijndhoven PF, Pluijmen J, Schene AH, Tendolkar I, Beckmann CF. Default mode 
+network coherence in treatment-resistant major depressive disorder during electroconvulsive 
+therapy. J Affect Disord. 2016;205:130-137.
+171.
+Abercrombie HC, Schaefer SM, Larson CL, et al. Metabolic rate in the right amygdala predicts 
+negative affect in depressed patients. Neuroreport. 1998;9(14):3301-3307.
+172.
+Murray EA, Wise SP, Drevets WC. Localization of dysfunction in major depressive disorder: 
+prefrontal cortex and amygdala. Biol Psychiatry. 2011;69(12):e43-54.
+173.
+Drevets WC, Videen TO, Price JL, Preskorn SH, Carmichael ST, Raichle ME. A functional anatomical 
+study of unipolar depression. J Neurosci. 1992;12(9):3628-3641.
+174.
+Coombs G, 3rd, Loggia ML, Greve DN, Holt DJ. Amygdala perfusion is predicted by its functional 
+connectivity with the ventromedial prefrontal cortex and negative affect. PLoS One. 
+2014;9(5):e97466.
+175.
+Preller KH, Razi A, Zeidman P, Stampfli P, Friston KJ, Vollenweider FX. Effective connectivity 
+changes in LSD-induced altered states of consciousness in humans. Proc Natl Acad Sci U S A. 
+2019;116(7):2743-2748.
+Accepted Article
+
+
+This article is protected by copyright. All rights reserved
+176.
+Martin DJ, Garske JP, Davis MK. Relation of the therapeutic alliance with outcome and other 
+variables: A meta-analytic review. Journal of Consulting and Clinical Psychology. 2000;68(3):438-
+450.
+177.
+Del Re AC, Flückiger C, Horvath AO, Symonds D, Wampold BE. Therapist effects in the therapeutic 
+alliance–outcome relationship: A restricted-maximum likelihood meta-analysis. Clinical 
+Psychology Review. 2012;32(7):642-649.
+178.
+Mithoefer MC, Feduccia AA, Jerome L, et al. MDMA-assisted psychotherapy for treatment of 
+PTSD: study design and rationale for phase 3 trials based on pooled analysis of six phase 2 
+randomized controlled trials. Psychopharmacology (Berl). 2019;236(9):2735-2745.
+179.
+Schmid Y, Enzler F, Gasser P, et al. Acute Effects of Lysergic Acid Diethylamide in Healthy Subjects. 
+Biol Psychiatry. 2015;78(8):544-553.
+180.
+Olff M, Frijling JL, Kubzansky LD, et al. The role of oxytocin in social bonding, stress regulation and 
+mental health: an update on the moderating effects of context and interindividual differences. 
+Psychoneuroendocrinology. 2013;38(9):1883-1894.
+181.
+Schmid Y, Enzler F, Gasser P, et al. Acute Effects of Lysergic Acid Diethylamide in Healthy Subjects. 
+Biological Psychiatry. 2015;78(8):544-553.
+182.
+Martin DJ, Garske JP, Davis MK. Relation of the therapeutic alliance with outcome and other 
+variables: a meta-analytic review. J Consult Clin Psychol. 2000;68(3):438-450.
+Tables and figures.
+Table 1. Mood and anxiety disorders
+Citation
+Outcome 
+measure
+Assessment and results of primary outcome 
+Follow-up assessments
+Day 1
+Week 1
+Week 2
+Week 3
+3 Months
+6 Months
+Palhano-
+Fontes et 
+al., 2019
+HAM-D
+†
+d = 0.98* 
+†
+†
+†
+†
+QIDS-
+SR16
+†
+d= 2.2***
+d= 2.2***
+d=2.1***
+d= 1.5***
+d = 1.6**
+Carhart-
+Harris et 
+al. 2018 
+STAI-T
+†
+d= 2.2
+†
+†
+d= 1.2***
+d = 1.5***
+Sanches 
+et al. 
+2016
+HAM-D
+d =‡***
+d =‡***
+†
+d= 2.3***
+†
+†
+Day 1
+6 months
+Accepted Article
+
+
+This article is protected by copyright. All rights reserved
+Moreno 
+et al., 
+2006
+YBOCS
+Acute and significant symptom reduction seen in all 
+patients at 24 hour assessment following at least 
+one of the dosing sessions post dose assessments.
+One patient in remission as 
+reported on 6-month follow-
+up (No other data reported)
+d= Cohen’s d effect size statistic, †= data not collected or not reported, ‡= exact value not 
+reported, *=p<.05, **=p<.01, ***=p<.001, bold font= primary outcome measure. Palhano-Fontes 
+show between group data, all other trials show within-group data. 
+Table 2.  Depression and anxiety disorders related to cancer and other life-threatening illness
+Citation
+Outcome 
+measure
+Results of clinical outcomes prior to potential crossover
+Follow-up assessment’s 
+(Within-group results 
+only)
+†
+†
+Week 5
+6 months
+GRID-
+HAM-D
+†
+†
+d=1.30***
+d= 2.98***
+Griffiths 
+et al. 
+2016
+HAM-A
+†
+†
+d=1.23***
+d=3.40***
+Day 1
+Week 2
+Week 6
+6 months  
+BDI
+d=1.10**
+d=0.99**
+d=1.07**
+d=1.03* and 0.93*
+Ross et 
+al. 2016
+STAI-T
+d=0.95**
+d=1.49***
+d=1.31***
+d=1.72** and 1.13**
+2 months post dose 2
+2 months 
+post 
+crossover
+12 months 
+post 
+crossover
+STAI-T
+†
+†
+d=1.1
+‡**
+‡**
+Gasser et 
+al. 2014
+STAI-S
+†
+†
+d=1.2*
+‡**
+‡**
+ 
+1 month
+3 months
+6 months
+BDI
+†
+†
+t11=−2.17*
+†
+t†7=2.71*
+STAI-T
+†
+†
+t11=4.36***
+t10=2.55*
+†
+Grob et 
+al., 
+2011
+STAI-S
+†
+†
+†
+†
+d= Cohen’s d effect size statistic, †= data not collected or not reported, ‡= exact value not reported,  
+t= represents t-statistic and is used for studies not reporting d. *=p<.05, **=p<.01, ***=p<.001, bold 
+font= primary outcome measure. Griffiths and Ross show between group data, except for 6 months 
+follow-up (which represents within group data only). Gasser and Grob show within group data only. 
+Table 3.  Alcohol and nicotine dependence
+Accepted Article
+
+
+This article is protected by copyright. All rights reserved
+Citation
+Outcome 
+measures 
+Results of clinical outcomes
+Follow-up assessments
+Week 
+5-8
+Week 
+9-12
+Week 
+13-24
+Week 
+25-36
+No long-term follow-up
+TLFB AD
+d =1.1*
+d =0.8*
+d =1.1*
+d 
+=1.0*
+†
+Bogenschutz 
+et al. 2015
+TLFB HD
+d =1.0*
+d =0.7
+d =0.8*
+d 
+=1.0*
+†
+10-week duration of the trial
+3-year follow-up paper
+TLFB 
+daily 
+cigarette 
+use
+11/15 reported quitting on their target 
+quit date.
+Daily cigarette intake significantly*** 
+reduced at 6, 12 and 30-month follow-
+up for all patients, as compared to 
+baseline.
+Johnson et 
+al. 
+2014; 
+Johnson et 
+al. 2017
+Breath 
+carbon 
+monoxide 
+(CO) and 
+urine 
+cotinine
+These eleven were biologically 
+verified as abstinent during the entire 
+duration of the trial (10 weeks).
+Significant* reductions at 6 months, 
+with 12/15 showing seven-day 
+abstinence verified by biomarker 
+assessments. Complete abstinence 
+achieved by 12, 7 and 7 subjects, at 6, 
+12 and 30 months, respectively.
+d= Cohen’s d effect size statistic, *=p<.05, **=p<.01, ***=p<.001, bold font= primary outcome 
+measure.  †= data not collected or not reported
+Figure 1. Depression over time (see separate file). 
+Figure 1 legend: 
+Figure 1 presents depression symptom data for all trials assessing depression, with % score change 
+(from baseline) listed over time. For studies comparing doses between groups, only data from groups 
+receiving a high dose first are presented. Y axis represents depression scores normalized to baseline 
+scores (set to 100%). Psilocybin studies show BDI data, LSD study shows HADS-D data, Ayahuasca 
+study shows HAM-D data. 
+Accepted Article
+
+
+acps_13249_f1.tif
+This article is protected by copyright. All rights reserved
+Accepted Article

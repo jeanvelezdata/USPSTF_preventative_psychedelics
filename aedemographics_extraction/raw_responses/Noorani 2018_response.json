@@ -1,0 +1,85 @@
+{
+  "data": {
+    "article": {
+      "StudyID": "Noorani 2018",
+      "Citation": "Noorani T, et al. Psychedelic therapy for smoking cessation: Qualitative analysis of participant accounts. Journal of Psychopharmacology. 2018.",
+      "Title": "Psychedelic therapy for smoking cessation: Qualitative analysis of participant accounts",
+      "Year": 2018,
+      "Corpus/Prefix": "Smoking",
+      "Condition": "Smoking",
+      "Substance": "Psilocybin",
+      "IsObservational": "Y",
+      "N": 12,
+      "AE_denominator": 12,
+      "ArmScope": "psychedelic_arm",
+      "PctFemale": 41.7,
+      "GenderCategory": "7 male, 5 female (Table 1); no non-binary/other categories reported",
+      "PctBIPOC": ".",
+      "PctIndigenous": ".",
+      "SafetyReported": "Y",
+      "AnyAEReported": "Y",
+      "NumDistinctAEs": 3,
+      "NParticipantsWithAE": 3,
+      "WorstSeverity": "Moderate",
+      "text_source": "born-digital",
+      "Model": "claude-sonnet-5",
+      "PromptVersion": "ae_extraction_prompt_v1",
+      "RubricVersion": "severity_rubric_v1",
+      "Temperature": 1
+    },
+    "ae_events": [
+      {
+        "AE_ID": "Noorani 2018_AE01",
+        "StudyID": "Noorani 2018",
+        "AE_type": "challenging_experience",
+        "Description": "First psilocybin session negative in mood/tone; participant recalled painful childhood memories and reported wanting to smoke immediately afterward, managed via study-team check-ins.",
+        "Onset": "in-session",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "Y",
+        "SeveritySource": "rubric",
+        "InterventionRequired": "N",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Noorani 2018_AE02",
+        "StudyID": "Noorani 2018",
+        "AE_type": "challenging_experience",
+        "Description": "First psilocybin session experienced as manipulative/frustrating ('wasted' session); followed by two weeks of painful, difficult smoking abstinence before second session.",
+        "Onset": "in-session",
+        "Severity": "Moderate",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "rubric",
+        "InterventionRequired": "N",
+        "MeetsFDASerious": "N"
+      },
+      {
+        "AE_ID": "Noorani 2018_AE03",
+        "StudyID": "Noorani 2018",
+        "AE_type": "challenging_experience",
+        "Description": "First psilocybin session included terrifying visual imagery (faces/'demons') the participant turned away from; resolved via self-directed meditation before an easier second session.",
+        "Onset": "in-session",
+        "Severity": "Mild",
+        "SeverityIndeterminate": "N",
+        "SeveritySource": "rubric",
+        "InterventionRequired": "N",
+        "MeetsFDASerious": "N"
+      }
+    ]
+  },
+  "rationale": {
+    "article": {
+      "IsObservational": "This is a retrospective qualitative interview follow-up of participants from an earlier open-label, single-arm psilocybin pilot trial (Johnson et al. 2014) \u2014 no randomization, no control/comparator arm, and the intervention itself (already delivered years prior) is not being tested here; this article only collects retrospective narrative accounts. Coded Y (observational/naturalistic follow-up of a single-arm cohort), consistent with the corpus convention that open-label single-arm designs reading like case series/naturalistic cohorts are observational, but flagged since the underlying original treatment protocol was a research-administered intervention.",
+      "N": "Table 1 explicitly states 'N = 12' for the analyzed qualitative sample (participants who completed the retrospective interview). The original pilot trial enrolled/treated 15; 3 declined interview and are not part of this article's analyzed sample, so N=12 (the interviewed/analyzed subset) was used rather than 15.",
+      "ArmScope": "Single-arm, uncontrolled design (all 12 participants received the same psilocybin-facilitated protocol); no comparator group exists to pool against, so ArmScope = psychedelic_arm per the instruction to use this code for single-arm cohorts/case series.",
+      "AE_denominator": "Challenging-experience/safety themes in this article are characterized only for the 12 participants who were interviewed (the article's own analyzed sample); formal quantitative AE data for the full original N=15 cohort is reported in a companion paper (Johnson et al., 2014/2016), not in this article. AE_denominator therefore matches N=12.",
+      "PctBIPOC": "Article reports no race/ethnicity data for the sample; not mentioned anywhere in Methods, Table 1, or Table 2.",
+      "PctIndigenous": "Not reported (subset of PctBIPOC, which is also not reported).",
+      "NumDistinctAEs": "The Discussion (line ~1275) frames these as a single qualitative theme ('three participants reported acutely challenging experiences'), but the underlying content, onset context, and apparent functional consequences differ meaningfully across the three participants (416: re-emerged childhood memories + post-session craving; 427: felt manipulated/frustrated + ~2 weeks of difficult abstinence; 406: terrifying visual imagery resolved via self-practice). Given these differ enough to warrant different severity grades (Mild/Moderate/Mild), they were extracted as 3 distinct ae_events rows rather than collapsed into one type, per the safety-dataset principle of not silently absorbing distinguishable events into a single point estimate. NParticipantsWithAE (3) equals NumDistinctAEs here because each event was reported by a single, different participant."
+    },
+    "ae_events": {
+      "Noorani 2018_AE01": "Article states the session was 'generally negative' and that without 'regular check-ins from the study team' the participant 'would have smoked in order to cope,' but does not specify whether these check-ins were extra/targeted support or simply the standard weekly follow-up protocol given to all participants. Insufficient detail to confidently distinguish an expected transient reaction from one requiring genuine active intervention, so defaulted to Mild per the rubric's under-specified-AE rule and flagged SeverityIndeterminate=Y.",
+      "Noorani 2018_AE02": "Explicit persistence signal: 'two weeks of painful, difficult abstinence' following the challenging first session, before the second session resolved it positively. This matches the rubric's Moderate criterion of functional impairment persisting beyond the dosing day/days-to-weeks, with no FDA seriousness criterion met (no hospitalization, no pharmacological rescue), so graded Moderate rather than Mild.",
+      "Noorani 2018_AE03": "Well-described trajectory: frightening in-session imagery that the participant proactively addressed via a week of personal meditation practice, with the second session subsequently described as positive/resolving ('felt like a butterfly'). No reported functional impairment persisting beyond the acute period and no clinical intervention needed, consistent with the rubric's default Mild band for resolved challenging-experience phenomenology."
+    }
+  }
+}

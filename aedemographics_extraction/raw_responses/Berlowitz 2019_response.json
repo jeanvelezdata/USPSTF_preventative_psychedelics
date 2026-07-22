@@ -1,0 +1,46 @@
+{
+  "data": {
+    "article": {
+      "StudyID": "Berlowitz 2019",
+      "Citation": "Berlowitz I, Walt H, Ghasarian C, Mendive F, Martin-Soelch C. Short-Term Treatment Effects of a Substance Use Disorder Therapy Involving Traditional Amazonian Medicine. Journal of Psychoactive Drugs. 2019.",
+      "Title": "Short-Term Treatment Effects of a Substance Use Disorder Therapy Involving Traditional Amazonian Medicine",
+      "Year": 2019,
+      "Corpus/Prefix": ".",
+      "Condition": "Alcohol",
+      "Substance": "Ayahuasca",
+      "IsObservational": "Y",
+      "N": 36,
+      "AE_denominator": ".",
+      "ArmScope": "psychedelic_arm",
+      "PctFemale": 0,
+      "GenderCategory": "100% male (program limited to males only, per Peruvian legal restriction on gender-specificity for this residential treatment type)",
+      "PctBIPOC": ".",
+      "PctIndigenous": ".",
+      "SafetyReported": "N",
+      "AnyAEReported": "NA",
+      "NumDistinctAEs": "NA",
+      "NParticipantsWithAE": "NA",
+      "WorstSeverity": "NA",
+      "text_source": "born-digital",
+      "Model": "claude-sonnet-5",
+      "PromptVersion": "ae_extraction_prompt_v1",
+      "RubricVersion": "severity_rubric_v1",
+      "Temperature": 1
+    },
+    "ae_events": []
+  },
+  "rationale": {
+    "article": {
+      "Condition": "Study population is poly-substance dependent (cannabis 72.2%, alcohol 63.9%, cocaine/cocaine base paste 61.1%, opiates 13.9%, amphetamines 11.1%, tranquilizers 11.1% among completers) rather than an alcohol-specific SUD sample; cannabis was actually the most prevalent dependence diagnosis, not alcohol. Coded 'Alcohol' because alcohol dependence was the second-most-prevalent diagnosis and was the only substance-specific severity domain besides drug use given its own ASI composite subscale reported as a significant treatment outcome (p<.001, d=1.21); no enum option exists for 'polysubstance' or 'cannabis'.",
+      "Substance": "Treatment is a multi-component 'Amazonian medicine' package: purging-ritual plants, dietary-forest-retreat plants, and ceremonial plants including ayahuasca (Banisteriopsis caapi). Ayahuasca is the only classic psychedelic substance specifically named; the article explicitly states the program is 'not limited to ayahuasca' and involves other unnamed Amazonian plants, so this likely understates the full intervention but is the only named psychoactive substance.",
+      "N": "Two candidate Ns exist: T1 baseline/enrolled sample (n=53) and T2 completer sample with paired pre/post data (n=36). The paired-samples t-tests reported as the study's primary results (the treatment-effect analyses) used n=36, so N=36 was coded as the final analyzed sample; demographics/baseline characteristics were reported for both n=53 and n=36 in Table 1.",
+      "PctBIPOC": "Article reports nationality (e.g., Peruvian 38.9%, other Latin American 38.9%, European 22.2%, North American 0% among completers) but not race/ethnicity; nationality was not treated as a race proxy, so coded not-reported.",
+      "PctIndigenous": "No participant-level race/ethnicity or Indigenous-identity data reported (only nationality); coded not-reported, consistent with PctBIPOC also being not-reported (must not exceed it).",
+      "AE_denominator": "SafetyReported = 'N' since the article contains no adverse-event or safety assessment at all (outcome measures are ASI, HADS, CEQ, WHOQOL-BREF, RCQ only). Per schema, AE_denominator never takes 'NA', so coded '.' even though no safety population applies.",
+      "SafetyReported": "The article reports only efficacy/therapeutic outcome measures (addiction severity, craving, emotional distress, quality of life, change readiness) and treatment dropout counts; it contains no mention of adverse events, side effects, tolerability, or safety monitoring of any kind, in-session or otherwise.",
+      "ArmScope": "Single-arm naturalistic cohort with no comparator group; all N/demographic/outcome values come from participants who received the full Amazonian-medicine treatment package (which includes ayahuasca ceremonies), so scope is psychedelic_arm per the instruction that single-arm cohorts default to this value.",
+      "IsObservational": "Naturalistic, treatment-as-usual design: participants were consecutive admissions to an existing inpatient program, receiving the center's standard clinical protocol (not a research-assigned intervention), with no randomization and no control/comparator arm; outcomes assessed pre/post treatment completion. Authors themselves describe it as a 'naturalistic study' and note the lack of a comparison group as a limitation."
+    },
+    "ae_events": {}
+  }
+}

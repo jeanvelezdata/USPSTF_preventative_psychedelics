@@ -1,0 +1,45 @@
+{
+  "data": {
+    "article": {
+      "StudyID": "O'Shaughnessy 2021",
+      "Citation": "O'Shaughnessy DM, Berlowitz I, Rodd R, Sarnyai Z, Quirk F. Within-treatment changes in a novel addiction treatment program using traditional Amazonian medicine. Therapeutic Advances in Psychopharmacology. 2021.",
+      "Title": "Within-treatment changes in a novel addiction treatment program using traditional Amazonian medicine",
+      "Year": 2021,
+      "Corpus/Prefix": ".",
+      "Condition": ".",
+      "Substance": "Ayahuasca",
+      "IsObservational": "Y",
+      "N": 36,
+      "AE_denominator": ".",
+      "ArmScope": "psychedelic_arm",
+      "PctFemale": 0,
+      "GenderCategory": "All male (only male inpatients are admitted to Takiwasi)",
+      "PctBIPOC": ".",
+      "PctIndigenous": ".",
+      "SafetyReported": "N",
+      "AnyAEReported": "NA",
+      "NumDistinctAEs": "NA",
+      "NParticipantsWithAE": "NA",
+      "WorstSeverity": "NA",
+      "text_source": "born-digital",
+      "Model": "claude-sonnet-5",
+      "PromptVersion": "ae_extraction_prompt_v1",
+      "RubricVersion": "severity_rubric_v1",
+      "Temperature": 1
+    },
+    "ae_events": []
+  },
+  "rationale": {
+    "article": {
+      "IsObservational": "Explicitly stated: 'The study was observational, with repeated measures applied throughout treatment' and authors used the STROBE cohort checklist. No randomization; patients admitted via Takiwasi's usual clinical admission protocol, not an experimental arm assignment.",
+      "Condition": "Coded '.' \u2014 the intervention (Takiwasi) treats general 'addiction'/poly-substance use, not alcohol use disorder specifically. Prior-30-day drug use was polysubstance (alcohol 83%, cannabis 71%, cocaine 51%, poly-drug use 66%); alcohol was the single most common substance but the study population and intervention target were not alcohol-specific.",
+      "Substance": "Ayahuasca (DMT-containing decoction) is the named psychedelic administered weekly. The treatment protocol also includes other unnamed 'medicinal plants' (daily) and dietary/plant regimens as part of traditional Amazonian medicine, but these are not identified as specific psychedelic substances, so only Ayahuasca is listed.",
+      "N": "N=36 is the full/final study sample (Table 1 demographics, 'aN = 36'); no patients declined participation or dropped out of the study itself (only some left treatment early). Sub-analyses use smaller subsamples with available data (ASI n=34, clinical battery intake n=22/27, RBANS n=8) \u2014 these are analysis-specific missing-data subsets, not a different overall N.",
+      "ArmScope": "Single-arm naturalistic cohort with no non-exposed comparator group within the study; all N/demographic/outcome data come from the psychedelic (ayahuasca)-exposed Takiwasi patients. The Canadian and US normative samples cited for comparison are external benchmark populations, not part of this study's pooled sample.",
+      "SafetyReported": "The article contains no dedicated adverse-event assessment, monitoring methodology, or event counts/table. 'Safety' is only an inferential conclusion drawn from the overall pattern of uniformly positive outcome measures ('the uniformity of the present results would be surprising if the effects of the treatment were broadly deleterious'), not from tracked AE data. Routine plant-induced emesis ('purges') is described as an expected, intentional component of the treatment protocol (Figure 1), not reported as a quantified adverse event. Treatment-exit categories (suspended, abandoned) reflect program/protocol departures (e.g., 3 patients suspended for leaving the center to use alcohol/cocaine), not adverse events caused by the intervention. Given no formal AE assessment or reporting mechanism, SafetyReported is coded 'N', cascading AnyAEReported/NumDistinctAEs/NParticipantsWithAE/WorstSeverity to 'NA' and AE_denominator to '.' per the schema's stated exception.",
+      "PctBIPOC": "Only country of residence was reported (Peru 33%, rest of South America 25%, France 17%, rest of Europe 11%, North/Central America 14%), not race/ethnicity. Country of residence is not a reliable proxy for race/ethnicity in this internationally-recruited sample, so coded not-reported rather than inferring BIPOC status from nationality.",
+      "PctIndigenous": "No indigenous-ethnicity data reported for the patient sample itself (only country of residence). Coded not-reported; since this must be a subset of PctBIPOC (also '.'), consistent."
+    },
+    "ae_events": {}
+  }
+}

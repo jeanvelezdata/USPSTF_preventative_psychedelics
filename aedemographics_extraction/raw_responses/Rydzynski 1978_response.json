@@ -1,0 +1,48 @@
+{
+  "data": {
+    "article": {
+      "StudyID": "Rydzynski 1978",
+      "Citation": "Rydzynski Z, Gruszczynski W. Treatment of alcoholism with psychotomimetic drugs. A follow-up study. Activitas Nervosa Superior. 1978.",
+      "Title": "Treatment of alcoholism with psychotomimetic drugs. A follow-up study",
+      "Year": 1978,
+      "Corpus/Prefix": ".",
+      "Condition": "Alcohol",
+      "Substance": "LSD-25, Psilocybin",
+      "IsObservational": "Y",
+      "N": 31,
+      "AE_denominator": ".",
+      "ArmScope": "psychedelic_arm",
+      "PctFemale": 0,
+      "GenderCategory": "All male (n=31)",
+      "PctBIPOC": ".",
+      "PctIndigenous": ".",
+      "SafetyReported": "N",
+      "AnyAEReported": "NA",
+      "NumDistinctAEs": "NA",
+      "NParticipantsWithAE": "NA",
+      "WorstSeverity": "NA",
+      "text_source": "born-digital",
+      "Model": "claude-sonnet-5",
+      "PromptVersion": "ae_extraction_prompt_v1",
+      "RubricVersion": "severity_rubric_v1",
+      "Temperature": 1
+    },
+    "ae_events": []
+  },
+  "rationale": {
+    "article": {
+      "IsObservational": "Retrospective/naturalistic follow-up of a clinical cohort: 31 men received a 'psycholytic cure' (LSD-25 then psilocybine) as ongoing clinical treatment since 1963, with outcomes assessed via case-record and inquiry analysis at an average 6-year follow-up. No randomization, no control/comparator arm, no experimental protocol described \u2014 coded as observational (case series with follow-up), not an RCT.",
+      "N": "N=31 is the treated/analyzed cohort explicitly stated ('Thirty-one men... were the subjects'). The text later reports '18 patients (58%)' with satisfactory effect and 'the remaining 13 patients' \u2014 this is internally consistent (18+13=31, and 18/31=58.1%~58%), referring to the 13 patients without a satisfactory response, not a subtraction from the 18; no arithmetic inconsistency to flag.",
+      "PctFemale": "Article states all 31 subjects were men ('Thirty-one men, age 23-62'); no female participants reported, so PctFemale=0 by direct statement rather than omission.",
+      "Substance": "Text states LSD-25 was used from 1963-1969 and psilocybine (spelled 'psylocybine' in the original, an old-style spelling read through as unambiguous, not an OCR garble) thereafter, both within this same cohort's treatment history; both are listed per the comma-separation rule for multi-substance studies.",
+      "SafetyReported": "The article (pages 81-82, the Rydzynski/Gruszczynski text only) contains no adverse-event, side-effect, complication, or safety-outcome reporting of any kind \u2014 it reports only abstinence/therapeutic-outcome rates and prognostic personality factors associated with response. The description of patients reacting to the 'psychotomimetic shock' with 'unpleasant feelings' is presented as a prognostic predictor of good treatment response, not as a harm/AE, and has no count or denominator, so it was not coded as an ae_events row.",
+      "AE_denominator": "Per schema instruction, coded '.' (not 'NA') because SafetyReported='N' \u2014 no safety assessment population is defined.",
+      "Corpus/Prefix": "No substance/condition grouping label evident in the text; coded '.'.",
+      "PctBIPOC": "Not reported. Study conducted in Lodz, Poland (Institute of Mental Hygiene, Military Academy of Medicine); no race/ethnicity data given.",
+      "PctIndigenous": "Not reported; no basis to estimate a value that must not exceed the also-unreported PctBIPOC.",
+      "Title": "Used the title as printed in the article body itself (page 81: 'Treatment of alcoholism with psychotomimetic drugs. / A follow-up study'), which is legible and matches the given Citation, rather than the noisier OCR of the same title on the interlibrary-loan slip header (line 39: 'Treatment of alcoholisnn with psychotomimetic drugs A foiiow-up study').",
+      "OCR/document scope": "This scanned file contains three distinct articles concatenated: (1) a fragment of a preceding, unrelated article on anticholinergic-poisoning treatment in animals (TA 03/atropine-type study, references list, ending in an address 'J.F., Hradec Kralove'), (2) the target Rydzynski & Gruszczynski alcoholism follow-up article (pp.81-82), and (3) a following, unrelated article by Bastecky/Podrouzek/Vinar on plasma-protein changes after lysergamide in healthy volunteers (a separate non-alcoholism, non-AE pharmacology study). Only article (2) was used for this extraction; (1) and (3) were identified as out-of-scope and excluded rather than treated as garbled continuations of the target article."
+    },
+    "ae_events": {}
+  }
+}
