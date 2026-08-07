@@ -26,7 +26,7 @@ EFFECT_SIZE_EXTRACTIONS: dict = {
 
 CONVERSION_RULES: dict = {
     (       'D.C. Mash', 2000): {'method': None, 'confidence': 'excluded', 'note': 'F(3,18) multi-df; within-group pre-post design; no comparator arm'},
-    (       'Jovaisa T', 2006): {'method': 'd', 'confidence': 'approx', 'note': 'd pre-computed from group means (96.6 vs 79.4 mmHg MAP) and SDs (13.8, 10.8); equal groups assumed; direction favors treatment (lower MAP)'},
+    (       'Jovaisa T', 2006): {'method': None, 'confidence': 'excluded', 'note': "Excluded from Tier 1: the only convertible statistic (d=1.39 from peak MAP, 96.6 vs 79.4 mmHg) measures blood pressure, not substance use. output.md rules the OOWS-A withdrawal-severity score the primary outcome, and it is reported only as 'p<0.05' with no test statistic, so no SUD-outcome effect size can be derived without computing a test the authors did not report."},
     (       'Krupitsky', 2002): {'method': None, 'confidence': 'excluded', 'note': 'Two-group proportions from figure (approximate); downgrade to Tier 2'},
     (       'Krupitsky', 2007): {'method': None, 'confidence': 'excluded', 'note': 'Two-group proportions; no SD reported; downgrade to Tier 2'},
     (         'P. Glue', 2016): {'method': None, 'confidence': 'excluded', 'direction': -1, 'note': 'NS (p not significant); single SD of unclear provenance; time-to-event endpoint'},
@@ -38,6 +38,10 @@ CONVERSION_RULES: dict = {
 # Keyed by (first_author_surname, year). Studies excluded from Tier 1.
 
 TIER2_RATINGS: dict = {
+    (       'Jovaisa T', 2006): {
+        'category': 'moderate_positive',
+        'basis':    'Randomised, blinded two-group trial of ketamine as an adjuvant to opioid-antagonist induction. The ketamine arm showed significantly less severe withdrawal on the hourly OOWS-A score (p<0.05) and the authors conclude the ketamine group "presented better control of withdrawal symptoms" — a directionally clear, statistically significant between-group advantage on the primary SUD outcome, but reported without a test statistic or group means, so no effect size is derivable. Graded moderate rather than large on the strength of a single significant withdrawal-severity comparison.',
+    },
     (       'D.C. Mash', 2000): {
         'category': 'single_arm_positive',
         'basis':    'Single-arm open-label ibogaine trial with no control group. All 5 HCQN-29 opiate-craving subscales (TABLE 2, all p<=.0001) and 3 of 5 CCQN-45 cocaine-craving subscales (TABLE 3) showed statistically significant pre-to-post reductions, and BDI depression scores also decreased significantly across the study (F(3,18)=9.59, p=.0005, TABLE 1) -- a consistently positive pre/post direction across every reported outcome family, with no comparator arm to benchmark against.',

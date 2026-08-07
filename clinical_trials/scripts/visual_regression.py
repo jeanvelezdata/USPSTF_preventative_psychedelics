@@ -361,21 +361,33 @@ def main() -> None:
                 lines.append(f'  GEOMETRY {issue}')
                 unexplained.append(issue)
 
-        # Step 3 — row-count-independent bands. Valid only at equal image
-        # height (see band_diff); at different heights the title and legend
-        # sit at different absolute offsets and every comparison is a false
-        # positive. Report the skip rather than emitting noise.
-        for png in (f'{condition}_Tier1_ForestPlot.png', f'{condition}_Tier2_CatPlot.png'):
+        # Step 3 — row-count-independent bands. Valid only when BOTH the image
+        # height and the plotted row count are unchanged. Equal height alone is
+        # not enough: the figure height has a floor, so a figure at the floor
+        # keeps its canvas size while losing a row, and the axes region
+        # re-centres inside it — moving the title and legend even though
+        # nothing about their styling changed. Comparing those pixels would
+        # report a deliberate reclassification as a styling regression.
+        for png, new_tbl, base_tbl, is_t1 in (
+            (f'{condition}_Tier1_ForestPlot.png',
+             _ROOT / 'tables' / f'{condition}_Tier1_HedgesG.xlsx',
+             BASELINE_DIR / f'{condition}_Tier1_HedgesG.xlsx', True),
+            (f'{condition}_Tier2_CatPlot.png',
+             _ROOT / 'tables' / f'{condition}_Tier2_Qualitative.xlsx',
+             BASELINE_DIR / f'{condition}_Tier2_Qualitative.xlsx', False),
+        ):
             b, n = BASELINE_DIR / png, _ROOT / 'figures' / png
             if not (b.exists() and n.exists()):
                 continue
             gb, gn = load_gray(b), load_gray(n)
-            if gb.shape[0] != gn.shape[0]:
-                lines.append(f'  BAND {png}: SKIPPED — image height {gb.shape[0]}px -> '
-                             f'{gn.shape[0]}px. The row count changed, so the title and legend '
-                             f'sit at different absolute offsets and a pixel band comparison '
-                             f'cannot distinguish styling from geometry. The geometry check '
-                             f'above is what covers this figure.')
+            n_plotted, _ = counts(new_tbl, is_t1)
+            b_plotted, _ = counts(base_tbl, is_t1)
+            if gb.shape[0] != gn.shape[0] or n_plotted != b_plotted:
+                lines.append(f'  BAND {png}: SKIPPED — height {gb.shape[0]}px -> {gn.shape[0]}px, '
+                             f'plotted rows {b_plotted} -> {n_plotted}. Layout geometry changed, so '
+                             f'the title and legend sit at different offsets and a pixel band '
+                             f'comparison cannot distinguish styling from geometry. The geometry '
+                             f'check above is what covers this figure.')
                 continue
             for issue in band_diff(gb, gn):
                 lines.append(f'  BAND {png}: {issue}')

@@ -63,6 +63,7 @@ first_author_surname = analysis.first_author_surname
 
 sys.path.append(str(_ROOT / 'scripts'))                  # for _config_<condition>
 import reconcile_manifest as recon                       # noqa: E402
+import apply_adjudication                                # noqa: E402
 
 MANIFEST = _BASE / 'inputs' / 'manifest.csv'
 TEXT_DIR = _BASE / 'inputs' / 'text'
@@ -631,7 +632,19 @@ def write_outputs(articles: list[dict], events: list[dict], rat_article: dict,
     master = pd.DataFrame(
         [{f: a.get(f) for f in lib.ARTICLE_FIELDS} for a in articles],
         columns=lib.ARTICLE_FIELDS,
-    ).sort_values(['Condition', 'StudyID'])
+    ).sort_values(['Condition', 'StudyID']).reset_index(drop=True)
+
+    # The human adjudication in output.md is a durable layer on top of the raw
+    # extraction, not a one-shot edit of the CSV. Re-applying it here means a
+    # re-merge cannot silently revert decisions a human already made.
+    applied, _, adj_errors = apply_adjudication.apply_to_frame(master)
+    if adj_errors:
+        raise SystemExit('FATAL: output.md no longer applies cleanly to the merged '
+                         'master. Nothing written.\n  ' + '\n  '.join(adj_errors))
+    if applied:
+        print(f'  Re-applied {len(applied)} adjudicated correction(s) from output.md.')
+        pd.DataFrame(applied).to_csv(out_dir / 'adjudication_applied.csv', index=False)
+
     master.to_csv(out_dir / 'clinical_master.csv', index=False)
     master.to_excel(out_dir / 'clinical_master.xlsx', index=False)
 
