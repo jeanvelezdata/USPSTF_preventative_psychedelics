@@ -1,0 +1,22 @@
+{
+  "StudyID": "Sessa 2021",
+  "Condition": "Alcohol",
+  "surname_token": "Sessa",
+  "Year": 2021,
+  "citation_manifest": "Sessa, B., Higbed, L., O'Brien, S., Durant, C., Sakal, C., Titheradge, D., Williams, T. M., Rose-Morris, A., Brew-Girard, E., Burrows, S., Wiseman, C., Wilson, S., Rickard, J., & Nutt, D. J. (2021). First study of safety and tolerability of 3,4-methylenedioxymethamphetamine-assisted psychotherapy in patients with alcohol use disorder. Journal of Psychopharmacology, 35(4), 375-383.",
+  "SourcePDF": "alcohol/BIMA_Paper_for_Pure (1).pdf",
+  "text_path": "clinical_trials/inputs/text/Sessa 2021.md",
+  "text_sha256": "85ec3eabc68dfe92dcd16549d261e0bc85d120930640e361b6caf30a55afcd05",
+  "text_source": "born-digital",
+  "text_format": "markdown",
+  "fidelity_note": "",
+  "prompt_path": "clinical_trials/prompts/clinical_extraction_prompt_v1_1.md",
+  "prompt_sha256": "fb6e90e2349219a75f7667dffbe869819bf312b1dda1db595638cff983b8eb55",
+  "rubric_sha256": "690a633e8df5a412fe1e34ce05dce42953f6ca1ed8d7f39e55097104802d09bd",
+  "Model": "claude-sonnet-5",
+  "PromptVersion": "v1.2",
+  "RubricVersion": "v1",
+  "Temperature": 1,
+  "temperature_configured": "no — Claude Code subagents expose no sampling-temperature control, so this is the harness default rather than the design's configured 0. Recorded honestly rather than as a 0 that never happened.",
+  "requested_utc": "2026-08-07T14:41:42+00:00"
+}

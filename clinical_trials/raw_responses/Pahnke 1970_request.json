@@ -1,0 +1,22 @@
+{
+  "StudyID": "Pahnke 1970",
+  "Condition": "Alcohol",
+  "surname_token": "Pahnke",
+  "Year": 1970,
+  "citation_manifest": "Pahnke, W. N., Kurland, A. A., Unger, S., Savage, C., & Grof, S. (1970). The experimental use of psychedelic (LSD) psychotherapy. JAMA, 212(11), 1856-1863.",
+  "SourcePDF": "alcohol/Pahnke, W. N., Kurland, A. A., Unger, S., Savage, C., & Grof, S. (1970). The experimental use of psychedelic (LSD) psychotherapy.pdf",
+  "text_path": "clinical_trials/inputs/text/Pahnke 1970.md",
+  "text_sha256": "e09845daf02648f5f1276ea32266ab779369bcc3231b6e273df1e928bde5e1cc",
+  "text_source": "born-digital",
+  "text_format": "markdown",
+  "fidelity_note": "",
+  "prompt_path": "clinical_trials/prompts/clinical_extraction_prompt_v1_1.md",
+  "prompt_sha256": "fb6e90e2349219a75f7667dffbe869819bf312b1dda1db595638cff983b8eb55",
+  "rubric_sha256": "690a633e8df5a412fe1e34ce05dce42953f6ca1ed8d7f39e55097104802d09bd",
+  "Model": "claude-sonnet-5",
+  "PromptVersion": "v1.2",
+  "RubricVersion": "v1",
+  "Temperature": 1,
+  "temperature_configured": "no — Claude Code subagents expose no sampling-temperature control, so this is the harness default rather than the design's configured 0. Recorded honestly rather than as a 0 that never happened.",
+  "requested_utc": "2026-08-07T14:41:42+00:00"
+}

@@ -51,10 +51,27 @@ def main() -> None:
     output_path = _BASE / 'data' / f'{condition.capitalize()}_Dataset_Cleaned.xlsx'
 
     if not input_path.exists():
-        print(f"ERROR: Input file not found: {input_path}", file=sys.stderr)
+        print(f"ERROR: Input file not found: {input_path}\n"
+              f"       The master table is produced by "
+              f"clinical_trials/scripts/merge_validate.py.", file=sys.stderr)
         sys.exit(1)
 
-    df_raw   = pd.read_excel(input_path)
+    # One master table for all conditions; Condition is a column, not a file.
+    df_raw = (pd.read_csv(input_path) if input_path.suffix == '.csv'
+              else pd.read_excel(input_path))
+    df_raw = df_raw[df_raw['Condition'] == cfg.CONDITION_LABEL].reset_index(drop=True)
+    if df_raw.empty:
+        print(f"ERROR: no rows with Condition == {cfg.CONDITION_LABEL!r} in {input_path}",
+              file=sys.stderr)
+        sys.exit(1)
+
+    # Eligibility filter runs before clean()'s effect-size step so ineligible
+    # studies never reach the config-key lookup (design §5.1).
+    n_before = len(df_raw)
+    df_raw   = lib.analytic_frame(df_raw)
+    print(f"Rows: {n_before} -> {len(df_raw)} after the eligibility filter "
+          f"(lib.INCLUDE_INELIGIBLE = {lib.INCLUDE_INELIGIBLE})")
+
     df_clean = lib.clean(df_raw, cfg)
 
     print(f"Rows: {len(df_clean)} | Columns: {len(df_clean.columns)}")

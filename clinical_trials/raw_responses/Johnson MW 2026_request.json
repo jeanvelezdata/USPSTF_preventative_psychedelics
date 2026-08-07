@@ -1,0 +1,22 @@
+{
+  "StudyID": "Johnson MW 2026",
+  "Condition": "Smoking",
+  "surname_token": "Johnson MW",
+  "Year": 2026,
+  "citation_manifest": "Johnson MW, Naude, G. P., Hendricks, P. S., & Garcia-Romeu, A. (2026). Psilocybin or nicotine patch for smoking cessation: A pilot randomized clinical trial. JAMA Network Open.",
+  "SourcePDF": "smoking/johnson_2026_oi_260062_1772564464.70221 (1).pdf",
+  "text_path": "clinical_trials/inputs/text/Johnson MW 2026.md",
+  "text_sha256": "bccf39be6a22677743d3b8eb1a16ac29005c014e099fb5005c26d351acdb77f8",
+  "text_source": "born-digital",
+  "text_format": "markdown",
+  "fidelity_note": "",
+  "prompt_path": "clinical_trials/prompts/clinical_extraction_prompt_v1_1.md",
+  "prompt_sha256": "fb6e90e2349219a75f7667dffbe869819bf312b1dda1db595638cff983b8eb55",
+  "rubric_sha256": "690a633e8df5a412fe1e34ce05dce42953f6ca1ed8d7f39e55097104802d09bd",
+  "Model": "claude-sonnet-5",
+  "PromptVersion": "v1.2",
+  "RubricVersion": "v1",
+  "Temperature": 1,
+  "temperature_configured": "no — Claude Code subagents expose no sampling-temperature control, so this is the harness default rather than the design's configured 0. Recorded honestly rather than as a 0 that never happened.",
+  "requested_utc": "2026-08-07T14:41:42+00:00"
+}

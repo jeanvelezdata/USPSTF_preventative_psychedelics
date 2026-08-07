@@ -1,0 +1,22 @@
+{
+  "StudyID": "Garcia-Romeu 2015",
+  "Condition": "Smoking",
+  "surname_token": "Garcia-Romeu",
+  "Year": 2015,
+  "citation_manifest": "Garcia-Romeu, A., Griffiths, R. R., & Johnson, M. W. (2015). Psilocybin-occasioned mystical experiences in the treatment of tobacco addiction. Current Drug Abuse Reviews, 7(3), 157-164.",
+  "SourcePDF": "smoking/nihms-648744.pdf",
+  "text_path": "clinical_trials/inputs/text/Garcia-Romeu 2015.md",
+  "text_sha256": "485d3b02901e8b9b0bb22214b2bfae0f583cc90ed52d4d1319f779c595218c06",
+  "text_source": "born-digital",
+  "text_format": "markdown",
+  "fidelity_note": "",
+  "prompt_path": "clinical_trials/prompts/clinical_extraction_prompt_v1_1.md",
+  "prompt_sha256": "fb6e90e2349219a75f7667dffbe869819bf312b1dda1db595638cff983b8eb55",
+  "rubric_sha256": "690a633e8df5a412fe1e34ce05dce42953f6ca1ed8d7f39e55097104802d09bd",
+  "Model": "claude-sonnet-5",
+  "PromptVersion": "v1.2",
+  "RubricVersion": "v1",
+  "Temperature": 1,
+  "temperature_configured": "no — Claude Code subagents expose no sampling-temperature control, so this is the harness default rather than the design's configured 0. Recorded honestly rather than as a 0 that never happened.",
+  "requested_utc": "2026-08-07T14:41:42+00:00"
+}

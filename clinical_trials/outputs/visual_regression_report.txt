@@ -1,0 +1,238 @@
+Clinical-Trial Visual Regression — design §8 check 14, §9.2
+==========================================================
+
+Source commit:   ba8c217983d0b2a6d58db8d3e771d6a2a3f36871
+
+--- Alcohol ---
+  studies added:     1  ['Rothberg 2021']
+  studies removed:   2  ['Denson 1970', 'Rothberg 2020']
+  studies changed:   10
+      Dakwar 2020: confidence: 'approx' -> 'clean'
+      Das 2019: g: 1.050022641066006 -> 1.030450923618364; ci_lo: 0.6092635316523622 -> 0.2687431636741319; ci_hi: 1.49078175047965 -> 1.792158683562596; N: np.int64(90) -> np.float64(30.0)
+      Dusen 1967: N: np.int64(99) -> np.float64(nan)
+      Gent 2024: g: nan -> 0.9988500969260934; ci_lo: nan -> 0.2132023870672358; ci_hi: nan -> 1.784497806784951; confidence: 'excluded' -> 'clean'
+      Grabski 2022: N: np.int64(96) -> np.float64(89.0)
+      Johnson 1969: N: np.int64(95) -> np.float64(nan)
+      MacLean 1961: N: np.int64(100) -> np.float64(61.0)
+      Pagni 2025: g: 0.5436692862956268 -> 0.5006554539918388; ci_lo: 0.1081326312403269 -> 0.06629961154014274; ci_hi: 0.9792059413509268 -> 0.9350112964435348
+      Terasaki 2022: g: 0.5383128218674125 -> 0.5333448722918398; ci_lo: -0.06325729717324724 -> -0.1949587395527955; ci_hi: 1.139882940908072 -> 1.261648484136475; N: np.int64(44) -> np.float64(30.0)
+      Tomsovic 1970: g: 0.3929268683947375 -> 0.7422285595678828; ci_lo: 0.1073084308413916 -> 0.2100797773343431; ci_hi: 0.6785453059480835 -> 1.274377341801423; confidence: 'approx' -> 'clean'; N: np.int64(192) -> np.float64(58.0)
+  studies unchanged: 21
+  BAND Alcohol_Tier1_ForestPlot.png: SKIPPED — image height 2878px -> 3010px. The row count changed, so the title and legend sit at different absolute offsets and a pixel band comparison cannot distinguish styling from geometry. The geometry check above is what covers this figure.
+  BAND Alcohol_Tier2_CatPlot.png: SKIPPED — image height 3777px -> 3528px. The row count changed, so the title and legend sit at different absolute offsets and a pixel band comparison cannot distinguish styling from geometry. The geometry check above is what covers this figure.
+  DOCX-FORMAT (explained: stale baseline) Alcohol_Descriptive_Analyses.docx table 1: dimensions 26x4 -> 27x4
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T2 r0c1: 'All studies\n(n=33)' -> 'All studies\n(n=32)'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T2 r0c2: 'Pre-1980\n(n=13)' -> 'Pre-1980\n(n=12)'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T2 r1c1: '64%' -> '56%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T2 r1c2: '54%' -> '42%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T2 r1c3: '70%' -> '65%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T2 r2c1: '52%' -> '47%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T2 r2c2: '46%' -> '33%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T2 r3c1: '36%' -> '34%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T2 r3c2: '15%' -> '8%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T2 r4c1: '67%' -> '66%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T2 r4c2: '69%' -> '67%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T2 r5c1: '21%' -> '44%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T2 r5c2: '0%' -> '8%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T2 r5c3: '35%' -> '65%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T2 r6c1: '79%' -> '72%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T2 r6c2: '54%' -> '50%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T2 r6c3: '95%' -> '85%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T2 r7c1: '73%' -> '69%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T2 r7c2: '31%' -> '17%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T2 r8c1: '73%' -> '84%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T2 r8c2: '69%' -> '83%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T2 r8c3: '75%' -> '85%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T2 r9c1: '82%' -> '78%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T2 r9c2: '54%' -> '50%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T2 r9c3: '100%' -> '95%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T2 r10c1: '39%' -> '50%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T2 r10c2: '8%' -> '17%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T2 r10c3: '60%' -> '70%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T2 r11c1: '85%' -> '84%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T2 r11c2: '62%' -> '58%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T3 r2c2: '100%' -> '—'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T3 r4c2: '64%' -> '56%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T3 r5c2: '52%' -> '47%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T3 r6c2: '36%' -> '34%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T3 r7c2: '67%' -> '66%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T3 r8c2: '100%' -> '94%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T3 r10c2: '21%' -> '44%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T3 r11c2: '79%' -> '72%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T3 r12c2: '73%' -> '69%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T3 r13c2: '73%' -> '84%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T3 r14c2: '82%' -> '78%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T3 r15c2: '39%' -> '50%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T3 r16c2: '85%' -> '84%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T3 r18c2: '97%' -> '69%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T3 r19c2: '82%' -> '88%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T3 r21c2: '42%' -> '44%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T3 r22c2: '18%' -> '19%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T3 r24c2: '18%' -> '25%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T3 r27c2: '85%' -> '91%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T3 r28c2: '76%' -> '78%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T3 r34c2: '73%' -> '78%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T3 r36c2: '58%' -> '50%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T3 r37c2: '79%' -> '69%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T3 r38c2: '100%' -> '97%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T3 r40c2: '30%' -> '53%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T3 r41c2: '61%' -> '53%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T3 r42c2: '18%' -> '19%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T3 r43c2: '27%' -> '34%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T3 r44c2: '82%' -> '84%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T3 r45c2: '67%' -> '66%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T3 r46c2: '33%' -> '56%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T3 r47c2: '3%' -> '6%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T3 r49c2: '24%' -> '25%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T3 r51c2: '39%' -> '38%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T3 r52c2: '0%' -> '3%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T3 r55c2: '24%' -> '25%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T3 r58c2: '0%' -> '3%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T4 r0c1: 'All studies\n(n=33)' -> 'All studies\n(n=32)'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T4 r0c2: 'Pre-1980\n(n=13)' -> 'Pre-1980\n(n=12)'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T4 r2c1: '30%' -> '53%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T4 r2c2: '15%' -> '33%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T4 r2c3: '40%' -> '65%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T4 r3c1: '61%' -> '53%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T4 r3c2: '38%' -> '25%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T4 r3c3: '75%' -> '70%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T4 r4c1: '18%' -> '19%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T4 r5c1: '27%' -> '34%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T4 r5c2: '0%' -> '8%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T4 r5c3: '45%' -> '50%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T4 r6c1: '82%' -> '84%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T4 r6c2: '69%' -> '75%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T4 r7c1: '67%' -> '66%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T4 r8c1: '33%' -> '56%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T4 r8c2: '15%' -> '67%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T4 r8c3: '45%' -> '50%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T4 r9c1: '3%' -> '6%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T4 r9c2: '8%' -> '17%'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T5 r0c1: 'All studies\n(n=33)' -> 'All studies\n(n=32)'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T5 r0c2: 'Pre-1980\n(n=13)' -> 'Pre-1980\n(n=12)'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T5 r4c1: '5 (15%)' -> '5 (16%)'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T5 r5c1: '11 (33%)' -> '10 (31%)'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T5 r5c2: '3 (23%)' -> '3 (25%)'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T5 r5c3: '8 (40%)' -> '7 (35%)'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T5 r6c1: '8 (24%)' -> '7 (22%)'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T5 r6c2: '8 (62%)' -> '7 (58%)'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T5 r7c2: '2 (15%)' -> '2 (17%)'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T5 r9c1: '26 (79%)' -> '24 (75%)'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T5 r9c2: '13 (100%)' -> '12 (100%)'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T5 r9c3: '13 (65%)' -> '12 (60%)'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T5 r10c1: '21 (64%)' -> '19 (59%)'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T5 r10c2: '13 (100%)' -> '12 (100%)'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T5 r10c3: '8 (40%)' -> '7 (35%)'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T5 r11c1: '10 (30%)' -> '9 (28%)'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T5 r11c2: '10 (77%)' -> '9 (75%)'
+  DOCX-VALUE (explained) Alcohol_Descriptive_Analyses.docx T5 r12c2: '2 (15%)' -> '2 (17%)'
+
+--- Smoking ---
+  studies added:     0  []
+  studies removed:   0  []
+  studies changed:   1
+      Johnson MW 2026: confidence: 'approx' -> 'clean'
+  studies unchanged: 3
+  DOCX-FORMAT (explained: stale baseline) Smoking_Descriptive_Analyses.docx table 1: dimensions 26x4 -> 27x4
+  DOCX-VALUE (explained) Smoking_Descriptive_Analyses.docx T2 r5c1: '0%' -> '25%'
+  DOCX-VALUE (explained) Smoking_Descriptive_Analyses.docx T2 r5c3: '0%' -> '25%'
+  DOCX-VALUE (explained) Smoking_Descriptive_Analyses.docx T2 r6c1: '50%' -> '100%'
+  DOCX-VALUE (explained) Smoking_Descriptive_Analyses.docx T2 r6c3: '50%' -> '100%'
+  DOCX-VALUE (explained) Smoking_Descriptive_Analyses.docx T2 r8c1: '25%' -> '100%'
+  DOCX-VALUE (explained) Smoking_Descriptive_Analyses.docx T2 r8c3: '25%' -> '100%'
+  DOCX-VALUE (explained) Smoking_Descriptive_Analyses.docx T2 r9c1: '50%' -> '75%'
+  DOCX-VALUE (explained) Smoking_Descriptive_Analyses.docx T2 r9c3: '50%' -> '75%'
+  DOCX-VALUE (explained) Smoking_Descriptive_Analyses.docx T2 r10c1: '100%' -> '25%'
+  DOCX-VALUE (explained) Smoking_Descriptive_Analyses.docx T2 r10c3: '100%' -> '25%'
+  DOCX-VALUE (explained) Smoking_Descriptive_Analyses.docx T3 r2c2: '100%' -> '—'
+  DOCX-VALUE (explained) Smoking_Descriptive_Analyses.docx T3 r10c2: '0%' -> '25%'
+  DOCX-VALUE (explained) Smoking_Descriptive_Analyses.docx T3 r11c2: '50%' -> '100%'
+  DOCX-VALUE (explained) Smoking_Descriptive_Analyses.docx T3 r13c2: '25%' -> '100%'
+  DOCX-VALUE (explained) Smoking_Descriptive_Analyses.docx T3 r14c2: '50%' -> '75%'
+  DOCX-VALUE (explained) Smoking_Descriptive_Analyses.docx T3 r15c2: '100%' -> '25%'
+  DOCX-VALUE (explained) Smoking_Descriptive_Analyses.docx T3 r18c2: '0%' -> '100%'
+  DOCX-VALUE (explained) Smoking_Descriptive_Analyses.docx T3 r19c2: '0%' -> '100%'
+  DOCX-VALUE (explained) Smoking_Descriptive_Analyses.docx T3 r21c2: '100%' -> '75%'
+  DOCX-VALUE (explained) Smoking_Descriptive_Analyses.docx T3 r22c2: '75%' -> '0%'
+  DOCX-VALUE (explained) Smoking_Descriptive_Analyses.docx T3 r23c2: '75%' -> '100%'
+  DOCX-VALUE (explained) Smoking_Descriptive_Analyses.docx T3 r36c2: '50%' -> '25%'
+  DOCX-VALUE (explained) Smoking_Descriptive_Analyses.docx T3 r40c2: '75%' -> '100%'
+  DOCX-VALUE (explained) Smoking_Descriptive_Analyses.docx T3 r41c2: '25%' -> '75%'
+  DOCX-VALUE (explained) Smoking_Descriptive_Analyses.docx T3 r42c2: '25%' -> '0%'
+  DOCX-VALUE (explained) Smoking_Descriptive_Analyses.docx T3 r43c2: '25%' -> '0%'
+  DOCX-VALUE (explained) Smoking_Descriptive_Analyses.docx T3 r44c2: '50%' -> '100%'
+  DOCX-VALUE (explained) Smoking_Descriptive_Analyses.docx T3 r46c2: '50%' -> '75%'
+  DOCX-VALUE (explained) Smoking_Descriptive_Analyses.docx T4 r2c1: '75%' -> '100%'
+  DOCX-VALUE (explained) Smoking_Descriptive_Analyses.docx T4 r2c3: '75%' -> '100%'
+  DOCX-VALUE (explained) Smoking_Descriptive_Analyses.docx T4 r3c1: '25%' -> '75%'
+  DOCX-VALUE (explained) Smoking_Descriptive_Analyses.docx T4 r3c3: '25%' -> '75%'
+  DOCX-VALUE (explained) Smoking_Descriptive_Analyses.docx T4 r4c1: '25%' -> '0%'
+  DOCX-VALUE (explained) Smoking_Descriptive_Analyses.docx T4 r4c3: '25%' -> '0%'
+  DOCX-VALUE (explained) Smoking_Descriptive_Analyses.docx T4 r5c1: '25%' -> '0%'
+  DOCX-VALUE (explained) Smoking_Descriptive_Analyses.docx T4 r5c3: '25%' -> '0%'
+  DOCX-VALUE (explained) Smoking_Descriptive_Analyses.docx T4 r6c1: '50%' -> '100%'
+  DOCX-VALUE (explained) Smoking_Descriptive_Analyses.docx T4 r6c3: '50%' -> '100%'
+  DOCX-VALUE (explained) Smoking_Descriptive_Analyses.docx T4 r8c1: '50%' -> '75%'
+  DOCX-VALUE (explained) Smoking_Descriptive_Analyses.docx T4 r8c3: '50%' -> '75%'
+
+--- Opioid ---
+  studies added:     0  []
+  studies removed:   0  []
+  studies changed:   3
+      D.C. Mash 2000: N: np.int64(27) -> np.float64(nan)
+      Jovaisa T 2006: substance: 'Ibogaine' -> 'Ketamine'
+      Savage 1973: g: 0.4642770438576803 -> 0.4675526859320396; ci_lo: 0.00248800615157968 -> 0.002525105787724635; ci_hi: 0.9260660815637809 -> 0.9325802660763547; N: np.int64(74) -> np.float64(73.0)
+  studies unchanged: 4
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T1 r1c1: '50.0 (27.0–61.5)' -> '51.5 (32.8–65.8)'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T1 r1c2: '74 (74–74)' -> '73 (73–73)'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T1 r2c1: '321' -> '293'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T1 r2c2: '74' -> '73'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T1 r9c1: '6 (86%)' -> '4 (57%)'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T1 r9c3: '1 (50%)' -> '0 (0%)'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T1 r10c1: '1 (14%)' -> '0 (0%)'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T1 r10c3: '1 (50%)' -> '0 (0%)'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T1 r12c1: '0 (0%)' -> '3 (43%)'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T1 r12c3: '0 (0%)' -> '2 (100%)'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T1 r20c1: '93.4 (8.8), n=6' -> '92.0 (10.7), n=6'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T1 r24c1: '2 (29%)' -> '3 (43%)'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T1 r26c1: '4 (57%)' -> '3 (43%)'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T2 r5c1: '14%' -> '29%'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T2 r6c1: '71%' -> '57%'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T2 r8c1: '57%' -> '86%'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T2 r8c3: '50%' -> '100%'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T2 r10c1: '57%' -> '43%'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T3 r2c2: '100%' -> '—'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T3 r8c2: '100%' -> '86%'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T3 r10c2: '14%' -> '29%'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T3 r11c2: '71%' -> '57%'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T3 r13c2: '57%' -> '86%'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T3 r15c2: '57%' -> '43%'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T3 r18c2: '100%' -> '57%'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T3 r24c2: '43%' -> '0%'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T3 r28c2: '86%' -> '100%'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T3 r30c2: '0%' -> '14%'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T3 r36c2: '71%' -> '43%'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T3 r40c2: '29%' -> '100%'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T3 r44c2: '29%' -> '14%'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T3 r47c2: '14%' -> '43%'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T3 r53c2: '57%' -> '43%'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T3 r55c2: '29%' -> '43%'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T4 r2c1: '29%' -> '100%'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T4 r2c2: '0%' -> '100%'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T4 r2c3: '50%' -> '100%'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T4 r3c3: '50%' -> '0%'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T4 r6c1: '29%' -> '14%'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T4 r6c2: '100%' -> '0%'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T4 r9c1: '14%' -> '43%'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T4 r9c2: '0%' -> '100%'
+  DOCX-VALUE (explained) Opioid_Descriptive_Analyses.docx T4 r9c3: '0%' -> '50%'
+
+--- Declared differences (§9.2) ---
+  Alcohol_MethQual_BarPlot.png: changed — licensed: bar heights rewired from stale Table 2 literals to the live cleaned frame (§6.4)
+
+==========================================================
+explained by added/removed study: 3
+explained by changed value:       14
+UNEXPLAINED:                      0
+
+GATE PASSED — every difference is explained by the row-set diff.

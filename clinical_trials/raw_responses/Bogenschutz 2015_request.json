@@ -1,0 +1,22 @@
+{
+  "StudyID": "Bogenschutz 2015",
+  "Condition": "Alcohol",
+  "surname_token": "Bogenschutz",
+  "Year": 2015,
+  "citation_manifest": "Bogenschutz, M. P., Forcehimes, A. A., Pommy, J. A., Wilcox, C. E., Barbosa, P. C. R., & Strassman, R. J. (2015). Psilocybin-assisted treatment for alcohol dependence: A proof-of-concept study. Journal of Psychopharmacology, 29(3), 289-299.",
+  "SourcePDF": "alcohol/Psilocybin-assisted treatment for alcohol dependence - A proof-of-concept study (Bogenschutz et al., 2015) (1).pdf",
+  "text_path": "clinical_trials/inputs/text/Bogenschutz 2015.md",
+  "text_sha256": "0eabe3d1a8b8060d064a45c24f3f5fb9a1f6b62afee5b3cf0d905c5f8dba0289",
+  "text_source": "born-digital",
+  "text_format": "markdown",
+  "fidelity_note": "",
+  "prompt_path": "clinical_trials/prompts/clinical_extraction_prompt_v1_1.md",
+  "prompt_sha256": "fb6e90e2349219a75f7667dffbe869819bf312b1dda1db595638cff983b8eb55",
+  "rubric_sha256": "690a633e8df5a412fe1e34ce05dce42953f6ca1ed8d7f39e55097104802d09bd",
+  "Model": "claude-sonnet-5",
+  "PromptVersion": "v1.2",
+  "RubricVersion": "v1",
+  "Temperature": 1,
+  "temperature_configured": "no — Claude Code subagents expose no sampling-temperature control, so this is the harness default rather than the design's configured 0. Recorded honestly rather than as a 0 that never happened.",
+  "requested_utc": "2026-08-07T14:41:42+00:00"
+}

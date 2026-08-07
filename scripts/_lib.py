@@ -98,6 +98,38 @@ def first_author_surname(citation: str) -> str:
     )
 
 
+# Flip to True and re-run run_pipeline.py to see every figure and table with
+# the ineligible studies included. Ineligibility is an inclusion criterion for
+# the evidence base, not a data-quality flag, so the default is to exclude.
+INCLUDE_INELIGIBLE: bool = False
+
+
+def analytic_frame(df: pd.DataFrame) -> pd.DataFrame:
+    """Drop studies the eligibility screen rejected (clinical design §5.1).
+
+    The manuscript's claim is about the clinical-trial evidence base for SUD
+    outcomes, so a non-trial or a trial with no SUD outcome on the forest plot
+    misrepresents that base — and a study with no SUD outcome has no effect
+    size for EFFECT_SIZE_EXTRACTIONS to key on in the first place.
+
+    This is the single filter. It is applied once, in clean_dataset.py, before
+    the effect-size step, so ineligible studies never reach the config-key
+    lookup and cannot raise a spurious KeyError. Because
+    data/<Condition>_Dataset_Cleaned.xlsx is the sole input to all four
+    downstream scripts, filtering here covers every figure and table.
+
+    A frame with no EligibleYN column (the frozen files) passes through
+    unchanged.
+    """
+    if INCLUDE_INELIGIBLE or 'EligibleYN' not in df.columns:
+        return df
+    keep = df['EligibleYN'].astype('string').str.strip().eq('Y')
+    dropped = df.loc[~keep, 'Citation/Title'] if 'Citation/Title' in df.columns else []
+    for citation in dropped:
+        print(f'  excluded (EligibleYN != Y): {first_author_surname(citation)}')
+    return df[keep].reset_index(drop=True)
+
+
 def recode_binary(series: pd.Series) -> pd.Series:
     """Convert binary column to {0, 1, 'Does not apply', NaN}."""
     numeric = pd.to_numeric(series, errors='coerce')
@@ -149,7 +181,11 @@ def clean(df: pd.DataFrame, config: Any) -> pd.DataFrame:
     """
     df = df.copy()
 
-    # Normalise column-name variants across datasets
+    # Normalise column-name variants across datasets.
+    # DEAD CODE since the merge to one master table: clinical_master.csv emits
+    # the canonical spellings and 'Study Design Type' no longer exists. Kept so
+    # the frozen data/<Condition>_Dataset.xlsx files still load unchanged for
+    # the old/new migration comparison, which reads them directly.
     if 'Retention' in df.columns and 'Retention (%)' not in df.columns:
         df = df.rename(columns={'Retention': 'Retention (%)'})
     if 'StudyDesignType' in df.columns and 'Study Design Type' not in df.columns:
@@ -173,7 +209,10 @@ def clean(df: pd.DataFrame, config: Any) -> pd.DataFrame:
             df['Country_USvsNonUS'].map(COUNTRY_MAP).fillna(df['Country_USvsNonUS'])
         )
 
-    # 4. Age_Median: stray numeric '45' → '30-50'; ordered categorical
+    # 4. Age_Median: stray numeric '45' → '30-50'; ordered categorical.
+    # The '45' remap is DEAD CODE — no row anywhere holds that value. The four
+    # frozen rows holding raw numerics (48.5, 51.0 x3) still fall through to
+    # NaN; the fix is upstream, where extraction now emits the bracket.
     if 'Age_Median' in df.columns:
         df['Age_Median'] = df['Age_Median'].astype('string').replace({'45': '30-50'})
         df['Age_Median'] = pd.Categorical(
@@ -276,6 +315,12 @@ def compute(rule: dict, measure: Any, n_total: float) -> dict | None:
     if method is None or pd.isna(measure) or pd.isna(n_total):
         return None
 
+    # A measure that is a descriptive string ("23.5% vs 47.8%") carries no
+    # single number to convert. Treat it as excluded rather than raising: the
+    # plot-frame contract requires the row to be produced with a null g.
+    if pd.to_numeric(pd.Series([measure]), errors='coerce').isna().iloc[0]:
+        return None
+
     direction = rule.get('direction', 1)
     d = convert_to_d(method, measure, n_total, rule) * direction
 
@@ -300,7 +345,12 @@ def build_results(df: pd.DataFrame, conversion_rules: dict) -> pd.DataFrame:
         rule = conversion_rules.get(
             key, {'method': None, 'confidence': 'excluded', 'note': 'Rule not defined'}
         )
-        n = float(r['SampleSize_NFinal'])
+        # A study whose analysed N was never reported now reaches here: the
+        # extraction codes it '.', which cleans to NA. compute() already
+        # returns None for a missing n_total, but float(pd.NA) raises before
+        # it gets the chance. Coerce so the row is produced with a null g and
+        # kept for traceability, per the plot-frame contract.
+        n = pd.to_numeric(r['SampleSize_NFinal'], errors='coerce')
         result = compute(rule, r.get('measure'), n)
         rows.append({
             'study':      f"{key[0]} {key[1]}",

@@ -1,0 +1,22 @@
+{
+  "StudyID": "Heinzerling 2023",
+  "Condition": "Alcohol",
+  "surname_token": "Heinzerling",
+  "Year": 2023,
+  "citation_manifest": "Heinzerling, K. G., Sergi, K., Linton, M., Rich, R., Youssef, B., Bentancourt, I., Bramen, J., Siddarth, P., Schwartzberg, L., & Kelly, D. F. (2023). Nature-themed video intervention may improve cardiovascular safety of psilocybin-assisted therapy for alcohol use disorder. Frontiers in Psychiatry, 14, 1215972.",
+  "SourcePDF": "alcohol/Heinzerling, K. G., Sergi,. Nature-themed video intervention.pdf",
+  "text_path": "clinical_trials/inputs/text/Heinzerling 2023.md",
+  "text_sha256": "87d89f0a15c8bfe8c20faa2203f589cd13a1d6ffb5e3ae1d69db950257c93f84",
+  "text_source": "born-digital",
+  "text_format": "markdown",
+  "fidelity_note": "",
+  "prompt_path": "clinical_trials/prompts/clinical_extraction_prompt_v1_1.md",
+  "prompt_sha256": "fb6e90e2349219a75f7667dffbe869819bf312b1dda1db595638cff983b8eb55",
+  "rubric_sha256": "690a633e8df5a412fe1e34ce05dce42953f6ca1ed8d7f39e55097104802d09bd",
+  "Model": "claude-sonnet-5",
+  "PromptVersion": "v1.2",
+  "RubricVersion": "v1",
+  "Temperature": 1,
+  "temperature_configured": "no — Claude Code subagents expose no sampling-temperature control, so this is the harness default rather than the design's configured 0. Recorded honestly rather than as a 0 that never happened.",
+  "requested_utc": "2026-08-07T14:41:42+00:00"
+}

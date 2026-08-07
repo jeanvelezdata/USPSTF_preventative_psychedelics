@@ -1,0 +1,22 @@
+{
+  "StudyID": "Bogenschutz 2022",
+  "Condition": "Alcohol",
+  "surname_token": "Bogenschutz",
+  "Year": 2022,
+  "citation_manifest": "Bogenschutz, M. P., Ross, S., Bhatt, S., Baron, T., Forcehimes, A. A., Laska, E., Mennenga, S. E., O'Donnell, K., Owens, L. T., Podrebarac, S., Rotrosen, J., Tonigan, J. S., & Worth, L. (2022). Percentage of heavy drinking days following psilocybin-assisted psychotherapy vs placebo in the treatment of adult patients with alcohol use disorder: A randomized clinical trial. JAMA Psychiatry, 79(10), 953-962.",
+  "SourcePDF": "alcohol/jamapsychiatry_bogenschutz_2022_oi_220046_1664208846.29988 (1).pdf",
+  "text_path": "clinical_trials/inputs/text/Bogenschutz 2022.md",
+  "text_sha256": "d2b48c4169b0280d132d4b1912ed33c1cfba3251300bca79651c1529b2e9387e",
+  "text_source": "born-digital",
+  "text_format": "markdown",
+  "fidelity_note": "",
+  "prompt_path": "clinical_trials/prompts/clinical_extraction_prompt_v1_1.md",
+  "prompt_sha256": "fb6e90e2349219a75f7667dffbe869819bf312b1dda1db595638cff983b8eb55",
+  "rubric_sha256": "690a633e8df5a412fe1e34ce05dce42953f6ca1ed8d7f39e55097104802d09bd",
+  "Model": "claude-sonnet-5",
+  "PromptVersion": "v1.2",
+  "RubricVersion": "v1",
+  "Temperature": 1,
+  "temperature_configured": "no — Claude Code subagents expose no sampling-temperature control, so this is the harness default rather than the design's configured 0. Recorded honestly rather than as a 0 that never happened.",
+  "requested_utc": "2026-08-07T14:41:42+00:00"
+}

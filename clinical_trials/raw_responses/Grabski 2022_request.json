@@ -1,0 +1,22 @@
+{
+  "StudyID": "Grabski 2022",
+  "Condition": "Alcohol",
+  "surname_token": "Grabski",
+  "Year": 2022,
+  "citation_manifest": "Grabski, M., McAndrew, A., Lawn, W., Marsh, B., Raymen, L., Stevens, T., Hardy, L., Warren, F., Bloomfield, M., Borissova, A., Maschauer, E., Broomby, R., Price, R., Coathup, R., Gilhooly, D., Palmer, E., Gordon-Williams, R., Hill, R., Harris, J., ... Morgan, C. J. A. (2022). Adjunctive ketamine with relapse prevention-based psychological therapy in the treatment of alcohol use disorder. American Journal of Psychiatry, 179(2), 152-162.",
+  "SourcePDF": "alcohol/grabski-et-al-2022-adjunctive-ketamine-with-relapse-prevention-based-psychological-therapy-in-the-treatment-of-alcohol (1).pdf",
+  "text_path": "clinical_trials/inputs/text/Grabski 2022.md",
+  "text_sha256": "8418c30b1af7d75e9a2f9125ca8c2f4e13c19c39969a2736936d0b160303fa0d",
+  "text_source": "born-digital",
+  "text_format": "markdown",
+  "fidelity_note": "",
+  "prompt_path": "clinical_trials/prompts/clinical_extraction_prompt_v1_1.md",
+  "prompt_sha256": "fb6e90e2349219a75f7667dffbe869819bf312b1dda1db595638cff983b8eb55",
+  "rubric_sha256": "690a633e8df5a412fe1e34ce05dce42953f6ca1ed8d7f39e55097104802d09bd",
+  "Model": "claude-sonnet-5",
+  "PromptVersion": "v1.2",
+  "RubricVersion": "v1",
+  "Temperature": 1,
+  "temperature_configured": "no — Claude Code subagents expose no sampling-temperature control, so this is the harness default rather than the design's configured 0. Recorded honestly rather than as a 0 that never happened.",
+  "requested_utc": "2026-08-07T14:41:42+00:00"
+}

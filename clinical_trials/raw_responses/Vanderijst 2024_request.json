@@ -1,0 +1,22 @@
+{
+  "StudyID": "Vanderijst 2024",
+  "Condition": "Alcohol",
+  "surname_token": "Vanderijst",
+  "Year": 2024,
+  "citation_manifest": "Vanderijst, L., Hever, F., Buot, A., Daure, C., Benoit, J., Hanak, C., Veeser, J., Morgieve, M., Campanella, S., Kornreich, C., Mallet, L., Leys, C., & Noel, X. (2024). Psilocybin-assisted therapy for severe alcohol use disorder: protocol for a double-blind, randomized, placebo-controlled, 7-month parallel-group phase II superiority trial. BMC Psychiatry, 24, 77.",
+  "SourcePDF": "alcohol/s12888-024-05502-y (1).pdf",
+  "text_path": "clinical_trials/inputs/text/Vanderijst 2024.md",
+  "text_sha256": "9f69800184fb16334a84a0470ceea8a8d7772b976d28e6d470e56bcaaf3aa795",
+  "text_source": "born-digital",
+  "text_format": "markdown",
+  "fidelity_note": "",
+  "prompt_path": "clinical_trials/prompts/clinical_extraction_prompt_v1_1.md",
+  "prompt_sha256": "fb6e90e2349219a75f7667dffbe869819bf312b1dda1db595638cff983b8eb55",
+  "rubric_sha256": "690a633e8df5a412fe1e34ce05dce42953f6ca1ed8d7f39e55097104802d09bd",
+  "Model": "claude-sonnet-5",
+  "PromptVersion": "v1.2",
+  "RubricVersion": "v1",
+  "Temperature": 1,
+  "temperature_configured": "no — Claude Code subagents expose no sampling-temperature control, so this is the harness default rather than the design's configured 0. Recorded honestly rather than as a 0 that never happened.",
+  "requested_utc": "2026-08-07T14:41:42+00:00"
+}

@@ -1,0 +1,194 @@
+AE_ID,StudyID,AE_type,Description,NAffected,Onset,Severity,SeverityIndeterminate,SeveritySource,InterventionRequired,MeetsFDASerious
+Bogenschutz 2015_AE01,Bogenschutz 2015,AE,"Mild headache, resolved within 24 hours following psilocybin administration.",5,post-session-acute,Mild,N,rubric,.,N
+Bogenschutz 2015_AE02,Bogenschutz 2015,AE,Nausea with one episode of emesis during a psilocybin session.,1,in-session,Mild,N,rubric,.,N
+Bogenschutz 2015_AE03,Bogenschutz 2015,AE,Diarrhea during a psilocybin session in a participant with pre-existing irritable bowel syndrome.,1,in-session,Mild,N,rubric,.,N
+Bogenschutz 2015_AE04,Bogenschutz 2015,AE,Insomnia on the night following a psilocybin session.,1,post-session-acute,Mild,N,rubric,.,N
+Bogenschutz 2022_AE01,Bogenschutz 2022,AE,One diphenhydramine-group participant had 2 psychiatric hospital admissions for suicidal ideation during binge-drinking episodes.,1,delayed,Severe,N,author,Y,Y
+Bogenschutz 2022_AE02,Bogenschutz 2022,AE,One diphenhydramine-group participant hospitalized for a Mallory-Weiss tear from severe vomiting during a binge-drinking episode.,1,delayed,Severe,N,author,Y,Y
+Bogenschutz 2022_AE03,Bogenschutz 2022,AE,Headache within 48h of dosing: 21/48 (43.8%) psilocybin vs 2/45 (4.4%) diphenhydramine participants.,21,post-session-acute,Mild,Y,rubric,.,N
+Bogenschutz 2022_AE04,Bogenschutz 2022,both,"Anxiety during psilocybin sessions, more frequent than diphenhydramine; 2 participants received oral diazepam 10mg, resolving in 45-210 min.",.,in-session,Moderate,N,rubric,Y,N
+Bogenschutz 2022_AE05,Bogenschutz 2022,AE,Nausea reported more frequently during psilocybin dosing sessions than diphenhydramine; no participant count given.,.,in-session,Mild,Y,rubric,.,N
+Bogenschutz 2022_AE06,Bogenschutz 2022,AE,One psilocybin participant reported passive suicidal ideation for 15 minutes during dosing; resolved without sequelae.,1,in-session,Moderate,Y,rubric,N,N
+Costello 1969_AE01,Costello 1969,AE,"Respiratory paralysis (apnea) after succinylcholine injection during aversion conditioning; duration 63-150 sec, mean 90.4s (SD 24s), n=15 pilot patients.",15,in-session,Moderate,Y,rubric,.,N
+Costello 1969_AE02,Costello 1969,AE,"Post-conditioning physiological disturbances after succinylcholine: irregular heart rate, sudden muscle twitches, fluctuating GSR baseline, persisting for some time post-session.",.,post-session-acute,Mild,Y,rubric,.,N
+Costello 1969_AE03,Costello 1969,AE,"Diarrhea, described as mostly mild, associated with emetic-drug (emetine-based) aversion therapy across the reviewed literature.",.,unknown,Mild,N,author,.,N
+Costello 1969_AE04,Costello 1969,AE,Sinusitis reported as a side effect of emetic-drug aversion therapy in the reviewed literature; frequency and course not detailed.,.,unknown,Mild,Y,rubric,.,N
+Costello 1969_AE05,Costello 1969,AE,Cystitis reported as a side effect of emetic-drug aversion therapy in the reviewed literature; frequency and course not detailed.,.,unknown,Mild,Y,rubric,.,N
+Costello 1969_AE06,Costello 1969,AE,Prostatitis reported as a side effect of emetic-drug aversion therapy in the reviewed literature; frequency and course not detailed.,.,unknown,Mild,Y,rubric,.,N
+Costello 1969_AE07,Costello 1969,AE,"Neuromuscular disturbances, described as light to moderate, reported with emetic-drug aversion therapy in the reviewed literature.",.,unknown,Moderate,N,author,.,N
+Dakwar 2020_AE01,Dakwar 2020,AE,"Post-infusion sedation, most common adverse effect (ketamine N=8; midazolam comparator N=12).",8,post-session-acute,Mild,N,rubric,N,N
+Dakwar 2020_AE02,Dakwar 2020,AE,"Post-infusion headache, persisting about 12 hours (ketamine N=6; midazolam comparator N=4).",6,post-session-acute,Mild,N,rubric,N,N
+Dakwar 2020_AE03,Dakwar 2020,challenging_experience,Significantly higher dissociative-state (CADSS) scores in ketamine vs. midazolam group immediately post-infusion; not associated with end-of-study abstinence.,.,in-session,Mild,N,rubric,N,N
+Dakwar 2020_AE04,Dakwar 2020,AE,"Mild agitation in ketamine-group participants (N=2), lasting about 1 hour post-infusion.",2,post-session-acute,Mild,N,author,N,N
+Dusen 1967_AE01,Dusen 1967,AE,"Asthmatic attack occurring during a lysergide session, leading to early termination of the session.",1,in-session,Moderate,Y,rubric,Y,N
+Dusen 1967_AE02,Dusen 1967,AE,"Epileptic seizure occurring during a lysergide session, leading to early termination of the session.",1,in-session,Severe,N,rubric,Y,Y
+Dusen 1967_AE03,Dusen 1967,both,"A disturbed emotional reaction during a lysergide session, severe enough to require early termination of the session.",1,in-session,Moderate,Y,rubric,Y,N
+Garcia-Romeu 2015_AE01,Garcia-Romeu 2015,challenging_experience,"Challenging psilocybin experience (fear, fear of insanity, feeling trapped) in 6/15 participants; managed by staff, resolved by session end",6,in-session,Mild,N,rubric,N,N
+Grabski 2022_AE01,Grabski 2022,AE,Majority of 53 study-drug-related adverse events (in up to 20 participants across all arms) rated mild by medical staff; individual mild event types not itemized beyond the 4 rated severe.,.,unknown,Mild,Y,author,.,N
+Grabski 2022_AE02,Grabski 2022,AE,"Low mood, rated severe (significant symptoms preventing normal daily activity) by medical staff, in a participant in the active ketamine condition.",.,unknown,Severe,N,author,.,N
+Grabski 2022_AE03,Grabski 2022,AE,"Hypertension, rated severe by medical staff, in a participant in the active ketamine condition.",.,unknown,Severe,N,author,.,N
+Grabski 2022_AE04,Grabski 2022,AE,"Tachycardia, rated severe by medical staff, in a participant in the active ketamine condition.",.,unknown,Severe,N,author,.,N
+Grabski 2022_AE05,Grabski 2022,AE,"Euphoria, rated severe (significant symptoms preventing normal daily activity) by medical staff, in a participant in the active ketamine condition.",.,unknown,Severe,N,author,.,N
+Heinzerling 2023_AE01,Heinzerling 2023,AE,"Headache, most frequent AE (16 total: 5 Visual Healing, 11 Standard), possibly/probably/definitely related to intervention (Table 3).",16,in-session,Mild,N,rubric,N,N
+Heinzerling 2023_AE02,Heinzerling 2023,AE,"Elevated blood pressure (10 total: 3 Visual Healing, 7 Standard), a monitored vital-sign AE during psilocybin dosing (Table 3).",10,in-session,Mild,N,rubric,N,N
+Heinzerling 2023_AE03,Heinzerling 2023,AE,"Nausea (8 total: 2 Visual Healing, 6 Standard), possibly/probably/definitely related to intervention (Table 3).",8,in-session,Mild,N,rubric,N,N
+Heinzerling 2023_AE04,Heinzerling 2023,AE,"Twitching (5 total: 2 Visual Healing, 3 Standard) (Table 3).",5,in-session,Mild,N,rubric,N,N
+Heinzerling 2023_AE05,Heinzerling 2023,both,"Anxiety (4 total: 3 Visual Healing, 1 Standard), listed as an AE but may overlap with expected in-session challenging-experience phenomenology (Table 3).",4,in-session,Mild,N,rubric,N,N
+Heinzerling 2023_AE06,Heinzerling 2023,AE,"Feeling flushed (3 total, all 3 Visual Healing, 0 Standard) (Table 3).",3,in-session,Mild,N,rubric,N,N
+Heinzerling 2023_AE07,Heinzerling 2023,AE,"Tachycardia (3 total, all Standard, 0 Visual Healing), monitored vital-sign AE (Table 3).",3,in-session,Mild,N,rubric,N,N
+Heinzerling 2023_AE08,Heinzerling 2023,AE,"Abdominal pain (1, Standard group) (Table 3).",1,in-session,Mild,N,rubric,N,N
+Heinzerling 2023_AE09,Heinzerling 2023,AE,"Body aches (1, Standard group) (Table 3).",1,in-session,Mild,N,rubric,N,N
+Heinzerling 2023_AE10,Heinzerling 2023,AE,"Bradycardia (1, Visual Healing group), monitored vital-sign AE (Table 3).",1,in-session,Mild,N,rubric,N,N
+Heinzerling 2023_AE11,Heinzerling 2023,AE,"Depressed mood (1, Standard group) (Table 3).",1,unknown,Mild,N,rubric,N,N
+Heinzerling 2023_AE12,Heinzerling 2023,AE,"EKG abnormality (1, Visual Healing group), monitored during dosing session; no clinical intervention described (Table 3).",1,in-session,Mild,N,rubric,N,N
+Heinzerling 2023_AE13,Heinzerling 2023,AE,"Insomnia (1, Standard group) (Table 3).",1,unknown,Mild,N,rubric,N,N
+Heinzerling 2023_AE14,Heinzerling 2023,AE,"Low blood pressure (1, Visual Healing group), monitored vital-sign AE (Table 3).",1,in-session,Mild,N,rubric,N,N
+Heinzerling 2023_AE15,Heinzerling 2023,AE,"Synesthesia (1, Standard group), a classic acute perceptual psilocybin effect (Table 3).",1,in-session,Mild,N,rubric,N,N
+Heinzerling 2023_AE16,Heinzerling 2023,AE,"Jaw clenching/pain (1, Standard group) (Table 3).",1,in-session,Mild,N,rubric,N,N
+Heinzerling 2023_AE17,Heinzerling 2023,AE,"Tinnitus (1, Standard group) (Table 3).",1,in-session,Mild,N,rubric,N,N
+Heinzerling 2023_AE18,Heinzerling 2023,AE,"Tremor (1, Visual Healing group) (Table 3).",1,in-session,Mild,N,rubric,N,N
+Heinzerling 2023_AE19,Heinzerling 2023,AE,"Vivid dreams (1, Standard group) (Table 3).",1,unknown,Mild,N,rubric,N,N
+Heinzerling 2023_AE20,Heinzerling 2023,AE,"Vomiting (1, Visual Healing group); occurred at conclusion of Opening Video, participant unsure if video or medication contributed, did not recur Week 7.",1,in-session,Mild,N,rubric,N,N
+Heinzerling 2023_AE21,Heinzerling 2023,AE,"Wooziness (1, Standard group) (Table 3).",1,in-session,Mild,N,rubric,N,N
+Heinzerling 2023_AE22,Heinzerling 2023,AE,"Serious Adverse Event: severe alcohol intoxication requiring Emergency Department treatment, Week 2, prior to any psilocybin dosing.",1,unknown,Severe,N,author,Y,Y
+Heinzerling 2023_AE23,Heinzerling 2023,AE,"Serious Adverse Event: severe alcohol relapse requiring inpatient detoxification admission, Week 6, causing study discontinuation.",1,delayed,Severe,N,author,Y,Y
+Hollister 1969_AE01,Hollister 1969,AE,"Five of 72 patients died within one year of study entry; four from alcohol-related complications (accidents, suicide, decompensated cirrhosis), one of unknown cause.",5,delayed,Severe,N,rubric,.,Y
+Hollister 1969_AE02,Hollister 1969,AE,Moderate agitation occasionally required additional psychiatrist attention and reduced sensory input; two patients needed intramuscular chlorpromazine 50mg for more severe agitation.,.,in-session,Moderate,N,rubric,Y,N
+Hollister 1969_AE03,Hollister 1969,AE,Grand mal seizure during a period of agitation in one patient with prior history of alcohol-withdrawal ('rum fits') seizures; no injury resulted.,1,in-session,Severe,N,rubric,.,Y
+Hollister 1969_AE04,Hollister 1969,AE,Vomiting occurred in two other cases; nausea was otherwise reported as infrequent.,2,in-session,Mild,N,rubric,N,N
+Hollister 1969_AE05,Hollister 1969,AE,Moderate confusion in one patient required extended hospitalization for a further 48 hours beyond the standard 48-hour discharge window.,1,post-session-acute,Severe,N,rubric,Y,Y
+Jensen 1963_AE01,Jensen 1963,AE,"Confusion or amnesia with LSD doses above the routine 200 gamma, described as undesirable and sometimes disturbing when patients later try to affirm the experience's reality.",.,post-session-acute,Mild,Y,rubric,.,N
+Jensen 1963_AE02,Jensen 1963,challenging_experience,"Intense anxiety, usually early in the session during abreaction of repressed material, and again if patients resist 'surrendering' during the transcendental experience.",.,in-session,Mild,N,rubric,N,N
+Jensen 1963_AE03,Jensen 1963,AE,"Nausea occurring early in the LSD session, often alongside anxiety preceding abreaction of repressed material.",.,in-session,Mild,N,rubric,N,N
+Jensen 1963_AE04,Jensen 1963,AE,"Emotional tension during the LSD session, described by the authors as a side effect that resolves with release after abreaction of repressed material.",.,in-session,Mild,N,rubric,N,N
+Jensen 1963_AE05,Jensen 1963,AE,Headache listed by the authors among the drug's side effects occurring around the abreaction phase of the LSD session.,.,in-session,Mild,N,rubric,N,N
+Jensen 2024_AE01,Jensen 2024,AE,"Anxiety, one of the most frequently reported of 46 adverse events, occurring within the first 24 hours of dosing.",.,post-session-acute,Mild,N,author,N,N
+Jensen 2024_AE02,Jensen 2024,AE,"Headache, one of the most frequently reported of 46 adverse events, occurring within the first 24 hours of dosing.",.,post-session-acute,Mild,N,author,N,N
+Jensen 2024_AE03,Jensen 2024,AE,"Fatigue, one of the most frequently reported of 46 adverse events, occurring within the first 24 hours of dosing.",.,post-session-acute,Mild,N,author,N,N
+Johnson 2014_AE01,Johnson 2014,challenging_experience,"Challenging psychological experience during sessions - extreme (1 participant) or strong (5 participants) fear, fear of insanity, or feeling trapped in 6/15 participants; managed by staff, resolved by session end.",6,in-session,Mild,N,rubric,N,N
+Johnson 2014_AE02,Johnson 2014,AE,Transient increases in blood pressure and heart rate during psilocybin sessions (peak systolic 153 vs baseline 125 mmHg; peak HR 87 vs baseline 68 bpm); no intervention required.,.,in-session,Mild,N,rubric,N,N
+Johnson 2014_AE03,Johnson 2014,AE,"Post-psilocybin headache in 8 of 10 participants assessed, mean duration 5.8 hours, onset ~6.2 hours post-dose, mean severity mild (2.6/6); 5 used OTC medication that evening.",8,post-session-acute,Mild,N,author,N,N
+Johnson 2016_AE01,Johnson 2016,both,"One participant reported decreased well-being/life satisfaction at 12-month follow-up, attributed to re-experiencing traumatic childhood memories during a psilocybin session; referred to counseling.",1,delayed,Moderate,N,rubric,Y,N
+Johnson MW 2026_AE01,Johnson MW 2026,AE,New or worsening depression reported during the 6-month trial period; 12 of 40 psilocybin-arm participants affected (30.0%); no detail on severity or duration reported.,12,unknown,Mild,Y,rubric,.,N
+Johnson MW 2026_AE02,Johnson MW 2026,AE,"Headache, an expected/anticipated psilocybin effect concentrated on the target quit date; 22 of 40 psilocybin-arm participants affected (55.0%) over the 6-month trial period.",22,post-session-acute,Mild,N,rubric,.,N
+Johnson MW 2026_AE03,Johnson MW 2026,AE,"Transient elevated blood pressure during psilocybin dosing (mean peak systolic 160.2 mm Hg); one case required 0.4 mg sublingual nitroglycerin, no further sequelae; participant count garbled in source table.",.,in-session,Moderate,N,rubric,Y,N
+Johnson MW 2026_AE04,Johnson MW 2026,AE,Respiratory infection reported during the 6-month trial period; 7 of 40 psilocybin-arm participants affected (17.5%); no further detail reported.,7,unknown,Mild,Y,rubric,.,N
+Johnson MW 2026_AE05,Johnson MW 2026,AE,Anxiety reported during the 6-month trial period; 9 of 40 psilocybin-arm participants affected (22.5%); no detail on persistence or intervention need reported.,9,in-session,Mild,Y,rubric,.,N
+Johnson MW 2026_AE06,Johnson MW 2026,AE,Insomnia reported during the 6-month trial period; 3 of 40 psilocybin-arm participants affected (7.5%); no further detail reported.,3,unknown,Mild,Y,rubric,.,N
+Johnson MW 2026_AE07,Johnson MW 2026,AE,Gastrointestinal illness or diarrhea reported during the 6-month trial period; 8 of 40 psilocybin-arm participants affected (20.0%); no further detail reported.,8,unknown,Mild,Y,rubric,.,N
+Johnson MW 2026_AE08,Johnson MW 2026,AE,Rash listed among AEs reported in >=2 participants trial-wide; 0 of 40 psilocybin-arm participants affected; total across-arm count unclear due to garbled source table.,.,unknown,Mild,Y,rubric,.,N
+Johnson MW 2026_AE09,Johnson MW 2026,AE,Irritability reported during the 6-month trial period; 4 of 40 psilocybin-arm participants affected (10.0%); no further detail reported.,4,unknown,Mild,Y,rubric,.,N
+Johnson MW 2026_AE10,Johnson MW 2026,AE,Back pain reported during the 6-month trial period; 5 of 40 psilocybin-arm participants affected (12.5%); no further detail reported.,5,unknown,Mild,Y,rubric,.,N
+Johnson MW 2026_AE11,Johnson MW 2026,AE,"Nausea, an expected psilocybin dosing effect, reported during the 6-month trial period; 3 of 40 psilocybin-arm participants affected (7.5%).",3,in-session,Mild,N,rubric,.,N
+Johnson MW 2026_AE12,Johnson MW 2026,AE,Visual disturbance/perceptual distortion during psilocybin dosing; 6 of 40 psilocybin-arm participants affected (15.0%) over the 6-month trial period; expected acute drug effect.,6,in-session,Mild,N,rubric,.,N
+Johnson MW 2026_AE13,Johnson MW 2026,AE,Vivid dreams listed among AEs reported in >=2 participants trial-wide; 0 of 40 psilocybin-arm participants affected; total across-arm count unclear due to garbled source table.,.,post-session-acute,Mild,Y,rubric,.,N
+Johnson MW 2026_AE14,Johnson MW 2026,AE,Fatigue reported during the 6-month trial period; 3 of 40 psilocybin-arm participants affected (7.5%); no further detail reported.,3,unknown,Mild,Y,rubric,.,N
+Johnson MW 2026_AE15,Johnson MW 2026,AE,Joint pain reported during the 6-month trial period; 1 of 40 psilocybin-arm participants affected (2.5%); no further detail reported.,1,unknown,Mild,Y,rubric,.,N
+Johnson MW 2026_AE16,Johnson MW 2026,AE,Migraine reported during the 6-month trial period; 2 of 40 psilocybin-arm participants affected (5.0%); no further detail reported.,2,unknown,Mild,Y,rubric,.,N
+Johnson MW 2026_AE17,Johnson MW 2026,AE,"Transient elevated heart rate during psilocybin dosing (mean peak 87.6/min), monitored but not requiring intervention; 2 of 40 psilocybin-arm participants affected (5.0%) as a distinct AE entry.",2,in-session,Mild,N,rubric,N,N
+Johnson MW 2026_AE18,Johnson MW 2026,AE,Concentration impairment reported during the 6-month trial period; 2 of 40 psilocybin-arm participants affected (5.0%); no further detail reported.,2,unknown,Mild,Y,rubric,.,N
+Johnson MW 2026_AE19,Johnson MW 2026,AE,Fever listed among AEs reported in >=2 participants trial-wide; 0 of 40 psilocybin-arm participants affected; total across-arm count unclear due to garbled source table.,.,unknown,Mild,Y,rubric,.,N
+Johnson MW 2026_AE20,Johnson MW 2026,AE,Ear infection listed among AEs reported in >=2 participants trial-wide; 0 of 40 psilocybin-arm participants affected; total across-arm count unclear due to garbled source table.,.,unknown,Mild,Y,rubric,.,N
+Jovaisa T 2006_AE01,Jovaisa T 2006,AE,"Hospital admission for trauma during the 4-month follow-up period, one of four such admissions; authors state unrelated to RAI.",.,delayed,Severe,N,rubric,Y,Y
+Jovaisa T 2006_AE02,Jovaisa T 2006,AE,"Hospital admission for acute pancreatitis during the 4-month follow-up period, one of four such admissions; authors state unrelated to RAI.",.,delayed,Severe,N,rubric,Y,Y
+Jovaisa T 2006_AE03,Jovaisa T 2006,AE,"Hospital admission for ulcerative colitis during the 4-month follow-up period, one of four such admissions; authors state unrelated to RAI.",.,delayed,Severe,N,rubric,Y,Y
+Jovaisa T 2006_AE04,Jovaisa T 2006,AE,"Patient relapsed to regular opiate use, developed injection-related sepsis, and died in hospital during the 4-month follow-up; not attributed to RAI/ketamine by authors.",1,delayed,Severe,N,rubric,Y,Y
+Krupitsky 2002_AE01,Krupitsky 2002,AE,"Acute increase in systolic and especially diastolic blood pressure (20-30%) during the ketamine session, noted in all subjects.",70,in-session,Mild,N,rubric,N,N
+Krupitsky 2007_AE01,Krupitsky 2007,AE,Acute increase in systolic and (particularly) diastolic blood pressure of 20-30% during the ketamine psychotherapy session.,59,in-session,Mild,N,rubric,N,N
+Luquiens 2025_AE01,Luquiens 2025,AE,"Myocardial infarction 3 days before scheduled 2nd dosing session, attributed to undiagnosed coronary artery disease; judged unrelated to psilocybin; prevented 2nd dose administration.",1,delayed,Severe,N,rubric,.,Y
+Luquiens 2025_AE02,Luquiens 2025,AE,Two spontaneously resolving episodes of dizziness in one 25 mg-group participant during a dosing session; Table 4 lists dizziness in 2 (10%) patients.,2,in-session,Mild,N,rubric,N,N
+Luquiens 2025_AE03,Luquiens 2025,AE,"Nightmares beginning 2 days after the first 25 mg dosing session, persisting 9 days; attributed to treatment.",1,post-session-acute,Moderate,N,rubric,.,N
+Luquiens 2025_AE04,Luquiens 2025,AE,Hypoglycemia at the end of a dosing session in a patient with comorbid anorexia; resolved with a snack; attributed to treatment.,1,post-session-acute,Moderate,N,rubric,Y,N
+Luquiens 2025_AE05,Luquiens 2025,AE,Suicidal ideation: one 1 mg-group patient after suspecting group assignment; two 25 mg-group patients during heavy-drinking occasions after discharge.,3,delayed,Mild,Y,rubric,.,N
+Luquiens 2025_AE06,Luquiens 2025,AE,"Suicide attempt by a 1 mg-group patient 1 month after the first dosing session, coinciding with alcohol relapse and a stressful life event.",1,delayed,Severe,N,rubric,.,Y
+Luquiens 2025_AE07,Luquiens 2025,AE,Headache in 2 (10%) 25 mg-group patients; not attributed to treatment.,2,unknown,Mild,Y,rubric,.,N
+Luquiens 2025_AE08,Luquiens 2025,AE,Diarrhea in 1 (5%) 25 mg-group patient; not attributed to treatment.,1,unknown,Mild,Y,rubric,.,N
+Luquiens 2025_AE09,Luquiens 2025,AE,Nausea in 1 (5%) 25 mg-group patient; not attributed to treatment.,1,unknown,Mild,Y,rubric,.,N
+Luquiens 2025_AE10,Luquiens 2025,AE,Gastroenteritis in 1 (5%) 25 mg-group patient; not attributed to treatment.,1,unknown,Mild,Y,rubric,.,N
+Luquiens 2025_AE11,Luquiens 2025,AE,Rumination in 1 (10%) 1 mg-group patient; not attributed to treatment.,1,unknown,Mild,Y,rubric,.,N
+Luquiens 2025_AE12,Luquiens 2025,AE,Fatigue in 1 (5%) 25 mg-group patient; attributability to treatment not assessed (marked NA in Table 4).,1,unknown,Mild,Y,rubric,.,N
+Luquiens 2025_AE13,Luquiens 2025,AE,Hospitalization for AUD relapse in 2 (10%) 25 mg-group patients; not attributed to treatment.,2,delayed,Severe,N,rubric,Y,Y
+Luquiens 2025_AE14,Luquiens 2025,AE,Ocular hypertension in 1 (5%) 25 mg-group patient; not attributed to treatment.,1,unknown,Mild,Y,rubric,.,N
+Luquiens 2025_AE15,Luquiens 2025,AE,Ankle sprain in 1 (10%) 1 mg-group patient; not attributed to treatment.,1,unknown,Mild,Y,rubric,.,N
+Luquiens 2025_AE16,Luquiens 2025,AE,"Breast lump discovered on entry examination before treatment began, in 1 (5%) 25 mg-group patient; not attributed to treatment.",1,unknown,Mild,Y,rubric,.,N
+Luquiens 2025_AE17,Luquiens 2025,AE,Cough in 1 (5%) 25 mg-group patient; not attributed to treatment.,1,unknown,Mild,Y,rubric,.,N
+Luquiens 2025_AE18,Luquiens 2025,AE,Palpebral (eyelid) abscess in 1 (10%) 1 mg-group patient; not attributed to treatment.,1,unknown,Mild,Y,rubric,.,N
+Luquiens 2025_AE19,Luquiens 2025,AE,COVID-19/non-specific viral illness in 1 (10%) 1 mg-group patient and 1 (5%) 25 mg-group patient; not attributed to treatment.,2,unknown,Mild,Y,rubric,.,N
+MacLean 1961_AE01,MacLean 1961,AE,Transient nausea occurring roughly 1/2 to 2 hours after LSD-25 ingestion; described as a typical side effect.,.,in-session,Mild,N,rubric,N,N
+MacLean 1961_AE02,MacLean 1961,AE,"Mild headache occurring roughly 1/2 to 2 hours after LSD-25 ingestion, per authors' own description.",.,in-session,Mild,N,author,N,N
+MacLean 1961_AE03,MacLean 1961,AE,"Mild gastric distress occurring roughly 1/2 to 2 hours after LSD-25 ingestion, per authors' own description.",.,in-session,Mild,N,author,N,N
+MacLean 1961_AE04,MacLean 1961,challenging_experience,"In-session anxiety/tension reported across multiple cases (e.g., 'moderate degree of tension,' 'increasing tension,' 'apprehension and oppression').",.,in-session,Moderate,N,author,.,N
+MacLean 1961_AE05,MacLean 1961,challenging_experience,"Perceptual distortions in the visual field, reported by one patient (Case 43) about 4 hours after LSD-25 ingestion.",.,in-session,Mild,N,rubric,N,N
+MacLean 1961_AE06,MacLean 1961,both,"Confused, disorganized speech and disorientation during the session (Case 29); no improvement in mental condition noted at discharge 6 days later.",.,in-session,Moderate,Y,rubric,.,N
+O'Reilly 1964_AE01,O'Reilly 1964,AE,"Physical distress (unspecified physical symptoms) noted in some patients around the LSD session, per clinical records used for follow-up correlates",.,unknown,Mild,Y,rubric,.,N
+O'Reilly 1964_AE02,O'Reilly 1964,both,"Post-treatment disturbance (confusion and/or depression) noted in some patients following the LSD session, per clinical records",.,post-session-acute,Mild,Y,rubric,.,N
+O'Reilly 1964_AE03,O'Reilly 1964,AE,Paranoid psychotic reaction requiring hospitalization in one of 68 patients; authors found no evidence linking it to the LSD experience,1,unknown,Severe,N,rubric,Y,Y
+P. Glue 2016_AE01,P. Glue 2016,AE,"Noneuphoric visual impairment (light/colors perceived as brighter), onset ~1 hour postdose, resolved by 2.5-3 hours; commonest in 120- and 180-mg groups; no hallucinations reported.",13,post-session-acute,Mild,N,author,N,N
+P. Glue 2016_AE02,P. Glue 2016,AE,"Headache, reported across placebo and all active dose groups; most instances mild-moderate, one instance investigator-rated 'severe' in intensity; all AEs resolved before study completion.",13,unknown,Moderate,N,rubric,N,N
+P. Glue 2016_AE03,P. Glue 2016,AE,"Nausea, reported across placebo and active dose groups; most instances mild-moderate, one instance investigator-rated 'severe' in intensity; resolved before study completion.",5,unknown,Moderate,N,rubric,N,N
+P. Glue 2016_AE04,P. Glue 2016,AE,"Dose- and concentration-dependent QTcI prolongation, up to mean 42 ms at 180 mg; one 180-mg subject exceeded QTcI 500 ms at 4 timepoints, prompting DSMB dose-escalation caution.",.,post-session-acute,Severe,N,rubric,Y,Y
+P. Glue 2016_AE05,P. Glue 2016,AE,"Vomiting, one of three AEs investigator-rated 'severe' in intensity (with nausea and headache); no affected-participant count given; resolved before study completion.",.,unknown,Moderate,N,rubric,N,N
+P.L. Prior 2014_AE01,P.L. Prior 2014,challenging_experience,"Visual hallucinations (small animals/vermin, weather changes, natural elements, shadows/apparitions) in ibogaine group during the 72h post-dose period, mainly in the first 24h",.,post-session-acute,Mild,N,rubric,N,N
+Pahnke 1970_AE01,Pahnke 1970,AE,"Persisting psychological disturbance in the days following the LSD session, in two patients, requiring subsequent conventional psychiatric treatment.",2,post-session-acute,Moderate,N,rubric,Y,N
+Rieser 2025_AE01,Rieser 2025,AE,"Non-serious adverse events after dosing: 13 in the psilocybin group, 7 in the placebo group; individual event types itemized only in Supplementary Table S11 (not provided).",.,unknown,Mild,Y,rubric,.,N
+Rieser 2025_AE02,Rieser 2025,AE,"Serious adverse events, all inpatient withdrawal treatments: 1 in the psilocybin group and 4 in the placebo group, per the study's (S)AE case report form.",5,unknown,Severe,N,author,Y,Y
+Savage 1973_AE01,Savage 1973,AE,"One treatment-group patient died of aortic stenosis ~5 months post-treatment, before completing 12-month follow-up; not attributed to LSD.",1,delayed,Severe,N,rubric,.,Y
+Savage 1973_AE02,Savage 1973,challenging_experience,"In-session fear, mistrust and self-reported panic/abreaction during the LSD experience in one illustrative case (Theodore), managed by therapist support, no rescue medication.",.,in-session,Mild,Y,rubric,N,N
+Savage 1973_AE03,Savage 1973,AE,Transient nausea during LSD dosing session in one illustrative case (Theodore); patient described stomach discomfort tied to anxiety.,.,in-session,Mild,N,rubric,N,N
+Sessa 2019_AE01,Sessa 2019,AE,"One participant reported minor tinnitus in the days following MDMA sessions, authors noting it is more likely related to chronic alcohol-withdrawal phenomena than MDMA.",1,post-session-acute,Mild,N,author,N,N
+Sessa 2019_AE02,Sessa 2019,AE,"Same participant reported mild memory disturbance in the days after MDMA sessions, attributed by authors to postwithdrawal phenomena rather than MDMA.",1,post-session-acute,Mild,N,author,N,N
+Sessa 2021_AE01,Sessa 2021,AE,"Mild, transient rise in blood pressure, heart rate and temperature during MDMA dosing sessions; stayed within normal limits for all but one participant.",.,in-session,Mild,N,rubric,N,N
+Sessa 2021_AE02,Sessa 2021,AE,"One participant's blood pressure rose to 183/118 two hours after initial MDMA dose, attributed to missed antihypertensive medication; asymptomatic, resolved spontaneously, booster dose withheld.",1,in-session,Mild,N,rubric,N,N
+Sessa 2021_AE03,Sessa 2021,challenging_experience,"Mildly elevated Subjective Units of Distress (anticipatory anxiety) reported by most participants at session onset, reducing as MDMA's positive effects emerged.",.,in-session,Mild,N,rubric,N,N
+Smart 1966_AE01,Smart 1966,AE,Two patients died during the study period; both deaths occurred after their 6-month follow-up assessments had already been completed.,2,delayed,Severe,Y,rubric,.,Y
+Smith 1958_AE01,Smith 1958,challenging_experience,"In-session psychological/perceptual disturbance (anxiety, perceptual distortion) of variable intensity, author-classified mild/moderate/intense",22,in-session,Mild,N,rubric,N,N
+Smith 1958_AE02,Smith 1958,AE,Transient nausea occurring 30 minutes to 2 hours after drug administration,.,in-session,Mild,N,rubric,N,N
+Smith 1958_AE03,Smith 1958,AE,"Vomiting, explicitly noted as not severe",3,in-session,Mild,N,author,N,N
+Smith 1958_AE04,Smith 1958,both,Severe in-session anxiety and persisting depression (Case 17) requiring sodium seconal sedation,1,in-session,Moderate,N,rubric,Y,N
+Smith 1958_AE05,Smith 1958,AE,Mild liver function test abnormalities noted in some patients under the Side Effects heading,.,unknown,Mild,Y,author,N,N
+Terasaki 2022_AE01,Terasaki 2022,AE,"Lightheadedness, reported as distressing immediately post-infusion (KET arm, PRISE-style symptom inquiry).",1,post-session-acute,Mild,Y,rubric,N,N
+Terasaki 2022_AE02,Terasaki 2022,AE,"Arm pain, reported as tolerable immediately post-infusion (KET arm, PRISE-style symptom inquiry).",1,post-session-acute,Mild,Y,rubric,N,N
+Terasaki 2022_AE03,Terasaki 2022,AE,"Nausea, reported as tolerable immediately post-infusion (KET arm, PRISE-style symptom inquiry).",1,post-session-acute,Mild,Y,rubric,N,N
+Terasaki 2022_AE04,Terasaki 2022,AE,"Floating (dissociative-type sensation), reported as tolerable immediately post-infusion (KET arm, PRISE-style symptom inquiry).",1,post-session-acute,Mild,Y,rubric,N,N
+Terasaki 2022_AE05,Terasaki 2022,AE,"Body tightness, reported as tolerable immediately post-infusion (KET arm, PRISE-style symptom inquiry).",1,post-session-acute,Mild,Y,rubric,N,N
+Terasaki 2022_AE06,Terasaki 2022,AE,"Lip numbness, reported as distressing immediately post-infusion (KET arm, PRISE-style symptom inquiry).",1,post-session-acute,Mild,Y,rubric,N,N
+Terasaki 2022_AE07,Terasaki 2022,AE,"Blurred vision, reported as tolerable immediately post-infusion (KET arm, PRISE-style symptom inquiry).",1,post-session-acute,Mild,Y,rubric,N,N
+Terasaki 2022_AE08,Terasaki 2022,AE,"Tingling, reported as tolerable immediately post-infusion (KET arm, PRISE-style symptom inquiry).",1,post-session-acute,Mild,Y,rubric,N,N
+Terasaki 2022_AE09,Terasaki 2022,challenging_experience,"Dissociative symptoms during ketamine infusion, CADSS mean score 20.31 (SD 16.62).",.,in-session,Mild,N,rubric,N,N
+Terasaki 2022_AE10,Terasaki 2022,AE,"Transient rise in systolic (+12.66 mmHg) and diastolic (+10.34 mmHg) blood pressure at 40 min post-infusion, attenuated by 160 min.",.,in-session,Mild,N,rubric,N,N
+Terasaki 2022_AE11,Terasaki 2022,AE,"Diarrhea, reported since hospital discharge at follow-up visit (KET arm, PRISE questionnaire): 1/6 tolerable and 1/6 distressing.",2,delayed,Mild,Y,rubric,N,N
+Terasaki 2022_AE12,Terasaki 2022,AE,"Constipation, reported since hospital discharge at follow-up visit (KET arm, PRISE questionnaire): 2/6 tolerable.",2,delayed,Mild,Y,rubric,N,N
+Terasaki 2022_AE13,Terasaki 2022,AE,"Dry mouth, reported since hospital discharge at follow-up visit (KET arm, PRISE questionnaire): 2/6 tolerable.",2,delayed,Mild,Y,rubric,N,N
+Terasaki 2022_AE14,Terasaki 2022,AE,"Nausea/vomiting, reported since hospital discharge at follow-up visit (KET arm, PRISE questionnaire): 1/6 tolerable.",1,delayed,Mild,Y,rubric,N,N
+Terasaki 2022_AE15,Terasaki 2022,AE,"Abdominal pain, reported since hospital discharge at follow-up visit (KET arm, PRISE questionnaire): 1/6 tolerable.",1,delayed,Mild,Y,rubric,N,N
+Terasaki 2022_AE16,Terasaki 2022,AE,"Increased appetite, reported since hospital discharge at follow-up visit (KET arm, PRISE questionnaire): 3/6 tolerable.",3,delayed,Mild,Y,rubric,N,N
+Terasaki 2022_AE17,Terasaki 2022,AE,"Palpitations, reported since hospital discharge at follow-up visit (KET arm, PRISE questionnaire): 1/6 tolerable.",1,delayed,Mild,Y,rubric,N,N
+Terasaki 2022_AE18,Terasaki 2022,AE,"Dizziness on standing, reported since hospital discharge at follow-up visit (KET arm, PRISE questionnaire): 3/6 tolerable.",3,delayed,Mild,Y,rubric,N,N
+Terasaki 2022_AE19,Terasaki 2022,AE,"Chest pain, reported since hospital discharge at follow-up visit (KET arm, PRISE questionnaire): 1/6 tolerable.",1,delayed,Mild,Y,rubric,N,N
+Terasaki 2022_AE20,Terasaki 2022,AE,"Shortness of breath, reported since hospital discharge at follow-up visit (KET arm, PRISE questionnaire): 2/6 distressing.",2,delayed,Mild,Y,rubric,N,N
+Terasaki 2022_AE21,Terasaki 2022,AE,"Cough, reported since hospital discharge at follow-up visit (KET arm, PRISE questionnaire): 1/6 tolerable.",1,delayed,Mild,Y,rubric,N,N
+Terasaki 2022_AE22,Terasaki 2022,AE,"Pain with breathing, reported since hospital discharge at follow-up visit (KET arm, PRISE questionnaire): 1/6 tolerable.",1,delayed,Mild,Y,rubric,N,N
+Terasaki 2022_AE23,Terasaki 2022,AE,"Increased perspiration, reported since hospital discharge at follow-up visit (KET arm, PRISE questionnaire): 1/6 tolerable.",1,delayed,Mild,Y,rubric,N,N
+Terasaki 2022_AE24,Terasaki 2022,AE,"Dry skin, reported since hospital discharge at follow-up visit (KET arm, PRISE questionnaire): 1/6 tolerable and 1/6 distressing.",2,delayed,Mild,Y,rubric,N,N
+Terasaki 2022_AE25,Terasaki 2022,AE,"Headache, reported since hospital discharge at follow-up visit (KET arm, PRISE questionnaire): 1/6 tolerable.",1,delayed,Mild,Y,rubric,N,N
+Terasaki 2022_AE26,Terasaki 2022,AE,"Tremor, reported since hospital discharge at follow-up visit (KET arm, PRISE questionnaire): 1/6 distressing.",1,delayed,Mild,Y,rubric,N,N
+Terasaki 2022_AE27,Terasaki 2022,AE,"Poor coordination, reported since hospital discharge at follow-up visit (KET arm, PRISE questionnaire): 3/6 tolerable.",3,delayed,Mild,Y,rubric,N,N
+Terasaki 2022_AE28,Terasaki 2022,AE,"Dizziness or lightheadedness, reported since hospital discharge at follow-up visit (KET arm, PRISE questionnaire): 2/6 tolerable.",2,delayed,Mild,Y,rubric,N,N
+Terasaki 2022_AE29,Terasaki 2022,AE,"Numbness or tingling, reported since hospital discharge at follow-up visit (KET arm, PRISE questionnaire): 1/6 tolerable.",1,delayed,Mild,Y,rubric,N,N
+Terasaki 2022_AE30,Terasaki 2022,AE,"Blurred vision, reported since hospital discharge at follow-up visit (KET arm, PRISE questionnaire): 2/6 tolerable.",2,delayed,Mild,Y,rubric,N,N
+Terasaki 2022_AE31,Terasaki 2022,AE,"Ringing in ears, reported since hospital discharge at follow-up visit (KET arm, PRISE questionnaire): 1/6 tolerable.",1,delayed,Mild,Y,rubric,N,N
+Terasaki 2022_AE32,Terasaki 2022,AE,"Frequent urination, reported since hospital discharge at follow-up visit (KET arm, PRISE questionnaire): 3/6 tolerable.",3,delayed,Mild,Y,rubric,N,N
+Terasaki 2022_AE33,Terasaki 2022,AE,"Increased libido, reported since hospital discharge at follow-up visit (KET arm, PRISE questionnaire): 2/6 tolerable.",2,delayed,Mild,Y,rubric,N,N
+Terasaki 2022_AE34,Terasaki 2022,AE,"Decreased libido, reported since hospital discharge at follow-up visit (KET arm, PRISE questionnaire): 1/6 tolerable and 1/6 distressing.",2,delayed,Mild,Y,rubric,N,N
+Terasaki 2022_AE35,Terasaki 2022,AE,"Difficulty sleeping, reported since hospital discharge at follow-up visit (KET arm, PRISE questionnaire): 3/6 tolerable and 1/6 distressing.",4,delayed,Mild,Y,rubric,N,N
+Terasaki 2022_AE36,Terasaki 2022,AE,"Sleeping too much, reported since hospital discharge at follow-up visit (KET arm, PRISE questionnaire): 1/6 tolerable.",1,delayed,Mild,Y,rubric,N,N
+Terasaki 2022_AE37,Terasaki 2022,AE,"Abnormal dreams, reported since hospital discharge at follow-up visit (KET arm, PRISE questionnaire): 4/6 tolerable.",4,delayed,Mild,Y,rubric,N,N
+Terasaki 2022_AE38,Terasaki 2022,AE,"Anxiety, reported since hospital discharge at follow-up visit (KET arm, PRISE questionnaire): 3/6 tolerable and 2/6 distressing.",5,delayed,Mild,Y,rubric,N,N
+Terasaki 2022_AE39,Terasaki 2022,AE,"Hallucinations, reported since hospital discharge at follow-up visit (KET arm, PRISE questionnaire): 1/6 tolerable.",1,delayed,Mild,Y,rubric,N,N
+Terasaki 2022_AE40,Terasaki 2022,AE,"Memory loss, reported since hospital discharge at follow-up visit (KET arm, PRISE questionnaire): 2/6 tolerable and 1/6 distressing.",3,delayed,Mild,Y,rubric,N,N
+Terasaki 2022_AE41,Terasaki 2022,AE,"Poor concentration, reported since hospital discharge at follow-up visit (KET arm, PRISE questionnaire): 1/6 tolerable and 2/6 distressing.",3,delayed,Mild,Y,rubric,N,N
+Terasaki 2022_AE42,Terasaki 2022,AE,"Fatigue or decreased energy, reported since hospital discharge at follow-up visit (KET arm, PRISE questionnaire): 2/6 distressing.",2,delayed,Mild,Y,rubric,N,N
+Terasaki 2022_AE43,Terasaki 2022,AE,"Restlessness, reported since hospital discharge at follow-up visit (KET arm, PRISE questionnaire): 2/6 tolerable and 2/6 distressing.",4,delayed,Mild,Y,rubric,N,N
+Tomsovic 1970_AE01,Tomsovic 1970,AE,"Spontaneous recurrence ('recrudescence') of a lysergide-like perceptual, thought or feeling experience weeks to months after dosing; more frequent during drinking/withdrawal.",19,delayed,Mild,N,rubric,N,N
+Tomsovic 1970_AE02,Tomsovic 1970,AE,"Alterations in dreaming — vivid, strongly colored dreams or fragments reliving the lysergide experience, reported as a distinct, milder phenomenon from recrudescence proper.",7,unknown,Mild,N,rubric,N,N
+Tomsovic 1970_AE03,Tomsovic 1970,both,Two nonschizophrenic patients lost contact with reality and behaved bizarrely at the height of the lysergide session; later unable to fully recall the episode.,2,in-session,Moderate,Y,rubric,.,N

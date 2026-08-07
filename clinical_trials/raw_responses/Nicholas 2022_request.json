@@ -1,0 +1,22 @@
+{
+  "StudyID": "Nicholas 2022",
+  "Condition": "Alcohol",
+  "surname_token": "Nicholas",
+  "Year": 2022,
+  "citation_manifest": "Nicholas, C. R., Wang, J. B., Coker, A., Mitchell, J. M., Klaire, S. S., Yazar-Klosinski, B., Emerson, A., Brown, R. T., & Doblin, R. (2022). The effects of MDMA-assisted therapy on alcohol and substance use in a phase 3 trial for treatment of severe PTSD. Drug and Alcohol Dependence, 233, 109356.",
+  "SourcePDF": "alcohol/1-s2.0-S037687162200093X-main (1).pdf",
+  "text_path": "clinical_trials/inputs/text/Nicholas 2022.md",
+  "text_sha256": "db91e3417fd58a11477ef0a40fcf4a7653e08256dade248a9568bbff6adea630",
+  "text_source": "born-digital",
+  "text_format": "markdown",
+  "fidelity_note": "",
+  "prompt_path": "clinical_trials/prompts/clinical_extraction_prompt_v1_1.md",
+  "prompt_sha256": "fb6e90e2349219a75f7667dffbe869819bf312b1dda1db595638cff983b8eb55",
+  "rubric_sha256": "690a633e8df5a412fe1e34ce05dce42953f6ca1ed8d7f39e55097104802d09bd",
+  "Model": "claude-sonnet-5",
+  "PromptVersion": "v1.2",
+  "RubricVersion": "v1",
+  "Temperature": 1,
+  "temperature_configured": "no — Claude Code subagents expose no sampling-temperature control, so this is the harness default rather than the design's configured 0. Recorded honestly rather than as a 0 that never happened.",
+  "requested_utc": "2026-08-07T14:41:42+00:00"
+}

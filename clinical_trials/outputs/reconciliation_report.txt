@@ -1,0 +1,25 @@
+Clinical-Trial Corpus — Reconciliation Report
+============================================
+
+Manifest rows: 49  Alcohol=38  Opioid=7  Smoking=4
+  Alcohol  frozen= 33  matched= 33  new=  5
+  Opioid   frozen=  7  matched=  7  new=  0
+  Smoking  frozen=  4  matched=  4  new=  0
+
+BLOCKING — none. Corpus reconciled.
+
+WARNINGS — 5 (non-blocking):
+
+  - [O'Donnell 2022] (Alcohol) no frozen old counterpart — expected for the previously dropped alcohol studies; the corpus is a superset by design
+  - [Ludwig 1969] (Alcohol) no frozen old counterpart — expected for the previously dropped alcohol studies; the corpus is a superset by design
+  - [Smart 1964] (Alcohol) no frozen old counterpart — expected for the previously dropped alcohol studies; the corpus is a superset by design
+  - [Costello 1969] (Alcohol) no frozen old counterpart — expected for the previously dropped alcohol studies; the corpus is a superset by design
+  - [Vanderijst 2024] (Alcohol) no frozen old counterpart — expected for the previously dropped alcohol studies; the corpus is a superset by design
+
+New-corpus studies with no frozen counterpart (class X1 in the migration):
+  O'Donnell 2022               Alcohol  alcohol/1-s2.0-S1551714422003020-main.pdf
+  Ludwig 1969                  Alcohol  alcohol/Ludwig, A., Levine, J., Stark, L., & Lazar, R. (1969) A clinical study of LSD treatment in alcoholism.pdf
+  Smart 1964                   Alcohol  alcohol/Smart, R. G., & Storm, T. (1964). The efficacy of LSD in the treatment of alcoholism.pdf
+  Costello 1969                Alcohol  alcohol/costello-1969-an-evaluation-of-aversion-and-lsd-therapy-in-the-treatment-of-alcoholism.pdf
+  Vanderijst 2024              Alcohol  alcohol/s12888-024-05502-y (1).pdf
+

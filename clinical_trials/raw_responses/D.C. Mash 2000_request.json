@@ -1,0 +1,22 @@
+{
+  "StudyID": "D.C. Mash 2000",
+  "Condition": "Opioid",
+  "surname_token": "D.C. Mash",
+  "Year": 2000,
+  "citation_manifest": "D.C. Mash, Kovera, C. A., Pablo, J., Tyndale, R. F., Ervin, F. D., Williams, I. C., Singleton, E. G., & Mayor, M. (2000). Ibogaine: Complex pharmacokinetics, concerns for safety, and preliminary efficacy measures. Annals of the New York Academy of Sciences, 914, 394-401.",
+  "SourcePDF": "opioids/j.1749-6632.2000.tb05213.x.pdf",
+  "text_path": "clinical_trials/inputs/text/D.C. Mash 2000.md",
+  "text_sha256": "8d2ef1c560bb5ed9179b6643ec840c9c3975029b2084e62a78e813e31dc7b877",
+  "text_source": "born-digital",
+  "text_format": "markdown",
+  "fidelity_note": "",
+  "prompt_path": "clinical_trials/prompts/clinical_extraction_prompt_v1_1.md",
+  "prompt_sha256": "fb6e90e2349219a75f7667dffbe869819bf312b1dda1db595638cff983b8eb55",
+  "rubric_sha256": "690a633e8df5a412fe1e34ce05dce42953f6ca1ed8d7f39e55097104802d09bd",
+  "Model": "claude-sonnet-5",
+  "PromptVersion": "v1.2",
+  "RubricVersion": "v1",
+  "Temperature": 1,
+  "temperature_configured": "no — Claude Code subagents expose no sampling-temperature control, so this is the harness default rather than the design's configured 0. Recorded honestly rather than as a 0 that never happened.",
+  "requested_utc": "2026-08-07T14:41:42+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "StudyID": "Hollister 1969",
+  "Condition": "Alcohol",
+  "surname_token": "Hollister",
+  "Year": 1969,
+  "citation_manifest": "Hollister, L. E., Shelton, J., & Krieger, G. (1969). A controlled comparison of lysergic acid diethylamide (LSD) and dextroamphetamine in alcoholics. American Journal of Psychiatry, 125(10), 1352-1357.",
+  "SourcePDF": "alcohol/Hollister, L. E., Shelton, J., & Krieger, G. (1969). A controlled comparison of lysergic acid diethylamide (LSD).pdf",
+  "text_path": "clinical_trials/inputs/text/Hollister 1969.txt",
+  "text_sha256": "41d3c82d793874f8906fe150cc4197ddbbb69704c1d8138cd3950db09003cd0d",
+  "text_source": "OCR",
+  "text_format": "text",
+  "fidelity_note": "OCR output; Markdown tier not applicable",
+  "prompt_path": "clinical_trials/prompts/clinical_extraction_prompt_v1_1.md",
+  "prompt_sha256": "fb6e90e2349219a75f7667dffbe869819bf312b1dda1db595638cff983b8eb55",
+  "rubric_sha256": "690a633e8df5a412fe1e34ce05dce42953f6ca1ed8d7f39e55097104802d09bd",
+  "Model": "claude-sonnet-5",
+  "PromptVersion": "v1.2",
+  "RubricVersion": "v1",
+  "Temperature": 1,
+  "temperature_configured": "no — Claude Code subagents expose no sampling-temperature control, so this is the harness default rather than the design's configured 0. Recorded honestly rather than as a 0 that never happened.",
+  "requested_utc": "2026-08-07T14:41:42+00:00"
+}

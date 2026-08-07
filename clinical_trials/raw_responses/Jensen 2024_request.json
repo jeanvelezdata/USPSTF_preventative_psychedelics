@@ -1,0 +1,22 @@
+{
+  "StudyID": "Jensen 2024",
+  "Condition": "Alcohol",
+  "surname_token": "Jensen",
+  "Year": 2024,
+  "citation_manifest": "Jensen, M. E., Stenbaek, D. S., Fisher, P. M., Knudsen, G. M., & Fink-Jensen, A. (2024). Single-dose psilocybin therapy for alcohol use disorder: Pharmacokinetics, feasibility, safety, and efficacy in an open-label study. Research Square preprint.",
+  "SourcePDF": "alcohol/v1_covered_0fc93b81-dfaa-4726-85f8-e5a38067a1dc (1).pdf",
+  "text_path": "clinical_trials/inputs/text/Jensen 2024.md",
+  "text_sha256": "7674e78a2dab1fce0bf85ca2131e1fc550a248b4a545ae1ae96e1e071c22f18d",
+  "text_source": "born-digital",
+  "text_format": "markdown",
+  "fidelity_note": "",
+  "prompt_path": "clinical_trials/prompts/clinical_extraction_prompt_v1_1.md",
+  "prompt_sha256": "fb6e90e2349219a75f7667dffbe869819bf312b1dda1db595638cff983b8eb55",
+  "rubric_sha256": "690a633e8df5a412fe1e34ce05dce42953f6ca1ed8d7f39e55097104802d09bd",
+  "Model": "claude-sonnet-5",
+  "PromptVersion": "v1.2",
+  "RubricVersion": "v1",
+  "Temperature": 1,
+  "temperature_configured": "no — Claude Code subagents expose no sampling-temperature control, so this is the harness default rather than the design's configured 0. Recorded honestly rather than as a 0 that never happened.",
+  "requested_utc": "2026-08-07T14:41:42+00:00"
+}

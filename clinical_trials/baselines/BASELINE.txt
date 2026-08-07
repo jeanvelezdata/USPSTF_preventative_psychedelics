@@ -1,0 +1,34 @@
+Clinical-Trial Extraction — Artifact Baseline
+============================================
+
+Captured (UTC):  2026-08-07T03:15:04+00:00
+Source commit:   ba8c217983d0b2a6d58db8d3e771d6a2a3f36871
+Working tree:    DIRTY
+
+  Uncommitted paths at capture time (baseline reflects the working tree,
+  not the commit above, for any path listed here):
+    ?? clinical_trials/scripts/
+
+Artifacts (SHA-256 of the baseline copy):
+
+  1ab8ca777b806b3ee65439d899d6a3e73eac636610d8950cdfb3cea749b7648c  figures/Alcohol_MethQual_BarPlot.png
+  f877cdf9c79c543e2ce1e2912b46d30752497c8d0e353cf5bd7055506a35356d  figures/Alcohol_Tier1_ForestPlot.png
+  0a33061e163e1b51f164bb08cd41f434facc7ea48a3993df00799ce9056cdd0b  figures/Smoking_Tier1_ForestPlot.png
+  89dbb5e6b9830b1fb50653dd97b40b4777930972db814cdc3e92fb2d551c75f6  figures/Opioid_Tier1_ForestPlot.png
+  fd92d43eae03771a0bce754865cdeb36b5765008d964c44f7ef84ba94530e4ae  figures/Alcohol_Tier2_CatPlot.png
+  d130cd68f6ceea446e87171a8d3ab6de5d9cc964c06ae19c1ba5ee7c494debed  figures/Smoking_Tier2_CatPlot.png
+  33ee15a73673b3e8224d697c27071e18fc85eb2a6f720e22c4f6e6f1fd23ac0c  figures/Opioid_Tier2_CatPlot.png
+  bbfdfd20e2d98386ff62c8ae1a48ab839a83525f239cdf76a43f3cc66db8dd7d  figures/Unified_Tier1_ForestPlot.png
+  5635624ceec6051b10fd3bbbbdc7114b3fa3699ba0abb454e843314681e06ff9  figures/Unified_Tier2_CatPlot.png
+  cd75f584cd0ab45fc5d8fc824965cc31e8749b18296a329a4dd25ca237e462c8  tables/Alcohol_Descriptive_Analyses.docx
+  74ec5ce328ebd500b1f090809bec931f235993d33bab94650015019db9096074  tables/Smoking_Descriptive_Analyses.docx
+  d9d7e4450b05e48202e7410246b0499116f885775f8af8a1d18e5e106b40f9d7  tables/Opioid_Descriptive_Analyses.docx
+  f6c9db63e4839c39692e1e79d66aa8004db2f1258dd87cd12758c5b35bd32d60  tables/Aggregate Data.docx
+  2cb6e0a8c44be374d377d1a4bc7c3a2deae54c98c54c3fb1de0aabeb226836a8  tables/Alcohol_Tier1_HedgesG.xlsx
+  aa19f0a0fd72625158c4010053ead6e82ce6db5cf858d65717c9029e98106802  tables/Smoking_Tier1_HedgesG.xlsx
+  e5fc2a635f6d75471a1d1136591d547ad954d5facbd0e3e5918276034e685189  tables/Opioid_Tier1_HedgesG.xlsx
+  945352587ae4462c5a9c69d884934ca3c2f0857ec91787edb34fc0f8a0d6b505  tables/Alcohol_Tier2_Qualitative.xlsx
+  cecb23e97dea8ee6099516df3e70bbc3c462902c06bf86b9694a42adcb2affa9  tables/Smoking_Tier2_Qualitative.xlsx
+  7ffd3276043278fa7be00def2a7da63ef2a64c922f28cbf3326475273cbb46c8  tables/Opioid_Tier2_Qualitative.xlsx
+
+Copied 19 of 19 artifacts.

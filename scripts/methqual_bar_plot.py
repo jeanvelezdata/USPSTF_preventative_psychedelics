@@ -16,28 +16,46 @@ matplotlib.use("Agg")
 import matplotlib.patches as mpatches
 import matplotlib.pyplot as plt
 import numpy as np
+import pandas as pd
 
-_BASE = Path(__file__).parent.parent
+_BASE    = Path(__file__).parent.parent
+_SCRIPTS = Path(__file__).parent
+sys.path.insert(0, str(_SCRIPTS))
 
-# ── Data (Table 2, Alcohol_Descriptive_Analyses.docx) ─────────────────────────
+import _lib as lib
+from descriptive_analyses import METHODOLOGY_INDICATORS, methodology_value
 
-CRITERIA = [
-    "Randomization",
-    "Any blinding",
-    "Double-blind or above",
-    "Comparator/control group",
-    "Power reported or discussed",
-    "≥80% retention",
-    "Validated outcome scale",
-    "Confounders assessed",
-    "Inclusion/exclusion criteria stated",
-    "≥13/14 design criteria described",
-    "Funding/COI disclosed",
-    "Primary care interface",
-]
+# ── Data (computed from the cleaned frame, same as Table 2) ───────────────────
+#
+# These percentages were hardcoded literals copied out of Table 2, and this
+# script is not wired into run_pipeline.py — so a re-extraction left the figure
+# displaying stale numbers beside a table that had moved. They are now computed
+# by the same methodology_value() call Table 2 performs, on the same cleaned
+# frame, so the figure cannot contradict the table.
+#
+# Visual properties affected: bar heights and the legend's n= counts only. No
+# change to geometry, colors, fonts, ordering, labels or axis.
 
-PRE1980 = [54, 46, 15, 69,  0, 54, 31, 69, 54,  8, 62,  0]
-POST2010 = [70, 55, 50, 65, 35, 95, 100, 75, 100, 60, 100,  5]
+CLEANED = _BASE / 'data' / 'Alcohol_Dataset_Cleaned.xlsx'
+
+if not CLEANED.exists():
+    print(f"ERROR: {CLEANED} not found. Run clean_dataset.py --condition alcohol first.",
+          file=sys.stderr)
+    sys.exit(1)
+
+_df = pd.read_excel(CLEANED)
+_df['era'] = pd.to_numeric(_df['Year'], errors='coerce').map(
+    lambda y: lib.classify_era(int(y)) if pd.notna(y) else 'Gap')
+
+_pre  = _df[_df['era'] == 'Pre-1980']
+_post = _df[_df['era'] == '2010+']
+N_PRE, N_POST = len(_pre), len(_post)
+
+CRITERIA = [label for label, _col, _kind in METHODOLOGY_INDICATORS]
+PRE1980  = [round(methodology_value(_pre,  col, kind, N_PRE))
+            for _label, col, kind in METHODOLOGY_INDICATORS]
+POST2010 = [round(methodology_value(_post, col, kind, N_POST))
+            for _label, col, kind in METHODOLOGY_INDICATORS]
 
 # ── Visual constants (matches unified plots) ───────────────────────────────────
 
@@ -79,9 +97,9 @@ for x in range(0, 110, 20):
 
 # Bars
 bars_pre  = ax.barh(y_pos + bar_h / 2, PRE1980,  height=bar_h,
-                    color=_ERA_PRE,  alpha=0.90, zorder=2, label='Pre-1980 (n=13)')
+                    color=_ERA_PRE,  alpha=0.90, zorder=2, label=f'Pre-1980 (n={N_PRE})')
 bars_post = ax.barh(y_pos - bar_h / 2, POST2010, height=bar_h,
-                    color=_ERA_POST, alpha=0.92, zorder=2, label='2010+ (n=20)')
+                    color=_ERA_POST, alpha=0.92, zorder=2, label=f'2010+ (n={N_POST})')
 
 # Percentage labels inside/outside bars
 for bar, val in zip(bars_pre, PRE1980):
@@ -123,8 +141,8 @@ ax.invert_yaxis()
 
 # ── Legend ────────────────────────────────────────────────────────────────────
 
-pre_patch  = mpatches.Patch(color=_ERA_PRE,  label='Pre-1980  (n = 13)')
-post_patch = mpatches.Patch(color=_ERA_POST, label='2010+  (n = 20)')
+pre_patch  = mpatches.Patch(color=_ERA_PRE,  label=f'Pre-1980  (n = {N_PRE})')
+post_patch = mpatches.Patch(color=_ERA_POST, label=f'2010+  (n = {N_POST})')
 ax.legend(
     handles=[pre_patch, post_patch],
     loc='lower right', fontsize=9,

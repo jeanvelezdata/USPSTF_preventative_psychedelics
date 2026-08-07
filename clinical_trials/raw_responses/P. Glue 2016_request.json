@@ -1,0 +1,22 @@
+{
+  "StudyID": "P. Glue 2016",
+  "Condition": "Opioid",
+  "surname_token": "P. Glue",
+  "Year": 2016,
+  "citation_manifest": "P. Glue, Cape, G., Tunnicliff, D., Lockhart, M., Lam, F., Hung, N., Hung, C. T., Harland, S., Devane, J., Crockett, R. S., Howes, J., Darpo, B., Zhou, M., Weis, H., & Friedhoff, L. (2016). Ascending single-dose, double-blind, placebo-controlled safety study of noribogaine in opioid-dependent patients. Clinical Pharmacology in Drug Development, 5(6), 460-468.",
+  "SourcePDF": "opioids/Ascending_single_dose_double_blind_place.pdf",
+  "text_path": "clinical_trials/inputs/text/P. Glue 2016.md",
+  "text_sha256": "9a7dee768c6a96c194db9097ce1465e7aefc1e1e4d752667327536fb54cd8f12",
+  "text_source": "born-digital",
+  "text_format": "markdown",
+  "fidelity_note": "",
+  "prompt_path": "clinical_trials/prompts/clinical_extraction_prompt_v1_1.md",
+  "prompt_sha256": "fb6e90e2349219a75f7667dffbe869819bf312b1dda1db595638cff983b8eb55",
+  "rubric_sha256": "690a633e8df5a412fe1e34ce05dce42953f6ca1ed8d7f39e55097104802d09bd",
+  "Model": "claude-sonnet-5",
+  "PromptVersion": "v1.2",
+  "RubricVersion": "v1",
+  "Temperature": 1,
+  "temperature_configured": "no — Claude Code subagents expose no sampling-temperature control, so this is the harness default rather than the design's configured 0. Recorded honestly rather than as a 0 that never happened.",
+  "requested_utc": "2026-08-07T14:41:42+00:00"
+}

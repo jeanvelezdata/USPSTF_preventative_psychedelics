@@ -1,0 +1,49 @@
+Clinical-Trial Extraction — Validation Report
+============================================
+
+Articles parsed:  49
+AE events parsed: 193
+
+Config proposals: carried-forward=32  pending=17
+
+Gate coverage: design §8 checks 1-10 and 12 run here. Checks 11 and 13 run
+in gate_rebuild.py (they need the ratified config); check 14 runs in
+visual_regression.py (it needs the rebuilt artifacts).
+
+VALIDATION PASSED — 0 blocking issues. Output tables written.
+
+WARNINGS — 33 (non-blocking; read before publication):
+
+  - [Bowen 1970] read the plain-text fallback — OCR output; Markdown tier not applicable
+  - [Bowen 1970] text_source=OCR — extraction quality is degraded; stratify on this before comparing across eras
+  - [Costello 1969] EligibleYN=N — Titled 'Review'; Costello critically synthesizes published aversion-therapy and LSD-therapy studies for alcoholism (Lemere & Voegtlin, Sanderson et al., Smart et al., Table II) without conducting original enrollment, an assigned regimen, or prospective outcome assessment of his own. Fails criterion (a): not a clinical trial the author conducted.
+  - [Costello 1969] checklist criterion harms=N but HarmsAssessed=1 — the element cannot be present and undescribed
+  - [Costello 1969/Costello 1969_AE03] pre-1980 article with SeveritySource=author — CTCAE postdates this literature. Legitimate only if the authors used their own severity language; check the rationale.
+  - [Costello 1969/Costello 1969_AE07] pre-1980 article with SeveritySource=author — CTCAE postdates this literature. Legitimate only if the authors used their own severity language; check the rationale.
+  - [Costello 1969] no substance flag set — primary_substance() will return "Unknown" and the study renders in fallback grey
+  - [Denson 1970] EligibleYN=N — Sample includes alcoholics and neurotics analyzed together; outcomes are the MMPI, Eysenck Personality Inventory, IPAT Anxiety Scale, Lorr Rating Scale, and a general follow-up questionnaire (health, doctor visits, work). No alcohol-consumption, abstinence, craving, or validated SUD-instrument outcome is reported anywhere in the text. Fails criterion (b).
+  - [Denson 1970] read the plain-text fallback — check2 runaway: md/txt ratio 2.02 > 1.6
+  - [Hollister 1969] read the plain-text fallback — OCR output; Markdown tier not applicable
+  - [Hollister 1969] text_source=OCR — extraction quality is degraded; stratify on this before comparing across eras
+  - [Johnson 2016] Retention (%)=80.0 is within 2 points of the 80% threshold, which flips a Table 2 and Table 3 cell
+  - [Krupitsky 2007] Retention (%)=79.2 is within 2 points of the 80% threshold, which flips a Table 2 and Table 3 cell
+  - [Ludwig 1969] EligibleYN=N — The converted text at text_path (24 lines) contains only unrelated book-review content -- reviews of a different, 1970 Charles C. Thomas book by the same lead authors, plus reviews of unrelated works on delinquency and delirium tremens. No sentence of the actual 1969 AJP article is present. Neither criterion (a) nor (b) can be verified.
+  - [MacLean 1961/MacLean 1961_AE02] pre-1980 article with SeveritySource=author — CTCAE postdates this literature. Legitimate only if the authors used their own severity language; check the rationale.
+  - [MacLean 1961/MacLean 1961_AE03] pre-1980 article with SeveritySource=author — CTCAE postdates this literature. Legitimate only if the authors used their own severity language; check the rationale.
+  - [MacLean 1961/MacLean 1961_AE04] pre-1980 article with SeveritySource=author — CTCAE postdates this literature. Legitimate only if the authors used their own severity language; check the rationale.
+  - [O'Donnell 2022] EligibleYN=N — Protocol/rationale paper for RCT NCT02061293; primary outcomes explicitly stated as 'published elsewhere' (ref 9, Bogenschutz et al. 2022 JAMA Psychiatry). No effect sizes, p-values, or substance-use outcome data are reported in this text -- describes design only. Fails (a): describes rather than reports a trial. Fails (b): no substance-use outcome data reported.
+  - [Pagni 2024] Retention (%)=78.57 is within 2 points of the 80% threshold, which flips a Table 2 and Table 3 cell
+  - [Savage 1973] checklist criterion harms=N but HarmsAssessed=1 — the element cannot be present and undescribed
+  - [Savage 1973] read the plain-text fallback — check2 runaway: md/txt ratio 2.21 > 1.6
+  - [Smart 1964] EligibleYN=N — Smart & Storm conducted no trial of their own; this is a narrative methodological critique, published under 'NOTES and COMMENT,' of five prior LSD-alcoholism studies (Smith 1958; Chwelos et al. 1959; MacLean et al. 1961; Chandler & Hartman 1960; Eisner & Cohen 1958). No participants enrolled, no intervention administered. Fails criterion (a).
+  - [Smart 1964] no substance flag set — primary_substance() will return "Unknown" and the study renders in fallback grey
+  - [Smart 1966] checklist criterion harms=N but HarmsAssessed=1 — the element cannot be present and undescribed
+  - [Smith 1958/Smith 1958_AE03] pre-1980 article with SeveritySource=author — CTCAE postdates this literature. Legitimate only if the authors used their own severity language; check the rationale.
+  - [Smith 1958/Smith 1958_AE05] pre-1980 article with SeveritySource=author — CTCAE postdates this literature. Legitimate only if the authors used their own severity language; check the rationale.
+  - [Vanderijst 2024] EligibleYN=N — Labeled a study protocol; no participants had been enrolled, screened, or dosed at publication, so no intervention was administered (fails criterion a) and no substance-use outcome data are reported anywhere in the article (fails criterion b).
+  - [Yoon 2019] Retention (%)=80.0 is within 2 points of the 80% threshold, which flips a Table 2 and Table 3 cell
+  - [reconciliation] [O'Donnell 2022] (Alcohol) no frozen old counterpart — expected for the previously dropped alcohol studies; the corpus is a superset by design
+  - [reconciliation] [Ludwig 1969] (Alcohol) no frozen old counterpart — expected for the previously dropped alcohol studies; the corpus is a superset by design
+  - [reconciliation] [Smart 1964] (Alcohol) no frozen old counterpart — expected for the previously dropped alcohol studies; the corpus is a superset by design
+  - [reconciliation] [Costello 1969] (Alcohol) no frozen old counterpart — expected for the previously dropped alcohol studies; the corpus is a superset by design
+  - [reconciliation] [Vanderijst 2024] (Alcohol) no frozen old counterpart — expected for the previously dropped alcohol studies; the corpus is a superset by design
