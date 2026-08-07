@@ -1,6 +1,6 @@
 # Observational Adverse-Event / Demographics Codebook
 
-**Purpose.** Field-by-field conventions for the standalone adverse-event / demographics extraction (eight extracted items, 44 articles). Authoritative reference for the implementation pass. Architecture and workflow are in `observational_studies_system_design.md`; the source item list is `opus_extraction_prompt_observational.md`.
+**Purpose.** Field-by-field conventions for the standalone adverse-event / demographics extraction (eight extracted items, 44 articles). Authoritative reference for the implementation pass. Architecture and workflow are in `observational_studies_system_design.md`.
 
 **Design principles.** Be precise, conservative, evidence-based. Assert only what is explicitly stated or clearly inferable. Never guess a number to fill a field — code it not-reported. For a *safety* dataset, the cardinal error is understating harm; every judgment call is flagged, not buried.
 
@@ -190,4 +190,3 @@ Failures are written to `validation_report.txt` with the offending `StudyID` and
 ## 8. Cross-references
 
 - Architecture, workflow, schema, and severity rubric: `observational_studies_system_design.md`.
-- Source item list: `opus_extraction_prompt_observational.md`.
