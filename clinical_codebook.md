@@ -1,6 +1,6 @@
 # Clinical-Trial Extraction Codebook
 
-**Purpose.** Field-by-field conventions for the clinical-trial extraction (52 source variables + 2 identity columns + 19 added fields, one of them derived rather than extracted, over 48 articles), producing `clinical_trials/outputs/clinical_master.csv` and the linked `ae_events.csv`. Authoritative reference for the implementation pass and for the pinned per-article prompt. Architecture and workflow are in `clinical_system_design.md`; old↔new comparability is in `clinical_old_new_mapping.md`.
+**Purpose.** Field-by-field conventions for the clinical-trial extraction (52 source variables + 2 identity columns + 19 added fields, one of them derived rather than extracted, over 48 articles), producing `clinical_trials/outputs/clinical_master.csv` and the linked `ae_events.csv`. Authoritative reference for the implementation pass and for the pinned per-article prompt. Architecture and workflow are in `clinical_system_design.md`; old↔new comparability is in `archived/migration/clinical_old_new_mapping.md`.
 
 **Design principles.** Be precise, conservative, evidence-based. Assert only what is explicitly stated or clearly inferable. Never guess a number to fill a field — code it not-reported. Every non-obvious judgment is recorded in the `rationale` half, never buried in a value. Two additions specific to this codebook: for the four fields that position the forest plot (§4.3), a rationale entry is mandatory on *every* article, not only the non-obvious ones; and for adverse events, the cardinal error remains understating harm, so the observational pipeline's flag-don't-bury discipline (§6) carries over intact.
 
@@ -59,7 +59,7 @@ This is a **standalone dataset**. It shares no key with the observational datase
 
 Use `3` when the variable's concept does not logically apply (e.g. `BlindingYN` for an open-label single-arm study). Use `"."` when the concept applies but the information was simply not reported.
 
-**This diverges deliberately from the observational codebook's `Y` / `N` / `NA` enums.** Three reasons: `_lib.recode_binary()`, `_lib.BINARY_COLS`, and `descriptive_analyses.py` all consume the numeric codes and keep working untouched; the numeric `3` carries a distinction ("does not apply") that `N` collapses; and it makes old-vs-new comparison an exact cell-for-cell diff with no value translation layer that could itself introduce a discrepancy (`clinical_old_new_mapping.md` §4).
+**This diverges deliberately from the observational codebook's `Y` / `N` / `NA` enums.** Three reasons: `_lib.recode_binary()`, `_lib.BINARY_COLS`, and `descriptive_analyses.py` all consume the numeric codes and keep working untouched; the numeric `3` carries a distinction ("does not apply") that `N` collapses; and it makes old-vs-new comparison an exact cell-for-cell diff with no value translation layer that could itself introduce a discrepancy (`archived/migration/clinical_old_new_mapping.md` §4).
 
 ### 3.2 The added QC and provenance fields — `Y` / `N` enums
 
@@ -408,7 +408,7 @@ Deterministic, run at merge. **Blocking failures prevent any output table from b
 
 ## 9. What was sharpened, and why
 
-Every change from `opus_extraction_prompt.md`, so a reviewer can see exactly what moved.
+Every change from `archived/prompts/opus_extraction_prompt.md`, so a reviewer can see exactly what moved.
 
 | # | Field | Change |
 |---|---|---|
@@ -433,5 +433,5 @@ Every change from `opus_extraction_prompt.md`, so a reviewer can see exactly wha
 ## 10. Cross-references
 
 - Architecture, workflow, conversion, adapter, validation gate, visual regression: `clinical_system_design.md`.
-- Old↔new field crosswalk, row identity, comparison procedure, acceptance criteria: `clinical_old_new_mapping.md`.
+- Old↔new field crosswalk, row identity, comparison procedure, acceptance criteria: `archived/migration/clinical_old_new_mapping.md`.
 - Severity rubric source of record and the observational pipeline it is shared with: `observational_codebook.md` §5, `observational_studies_system_design.md` §3.

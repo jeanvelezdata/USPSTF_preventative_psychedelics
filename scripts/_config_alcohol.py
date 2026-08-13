@@ -14,7 +14,7 @@ EFFECT_SIZE_EXTRACTIONS: dict = {
     (     'Bogenschutz', 2022): ("Hedges' g", 0.52, ''),
     (           'Bowen', 1970): ('Chi-squared', 1.408, 'df=1; 24% vs 27% good adjustment (LSD+HRTL vs control, combined); ns'),
     (          'Dakwar', 2020): ('F', 25.1, "Primary outcome (21-day alcohol abstinence) tested via the time-by-treatment interaction, F(1,797)=25.1, p<.001 (single-numerator-df F, directly convertible to a Hedges' g equivalent); direction=1 because the effect favors ketamine, the psychedelic arm."),
-    (             'Das', 2019): ('Partial eta squared', 0.14, "Primary drinking outcome: F(1,89.17)=19.55, p<.001, np2=0.14. The frozen 0.219 belongs to the secondary post-consumption urge measure, which output.md ruled non-primary."),
+    (             'Das', 2019): ('Partial eta squared', 0.14, "Primary drinking outcome: F(1,89.17)=19.55, p<.001, np2=0.14. The frozen 0.219 belongs to the secondary post-consumption urge measure, which clinical_adjudication.md ruled non-primary."),
     (          'Denson', 1970): ('Non-significant (no statistic)', None, 'Outcome not reported'),
     (           'Dusen', 1967): ('Non-significant (no statistic)', '4.03 vs 3.97 (18-month mean outcome score, 2=worse...5=much improved scale; prelysergide control N=37 vs Lysergide Experiment N=56)', 'No SDs reported; ns'),
     (            'Gent', 2024): ('F', 6.88, "Primary outcome (psychological engagement in MBI) tested via the group main effect, F(1,26)=6.88, p=.014, a single-numerator-df F cleanly convertible to a Hedges' g equivalent; direction=1 because the effect favors esketamine (the psychedelic arm) over placebo."),

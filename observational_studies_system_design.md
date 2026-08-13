@@ -109,7 +109,7 @@ A `SafetyReported` (Y/N) gate separates "no AEs" from "didn't look" — without 
 **Folder layout** (structure only — scripts built in the implementation pass):
 
 ```
-aedemographics_extraction/
+observational_studies/
   prompts/
     ae_extraction_prompt_v1.md      # pinned, versioned; embeds the rubric
     severity_rubric_v1.md           # or embedded in the prompt; version-pinned either way

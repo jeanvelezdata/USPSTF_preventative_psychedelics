@@ -1,3 +1,18 @@
+# Agent / editor config
 CLAUDE.md
 PROJECT_PLAN.md
 .claude
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor and script backups
+*.bak
+
+# Source PDFs. Kept on disk (the extraction pipeline's reconciliation gate
+# globs inputs/pdfs/ and blocks on any manifest row whose PDF is missing), but
+# untracked: ~150 MB of publisher files that must not be redistributed.
+# To re-run extraction from scratch you need these locally; see README.
+clinical_trials/inputs/pdfs/
+observational_studies/inputs/pdfs/

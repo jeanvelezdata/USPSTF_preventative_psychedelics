@@ -150,125 +150,27 @@ Boris Cherny (creator of Claude Code) keeps his team's file around 100 lines. Un
 
 ### Purpose
 
-Systematic evidence review of psychedelic-assisted therapies (psilocybin, LSD, ketamine, MDMA, ayahuasca, and others) as treatments for alcohol use disorder (AUD). Goal: characterize the evidence base against USPSTF evidentiary standards and identify methodological gaps. Output is a manuscript with five descriptive tables and a Tier 1 forest plot of standardized effect sizes.
+Systematic evidence review of psychedelic-assisted therapies as treatments for alcohol, tobacco/nicotine, and opioid use disorder, characterised against USPSTF evidentiary standards. This repo generates every table and figure in `USPSTF Manuscript and Outline_USPS.md`; the prose is the human author's.
 
-Dataset: 33 studies total — Pre-1980 (n=13), 2010+ (n=20), 1980–2009 gap (n=0).
+Corpus: 42 eligible clinical trials (Alcohol 32, Smoking 4, Opioid 6) plus 33 observational studies — 75 studies in Table S1.
 
 ### Stack
 
-- Language: Python 3
-- Key libraries: pandas, numpy, openpyxl, python-docx, matplotlib
+- Python 3.12: pandas, numpy, openpyxl, python-docx, matplotlib, PyMuPDF
 - Install: `C:/Users/jeanv/miniforge3/python.exe -m pip install -r requirements.txt`
 - Python runtime: `C:/Users/jeanv/miniforge3/python.exe` — use this path explicitly; the `python` / `py` shims are broken on this machine
 
-### Layout
+### Layout and pipeline
 
-```
-USPSTF/
-├── data/
-│   ├── Alcohol_Dataset.xlsx           # raw extraction (source of truth)
-│   ├── Alcohol_Dataset_Cleaned.xlsx   # output of clean_dataset.py --condition alcohol
-│   ├── Smoking_Dataset.xlsx           # raw extraction (source of truth)
-│   ├── Smoking_Dataset_Cleaned.xlsx   # output of clean_dataset.py --condition smoking
-│   ├── Opioid_Dataset.xlsx            # raw extraction (source of truth)
-│   └── Opioid_Dataset_Cleaned.xlsx    # output of clean_dataset.py --condition opioid
-├── figures/
-│   ├── Alcohol_Tier1_ForestPlot.png   # output of tier1_hedges_g.py --condition alcohol
-│   ├── Alcohol_Tier2_CatPlot.png      # output of tier2_qualitative.py --condition alcohol
-│   ├── Smoking_Tier1_ForestPlot.png   # output of tier1_hedges_g.py --condition smoking
-│   ├── Smoking_Tier2_CatPlot.png      # output of tier2_qualitative.py --condition smoking
-│   ├── Opioid_Tier1_ForestPlot.png    # output of tier1_hedges_g.py --condition opioid
-│   └── Opioid_Tier2_CatPlot.png       # output of tier2_qualitative.py --condition opioid
-├── tables/
-│   ├── Alcohol_Descriptive_Analyses.docx  # output of descriptive_analyses.py --condition alcohol
-│   ├── Alcohol_Tier1_HedgesG.xlsx         # output of tier1_hedges_g.py --condition alcohol
-│   ├── Alcohol_Tier2_Qualitative.xlsx     # output of tier2_qualitative.py --condition alcohol
-│   ├── Smoking_Descriptive_Analyses.docx  # output of descriptive_analyses.py --condition smoking
-│   ├── Smoking_Tier1_HedgesG.xlsx         # output of tier1_hedges_g.py --condition smoking
-│   ├── Smoking_Tier2_Qualitative.xlsx     # output of tier2_qualitative.py --condition smoking
-│   ├── Opioid_Descriptive_Analyses.docx   # output of descriptive_analyses.py --condition opioid
-│   ├── Opioid_Tier1_HedgesG.xlsx          # output of tier1_hedges_g.py --condition opioid
-│   └── Opioid_Tier2_Qualitative.xlsx      # output of tier2_qualitative.py --condition opioid
-├── scripts/
-│   ├── _lib.py                    # shared constants and helpers (do not run directly)
-│   ├── _config_alcohol.py         # alcohol EFFECT_SIZE_EXTRACTIONS + CONVERSION_RULES + TIER2_RATINGS
-│   ├── _config_smoking.py         # smoking EFFECT_SIZE_EXTRACTIONS + CONVERSION_RULES + TIER2_RATINGS
-│   ├── _config_opioid.py          # opioid EFFECT_SIZE_EXTRACTIONS + CONVERSION_RULES + TIER2_RATINGS
-│   ├── clean_dataset.py           # condition-agnostic cleaner (--condition flag)
-│   ├── descriptive_analyses.py    # five descriptive tables per condition (--condition flag)
-│   ├── tier1_hedges_g.py          # Hedges' g conversion + forest plot (--condition flag)
-│   ├── tier2_qualitative.py       # qualitative classification + category plot (--condition flag)
-│   ├── table3_gapmap.py           # manuscript Table 3: indicators by condition -> .docx
-│   ├── table4_ae_safety.py        # manuscript Table 4: AE/net-benefit profile -> .docx
-│   └── pooled_meta.py             # DerSimonian-Laird pooling of the Tier 1 estimates
-├── run_pipeline.py                    # runs all conditions; skips unpopulated ones
-├── requirements.txt                   # minimum version bounds
-├── requirements-lock.txt              # exact versions used for published results
-├── Draft Text and Outline_USPS.docx   # manuscript draft
-└── CLAUDE.md
-```
+**[README.md](README.md) is the authority on repository layout, how to run the pipeline, and how extraction works.** Read it rather than assuming a layout, and update it in the same commit whenever you move or add a script. Design specs: `clinical_system_design.md`, `observational_studies_system_design.md`. Field definitions: `clinical_codebook.md`, `observational_codebook.md`.
 
-### Running scripts
+Five things that are easy to get wrong here:
 
-Run the full pipeline from the project root with one command:
-
-```
-C:/Users/jeanv/miniforge3/python.exe run_pipeline.py
-```
-
-Or run individual scripts (all accept `--condition alcohol|smoking|opioid`):
-
-```
-C:/Users/jeanv/miniforge3/python.exe scripts/clean_dataset.py --condition <c>
-C:/Users/jeanv/miniforge3/python.exe scripts/tier1_hedges_g.py --condition <c>
-C:/Users/jeanv/miniforge3/python.exe scripts/tier2_qualitative.py --condition <c>
-C:/Users/jeanv/miniforge3/python.exe scripts/descriptive_analyses.py --condition <c>
-```
-
-### Analysis pipeline
-
-**Step 1 — `clean_dataset.py --condition <c>`**
-- Input: `data/<Condition>_Dataset.xlsx`
-- Output: `data/<Condition>_Dataset_Cleaned.xlsx`
-- Operations: normalises column-name variants across datasets (`Retention` → `Retention (%)`, `StudyDesignType` → `Study Design Type`); strips whitespace; replaces `.` with NaN; coerces numeric columns; collapses `Country_USvsNonUS`; fixes `Age_Median` outlier; recodes binary columns (0/1 preserved, 3→"Does not apply"); converts `BaseStatus` to ordered categorical; extracts effect-size `metric` and `measure` via `EFFECT_SIZE_EXTRACTIONS` in the per-condition config.
-- Shared logic lives in `_lib.py:clean()`; per-condition lookup tables live in `_config_<condition>.py`.
-
-**Step 2a — `descriptive_analyses.py --condition <c>`**
-- Input: `data/<Condition>_Dataset_Cleaned.xlsx`
-- Output: `tables/<Condition>_Descriptive_Analyses.docx`
-- Produces five Word tables: (1) Study Characteristics by era, (2) Methodological Quality by era, (3) USPSTF Gap Heat Map (52 indicators × 6 domains, heat-colored), (4) Outcome Domains by era, (5) Follow-up Duration Distribution.
-- Era split: Pre-1980 vs 2010+. Missing/not-reported is treated as not met (strict USPSTF gap interpretation).
-
-**Step 2b — `tier1_hedges_g.py --condition <c>`**
-- Input: `data/<Condition>_Dataset_Cleaned.xlsx`
-- Outputs: `tables/<Condition>_Tier1_HedgesG.xlsx` + `figures/<Condition>_Tier1_ForestPlot.png`
-- Converts per-study effect sizes to Hedges' g using `CONVERSION_RULES` from the per-condition config. Supported methods: Cohen's d, Hedges' g (pass-through), F (1 df numerator), partial η², χ² (1 df), OR, RR. Studies with multi-df F, within-subjects designs, single-arm rates, or no statistic are marked `confidence = excluded` and retained in the table for traceability. Forest plot groups by substance, sorted by year; filled squares = clean conversion, hollow squares = approximate.
-
-**Step 2c — `tier2_qualitative.py --condition <c>`**
-- Input: `data/<Condition>_Dataset_Cleaned.xlsx`
-- Outputs: `tables/<Condition>_Tier2_Qualitative.xlsx` + `figures/<Condition>_Tier2_CatPlot.png`
-- Classifies studies excluded from Tier 1 (confidence = excluded) into qualitative categories using `TIER2_RATINGS` from the per-condition config. Categories: negative, null, small_positive, moderate_positive, large_positive, single_arm_positive, unclassifiable. Computes OR from two-group proportions where applicable. Produces a categorical dot/bar plot.
-
-**Step 3 — manuscript-level outputs (run once, after all conditions)**
-- `table3_gapmap.py` → `tables/Table3_USPSTF_GapMap_bySubstance.docx`: the 37 USPSTF indicators with the three conditions side by side against a pooled "All" column, from the cleaned frames.
-- `table4_ae_safety.py` → `tables/Table4_AE_Safety_Summary.docx`: net-benefit / AE profile combining eligible clinical trials with the observational corpus. The observational N total nets out the sample Jones 2022 and Jones 2022 b share.
-- `pooled_meta.py` → `tables/Tier1_PooledMeta.txt`: DerSimonian–Laird pooling of every non-excluded Tier 1 estimate, with Q, τ², I², prediction interval, and leave-one-out range.
-
-### Adding a new condition
-
-1. Populate `scripts/_config_<condition>.py`: add one entry per study to `EFFECT_SIZE_EXTRACTIONS`, `CONVERSION_RULES`, and `TIER2_RATINGS`.
-2. Place the raw Excel file at `data/<Condition>_Dataset.xlsx`.
-3. Add the condition to `CONDITION_META` and `AVAILABLE_CONDITIONS` in `descriptive_analyses.py`.
-4. Run `run_pipeline.py` — it picks up the new condition automatically.
-
-### Codebook conventions
-
-- `.` in the raw Excel = "not reported" → NaN
-- Binary columns: 0 = No, 1 = Yes, 3 = "Does not apply", NaN = not reported
-- `BINARY_COLS` in `_lib.py` lists every column where 3 means "Does not apply"; continuous columns (e.g., `Followup in months`) are excluded because 3 = 3 months there
-- Adding a new study requires a matching entry in both `EFFECT_SIZE_EXTRACTIONS` and `CONVERSION_RULES` in the relevant `_config_<condition>.py`; missing entries raise `KeyError`
-- Tier 1 conversion priority: Cohen's d / Hedges' g > partial η² > F/t/χ² with df > OR/RR > two-group proportions > single proportions > narrative-only
-- The Smoking dataset uses `Retention` (not `Retention (%)`) and `StudyDesignType` (not `Study Design Type`); `_lib.py:clean()` normalises these automatically
+- The analysis input is `clinical_trials/outputs/clinical_master.csv`, **not** `data/<Condition>_Dataset.xlsx`. The latter are the frozen original hand extraction, kept read-only because `reconcile_manifest.py` checks the live corpus against them so a study cannot silently vanish from the evidence base.
+- `archived/` is historical. Nothing in it runs in place, and nothing in it is needed to reproduce the manuscript. Do not import from it or "fix" it.
+- Source PDFs are on disk but untracked by design. `inputs/text/` is tracked, so everything downstream of PDF conversion works from a clean clone.
+- Human corrections go in `clinical_adjudication.md` (clinical) or `observational_studies/overrides.json` (observational), each with a reason. Never hand-edit anything in an `outputs/` directory, and never edit a raw response JSON.
+- `run_pipeline.py` refuses to run against a master that has not passed its validation gate. Fix the gate; never bypass it.
 
 ---
 

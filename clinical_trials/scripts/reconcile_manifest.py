@@ -23,7 +23,7 @@ Warning: a manifest row whose (surname, year) matches no frozen old row —
 expected for the four previously dropped alcohol studies. The corpus is a
 superset of the frozen files by design.
 
-The report is the input to clinical_old_new_mapping.md.
+The report is the input to archived/migration/clinical_old_new_mapping.md.
 """
 
 from __future__ import annotations

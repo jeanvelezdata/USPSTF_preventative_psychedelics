@@ -1,10 +1,10 @@
 # System Design — Clinical-Trial Extraction
 
-**Scope.** The 52-variable clinical-trial codebook (`opus_extraction_prompt.md`) applied to the 48-PDF clinical corpus in `clinical_trials/inputs/pdfs/{alcohol,opioids,smoking}/`, producing **one master study-level table** with `Condition` as a column, plus a linked `ae_events` table. This replaces the hand-pasted, one-article-at-a-time extraction that produced `data/Alcohol_Dataset.xlsx`, `data/Smoking_Dataset.xlsx`, and `data/Opioid_Dataset.xlsx`. Those three files are **frozen, read-only** from here on and serve only as the old-pipeline reference for `clinical_old_new_mapping.md` (decision 5).
+**Scope.** The 52-variable clinical-trial codebook (`archived/prompts/opus_extraction_prompt.md`) applied to the 48-PDF clinical corpus in `clinical_trials/inputs/pdfs/{alcohol,opioids,smoking}/`, producing **one master study-level table** with `Condition` as a column, plus a linked `ae_events` table. This replaces the hand-pasted, one-article-at-a-time extraction that produced `data/Alcohol_Dataset.xlsx`, `data/Smoking_Dataset.xlsx`, and `data/Opioid_Dataset.xlsx`. Those three files are **frozen, read-only** from here on and serve only as the old-pipeline reference for `archived/migration/clinical_old_new_mapping.md` (decision 5).
 
 **Relationship to the observational dataset.** Separate and standalone. The observational AE/demographics dataset (`observational_studies/`) is not joined to this one, shares no key, and is analyzed independently. What crosses over is *architecture* — subagent isolation, manifest checkpointing, the two-part response contract, provenance archival, the deterministic merge/validate gate — and one piece of *content*: the CTCAE v5.0 → 3-band severity rubric with FDA-seriousness cross-walk (`observational_codebook.md` §5), imported verbatim so adverse events in both datasets are graded on the same scale.
 
-**Codebook.** Field-by-field conventions live in the companion `clinical_codebook.md`. **Migration contract.** Old↔new comparability lives in `clinical_old_new_mapping.md`.
+**Codebook.** Field-by-field conventions live in the companion `clinical_codebook.md`. **Migration contract.** Old↔new comparability lives in `archived/migration/clinical_old_new_mapping.md`.
 
 **Execution environment.** Claude Code on a Claude subscription with token limits (no Anthropic API key) — the same environment as the observational pipeline, and the same two consequences (`observational_studies_system_design.md`, preamble): the run must be **checkpointed** so a token-limit interruption resumes rather than restarts, and **archival artifacts must be written explicitly** because nothing in an orchestrated run archives itself. The clinical case makes both sharper: at 52 fields plus an AE array per article, a lost mid-corpus batch is roughly six times the re-work of a lost observational batch.
 
@@ -28,7 +28,7 @@ Scale: roughly 1.5–2.5 M input + 0.15 M output tokens for the full corpus. Cos
 
 1. **Convert (scripted, deterministic).** PDF → Markdown, with a text fallback. §1.2.
 2. **Build/reconcile the manifest (scripted + one human metadata pass).** §1.3.
-3. **Dispatch.** For each not-yet-done article, spawn one subagent with that article's converted text plus the pinned prompt (`clinical_trials/prompts/clinical_extraction_prompt_v1.md`). The subagent's **first** action is the eligibility screen (§5.1); it then extracts all 52 codebook fields, the added QC/provenance fields, and the AE array — **regardless of the eligibility verdict** (decision 9). It returns the two-part object (§2) for that one article.
+3. **Dispatch.** For each not-yet-done article, spawn one subagent with that article's converted text plus the pinned prompt (`clinical_trials/prompts/clinical_extraction_prompt_v1_1.md`). The subagent's **first** action is the eligibility screen (§5.1); it then extracts all 52 codebook fields, the added QC/provenance fields, and the AE array — **regardless of the eligibility verdict** (decision 9). It returns the two-part object (§2) for that one article.
 4. **Checkpoint on return.** As each subagent completes, immediately write `{StudyID}_request.json`, `{StudyID}_response.json`, and mark the `StudyID` done in the manifest. An interrupted session **resumes from the manifest**, re-dispatching only unfinished articles. This same discipline is the audit trail.
 5. **Merge + validate (separate, deterministic step).** Assemble `clinical_master.csv` + `ae_events.csv`, split the rationale halves into `rationale_log.md`, emit config proposals (§5.3), and run the validation gate (§8). Kept outside the subagents so it re-runs without re-extracting.
 6. **Ratify config entries.** Auto-ratified and carried-forward proposals are applied to `scripts/_config_<condition>.py`; pending ones go to a human. §5.3.
@@ -98,7 +98,7 @@ Checks 1–2 are cheap guards; 3–4 are the ones that matter. An article that f
 | Frozen old row matching no manifest row | **BLOCK** | Data loss: a study that was in the evidence base has vanished. Overridable only by a human-authored `expected_missing.csv` entry giving a reason. |
 | Duplicate `(surname, year)` across manifest rows | **BLOCK** | The config dicts are keyed on this tuple and cannot disambiguate. See "Identity". |
 
-The reconciliation report — matched, new, missing, per condition — is written to `clinical_trials/outputs/reconciliation_report.txt` and is the input to `clinical_old_new_mapping.md`.
+The reconciliation report — matched, new, missing, per condition — is written to `archived/migration/reconciliation_report.txt` and is the input to `archived/migration/clinical_old_new_mapping.md`.
 
 **Identity** (constraint 2). `StudyID = f"{first_author_surname(Citation/Title)} {Year}"`, and `(surname, Year)` remains the lookup key into `scripts/_config_<condition>.py`. `first_author_surname()` splits `Citation/Title` on the first `,` or `;` and normalizes curly apostrophes and non-breaking hyphens, so the extracted citation **must begin with the first author's surname token**. Three consequences the design must handle:
 
@@ -113,7 +113,7 @@ Archive, per article: the pinned prompt + rubric version, the exact converted te
 Two honest caveats for the methods appendix:
 
 1. **Determinism.** Even at temperature 0, LLM output is not guaranteed bit-identical across runs or model minor-versions. The defensible claim is *"every request and response is archived verbatim"* (provenance), not *"re-running reproduces identical codes"* (determinism). Inherited from `observational_studies_system_design.md` §1.2.
-2. **The frozen rows have no provenance.** `data/<Condition>_Dataset.xlsx` was produced by pasting `opus_extraction_prompt.md` into a chat one article at a time. There is no archived request, no archived response, no recorded model version, no recorded date, no pinned prompt version. Nothing can be reconstructed about how any individual old value was produced. Therefore: **the provenance claim attaches to the new master table only.** The frozen files must be described in the manuscript as a historical hand extraction retained for migration comparison, never as part of the provenance chain. `clinical_old_new_mapping.md` is what converts "we redid it" into evidence that redoing it did not change the evidence — which is the only rigorous role the old files can play.
+2. **The frozen rows have no provenance.** `data/<Condition>_Dataset.xlsx` was produced by pasting `archived/prompts/opus_extraction_prompt.md` into a chat one article at a time. There is no archived request, no archived response, no recorded model version, no recorded date, no pinned prompt version. Nothing can be reconstructed about how any individual old value was produced. Therefore: **the provenance claim attaches to the new master table only.** The frozen files must be described in the manuscript as a historical hand extraction retained for migration comparison, never as part of the provenance chain. `archived/migration/clinical_old_new_mapping.md` is what converts "we redid it" into evidence that redoing it did not change the evidence — which is the only rigorous role the old files can play.
 
 ---
 
@@ -236,7 +236,7 @@ Gate: `n_met` must equal the count of `"Y"` values, and `MethodologyDescribedYN 
 
 `apply_config_proposals.py` merges the first two categories into `scripts/_config_<condition>.py` and leaves pending ones out; the gate then blocks the rebuild while any *eligible* study lacks a ratified entry, reporting them as a **named list of `(surname, year)` tuples** rather than the bare `KeyError` that `extract_effect_size_fields()` raises today.
 
-**The auto-apply hazard, stated plainly.** A model-declared `clean` that is wrong — calling a within-subjects `t` a between-groups conversion, say — reaches the forest plot without human review. Three mitigations, all in the gate: `confidence = clean` is accepted only for the seven methods `_lib.convert_to_d()` implements (`d`, `g`, `eta_p`, `F`, `chi2`, `OR`, `RR`) and is rejected on any other method string; `method = "F"` without a numeric `df_error` is rejected; and every auto-ratified entry is listed in `validation_report.txt` and `rationale_log.md`, so the residue is visible after the fact even though it did not block. The residual risk — a plausible-but-wrong `clean` on a supported method — is real and is the price of the throughput; the old/new comparison's Tier-1 standard (`clinical_old_new_mapping.md` §5) is the backstop for the 44 studies that have an old counterpart, and the four new studies have none.
+**The auto-apply hazard, stated plainly.** A model-declared `clean` that is wrong — calling a within-subjects `t` a between-groups conversion, say — reaches the forest plot without human review. Three mitigations, all in the gate: `confidence = clean` is accepted only for the seven methods `_lib.convert_to_d()` implements (`d`, `g`, `eta_p`, `F`, `chi2`, `OR`, `RR`) and is rejected on any other method string; `method = "F"` without a numeric `df_error` is rejected; and every auto-ratified entry is listed in `validation_report.txt` and `rationale_log.md`, so the residue is visible after the fact even though it did not block. The residual risk — a plausible-but-wrong `clean` on a supported method — is real and is the price of the throughput; the old/new comparison's Tier-1 standard (`archived/migration/clinical_old_new_mapping.md` §5) is the backstop for the 44 studies that have an old counterpart, and the four new studies have none.
 
 ---
 
@@ -248,7 +248,7 @@ Gate: `n_met` must equal the count of `"Y"` values, and `MethodologyDescribedYN 
 
 **`clinical_master` (one row per article).** The 56 frozen columns minus two, plus added fields.
 
-*Dropped (2):* `url or link to pdf` and `Study Design Type`, per the PI's instruction that both are unnecessary. Supporting evidence for the latter: it holds the constant value `"Clinical Trial"` in **all 44** frozen rows across all three files, so it carries zero information. Consequences are enumerated in §9 and in `clinical_old_new_mapping.md` §2.
+*Dropped (2):* `url or link to pdf` and `Study Design Type`, per the PI's instruction that both are unnecessary. Supporting evidence for the latter: it holds the constant value `"Clinical Trial"` in **all 44** frozen rows across all three files, so it carries zero information. Consequences are enumerated in §9 and in `archived/migration/clinical_old_new_mapping.md` §2.
 
 *Carried verbatim (54):* `Citation/Title`, `Condition`, and the 52 codebook variables under their exact existing names, including `Clincial Trial YN`, `Funding/COI YN`, `Retention (%)`, `Followup in months`, `Implementation Outcome`, `Double+Blind`, `Pos Result Y/N`. The Smoking file's legacy `Retention` / `StudyDesignType` spellings disappear with the merge to one table (decision 2). `Condition` is canonicalized to `Alcohol` / `Smoking` / `Opioid` — note that the frozen Opioid file stores `"Opioids"` (plural), which is a **value** normalization, not a column rename, and is recorded as such in the migration document.
 
@@ -261,7 +261,7 @@ Gate: `n_met` must equal the count of `"Y"` values, and `MethodologyDescribedYN 
 ```
 clinical_trials/
   prompts/
-    clinical_extraction_prompt_v1.md      # pinned, versioned; embeds codebook + rubric
+    clinical_extraction_prompt_v1_1.md      # pinned, versioned; embeds codebook + rubric
     severity_rubric_v1.md                 # identical text to observational v1
   inputs/
     pdfs/{alcohol,opioids,smoking}/       # 37 + 7 + 4 = 48 source PDFs (existing)
@@ -278,10 +278,12 @@ clinical_trials/
     rationale_log.md
     human_review_queue.csv                # SeverityIndeterminate=Y + ineligible + pending config
     config_proposals/{alcohol,smoking,opioid}.py
-    reconciliation_report.txt
     validation_report.txt
-  baselines/                              # pre-rebuild reference PNG/DOCX/XLSX + commit SHA
+    rebuild_gate_report.txt
 ```
+
+`reconciliation_report.txt` and the `baselines/` snapshot were part of the one-time
+migration and now live under `archived/` — see §9.
 
 **CSV as the source of truth, XLSX as an export.** CSV diffs in git, survives round-tripping without Excel's silent type coercion, and makes the old/new comparison a text diff where possible. The frozen old files stay `.xlsx` because they are frozen. Nothing in `data/` is written by the extraction layer; `data/` continues to hold the frozen inputs and the `*_Cleaned.xlsx` outputs at their existing paths (decision 7).
 
@@ -378,6 +380,14 @@ A deterministic post-step (`clinical_trials/scripts/merge_validate.py`, mirrorin
 
 ## 9. Rebuild, visual regression, and the old/new comparison
 
+> **Status: executed and closed.** This section documents the one-time transition from the
+> frozen hand extraction to the automated master. It ran, it passed, and its scripts,
+> baseline snapshot, and reports now live in [archived/migration/](archived/migration/)
+> and [archived/baselines/](archived/baselines/) — the paths below are as they were at the
+> time, not as they are now. Nothing here is part of the routine rebuild; `run_pipeline.py`
+> does not call it. It is retained as the record of how the redesign was shown not to have
+> changed the evidence base.
+
 ### 9.1 Baseline capture — a gate step, before any re-extraction
 
 Copy the currently committed artifacts into `clinical_trials/baselines/`, recording the source commit SHA in `baselines/BASELINE.txt`: nine PNGs (`Alcohol_MethQual_BarPlot`, three `*_Tier1_ForestPlot`, three `*_Tier2_CatPlot`, `Unified_Tier1_ForestPlot`, `Unified_Tier2_CatPlot`), four DOCX (three `*_Descriptive_Analyses`, `Aggregate Data`), and six XLSX (three `*_Tier1_HedgesG`, three `*_Tier2_Qualitative`). **This must happen before the first subagent is dispatched.** After re-extraction the old artifacts are unreproducible, because the frozen inputs alone no longer regenerate them once `clean_dataset.py` points at the master.
@@ -398,4 +408,4 @@ Decision 5 guarantees the study set will shift, so "the figure changed" is uninf
 
 ### 9.3 Old/new comparison
 
-The final gate step, specified in full in `clinical_old_new_mapping.md`: a deterministic per-study, per-field agreement check between the frozen `data/<Condition>_Dataset.xlsx` files and the new master, with a disagreement taxonomy separating expected differences from errors, a tighter standard for the four Tier-1 fields, and explicit acceptance criteria. It is the evidence for the claim that the redesign did not change the evidence — the claim §1.4 says the frozen files can honestly support, and the only one they can.
+The final gate step, specified in full in `archived/migration/clinical_old_new_mapping.md`: a deterministic per-study, per-field agreement check between the frozen `data/<Condition>_Dataset.xlsx` files and the new master, with a disagreement taxonomy separating expected differences from errors, a tighter standard for the four Tier-1 fields, and explicit acceptance criteria. It is the evidence for the claim that the redesign did not change the evidence — the claim §1.4 says the frozen files can honestly support, and the only one they can.

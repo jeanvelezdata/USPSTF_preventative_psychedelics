@@ -26,7 +26,7 @@ EFFECT_SIZE_EXTRACTIONS: dict = {
 
 CONVERSION_RULES: dict = {
     (       'D.C. Mash', 2000): {'method': None, 'confidence': 'excluded', 'note': 'F(3,18) multi-df; within-group pre-post design; no comparator arm'},
-    (       'Jovaisa T', 2006): {'method': None, 'confidence': 'excluded', 'note': "Excluded from Tier 1: the only convertible statistic (d=1.39 from peak MAP, 96.6 vs 79.4 mmHg) measures blood pressure, not substance use. output.md rules the OOWS-A withdrawal-severity score the primary outcome, and it is reported only as 'p<0.05' with no test statistic, so no SUD-outcome effect size can be derived without computing a test the authors did not report."},
+    (       'Jovaisa T', 2006): {'method': None, 'confidence': 'excluded', 'note': "Excluded from Tier 1: the only convertible statistic (d=1.39 from peak MAP, 96.6 vs 79.4 mmHg) measures blood pressure, not substance use. clinical_adjudication.md rules the OOWS-A withdrawal-severity score the primary outcome, and it is reported only as 'p<0.05' with no test statistic, so no SUD-outcome effect size can be derived without computing a test the authors did not report."},
     (       'Krupitsky', 2002): {'method': None, 'confidence': 'excluded', 'note': 'Two-group proportions from figure (approximate); downgrade to Tier 2'},
     (       'Krupitsky', 2007): {'method': None, 'confidence': 'excluded', 'note': 'Two-group proportions; no SD reported; downgrade to Tier 2'},
     (         'P. Glue', 2016): {'method': None, 'confidence': 'excluded', 'direction': -1, 'note': 'NS (p not significant); single SD of unclear provenance; time-to-event endpoint'},

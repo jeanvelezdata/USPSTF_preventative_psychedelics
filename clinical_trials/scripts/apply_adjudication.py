@@ -1,10 +1,10 @@
-"""Apply the human adjudication in output.md back into clinical_master.csv.
+"""Apply the human adjudication in clinical_adjudication.md back into clinical_master.csv.
 
 Usage:
     C:/Users/jeanv/miniforge3/python.exe clinical_trials/scripts/apply_adjudication.py --dry-run
     C:/Users/jeanv/miniforge3/python.exe clinical_trials/scripts/apply_adjudication.py
 
-output.md is the authority. This script parses it rather than carrying a
+clinical_adjudication.md is the authority. This script parses it rather than carrying a
 hand-copied list, so re-running after the adjudication is revised picks the
 revision up instead of silently applying stale values.
 
@@ -50,7 +50,7 @@ for _stream in (sys.stdout, sys.stderr):
 
 import _lib as lib  # noqa: E402
 
-ADJUDICATION = _ROOT / 'output.md'
+ADJUDICATION = _ROOT / 'clinical_adjudication.md'
 MASTER_CSV   = _BASE / 'outputs' / 'clinical_master.csv'
 MASTER_XLSX  = _BASE / 'outputs' / 'clinical_master.xlsx'
 LOG          = _BASE / 'outputs' / 'adjudication_applied.csv'
@@ -117,7 +117,7 @@ def apply_to_frame(df: pd.DataFrame,
 
     merge_validate.py calls this on the freshly merged frame so that
     re-running the merge does not silently revert the human decisions in
-    output.md. That makes the adjudication a durable layer on top of the raw
+    clinical_adjudication.md. That makes the adjudication a durable layer on top of the raw
     extraction rather than a one-shot edit.
     """
     if rows is None:
@@ -169,7 +169,7 @@ def apply_to_frame(df: pd.DataFrame,
 
 
 def main() -> None:
-    ap = argparse.ArgumentParser(description='Apply output.md adjudication to the master.')
+    ap = argparse.ArgumentParser(description='Apply clinical_adjudication.md adjudication to the master.')
     ap.add_argument('--dry-run', action='store_true', help='Report without writing.')
     args = ap.parse_args()
 

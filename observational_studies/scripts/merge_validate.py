@@ -2,8 +2,8 @@
 the validation gate.
 
 Usage:
-    C:/Users/jeanv/miniforge3/python.exe aedemographics_extraction/scripts/merge_validate.py
-    C:/Users/jeanv/miniforge3/python.exe aedemographics_extraction/scripts/merge_validate.py --raw-dir raw_responses --out-dir outputs
+    C:/Users/jeanv/miniforge3/python.exe observational_studies/scripts/merge_validate.py
+    C:/Users/jeanv/miniforge3/python.exe observational_studies/scripts/merge_validate.py --raw-dir raw_responses --out-dir outputs
 
 Reads every {StudyID}_response.json in --raw-dir (the two-part {data,
 rationale} object each subagent returns per the response contract in

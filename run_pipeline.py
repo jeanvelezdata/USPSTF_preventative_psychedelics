@@ -22,6 +22,7 @@ Then once, across conditions:
     8. table3_gapmap.py                          -> tables/Table3_USPSTF_GapMap_bySubstance.docx
     9. table4_ae_safety.py                       -> tables/Table4_AE_Safety_Summary.docx
    10. pooled_meta.py                            -> tables/Tier1_PooledMeta.txt
+   11. table_s1_references.py                    -> tables/TableS1_References.docx
 
 methqual_bar_plot.py is in the sequence because its percentages are now
 computed from the cleaned frame rather than hardcoded; leaving it out is what
@@ -31,6 +32,7 @@ Conditions that lack a populated config or have no rows in the master are
 skipped with a printed warning rather than aborting the pipeline.
 """
 
+import os
 import subprocess
 import sys
 from pathlib import Path
@@ -46,11 +48,18 @@ VALIDATION  = _BASE / 'clinical_trials' / 'outputs' / 'validation_report.txt'
 GATE_SCRIPT = _BASE / 'clinical_trials' / 'scripts' / 'gate_rebuild.py'
 
 
+# Several scripts echo their tables to stdout, and those tables contain non-cp1252
+# characters (>=, en dashes). On a Windows console that defaults to cp1252 the echo
+# raises UnicodeEncodeError *after* the .docx is already written, so the step exits
+# non-zero and looks like a failed rebuild when nothing is actually wrong.
+CHILD_ENV = {**os.environ, 'PYTHONIOENCODING': 'utf-8'}
+
+
 def run(script: Path, *args: str) -> bool:
     """Run a script with optional args. Return True on success."""
     cmd = [PYTHON, str(script)] + list(args)
     print(f"\n=== {script.name} {' '.join(args)} ===", flush=True)
-    if subprocess.run(cmd).returncode != 0:
+    if subprocess.run(cmd, env=CHILD_ENV).returncode != 0:
         print(f'  WARNING: {script.name} exited non-zero — skipping.', flush=True)
         return False
     return True
@@ -91,7 +100,6 @@ run(SCRIPTS / 'unified_cat_plot.py')
 run(SCRIPTS / 'table3_gapmap.py')
 run(SCRIPTS / 'table4_ae_safety.py')
 run(SCRIPTS / 'pooled_meta.py')
+run(SCRIPTS / 'table_s1_references.py')
 
 print('\nDone. All available outputs written.', flush=True)
-print('Next gate: clinical_trials/scripts/visual_regression.py, then old_new_compare.py.',
-      flush=True)

@@ -1,5 +1,5 @@
 """Shared schema, enums, and type/gate-check helpers for the AE/demographics
-extraction pipeline (aedemographics_extraction/). Standalone from the
+extraction pipeline (observational_studies/). Standalone from the
 USPSTF alcohol/smoking/opioid pipeline in scripts/ — no imports either way.
 
 Field definitions mirror observational_codebook.md sections 3-4.

@@ -22,7 +22,7 @@ not exist until after the rebuild:
     checks 1-10, 12  here (response / manifest / text derived)
     checks 11, 13    gate_rebuild.py  (needs the ratified config and the
                      cleaned per-condition frames)
-    check 14         visual_regression.py (needs the rebuilt artifacts)
+    check 14         archived/migration/visual_regression.py (needs the rebuilt artifacts)
 
 Splitting them this way is what lets check 11 block the *rebuild* rather than
 the merge — the config entries it checks are proposed by this step and
@@ -635,15 +635,15 @@ def write_outputs(articles: list[dict], events: list[dict], rat_article: dict,
         columns=lib.ARTICLE_FIELDS,
     ).sort_values(['Condition', 'StudyID']).reset_index(drop=True)
 
-    # The human adjudication in output.md is a durable layer on top of the raw
+    # The human adjudication in clinical_adjudication.md is a durable layer on top of the raw
     # extraction, not a one-shot edit of the CSV. Re-applying it here means a
     # re-merge cannot silently revert decisions a human already made.
     applied, _, adj_errors = apply_adjudication.apply_to_frame(master)
     if adj_errors:
-        raise SystemExit('FATAL: output.md no longer applies cleanly to the merged '
+        raise SystemExit('FATAL: clinical_adjudication.md no longer applies cleanly to the merged '
                          'master. Nothing written.\n  ' + '\n  '.join(adj_errors))
     if applied:
-        print(f'  Re-applied {len(applied)} adjudicated correction(s) from output.md.')
+        print(f'  Re-applied {len(applied)} adjudicated correction(s) from clinical_adjudication.md.')
         pd.DataFrame(applied).to_csv(out_dir / 'adjudication_applied.csv', index=False)
 
     # Derived after adjudication so a corrected SampleSize_NFinal flows through.
@@ -721,7 +721,7 @@ def write_report(failures: list[str], warnings: list[str], n_articles: int,
         lines.append('')
     lines.append('Gate coverage: design §8 checks 1-10 and 12 run here. Checks 11 and 13 run')
     lines.append('in gate_rebuild.py (they need the ratified config); check 14 runs in')
-    lines.append('visual_regression.py (it needs the rebuilt artifacts).')
+    lines.append('archived/migration/visual_regression.py (it needs the rebuilt artifacts).')
     lines.append('')
     if failures:
         lines += [f'VALIDATION FAILED — {len(failures)} blocking issue(s). Merge blocked; no '

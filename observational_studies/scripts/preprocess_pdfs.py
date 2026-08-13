@@ -1,7 +1,7 @@
 """Deterministic PDF -> text preprocessing for the AE/demographics corpus.
 
 Usage:
-    C:/Users/jeanv/miniforge3/python.exe aedemographics_extraction/scripts/preprocess_pdfs.py
+    C:/Users/jeanv/miniforge3/python.exe observational_studies/scripts/preprocess_pdfs.py
 
 Scans inputs/pdfs/ for *.pdf files not yet extracted, converts each to a
 .txt file in inputs/text/ via PyMuPDF, and writes/updates inputs/manifest.csv
