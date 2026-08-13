@@ -19,7 +19,7 @@ Scale is small — the whole job is roughly 0.5–1.0M input + ~0.1M output toke
 1. **Preprocess (scripted, deterministic).** Convert each source PDF to text, one `.txt` per article. Record a `text_source` value (`born-digital` / `OCR` / `manual`) per article — see §7.
 2. **Dispatch.** For each not-yet-done article, spawn one subagent with that article's text plus the pinned codebook/rubric prompt. Before extracting anything else, the subagent verifies the article is an observational study (as opposed to an RCT or other controlled experimental design) and records this in `IsObservational` — a corpus-curation sanity check, since this corpus is intended to be all-observational. A `"N"` does not stop extraction; the subagent still extracts every other field and explains its call in `rationale`, so a human reviewer has the full record to decide whether the article belongs in the dataset. The subagent returns the two-part object (§2) for that one article.
 3. **Checkpoint on return.** As each subagent completes, immediately write its `{StudyID}_request` context, `{StudyID}_response.json`, and rationale to disk, and mark the `StudyID` done in the manifest. An interrupted session **resumes from the manifest**, re-dispatching only unfinished articles. This same discipline is the audit trail.
-4. **Merge + validate (separate, deterministic step).** Once all articles are done, assemble `articles.csv` + `ae_events.csv`, split the rationale halves into `rationale_log.md`, and run the validation gate (§8). Keep this outside the subagents so it re-runs without re-extracting.
+4. **Merge + validate (separate, deterministic step).** Once all articles are done, assemble `articles.csv` + `ae_events_observational.csv`, split the rationale halves into `rationale_log.md`, and run the validation gate (§8). Keep this outside the subagents so it re-runs without re-extracting.
 
 Bump `RubricVersion` on every rubric change so archived responses stay traceable to the rubric that produced them; a rubric revision means re-running the affected articles (cheap at this scale).
 
@@ -122,7 +122,7 @@ aedemographics_extraction/
     {StudyID}_response.json
   outputs/
     articles.csv                    # -> exported to .xlsx
-    ae_events.csv
+    ae_events_observational.csv
     rationale_log.md
     validation_report.txt           # schema-gate + gate-consistency results
 ```

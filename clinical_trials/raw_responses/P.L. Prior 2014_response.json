@@ -70,9 +70,9 @@
       "AE_denominator": 10,
       "ArmScope": "psychedelic_arm",
       "WorstSeverity": "Mild",
-      "EligibleYN": "Y",
-      "EligibilityNote": "NA",
-      "EligibilityFailedCriterion": "NA"
+      "EligibleYN": "N",
+      "EligibilityNote": "Randomized double-blind trial reporting substance-use outcomes (criteria a and b met), but all 20 patients were enrolled for DSM-IV cocaine dependence and every outcome (Minnesota Cocaine Craving Scale, cocaine-positive urine screens) concerns cocaine use. No tobacco, alcohol, or opioid endpoint is reported. Fails criterion (c): out of the review scope.",
+      "EligibilityFailedCriterion": "out_of_scope_substance"
     },
     "ae_events": [
       {
@@ -98,10 +98,20 @@
       "SampleSize_NFinal": "N=20 (10 ibogaine, 10 placebo) enrolled. The Results open with 'There were no defects from either group during the 6 month evaluation period,' read here as no dropouts/attrition given its context alongside baseline-comparability reporting; no participant losses are described anywhere else, and the urine analysis is stated as using 'the total samples collected from the 24 week period.' 'Defects' is an apparent OCR/translation artifact (the authors are Brazilian); 'dropouts' is the most contextually consistent reading, but this is not fully unambiguous and is flagged per the non-fabrication rule.",
       "MethodologyDescribedYN": {
         "criteria": {
-          "objective": "Y", "design": "Y", "setting": "Y", "eligibility": "Y",
-          "intervention": "Y", "comparator": "Y", "outcomes": "Y", "sample_size_power": "N",
-          "randomization": "N", "blinding": "Y", "statistical_methods": "Y",
-          "results": "Y", "harms": "Y", "funding_coi": "Y"
+          "objective": "Y",
+          "design": "Y",
+          "setting": "Y",
+          "eligibility": "Y",
+          "intervention": "Y",
+          "comparator": "Y",
+          "outcomes": "Y",
+          "sample_size_power": "N",
+          "randomization": "N",
+          "blinding": "Y",
+          "statistical_methods": "Y",
+          "results": "Y",
+          "harms": "Y",
+          "funding_coi": "Y"
         },
         "n_met": 12,
         "note": "No a priori/post hoc power calculation or sample-size justification is given (N=20 not justified). The method of group allocation is never described as random anywhere in the article (only 'sorted' into groups; the word 'random/randomized' never appears in the study's own methods text, despite the double-blind, placebo-controlled framing). All other elements -- objective, design, setting, eligibility, intervention, comparator, outcomes, blinding, statistics, results, harms, funding -- are described. 12/14 met, below the 13-of-14 threshold, so MethodologyDescribedYN=0."

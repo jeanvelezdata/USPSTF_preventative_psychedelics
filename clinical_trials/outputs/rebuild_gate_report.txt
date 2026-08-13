@@ -3,6 +3,6 @@ Clinical-Trial Rebuild Gate — design §8 checks 11 and 13
 
 Alcohol: 32 eligible stud(ies), 0 issue(s).
 Smoking: 4 eligible stud(ies), 0 issue(s).
-Opioid: 7 eligible stud(ies), 0 issue(s).
+Opioid: 6 eligible stud(ies), 0 issue(s).
 
 GATE PASSED.

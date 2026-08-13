@@ -4,7 +4,7 @@ Clinical-Trial Extraction — Validation Report
 Articles parsed:  49
 AE events parsed: 193
 
-Config proposals: carried-forward=32  pending=17
+Config proposals: carried-forward=33  pending=16
 
 Gate coverage: design §8 checks 1-10 and 12 run here. Checks 11 and 13 run
 in gate_rebuild.py (they need the ratified config); check 14 runs in
@@ -12,7 +12,7 @@ visual_regression.py (it needs the rebuilt artifacts).
 
 VALIDATION PASSED — 0 blocking issues. Output tables written.
 
-WARNINGS — 33 (non-blocking; read before publication):
+WARNINGS — 34 (non-blocking; read before publication):
 
   - [Bowen 1970] read the plain-text fallback — OCR output; Markdown tier not applicable
   - [Bowen 1970] text_source=OCR — extraction quality is degraded; stratify on this before comparing across eras
@@ -32,6 +32,7 @@ WARNINGS — 33 (non-blocking; read before publication):
   - [MacLean 1961/MacLean 1961_AE03] pre-1980 article with SeveritySource=author — CTCAE postdates this literature. Legitimate only if the authors used their own severity language; check the rationale.
   - [MacLean 1961/MacLean 1961_AE04] pre-1980 article with SeveritySource=author — CTCAE postdates this literature. Legitimate only if the authors used their own severity language; check the rationale.
   - [O'Donnell 2022] EligibleYN=N — Protocol/rationale paper for RCT NCT02061293; primary outcomes explicitly stated as 'published elsewhere' (ref 9, Bogenschutz et al. 2022 JAMA Psychiatry). No effect sizes, p-values, or substance-use outcome data are reported in this text -- describes design only. Fails (a): describes rather than reports a trial. Fails (b): no substance-use outcome data reported.
+  - [P.L. Prior 2014] EligibleYN=N — Randomized double-blind trial reporting substance-use outcomes (criteria a and b met), but all 20 patients were enrolled for DSM-IV cocaine dependence and every outcome (Minnesota Cocaine Craving Scale, cocaine-positive urine screens) concerns cocaine use. No tobacco, alcohol, or opioid endpoint is reported. Fails criterion (c): out of the review scope.
   - [Pagni 2024] Retention (%)=78.57 is within 2 points of the 80% threshold, which flips a Table 2 and Table 3 cell
   - [Savage 1973] checklist criterion harms=N but HarmsAssessed=1 — the element cannot be present and undescribed
   - [Savage 1973] read the plain-text fallback — check2 runaway: md/txt ratio 2.21 > 1.6

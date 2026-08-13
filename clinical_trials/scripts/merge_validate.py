@@ -133,8 +133,9 @@ def sha256_file(path: Path) -> str:
 # ── Blocking checks ──────────────────────────────────────────────────────
 
 def check_columns(article: dict) -> list[str]:
-    """Check 2 — column set exactly the 54 carried + 18 added names."""
-    got, want = set(article), set(lib.ARTICLE_FIELDS)
+    """Check 2 — column set exactly the 54 carried + 19 added names, less the
+    fields write_outputs derives after the merge (never present on input)."""
+    got, want = set(article), set(lib.ARTICLE_FIELDS) - lib.DERIVED_FIELDS
     return (
         [f"missing field '{f}'" for f in sorted(want - got)]
         + [f"unexpected field '{f}'" for f in sorted(got - want)]
@@ -644,6 +645,12 @@ def write_outputs(articles: list[dict], events: list[dict], rat_article: dict,
     if applied:
         print(f'  Re-applied {len(applied)} adjudicated correction(s) from output.md.')
         pd.DataFrame(applied).to_csv(out_dir / 'adjudication_applied.csv', index=False)
+
+    # Derived after adjudication so a corrected SampleSize_NFinal flows through.
+    master['BaseStatusReportedYN'] = [
+        lib.base_status_reported(sid, n)
+        for sid, n in zip(master['StudyID'], master['SampleSize_NFinal'])
+    ]
 
     master.to_csv(out_dir / 'clinical_master.csv', index=False)
     master.to_excel(out_dir / 'clinical_master.xlsx', index=False)

@@ -157,7 +157,7 @@ aedemographics_extraction/
 │   └── {StudyID}_excluded.txt    # articles excluded from dispatch (non-primary/non-observational), with reason
 ├── outputs/
 │   ├── articles.csv              # one row per article
-│   ├── ae_events.csv             # one row per adverse event / challenging experience
+│   ├── ae_events_observational.csv  # one row per adverse event / challenging experience
 │   ├── human_review_queue.csv    # SeverityIndeterminate=Y events, for manual review
 │   ├── rationale_log.md          # per-field extraction rationale, per article
 │   └── validation_report.txt     # pass/fail + non-blocking warnings from the last merge
@@ -180,13 +180,15 @@ aedemographics_extraction/
    ```
    C:/Users/jeanv/miniforge3/python.exe aedemographics_extraction/scripts/merge_validate.py
    ```
-   Reads every `raw_responses/*_response.json`, runs the full validation gate (type/enum checks, `SafetyReported`/`AnyAEReported`/`WorstSeverity` gate-consistency rules, provenance completeness — design doc §8), and writes `outputs/validation_report.txt`. Any validation failure **blocks** the merge — no CSVs are (re)written, so a bad run can never silently overwrite a good `outputs/` directory. On a clean pass, `articles.csv`, `ae_events.csv`, `human_review_queue.csv`, and `rationale_log.md` are all (re)written.
+   Reads every `raw_responses/*_response.json`, applies the human curation decisions in `overrides.json`, runs the full validation gate (type/enum checks, `SafetyReported`/`AnyAEReported`/`WorstSeverity` gate-consistency rules, provenance completeness — design doc §8), and writes `outputs/validation_report.txt`. Any validation failure **blocks** the merge — no CSVs are (re)written, so a bad run can never silently overwrite a good `outputs/` directory. On a clean pass, `articles.csv`, `ae_events_observational.csv`, `human_review_queue.csv`, and `rationale_log.md` are all (re)written.
 
-   `--raw-dir` and `--out-dir` (default `raw_responses/` and `outputs/`) can point at alternate directories to validate a fixture or trial set without touching the real corpus.
+   `--raw-dir`, `--out-dir`, and `--overrides` (default `raw_responses/`, `outputs/`, `overrides.json`) can point at alternate paths to validate a fixture or trial set without touching the real corpus.
+
+   **Never hand-edit `outputs/`.** The raw response JSONs are the verbatim extraction record and are never edited either; every human decision that changes the published tables — study exclusions, condition assignments, single-field overrides — goes in `overrides.json`, with a reason. The report lists each one under `HUMAN OVERRIDES APPLIED`, and an override naming a StudyID with no raw response is a hard validation failure. That keeps `outputs/` reproducible from `raw_responses/` + `overrides.json` alone.
 
 ### Current status
 
-39 primary observational articles extracted and validated (of 48 source PDFs → 3 duplicates removed → 9 excluded as non-primary/review articles), yielding 130 AE/challenging-experience events, 44 of which are flagged `SeverityIndeterminate=Y` in `human_review_queue.csv` for manual review. One non-blocking design warning is currently open — `Faillace 1970`'s `IsObservational=N` classification is a borderline call (see `outputs/validation_report.txt`) worth a second look before publication.
+39 primary observational articles extracted and validated (of 48 source PDFs → 3 duplicates removed → 9 excluded as non-primary/review articles). Two human reviewers then removed 6 records whose outcomes did not match this study's measures (recorded in `overrides.json`), leaving **33 studies and 103 AE/challenging-experience events**, 37 of which are flagged `SeverityIndeterminate=Y` in `human_review_queue.csv` for manual review. `articles.csv` carries 36 rows because Anderson 2019 and Thomas 2013 each contribute to more than one condition; downstream tables de-duplicate on `StudyID`. No validation warnings are open — the `Faillace 1970` `IsObservational` borderline call was resolved to `Y` on 2026-08-13 (see `overrides.json`).
 
 ### Adding a new article
 

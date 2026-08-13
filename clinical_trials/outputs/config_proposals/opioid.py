@@ -26,9 +26,7 @@ PROPOSALS = {
         'computed_or': None,
         '_disposition': 'carried-forward',
     },
-    # Jovaisa T 2006  [pending]  eligible=Y
-    #   frozen:   {'method': 'd', 'confidence': 'approx', 'note': 'd pre-computed from group means (96.6 vs 79.4 mmHg MAP) and SDs (13.8, 10.8); equal groups assumed; direction favors treatment (lower MAP)'}
-    #   proposed: method=None, confidence='excluded'
+    # Jovaisa T 2006  [carried-forward]  eligible=Y
     ('Jovaisa T', 2006): {
         'metric': 'Objective Opiate Withdrawal Scale (OOWS-A) group difference (narrative only)',
         'measure': None,
@@ -39,7 +37,7 @@ PROPOSALS = {
         'tier2_category': 'unclassifiable',
         'tier2_basis': 'Direction and statistical significance (favors ketamine, p<0.05) are established for the primary withdrawal-severity outcome (OOWS-A), and related acute-phase measures (rescue medication doses, cortisol) corroborate the direction, but no means/SD or computable effect size are available in extractable text to judge magnitude, precluding small/moderate/large classification. The 4-month (long-term) outcomes showed no significant between-group difference.',
         'computed_or': None,
-        '_disposition': 'pending',
+        '_disposition': 'carried-forward',
     },
     # Krupitsky 2002  [carried-forward]  eligible=Y
     ('Krupitsky', 2002): {
@@ -83,7 +81,7 @@ PROPOSALS = {
         'computed_or': None,
         '_disposition': 'carried-forward',
     },
-    # P.L. Prior 2014  [carried-forward]  eligible=Y
+    # P.L. Prior 2014  [carried-forward]  eligible=N
     ('P.L. Prior', 2014): {
         'metric': 'F (repeated-measures ANOVA, urine-positivity primary outcome)',
         'measure': 2.45,

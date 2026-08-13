@@ -197,7 +197,10 @@ USPSTF/
 │   ├── clean_dataset.py           # condition-agnostic cleaner (--condition flag)
 │   ├── descriptive_analyses.py    # five descriptive tables per condition (--condition flag)
 │   ├── tier1_hedges_g.py          # Hedges' g conversion + forest plot (--condition flag)
-│   └── tier2_qualitative.py       # qualitative classification + category plot (--condition flag)
+│   ├── tier2_qualitative.py       # qualitative classification + category plot (--condition flag)
+│   ├── table3_gapmap.py           # manuscript Table 3: indicators by condition -> .docx
+│   ├── table4_ae_safety.py        # manuscript Table 4: AE/net-benefit profile -> .docx
+│   └── pooled_meta.py             # DerSimonian-Laird pooling of the Tier 1 estimates
 ├── run_pipeline.py                    # runs all conditions; skips unpopulated ones
 ├── requirements.txt                   # minimum version bounds
 ├── requirements-lock.txt              # exact versions used for published results
@@ -245,6 +248,11 @@ C:/Users/jeanv/miniforge3/python.exe scripts/descriptive_analyses.py --condition
 - Input: `data/<Condition>_Dataset_Cleaned.xlsx`
 - Outputs: `tables/<Condition>_Tier2_Qualitative.xlsx` + `figures/<Condition>_Tier2_CatPlot.png`
 - Classifies studies excluded from Tier 1 (confidence = excluded) into qualitative categories using `TIER2_RATINGS` from the per-condition config. Categories: negative, null, small_positive, moderate_positive, large_positive, single_arm_positive, unclassifiable. Computes OR from two-group proportions where applicable. Produces a categorical dot/bar plot.
+
+**Step 3 — manuscript-level outputs (run once, after all conditions)**
+- `table3_gapmap.py` → `tables/Table3_USPSTF_GapMap_bySubstance.docx`: the 37 USPSTF indicators with the three conditions side by side against a pooled "All" column, from the cleaned frames.
+- `table4_ae_safety.py` → `tables/Table4_AE_Safety_Summary.docx`: net-benefit / AE profile combining eligible clinical trials with the observational corpus. The observational N total nets out the sample Jones 2022 and Jones 2022 b share.
+- `pooled_meta.py` → `tables/Tier1_PooledMeta.txt`: DerSimonian–Laird pooling of every non-excluded Tier 1 estimate, with Q, τ², I², prediction interval, and leave-one-out range.
 
 ### Adding a new condition
 

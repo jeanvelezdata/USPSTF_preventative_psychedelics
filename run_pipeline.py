@@ -15,8 +15,13 @@ Steps executed (per available condition):
                                                     figures/<C>_Tier2_CatPlot.png
     4. descriptive_analyses.py --condition <c>   -> tables/<C>_Descriptive_Analyses.docx
 
-Then once, for alcohol:
+Then once, across conditions:
     5. methqual_bar_plot.py                      -> figures/Alcohol_MethQual_BarPlot.png
+    6. unified_forest_plot.py                    -> figures/Unified_Tier1_ForestPlot.png
+    7. unified_cat_plot.py                       -> figures/Unified_Tier2_CatPlot.png
+    8. table3_gapmap.py                          -> tables/Table3_USPSTF_GapMap_bySubstance.docx
+    9. table4_ae_safety.py                       -> tables/Table4_AE_Safety_Summary.docx
+   10. pooled_meta.py                            -> tables/Tier1_PooledMeta.txt
 
 methqual_bar_plot.py is in the sequence because its percentages are now
 computed from the cleaned frame rather than hardcoded; leaving it out is what
@@ -81,6 +86,11 @@ for condition in CONDITIONS:
         run(SCRIPTS / 'descriptive_analyses.py', '--condition', condition)
 
 run(SCRIPTS / 'methqual_bar_plot.py')
+run(SCRIPTS / 'unified_forest_plot.py')
+run(SCRIPTS / 'unified_cat_plot.py')
+run(SCRIPTS / 'table3_gapmap.py')
+run(SCRIPTS / 'table4_ae_safety.py')
+run(SCRIPTS / 'pooled_meta.py')
 
 print('\nDone. All available outputs written.', flush=True)
 print('Next gate: clinical_trials/scripts/visual_regression.py, then old_new_compare.py.',

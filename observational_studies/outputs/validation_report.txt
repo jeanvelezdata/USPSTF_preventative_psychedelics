@@ -1,11 +1,21 @@
 AE/Demographics Extraction — Validation Report
 ================================================
 
-Articles parsed:  39
-AE events parsed: 130
+Articles parsed:  33  (after overrides.json exclusions)
+AE events parsed: 103  (after overrides.json exclusions)
 
 VALIDATION PASSED — 0 issues. Output tables written.
 
-WARNINGS — 1 (non-blocking; review before publication):
+HUMAN OVERRIDES APPLIED — 11 (from overrides.json):
 
-  - [Faillace 1970] IsObservational=N — Borderline call, flagged per prompt guidance on open-label single-arm trials. The paper being extracted is framed as a naturalistic 2-year follow-up survey (mail/in-person contact, no new intervention delivered in this paper), which reads observationally. However, its own Methods section describes the underlying treatment as a structured research protocol in which 'the drugs DPT, DET and 6-FDET were administered in a random design' at fixed doses (0.7/1.0/1.3 mg/kg) with continuous physiological monitoring in a dedicated research ward -- i.e., randomization to arms and an interventional protocol run for research purposes, not usual care. Set to 'N' on the strength of that explicit randomized/interventional treatment design; a human reviewer may reasonably override to 'Y' given the follow-up-survey framing of this specific paper and the lack of any control/comparator group.
+  - EXCLUDED [Cakic 2010] — Condition='.' in extraction. 'Dimethyltryptamine (DMT): Subjective effects and patterns of use among Australian recreational users' — recreational-use survey with no alcohol, smoking, or opioid outcome. Excluded in the 2026-08-07 curation pass.
+  - EXCLUDED [Chandler 1960] — Condition='.' in extraction. 'Lysergic Acid Diethylamide (LSD-25) as a Facilitating Agent in Psychotherapy' — general psychotherapy series, not a substance-use-disorder treatment cohort. Excluded in the 2026-08-07 curation pass.
+  - EXCLUDED [Halpern 2005] — Condition='.' in extraction. 'Psychological and Cognitive Effects of Long-Term Peyote Use Among Native Americans' — cognitive-effects study of ritual use, no SUD treatment outcome. Excluded in the 2026-08-07 curation pass.
+  - EXCLUDED [Langner 1965] — Condition='.' in extraction. 'Six Years' Experience with LSD Therapy' — mixed-indication clinical series with no extractable N and no condition-specific outcome. Excluded in the 2026-08-07 curation pass.
+  - EXCLUDED [O'Shaughnessy 2021] — Condition='.' in extraction. 'Within-treatment changes in a novel addiction treatment program using traditional Amazonian medicine' — mixed-addiction program not resolvable to alcohol, smoking, or opioid. Excluded in the 2026-08-07 curation pass.
+  - EXCLUDED [Schenberg 2014] — Condition='.' in extraction. 'Treating drug dependence with the aid of ibogaine: A retrospective study' — mixed drug-dependence cohort not resolvable to the three target conditions. Excluded in the 2026-08-07 curation pass.
+  - CONDITION [Anderson 2019] — Smoking, Alcohol: Condition='.' in extraction; assigned in the 2026-08-07 curation pass. Contributes to both the smoking and alcohol rows.
+  - CONDITION [Fabregas 2010] — Alcohol: Condition='.' in extraction; assigned in the 2026-08-07 curation pass.
+  - CONDITION [Greer 1986] — Alcohol: Condition='.' in extraction; assigned in the 2026-08-07 curation pass.
+  - CONDITION [Thomas 2013] — Alcohol, Smoking, Opioid: Condition='.' in extraction; assigned in the 2026-08-07 curation pass. Contributes to all three condition rows.
+  - FIELD [Faillace 1970] IsObservational: 'N' -> 'Y' — Resolves the non-blocking IsObservational=N design warning the extraction raised (2026-08-13). The extracted paper is the naturalistic two-year follow-up survey, not the parent dosing protocol, and it carries no control or comparator group; the extractor set N on the strength of the randomized DPT/DET/6-FDET administration described in the parent protocol's Methods. Human review resolved the borderline call to Y.

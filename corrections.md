@@ -1,468 +1,390 @@
-# Manuscript corrections — new extraction pipeline
+# Manuscript corrections — removal of Prior 2014
 
 Target file: `USPSTF Manuscript and Outline_USPS.md`
-Data as of: rebuild after `output.md` adjudication was applied to `clinical_master.csv`.
-
-Every number below comes from the rebuilt artifacts in `tables/`, `figures/`, and
-`clinical_trials/outputs/`. All four gates pass: `merge_validate` (49 articles,
-193 AE events, 0 blocking), `gate_rebuild` (32/7/4 eligible, 0 issues),
-`visual_regression` (0 unexplained), and the config/master cross-check.
+Data as of: `clinical_trials/outputs/clinical_master.csv` (49 rows, **42 eligible**) and
+`observational_studies/outputs/articles.csv` (36 rows, 33 unique studies) as they stand
+on disk right now.
 
 Line numbers refer to the current file and will drift as you edit — work top-down.
 
 ---
 
-## 0. The one thing to read first
+## 0. What changed
 
-**The headline N moves 44 → 43, and it is not because the pipeline lost anything.**
+**P.L. Prior 2014** (*Ibogaine effect on cocaine craving and use in dependent patients*)
+is a cocaine-dependence trial. All 20 participants were enrolled under DSM-IV cocaine
+dependence and every outcome — Minnesota Cocaine Craving Scale, cocaine-positive urine
+screens — concerns cocaine. It reports no tobacco, alcohol, or opioid endpoint, so it
+falls outside the review's three conditions.
 
-The new corpus is 49 articles: the frozen 44 plus 5 that were newly screened.
-All 5 new ones failed the eligibility screen (2 study protocols, 2 narrative
-reviews, 1 unusable scan). Of the original 44, exactly one now fails: **Denson
-1970**, which pools alcoholics with neurotic patients and reports no
-alcohol-consumption, abstinence, craving, or validated SUD outcome anywhere.
-The independent adjudication in `output.md` reached the same conclusion and
-recommended excluding it.
+It has been marked ineligible rather than deleted, matching how the other six exclusions
+are handled: the row stays in `clinical_master.csv` with `EligibleYN = N`,
+`EligibilityFailedCriterion = out_of_scope_substance`, and a written note. The screening
+pipeline drops it from every table and figure automatically.
 
-So: `44 − Denson 1970 = 43`. Nothing else left the evidence base.
+`out_of_scope_substance` is a **new failure code**. The codebook previously defined two
+eligibility criteria; there are now three, and `clinical_codebook.md` §4.2 has been
+updated to match:
 
-> **Ludwig 1969 correction to my earlier report.** I previously flagged Ludwig
-> 1969 as a study whose PDF is unusable. That is still true — the file contains
-> unrelated book-review pages. But Ludwig was **never in the frozen 44**; its
-> `old_row_match` is `NEW`, meaning I added it to the corpus during
-> reconciliation. There is no hand-extracted row to fall back on, so it cannot
-> be restored from the frozen records as you asked. It has never contributed to
-> any manuscript number, and dropping it changes nothing. It only matters if you
-> want it *added*, which needs a usable PDF.
+> (a) the article reports a clinical trial, (b) it reports an outcome related to
+> substance use disorder, and (c) that outcome concerns tobacco, alcohol, or opioid
+> use — the three conditions under review.
 
----
+**Corpus effect:**
 
-## 1. Methods §2.1 — Extraction procedure (lines 75, 77)
+| | before | after |
+|---|---|---|
+| Articles screened (clinical) | 49 | 49 |
+| Eligible clinical trials | 43 | **42** |
+| Exclusions | 6 | **7** |
+| Opioid trials | 7 | **6** |
+| Alcohol / smoking trials | 32 / 4 | 32 / 4 (unchanged) |
+| Total trial participants | 2,118 | **2,098** (opioid 320 → 300) |
+| Tier 1 (poolable) | 16 | 16 (unchanged) |
+| Tier 2 (qualitative) | 27 | **26** |
+| Clinical AE events | 186 | **185** (one mild event) |
+| Observational corpus | 33 studies | 33 (untouched) |
 
-This section is now factually wrong about the clinical-trial pipeline. It
-describes clinical trials as extracted by **Claude Opus** via a fixed system
-prompt with human review of "selected outputs", and presents the
-subagent/Sonnet architecture as belonging only to observational studies. Both
-pipelines now use the same subagent architecture.
+**Prior was never in Tier 1** — its F(3,12) has a 3-df numerator and was already
+`confidence = excluded`. So the pooled estimate, Figure 2A, and the psychedelic row of
+Table 5 are **unchanged**. It sat in Tier 2 as `moderate_positive`, which is what
+Figure 2B loses.
 
-**Replace line 75 entirely** with:
+**Regenerated on disk** (all via `run_pipeline.py`, which now also drives the unified
+figures and the three manuscript tables):
 
-> Each included article was coded according to these indicators through a
-> structured, AI-augmented protocol with a deterministic validation gate. Each
-> article's source PDF was first converted to Markdown by a fixed preprocessing
-> script, subject to a four-check fidelity gate (text-retention ratio,
-> runaway-expansion ratio, heading recovery, and table-row recovery); files
-> failing any check were demoted to plain text, and optical character
-> recognition was applied at 300 dpi where a scan yielded no usable text. Data
-> extraction followed a one-article-per-model-call design: each article was
-> assigned to an isolated Claude Sonnet 5 subagent that saw only that article,
-> preventing cross-article contamination — in particular, preventing the
-> methodological or demographic profile of one study from anchoring the coding
-> of another. Because the review's primary comparison is between pre-1980 and
-> post-2010 eras, this isolation is load-bearing rather than incidental. Each
-> subagent returned a single JSON object containing both the coded values and a
-> mandatory free-text rationale for every non-obvious decision. Extraction was
-> performed under a pinned prompt version (v1.2) and a pinned severity rubric
-> (v1), both recorded per article so that any value can be traced to the exact
-> instructions that produced it.
+- `figures/Unified_Tier1_ForestPlot.png` — content identical, file rewritten
+- `figures/Unified_Tier2_CatPlot.png` — Prior 2014 row gone from the Opioid/Ibogaine block
+- `tables/Table3_USPSTF_GapMap_bySubstance.docx` — new script `scripts/table3_gapmap.py`
+- `tables/Table4_AE_Safety_Summary.docx` — new script `scripts/table4_ae_safety.py`
+- `tables/Tier1_PooledMeta.txt` — new script `scripts/pooled_meta.py`
+- all per-condition `.docx` / `.xlsx` / `.png` outputs
 
-**Then insert a new paragraph after line 75**, describing the eligibility screen
-and the human adjudication — neither of which the manuscript currently mentions:
-
-> Each article was first screened against two eligibility criteria: (a) that it
-> reported an original clinical trial rather than a protocol, review, or
-> commentary, and (b) that it reported at least one substance-use outcome.
-> Articles failing either criterion were retained in the dataset with an
-> explicit failure code and reason, but excluded from all analyses. Of 49
-> articles screened, 43 were eligible; the 6 exclusions comprised two study
-> protocols, two narrative reviews, one pooled re-analysis without an original
-> trial, and one article whose only available scan did not contain the target
-> text. Following extraction, every field on which the automated extraction
-> disagreed with the prior hand extraction was independently re-adjudicated
-> against the source text by trained reviewers, who recorded a decision and a
-> written justification for each. Of 281 adjudicated fields, the automated value
-> was upheld in 144 (51%), the hand-extracted value in 74 (26%), 34 (12%) were
-> judged equivalent notations of the same fact, and 29 (10%) were judged
-> unresolvable from the source text. All 74 fields decided in favour of the hand
-> extraction were written back into the analytic dataset.
-
-**Line 77** — delete the clause that makes Sonnet the observational-only model.
-Change *"processed using Claude Sonnet 5 rather than the Opus API used for the
-clinical-trial dataset"* to *"processed using Claude Sonnet 5, the same model and
-isolation design used for the clinical-trial dataset"*.
+> **Three pre-existing errors surfaced while verifying the new scripts against the
+> published tables.** They are unrelated to Prior and are flagged inline below as
+> ⚠ **PRE-EXISTING**. Each new script was validated by re-inserting Prior and checking it
+> reproduces the published cells: Table 3 matched 35 of 37 rows, Table 4 matched every
+> cell but one rounding case, Table 2's substance grid and the entire pooled
+> meta-analysis matched exactly.
 
 ---
 
-## 2. Methods §3.1 — Tier assignment (line 91)
+## 1. Methods §2.2 — eligibility screen (line 85)
 
-Three numbers change.
+Two criteria become three, and the exclusion tally changes.
 
-| Current text | Replace with |
-|---|---|
-| "Each of the 44 included studies, comprising 33 alcohol studies, 4 smoking studies, and 7 opioid studies" | "Each of the 43 eligible studies, comprising 32 alcohol studies, 4 smoking studies, and 7 opioid studies" |
-| "These 16 studies were placed on a common numeric scale" | "These 16 studies were placed on a common numeric scale" — *count is unchanged, but membership changed; see §7* |
-| "Rather than excluding these 28 studies" | "Rather than excluding these 27 studies" |
+**Replace** the opening and the exclusion list:
 
----
+> Each article was first screened against three eligibility criteria: (a) that it
+> reported an original clinical trial rather than a protocol, review, or commentary,
+> (b) that it reported at least one substance-use outcome, and (c) that the outcome
+> concerned tobacco, alcohol, or opioid use, the three conditions under review.
+> Articles failing any criterion were retained in the dataset with an explicit failure
+> code and reason, but excluded from all analyses. Of 49 articles screened in the
+> clinical trial data, 42 were eligible; the 7 exclusions comprised two study protocols
+> (O'Donnell 2022; Vanderijst 2024), two narrative reviews or methodological critiques
+> of prior trials (Costello 1969; Smart 1964), one article reporting no substance-use
+> outcome (Denson 1970), one article whose only available scan did not contain the
+> target text (Ludwig 1969), and one double-blind trial conducted entirely in
+> cocaine-dependent patients, outside the review's three conditions (Prior 2014).
 
-## 3. Results opening (line 109)
-
-**Current:** "identified 82 relevant peer-reviewed studies of psychedelics: 44
-clinical trials (33 alcohol, 7 opioid, 4 smoking)"
-
-**Replace with:** "identified 87 relevant peer-reviewed studies of psychedelics:
-49 clinical trial articles screened for eligibility, of which 43 were eligible
-(32 alcohol, 7 opioid, 4 smoking), and 38 observational studies."
-
-**Substance sentences in the same paragraph** — every figure changes, and one
-claim reverses:
-
-| Current | Replace with |
-|---|---|
-| "For smoking, 100% of trials used psilocybin." | unchanged — still 100% |
-| "For alcohol trials, 39% used LSD, 24% psilocybin, another 24% used ketamine, and 12% used MDMA." | "For alcohol trials, 38% used LSD, 25% psilocybin, 25% ketamine, and 12% MDMA." |
-| "For opioid trials, 57% used ibogaine, 29% used ketamine, and 14% used LSD." | "For opioid trials, 43% used ibogaine, 43% ketamine, and 14% LSD." |
-| **"While multiple observational studies did so, no trials included ayahuasca, mescaline, or a combination of psychedelics."** | **"While multiple observational studies did so, no trial included ayahuasca. One alcohol trial (Smith 1958) administered both LSD and mescaline, and is the sole trial in the sample using mescaline or more than one psychedelic."** |
-
-> The mescaline reversal comes from an adjudicated correction: Smith 1958
-> explicitly reports dosing patients with "Mescaline, 0.5 g" alongside LSD, with
-> at least one patient receiving both. The frozen dataset coded both flags 0.
-> The opioid ibogaine/ketamine shift comes from Jovaisa 2006, which the frozen
-> dataset coded as an ibogaine study; the paper is entirely about intravenous
-> ketamine and never mentions ibogaine.
+**Optional, same line.** The adjudication tally ("Of 281 adjudicated fields…") includes
+8 fields belonging to Prior 2014. If you want that QC statistic restricted to eligible
+articles, it becomes: *Of 273 adjudicated fields, the automated value was upheld in 140
+(51%), the prior value in 74 (27%), 32 (12%) were judged equivalent notations of the
+same fact, and 27 (10%) were judged unresolvable.* None of Prior's 8 fields was decided
+in favour of the hand extraction, so nothing was written back and no downstream value
+depends on this choice.
 
 ---
 
-## 4. Table 2 (lines 113–123) — replace the body
+## 2. Methods §3.1 — tier assignment (lines 95, 101)
 
-Denominators change: n = 43 trials (32 alcohol, 7 opioid, 4 smoking).
-Update the header row `n = 44 / 33 / 7 / 4` accordingly.
+**Line 95**, first sentence:
 
-| Substance | % of Trials (n=43) | Alcohol (n=32) | Opioids (n=7) | Smoking (n=4) |
-| ----- | :---: | :---: | :---: | :---: |
-| Psilocybin | 28% | 25% | 0% | 100% |
-| Ayahuasca | 0% | 0% | 0% | 0% |
-| LSD | 30% | 38% | 14% | 0% |
-| Mescaline/peyote | 2% | 3% | 0% | 0% |
-| Ibogaine | 7% | 0% | 43% | 0% |
-| MDMA | 9% | 12% | 0% | 0% |
-| Ketamine | 26% | 25% | 43% | 0% |
-| > 1 psychedelic | 2% | 3% | 0% | 0% |
+> Each of the 42 included studies, comprising 32 alcohol studies, 4 smoking studies, and
+> 6 opioid studies, was assigned to either Tier 1 or Tier 2.
+
+Same line, later: "Rather than excluding these 27 studies" → **26 studies**.
+
+**Line 101**, first sentence: "Of the 43 clinical trials" → **Of the 42 clinical trials**.
+The count of 16 poolable trials is unchanged.
 
 ---
 
-## 5. Table 3 (lines 141–183) — replace the body
+## 3. Results §1 — opening paragraph (line 115)
 
-n = 43 (32 alcohol, 7 opioid, 4 smoking). Update the column headers.
+- "identified 76 peer-reviewed articles" → **75**
+- "43 eligible clinical-trial articles (32 alcohol, 7 opioid, 4 smoking)" →
+  **42 eligible clinical-trial articles (32 alcohol, 6 opioid, 4 smoking)**
+- "For opioid trials, 43% used ibogaine, 43% used ketamine, and 14% used LSD." →
+  **"For opioid trials, 50% used ketamine, 33% used ibogaine, and 17% used LSD."**
 
-| Domain | Indicator | All (n=43) | Alcohol (n=32) | Opioids (n=7) | Smoking (n=4) |
-| ----- | ----- | :---: | :---: | :---: | :---: |
-| **Study Identification & Design** | Were subjects randomized? | 58% | 59% | 71% | 25% |
-|  | Were participants blinded? | 51% | 53% | 71% | 0% |
-|  | Was the study double-blinded? | 37% | 38% | 57% | 0% |
-|  | Did the study include a control or comparison group? | 65% | 66% | 86% | 25% |
-|  | Interfaces with primary care | 5% | 3% | 14% | 0% |
-|  | Power reported or discussed | 23% | 28% | 14% | 0% |
-|  | Percent retention ≥ 80% | 74% | 75% | 57% | 100% |
-|  | Validated scale or measure used | 77% | 72% | 86% | 100% |
-|  | Assessed Confounding, Moderating or Mediating | 84% | 84% | 71% | 100% |
-|  | Were inclusion/exclusion criteria clearly stated? | 84% | 81% | 100% | 75% |
-|  | Were funding sources and COIs disclosed? | 86% | 84% | 86% | 100% |
-| **Population & Generalizability** | Was baseline status reported? | 70% | 69% | 57% | 100% |
-|  | Age range reported | 88% | 88% | 86% | 100% |
-|  | Average Percent of Participants = Female | 28% | 31% | 13% | 35% |
+The observational sentence (33 studies; 19 alcohol, 12 opioid, 5 tobacco; Anderson 2019
+and Thomas 2013 multi-condition) is unchanged, as is the smoking, alcohol, ayahuasca,
+and Smith 1958 material.
+
+---
+
+## 4. Table 2 — Clinical trials by behavior and substance (lines 119–129)
+
+Only the clinical-trial columns move; every observational column is unchanged.
+
+Header row 121: **n = 43 → n = 42** (all trials) and **n = 7 → n = 6** (opioid trials).
+
+| Substance | % of Studies (trials) | % Opioid trials |
+|---|---|---|
+| Psilocybin | 28% → **29%** | 0% (unchanged) |
+| Ayahuasca | 0% (unchanged) | 0% (unchanged) |
+| LSD | 30% → **31%** | 14% → **17%** |
+| Mescaline/peyote | 2% (unchanged) | 0% (unchanged) |
+| Ibogaine | 7% → **5%** | 43% → **33%** |
+| MDMA | 9% → **10%** | 0% (unchanged) |
+| Ketamine | 26% (unchanged) | 43% → **50%** |
+| > 1 psychedelic | 2% (unchanged) | 0% (unchanged) |
+
+Alcohol and smoking trial columns are unchanged throughout.
+
+---
+
+## 5. Results §1 — narrative paragraphs (lines 131–143)
+
+**Line 131.** "focused its methodological assessment on the 44 clinical trial
+publications" → **42**. ⚠ **PRE-EXISTING**: 44 was already wrong; the figure has never
+been 44 under any version of the corpus.
+
+**Line 133.**
+
+- "58% of trials involved randomization" → **60%**
+- "higher in opioid (71%) and alcohol (59%)" → **opioid (83%)**; alcohol 59% and
+  tobacco 25% unchanged
+- "Participant blinding was reported in 51% of trials" → **50%**
+- "whereas 71% of opioid trials utilized blinding" → **67%**
+- "double-blinding was used in 57% of opioid trials" → **50%**
+
+**Line 135.**
+
+- "While 77% of all trials used validated outcome measurement scales" → **76%**
+- "compared to 72% for alcohol and 86% for opioids" → alcohol 72% unchanged,
+  opioids → **83%**; tobacco 100% unchanged
+- "Only 23% of the total sample reported the results of power calculations" → **24%**
+- **"only two (5%) of all trials included any interface with primary care settings
+  (Grabski, 2022; Prior, 2014)"** → **"only one (2%) of all trials included any
+  interface with primary care settings (Grabski, 2022)"**. Prior was the only opioid
+  trial coded `PrimaryCare = 1`; the opioid cell drops to 0%.
+
+**Line 137.**
+
+- "Baseline severity was reported in 70% of trials overall … 57% of opioid and 69% of
+  alcohol trials" → **98% overall; 97% alcohol; 100% opioid; 100% tobacco**.
+  ⚠ **PRE-EXISTING**: this prose contradicts the manuscript's own Table 3, which already
+  printed 98%/97%/97%/100%. The prose was carrying values from an earlier build, before
+  `BaseStatusReportedYN` was derived; and Table 3's opioid cell read "97%", which is not
+  attainable with a denominator of 7. Both are now 100% for opioid.
+- "Female representation averaged 28% overall (alcohol 31%; opioids 13%; tobacco 35%)"
+  → **29% overall; opioids 15%**; alcohol 31% and tobacco 35% unchanged
+- BIPOC sentence unchanged (opioid 51%; alcohol 20%; tobacco 8%)
+- "Only 5% of trials recruited a participant pool reflective of real-world community or
+  primary care populations" → **2%**; "and no opioid or tobacco trial did so" remains
+  true
+- "Inclusion of low-SES participants was limited (19% overall)" — unchanged
+- "Fewer than half of trials (47%) were conducted in the United States" → **48%**
+- "only one of seven opioid trials (14%) was" → **one of six opioid trials (17%)**
+
+**Line 139.** "therapeutic support in 100% of tobacco, 88% alcohol and 43% of opioid
+studies" → opioid **50%**. The 100%-intervention-description and adverse-event sentences
+are unchanged (86% overall; 100% tobacco; 100% opioid; 81% alcohol).
+
+**Line 141.** Unchanged. Savage 1973 is still the single culturally-framed trial and
+still rounds to 2% of the sample.
+
+**Line 143.**
+
+- "Complete cessation was reported in 72% of studies" → **71%**; "including 100% of
+  tobacco studies" unchanged
+- "Relapse was tracked in 86% of opioid trials" → **83%**; tobacco 75% and alcohol 56%
+  unchanged
+- "100% of tobacco and opioid studies measured physical/biological outcomes, compared to
+  56% of alcohol studies" → alcohol **53%**. ⚠ **PRE-EXISTING**: Table 3 already printed
+  53% for this cell; only the prose said 56%.
+- "Measurement of implementation outcomes (28%)" → **29%**; quality of life 14% and
+  mortality 12% unchanged
+
+---
+
+## 6. Table 3 — Methodological evaluation (lines 147–185)
+
+Regenerated in full at `tables/Table3_USPSTF_GapMap_bySubstance.docx`. Replace the
+manuscript table with the following. Header: **All (n=42) | Alcohol (n=32) |
+Opioids (n=6) | Smoking (n=4)**.
+
+| Domain | Indicator | All (n=42) | Alcohol (n=32) | Opioids (n=6) | Smoking (n=4) |
+| :---- | :---- | ----- | ----- | ----- | ----- |
+| **Study Identification & Design** | Were subjects randomized? | 60% | 59% | 83% | 25% |
+|  | Were participants blinded? | 50% | 53% | 67% | 0% |
+|  | Was the study double-blinded? | 36% | 38% | 50% | 0% |
+|  | Did the study include a control or comparison group?\* | 64% | 66% | 83% | 25% |
+|  | Interfaces with primary care | 2% | 3% | 0% | 0% |
+|  | Power reported or discussed | 24% | 28% | 17% | 0% |
+|  | Percent retention ≥ 80% | 74% | 75% | 50% | 100% |
+|  | Validated scale or measure used | 76% | 72% | 83% | 100% |
+|  | Assessed Confounding, Moderating or Mediating | 83% | 84% | 67% | 100% |
+|  | Were inclusion/exclusion criteria clearly stated? | 83% | 81% | 100% | 75% |
+|  | Were funding sources and COIs disclosed? | 86% | 84% | 83% | 100% |
+| **Population & Generalizability** | Was baseline status reported? | 98% | 97% | 100% | 100% |
+|  | Age range reported | 90% | 88% | 100% | 100% |
+|  | Average Percent of Participants = Female | 29% | 31% | 15% | 35% |
 |  | Average Percent of Participants = BIPOC | 21% | 20% | 51% | 8% |
-|  | Are low SES participants included? | 19% | 19% | 14% | 25% |
-|  | Country of study is the US | 47% | 47% | 14% | 100% |
-|  | Recruitment reflective of community/clinical populations | 14% | 19% | 0% | 0% |
+|  | Are low SES participants included? | 19% | 19% | 17% | 25% |
+|  | Country of study is the US | 48% | 47% | 17% | 100% |
+|  | Recruitment reflective of community/clinical populations\*\* | 2% | 3% | 0% | 0% |
 | **Intervention & Safety** | Description of intervention content / delivery? | 100% | 100% | 100% | 100% |
-|  | Was therapy / counseling / integration / prep included? | 81% | 88% | 43% | 100% |
+|  | Was therapy / counseling / integration / prep included? | 83% | 88% | 50% | 100% |
 |  | Were harms or AEs assessed? | 86% | 81% | 100% | 100% |
-| **Equity\*** | Was a cultural frame used | 2% | 0% | 14% | 0% |
+| **Equity\*\*\*** | Was a cultural frame used | 2% | 0% | 17% | 0% |
 |  | Were Indigenous frameworks referenced? | 0% | 0% | 0% | 0% |
 |  | Did the study address reciprocity for Indigenous groups? | 0% | 0% | 0% | 0% |
-| **Outcomes & Follow-Up** | Was psychedelic intervention associated with improvement of behavior? | 81% | 78% | 86% | 100% |
+| **Outcomes & Follow-Up** | Was psychedelic intervention associated with improvement of behavior? | 81% | 78% | 83% | 100% |
 |  | Largest or Main Effect Size/Outcome reported | 100% | 100% | 100% | 100% |
-|  | P-value reported | 72% | 75% | 86% | 25% |
-|  | Median longest follow-up in months | 6 | 6 | 6 | 6 |
+|  | P-value reported | 71% | 75% | 83% | 25% |
+|  | Median longest follow-up in months | 6 | 6 | 8 | 6 |
 |  | Were behavioral changes measured? | 100% | 100% | 100% | 100% |
-|  | Were physical/biological outcomes measured? | 65% | 53% | 100% | 100% |
-|  | Were mental health outcomes measured? | 56% | 56% | 57% | 50% |
+|  | Were physical/biological outcomes measured? | 64% | 53% | 100% | 100% |
+|  | Were mental health outcomes measured? | 57% | 56% | 67% | 50% |
 |  | Was quality of life measured? | 14% | 19% | 0% | 0% |
-|  | Were implementation outcomes measured? | 28% | 38% | 0% | 0% |
-|  | Was a partial behavioral reduction reported? | 77% | 84% | 29% | 100% |
-|  | Was a complete cessation reported? | 72% | 69% | 71% | 100% |
-|  | Was relapse tracked? | 63% | 56% | 86% | 75% |
-|  | Was mortality measured? | 12% | 6% | 43% | 0% |
+|  | Were implementation outcomes measured? | 29% | 38% | 0% | 0% |
+|  | Was a partial behavioral reduction reported? | 76% | 84% | 17% | 100% |
+|  | Was a complete cessation reported? | 71% | 69% | 67% | 100% |
+|  | Was relapse tracked? | 62% | 56% | 83% | 75% |
+|  | Was mortality measured? | 12% | 6% | 50% | 0% |
 
-### Five rows that change the argument, not just the digits
+⚠ **PRE-EXISTING — decision needed on the "Recruitment reflective" row.** Footnote \*\*
+defines this indicator as a composite filter (≤65% male, ≥40% BIPOC, low-SES
+participants included). Computed that way it is **2% / 3% / 0% / 0%**, which is what the
+table above and the regenerated `.docx` print. The published row read 5% / 3% / 14% / 0%
+— identical, cell for cell, to the "Interfaces with primary care" row above it, which
+suggests the primary-care values were copied down by mistake. Only one trial
+(Bogenschutz 2022) satisfies the composite; the `RecruitmentRepresentYN` column, if you
+meant that instead, gives 14% / 19% / 0% / 0%. Tell me which definition you want and I
+will re-run; the script takes a one-line change.
 
-1. **"Country of study is the US" 98% → 47%.** The old row was mislabelled: it
-   reported whether *a country was recorded*, not whether that country was the
-   US. Corrected to the stated metric, fewer than half the trials are US-based
-   (opioid trials: 14%). This **strengthens** the external-validity gap you argue
-   in the Discussion — USPSTF's remit is US primary care.
-2. **"Were physical/biological outcomes measured?" 34% → 65%.** Driven by
-   adjudicated corrections crediting vital-sign monitoring, ECG, bloods, and
-   biomarker assays that the frozen extraction coded as absent. Alcohol 30% → 53%,
-   opioid 29% → 100%, smoking 75% → 100%.
-3. **"Was baseline status reported?" 89% → 70%, and smoking 0% → 100%.** The
-   frozen data carried severity labels for studies whose text states none;
-   the adjudication removed those and added the FTCD-based severity the smoking
-   trials do report. This is a genuine reversal of the claim at line 131 that
-   "tobacco studies lacked this characterization (0%)".
-4. **"Was a cultural frame used" 0% → 2%.** No longer a clean zero. Savage 1973
-   frames its treatment paradigm explicitly around mystical/transcendental
-   experience. The Indigenous-framework and reciprocity rows remain 0%.
-5. **"Power reported or discussed" 18% → 23%.** This one is *upward* only because
-   the analytic denominator shrank; the adjudication actually removed six
-   spurious Power=1 codings. See §9.
+Footnote \*\* should also read "≤65% male" rather than "65% male" whichever way you go.
 
 ---
 
-## 6. Results prose (lines 127–137) — figure-by-figure
+## 7. Results §2 — Net benefits (lines 195, 201)
 
-Replace each figure in place; the surrounding argument survives unchanged unless noted.
+**Line 195.**
 
-**Line 127:** "61% of trials involved randomization" → **58%**; "higher in opioid
-(71%) and alcohol (64%)" → "opioid (71%) and alcohol (59%)"; "tobacco trials
-(25%)" unchanged. "Participant blinding was reported in 50%" → **51%**;
-"71% of opioid trials utilized blinding" unchanged; "double-blinding was used in
-57% of opioid trials" unchanged.
+- "Among the 43 trials totalling 2,118 participants" → **42 trials totalling 2,098
+  participants**
+- "(tobacco: 100%; opioids: 86%; alcohol: 78%)" → **opioids 83%**; 81% overall,
+  tobacco 100%, and alcohol 78% unchanged
+- Observational sentence (979,474; 58,078 excluding Jones; 85%, 28/33) — unchanged
+- "Twenty eight percent (12) of clinical trials recorded at least one moderate/severe
+  adverse event." → **"Forty percent (17 of 42) of clinical trials recorded at least one
+  moderate/severe adverse event."** ⚠ **PRE-EXISTING**: 12 / 28% matches neither the old
+  nor the new data; the manuscript's own Table 4 said 18/37 for the same quantity
+  restricted to trials that assessed AEs. The two are now 17 of 42 (all trials) and
+  17/36 (trials assessing AEs).
+- "Across the 43 trials, 186 discrete adverse events were recorded, of which 78% (145)
+  were mild and 13% (24) severe." → **"Across the 42 trials, 185 discrete adverse events
+  were recorded, of which 78% (144) were mild and 13% (24) severe."**
+- The trailing clause beginning "Regarding **t**he 33 observational studies … of which
+  78% (145) were mild and 13% (24) severe." is garbled and duplicates the clinical-trial
+  figures inside an observational sentence. The observational counts are 75 mild / 14
+  moderate / 11 severe of 100 events.
 
-**Line 129:** "77% of all trials used validated outcome measurement scales" →
-unchanged; "compared to 73% for alcohol and 86% for opioids" → "**72%** for
-alcohol and 86% for opioids". "Only 18% of the total sample reported the results
-of power calculations" → **23%**. "only two (5%) of all trials included any
-interface with primary care (Grabski, 2022; Prior, 2014)" → unchanged.
-
-**Line 131 — needs rewriting, not just renumbering.** Current text says baseline
-severity was reported in 89% but "tobacco studies lacked this characterization
-(0%)". Both halves are now wrong. Suggested replacement:
-
-> ***Population & Generalizability*** indicators were a primary deficiency.
-> Baseline severity was reported in 70% of trials overall, and in all four
-> tobacco trials, but in only 57% of opioid and 69% of alcohol trials. Female
-> representation averaged 28% overall (alcohol 31%; opioids 13%; tobacco 35%),
-> while BIPOC representation was highest in opioid trials (51%) compared to
-> alcohol (20%) and tobacco (8%). Only 14% of trials recruited a participant
-> pool reflective of real-world community or primary care populations, and no
-> opioid or tobacco trial did so. Inclusion of low-SES participants was limited
-> (19% overall). Fewer than half of trials (47%) were conducted in the United
-> States, and only one of seven opioid trials (14%) was, further limiting
-> applicability to US primary care.
-
-**Line 133:** "which involved therapeutic support in 100% of tobacco and alcohol
-and 43% of opioid studies" → "100% of tobacco, **88%** of alcohol, and 43% of
-opioid studies". "Overall, 80% of trials provided a summary of adverse events
-(100% tobacco; 86% of opioid; 76% of alcohol)" → "**86%** of trials … (100%
-tobacco; **100%** opioid; **81%** alcohol)".
-
-**Line 135 — the absolute claim no longer holds.** Current: "measurement of
-equity and cultural framing … was absent, with 0% of studies including cultural
-context, Indigenous frameworks, or reciprocity". Replace with:
-
-> ***Equity & Cultural Framing*** indicators were near-absent. No study
-> referenced Indigenous frameworks or addressed reciprocity for Indigenous
-> communities (0% for both). A single trial (Savage 1973, 2% of the sample)
-> employed an explicit cultural or spiritual frame. The sentence also has an
-> unterminated word — "marginalized grou" — that needs completing.
-
-**Line 137:** "Complete cessation was reported in 70%" → **72%**. "Relapse was
-tracked in 86% of opioid trials and 50% in tobacco, but only 33% of alcohol" →
-"86% of opioid trials and **75%** in tobacco, but only **56%** of alcohol". "75%
-of tobacco studies measured physical/biological outcomes, for opioid (29%) and
-alcohol (30%)" → "**100%** of tobacco and **100%** of opioid studies measured
-physical/biological outcomes, compared with **53%** of alcohol studies" — note
-this **inverts** the direction of the original sentence. "implementation outcomes
-(23%), quality of life (16%) and mortality (5%)" → "**28%**, **14%** and **12%**".
+**Line 201** repeats line 195 in a partly duplicated paragraph and needs the same
+treatment: "compared to 2,118 in the 43 clinical trials" → **2,098 in the 42 clinical
+trials**; "of 186 and 100 total adverse events reported, respectively" → **185 and 100**.
+The severity percentages (13% of trial events, 11% of observational events) are unchanged
+— 24/185 still rounds to 13%.
 
 ---
 
-## 7. Figures 2A / 2B and Tier membership (lines 206–214)
+## 8. Table 4 — Net benefit profile (lines 207–217)
 
-Tier 1 remains **k = 16**, but two members changed, and the figures are already
-regenerated in `figures/`.
+Regenerated at `tables/Table4_AE_Safety_Summary.docx`. Only the clinical block moves.
 
-- **Added:** none.
-- **Removed: Jovaisa 2006.** Its only convertible statistic (d = 1.39) came from
-  peak mean arterial pressure — a cardiovascular safety parameter, not a
-  substance-use outcome. The adjudication designates OOWS-A withdrawal severity
-  as its primary outcome, and that is reported only as "p<0.05" with no test
-  statistic. Now classified Tier 2, `moderate_positive`.
-- **Sign corrected: Rothberg 2021, g = −0.59 → +0.59.** See §9; this was a
-  double-negation bug that plotted a beneficial result as harmful.
-- **Effect corrected: Das 2019, g = 1.05 → 0.80.** The conversion had been keyed
-  to ηp² = 0.219 from a secondary cue-reactivity measure; the adjudicated primary
-  drinking outcome is ηp² = 0.14.
+| Study Type (N) | N total | Positive SU outcome | Assessing AEs | ≥1 mod/severe AE | Mild | Mod. | Severe |
+| :---- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Clinical Trial (42)** | **2,098** | **81%** | **36 (86%)** | **17/36 (47%)** | **144** | **17** | **24** |
+|     Tobacco (4) | 127 | 100% | 4 (100%) | 2/4 (50%) | 23 | 2 | 0 |
+|     Opioids (6) | 300 | 83% | 6 (100%) | 3/6 (50%) | 5 | 3 | 6 |
+|     Alcohol (32) | 1,671 | 78% | 26 (81%) | 12/26 (46%) | 116 | 12 | 18 |
+| **Observational (33)** | **979,474** | **85%** | **22 (67%)** | **10/22 (45%)** | **75** | **14** | **11** |
+|     Tobacco (5) | 215,165 | 80% | 4 (80%) | 1/4 (25%) | 17 | 1 | 0 |
+|     Opioids (12) | 966,437 | 83% | 8 (67%) | 5/8 (63%) | 18 | 1 | 10 |
+|     Alcohol (19) | 12,679 | 84% | 13 (68%) | 4/13 (31%) | 54 | 12 | 1 |
 
-**Figure 2A caption (line 206)** says "among double-blinded clinical trials".
-That is inaccurate and always was — Tier 1 membership is determined by whether a
-convertible statistic was reported, not by blinding (8 of the 16 are not
-double-blind). Suggested caption:
+⚠ **PRE-EXISTING** in the clinical rows: the published alcohol cell read 13/26 (50%) and
+the total 18/37 (49%). Counted from `ae_events.csv` — by event severity or by the
+article-level `WorstSeverity` field, which agree exactly — alcohol has 12 such studies,
+not 13. The published totals were one study high before Prior was touched.
 
-> **Figure 2A.** Standardized effect sizes (Hedges' g) for psychedelic
-> interventions targeting smoking, alcohol, and opioid use, among the 16 trials
-> reporting a statistic convertible to a between-groups standardized effect size.
-> Filled squares denote clean conversions; hollow squares denote approximate
-> conversions. Where a trial reported only a total sample size, equal group sizes
-> were assumed for variance estimation.
-
-**Figure 2B caption (line 210)** says "among single-arm and open label clinical
-trials". Also inaccurate: Tier 2 holds 27 trials excluded from Tier 1 for any
-reason, including two-arm trials that reported no convertible statistic (Jovaisa
-2006, Krupitsky 2002, P.L. Prior 2014). Suggested:
-
-> **Figure 2B.** Qualitative classification of effect direction and approximate
-> magnitude for the 27 trials whose reported results could not be converted to a
-> common standardized scale, whether because no comparator arm existed, no test
-> statistic was reported, or the reported statistic was not reducible to a
-> one-degree-of-freedom between-groups comparison.
-
-Tier 2 distribution, if you want it in text: single-arm positive 13, moderate
-positive 6, large positive 3, negative 1, remainder unclassifiable.
+Every observational row reproduces its published value exactly.
 
 ---
 
-## 8. Table 4 (lines 193–202) and the Net-benefits paragraph (line 189)
+## 9. Benchmarking §3 and Table 5 (lines 239, 253) — **no change**
 
-The clinical-trial rows are currently empty and the paragraph carries an `XX%`
-placeholder. The new AE dataset fills both. Note the two editorial queries in
-the current header ("Should this say serious?") — the answer is **no**: the
-pipeline records CTCAE-graded severity, and "Severe" is not synonymous with FDA
-"serious". Retitle those columns to say severity, and add a separate serious-AE
-column only if you want to report the FDA cross-walk, which is available in
-`ae_events.csv` as `MeetsFDASerious`.
+Prior contributed no poolable estimate, so nothing here moves. Re-derived from scratch by
+`scripts/pooled_meta.py` and confirmed against the published text: 16 trials, N = 973,
+g = 0.46 (95% CI 0.22–0.70), z = 3.78, p = 1.6 × 10⁻⁴, OR 2.30 (1.49–3.55), Q = 46.1 on
+15 df (p = 5.2 × 10⁻⁵), τ² = 0.146, I² = 67%, prediction interval −0.33 to 1.25,
+leave-one-out 0.42 (omitting Johnson MW 2026) to 0.53 (omitting Hollister 1969).
 
-**Replacement Table 4:**
-
-| Study Type (N) | N | Studies with positive result in primary outcome | Studies assessing AEs | Studies reporting ≥1 AE | AE events by worst severity |
-| ----- | ----- | ----- | ----- | ----- | ----- |
-| Clinical Trial (43) | 2,118 | 81% | 37 (86%) | 31 (72%) | Mild 145 · Moderate 17 · Severe 24 |
-| Tobacco (4) | 127 | 100% | 4 (100%) | 4 (100%) | Mild 23 · Moderate 2 · Severe 0 |
-| Opioids (7) | 320 | 86% | 7 (100%) | 6 (86%) | Mild 6 · Moderate 3 · Severe 6 |
-| Alcohol (32) | 1,671 | 78% | 26 (81%) | 21 (66%) | Mild 116 · Moderate 12 · Severe 18 |
-| Observational (38) | 979,865 | — | 10 | — | *(unchanged — from the observational pipeline)* |
-| Tobacco (3) | | | 2 | 2 | Mild 43 · Moderate 3 |
-| Opioids (11) | | | 7 | 6 | Severe 24 |
-| Alcohol (14) | | | 9 | 9 | Mild 3 · Moderate 18 |
-
-**Line 189 replacements:**
-
-| Current | Replace with |
-|---|---|
-| "The majority of trials (77%) reported improvement in problematic substance use (tobacco: 100%; opioids: 86%; alcohol: 73%)." | "The majority of trials (**81%**) reported improvement in problematic substance use (tobacco: 100%; opioids: 86%; alcohol: **78%**)." |
-| "only XX% of clinical trial studies had participants who experienced serious adverse events" | "**28% (12 of 43) of clinical trials reported at least one severe adverse event, and 186 discrete adverse events were recorded across the 43 trials, of which 78% (145) were mild and 13% (24) severe**" |
-| "compared to 2,338 in the 44 clinical trials" | "compared to **2,118 in the 43 clinical trials**" |
-
-**Caveat to add as a Table 4 footnote:** 89 of the 186 AE events could not be
-assigned a severity grade unambiguously from the source text and were resolved
-conservatively under the pinned rubric; each carries a recorded rationale and is
-listed in `human_review_queue.csv`.
+One note on the prediction interval: −0.33 to 1.25 uses the normal quantile. The
+Higgins–Thompson–Spiegelhalter convention uses t at k−2 df, which widens it to −0.40 to
+1.32. The script prints the published (normal) version; switching is a one-line change if
+you want the more conservative interval.
 
 ---
 
-## 9. Table 5 (line 236) — the psychedelic benchmark row
+## 10. Discussion (lines 263, 265, 271)
 
-**Current row:** `16 | 1,125 | 2.49 (1.57–3.93) | 0.50 (0.25–0.75)`
+**Line 263.** "severe adverse events recorded in 24 of 186 discrete events across the 43
+trials, and 78% of recorded events graded mild" → **24 of 185 discrete events across the
+42 trials**; 78% mild is unchanged (144/185).
 
-**Replace with:** `16 | 973 | 2.30 (1.49–3.55) | 0.46 (0.22–0.70)`
+**Line 265.** "low frequency of primary care integration (5%) into the study designs" →
+**2%**.
 
-Random-effects (DerSimonian–Laird) pooled Hedges' g = 0.460, 95% CI 0.222–0.698,
-I² = 67%. The odds-ratio column is the logit back-transform of that g, matching
-how the other rows in this table are standardized. Fixed-effect g = 0.408
-(0.280–0.537) if you prefer that estimator — say which and I will state it in the
-Methods.
+**Line 271.**
 
-**The conclusion at line 240 survives.** A pooled g of 0.46 still sits above the
-statin (0.047–0.228), alcohol screening (0.293), and opioid screening (0.262)
-benchmarks, and remains comparable to HIV PrEP (0.427). The PrEP-as-benchmark
-argument is, if anything, slightly better supported now that the psychedelic
-estimate is nearer PrEP's than before.
+- "only 5% of clinical trials recruited participants representative of real-world
+  community or primary care populations" → **2%**
+- "only 19% included low socioeconomic status (SES) participants" — unchanged
+- "average female participation was 28%" → **29%**
+- "average BIPOC participation was 21%" — unchanged
+- "only 5% of studies had any interaction within primary care settings" → **2%**
 
-**Add an I² footnote.** I² = 67% is substantial heterogeneity across 16 trials
-spanning three substances, four psychedelics, and six decades. A reviewer will
-ask. One sentence acknowledging that the pooled figure is directional rather than
-a defensible meta-analytic summary would pre-empt it — consistent with the
-"only directional, not definitive" framing already at line 240.
+The closing sentence ("No studies used cultural framing, Indigenous frameworks, or
+reciprocity principles") overstates the cultural-framing row — Savage 1973 does, at 2%.
+That was true before this change too, so fix it only if you want to.
 
 ---
 
-## 10. Discussion and Limitations
+## 11. Figures
 
-**Line 254** repeats the demographic figures. Update to match §5: "only **14%**
-of clinical trials recruited participants representative of real-world community
-or primary care populations, only **19%** included low socioeconomic status
-participants, average female participation was **28%**, average BIPOC
-participation was 21%, and only 5% of studies had any interaction within primary
-care settings." The final sentence — "No studies used cultural framing,
-Indigenous frameworks, or reciprocity principles" — must be softened to "No study
-referenced Indigenous frameworks or reciprocity principles, and only one employed
-an explicit cultural frame."
+**Figure 2A** (line 223, `Unified_Tier1_ForestPlot.png`) — **content unchanged**. Prior
+was never on the forest plot. The file has been rewritten, so if the manuscript embeds
+figures as base64 you can leave the existing embed in place.
 
-**Line 246** — "with few participants across the studies reporting serious
-adverse events" is now quantifiable. Consider: "with severe adverse events
-recorded in 24 of 186 discrete events across the 43 trials, and 78% of recorded
-events graded mild."
-
-**Line 260 (Limitations)** — the sentence "the AI-based extraction process may
-have led to errors and misinterpretation of codes" is true but now
-under-specified, and you have the data to replace hand-waving with a number.
-Suggested replacement paragraph:
-
-> A further limitation concerns the extraction process. Coding was performed by
-> an isolated language-model subagent per article under a pinned prompt, then
-> validated by a deterministic gate and re-adjudicated against source texts
-> wherever the automated coding disagreed with a prior independent hand
-> extraction. After correction the two methods agree on 89.5% of all comparable
-> extracted cells (2,126 of 2,376); across the 281 fields that required
-> adjudication, the automated value was upheld in 51% and the hand-extracted
-> value in 26%. The most frequent automated
-> error modes were the omission of statistics reported only inside tables in
-> degraded scans, the selection of a secondary rather than a pre-specified
-> primary endpoint, and an over-liberal reading of criterion fields — most
-> notably power, where any statement justifying a sample size was initially
-> credited as a power calculation. All fields resolved in favour of the hand
-> extraction were corrected in the analytic dataset. A residual 29 fields (10%)
-> could not be resolved from the source texts because the articles themselves are
-> ambiguous — most often where a paper reports several defensible denominators
-> for retention or final sample size, or states no baseline severity
-> classification. These were left at their extracted values and are reported
-> here as an irreducible uncertainty rather than a correctable error.
+**Figure 2B** (line 229, `Unified_Tier2_CatPlot.png`) — **must be re-embedded**. The
+Prior 2014 row is gone from the Opioid Use Disorder / Ibogaine block, which now shows
+D.C. Mash 2000 and P. Glue 2016 only. Tier 2 falls from 27 to 26 studies, and the
+moderate-positive category from 6 to 5 (Grabski 2022, Jovaisa T 2006, Krupitsky 2002,
+Pagni 2024, Pahnke 1970).
 
 ---
 
-## 11. Two data-integrity items you should know about
+## 12. Elsewhere
 
-Both were found by cross-checking the effect-size configuration against the
-adjudicated dataset, and both are already fixed in `scripts/_config_*.py`.
+**Supplemental Table S.1** (referenced at line 131, not in this repo) lists all included
+studies and must drop the Prior 2014 row.
 
-1. **Rothberg 2021 sign error (material).** Its Hedges' g was **−0.59**, plotting
-   the study as evidence of harm, when the paper reports ketamine reducing
-   at-risk drinking roughly five-fold. Cause: the odds ratio was recomputed from
-   Table 2 proportions in the orientation where >1 already favours ketamine,
-   while the frozen entry's `direction: −1` — written to pair with an OR
-   expressed the other way round — was carried forward unchanged. The two
-   negations compounded. Now **+0.59**.
-2. **Das 2019 wrong statistic.** The conversion was keyed to ηp² = 0.219, which
-   the adjudication identified as belonging to a secondary post-consumption urge
-   measure. Re-keyed to the primary drinking outcome, ηp² = 0.14. g: 1.05 → 0.80.
-
-I also found and fixed a false positive in the visual-regression checker: it
-compared title/legend pixel bands whenever image height was unchanged, but the
-figure height has a floor, so a figure sitting at that floor keeps its canvas
-size while losing a row and re-centres its content. The check now also requires
-an unchanged plotted-row count.
-
----
-
-## 12. Open items requiring your decision
-
-| # | Item | Status |
-|---|---|---|
-| 1 | **Ludwig 1969** — no frozen row exists and the PDF is unusable. It has never contributed to any manuscript number. Add only if you can supply a readable copy. | Blocked on source |
-| 2 | **Hollister 1969** stays in Tier 1 per your instruction, on the 2-month F statistic. The adjudication designates the 6-month null as primary. Needs a footnote saying so, or reviewers will find it. | Needs footnote text |
-| 3 | **Fixed vs random effects** for the Table 5 pooled estimate. I used random-effects; the Methods do not currently state which. | Needs one sentence in §3.1 |
-| 4 | **17 config proposals remain pending** human ratification. All 12 eligible ones already have hand-written frozen entries that were kept, so nothing is unkeyed — but the divergences are unreviewed. | `outputs/config_proposals/` |
-| 5 | **`InterventionDescription` is the literal value `1`** in all 44 frozen rows, where the codebook specifies ≤30 words of free text. Table 3 reports it as 100% "described", which is technically true of the new extraction but was never true of the old. | Cosmetic but worth a look |
-| 6 | **Observational-study rows in Table 4** were not regenerated — they come from the separate `observational_studies` pipeline and are outside this rebuild. | Unchanged, verify separately |
+Anywhere the manuscript says "43 trials" outside the lines listed above, it is now 42;
+"7 opioid trials" is now 6. Lines 85, 95, 101, 115, 131, 195, 201, and 263 are the
+occurrences found in this file.

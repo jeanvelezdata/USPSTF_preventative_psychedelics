@@ -1,0 +1,65 @@
+{
+  "_README": [
+    "Human curation decisions applied on top of raw_responses/ by merge_validate.py.",
+    "Raw response JSONs are never edited: they stay the verbatim extraction record.",
+    "Every decision that changes articles.csv or ae_events_observational.csv relative",
+    "to that record belongs here, so the pipeline is reproducible from raw_responses/",
+    "+ this file alone.",
+    "",
+    "Sections:",
+    "  exclude    - StudyID -> reason. Drops the article and all of its AE events.",
+    "  conditions - StudyID -> conditions the study contributes to. A study with two",
+    "               or more conditions gets one articles.csv row per condition (the",
+    "               downstream tables de-duplicate on StudyID for participant counts).",
+    "  fields     - StudyID -> field -> {value, reason}. Single-field overrides.",
+    "",
+    "A StudyID named here that is absent from raw_responses/ is a hard validation",
+    "failure, so stale entries cannot rot silently.",
+    "",
+    "PROVENANCE: the exclusions and condition assignments reproduce the 2026-08-07",
+    "two-reviewer curation pass described in the manuscript Methods — outcome",
+    "guardrails flagged 10 observational records as possibly not matching this",
+    "study's measures, and two human reviewers removed 6, leaving 33. That pass",
+    "recorded no per-study reasons; the per-study wording below was reconstructed on",
+    "2026-08-13 from each record's Condition='.' extraction and title, and needs",
+    "reviewer confirmation before publication. The decisions themselves are",
+    "reproduced exactly."
+  ],
+
+  "exclude": {
+    "Cakic 2010": "Condition='.' in extraction. 'Dimethyltryptamine (DMT): Subjective effects and patterns of use among Australian recreational users' — recreational-use survey with no alcohol, smoking, or opioid outcome. Excluded in the 2026-08-07 curation pass.",
+    "Chandler 1960": "Condition='.' in extraction. 'Lysergic Acid Diethylamide (LSD-25) as a Facilitating Agent in Psychotherapy' — general psychotherapy series, not a substance-use-disorder treatment cohort. Excluded in the 2026-08-07 curation pass.",
+    "Halpern 2005": "Condition='.' in extraction. 'Psychological and Cognitive Effects of Long-Term Peyote Use Among Native Americans' — cognitive-effects study of ritual use, no SUD treatment outcome. Excluded in the 2026-08-07 curation pass.",
+    "Langner 1965": "Condition='.' in extraction. 'Six Years' Experience with LSD Therapy' — mixed-indication clinical series with no extractable N and no condition-specific outcome. Excluded in the 2026-08-07 curation pass.",
+    "O'Shaughnessy 2021": "Condition='.' in extraction. 'Within-treatment changes in a novel addiction treatment program using traditional Amazonian medicine' — mixed-addiction program not resolvable to alcohol, smoking, or opioid. Excluded in the 2026-08-07 curation pass.",
+    "Schenberg 2014": "Condition='.' in extraction. 'Treating drug dependence with the aid of ibogaine: A retrospective study' — mixed drug-dependence cohort not resolvable to the three target conditions. Excluded in the 2026-08-07 curation pass."
+  },
+
+  "conditions": {
+    "Anderson 2019": {
+      "values": ["Smoking", "Alcohol"],
+      "reason": "Condition='.' in extraction; assigned in the 2026-08-07 curation pass. Contributes to both the smoking and alcohol rows."
+    },
+    "Fabregas 2010": {
+      "values": ["Alcohol"],
+      "reason": "Condition='.' in extraction; assigned in the 2026-08-07 curation pass."
+    },
+    "Greer 1986": {
+      "values": ["Alcohol"],
+      "reason": "Condition='.' in extraction; assigned in the 2026-08-07 curation pass."
+    },
+    "Thomas 2013": {
+      "values": ["Alcohol", "Smoking", "Opioid"],
+      "reason": "Condition='.' in extraction; assigned in the 2026-08-07 curation pass. Contributes to all three condition rows."
+    }
+  },
+
+  "fields": {
+    "Faillace 1970": {
+      "IsObservational": {
+        "value": "Y",
+        "reason": "Resolves the non-blocking IsObservational=N design warning the extraction raised (2026-08-13). The extracted paper is the naturalistic two-year follow-up survey, not the parent dosing protocol, and it carries no control or comparator group; the extractor set N on the strength of the randomized DPT/DET/6-FDET administration described in the parent protocol's Methods. Human review resolved the borderline call to Y."
+      }
+    }
+  }
+}

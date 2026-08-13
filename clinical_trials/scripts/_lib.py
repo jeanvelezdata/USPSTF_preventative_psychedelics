@@ -48,11 +48,16 @@ CARRIED_FIELDS: list[str] = [
 ADDED_FIELDS: list[str] = [
     'StudyID',
     'EligibleYN', 'EligibilityFailedCriterion', 'EligibilityNote',
+    'BaseStatusReportedYN',
     'SafetyReported', 'AnyAEReported', 'NumDistinctAEs', 'NParticipantsWithAE',
     'AE_denominator', 'ArmScope', 'WorstSeverity',
     'text_source', 'text_format',
     'Model', 'PromptVersion', 'RubricVersion', 'Temperature', 'SourcePDF',
 ]
+
+# Computed by write_outputs after the merge, so they are master columns but are
+# never present on an extraction response and are exempt from the column check.
+DERIVED_FIELDS: frozenset[str] = frozenset({'BaseStatusReportedYN'})
 
 # StudyID leads the master so the CSV is readable; the rest keep source order.
 ARTICLE_FIELDS: list[str] = ['StudyID'] + CARRIED_FIELDS + [
@@ -111,7 +116,9 @@ CONDITIONS: tuple[str, ...] = ('Alcohol', 'Smoking', 'Opioid')
 BASE_STATUS: tuple[str, ...] = ('Severe', 'Moderate', 'Mild')
 AGE_BRACKETS: tuple[str, ...] = ('<30', '30-50', '50+')
 COUNTRIES: tuple[str, ...] = ('US', 'NonUS', 'Both')
-ELIGIBILITY_FAILURES: tuple[str, ...] = ('not_clinical_trial', 'no_sud_outcome', 'both', 'NA')
+ELIGIBILITY_FAILURES: tuple[str, ...] = (
+    'not_clinical_trial', 'no_sud_outcome', 'out_of_scope_substance', 'both', 'NA',
+)
 ARM_SCOPES: tuple[str, ...] = ('psychedelic_arm', 'pooled', 'NA')
 WORST_SEVERITIES: tuple[str, ...] = ('Mild', 'Moderate', 'Severe', 'None', 'NA')
 TEXT_SOURCES: tuple[str, ...] = ('born-digital', 'OCR', 'manual')
@@ -251,6 +258,29 @@ def year(v: Any) -> bool:
     return n is not None and float(n).is_integer() and 1900 <= n <= 2100
 
 
+# ── Derived: baseline-severity reporting (codebook §4.5) ─────────────────
+
+# Studies whose analysed sample did not have the target condition at baseline,
+# so there was no baseline status to report. Keyed by StudyID.
+BASE_STATUS_NOT_REPORTED: frozenset[str] = frozenset({'Nicholas 2022'})
+
+
+def base_status_reported(study_id: Any, sample_size: Any) -> str:
+    """`BaseStatusReportedYN` for one row.
+
+    Naming the target condition as a baseline diagnosis counts as reporting
+    baseline status whether or not a severity band is graded, so this is '1'
+    wherever a study has an analysed sample — deliberately independent of
+    whether `BaseStatus` carries a band. Two exceptions: a study with no
+    analysed sample (review, protocol, wrong source document) has nothing to
+    characterise and takes '.', not '0'; a sample that did not have the
+    condition at baseline takes '0'.
+    """
+    if is_missing(sample_size) or not is_number(sample_size):
+        return '.'
+    return '0' if study_id in BASE_STATUS_NOT_REPORTED else '1'
+
+
 # ── Field validators (codebook §4) ───────────────────────────────────────
 
 ARTICLE_VALIDATORS: dict[str, Callable[[Any], bool]] = {
@@ -313,6 +343,9 @@ ARTICLE_VALIDATORS: dict[str, Callable[[Any], bool]] = {
     'EligibilityFailedCriterion': one_of(*ELIGIBILITY_FAILURES, allow_missing=False),
     'EligibilityNote':            free_text,
 
+    # Baseline-severity reporting (added, derived — see derive_base_status_reported)
+    'BaseStatusReportedYN':       binary_code(),
+
     # AE gate (added)
     'SafetyReported':      one_of('Y', 'N', allow_missing=False),
     'AnyAEReported':       one_of('Y', 'N', 'NA', allow_missing=False),
@@ -354,8 +387,8 @@ AE_EVENT_VALIDATORS: dict[str, Callable[[Any], bool]] = {
 }
 
 assert len(CARRIED_FIELDS) == 54, f'expected 54 carried fields, got {len(CARRIED_FIELDS)}'
-assert len(ADDED_FIELDS) == 18, f'expected 18 added fields, got {len(ADDED_FIELDS)}'
-assert len(ARTICLE_FIELDS) == 72, f'expected 72 master columns, got {len(ARTICLE_FIELDS)}'
+assert len(ADDED_FIELDS) == 19, f'expected 19 added fields, got {len(ADDED_FIELDS)}'
+assert len(ARTICLE_FIELDS) == 73, f'expected 73 master columns, got {len(ARTICLE_FIELDS)}'
 assert set(ARTICLE_VALIDATORS) == set(ARTICLE_FIELDS), (
     'validator set and column set disagree: '
     f'{set(ARTICLE_FIELDS) ^ set(ARTICLE_VALIDATORS)}'

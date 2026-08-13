@@ -386,7 +386,7 @@ USPSTF_INDICATORS = [
     ('Study Identification & Design', '≥13/14 design criteria present',       'MethodologyDescribedYN',      'binary'),
     ('Study Identification & Design', 'Funding/COI disclosed',                'Funding/COI YN',              'binary'),
     # Domain 2: Population & Generalizability (7)
-    ('Population & Generalizability', 'Baseline severity reported',           'BaseStatus',                  'reported'),
+    ('Population & Generalizability', 'Baseline status reported',             'BaseStatusReportedYN',        'binary'),
     ('Population & Generalizability', 'Age bracket reported',                 'Age_Median',                  'reported'),
     ('Population & Generalizability', 'Female % reported',                    'PercentFem',                  'reported'),
     ('Population & Generalizability', 'BIPOC % reported',                     'RaceEthnicity_BIPOCPercent',  'reported'),

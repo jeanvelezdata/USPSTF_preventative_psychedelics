@@ -893,7 +893,7 @@ Split out of the `rationale` half of each archived response at merge time.
 
 ## Jovaisa T 2006
 
-*Opioid · 2006 · eligible=Y · config=pending*
+*Opioid · 2006 · eligible=Y · config=carried-forward*
 
 ### Article
 - **Outcome**: No explicit 'primary outcome' is labelled anywhere in the article. The study measures cardiovascular/respiratory/renal/GI response, cortisol, OOWS-A withdrawal severity (acute phase), rescue-medication use (early postanesthetic phase), and 4-month abstinence/retention. Per precedence rule (2) (no author-designated primary -> use the SUD-behavioral outcome the abstract leads with), the abstract's Results paragraph opens with 'Ketamine group presented better control of withdrawal symptoms' -- this maps to the Objective Opiate Withdrawal Scale (OOWS-A), the study's dedicated opiate-withdrawal-severity instrument, which per this prompt's boundary-case guidance is itself an SUD outcome. Body text states 'Opiate withdrawal scores on OOWS-A scale were significantly higher in Control group... (Fig. 2 and 3)' and the Fig. 2 caption gives 'difference between groups significant for hourly OOWS-A score, p<0.05.' No group means/SDs for OOWS-A are given in extractable text (only in an OCR-garbled figure image), so Outcome is coded as a directional descriptor rather than a number. Note: the most numerically detailed outcome in the article is actually cardiovascular response (Table 3: MAP/HR means, SDs, 95% CIs, exact p-values by hour) -- this was deliberately NOT chosen as Outcome because it is not the SUD-behavioral outcome the abstract leads with, per the stated precedence order.
@@ -924,7 +924,7 @@ Split out of the `rationale` half of each archived response at merge time.
 - **Jovaisa T 2006_AE04**: Text: 'One more patient returned to regular opiate use, developed injection-related sepsis, and later died in hospital' -- 'one more' confirms this patient is distinct from the four hospitalized above, giving NParticipantsWithAE=5 total. Death is CTCAE Grade 5 / meets the FDA 'death' seriousness criterion by definition, graded Severe via rubric (authors did not assign a formal grade; SeveritySource=rubric). Authors frame this as a consequence of relapse rather than of RAI/ketamine; captured regardless of attribution. Arm not specified in the text.
 
 ### Config proposal
-- **disposition**: pending
+- **disposition**: carried-forward
 - **metric / method / confidence**: 'Objective Opiate Withdrawal Scale (OOWS-A) group difference (narrative only)' / None / 'excluded'
 - **note**: OOWS-A group difference (Ketamine < Control, i.e., less severe withdrawal) is reported only as significant per-hour (p<0.05) in the Fig. 2 caption and body text; no group means, SDs, or a test statistic with degrees of freedom are given in extractable text -- the underlying values exist only inside an OCR-garbled figure image -- so no defensible conversion to a standardized effect size (d/g/eta_p/F/chi2/OR/RR) is possible.
 
@@ -1386,7 +1386,7 @@ Split out of the `rationale` half of each archived response at merge time.
 
 ## P.L. Prior 2014
 
-*Opioid · 2014 · eligible=Y · config=carried-forward*
+*Opioid · 2014 · eligible=N · config=carried-forward*
 
 ### Article
 - **Outcome**: Primary outcome is explicitly designated by the authors: 'the reduction in percentage of positive urine samples was considered the primary outcome' (Methods). The only reported statistic for this outcome describes a lower positive-urine (relapse) rate in the ibogaine group, 'corresponding to 10% of the sample,' vs a higher, unquantified rate in placebo (Results/Discussion, urine-sample paragraph). No paired absolute percentages for both arms are given, so Outcome is coded as a labelled descriptor rather than a number.

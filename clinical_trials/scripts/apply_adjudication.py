@@ -201,6 +201,12 @@ def main() -> None:
         print('\nDry run — no files written.')
         return
 
+    # Derived after adjudication so a corrected SampleSize_NFinal flows through.
+    df['BaseStatusReportedYN'] = [
+        lib.base_status_reported(sid, n)
+        for sid, n in zip(df['StudyID'], df['SampleSize_NFinal'])
+    ]
+
     shutil.copy2(MASTER_CSV, MASTER_CSV.with_suffix('.csv.bak'))
     df.to_csv(MASTER_CSV, index=False, encoding='utf-8')
     df.to_excel(MASTER_XLSX, index=False)
