@@ -17,7 +17,6 @@
       "EligibilityNote": "NA",
       "Outcome": 26.0,
       "SD": "t(8) = 3.477",
-      "PVal": 0.008,
       "SampleSize_NFinal": 9,
       "Pos Result Y/N": 1,
       "Clincial Trial YN": 1,
@@ -28,7 +27,9 @@
       "PrimaryCare": 0,
       "Power": 1,
       "Retention (%)": 90,
-      "ConfoundYN": 1,
+      "MediatingYN": 0,
+      "ModeratingYN": 0,
+      "HypothesisTestReportedYN": 1,
       "InclusionExclusionCriteria": 1,
       "ValidatedScaleMeasYN": 1,
       "MethodologyDescribedYN": 1,
@@ -133,7 +134,6 @@
     "article": {
       "Outcome": "Statistical analysis section names the primary drinking outcome as percent heavy drinking days with primary contrast baseline vs. weeks 5-12. Results, 'Clinical outcomes': 'Percent heavy drinking days decreased during weeks 5-12 relative to baseline (mean difference (SD) = 26.0 (22.4), 95% CI 8.7-43.2, t(8) = 3.477, p = 0.008).' Used this combined-window mean difference rather than the per-sub-window Cohen's d values in Figure 3 (which split the same span into weeks 5-8 and weeks 9-12 separately and are embedded in an OCR-garbled image-derived table), because the text explicitly designates the combined baseline-vs-weeks-5-12 contrast as primary and no single Figure-3 value corresponds to exactly that window.",
       "SD": "t(8) = 3.477, the paired-samples t-statistic reported in the same sentence as Outcome, for the identical baseline-vs-weeks-5-12 contrast (Results, 'Clinical outcomes'). The raw SD of the mean difference (22.4) is given in the same sentence and is used in Retention/SampleSize reasoning but the t-statistic (with df) was chosen for this field since it is the inferential statistic paired with the effect and carries the degrees of freedom.",
-      "PVal": "p = 0.008, same sentence as Outcome/SD (Results, 'Clinical outcomes').",
       "SampleSize_NFinal": "df = 8 on the reported t(8) = 3.477 implies n = 9. Matches the article's statement that 9 of 10 participants 'completed all follow-up assessments and are included in outcome analyses' (Results, 'Treatment exposure and follow-up') and the Figure 3 legend ('n = 9 at all other time points' after baseline).",
       "MethodologyDescribedYN": {
         "criteria": {
@@ -151,7 +151,8 @@
       "Comparator": "No control or comparison arm; Discussion states 'lack of a control group' as a limitation. The two psilocybin sessions used different per-participant doses (0.3 mg/kg then up to 0.4 mg/kg) and subjective effects were compared between them (Table 1, paired t-tests df=5), but this is a within-subject dose-escalation across sequential sessions in one arm, not a between-groups or high-vs-low-dose comparator design, so Comparator remains 0.",
       "PrimaryCare": "No mention of primary-care settings or providers; conducted in a psychiatry department research clinic. The concept applies to a clinical trial in general, so coded 0 (absent) rather than 3.",
       "Retention (%)": "Study is not randomized, so denominator is the enrolled/included sample. Figure 1 / Results 'Participants': 10 were 'included in the study' (received psilocybin); Results 'Treatment exposure and follow-up': 9 'completed all follow-up assessments.' Retention = 9/10 x 100 = 90.",
-      "ConfoundYN": "Coded 1 on substantive-discussion grounds rather than statistical adjustment: no formal confound adjustment was performed (no control group), but the Discussion explicitly names candidate confounds -- 'it is not possible to separate unequivocally the effects of attention, psychosocial treatment, and time; expectancy effects related to knowledge of receiving psilocybin; and the specific effects of psilocybin.'",
+      "MediatingYN": "Coded 0, not 3, because a candidate mediator (intensity of acute psilocybin effects: HRS, MEQ, G-ASC) was measured and correlated with drinking-outcome change (Table 3, r = .55-.89). However, no formal mediation model (indirect-effect test, Baron-and-Kenny-style regression sequence, or causal mediation analysis) was run — the authors report only bivariate correlations, so this is narrative/correlational, not a formal mediation test.",
+      "ModeratingYN": "Coded 0, not 3. Dose level (0.3 vs 0.4 mg/kg) is a measured candidate moderator, and the article compares acute subjective-effect ratings between doses (paired t-tests, df = 5), but no interaction term or stratified effect-modification test was run on the primary drinking outcome by any factor. No formal moderation analysis was conducted.",
       "BaseStatus": "No DSM-5-style severity specifier is given (study used DSM-IV, which has no built-in severity grading for dependence). Inferred 'Moderate' from an informal DSM-5 criterion-count crosswalk (2-3 mild, 4-5 moderate, 6+ severe) applied to the reported mean of 5.0 (SD 1.2, range 3-7) endorsed dependence-type criteria (Results, 'Participants'); this sits at the moderate end of that crosswalk. 8/10 participants also showed physical dependence (tolerance or withdrawal). Flagged as an inference, not an author-assigned label.",
       "RaceEthnicity_BIPOCPercent": "Results, 'Participants': 'Two participants were Native American/Alaska Native, one was African American, four were Hispanic, and three were white non-Hispanic.' Non-white/BIPOC = 2 + 1 + 4 = 7 of 10 = 70%. Hispanic is reported here as a category distinct from white non-Hispanic in the article's own breakdown, so no double-counting ambiguity.",
       "SocioeconomicStatusYN": "Coded 1 on reported income data alone (mean household income $47,023, SD $35,262; employment status also reported), per the field's 'income reported' example. Not an explicit low-income eligibility criterion -- this is descriptive demographic reporting, not a design feature targeting low-SES participants.",
@@ -163,7 +164,8 @@
       "Implementation Outcome": "Coded 1 on two grounds: (1) MET session fidelity was formally coded with the Motivational Interviewing Treatment Integrity system (MITI 3.1) and benchmarked against a proficiency threshold (Results, 'Treatment exposure and follow-up'); (2) the Discussion states the study 'clearly demonstrat[es] feasibility' as one of its own framings of the findings.",
       "NumDistinctAEs": "Counted the 4 events in the dedicated 'Treatment-related adverse events' results subsection (headache, nausea/emesis, diarrhea, insomnia). A separate finding -- modest, transient, statistically significant blood-pressure elevation during dosing (Results, 'Acute effects') -- was not added as a 5th event: it is reported as an expected monitored physiologic parameter in a different subsection, not adjudicated by the authors as an adverse event, and the AE subsection itself confirms 'No participant required medication or other intervention for blood pressure.' Flagged as a borderline inclusion call.",
       "NParticipantsWithAE": "The article reports per-AE-type counts (5 headache, 1 nausea/emesis, 1 diarrhea, 1 insomnia) but never states a total number of distinct participants with >=1 AE, and overlap between these groups (e.g., whether the insomnia participant also had headache) is not addressed. A summed or de-duplicated total would require an unsupported assumption, so coded '.'.",
-      "AE_denominator": "AEs were 'collected on an AE case report form at the end of the psilocybin sessions and at all subsequent visits' (Methods, 'Safety assessment') for all participants who received psilocybin; 10 completed the first psilocybin session (Figure 1) and were subject to this monitoring."
+      "AE_denominator": "AEs were 'collected on an AE case report form at the end of the psilocybin sessions and at all subsequent visits' (Methods, 'Safety assessment') for all participants who received psilocybin; 10 completed the first psilocybin session (Figure 1) and were subject to this monitoring.",
+      "SchemaRevisionNote": "2026-09-03 schema-revision splice: ConfoundYN/PVal removed, MediatingYN/ModeratingYN/HypothesisTestReportedYN added, sourced from a separate v3 extraction run (PromptVersion v1.3) rather than this file's own v1.2 run. Every other field in this file is unchanged from the original v1.2 extraction -- this file is now a hybrid of two runs for these 3 fields only. See clinical_adjudication.md '2026-09-03 -- Coding-scheme revision' for the full rationale."
     },
     "ae_events": {
       "Bogenschutz 2015_AE01": "Graded Mild via rubric (not author CTCAE/SAE): transient, resolved within 24 hours, consistent with the cited Johnson et al. (2012) report of dose-dependent transient headache -- hence Onset 'post-session-acute'. InterventionRequired coded '.' rather than inferred 'N': the article's blanket no-intervention sentence ('No participant required medication or other intervention for blood pressure, anxiety, or other psychiatric symptoms') does not name headache specifically.",

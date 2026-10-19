@@ -14,7 +14,6 @@
       "Temperature": 1,
       "Outcome": "12/15 (80%) biologically verified 7-day point-prevalence smoking abstinence at 6-month follow-up (single-arm, descriptive rate carried over from the parent trial)",
       "SD": ".",
-      "PVal": ".",
       "SampleSize_NFinal": 15,
       "Pos Result Y/N": 1,
       "Clincial Trial YN": 1,
@@ -25,7 +24,9 @@
       "PrimaryCare": 0,
       "Power": 0,
       "Retention (%)": 100,
-      "ConfoundYN": 1,
+      "MediatingYN": 0,
+      "ModeratingYN": 0,
+      "HypothesisTestReportedYN": 1,
       "InclusionExclusionCriteria": 1,
       "ValidatedScaleMeasYN": 1,
       "MethodologyDescribedYN": 0,
@@ -94,7 +95,6 @@
     "article": {
       "Outcome": "This is a secondary analysis of the parent open-label pilot trial (Johnson MW, Garcia-Romeu A, Cosimano MP, et al., 'Pilot study of 5-HT2AR agonist psilocybin in the treatment of tobacco addiction,' J Psychopharmacol, e-pub ahead of print, cited as ref [22]). The abstract of THIS article leads with the SUD outcome: 'Twelve of 15 participants (80%) demonstrated biologically verified smoking abstinence at 6-month follow-up' (Abstract; also Introduction). No test statistic or comparator accompanies that rate in this article — it is a single-arm descriptive proportion inherited from the parent trial. This article's own inferential 'headline' analysis (Results, Table 1) is instead a two-tailed unpaired t-test comparing States of Consciousness Questionnaire (SOCQ) mystical-experience scores between the n=12 quitters and n=3 still-smokers subgroups (t(40)=2.02, p=0.049; abstract: 'Abstainers scored significantly higher on a measure of psilocybin-occasioned mystical experience'). That is a within-sample predictive/mediational subgroup contrast on a non-SUD psychological measure (mystical experience), not a treatment-vs-control effect on smoking behavior, and per task instructions it is NOT coded as the study's Outcome/effect size to avoid presenting a subgroup contrast as a treatment effect. Only the descriptive abstinence rate is used for Outcome; the distinction is carried into the config proposal (method=null, confidence=excluded, tier2_category=single_arm_positive).",
       "SD": "No dispersion or test statistic is paired with the 80% abstinence rate in this article; it is reported only as a raw proportion (12/15, Abstract/Results). The dispersion values in Table 1 (SEM, t, df) belong to the quitters-vs-nonquitters subgroup comparison on subjective-effects measures (SOCQ, Mysticism Scale, HRS Intensity, Personal Meaning, Spiritual Significance, Impact on Wellbeing), not to the SUD abstinence outcome, so they are not used here.",
-      "PVal": "No p-value is reported for the abstinence rate itself, consistent with a single-arm design with no comparator or hypothesis test on that rate. The p=0.049 in Table 1 belongs to the SOCQ quitters-vs-nonquitters t-test described above, a subgroup contrast on a non-SUD measure, and is deliberately not repurposed as the PVal for the SUD Outcome.",
       "SampleSize_NFinal": "'Fifteen participants (10 males) were enrolled and completed the study' (Participants section). All 15 were included in the 6-month abstinence assessment that produced the 80% figure (12/15 abstinent, 3/15 still smoking), so N=15 is the correct denominator for Outcome.",
       "MethodologyDescribedYN": {
         "criteria": {
@@ -105,7 +105,8 @@
         },
         "n_met": 12,
         "note": "Sample size (N=15, with per-group n=12/3) is clearly stated but no power calculation or 'underpowered' language is discussed anywhere, so sample_size_power is N. Randomization is never explicitly addressed for this study's own design (the text states 'no control group was employed' and that assessors/participants were 'not blind,' but never uses 'randomiz-' about this study), so randomization is coded N rather than inferred from the open-label/single-arm framing; this is a close call that determines whether n_met crosses the >=13 threshold (12 with this reading). Comparator and blinding are coded Y because their absence is explicitly stated ('no control group was employed'; 'researchers and participants were not blind to drug treatment conditions'), which per the prompt counts as the element being described. Harms is Y because challenging experiences and the absence of clinically significant AEs are described in this article's own Results, even though full AE detail is deferred to ref [22]."
-      }
+      },
+      "SchemaRevisionNote": "2026-09-03 schema-revision splice: ConfoundYN/PVal removed, MediatingYN/ModeratingYN/HypothesisTestReportedYN added, sourced from a separate v3 extraction run (PromptVersion v1.3) rather than this file's own v1.2 run. Every other field in this file is unchanged from the original v1.2 extraction -- this file is now a hybrid of two runs for these 3 fields only. See clinical_adjudication.md '2026-09-03 -- Coding-scheme revision' for the full rationale."
     },
     "ae_events": {
       "Garcia-Romeu 2015_AE01": "Results: 'six participants (40%) reported at least one challenging psilocybin experience characterized by feelings of fear, fear of insanity, or feeling trapped. However these acute effects were readily managed by study staff, and had resolved by the end of the sessions. Aside from these short-lived dysphoric reactions, no clinically significant adverse events occurred during the study treatment [22].' Coded AE_type='challenging_experience' per the prompt's guidance that CEQ-sense in-session phenomenology should be flagged rather than counted as a clinical AE. Onset='in-session' because the text states the effects 'had resolved by the end of the sessions.' Severity='Mild' and SeverityIndeterminate='N' because the rubric's Mild band (transient, expected, self-limiting, resolved with staff support/reassurance, no persistence beyond the dosing period) is directly matched by the description; SeveritySource='rubric' since the authors assign no CTCAE grade or SAE label. InterventionRequired='N' is an inference: 'readily managed by study staff' is consistent with the standard psilocybin-session model of verbal/interpersonal support rather than pharmacological rescue, but the article does not specify the management method, so this call is somewhat uncertain. MeetsFDASerious='N' because no FDA seriousness criterion (death, life-threatening, hospitalization, persistent disability, congenital anomaly) is met or implied. Explicitly stated as separate from the six challenging-experience cases: 'no clinically significant adverse events occurred' — i.e., SafetyReported='Y' and AnyAEReported='Y' but only this one AE type is reported (NumDistinctAEs=1, NParticipantsWithAE=6, AE_denominator=15, all from the single psilocybin-exposed arm)."

@@ -83,8 +83,8 @@ The two extraction pipelines share a shape: `inputs/` (manifest + article text) 
 | `tier1_hedges_g.py` | `tables/<C>_Tier1_HedgesG.xlsx`, `figures/<C>_Tier1_ForestPlot.png` |
 | `tier2_qualitative.py` | `tables/<C>_Tier2_Qualitative.xlsx`, `figures/<C>_Tier2_CatPlot.png` |
 | `descriptive_analyses.py` | `tables/<C>_Descriptive_Analyses.docx` (five tables) |
-| `unified_forest_plot.py` | `figures/Unified_Tier1_ForestPlot.png` |
-| `unified_cat_plot.py` | `figures/Unified_Tier2_CatPlot.png` |
+| `unified_forest_plot.py` | `figures/Unified_Tier1_ForestPlot.png`, `figures/Unified_Tier1_ForestPlot.pdf` |
+| `unified_cat_plot.py` | `figures/Unified_Tier2_CatPlot.png`, `figures/Unified_Tier2_CatPlot.pdf` |
 | `methqual_bar_plot.py` | `figures/Alcohol_MethQual_BarPlot.png` |
 | `table3_gapmap.py` | `tables/Table3_USPSTF_GapMap_bySubstance.docx` |
 | `table4_ae_safety.py` | `tables/Table4_AE_Safety_Summary.docx` |

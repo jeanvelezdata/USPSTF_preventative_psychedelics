@@ -1,5 +1,32 @@
 # Old ↔ New Clinical Dataset Comparison — Adjudicated
 
+## 2026-09-03 — Coding-scheme revision: ConfoundYN split, PVal replaced
+
+Per the 2026-09 coding-scheme revision already reflected in
+`clinical_trials/scripts/_lib.py` `CARRIED_FIELDS` (design §10 / codebook §11),
+`clinical_master.csv` was updated to match: `ConfoundYN` dropped and split into
+`MediatingYN` / `ModeratingYN`; `PVal` dropped and replaced by
+`HypothesisTestReportedYN`. Values for the three new columns came from a v3
+extraction run, initially merged into the live master by `StudyID` as a
+one-off patch (no other column, and no row's `EligibleYN`, was touched).
+
+That patch has since been superseded: the same field swap was spliced
+directly into all 49 live `clinical_trials/raw_responses/*_response.json`
+files (data.article and, where present, rationale.article), sourced from the
+same v3 run, and `clinical_master.csv` was then regenerated for real via
+`clinical_trials/scripts/merge_validate.py`. Each touched raw-response file
+carries a `SchemaRevisionNote` rationale entry disclosing that it is now a
+hybrid of two extraction runs (v2 for every other field, the noted v3
+`PromptVersion` for these three) — see that note, per file, for the exact
+provenance. The regenerated master was diffed against the prior one: zero
+changes outside the intended column swap, same 42-study eligible cohort
+(32/6/4). A future `merge_validate.py` rebuild will now reproduce this schema
+correctly on its own; no separate re-merge step is needed. This is not a
+per-study old-vs-new disagreement (the three new fields have no "Old"
+counterpart to adjudicate against), so it isn't logged as a table row below;
+recorded here instead since it changes the master's schema and, unusually,
+the raw-response source files themselves.
+
 Independent adjudication of every per-study disagreement between the frozen hand extraction ("Old") and the new automated master ("New") in `clinical_trials/outputs/old_new_comparison_report.md`, against the actual source paper text in `clinical_trials/inputs/text/`.
 
 ## Scope
@@ -20,7 +47,7 @@ Independent adjudication of every per-study disagreement between the frozen hand
 | **Equivalent** | Both values represent the same underlying fact — differ only in notation, precision, or completeness. |
 | **Unclear** | The source text does not unambiguously resolve the discrepancy; both readings are defensible, or the paper itself is ambiguous/silent. |
 
-**Totals (281 fields adjudicated):** New 144 (51%) · Old 74 (26%) · Equivalent 34 (12%) · Unclear 29 (10%)
+**Totals (250 fields adjudicated):** New 128 (51%) · Old 68 (27%) · Equivalent 29 (12%) · Unclear 25 (10%)
 
 ## Notable findings
 
@@ -56,7 +83,6 @@ Independent adjudication of every per-study disagreement between the frozen hand
 | Bowen 1970 | BlindingYN | `1` | `0` | Old | "A double blind experimental procedure was employed" and "the dosage level administered was not revealed until a year later, after the outcome data had been collected" — both patients and analysis were blinded to dose assignment. |
 | Bowen 1970 | Double+Blind | `1` | `0` | Old | The text uses this exact term: "a double blind experimental procedure was employed," with dose level withheld from all parties until after outcome data collection. |
 | Bowen 1970 | SD | `chi-square = 1.408` | `χ²(2) = 1.468` | New | Table 4 (underlying the Outcome field) reports "x² = 1.468, x2.05 = 5.991" — New matches the source exactly; Old's 1.408 matches no reported value. |
-| Bowen 1970 | PVal | `>0.05` | `NS` | Equivalent | Table 4's χ²=1.468 falls well below the .05 critical value (5.991) — both notations describe the same non-significant result. |
 | Bowen 1970 | Retention (%) | `83` | `73.1` | Unclear | The paper reports multiple, non-reconciled denominators for follow-up/completion, and Table 7's scanned text is too garbled to confidently reconstruct a single retention percentage matching either value. |
 | Bowen 1970 | InclusionExclusionCriteria | `1` | `0` | New | Beyond "male veterans who had voluntarily applied for the alcoholic treatment program," no formal inclusion/exclusion criteria list is given; only Experiment II briefly notes 6 patients denied on physical/psychiatric grounds, which falls short of a described criteria set. |
 | Bowen 1970 | BaseStatus | `Severe` | `None` | Unclear | No explicit AUD-severity classification is given anywhere in the text for these veteran inpatients. |
@@ -73,20 +99,17 @@ Independent adjudication of every per-study disagreement between the frozen hand
 | Das 2019 | RelapseMeasured | `0` | `1` | New | "Reversion to heavy drinking typifies drinking interventions. We assessed this by comparing drinking levels...across follow-up to 9 months" — explicitly assessed. |
 | Denson 1970 | Eligibility (X2) | `Included` | `Excluded (fails criterion b)` | New | Table I confirms alcoholics and multiple neurotic diagnoses were pooled into the same Treatment/Control groups and analyzed together; the outcome battery (Eysenck, IPAT, MMPI, Lorr, general follow-up questionnaire) contains no alcohol-consumption, abstinence, craving, or validated SUD outcome anywhere in the text — fully supporting the new screen's exclusion. |
 | Denson 1970 | SampleSize_NFinal | `51` | `None` | Unclear | "Fifty-one patients were accepted for the study," but completer numbers differ by follow-up point (17/group at 6mo, 13/16 at 12mo) — neither 51 nor blank clearly represents a single "final" N without specifying the endpoint. |
-| Denson 1970 | ConfoundYN | `0` | `1` | New | The paper itself acknowledges: "these results indicated that the matching of Treatment and Control samples was not perfect," in addition to alcoholics/neurotics being pooled. |
 | Denson 1970 | BaseStatus | `Moderate` | `None` | New | No standardized severity classification for the alcoholic subgroup is reported anywhere in the text. |
 | Denson 1970 | PercentFem | `31.4` | `None` | Old | Table I's OCR-garbled totals row resolves to Treatment 21M/4F, Control 14M/12F (25+26=51 total); 16 females/51 = 31.4%, matching Old exactly. |
 | Denson 1970 | BehaviorChangeMeasured | `1` | `0` | Old | The battery includes "The Lorr Multi-dimensional Rating Scale," a clinician-rated behavioral instrument, plus a follow-up questionnaire assessing work/doctor-visit behavior. |
 | Dusen 1967 | Outcome | `Mean improvement = 3.97 (LSD) vs 4.03 (control), n.s.` | `4.03 vs 3.97` | Equivalent | Matches the abstract exactly ("control group 4.03...lysergide group 3.97"); Old just adds labels. |
 | Dusen 1967 | SampleSize_NFinal | `99` | `None` | Old | "28 prelysergide controls, 15 pilot lysergide patients, 29 given 1 session, 18 given 2 sessions, and 9 given 3 sessions, a total of 99 subjects" — explicit final analyzed N. |
 | Dusen 1967 | BlindingYN | `1` | `0` | Old | Though the planned drug-vs-placebo blind was abandoned early, "the field workers did not know who was in the lysergide group and who was not at the time of follow-up" — outcome assessors remained blinded. |
-| Dusen 1967 | PVal | `>0.05` | `NS` | Equivalent | "At the 5% level there was no significant difference between any of these groups" — same result, both notations. |
 | Dusen 1967 | InclusionExclusionCriteria | `1` | `0` | Old | "The grossly brain damaged, prepsychotic, and emotionally severely disturbed were screened out" — explicit exclusion criteria stated. |
 | Dusen 1967 | BaseStatus | `Moderate` | `None` | Unclear | No explicit AUD severity classification given; text only reports mean years of "excessive drinking" (7.82 years), not a severity category. |
 | Dusen 1967 | RecruitmentRepresentYN | `0` | `1` | Old | Self-selected, single-hospital sample ("women learned of the experiment from each other and from the investigators") — not representative. |
 | Gent 2024 | Outcome | `F2,52 = 6.45` | `6.88` | Old | Primary outcome showed "a significant main effect of group (F(1,26)=6.88...) as well as time-by-group interaction (F(2,52)=6.45...)." Since the group main effect is already captured by the SD field in this row set, Outcome should carry the interaction statistic, matching Old. |
 | Gent 2024 | SD | `None` | `F(1,26) = 6.88` | New | The reported main effect of group, a real statistic Old left blank. |
-| Gent 2024 | PVal | `0.003` | `0.014` | Old | Consistent with Outcome=interaction statistic (F(2,52)=6.45), its p-value is p=0.003; p=0.014 belongs to the group main effect. |
 | Gent 2024 | MethodologyDescribedYN | `1` | `0` | Old | Thorough Methods section (participants, randomization, MBI content, drug administration, measures, statistical analysis). |
 | Gent 2024 | HarmsAssessed | `1` | `0` | Old | Subjective/somatic drug effects tracked via Bodily Symptoms Scale and CADSS, plus safety screening and pre-discharge "street readiness" check. |
 | Gent 2024 | Implementation Outcome | `0` | `1` | New | The study's primary outcome is "Engagement (psychological and physical) in MBI" — an implementation/fidelity-type outcome central to the paper. |
@@ -94,22 +117,17 @@ Independent adjudication of every per-study disagreement between the frozen hand
 | Grabski 2022 | Outcome | `mean difference = 10.1%` | `10.1` | Equivalent | "mean difference=10.1%, 95% CI=1.1, 19.0" for percentage days abstinent — same statistic; Old's label is more informative. |
 | Grabski 2022 | SampleSize_NFinal | `96` | `89` | Old | "Ninety-six participants...were included in the intention-to-treat analysis." 89 derives from Figure 3's caption count of participants with data at weeks 12/24, a sub-analysis N. |
 | Grabski 2022 | SD | `95% CI [1.1,19.0]` | `95% CI = 1.1, 19.0` | Equivalent | Identical values; only bracket-vs-equals notation differs. |
-| Grabski 2022 | PVal | `<0.05` | `None` | New | The primary outcome is reported only as a CI not crossing zero; no explicit numeric p-value is printed for this comparison anywhere in the text. |
 | Grabski 2022 | Power | `0` | `1` | Unclear | Only statement is "not powered to assess an interaction between the drug and the therapy condition" — implies power was considered for main analyses but no explicit calculation (target n, alpha, effect size) is given. |
 | Heinzerling 2023 | Outcome | `F6,107 = 15.76` | `Visual Healing < Standard (lower peak post-psilocybin increase in systolic blood pressure during Week 3 session)` | New | The headline finding is "peak increase in post-psilocybin blood pressure was significantly less for...Visual Healing compared to Standard." F(6,107)=15.76 is a within-group heavy-drinking-days time effect common to both arms, not the RCT's primary between-group comparison. |
 | Heinzerling 2023 | SD | `None` | `χ²(1) = 4.98` | New | "systolic BP: Kruskal-Wallis test χ²(1) = 4.98, p = 0.02" — exactly supports the blood-pressure finding; Old left this blank. |
-| Heinzerling 2023 | PVal | `<0.001` | `0.02` | New | Same sentence gives "p = 0.02" for the systolic BP group difference; <0.001 belongs to a different within-group analysis. |
 | Heinzerling 2023 | Power | `0` | `1` | Old | "The sample size of 20 participants...was deemed sufficient...to assess the feasibility of recruiting" — a feasibility/budget-driven sample size, not a formal power calculation. |
-| Heinzerling 2023 | ConfoundYN | `1` | `0` | Unclear | The Week 3 randomized comparison showed no baseline differences (p>0.05 all), arguing for "0"; but the Week 7 dosing condition was self-selected rather than randomized, a genuine confound the text doesn't resolve for the field as a whole. |
 | Heinzerling 2023 | RaceEthnicity_BIPOCPercent | `10` | `5` | New | Table 1: 1 of 20 total participants was non-White = 5%. Old's 10% matches only the Visual Healing subgroup alone. |
 | Heinzerling 2023 | Followup in months | `3.58` | `1` | New | A distinct ~4-week (~1 month) post-treatment follow-up window is described ("returned to the clinic to complete end of study...follow-up assessments in Week 14"); 3.58 matches no stated interval. |
 | Heinzerling 2023 | RelapseMeasured | `0` | `1` | New | Text explicitly reports relapse events requiring inpatient detoxification and study termination. |
 | Hollister 1969 | Outcome | `F 1, 50 = 8.5` | `48 vs 49 (LSD vs dextroamphetamine mean Drinking Behavior Scale change score, 6-month follow-up; NS)` | New | Old's F-statistic is the early, transient 2-month result the authors treat as less reliable; the paper explicitly designates six months as the primary endpoint, where the result was null ("Mean change score...48 [LSD]...49 [amphetamine]...Not significant"). |
 | Hollister 1969 | SD | `29` | `None` | Old | "the mean initial DBS score for the 72 alcoholic patients...was 74...with a standard deviation of 29" — explicitly reported. |
-| Hollister 1969 | PVal | `<0.01` | `NS` | New | Consistent with the six-month primary-endpoint result: "Not significant, analysis of variance"; <0.01 belongs only to the transient two-month comparison. |
 | Hollister 1969 | BaseStatus | `Severe` | `None` | New | Text explicitly rejects a single severity label: "By any reckoning, all were problem drinkers, varying from the mildest to the most severe." |
 | Jensen 1963 | Outcome | `63% dry (LSD) vs 27% dry (control)` | `74% vs 41%` | Unclear | Both figures are directly textual ("39...63%, had remained dry"; controls "27%...dry"); but the paper's own significance test used the combined "dry or improved" category (46/62=74% vs 12/29=41%), matching New. The text doesn't state which categorization the field should represent. |
-| Jensen 1963 | PVal | `<0.1` | `>.01` | New | Verbatim: "significantly more of the alcoholics treated with LSD were dry or improved...(P> .01)." New is a literal transcription; Old changes the value's order of magnitude with no textual basis. |
 | Jensen 1963 | HarmsAssessed | `0` | `1` | New | The paper extensively discusses adverse/distressing reactions to LSD (confusion, amnesia, anxiety, nausea), indicating harms were narratively assessed. |
 | Jensen 1963 | RelapseMeasured | `0` | `1` | New | Outcomes tracked as "dry," "improved," or "unimproved" at 6-18 month follow-up — return-to-drinking status explicitly monitored. |
 | Jensen 1963 | SafetyReported vs old HarmsAssessed | `0.0` | `Y` | New | Consistent with HarmsAssessed above — narrative safety-relevant adverse reactions are present. |
@@ -124,12 +142,10 @@ Independent adjudication of every per-study disagreement between the frozen hand
 | Kurland 1967 | RelapseMeasured | `0` | `1` | New | The 6-month abstinence-maintenance outcome directly tracks relapse to drinking after initial treatment. |
 | Luquiens 2025 | Outcome | `Abstinence rate difference = -44%` | `95% vs 60% (completed 2nd dosing session)` | Unclear | Both values are verbatim. "-44%...P=0.043" is the 12-week abstinence secondary result; "95% vs 60%...P=0.031" is the stated primary outcome (feasibility/completion of both dosing sessions). Text doesn't indicate which the field is meant to capture. |
 | Luquiens 2025 | SD | `95% CI = [-82% to -5.9%]` | `None` | Old | "difference = -44%, [95% CI = -82%, -5.9%], P=0.043" — exact match; New has no value. |
-| Luquiens 2025 | PVal | `0.043` | `0.031` | Old | Old's 0.043 pairs with the abstinence-rate CI also captured in the SD field; New's 0.031 belongs to the separate feasibility completion-rate result, unpaired with any SD in the new extraction. |
 | Luquiens 2025 | Power | `0` | `1` | New | "the number of subjects required was determined according to the recommendations of Hertzog..." — an explicit sample-size justification is described. |
 | Luquiens 2025 | PhysicalChangeMeasured | `0` | `1` | New | Systematic vital-sign monitoring (BP, HR every 30 min) during dosing sessions, plus physical AEs tracked (dizziness, hypoglycemia, MI). |
 | MacLean 1961 | Outcome | `49% much improved (alcoholics), 52% much improved (composite)` | `46/61 (75.4%) alcoholics much improved or improved` | Old | Table 1: 30/61 alcoholics "much improved" (49.2%), 52/100 "much improved" composite (52%), matching Old exactly. The paper keeps "much improved" and "improved" as distinct categories; New's 46/61 merges categories the paper reports separately. |
 | MacLean 1961 | SampleSize_NFinal | `100` | `61` | New | Table 1's alcoholic-subgroup total is 61 (50M+11F); 100 is 61 alcoholics plus 39 non-alcoholic psychiatric patients. The alcoholism-relevant analysis population is the 61. |
-| MacLean 1961 | ConfoundYN | `0` | `1` | New | No control group, no randomization, no blinding, and subjective composite ratings by the treating team — substantial confounding evident. |
 | MacLean 1961 | PercentFem | `34` | `18.0` | New | Table 1's alcoholic Totals row: 50M/11F (11/61=18.0%), matching New and consistent with the corrected N=61. Old's 34% is the mixed 100-patient composite figure. |
 | MacLean 1961 | RelapseMeasured | `0` | `1` | New | Case examples explicitly track post-treatment relapse ("resumed heavy drinking within 6 weeks"), and the rating scheme itself accounts for relapse attempts. |
 | Marvania 2024 | Outcome | `51.98% increase in AASE from baseline at 2-week follow-up` | `51.98% increase in mean AASE (Alcohol Abstinence Self-Efficacy Scale) confidence score from baseline to the final 2-week follow-up assessment` | Equivalent | Table 1: "Change (%) 51.98" — identical figure; New spells out the AASE scale name. |
@@ -142,19 +158,16 @@ Independent adjudication of every per-study disagreement between the frozen hand
 | Nicholas 2022 | Followup in months | `2` | `None` | Old | "...or increased MDMA use during and 2 months following treatment" directly supports a 2-month follow-up window. |
 | Nicholas 2022 | SafetyReported vs old HarmsAssessed | `1.0` | `N` | Old | As above, the Discussion explicitly reports safety/harm findings for substance use, supporting "Y" over New's "N." |
 | O'Reilly 1964 | Outcome | `38% abstinence (26/68)` | `38% abstinence (26/68) at follow-up; single-arm, no comparator` | Equivalent | "Twenty-six patients, or 38%...were found to be abstaining." Same fact; New's added context is accurate (the paper indeed has no control group). |
-| O'Reilly 1964 | PVal | `<0.01` | `None` | New | The ".01 level" applies only to a secondary correlate (depression/transcendental experience), not to the primary 38% abstinence figure, which is purely descriptive. |
 | O'Reilly 1964 | Power | `None` | `0` | New | No power or sample-size calculation appears anywhere in this 1964 paper. |
 | O'Reilly 1964 | MentalHealthChangeMeasured | `0` | `1` | New | Patients were rated on "depression and/or claiming a transcendental experience" as an outcome correlate — a form of post-treatment mental-state assessment. |
 | O'Reilly 1964 | Implementation Outcome | `0` | `1` | Unclear | Provider-level variability (8 psychiatrists) and follow-up response rates are reported, but never framed as a formal implementation/fidelity measure — could reasonably be coded either way. |
 | O'Reilly 1964 | RelapseMeasured | `0` | `1` | New | Drinking-status change is tracked across sequential follow-up windows, functionally capturing relapse/maintenance. |
 | Pagni 2024 | Outcome | `t(3) = 5.568 (craving reduction across all cue types)` | `Alcohol-cue treatment-by-time interaction: 8 activation + 17 deactivation clusters, whole-brain (psilocybin vs placebo, p-unc<.005, k=10)` | New | Results are structured around whole-brain fMRI findings ("8 clusters...activation...17 clusters" deactivation for the alcohol-cue task). t(3)=5.568 is a secondary post-hoc analysis limited to n=4/1 due to fMRI button-box malfunction. |
 | Pagni 2024 | SD | `t(3) = 5.568` | `None` | New | Consistent with the Outcome decision — the primary whole-brain cluster analysis doesn't reduce to a single test statistic; t(3)=5.568 belongs to the secondary craving analysis. |
-| Pagni 2024 | PVal | `0.0114` | `<0.005` | New | The primary significance threshold used was "p-uncorrected < 0.005, k = 10" for the whole-brain interactions; 0.0114 is the secondary craving t-test's p-value. |
 | Pagni 2024 | MethodologyDescribedYN | `0` | `1` | New | Extensive, detailed Methods (inclusion/exclusion, randomization, blinding, fMRI acquisition, task design, preprocessing, statistical modeling). |
 | Pagni 2024 | BaseStatus | `Moderate` | `None` | New | AUD diagnosis via SCID and heavy-drinking-day inclusion criteria are reported, but no Mild/Moderate/Severe classification appears anywhere. |
 | Pagni 2025 | Outcome | `F=6.49, ηp²=0.07 (openness)` | `0.06` | Unclear | Table 1's Openness row (F(1,18)=6.49, p=.01, ηp²=.07) matches Old; the Neuroticism row (F(1,18)=5.20, p=.03, ηp²=.06) matches New. Both are verbatim, correct statistics for different personality traits; the abstract treats them as co-primary findings. |
 | Pagni 2025 | SD | `F(1,18) = 6.49` | `F(1,18) = 5.20` | Unclear | Same issue: 6.49 is Openness's F-statistic, 5.20 is Neuroticism's; both exact matches to Table 1 for different traits. |
-| Pagni 2025 | PVal | `0.01` | `0.03` | Unclear | Mirrors the Outcome/SD ambiguity: p=.01 belongs to Openness, p=.03 to Neuroticism. |
 | Pagni 2025 | Power | `0` | `1` | Old | No a priori power calculation is described; N=84 is simply the number of parent-trial completers with usable NEO questionnaires. |
 | Pagni 2025 | InclusionExclusionCriteria | `1` | `0` | New | This secondary-analysis paper does not itself state inclusion/exclusion criteria — it explicitly defers to prior publications. |
 | Pagni 2025 | HarmsAssessed | `None` | `0` | New | The paper is a personality-focused secondary analysis with no adverse-event/safety reporting at all; explicitly coding "0" is more informative than blank. |
@@ -162,7 +175,6 @@ Independent adjudication of every per-study disagreement between the frozen hand
 | Pagni 2025 | MentalHealthChangeMeasured | `1` | `0` | Old | Significant reductions in the depression facet of neuroticism are reported ("decreases in neuroticism were driven by significant decreases in depression, impulsiveness, and vulnerability"). |
 | Pahnke 1970 | Outcome | `53% improved drinking (high dose) vs 33% (low dose)` | `53% vs 33%` | Equivalent | Table 2: High dose 53% (34/64) vs Low dose 33% (13/40) reaching the drinking-behavior rehabilitation criterion. Same numbers; Old retains dose-group/outcome-domain labels New drops. |
 | Pahnke 1970 | SD | `F = 4.43` | `None` | Old | Table 1's Drinking Behavior comparison reports "F...4.43, 0.025"; no true SD is reported anywhere, so this field appears to hold the associated test statistic (as it does elsewhere in this dataset, e.g. P.L. Prior 2014). |
-| Pahnke 1970 | PVal | `0.025` | `None` | Old | Same Table 1 row: F=4.43 paired with "0.025" for the Drinking Behavior comparison. |
 | Pahnke 1970 | Power | `None` | `0` | New | No power/sample-size calculation is reported anywhere in this 1970 paper. |
 | Pahnke 1970 | SocioeconomicStatusYN | `None` | `0` | New | No SES assessment (income, education, employment) is described; Global Adjustment ratings cover occupational/interpersonal/residential functioning but not SES per se. |
 | Pahnke 1970 | RecruitmentRepresentYN | `None` | `0` | New | Patients drawn from one state hospital's population with no representative/random sampling described. |
@@ -178,15 +190,12 @@ Independent adjudication of every per-study disagreement between the frozen hand
 | Sessa 2019 | Outcome | `No SAEs; 2/4 fully abstinent at 8 wk` | `4/4 (100%) tolerated the MDMA course with no SAEs; 2/4 alcohol-free, 2/4 single low-dose lapse only, none returned to daily/harmful drinking` | New | "two have remained totally alcohol free, and two have had a single one-off episode of low-dose alcohol use...None of the four participants have returned to daily or harmful drinking...no serious adverse events." New captures the "single low-dose lapse" nuance Old omits. |
 | Sessa 2019 | RandomizationYN | `1` | `0` | New | Explicitly "an ongoing open-label safety and tolerability proof of concept study" — no randomization is mentioned anywhere. |
 | Sessa 2019 | Power | `None` | `0` | New | A 4-patient open-label case series with no power calculation discussed. |
-| Sessa 2019 | ConfoundYN | `0` | `1` | New | Uncontrolled, unblinded, open-label case series with n=4 and no comparator group — clear confounding potential. |
 | Sessa 2019 | Age_Median | `None` | `50+` | New | Ages given (34, 63, 54, 50) yield a true median of 52; New's "50+" reasonably approximates this and is more informative than blank. |
 | Sessa 2019 | PhysicalChangeMeasured | `0` | `1` | New | Figure 1 reports BP and temperature monitored across MDMA sessions, plus ECGs and bloods at baseline and week 8. |
 | Sessa 2021 | Outcome | `Mean 18.7 units/wk at 9mo vs 130.6 pre-detox; 9/14 abstinent` | `12/14 (85.7%) completed both MDMA sessions; 0 unexpected AEs` | Unclear | Methods state the primary outcome was completion/booster-dose uptake/adverse events (matching New), but Results/Abstract headline the drinking reduction instead (130.6→18.7 units/week; matching Old). Text supports both depending on whether "Outcome" means the technical primary endpoint or the substantive AUD finding. |
-| Sessa 2021 | ConfoundYN | `0` | `1` | New | Open-label, single-arm, no randomization/blinding, and most participants concurrently on SSRIs/other psychiatric medications — clear confounding potential. |
 | Sessa 2021 | MethodologyDescribedYN | `0` | `1` | New | Extensive, detailed Methods (approvals, inclusion/exclusion, dosing schedule, therapy structure, assessment instruments, analytic approach). |
 | Sessa 2021 | PhysicalChangeMeasured | `0` | `1` | New | Systematic physiological monitoring during MDMA sessions (BP, HR, temperature) plus screening ECG and post-course blood tests. |
 | Smart 1966 | Outcome | `33.7% abstinence gain (LSD) vs 19.6% (control); ns` | `34% vs 32% vs 20% gain in abstinence (lysergide vs ephedrine vs control)` | New | The abstract reports gains for "lysergide, ephedrine and control groups, respectively...34%; 32%; and 20%" — a 3-arm trial. Old drops the ephedrine active-control arm entirely, mischaracterizing the design as a 2-arm comparison. |
-| Smart 1966 | PVal | `>0.05` | `>.05` | Equivalent | Same non-significant ANOVA result in both notations. |
 | Smart 1966 | Power | `0` | `1` | Old | No power/sample-size calculation is described anywhere in this 1966 paper (n=10/arm, no stated justification). |
 | Smart 1966 | Retention (%) | `100` | `90.9` | Old | "The follow-up was completely successful in that all 30 patients were seen" — 100% retention at 6-month follow-up. |
 | Smart 1966 | ValidatedScaleMeasYN | `1` | `0` | Old | Baseline testing used the Maudsley Personality Inventory, Haigh-Butler Q Sort, Rorschach, and shortened WAIS — established, validated instruments. |
@@ -211,8 +220,6 @@ Independent adjudication of every per-study disagreement between the frozen hand
 | Terasaki 2022 | PhysicalChangeMeasured | `0` | `1` | New | Table 4 reports vital-sign changes (SBP, DBP, HR) with a significant post-ketamine BP rise ("+12.66 mmHg, p=0.006"). |
 | Thurgur 2025 | Outcome | `Mean posterior = 0.63 (flat prior); 9/14 success rate` | `0.63 posterior probability of a ≥2-level WHO drinking-risk reduction at 3 months (flat prior)` | Equivalent | Both describe the same flat-prior result from Table 1 (9/14 success rate, mean posterior 0.63); Old retains the raw success-rate fraction alongside the posterior estimate. |
 | Thurgur 2025 | SD | `95% CI 0.40-0.85` | `95% Credible Interval = 0.40–0.85` | New | This is a Bayesian analysis; the text itself calls this a "credible interval" ("probability of success...63% with credible intervals of 40% to 85%"), not a confidence interval, making New's terminology more accurate (bounds identical). |
-| Thurgur 2025 | PVal | `0.423` | `None` | Old | "binomial test did not reject the null hypothesis...(k = .64, P = .423)" — explicitly reported. |
-| Thurgur 2025 | ConfoundYN | `0` | `1` | Unclear | The paper acknowledges it could not control for confounds in the SF-36 QOL results, which supports either reading depending on whether the field means "confounding present" (New) or "confounding controlled for" (Old); text doesn't disambiguate. |
 | Thurgur 2025 | MethodologyDescribedYN | `0` | `1` | New | Detailed Methods (WHO risk-level analysis, PROMs, Bayesian priors, statistical analysis), though procedural specifics are often deferred to the parent Sessa 2021 paper — on balance, substantial methodology is described here. |
 | Thurgur 2025 | BaseStatus | `Severe` | `None` | Unclear | No formal AUD severity category is assigned; the paper only notes participants "recently undergone detoxification," suggestive but not an explicit severity rating. |
 | Thurgur 2025 | Implementation Outcome | `1` | `0` | Old | "Primary outcome measures were the number of patients completing the eight-week psychotherapy course, the number accepting the second booster dose...and adverse events" — implementation/completion outcomes were explicitly measured. |
@@ -220,7 +227,6 @@ Independent adjudication of every per-study disagreement between the frozen hand
 | Thurgur 2025 | RelapseMeasured | `1` | `0` | New | No explicit relapse outcome is reported in this paper's own Results; craving is measured, but relapse itself is not a named outcome variable here. |
 | Tomsovic 1970 | Pos Result Y/N | `0` | `1` | New | Table 7 reports a statistically significant chi-square (7.19, p<.01) favoring the nonschizophrenic lysergide-treated group over Control I on 1-year abstinence — a positive result reported in the paper. |
 | Tomsovic 1970 | Outcome | `χ² = 7.19 (LSD vs control I, nonschiz, abstinence at 1yr); χ² = 2.25 vs control II (NS)` | `44% vs 11%` | Old | Table 7 gives both comparisons (χ²=7.19 vs Control I significant, χ²=2.25 vs Control II not significant); New's 44% vs 11% comes from Table 5 but omits the Control II comparison entirely. |
-| Tomsovic 1970 | PVal | `<0.01` | `<.01` | Equivalent | Same value ("Significant at .01 level of confidence"); only decimal-point formatting differs. |
 | Tomsovic 1970 | SampleSize_NFinal | `192` | `58` | Unclear | Neither number is stated verbatim as a single "final N." 192 sums all six subgroups at 12-month follow-up; 58 is just the nonschizophrenic Lysergide+Control I pair used in the significant chi-square. The paper never states one overall analyzed N. |
 | Tomsovic 1970 | ValidatedScaleMeasYN | `0` | `1` | New | "The psychometric method utilized the Blewett and Chwelos Scales for the Assessment of Psychedelic Reactions" — a defined, scored instrument. |
 | Tomsovic 1970 | RelapseMeasured | `0` | `1` | New | The "Postdischarge Evaluation of Drinking Control" tracks each patient's drinking-adjustment category at 3, 6, and 12 months — directly measuring relapse over time. |
@@ -235,7 +241,6 @@ Independent adjudication of every per-study disagreement between the frozen hand
 | Garcia-Romeu 2015 | Outcome | `SOCQ: quitters 65.8 (2.8) vs 52.1 (7.9)` | `12/15 (80%) biologically verified 7-day point-prevalence smoking abstinence at 6-month follow-up (single-arm, descriptive rate carried over from the parent trial)` | Old | This secondary-analysis paper's own novel finding is the SOCQ mystical-experience comparison ("65.8 (2.8) vs 52.1 (7.9)...p=0.049"); the 80% abstinence figure is background carried over from the parent Johnson 2014 paper, not this paper's own analysis. |
 | Garcia-Romeu 2015 | SD | `t, df: 2.02, 40` | `None` | Old | Table 1 reports the SOCQ comparison as "(t, df) (2.02, 40)," matching Old and consistent with the Outcome decision above. |
 | Garcia-Romeu 2015 | Retention (%) | `0` | `100` | New | "Fifteen participants...were enrolled and completed the study" — no dropout, 100% retention; Old's 0 is unsupported. |
-| Garcia-Romeu 2015 | ConfoundYN | `3` | `1` | New | The abstainer-vs-smoker groups compared were defined post hoc by the outcome itself, which the authors flag as limiting causal interpretation — a genuine confound rather than "does not apply." |
 | Garcia-Romeu 2015 | InclusionExclusionCriteria | `0` | `1` | New | Participants "met minimum daily smoking criteria (≥10 cigarettes/day), who had multiple past unsuccessful quit attempts, and still desired to quit smoking" — explicit criteria are described. |
 | Garcia-Romeu 2015 | MethodologyDescribedYN | `1` | `0` | Old | Methods describe participants, procedures, and each measure (SOCQ, Mysticism Scale, HRS, personal-meaning ratings) in detail. |
 | Garcia-Romeu 2015 | BaseStatus | `None` | `Moderate` | Unclear | This article doesn't itself report an FTCD or other severity classification for the shared Johnson-et-al. cohort; "Moderate" appears inherited from the companion Johnson 2014 paper rather than independently stated here. |
@@ -243,7 +248,6 @@ Independent adjudication of every per-study disagreement between the frozen hand
 | Garcia-Romeu 2015 | PhysicalChangeMeasured | `0` | `1` | New | Breath CO and urine cotinine (biological smoking-abstinence biomarkers) were measured and correlated with outcomes (Table 3). |
 | Garcia-Romeu 2015 | MentalHealthChangeMeasured | `0` | `1` | Old | This paper's measures (SOCQ, Mysticism Scale, HRS, personal-meaning ratings) assess mystical/spiritual experience specifically, distinguishing it from the companion Johnson 2014 paper's use of the Wisconsin Smoking Withdrawal Scale. |
 | Johnson 2014 | Outcome | `80% abstience @ 6mo` | `12/15 (80%) biologically verified 7-day point-prevalence smoking abstinence at 6-month follow-up` | Equivalent | "12 of 15 (80%) participants showed seven-day point prevalence abstinence at 6-month follow-up." Same finding; New is more complete/precise, Old has a typo. |
-| Johnson 2014 | ConfoundYN | `0` | `1` | New | The open-label, uncontrolled design is itself an acknowledged confound, and participants "received substantially more contact with study staff" than comparator treatments — a further confound. |
 | Johnson 2014 | MethodologyDescribedYN | `1` | `0` | Old | Methods thoroughly document recruitment, inclusion/exclusion criteria, session procedures, CBT content, and measures. |
 | Johnson 2014 | BaseStatus | `1` | `Moderate` | New | Mean Fagerström Test for Cigarette Dependence score was "5.3 (1.3)" on a 0-10 scale, consistent with moderate dependence; Old's raw code "1" isn't interpretable against the text. |
 | Johnson 2014 | Age_Median | `51` | `50+` | Old | Table 1: "Age (years) Mean (SD) 51 (10.5), Range 26-65"; Old preserves the exact reported value. |
@@ -253,7 +257,6 @@ Independent adjudication of every per-study disagreement between the frozen hand
 | Johnson 2014 | Implementation Outcome | `None` | `0` | Unclear | The study's stated purpose was safety/feasibility, and completion data are discussed narratively, but no standardized implementation-outcome metric (fidelity, cost, adoption) is reported — unclear whether 0/1 is correct. |
 | Johnson 2016 | Outcome | `60% abstinent @ 30 mo` | `9/15 (60%) biologically verified (breath CO + urine cotinine + TLFB) smoking abstinence at long-term follow-up (mean 30 months post-TQD, range 16-57 months; single-arm, no comparator)` | Equivalent | "At long-term follow-up, nine participants (60%) were confirmed as smoking abstinent" (biologically verified, mean 30-month post-TQD, no control arm). Same core fact; New is substantially more complete. |
 | Johnson 2016 | Retention (%) | `0.8` | `80` | New | "Twelve (80%) returned for a long-term follow-up." Same fact as fraction vs percentage, but the field is labeled "Retention (%)" and downstream logic flags an "80% threshold" — encoding 0.8 risks miscategorization, so New's percentage-scale value is the practically correct entry. |
-| Johnson 2016 | ConfoundYN | `0` | `1` | New | Text explicitly flags selection bias: "participant self-selection bias may have played a role...as the study enrolled only individuals motivated to quit and willing to undergo a time-intensive experimental treatment for no monetary compensation." |
 | Johnson 2016 | MethodologyDescribedYN | `1` | `0` | Old | Clear Methods, Measures, and Data Analysis sections describing follow-up procedures, biomarkers, and statistical tests (deferring only original-treatment specifics to the companion 2014 paper). |
 | Johnson 2016 | BaseStatus | `None` | `Moderate` | Unclear | Raw baseline values (19 CPD, 31 years smoking, 6 prior quit attempts) are given, but no explicit severity category; assigning "Moderate" requires an external classification rule not shown in this text. |
 | Johnson 2016 | Age_Median | `51` | `50+` | Old | "a mean age of 51 years" (mean, not median). Old's precise "51" is a closer proxy than New's coarser bucket. |
@@ -284,7 +287,6 @@ Independent adjudication of every per-study disagreement between the frozen hand
 | D.C. Mash 2000 | Outcome | `BDI 16.86 to 2.29` | `1.69` | Old | Table 1: BDI Total Pre-ibogaine=16.86, 1-month follow-up=2.29 (F(3,18)=9.59, p=.0005), matching Old exactly. "1.69" corresponds to no value printed in the text. |
 | D.C. Mash 2000 | SampleSize_NFinal | `27` | `None` | Old | "Participants included 27 treatment-seeking opioid- and cocaine-dependent men and women" and "based on findings in only 27 subjects" — unambiguous final N. This is the BLOCK-flagged case; New's dropped value is an extraction error. |
 | D.C. Mash 2000 | SD | `F(3,18) = 9.59` | `F(3,24) = 81.38` | Old | Table 1 (BDI, matching the Outcome row) gives F(3,18)=9.59; F(3,24)=81.38 belongs to Table 2's opiate-craving "Intention to use" subscale, a different outcome. |
-| D.C. Mash 2000 | PVal | `0.0005` | `0.0001` | Old | Table 1 BDI result: p=.0005, pairing with the BDI Outcome/SD rows; p=.0001 belongs to the opiate-craving subscale. |
 | D.C. Mash 2000 | Power | `None` | `1` | Old | No power calculation appears anywhere; the Discussion instead flags the small N=27 as a limitation requiring future replication. |
 | D.C. Mash 2000 | BaseStatus | `Severe` | `None` | New | Only "clinically significant" depressive symptoms (BDI≥11) are stated at entry (mean BDI=16.86, mild/borderline range on standard cutoffs, not "severe"); no explicit severity classification is given. |
 | D.C. Mash 2000 | InterventionTherapy | `None` | `0` | New | Methods describe only pharmacological ibogaine treatment plus structured psychiatric/craving assessments; no adjunct psychotherapy modality is described. |
@@ -293,7 +295,6 @@ Independent adjudication of every per-study disagreement between the frozen hand
 | Jovaisa T 2006 | Ibogaine | `1` | `0` | New | The entire paper concerns ketamine as an NMDA-antagonist adjuvant to opiate-antagonist induction; ibogaine is never mentioned. Old's "1" is a miscode. |
 | Jovaisa T 2006 | Ketamine | `0` | `1` | New | Ketamine infusion is the study's sole intervention drug throughout; New's "1" is correct, Old's "0" is a miscode. |
 | Jovaisa T 2006 | SD | `SD = 13.8 (Control), 10.8 (Ketamine); 95% CI 9.9-24.4` | `None` | Old | Table 3, Peak MAP row: Control 96.6±13.8, Ketamine 79.4±10.8, 95% CI of difference 9.9-24.4 — exact verbatim match; New left the field blank. |
-| Jovaisa T 2006 | PVal | `<0.001` | `<0.05` | New | Paired with the Outcome decision: "difference between groups significant for hourly OOWS-A score, p<0.05." The <0.001 figure belongs to the Table 3 MAP comparison, a different secondary outcome. |
 | Jovaisa T 2006 | Power | `None` | `0` | New | No power calculation or sample-size justification appears in the Methods. |
 | Jovaisa T 2006 | Retention (%) | `86.2` | `77.6` | Unclear | Both are exact matches to different endpoints: "complete profiles...for 50 patients" of 58 = 86.2% (primary-analysis retention, Old), while "outcome data four months after...for 45 patients" of 58 = 77.6% (long-term follow-up retention, New). Text doesn't specify which checkpoint "retention" should reflect. |
 | Jovaisa T 2006 | MethodologyDescribedYN | `1` | `0` | Old | Methods provide a detailed, structured description of randomization, blinding, drug/anesthesia protocol, and statistical methods. |
@@ -301,12 +302,9 @@ Independent adjudication of every per-study disagreement between the frozen hand
 | Jovaisa T 2006 | RecruitmentRepresentYN | `1` | `0` | New | Eligibility was narrowly restricted (ages 18-35, ASA I-II, no comorbidities, excluded polysubstance abusers) — a highly selected, non-representative sample. |
 | Jovaisa T 2006 | MentalHealthChangeMeasured | `0` | `1` | New | The 4-month follow-up questionnaire (Addiction Severity Index-based) explicitly screened for "new onset of psychopathology or compulsive behavior." |
 | Krupitsky 2002 | Outcome | `Abstinence rate higher in high-dose group throughout 24mo (e.g., ~17% vs ~2% at 24mo, ~25% vs ~3% at 12mo from Fig. 1)` | `~50% vs ~60% relapsed by 3 months (high vs low dose)` | New | Discussion states verbatim: "Almost 50% of patients in the high dose group and 60% of subjects in the low dose group relapsed within the first 3 months after KPT." Old's percentages are visual estimates read off Fig. 1's graph, not stated in the running text. |
-| Krupitsky 2002 | PVal | `<0.01` | `<0.05` | Unclear | Fig. 1's legend marks significance at both "* p<.05" and "** p<.01" across different months of follow-up; the text gives no single overall p-value for the finding as a whole. |
 | Krupitsky 2002 | Power | `None` | `0` | New | No power calculation or sample-size justification appears in the Methods/Subjects sections. |
-| Krupitsky 2002 | ConfoundYN | `0` | `1` | Old | Double-blind, randomized, active-placebo-controlled design (both psychotherapist and subject blind to dose; independent blind rater) with exclusion of comorbid psychiatric/polydrug/alcohol dependence — a well-controlled design with low confounding risk. |
 | Krupitsky 2002 | PhysicalChangeMeasured | `0` | `1` | New | "The only side effect noted in all subjects was an acute increase in systolic and particularly diastolic blood pressure of 20-30% during the session" — an explicitly measured physical change. |
 | Krupitsky 2007 | Outcome | `50% vs 22.2% abstinence at 12mo` | `50% vs 22.2%` | Equivalent | "13 out of 26 subjects (50%)...remained abstinent, compared to 6 out of 27 subjects (22.2%)" at one-year follow-up. Same numbers; Old specifies the endpoint New omits. |
-| Krupitsky 2007 | PVal | `<0.01` | `<0.05` | New | "13 out of 26 participants (50%)...compared to six out of 27 participants (22.2%)...(p < 0.05)" — the paper reports p<0.05, not p<0.01, for this comparison. |
 | Krupitsky 2007 | Power | `None` | `0` | New | No power or sample-size calculation is described anywhere in the paper. |
 | Krupitsky 2007 | SocioeconomicStatusYN | `None` | `0` | New | No SES assessment is reported; "at least high school education" appears only as an inclusion criterion, not an outcome measure. |
 | Krupitsky 2007 | RecruitmentRepresentYN | `1` | `0` | New | A convenience sample screened from a single inpatient addiction hospital ("Out of 73 heroin-dependent patients screened, 59...were included"), with no representative/random sampling described. |
@@ -319,7 +317,6 @@ Independent adjudication of every per-study disagreement between the frozen hand
 | P.L. Prior 2014 | Outcome | `10% positive urine (ibogaine group)` | `Lower positive-urine (relapse) rate in the ibogaine group (corresponding to ~10% of the sample) vs the placebo group across the 24-week follow-up` | Equivalent | "indicating fewer relapses in the ibogaine group (corresponding to 10% of the sample) when compared with the placebo group" over 24 weeks. Same fact; New adds accurate comparator/timeframe context. |
 | P.L. Prior 2014 | SD | `F(3,12)=2.450` | `F(3,12) = 2.45` | Equivalent | "F=2,450; df=3,12" (European decimal notation) — same value, only rounding/formatting differs. |
 | P.L. Prior 2014 | Power | `None` | `0` | New | No power/sample-size calculation is reported for this 20-patient pilot study. |
-| P.L. Prior 2014 | ConfoundYN | `0` | `1` | New | Text explicitly reports baseline-comparability testing between groups ("no statistically significant differences...regarding age, demographic, ethnicity or physical comorbidities"), indicating confounding was assessed. |
 | P.L. Prior 2014 | BaseStatus | `Severe` | `None` | Unclear | Inclusion required only "self-reported use of cocaine at least once weekly for at least one month" — a relatively low severity bar — and no explicit categorical severity label is given anywhere. |
 | P.L. Prior 2014 | RecruitmentRepresentYN | `1` | `0` | New | Patients were recruited from a single municipal mental-health clinic in Santos, São Paulo — a convenience sample with no representative-sampling description. |
 | P.L. Prior 2014 | PhysicalChangeMeasured | `0` | `1` | New | Cardiac monitoring/ECGs every 6 hours during the 72-hour inpatient period plus hepatic/renal labs. |
@@ -327,7 +324,6 @@ Independent adjudication of every per-study disagreement between the frozen hand
 | Savage 1973 | Outcome | `9/36 (25%) vs 2/37 (5%) abstinent at 12 mo` | `25% vs 5% (9/36 vs 2/37) verified abstinent at 12-month follow-up` | Equivalent | "nine (25%) of the 36 subjects in the treatment group maintained total, verified abstinence...as opposed to two (5%) of 37 in the control group" — identical figures; New reflects the paper's "verified abstinence" language. |
 | Savage 1973 | SampleSize_NFinal | `74` | `73` | New | Table 1 shows N=74 total randomized, but the primary 12-month abstinence analysis uses "36 subjects in the treatment group" (not 37) vs 37 controls — one treatment patient died before the 12-month endpoint. The final analyzed sample is 36+37=73. |
 | Savage 1973 | SD | `chi-squared = 3.86` | `None` | Old | Table 3 gives χ²=3.86 for the (0-12 mo) abstinence comparison, exactly matching Old; New is blank. |
-| Savage 1973 | PVal | `0.05` | `<.05` | Equivalent | Table 3 prints "3.86 .05"; the narrative separately states "(P<.05; see Table 3)." Both text-supported, same result. |
 | Savage 1973 | Power | `None` | `0` | New | No a priori power or sample-size calculation is described in the Methods. |
 | Savage 1973 | HarmsAssessed | `0` | `1` | New | The paper reports on-treatment adverse psychological reactions ("panic, somatic complaints, and abreaction") and one on-study death (aortic stenosis). |
 | Savage 1973 | CulturalFraming | `0` | `1` | New | The treatment paradigm is explicitly framed around mystical/transcendental experience, with a full patient session narrative rich in spiritual/cosmic imagery presented as representative. |
@@ -335,3 +331,9 @@ Independent adjudication of every per-study disagreement between the frozen hand
 | Savage 1973 | ReductionMeasured | `1` | `0` | Old | The Global Adjustment Rating Scale explicitly incorporates graded drug-use extent in its anchor criteria (e.g., "chipping," "early heavy drug use, but now abstinent"), providing a degree-of-use measure beyond binary abstinence. |
 | Savage 1973 | MortalityMeasured | `0` | `1` | New | "One of the original 37 patients in the treatment group died...of aortic stenosis" — explicitly reported. |
 | Savage 1973 | SafetyReported vs old HarmsAssessed | `0.0` | `Y` | New | Consistent with the HarmsAssessed determination — narrative safety-relevant information (a death, reports of acute panic/abreaction) is present in the text. |
+
+---
+
+## Superseded rows (2026-09 coding-scheme revision)
+
+31 adjudication rows (11 `ConfoundYN`, 20 `PVal`) were retired when those columns were dropped from `clinical_master` — see `clinical_codebook.md` §11 and `clinical_system_design.md` §10. They are kept as history, not here (a table row in this file is live input to `apply_adjudication.py`, which parses every well-formed adjudication row regardless of heading, so an in-file archive still fed superseded corrections into the merge). The retired rows are at `archived/migration/superseded_adjudications_2026-09.md`. The **Totals** line above already excludes them.

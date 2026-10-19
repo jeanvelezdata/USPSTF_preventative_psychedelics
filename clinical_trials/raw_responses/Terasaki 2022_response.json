@@ -17,7 +17,6 @@
       "EligibilityFailedCriterion": "NA",
       "Outcome": 0.37,
       "SD": ".",
-      "PVal": 0.17,
       "SampleSize_NFinal": 30,
       "Pos Result Y/N": 0,
       "Clincial Trial YN": 1,
@@ -28,7 +27,9 @@
       "PrimaryCare": 0,
       "Power": 1,
       "Retention (%)": 50,
-      "ConfoundYN": 1,
+      "MediatingYN": 0,
+      "ModeratingYN": 0,
+      "HypothesisTestReportedYN": 1,
       "InclusionExclusionCriteria": 1,
       "ValidatedScaleMeasYN": 1,
       "MethodologyDescribedYN": 1,
@@ -640,7 +641,6 @@
     "article": {
       "Outcome": "Methods/Outcomes and the Abstract both explicitly designate 'the primary clinical outcome was 30-day, all-cause hospital readmission rate.' Of the two pairwise comparisons reported against the linkage-alone (LA) control (Results/'Primary clinical outcome'; Table 2), this record uses the ketamine (KET) vs LA comparison — RR = 0.37 (p = 0.17) — rather than the naltrexone (NTX) vs LA comparison (RR = 0.52), because naltrexone is not a psychedelic and sets no substance flag in this database; ketamine is the article's only psychedelic intervention, and the substance flags on this record (Ketamine=1 only) are scoped to it. Note: 30-day readmission is a healthcare-utilization outcome, not itself a classic SUD-behavior measure. The article's substance-use-specific data — baseline/follow-up TLFB drinking quantity and the post-hoc 'alcohol-related readmission' subclassification (Results, 'When analyzing alcohol-related readmissions post-hoc...') — are secondary/exploratory and underpowered (TLFB follow-up obtained from only 6/13 KET participants). Per the prompt's boundary-case rule ('trials whose only SUD outcome is secondary are eligible... Outcome is still the stated primary outcome's effect size'), EligibleYN=Y rests on these secondary SUD elements while Outcome is coded to the stated primary (readmission) effect size.",
       "SD": "No confidence interval, standard error, or chi-squared value is printed alongside the KET-vs-LA RR of 0.37; Table 2 and the Results text give only the RR point estimate and 'p=0.17'. The Statistical analysis section states relative risks were derived from chi-squared tests of independence, but no chi^2 statistic is printed for this specific 2-arm comparison. Coded '.' rather than back-computing an unreported statistic.",
-      "PVal": "Results/'Primary clinical outcome': 'Comparing the KET arm to the LA arm, the relative risk of readmission was 0.37 (p = 0.17)'; matches Table 2 ('RR to LA arm 0.3736' / 'p=0.17').",
       "SampleSize_NFinal": "Table 2 column headers give KET n=13 and LA n=17 for the readmission comparison (13+17=30). All 44 randomized participants had readmission ascertainable via EHR query with no loss to follow-up for this outcome (Methods/Statistical analysis: primary and secondary clinical outcomes 'did not require participant responses, so all participants were included in intent-to-treat analysis'), but the specific KET-vs-LA effect size excludes the 14 NTX-arm participants, giving a denominator of 30, not 44.",
       "MethodologyDescribedYN": {
         "criteria": {
@@ -669,7 +669,9 @@
       "RaceEthnicity_BIPOCPercent": "Table 1, All Arms (n=44) race breakdown: White/Caucasian 25 (56.8%), Black/African American 3 (6.8%), American Indian/Alaska Native 7 (15.9%), Multiple/Other 9 (20.5%). Non-white sum = 3+7+9 = 19/44 = 43.2%. Hispanic/Latinx ethnicity (15/44, 34.1%) is reported as a separate crosscutting category per the article's own table structure and is not added to the race-based BIPOC figure, consistent with the field rule that ethnicity crosses racial categories.",
       "Country_USvsNonUS": "Single US site: 'urban, academic, safety-net hospital' — Denver Health & Hospital Association, Denver, Colorado, USA (Author details).",
       "SocioeconomicStatusYN": "Coded 1: eligibility required 'public (e.g., Medicaid) or private insurance,' the site is explicitly a 'safety-net' hospital, and Table 1 reports housing status including 'not stably housed / unknown' for 38.6% of the sample — an explicit low-SES-relevant description.",
-      "ConfoundYN": "Coded 1: Discussion explicitly identifies and discusses baseline imbalances across arms as possible confounders despite randomization ('the linkage alone arm appeared to be more male, have higher baseline hospital utilization, and be less stably housed... these factors may have biased in favor of pharmacologic intervention'), and reports a post-hoc per-protocol sensitivity analysis adjusting for protocol deviations.",
+      "MediatingYN": "No formal mediation analysis (indirect-effect test, causal mediation model, Baron-and-Kenny sequence) was conducted in this study. The Discussion cites another paper (Rothberg et al., ref 43) that examined mediation in a different ketamine-AUD trial, but that is not an analysis of this study's own data. Coded 0.",
+      "ModeratingYN": "No interaction term or formal subgroup-by-treatment test was run. Post-hoc per-protocol and alcohol-relatedness analyses are alternative outcome definitions, not moderation/effect-modification tests. Coded 0.",
+      "HypothesisTestReportedYN": "The Statistical Analysis section states binary outcomes were compared via chi-squared test with RR effect sizes, and Results reports p=0.17 (KET vs LA) and p=0.27 (NTX vs LA) for the primary outcome. Coded 1.",
       "InterventionTherapy": "Coded 1: the KET arm received brief structured pre-infusion counseling (advice to focus on deep breathing and approach difficult experiences with curiosity, plus a standardized relaxation soundtrack) — preparatory support beyond bare drug administration. All arms also received 'enhanced linkage' to outpatient addiction care, which is a care-coordination component rather than psychotherapy itself; the pre-infusion counseling is the basis for coding 1.",
       "ReductionMeasured": "Coded 1: self-reported daily drinking quantity/frequency was captured at baseline via a modified Timeline Follow Back and re-assessed at the follow-up clinic visit (Methods/Outcomes; Results: 'Some data elements were re-assessed at the addiction clinic follow-up visit (including PHQ9, TLFB...)'), functioning as a partial-reduction-type drinking measure even though the low follow-up rate precluded robust analysis.",
       "CessationMeasured": "Coded 0: no abstinence/complete-cessation rate is reported as a distinct outcome; TLFB tracked drinking quantity/frequency (reduction-type), not an abstinence endpoint.",
@@ -677,7 +679,8 @@
       "Followup in months": "Longest reported outcome horizon is the 30-day all-cause readmission window (Methods/Outcomes), measured from hospital discharge (end of the single-dose intervention) = 1 month. No longer horizon is reported for this study's own data (the 3-month naltrexone retention figure cited in Discussion belongs to a different study, Busch et al.).",
       "ArmScope": "Coded 'psychedelic_arm.' Tables 5 and 6 report AE counts separately by arm (KET/NTX/LA); because naltrexone is not a psychedelic and this database's substance flags are scoped to the psychedelic intervention only (Ketamine=1), all ae_events and AE summary fields report KET-arm-only values, excluding NTX- and LA-only rows (e.g., an NTX-only injection-administration error with 'no ill effect' is not included in ae_events under this scope).",
       "AE_denominator": "Coded 13 = the full randomized/exposed KET arm, the broadest ketamine safety population. Sub-tables use smaller denominators for specific timepoints (Table 5 immediate symptom inquiry: n=12 of 13, one participant did not receive the intervention; Table 6 since-discharge PRISE: n=6 of 13, reflecting low follow-up attendance) — these are recorded in each ae_event's Description rather than collapsed into a single misleading denominator.",
-      "NParticipantsWithAE": "Coded '.': the article reports per-symptom counts at two different, partially overlapping KET sub-samples (n=12 immediate, n=6 follow-up) without a deduplicated count of unique KET participants experiencing at least one AE across both assessments, so this cannot be computed without fabricating a number."
+      "NParticipantsWithAE": "Coded '.': the article reports per-symptom counts at two different, partially overlapping KET sub-samples (n=12 immediate, n=6 follow-up) without a deduplicated count of unique KET participants experiencing at least one AE across both assessments, so this cannot be computed without fabricating a number.",
+      "SchemaRevisionNote": "2026-09-03 schema-revision splice: ConfoundYN/PVal removed, MediatingYN/ModeratingYN/HypothesisTestReportedYN added, sourced from a separate v3 extraction run (PromptVersion v1.3) rather than this file's own v1.2 run. Every other field in this file is unchanged from the original v1.2 extraction -- this file is now a hybrid of two runs for these 3 fields only. See clinical_adjudication.md '2026-09-03 -- Coding-scheme revision' for the full rationale."
     },
     "ae_events": {
       "Terasaki 2022_AE01": "Table 5 (treatment-emergent AEs immediately post-intervention, KET n=12): lightheadedness rated 'distressing' in 1/12 (8.3%) participants. No CTCAE grade, medical intervention, or duration is reported, so graded Mild by the rubric's under-specified-AE default.",

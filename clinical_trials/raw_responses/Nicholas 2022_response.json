@@ -17,7 +17,6 @@
       "EligibilityFailedCriterion": "NA",
       "Outcome": 0.45,
       "SD": "F(80, 1) = 4.20",
-      "PVal": 0.0436,
       "SampleSize_NFinal": 82,
       "Pos Result Y/N": 1,
       "Clincial Trial YN": 1,
@@ -28,7 +27,9 @@
       "PrimaryCare": 0,
       "Power": 1,
       "Retention (%)": 91.11,
-      "ConfoundYN": 1,
+      "MediatingYN": 0,
+      "ModeratingYN": 0,
+      "HypothesisTestReportedYN": 1,
       "InclusionExclusionCriteria": 1,
       "ValidatedScaleMeasYN": 1,
       "MethodologyDescribedYN": 0,
@@ -81,7 +82,6 @@
       "Citation/Title": "This article is a secondary/exploratory analysis of alcohol and substance-use outcomes drawn from the MAPS-sponsored Phase 3 MDMA-AT trial for severe PTSD. The parent trial, whose primary endpoint was CAPS-5 PTSD severity (not alcohol/substance use), is Mitchell, J.M. et al. (2021), 'MDMA-assisted therapy for severe PTSD: a randomized, double-blind, placebo-controlled phase 3 study,' Nat. Med. 27(6), 1025-1033, cited throughout Methods (§2.1) as the source of full study methods/protocol.",
       "Outcome": "No outcome is explicitly labeled 'primary' anywhere in the article; both AUDIT (alcohol) and DUDIT (drug) change scores are examined. Per the abstract-leads precedence rule, AUDIT is treated as this article's primary SUD outcome because the Abstract Results paragraph and §3.2 both lead with the AUDIT group difference before mentioning DUDIT, and AUDIT is the only one of the two that reached statistical significance. Value taken as the directly reported Hedges' g=.45 for the MDMA-AT vs Placebo+Therapy AUDIT change-score comparison (Abstract; Results §3.2).",
       "SD": "Paired with the Outcome value: the F-test reported alongside Hedge's g=.45 for the same AUDIT group difference, printed as 'F(80, 1)=4.20' in both the Abstract and Results §3.2. Reported exactly as printed (df order appears reversed from the conventional F(df_effect, df_error) form) rather than corrected, per the instruction not to construct a decoding theory for a number that looks off.",
-      "PVal": "p=0.0436, printed alongside the same AUDIT Hedge's g/F-test result in the Abstract and Results §3.2.",
       "SampleSize_NFinal": "N=82 (42 MDMA-AT, 40 Placebo+Therapy) is the number of participants with complete baseline and study-termination AUDIT/DUDIT data used in the reported AUDIT group comparison (§3.1: 'leaving a total of 82 participants that completed both baseline and study termination assessments...Participants with complete data were used in the present analysis').",
       "MethodologyDescribedYN": {
         "criteria": {
@@ -111,7 +111,8 @@
       "Followup in months": "Coded '.'. The article does not state a precise numeric interval between end of treatment and the 'study termination' AUDIT/DUDIT assessment point. The Discussion's phrase 'did not demonstrate increased risk...during and 2 months following treatment' describes the observation window for a safety-adjacent substance-use-risk claim, not an explicitly stated follow-up duration tied to the AUDIT/DUDIT primary comparison, so it was not used to avoid asserting an unstated number.",
       "Pos Result Y/N": "Coded 1, based on the unadjusted, statistically significant AUDIT group difference favoring MDMA-AT (Hedge's g=.45, F(80,1)=4.20, p=.0436; §3.2). Flagging that this effect was no longer statistically significant after adjusting for baseline AUDIT (p=.52), and that DUDIT (drug use) showed no significant group difference at any timepoint — this is a qualified/partial positive result on the article's own primary (AUDIT) outcome.",
       "InterventionTherapy": "Coded 1: each of the 3 MDMA/placebo dosing sessions was preceded by 3 90-minute preparatory therapy sessions and followed by 3 90-minute integration therapy sessions (§2.3), i.e., structured therapy well beyond drug administration alone.",
-      "RecruitmentRepresentYN": "Coded 0. Participants underwent extensive clinical screening (CAPS-5 threshold ≥35, MINI-assessed psychiatric/SUD exclusions, exclusion of any current SUD other than mild/early-remission-moderate alcohol or cannabis use disorder) typical of a highly screened trial-eligible volunteer sample rather than a real-world clinical or community population."
+      "RecruitmentRepresentYN": "Coded 0. Participants underwent extensive clinical screening (CAPS-5 threshold ≥35, MINI-assessed psychiatric/SUD exclusions, exclusion of any current SUD other than mild/early-remission-moderate alcohol or cannabis use disorder) typical of a highly screened trial-eligible volunteer sample rather than a real-world clinical or community population.",
+      "SchemaRevisionNote": "2026-09-03 schema-revision splice: ConfoundYN/PVal removed, MediatingYN/ModeratingYN/HypothesisTestReportedYN added, sourced from a separate v3 extraction run (PromptVersion v1.3) rather than this file's own v1.2 run. Every other field in this file is unchanged from the original v1.2 extraction -- this file is now a hybrid of two runs for these 3 fields only. See clinical_adjudication.md '2026-09-03 -- Coding-scheme revision' for the full rationale."
     },
     "ae_events": {},
     "config_proposal": {

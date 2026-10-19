@@ -44,7 +44,7 @@ CATEGORY_DISPLAY = {
     'small_positive':      'Small\nPositive',
     'moderate_positive':   'Moderate\nPositive',
     'large_positive':      'Large\nPositive',
-    'single_arm_positive': 'Positive\n(no comparator)',
+    'single_arm_positive': 'Single-arm\npositive',
     'unclassifiable':      'Unclas-\nsifiable',
 }
 
@@ -94,7 +94,7 @@ _SEP_COLOR = '#cccccc'
 
 plt.rcParams.update({
     'font.family':        'sans-serif',
-    'font.size':          9,
+    'font.size':          7,
     'axes.spines.top':    False,
     'axes.spines.right':  False,
     'axes.linewidth':     0.8,
@@ -205,9 +205,11 @@ def make_unified_cat_plot(out_path: Path) -> None:
 
     y_top  = n_rows + 1
 
-    row_h  = 0.32
-    fig_h  = max(7.0, row_h * n_rows + 3.6)
-    fig_w  = 14.0
+    # Drawn at final print size (Elsevier full-page width, 190 mm) so text
+    # stays >= 6.5 pt without downscaling.
+    row_h  = 0.19
+    fig_h  = max(3.5, row_h * n_rows + 1.5)
+    fig_w  = 7.48
 
     fig = plt.figure(figsize=(fig_w, fig_h), facecolor='white')
     gs  = fig.add_gridspec(1, 2, width_ratios=[2.5, 5.0], wspace=0.02)
@@ -223,7 +225,7 @@ def make_unified_cat_plot(out_path: Path) -> None:
 
     ax_lbl.set_xlim(0, 1)
     ax_cat.set_xlim(-0.55, n_cats - 0.45)
-    ax_lbl.set_ylim(0.2, y_top + 1.2)
+    ax_lbl.set_ylim(0.2, y_top + 1.6)
 
     # ── Category column backgrounds and vertical separators ────────────────────
     for cat in active_cats:
@@ -234,18 +236,18 @@ def make_unified_cat_plot(out_path: Path) -> None:
         ax_cat.axvline(x + 0.5, color='#c8c8c8', lw=0.6, zorder=1)
 
     # ── Column headers ─────────────────────────────────────────────────────────
-    hdr_y = y_top + 0.4
+    hdr_y = y_top + 0.55
     ax_lbl.text(0.04, hdr_y, 'Study', fontweight='bold',
-                va='center', ha='left', fontsize=10)
+                va='center', ha='left', fontsize=7.5)
     ax_lbl.text(0.96, hdr_y, 'N', fontweight='bold',
-                va='center', ha='right', fontsize=10)
+                va='center', ha='right', fontsize=7.5)
 
     for cat in active_cats:
         x = cat_x[cat]
         ax_cat.text(x, hdr_y, CATEGORY_DISPLAY[cat],
-                    va='center', ha='center', fontsize=8.5,
+                    va='center', ha='center', fontsize=6.5,
                     fontweight='bold', color='#2a2a2a',
-                    linespacing=1.3, multialignment='center')
+                    linespacing=1.1, multialignment='center')
 
     # Horizontal rule below column headers
     rule_y = y_top - 0.35
@@ -260,20 +262,20 @@ def make_unified_cat_plot(out_path: Path) -> None:
             for ax in (ax_lbl, ax_cat):
                 ax.axhspan(y - 0.48, y + 0.52, color=_COND_BG, zorder=0, lw=0)
             ax_lbl.plot([0.005, 0.005], [y - 0.48, y + 0.52],
-                        color=_COND_FG, lw=3.5, zorder=5,
+                        color=_COND_FG, lw=2.5, zorder=5,
                         solid_capstyle='butt', clip_on=False)
             ax_lbl.text(0.04, y, item['text'],
-                        fontweight='bold', fontsize=11,
+                        fontweight='bold', fontsize=8,
                         va='center', ha='left', color=_COND_FG)
 
         elif item['kind'] == 'substance_header':
             label_text = SUBSTANCE_DISPLAY.get(item['text'], item['text'])
             sub_color  = SUBSTANCE_COLORS.get(item['text'], _SUB_FG)
-            ax_lbl.scatter([0.045], [y], s=36, color=sub_color,
+            ax_lbl.scatter([0.045], [y], s=14, color=sub_color,
                            marker='s', zorder=3)
             ax_lbl.text(0.10, y, label_text,
                         fontweight='bold', fontstyle='italic',
-                        fontsize=9.5, va='center', ha='left', color=_SUB_FG)
+                        fontsize=7, va='center', ha='left', color=_SUB_FG)
             ax_cat.axhline(y - 0.5, color=_SEP_COLOR, lw=0.4, zorder=0)
 
         elif item['kind'] == 'spacer':
@@ -285,22 +287,22 @@ def make_unified_cat_plot(out_path: Path) -> None:
             x   = cat_x.get(cat, n_cats - 1)
             color = SUBSTANCE_COLORS.get(str(r['substance']), '#444444')
 
-            ax_cat.scatter(x, y, s=95, color=color,
-                           edgecolors='white', linewidths=0.8, zorder=3)
+            ax_cat.scatter(x, y, s=30, color=color,
+                           edgecolors='white', linewidths=0.5, zorder=3)
 
             ax_lbl.text(0.14, y, r['study'],
-                        va='center', ha='left', fontsize=9)
+                        va='center', ha='left', fontsize=7)
 
             n_val = r['N']
             if n_val is not None and not (isinstance(n_val, float) and np.isnan(n_val)):
                 ax_lbl.text(0.96, y, str(int(n_val)),
-                            va='center', ha='right', fontsize=9)
+                            va='center', ha='right', fontsize=7)
 
-            # OR annotation below the dot (where available)
+            # OR annotation beside the dot (where available)
             or_val = r.get('computed_or')
             if or_val is not None and not (isinstance(or_val, float) and np.isnan(or_val)):
-                ax_cat.text(x, y - 0.24, f"OR={or_val:.2f}",
-                            va='top', ha='center', fontsize=6.5,
+                ax_cat.text(x + 0.1, y, f"OR={or_val:.2f}",
+                            va='center', ha='left', fontsize=6,
                             color='#555555', style='italic')
 
     # ── Legend ────────────────────────────────────────────────────────────────
@@ -317,35 +319,25 @@ def make_unified_cat_plot(out_path: Path) -> None:
     ]
 
     n_legend_rows = max(1, (len(sub_handles) + 4) // 5)
-    bottom_pad    = max(0.10, (1.3 + 0.30 * n_legend_rows) / fig_h)
-    fig.subplots_adjust(top=0.965, bottom=bottom_pad, left=0.02, right=0.99)
+    bottom_pad    = max(0.06, (0.35 + 0.16 * n_legend_rows) / fig_h)
+    fig.subplots_adjust(top=0.99, bottom=bottom_pad, left=0.02, right=0.99)
 
     fig.legend(
         handles=sub_handles,
         loc='lower center', bbox_to_anchor=(0.5, 0.0),
         ncol=min(5, len(sub_handles)),
-        fontsize=8.5, framealpha=0.95, edgecolor='#bbbbbb',
-        columnspacing=1.2, handlelength=1.5,
+        fontsize=7, framealpha=0.95, edgecolor='#bbbbbb',
+        columnspacing=1.0, handlelength=1.3,
     )
 
-    # ── Title and subtitle ─────────────────────────────────────────────────────
-    fig.suptitle(
-        "Tier 2 Qualitative Classification: Psychedelic-Assisted Therapies "
-        "for Substance Use Disorders",
-        fontsize=12, fontweight='bold', y=0.995, va='top',
-    )
-    fig.text(
-        0.5, 0.985,
-        "Thresholds: small = OR < 1.5 or g < 0.5;  "
-        "moderate = OR 1.5–3 or g 0.5–0.8;  "
-        "large = OR ≥ 3 or g ≥ 0.8",
-        ha='center', va='top', fontsize=8.0,
-        color='#555555', style='italic',
-    )
+    # No in-image title or subtitle: the journal carries these in the figure
+    # caption, including the magnitude thresholds (small = OR < 1.5 or
+    # g < 0.5; moderate = OR 1.5-3 or g 0.5-0.8; large = OR >= 3 or g >= 0.8).
 
     # ── Save ──────────────────────────────────────────────────────────────────
     out_path.parent.mkdir(parents=True, exist_ok=True)
     fig.savefig(out_path, dpi=300, bbox_inches='tight', facecolor='white')
+    fig.savefig(out_path.with_suffix('.pdf'), bbox_inches='tight', facecolor='white')
     plt.close(fig)
     print(f"Unified Tier 2 cat plot written to: {out_path}")
 

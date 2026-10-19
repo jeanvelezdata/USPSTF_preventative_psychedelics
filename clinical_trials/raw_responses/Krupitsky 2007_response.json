@@ -17,7 +17,6 @@
       "EligibilityFailedCriterion": "NA",
       "Outcome": "50% vs 22.2%",
       "SD": ".",
-      "PVal": "<0.05",
       "SampleSize_NFinal": 53,
       "Pos Result Y/N": 1,
       "Clincial Trial YN": 1,
@@ -28,7 +27,9 @@
       "PrimaryCare": 0,
       "Power": 0,
       "Retention (%)": 79.2,
-      "ConfoundYN": 1,
+      "MediatingYN": 0,
+      "ModeratingYN": 0,
+      "HypothesisTestReportedYN": 1,
       "InclusionExclusionCriteria": 1,
       "ValidatedScaleMeasYN": 1,
       "MethodologyDescribedYN": 1,
@@ -94,7 +95,6 @@
     "article": {
       "Outcome": "Primary outcome per Methods ('the rate of abstinence was considered the primary outcome variable') and Results ('Retention in Treatment and Abstinence Rate'): 13/26 (50%) abstinent at 1-year follow-up in the multiple-KPT group vs 6/27 (22.2%) in the single-KPT group. Reported as two-group proportions because no single numeric effect-size statistic accompanies this comparison.",
       "SD": "No dispersion or test-statistic value is printed for the abstinence-rate comparison itself; the Kaplan-Meier survival analysis is described narratively only. Figure 1's caption shows 'P<O.Ol' (read as P<0.01) for the overall survival curve while the text reports '(p < 0.05)' for the same endpoint (13/26 vs 6/27) — an internal inconsistency, flagged rather than silently reconciled per the non-fabrication rule. Coded '.' since no statistic (e.g., a log-rank value with df) accompanies either p-value.",
-      "PVal": "Text states '(p < 0.05)' immediately after reporting 13/26 (50%) vs 6/27 (22.2%) abstinence (Results). Figure 1's caption instead prints a discrepant 'P<0.01' for what appears to be the same survival comparison. Recorded the text's threshold, '<0.05', since it is directly attached to the proportions used for Outcome; the figure's discrepant value is noted here, not resolved or averaged.",
       "SampleSize_NFinal": "53 = 26 (multiple-KPT) + 27 (single-KPT), the full randomized cohort analyzed for the 1-year abstinence comparison (Results). The 6 participants who relapsed and dropped out before randomization (after the first, pre-randomization KPT session) are excluded from this N; participants who later relapsed/dropped out within the randomized groups remain in the 26/27 denominators as treatment failures, consistent with the survival-analysis framing.",
       "MethodologyDescribedYN": {
         "criteria": {
@@ -108,7 +108,8 @@
       },
       "Comparator": "Both arms received active ketamine-assisted psychotherapy; the comparison is a session-frequency (dose-analogous) design — one KPT session vs. three monthly KPT sessions — not a placebo or no-treatment control (Design). Per codebook, a dose-comparison design counts as Comparator = 1.",
       "BaseStatus": "No explicit mild/moderate/severe label is given. Coded 'Severe' as a clearly inferable judgment: participants were hospitalized inpatients undergoing detoxification for ICD-10/DSM-IV heroin dependence present ≥1 year, with mean dependence duration 38.8±30.4 months (Participants) — a chronic, hospitalization-requiring presentation.",
-      "ConfoundYN": "Authors explicitly compared the randomized groups on age, duration of heroin abuse, and gender and reported 'no statistically significant differences' (Results) — a substantive discussion/check of potential confounders across arms, though not a statistical adjustment within the outcome model.",
+      "MediatingYN": "No formal mediation analysis (indirect-effect test, Baron-and-Kenny sequence, causal mediation model) is reported. The Discussion narratively speculates the abstinence-rate difference 'is at least partly due to factors not measured in this study' (the 'afterglow' construct) and separately notes the measured psychometric scales (ZDS, SAS, VASC, PLT) showed no between-group differences — i.e., candidate mediators were measured and discussed but never formally tested as mediators. Coded 0, not 3, because mediator-candidate variables were in fact measured.",
+      "ModeratingYN": "No interaction term or subgroup-by-treatment interaction test is reported. Baseline comparability (age, duration of heroin use, sex) is checked between arms but only as a balance check, not a treatment-effect-modification test. Coded 0, not 3, because candidate moderators (age, sex, duration of use) were measured.",
       "RecruitmentRepresentYN": "Recruited from a real inpatient addiction-treatment hospital (Participants: 'Leningrad Regional Center of Addictions, a 300-bed hospital'), but extensive exclusion criteria (psychiatric comorbidity, other SUDs, significant medical illness, pending legal charges, concurrent treatment elsewhere) screened out a substantial share of the eligible clinical population (73 screened, 59 enrolled), so coded 0.",
       "Retention (%)": "42/53 completed the assigned treatment protocol: 4/26 (15.4%) dropped from the multiple-KPT group after session 2, and 7/27 (25.9%) dropped from the single-KPT group after the first counseling session (Results). 42/53 x 100 = 79.2%. Denominator is the randomized N (53) per rule. This value falls within 2 points of 80, per the prompt's explicit flag requirement.",
       "PercentFem": "10 females of 59 enrolled (Participants: '49 males and 10 females') = 16.9%.",
@@ -116,7 +117,8 @@
       "ReductionMeasured": "Substance-use outcomes are reported as binary abstinent/relapsed via physical exam, urine screens and TLFB (Treatment Assessment; Results); no distinct partial-reduction or harm-reduction endpoint separate from abstinence/relapse/cessation is reported.",
       "Country_USvsNonUS": "St. Petersburg / Leningrad Region, Russia (Participants; author affiliations).",
       "NParticipantsWithAE / AE_denominator": "Side Effects section states the blood-pressure increase was 'noted in all participants' without giving a separate numeric safety-population count. Interpreted as the full enrolled cohort who received at least one ketamine session (n=59), since this side effect was observed before the post-first-session randomization split. Flagged as an inference from 'all participants' rather than an explicitly printed count.",
-      "ArmScope": "All 59 enrolled participants received at least one ketamine session before randomization, and the reported blood-pressure effect is described for 'all participants' with no non-exposed comparator arm anywhere in the study (both randomized groups are ketamine-exposed); coded psychedelic_arm."
+      "ArmScope": "All 59 enrolled participants received at least one ketamine session before randomization, and the reported blood-pressure effect is described for 'all participants' with no non-exposed comparator arm anywhere in the study (both randomized groups are ketamine-exposed); coded psychedelic_arm.",
+      "SchemaRevisionNote": "2026-09-03 schema-revision splice: ConfoundYN/PVal removed, MediatingYN/ModeratingYN/HypothesisTestReportedYN added, sourced from a separate v3 extraction run (PromptVersion v1.3) rather than this file's own v1.2 run. Every other field in this file is unchanged from the original v1.2 extraction -- this file is now a hybrid of two runs for these 3 fields only. See clinical_adjudication.md '2026-09-03 -- Coding-scheme revision' for the full rationale."
     },
     "ae_events": {
       "Krupitsky 2007_AE01": "Acute systolic/diastolic BP elevation (20-30%) during ketamine dosing is described as transient and occurring only during the session, with no mention of pharmacological intervention or persistence beyond the dosing period (Side Effects: 'An anesthesiologist was available throughout all ketamine sessions to treat any possible complications' — standby only, not used for this event). Graded Mild per the rubric's explicit 'transient mild BP/HR elevation' example; SeverityIndeterminate = N because the magnitude, timing, and absence of intervention are all stated. SeveritySource = rubric because the authors did not assign a CTCAE grade or SAE label to this event. NAffected = 59 reflects the article's 'noted in all participants' language, interpreted as the full ketamine-exposed enrolled cohort (see AE_denominator rationale above); this is an inference, not a printed count."

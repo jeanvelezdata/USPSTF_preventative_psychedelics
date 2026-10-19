@@ -17,7 +17,6 @@
       "EligibilityFailedCriterion": "NA",
       "Outcome": "46/61 (75.4%) alcoholics much improved or improved",
       "SD": ".",
-      "PVal": ".",
       "SampleSize_NFinal": 61,
       "Pos Result Y/N": 1,
       "Clincial Trial YN": 1,
@@ -28,7 +27,9 @@
       "PrimaryCare": 0,
       "Power": 0,
       "Retention (%)": 100,
-      "ConfoundYN": 1,
+      "MediatingYN": 0,
+      "ModeratingYN": 0,
+      "HypothesisTestReportedYN": 0,
       "InclusionExclusionCriteria": 0,
       "ValidatedScaleMeasYN": 0,
       "MethodologyDescribedYN": 0,
@@ -159,7 +160,6 @@
     "article": {
       "Outcome": "Primary and only reported outcome is the composite improvement rating (much improved / improved / unchanged) for the alcoholic subgroup, which for alcoholics is explicitly anchored to abstinence or reduced drinking versus the prior 12 months (Evaluation section; Table 1-A 'Totals' row). 30 much improved + 16 improved = 46/61 (75.4%) vs 15/61 (24.6%) unchanged. No other primary endpoint is designated anywhere in the article. Note: the 'Composite Totals' row at the foot of Table 1 (68 M / 34 F) is arithmetically inconsistent with the sum of the A and B subgroup totals (50+16=66 M), likely an OCR/print artifact in the source table; it was not used because the alcoholic-only subgroup total (61) is internally self-consistent (50 M + 11 F = 61; 30+16+15 = 61) and is the correct population for this Alcohol-condition extraction.",
       "SD": "No dispersion or test statistic is reported anywhere in the article for the improvement-rate outcome; results are purely descriptive counts with no significance testing performed. Coded '.'.",
-      "PVal": "No p-value is reported for the treatment outcome anywhere in the article (Results, Summary, or Discussion). Coded '.'.",
       "SampleSize_NFinal": "61 — the alcoholic subgroup (Table 1-A Totals: 50 M + 11 F = 61), not the full 100-patient series (61 alcoholics + 39 non-alcoholics with other psychiatric disabilities). Outcome is drawn from the alcoholic subgroup's own results table since Condition = Alcohol. All 61 are accounted for across the three outcome categories (30+16+15=61), so no further attrition adjustment was needed.",
       "MethodologyDescribedYN": {
         "criteria": {
@@ -176,7 +176,9 @@
       "Double+Blind": "Coded 0, consistent with BlindingYN=0.",
       "Comparator": "Coded 0, not 3. No control or comparison arm exists; all 100 patients received the same LSD-25 protocol.",
       "Retention (%)": "Coded 100. Study is not randomized, so the denominator is the enrolled/treated alcoholic subgroup (61). All 61 are accounted for within the three outcome categories in Table 1-A (30+16+15=61), implying no attrition from the reported analysis. Not stated explicitly as a retention percentage by the authors — inferred from the completeness of Table 1-A.",
-      "ConfoundYN": "Coded 1. Outcomes are stratified by diagnostic subgroup throughout (Table 1, Results, Discussion — e.g., differential response noted for 'sociopathic disturbance' vs 'personality trait disturbance' vs 'addiction with chronic brain damage'), substantively addressing diagnosis as a factor related to outcome, though no formal statistical adjustment for other covariates (age, sex, dose) is reported.",
+      "MediatingYN": "No formal mediation analysis was conducted. The Discussion offers a narrative mechanistic account (insight/expanded awareness as 'the therapeutic vehicle') with no measured intermediate variable tested against outcome; the Results section explicitly states 'data dealing with factors...which may influence treatment, prognosis, etc., have not as yet been analyzed, but will be reported later,' confirming no formal test was run in this article.",
+      "ModeratingYN": "Outcomes are broken out by diagnostic subgroup (Table 1A/1B, e.g. 'addiction with chronic brain damage' showing no improvement vs. 'personality trait disturbances' responding well) but no interaction test or formal effect-modification analysis is reported — subgroup results are simply presented side by side, matching the 0 (not 1) rule for descriptive subgroup reporting.",
+      "HypothesisTestReportedYN": "No p-value, confidence interval, named test statistic, or explicit significance-language claim appears anywhere in the article for the improvement outcome; results are reported purely as raw counts/percentages per diagnostic subgroup. Coded 0 rather than 3 because a pre/post (vs. prior-12-month drinking) comparison is being made, just never tested inferentially.",
       "InclusionExclusionCriteria": "Coded 0. The Sample section describes characteristics of the 61 selected alcoholics post hoc (delirium tremens history, prior AA failure, years of uncontrolled drinking) but never states a priori inclusion or exclusion criteria used to select the 61 from the 492 total admissions.",
       "ValidatedScaleMeasYN": "Coded 0. The Blewett Psychedelic Scales (A and B) assess the character of the psychedelic experience itself, not a validated clinical or substance-use outcome measure; the composite improvement rating (much improved/improved/unchanged) is an author-devised clinical rating, not a published/validated instrument.",
       "PhysicalChangeMeasured": "Coded 0. 'Clinical examination, including certain blood chemistry studies' was collected as pretreatment/baseline data (Collection of Data, section A.3), but the authors explicitly defer these findings 'to be discussed in another paper' and report no physical/biological change outcome within this article.",
@@ -188,7 +190,8 @@
       "EligibilityNote": "NA — EligibleYN = 'Y'.",
       "EligibilityFailedCriterion": "NA — EligibleYN = 'Y'.",
       "AE_denominator": "Coded 'Not numbered'. No explicit safety-population size is stated in the Side Effects paragraph; the implied denominator is the full treated series (N=100), but this figure is never restated numerically alongside the side-effect descriptions.",
-      "NParticipantsWithAE": "Coded '.'. No aggregate count of patients experiencing at least one side effect is given; only a general 'typical side effects' statement and four illustrative case narratives are provided."
+      "NParticipantsWithAE": "Coded '.'. No aggregate count of patients experiencing at least one side effect is given; only a general 'typical side effects' statement and four illustrative case narratives are provided.",
+      "SchemaRevisionNote": "2026-09-03 schema-revision splice: ConfoundYN/PVal removed, MediatingYN/ModeratingYN/HypothesisTestReportedYN added, sourced from a separate v3 extraction run (PromptVersion v1.3) rather than this file's own v1.2 run. Every other field in this file is unchanged from the original v1.2 extraction -- this file is now a hybrid of two runs for these 3 fields only. See clinical_adjudication.md '2026-09-03 -- Coding-scheme revision' for the full rationale."
     },
     "ae_events": {
       "MacLean 1961_AE01": "Onset 'in-session': occurs 1/2-2 hours after 8:20 AM dosing, within the session day (session runs through the afternoon). Severity 'Mild' via rubric (transient, expected, no intervention described); authors gave no severity adjective for nausea specifically, unlike 'mild headache' and 'mild gastric distress'.",

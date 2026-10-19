@@ -17,7 +17,7 @@ registering it in inputs/manifest.csv:
 
 Markdown is the default tier because headings locate eight of the fourteen
 MethodologyDescribedYN criteria and the SafetyReported gate, and because pipe
-tables keep Outcome / SD / PVal / SampleSize_NFinal attached to their labels.
+tables keep Outcome / SD / SampleSize_NFinal attached to their labels.
 An article that fails any fidelity check is demoted to plain text rather than
 partially accepted — a collapsed table looks structured while silently
 re-associating numbers with the wrong row.

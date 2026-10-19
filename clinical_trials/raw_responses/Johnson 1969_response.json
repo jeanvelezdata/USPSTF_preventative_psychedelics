@@ -14,7 +14,6 @@
       "Temperature": 1,
       "Outcome": ".",
       "SD": ".",
-      "PVal": "NS",
       "SampleSize_NFinal": ".",
       "Pos Result Y/N": 0,
       "Clincial Trial YN": 1,
@@ -25,7 +24,9 @@
       "PrimaryCare": 0,
       "Power": 0,
       "Retention (%)": 87,
-      "ConfoundYN": 1,
+      "MediatingYN": 0,
+      "ModeratingYN": 0,
+      "HypothesisTestReportedYN": 1,
       "InclusionExclusionCriteria": 1,
       "ValidatedScaleMeasYN": 0,
       "MethodologyDescribedYN": 0,
@@ -80,7 +81,6 @@
     "article": {
       "Outcome": "Table 4 gives two columns per criterion: pre/post significance 'taken across all treatment groups' and 'differences between treatment groups.' The primary hypothesis under test is whether LSD outperformed the other three arms, so the relevant comparison is the between-groups column, not the pooled pre/post column. Abstinence is the first-listed and most directly SUD-specific criterion in Table 4 and is treated as the primary outcome per the abstract's lead ('drinking'). No F-value, mean difference, or other magnitude statistic is given for the between-groups comparison anywhere in the article -- only the label 'NS' -- so no numeric or labelled-descriptor value exists to report and Outcome is coded '.'.",
       "SD": "No test statistic (F, t, chi-square) or dispersion value is reported for the between-groups Abstinence comparison; Table 4 shows only the qualitative tag 'NS' for that cell with no accompanying number or df. Coded '.'.",
-      "PVal": "Table 4, 'Differences between treatment groups' row for Abstinence (and every other criterion) is printed literally as 'NS', with no numeric p-value given anywhere for the between-groups test. Recorded verbatim per the non-negotiable rule against converting NS to a number or threshold.",
       "SampleSize_NFinal": "Results state '[e]ighty-seven percent of the subjects in groups 1 to 4 were successfully followed up' (of 95 total), and this followed-up group is the one whose pre/post responses were compared via repeated-measures ANOVA. 87% of 95 = 82.65, which is not a clean integer, and the article never states the exact analyzed N or how non-integer attrition was handled. Rather than guess between 82 and 83, this is coded '.' per the instruction that an honest '.' is preferable to a fabricated number.",
       "MethodologyDescribedYN": {
         "criteria": {
@@ -95,7 +95,9 @@
       "BaseStatus": "The article reports 'years of problem drinking' (mean 8.15) and describes patients as clinic-referred alcoholics, some of 'skid row' background, but gives no explicit severity classification (e.g., no AUD severity score, no clinician-rated severity). Coded '.' rather than guessing a band.",
       "RaceEthnicity_BIPOCPercent": "Article reports no race or ethnicity data anywhere. Coded '.'.",
       "Country_USvsNonUS": "Study conducted at the London Clinic, Alcoholism and Drug Addiction Research Foundation, London, Ontario, Canada. Coded 'NonUS'.",
-      "ConfoundYN": "Authors report a chi-square comparison of the four final groups on age, sex, referral source, severity of drinking, marital status, education, employment, and accommodation to establish baseline homogeneity -- a substantive assessment of potential confounders across arms. Coded 1.",
+      "MediatingYN": "Discussion speculates that improvement may reflect 'some nonspecific effect of the hospital drug experience' or a shared 'neurophysiological mechanism' of affective discharge, but this is narrative speculation with no formal indirect-effect test, causal mediation model, or Baron-and-Kenny-style regression sequence conducted. Coded 0, not 1.",
+      "ModeratingYN": "Groups 1 (LSD, no therapist) and 2 (LSD, with therapist) function as a built-in therapist-presence comparison, but it is tested only via the same overall between-groups ANOVA/chi-square design used for all four arms — no distinct interaction term, subgroup-by-treatment interaction test, or stratified effect-modification analysis is reported. Coded 0, not 1.",
+      "HypothesisTestReportedYN": "Table 4 reports explicit inferential significance categories for the primary drinking/abstinence comparison (p<.01 within-group; NS between-group), which is an inferential signal for the primary outcome even though no accompanying F/t/chi-square statistic is given (that absence is instead reflected in SD='.').",
       "PrimaryCare": "No aspect of recruitment, intervention delivery, or follow-up is described as occurring through primary-care settings or providers; the study is entirely clinic/hospital-based. Coded 0.",
       "ValidatedScaleMeasYN": "Table 3 lists baseline psychometrics (Differential Personality Inventory, Quick/IQ Test, Hidden Figures Test, Straus-Bacon Social Stability Index) used to characterize the sample at intake, not as pre/post outcome measures. The actual outcome criteria in Table 4 (abstinence, drinking practices, consequences, attitudes, employment, accommodation, social relations, marital status) are drawn from the clinic's own intake/follow-up questionnaire, not a named validated instrument. Coded 0.",
       "SocioeconomicStatusYN": "Text explicitly describes the clinic population as drawn 'largely from a lower- to middle-class population' and Table 3 reports a quantified 'Social class' variable (mean 3.53, SD 0.93). Coded 1.",
@@ -108,7 +110,8 @@
       "Pos Result Y/N": "All four groups, including the LSD arms, improved significantly pre-to-post on most drinking indices, but the ANOVA between-groups comparison was NS on every criterion (Table 4) -- the study's own conclusion is that LSD conferred 'no evident advantages over more conventional modes of therapy' and 'lends no support to the claims made for the efficacy of LSD treatment.' Coded 0 (null/negative) because the relevant test is the LSD-vs-comparator difference, which was null.",
       "PercentFem": "Table 3: Male 87, Female 8, total 95. 8/95 x 100 = 8.42.",
       "Followup in months": "Text states a 'one-year follow-up' made 'as close to the 12-month mark as possible' from the patient's entry into the scheme. Treatment (a single hospital session) occurred shortly after intake, so the entry-based and end-of-treatment horizons do not differ materially here. Coded 12.",
-      "EligibleYN": "(a) Prospectively planned trial: 95 patients enrolled under a defined protocol, randomly assigned to 4 arms, with prospective 12-month outcome assessment -- passes. (b) SUD outcome reported: abstinence, drinking practices, consequences of drinking, and attitudes toward drinking are all explicitly measured pre/post -- passes. Both criteria met, EligibleYN='Y'."
+      "EligibleYN": "(a) Prospectively planned trial: 95 patients enrolled under a defined protocol, randomly assigned to 4 arms, with prospective 12-month outcome assessment -- passes. (b) SUD outcome reported: abstinence, drinking practices, consequences of drinking, and attitudes toward drinking are all explicitly measured pre/post -- passes. Both criteria met, EligibleYN='Y'.",
+      "SchemaRevisionNote": "2026-09-03 schema-revision splice: ConfoundYN/PVal removed, MediatingYN/ModeratingYN/HypothesisTestReportedYN added, sourced from a separate v3 extraction run (PromptVersion v1.3) rather than this file's own v1.2 run. Every other field in this file is unchanged from the original v1.2 extraction -- this file is now a hybrid of two runs for these 3 fields only. See clinical_adjudication.md '2026-09-03 -- Coding-scheme revision' for the full rationale."
     },
     "ae_events": {},
     "config_proposal": {

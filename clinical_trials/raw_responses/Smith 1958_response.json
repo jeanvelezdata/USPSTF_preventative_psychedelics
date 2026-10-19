@@ -17,7 +17,6 @@
       "Temperature": 1,
       "Outcome": "50% improved (12/24: 6 much improved + 6 improved; 12 unchanged)",
       "SD": ".",
-      "PVal": ".",
       "SampleSize_NFinal": 24,
       "Pos Result Y/N": 1,
       "Clincial Trial YN": 1,
@@ -28,7 +27,9 @@
       "PrimaryCare": 0,
       "Power": 0,
       "Retention (%)": 100,
-      "ConfoundYN": 1,
+      "MediatingYN": 0,
+      "ModeratingYN": 0,
+      "HypothesisTestReportedYN": 0,
       "InclusionExclusionCriteria": 1,
       "ValidatedScaleMeasYN": 0,
       "MethodologyDescribedYN": 0,
@@ -146,7 +147,6 @@
     "article": {
       "Outcome": "No test statistic is reported anywhere in the article; treatment response is reported only as counts in three ordered clinical categories (Table 1/Table 2 and Summary): 6 much improved, 6 improved, 12 unchanged, 0 worse, out of 24. This is the article's sole, stated primary outcome (drinking response) with no comparator, so it is coded as a single-arm improvement rate: 12/24 (50%) improved or better.",
       "SD": "No dispersion measure or test statistic (SD, SE, F, t, chi-squared) is reported anywhere for the treatment-response outcome; the article is purely descriptive/tabular.",
-      "PVal": "No p-value or significance threshold is reported anywhere in the article; results are presented as raw counts by diagnostic category with no inferential test.",
       "SampleSize_NFinal": "All 24 enrolled patients were followed up ('A follow-up investigation was carried out on all the patients') and all 24 appear in the Table 1/Table 2 results, so N analyzed = N enrolled = 24.",
       "MethodologyDescribedYN": {
         "criteria": {
@@ -168,7 +168,9 @@
       "PrimaryCare": "All care occurred in an inpatient psychiatric/university hospital research setting with follow-up through Alcoholics Anonymous and a provincial alcoholism bureau; no interface with primary-care providers or settings is described.",
       "Power": "No a priori or post hoc power discussion of any kind appears; the article is explicitly framed as a preliminary/pilot study without any sample-size justification.",
       "Retention (%)": "Not randomized, so the denominator is the enrolled N (24). The article states follow-up was obtained on 'all the patients,' i.e., 24/24 completers = 100%.",
-      "ConfoundYN": "The authors substantively discuss confounding by diagnostic subgroup (Table 2 breaks results out by character disorder/psychopathy/psychosis) and explicitly flag a confound in the one psychotic patient who also received ECT ('difficult to know whether the mescaline produced any real benefit'), so coded 1.",
+      "MediatingYN": "No formal mediation analysis (indirect-effect test, causal mediation model, Baron-and-Kenny-style regression sequence) is conducted anywhere. The Discussion narratively observes that 'those patients who had an intense reaction did better than those having a mild one' — a candidate intermediate variable (drug-reaction intensity, which is measured per-patient in Table 1) discussed as possibly explaining outcome, but with no formal test of the indirect pathway. Per the rule that a narrative 'may explain' claim with no test run is 0, not 1, and since a candidate mediator (reaction intensity) actually was measured (ruling out 3), coded 0.",
+      "ModeratingYN": "No interaction term or formal effect-modification test is reported. Table 2 reports drinking-outcome results side by side by diagnostic category (character disorder / psychopathy / psychosis) — a candidate moderator that was measured — but this is a stratified presentation of results, not a formal moderation/interaction analysis. Per the rule that subgroup results reported side by side with no interaction test are 0, not 1, and since a candidate moderator (diagnosis) was measured (ruling out 3), coded 0.",
+      "HypothesisTestReportedYN": "The primary outcome (drinking-response classification) is reported purely descriptively throughout — as raw counts and percentages in Table 1, Table 2, and the Summary — with no p-value, no confidence interval, no named test statistic (t/F/chi-squared), and no explicit verbal significance claim ('significantly better/worse') anywhere in the article for this outcome. A primary comparison does exist (treatment response across the cohort and by diagnostic subgroup in Table 2), so this is a purely descriptive report of an existing comparison rather than the absence of any comparison to test; coded 0, not 3.",
       "InclusionExclusionCriteria": "The sample-selection basis is explicitly stated ('Only the most difficult cases were taken into this study. All but four... had tried A.A. and were considered to have failed') rather than a formal numbered list; coded 1 as a borderline but genuine statement of selection criteria.",
       "ValidatedScaleMeasYN": "Drinking outcome was rated by clinician judgment into three ordinal categories (much improved/improved/unchanged), not a named validated instrument; liver function tests and glucose tolerance are biochemical, not scale-based. Coded 0.",
       "BaseStatus": "Sample is explicitly the most refractory subgroup: mean 12.1 years of uncontrolled drinking, 8/24 with prior delirium tremens, complications in all but 2 cases, and prior A.A. failure in all but 4 — coded 'Severe'.",
@@ -192,7 +194,8 @@
       "NParticipantsWithAE": "No single combined count of participants with >=1 AE is given anywhere; the article reports overlapping subsets (22/24 with a graded reaction, 3 vomited, 'many' with nausea, 'some' with LFT abnormalities) that cannot be summed into one union count, so coded '.'.",
       "AE_denominator": "All 24 patients received a psychedelic dose and were assessed under the Side Effects section and Table 1's reaction-intensity column, so the safety population equals the full enrolled sample of 24.",
       "ArmScope": "Single-arm study; every reported AE value derives solely from the psychedelic-exposed cohort, so 'psychedelic_arm' per the rule that this applies to single-arm studies by definition.",
-      "WorstSeverity": "Maximum severity across the five ae_events entries is Moderate (Case 17's anxiety/depression requiring sodium seconal, AE04); no event met an FDA seriousness criterion or CTCAE Grade 4-5 equivalent."
+      "WorstSeverity": "Maximum severity across the five ae_events entries is Moderate (Case 17's anxiety/depression requiring sodium seconal, AE04); no event met an FDA seriousness criterion or CTCAE Grade 4-5 equivalent.",
+      "SchemaRevisionNote": "2026-09-03 schema-revision splice: ConfoundYN/PVal removed, MediatingYN/ModeratingYN/HypothesisTestReportedYN added, sourced from a separate v3 extraction run (PromptVersion v1.3) rather than this file's own v1.2 run. Every other field in this file is unchanged from the original v1.2 extraction -- this file is now a hybrid of two runs for these 3 fields only. See clinical_adjudication.md '2026-09-03 -- Coding-scheme revision' for the full rationale."
     },
     "ae_events": {
       "Smith 1958_AE01": "Table 1 grades each patient's reaction intensity mild/moderate/intense; cases 9 and 11 are explicitly stated to have shown 'no reaction beyond some slight increase in tension,' leaving 22/24 with a graded reaction. The narrative states these effects 'persisted for an average of 8 or 9 hours' and 'in all cases, the patients felt well by the following day,' supporting a default Mild grading per the rubric's expected-acute-drug-effect principle, since no general intervention or lasting impairment is described for the cohort as a whole (Case 17's exception is captured separately as AE04).",

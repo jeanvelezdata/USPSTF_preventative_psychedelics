@@ -16,6 +16,3 @@ __pycache__/
 # To re-run extraction from scratch you need these locally; see README.
 clinical_trials/inputs/pdfs/
 observational_studies/inputs/pdfs/
-
-# Stray personal file, kept on disk but not part of this project
-Janet Rodriguez Resume.pdf

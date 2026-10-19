@@ -17,7 +17,6 @@
       "EligibilityFailedCriterion": "NA",
       "Outcome": "44% vs 11%",
       "SD": "χ²(1) = 7.19",
-      "PVal": "<.01",
       "SampleSize_NFinal": 58,
       "Pos Result Y/N": 1,
       "Clincial Trial YN": 1,
@@ -28,7 +27,9 @@
       "PrimaryCare": 0,
       "Power": 0,
       "Retention (%)": 58.7,
-      "ConfoundYN": 1,
+      "MediatingYN": 0,
+      "ModeratingYN": 0,
+      "HypothesisTestReportedYN": 1,
       "InclusionExclusionCriteria": 1,
       "ValidatedScaleMeasYN": 1,
       "MethodologyDescribedYN": 0,
@@ -120,7 +121,6 @@
     "article": {
       "Outcome": "Primary reported comparison is the nonschizophrenic lysergide-treated group vs. nonschizophrenic control group I on the two-part (abstinence/nonabstinence) Drinking Adjustment classification at 1 year, the comparison the article's own discussion foregrounds ('Table 7 shows that the nonschizophrenic lysergide-treated alcoholics were superior to all the other groups... significant beyond the .01 level'). Table 5, 12-month row: Lysergide N=32, complete abstinence (Category A) N=14 (44%); Control group I N=26, Category A N=3 (11%). Coded as '44% vs 11%'.",
       "SD": "Table 7, cell for Group 1 (nonschizophrenic lysergide, N=32) vs Group 2 (nonschizophrenic control I, N=26) = 7.19, footnoted as significant at the .01 level. The table's own footnote states 'Chi square for .05 level of confidence with df 1 = 3.84', confirming this is a 1-df chi-square, so coded 'χ²(1) = 7.19'.",
-      "PVal": "Table 7 footnote marks the 7.19 cell with the symbol defined as 'Significant at .01 level of confidence'; no exact p printed, so coded as the threshold '<.01'.",
       "SampleSize_NFinal": "Sum of the two compared groups' 12-month reported-case counts in Table 5 (nonschizophrenic lysergide N=32 + nonschizophrenic control group I N=26 = 58), the denominator underlying the Table 7 chi-square that produced Outcome/SD.",
       "MethodologyDescribedYN": {
         "criteria": {
@@ -158,7 +158,8 @@
       "MortalityMeasured": "Coded 0. The only mention of death is in the attrition discussion — 'A few patients died and about one-third had to be removed for methodological reasons' — given as a reason for loss of contact across all six study groups (including the two non-lysergide control groups), with no count, no attribution to lysergide, and no linkage to the article's dedicated harms discussion (which addresses only recrudescence and states 'None of our lysergide-treated patients... suffered any of these serious aftereffects'). Judged not to constitute a reported mortality outcome or AE of the intervention; flagged here as a non-obvious call rather than silently coding 1 with a fabricated AE entry.",
       "ArmScope": "All reported AE information (recrudescence, altered dreaming, in-session dissociative episodes) is drawn exclusively from the 75 lysergide-treated patients; no AE data are reported for control groups I or II.",
       "AE_denominator": "No single safety-population denominator is stated. Recrudescence was assessed over '61 patients who gave information on the absence or presence of recrudescence' (out of 75 lysergide-treated); the 2-patient in-session dissociation report and the 7-patient altered-dreaming report do not state their own denominators. Coded 'Not numbered' because denominators differ by AE type and no unified figure is given.",
-      "NParticipantsWithAE": "Not calculable as a single unduplicated count: the recrudescence (19), altered-dreaming (7) and in-session dissociation (2) groups may overlap, and the article gives no combined tally of unique patients with ≥1 AE."
+      "NParticipantsWithAE": "Not calculable as a single unduplicated count: the recrudescence (19), altered-dreaming (7) and in-session dissociation (2) groups may overlap, and the article gives no combined tally of unique patients with ≥1 AE.",
+      "SchemaRevisionNote": "2026-09-03 schema-revision splice: ConfoundYN/PVal removed, MediatingYN/ModeratingYN/HypothesisTestReportedYN added, sourced from a separate v3 extraction run (PromptVersion v1.3) rather than this file's own v1.2 run. Every other field in this file is unchanged from the original v1.2 extraction -- this file is now a hybrid of two runs for these 3 fields only. See clinical_adjudication.md '2026-09-03 -- Coding-scheme revision' for the full rationale."
     },
     "ae_events": {
       "Tomsovic 1970_AE01": "NAffected=19 and onset timing from 'Of the 19 patients who reported single or multiple recrudescences, 3 had the first within a few weeks... 12 (65%) reported the first on the 3-month follow-up questionnaire, 3 (15%) on the 6-month, and 1 on the 12-month' — first occurrence generally weeks to months out, coded 'delayed'. Severity graded Mild per rubric (pre-1980 article, no CTCAE existed): described as 'relatively brief experiences that varied from very uncomfortable to very pleasant,' with no intervention or lasting impairment reported, so SeveritySource='rubric', not 'author' (authors used no formal severity/SAE language for this event).",

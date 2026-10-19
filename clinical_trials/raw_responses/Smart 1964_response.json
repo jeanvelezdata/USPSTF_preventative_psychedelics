@@ -14,7 +14,6 @@
       "Temperature": 1,
       "Outcome": ".",
       "SD": ".",
-      "PVal": ".",
       "SampleSize_NFinal": ".",
       "Pos Result Y/N": 3,
       "Clincial Trial YN": 0,
@@ -25,7 +24,9 @@
       "PrimaryCare": 3,
       "Power": 3,
       "Retention (%)": ".",
-      "ConfoundYN": 3,
+      "MediatingYN": 3,
+      "ModeratingYN": 3,
+      "HypothesisTestReportedYN": 3,
       "InclusionExclusionCriteria": 3,
       "ValidatedScaleMeasYN": 3,
       "MethodologyDescribedYN": 0,
@@ -80,7 +81,6 @@
     "article": {
       "Outcome": "No primary outcome belongs to this article. Smart & Storm ran no trial; the numeric findings in the text (e.g., 12/24, 15/16, 46/61 alcoholics 'improved'/'much improved') are the reviewed studies' own reported outcomes (refs 5-7), not this article's. Coded '.'.",
       "SD": "No dispersion/test statistic of the authors' own exists to pair with an Outcome; none was computed for a study that does not exist. Coded '.'.",
-      "PVal": "No p-value is reported for an analysis conducted by these authors; none was run. Coded '.'.",
       "SampleSize_NFinal": "No analytic sample belongs to this article. The article discusses other studies' samples (e.g., 24, 16, 61, 17, 3 patients) but has no N of its own. Coded '.'.",
       "MethodologyDescribedYN": {
         "criteria": {
@@ -110,7 +110,9 @@
       "PrimaryCare": "Coded 3 — the article is a methodological commentary, not a clinical-care or intervention study that could interface with primary-care settings.",
       "Power": "Coded 3 — no statistical power analysis, a priori or post hoc, exists for a study the authors did not conduct. (The article does discuss general research standards but performs no power analysis of its own.)",
       "Retention (%)": "Coded '.' — not calculable; there is no completer/denominator pair belonging to this article's own sample, because there is no sample.",
-      "ConfoundYN": "Coded 3 — no confound assessment is possible without a study or data of the authors' own.",
+      "MediatingYN": "Coded 3: no mediator variable was ever measured because no original study was conducted.",
+      "ModeratingYN": "Coded 3: no candidate moderator was ever measured; same reasoning as MediatingYN.",
+      "HypothesisTestReportedYN": "Coded 3: there is no primary comparison of this article's own to test — it is a critique of five other studies' lack of statistical rigor, not an empirical analysis with its own hypothesis test.",
       "InclusionExclusionCriteria": "Coded 3 — no participants were enrolled by these authors, so no inclusion/exclusion criteria of their own exist.",
       "ValidatedScaleMeasYN": "Coded 3 — no outcome measure, validated or otherwise, was administered by these authors.",
       "Funding/COI YN": "Coded 0 — no funding source or conflict-of-interest statement is given; only an acknowledgment of two colleagues' critical reading and the authors' institutional affiliation (Alcoholism and Drug Addiction Research Foundation, Toronto) are noted, which is not a funding/COI disclosure.",
@@ -134,7 +136,8 @@
       "AE_denominator": "Coded '.' (per spec, never 'NA') — no safety-assessed population exists because no trial was conducted by these authors.",
       "ArmScope": "'NA' — no arms exist; the article is not a trial and has no exposed population.",
       "WorstSeverity": "'NA' because SafetyReported='N'; no severity scale applies.",
-      "EligibleYN": "Coded 'N'. Under the eligibility screen's criterion (a), a clinical trial requires 'a prospectively planned intervention administered to participants for research purposes, with defined enrollment, an assigned regimen, and prospective outcome assessment.' This article is explicitly a critique/commentary (section header 'NOTES and COMMENT') that evaluates five OTHER published trials against methodological standards (control groups, blinding, pre/post measurement); the authors enrolled no participants and administered no intervention. Criterion (a) fails; EligibilityFailedCriterion='not_clinical_trial'."
+      "EligibleYN": "Coded 'N'. Under the eligibility screen's criterion (a), a clinical trial requires 'a prospectively planned intervention administered to participants for research purposes, with defined enrollment, an assigned regimen, and prospective outcome assessment.' This article is explicitly a critique/commentary (section header 'NOTES and COMMENT') that evaluates five OTHER published trials against methodological standards (control groups, blinding, pre/post measurement); the authors enrolled no participants and administered no intervention. Criterion (a) fails; EligibilityFailedCriterion='not_clinical_trial'.",
+      "SchemaRevisionNote": "2026-09-03 schema-revision splice: ConfoundYN/PVal removed, MediatingYN/ModeratingYN/HypothesisTestReportedYN added, sourced from a separate v3 extraction run (PromptVersion v1.3) rather than this file's own v1.2 run. Every other field in this file is unchanged from the original v1.2 extraction -- this file is now a hybrid of two runs for these 3 fields only. See clinical_adjudication.md '2026-09-03 -- Coding-scheme revision' for the full rationale."
     },
     "ae_events": {},
     "config_proposal": {

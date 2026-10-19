@@ -14,7 +14,6 @@
       "Temperature": 1,
       "Outcome": "53% vs 33%",
       "SD": ".",
-      "PVal": ".",
       "SampleSize_NFinal": 104,
       "Pos Result Y/N": 1,
       "Clincial Trial YN": 1,
@@ -25,7 +24,9 @@
       "PrimaryCare": 0,
       "Power": 0,
       "Retention (%)": 88.9,
-      "ConfoundYN": 1,
+      "MediatingYN": 0,
+      "ModeratingYN": 0,
+      "HypothesisTestReportedYN": 1,
       "InclusionExclusionCriteria": 0,
       "ValidatedScaleMeasYN": 0,
       "MethodologyDescribedYN": 0,
@@ -94,7 +95,6 @@
     "article": {
       "Outcome": "Article contains no structured abstract or explicit primary-outcome statement; per precedence rule 2 (SUD-behavioral outcome), 'Drinking Behavior' is used over 'Global Adjustment'. Within Drinking Behavior, Table 2 gives the authors' own dichotomized 'rigorous criterion' (0-10 scale score of 8-10, i.e., near-total abstinence) as a two-group high-vs-low dose comparison for the N=104 single-LSD-session cohort: High dose 53% (34/64) vs Low dose 33% (13/40). Chosen over the continuous Table 1 ANCOVA means (F=4.43, p<0.025) because the task instructions specifically direct that a high-vs-low-dose two-group proportion be captured as 'X% vs Y%' with OR computed from the counts; see config_proposal.",
       "SD": "Table 2 has a companion 'Results For Above Data' F/p row for this exact percentage comparison, but the OCR/column conversion interleaves it with unrelated case-report prose ('...low dose 005 344 O05...Psychedelic reactivity groups 7.74 0.025 3.07 significant...'), and the row/column alignment cannot be reconstructed without inferring a substitution rule, which is prohibited. Coded '.' rather than guessed. Table 1's clean, unambiguous ANCOVA F=4.43 (p<0.025) is for the continuous drinking-behavior score, a related but distinct analysis from the % criterion used in Outcome, so it is not substituted in per the 'not a different analysis's statistic' rule.",
-      "PVal": "Same garbling issue as SD: the Table 2 significance test paired with the 53% vs 33% comparison is not reliably legible. Coded '.' rather than reusing Table 1's p<0.025 (continuous-score analysis, not the % criterion).",
       "SampleSize_NFinal": "N=104 is the sum of the two dosage-arm N's in Tables 1 and 2 (High N=64 + Low N=40), the subset of the 117 single-LSD-session patients who were personally located for the 6-month follow-up interview (13 of 117 were lost to follow-up).",
       "MethodologyDescribedYN": {
         "criteria": {
@@ -124,7 +124,8 @@
       "Country_USvsNonUS": "Spring Grove State Hospital and the Maryland Psychiatric Research Center, Baltimore, Maryland, United States.",
       "Followup in months": "The independent rating team's protocol specifies assessment at 6, 12, and 18 months, but the article states 'Results are now completed at the six-month checkpoint... Full and final analysis and evaluation of these data are still in progress' -- only 6-month outcome data are actually reported in Tables 1-2, so Followup in months reflects the reported horizon (6), not the full planned protocol (18).",
       "MortalityMeasured": "One death is reported in the article (an illustrative case-report patient who died of surgical complications), but that patient was enrolled in a separate cancer-pain pilot project described elsewhere in the same article, not in the 135-patient alcoholism trial that is the subject of this Alcohol-condition extraction. No mortality outcome is reported for the alcoholism cohort itself, so coded 0.",
-      "PhysicalChangeMeasured": "Chromosomal aberration rate (a biomarker) was measured before/after LSD administration in 32 patients treated at Spring Grove State Hospital (Table 3); the article does not explicitly confirm these 32 are drawn from the 135-patient alcoholism cohort, but Spring Grove was the site of the alcoholism trial, so this is treated as a physical/biological outcome measured within the study program."
+      "PhysicalChangeMeasured": "Chromosomal aberration rate (a biomarker) was measured before/after LSD administration in 32 patients treated at Spring Grove State Hospital (Table 3); the article does not explicitly confirm these 32 are drawn from the 135-patient alcoholism cohort, but Spring Grove was the site of the alcoholism trial, so this is treated as a physical/biological outcome measured within the study program.",
+      "SchemaRevisionNote": "2026-09-03 schema-revision splice: ConfoundYN/PVal removed, MediatingYN/ModeratingYN/HypothesisTestReportedYN added, sourced from a separate v3 extraction run (PromptVersion v1.3) rather than this file's own v1.2 run. Every other field in this file is unchanged from the original v1.2 extraction -- this file is now a hybrid of two runs for these 3 fields only. See clinical_adjudication.md '2026-09-03 -- Coding-scheme revision' for the full rationale."
     },
     "ae_events": {
       "Pahnke 1970_AE01": "The article's safety statement ('over 300 patients have been treated with LSD... although there have been two cases in which disturbances persisted in the days following the actual LSD session. Both patients subsequently responded to conventional psychiatric treatment') is a pooled statement spanning the whole Spring Grove/Maryland Psychiatric Research Center LSD program (alcoholic, neurotic, and narcotic-addict patients), not broken out for the 135-alcoholic-patient trial specifically -- hence AE_denominator = 'Not numbered' rather than 104 or 300, and ArmScope = psychedelic_arm since both the high- and low-dose arms received active LSD (no placebo-only comparator exists to pool against). Graded Moderate because the described consequence (persisting disturbance requiring subsequent psychiatric treatment) meets the rubric's active-intervention/persistence-beyond-dosing-day threshold but no hospitalization, life-threatening course, or author-assigned SAE/serious label is stated. SeveritySource=rubric because the authors used only descriptive language ('disturbances persisted'), not a formal severity or seriousness label of their own. Excluded from this article's AE data: the transient in-session apprehension/confusion/paranoia and post-treatment death described in the illustrative case report, because that patient belonged to a separate cancer-pain pilot project, not the alcoholism trial."

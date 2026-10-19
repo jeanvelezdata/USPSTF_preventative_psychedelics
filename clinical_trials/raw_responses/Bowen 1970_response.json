@@ -14,7 +14,6 @@
       "Temperature": 1,
       "Outcome": "24% vs 27%",
       "SD": "χ²(2) = 1.468",
-      "PVal": "NS",
       "SampleSize_NFinal": 158,
       "Pos Result Y/N": 0,
       "Clincial Trial YN": 1,
@@ -25,7 +24,9 @@
       "PrimaryCare": 0,
       "Power": 0,
       "Retention (%)": 73.1,
-      "ConfoundYN": 1,
+      "MediatingYN": 0,
+      "ModeratingYN": 0,
+      "HypothesisTestReportedYN": 1,
       "InclusionExclusionCriteria": 0,
       "ValidatedScaleMeasYN": 0,
       "MethodologyDescribedYN": 0,
@@ -80,7 +81,6 @@
     "article": {
       "Outcome": "Primary comparison selected as Table 4 (p.117), which combines Experiments I and II into the article's final, most comprehensive comparison: LSD-500μg-treated patients (n=71, pooled across both experiments) vs all non-500μg comparators (HRTL-only + HRTL+placebo-LSD, n=87). Value taken verbatim from prose immediately following Table 4: 'The percentages of those rated as making a good adjustment, 24 per cent for the LSD group and 27 per cent for the HRTL group.' This prose statement is unambiguous, unlike Table 4's own Poor/Fair cell counts, which show OCR digit-merging artifacts (e.g. '22. 18 | 25; 36 | 54) 17 | 24) 71') that could not be reliably reconstructed and were therefore not used. Table 1 (Experiment I only, N=81, chi2(2)=0.661, first-reported result) and Table 3 (Experiment II only, dose-comparison, chi2=5.738) were considered as alternative primaries -- Table 1 is the first comparison named in the Purpose paragraph and Results, while Table 4 is the paper's summary bottom-line figure the Discussion returns to ('approximately equal in adjustment status after 1 year'). Table 4 was judged the closest to a single stated-primary result because it pools the full study sample rather than a sub-experiment; this is a non-obvious judgment call and a reviewer could reasonably prefer Table 1 instead.",
       "SD": "Printed directly beneath Table 4 (OCR): 'x2 = 1.468, x2.05 = 5.991.' Degrees of freedom are not explicitly labeled by the authors; df=2 is inferred because the printed critical value 5.991 matches the standard chi-square table's alpha=.05 critical value for df=2, consistent with the 3-category (Poor/Fair/Good) x 2-group table design. This inference is about df labeling only -- the numeric value 1.468 is reported exactly as printed, not altered.",
-      "PVal": "Text states 'The differences in outcome are not statistically significant' in the paragraph introducing Table 4. No exact p-value or explicit threshold symbol (e.g. '<0.05') is printed for this comparison, so per the anti-conversion rule for narrative non-significance language this is coded 'NS' verbatim rather than inferred as a numeric threshold.",
       "SampleSize_NFinal": "158 = 71 + 87, the Table 4 totals underlying the 24%/27% good-adjustment percentages in Outcome. Cross-checked by addition: 71 = Table 2's LSD-all-patients total (49, completers+followed-up dropouts) + Table 3's LSD-500μg total (22, Experiment II); 87 = Table 2's HRTL-only total (50) + Table 3's placebo-LSD-25μg total (22) + Table 3's no-LSD group (15). Both sums are internally consistent with the printed Table 4 column totals (71 and 87).",
       "MethodologyDescribedYN": {
         "criteria": {
@@ -110,7 +110,9 @@
       "Comparator": "1. Two comparator types exist across the pooled Table-4 group: an active no-LSD comparator (HRTL program alone, Experiment I) and a placebo-dose comparator (25μg LSD, Experiment II) -- both are pooled into the single 'HRTL only or HRTL+LSD 25μg' comparator arm (n=87) in Table 4.",
       "Power": "0. No a priori or post hoc power calculation, or any discussion of statistical power, appears anywhere in the article.",
       "Retention (%)": "73.1 = 87 completers / 119 enrolled, calculated for Experiment I only (the only sub-cohort with a disclosed enrolled-vs-completed breakdown). LSD arm: 46 completers (41 analyzed + 5 completed-but-lost-to-follow-up) / 61 enrolled (46 completers + 15 who 'dropped out of their programs prematurely') = 75.4%. HRTL arm: 41 completers (40 analyzed + 1 lost-to-follow-up) / 58 enrolled (41 + 17 dropouts) = 70.7%. Combined: (46+41)/(61+58) = 87/119 = 73.1%. Experiment II is excluded from this calculation because the article states only that '59 alcoholic patients entered and completed the alcoholic program' -- completers are given but the original enrolled/entering count before completion is not disclosed for Experiment II, so a single study-wide retention percentage spanning both experiments is not calculable; the reported 73.1% reflects Experiment I only.",
-      "ConfoundYN": "1. The article explicitly analyzes several confounding/moderating factors against outcome: pretreatment employment level (Table 5, Hollingshead classification), marital status (Table 6), education, age (dichotomized at the sample median of 44.5 years), timing of LSD administration within the program (Table 8), and program completion status (Table 7).",
+      "MediatingYN": "0. The Chwelos Scale (depth of LSD response) is compared against outcome — 'Patients achieving the maximum response were compared with those rated as achieving less than maximum in terms of outcome at follow-up, but no significant differences in adjustment were noted' — the closest candidate to a measured intermediate variable. But no formal indirect-effect or mediation model (e.g., a Baron-and-Kenny-style regression sequence or product-of-coefficients test) is reported testing whether response depth explains the LSD-vs-comparator effect; this is a narrative subgroup comparison only. Coded 0 (a candidate mediator was measured but no formal test was run), not 3 (no mediator ever measured) or 1 (a formal test was run).",
+      "ModeratingYN": "0. Several candidate moderators are examined by subgroup (employment level, marital status, age, education, timing of LSD administration, program completion). For employment level the text states 'An additional breakdown indicated a similar trend for each treatment modality, but statistical significance at the .05 level was attained only in the HRTL group' — subgroup results reported side by side, with no interaction term or formal treatment-by-moderator test. Per the prompt's explicit boundary case, this is 0, not 1.",
+      "HypothesisTestReportedYN": "1. The primary comparison (Table 4) reports an explicit named test statistic with a critical-value comparison — 'x2 = 1.468, x2.05 = 5.991' — plus the verbal claim 'The differences in outcome are not statistically significant.' This satisfies the field regardless of the primary comparison's result being null.",
       "InclusionExclusionCriteria": "0. Only minimal, implicit criteria are given -- 'male veterans who had voluntarily applied for the alcoholic treatment program' -- and, for Experiment II only, that 6 of 65 candidates were 'denied the drug on the basis of physical or psychiatric contraindications.' No formal inclusion/exclusion criteria list (diagnostic criteria, age limits, comorbidity exclusions) is stated for study entry generally.",
       "ValidatedScaleMeasYN": "0. The primary outcome measure is an 'empirically derived 8-point scale' devised by the authors themselves, validated only informally ('excellent agreement was obtained between scale ratings and the social worker's subjective impressions'), not an externally validated psychometric instrument. The Chwelos Scale (cited to Chwelos et al. 1959) is used to rate depth of LSD response as a secondary correlate, not as the study's SUD outcome measure, so it does not satisfy this field either.",
       "Funding/COI YN": "0. No funding source, grant support, or conflict-of-interest disclosure appears anywhere in the article text as OCR'd.",
@@ -137,7 +139,8 @@
       "WorstSeverity": "NA because SafetyReported='N'.",
       "EligibleYN": "Y. (a) Clinical trial: prospectively planned LSD dosing under a defined hospital protocol with assigned regimen and prospective 1-year outcome assessment -- passes. (b) SUD outcome: abstinence is directly scored within the primary 8-point adjustment scale ('Abstinent 6 months or more') -- passes.",
       "EligibilityNote": "NA because EligibleYN='Y'.",
-      "EligibilityFailedCriterion": "NA because EligibleYN='Y'."
+      "EligibilityFailedCriterion": "NA because EligibleYN='Y'.",
+      "SchemaRevisionNote": "2026-09-03 schema-revision splice: ConfoundYN/PVal removed, MediatingYN/ModeratingYN/HypothesisTestReportedYN added, sourced from a separate v3 extraction run (PromptVersion v1.3) rather than this file's own v1.2 run. Every other field in this file is unchanged from the original v1.2 extraction -- this file is now a hybrid of two runs for these 3 fields only. See clinical_adjudication.md '2026-09-03 -- Coding-scheme revision' for the full rationale."
     },
     "ae_events": {},
     "config_proposal": {

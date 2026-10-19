@@ -17,7 +17,6 @@
       "EligibilityFailedCriterion": "NA",
       "Outcome": "34% vs 32% vs 20% gain in abstinence (lysergide vs ephedrine vs control)",
       "SD": "F = 0.323",
-      "PVal": ">.05",
       "SampleSize_NFinal": 30,
       "Pos Result Y/N": 0,
       "Clincial Trial YN": 1,
@@ -28,7 +27,9 @@
       "PrimaryCare": 0,
       "Power": 1,
       "Retention (%)": 90.9,
-      "ConfoundYN": 1,
+      "MediatingYN": 0,
+      "ModeratingYN": 0,
+      "HypothesisTestReportedYN": 1,
       "InclusionExclusionCriteria": 1,
       "ValidatedScaleMeasYN": 0,
       "MethodologyDescribedYN": 1,
@@ -94,7 +95,6 @@
     "article": {
       "Outcome": "Primary outcome per abstract-leading precedence: the article gives no single authors-designated primary endpoint, so the SUD-behavioral outcome the abstract leads with was used — percentage gain in abstinence, reported in the abstract as 'the gain in abstinence time in the lysergide, ephedrine and control groups, respectively, was 34%; 32%; and 20%.' Note a discrepancy: the Results section (p.476) gives slightly different values for the same comparison — 'average gains of 33.7% (lysergide), 31.5% (ephedrine) and 19.6% (control)' — the abstract figures appear rounded; both are internally consistent with each other (not contradictory, just rounded differently), so no anti-fabrication flag beyond noting it. This is a 3-group (not 2-group) comparison, so it is reported as a labelled 3-way descriptor rather than a single numeric effect size.",
       "SD": "The paired inferential statistic for the same abstinence-gain comparison, from p.476: 'Simple analyses of variance...showed no differences between the lysergide, ephedrine and control groups in percentage gain in total abstinence (F = 0.323, p>.05).' No error/numerator degrees of freedom are printed for this specific F-test (unlike Table 2, whose df apply to the separate drinking-occasions/drunkenness-occasions ANOVAs, not to this abstinence comparison), so df is omitted rather than inferred.",
-      "PVal": "Printed verbatim as '>.05' immediately after the F-statistic on p.476; not converted to an exact value or to 'NS' since a threshold was explicitly printed.",
       "SampleSize_NFinal": "N=30 (10 lysergide, 10 ephedrine, 10 control) is the analyzed sample for all drinking-behavior comparisons, confirmed in the abstract ('30 alcoholics...were randomly selected... divided into 3 groups') and in Results ('all 30 patients were seen' at follow-up). See Retention (%) rationale for the separate question of the pre-completion enrolled/randomized total.",
       "MethodologyDescribedYN": {
         "criteria": {
@@ -105,7 +105,8 @@
         },
         "n_met": 13,
         "note": "13/14 met; only 'harms' unmet — the article never describes a methodology for assessing or monitoring adverse events/safety (only incidental precautionary details such as bed restraint 'for security' and PRN chlorpromazine, plus an unattributed mortality mention with no cause or arm given). 'sample_size_power' credited on a close call: the Discussion explicitly reflects on whether N=10/group was adequate to detect the effect sizes claimed by prior uncontrolled studies ('the small number of patients used—only 10 in each group. But in previous reports the effectiveness of lysergide was so striking that 10 subjects should have demonstrated them'), which meets the field-level rule that a bare underpowered-study statement counts as 'discussed.'"
-      }
+      },
+      "SchemaRevisionNote": "2026-09-03 schema-revision splice: ConfoundYN/PVal removed, MediatingYN/ModeratingYN/HypothesisTestReportedYN added, sourced from a separate v3 extraction run (PromptVersion v1.3) rather than this file's own v1.2 run. Every other field in this file is unchanged from the original v1.2 extraction -- this file is now a hybrid of two runs for these 3 fields only. See clinical_adjudication.md '2026-09-03 -- Coding-scheme revision' for the full rationale."
     },
     "ae_events": {
       "Smart 1966_AE01": "Article states in the Follow-Up section (p.474): 'Two patients died during the period covered by the study but both died after their follow-up had been completed.' No cause of death, treatment-arm assignment, or temporal proximity to the drug session is given, and the authors do not label it an SAE or discuss it further anywhere in the paper. Graded Severe under the rubric (death meets the FDA-seriousness criterion by definition) with SeveritySource='rubric' rather than 'author' because no author severity/seriousness language accompanies the mention (consistent with this being a pre-1980 article, predating CTCAE). SeverityIndeterminate='Y' because causal relationship to lysergide/ephedrine, timing relative to drug exposure, and arm membership are all unreported. ArmScope is coded 'pooled' rather than 'psychedelic_arm' because arm membership of the two deceased patients is not stated and should not be assumed to be lysergide-arm-only. Coding this event at all — and consequently SafetyReported='Y', HarmsAssessed=1, MortalityMeasured=1 — is a judgment call: the study has no dedicated adverse-event/safety section, and this note could be read as routine study-accounting rather than a safety report. It is coded conservatively per the cardinal 'never understate harm' rule and the field-level instruction that any reported death generates an ae_events row, and is flagged here for human review rather than silently omitted."

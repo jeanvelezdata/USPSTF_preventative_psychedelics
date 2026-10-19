@@ -17,7 +17,6 @@
       "EligibilityNote": "NA",
       "Outcome": 1.69,
       "SD": "F(3,24) = 81.38",
-      "PVal": 0.0001,
       "SampleSize_NFinal": ".",
       "Pos Result Y/N": 1,
       "Clincial Trial YN": 1,
@@ -28,7 +27,9 @@
       "PrimaryCare": 0,
       "Power": 1,
       "Retention (%)": ".",
-      "ConfoundYN": 1,
+      "MediatingYN": 0,
+      "ModeratingYN": 0,
+      "HypothesisTestReportedYN": 1,
       "InclusionExclusionCriteria": 1,
       "ValidatedScaleMeasYN": 1,
       "MethodologyDescribedYN": 0,
@@ -80,7 +81,6 @@
     "article": {
       "Outcome": "No single statistic is designated 'primary' by the authors. The Abstract's first substantive finding sentence is 'ibogaine significantly decreased craving for cocaine and heroin during inpatient detoxification,' with depressive-symptom improvement introduced afterward as 'also' significant -- so per the precedence rule (author designation > abstract-led SUD outcome > largest of co-equal), craving is the SUD-behavioral outcome the abstract leads with, ranking it above the Results section's BDI-first ordering and above depression (not an SUD outcome). Craving itself is reported as 5 subscales x 2 drug groups (10 F-tests, Tables 2-3) with none singled out as primary. Restricting to the opiate-craving subscales (HCQN-29, Table 2) because this record's Condition is 'Opioid', the largest/most significant of the 5 co-equal subscales is Intention to Use, F(3,24)=81.38, p=.0001. Outcome = 3.26 (pre-ibogaine) - 1.57 (post-ibogaine) = 1.69, the pre/post reduction on the 0-6 HCQN-29 scale (Table 2), computed directly from the two reported means (arithmetic only, no assumed model). The parallel cocaine-craving subscales (Table 3) were not selected given the Condition='Opioid' framing; the largest of those is Relief of Negative States, F(2,10)=15.26, p=.0005, noted here in case this choice is revisited.",
       "SD": "F(3,24) = 81.38, the omnibus repeated-measures ANOVA statistic printed in the same row/table (TABLE 2) as the Intention-to-Use means used for Outcome. Numerator df=3 implies a 4-level within-subjects time factor (matching the Methods' 'three different time points...and at one month following discharge'), with the 1-month point excluded from the table ('data not shown' per Results) but still contributing to the omnibus test.",
-      "PVal": "p = .0001 as printed in TABLE 2, same row as the Intention-to-Use F-statistic and means used for Outcome/SD.",
       "SampleSize_NFinal": "Not reported. The article gives only the total enrolled N (27: 23 men, 4 women) and separate mean ages for the 'opiate group' and 'cocaine group' without stating either subgroup's size. TABLE 2's F(3,24) implies an error df of 24, which is consistent with several different repeated-measures error structures (one-way within-subjects on the opiate subgroup alone vs. a mixed model with drug-of-abuse as a between-subjects factor) that would each imply a different N -- back-calculating N from df would require assuming an ANOVA design the Methods paragraph does not confirm, which is exactly the kind of unstated decoding rule the extraction spec prohibits. Coded '.' rather than inferred.",
       "MethodologyDescribedYN": {
         "criteria": {
@@ -98,7 +98,8 @@
       "PrimaryCare": "0. Treatment occurred in an inpatient detoxification/research setting; no interface with primary-care providers or settings is mentioned.",
       "Power": "1, a close call. No formal a priori or post hoc power calculation is reported. The Discussion states: 'A limitation of the study is that it is based on findings in only 27 subjects; thus, replication is needed in future studies to determine the stability of the findings.' Treated as functionally equivalent to the 'bare statement that the study was underpowered' provision, since it explicitly frames small sample size as a limitation on the reliability of the findings.",
       "Retention (%)": "Not calculable. The study was not randomized, so the denominator would be the enrolled N (27), but the article never reports how many of the 27 completed the 14-day inpatient program or the 1-month follow-up assessment (the 1-month craving data are described only as 'data not shown'). No completer count is given anywhere in the text.",
-      "ConfoundYN": "1, on substantive-discussion grounds rather than formal statistical adjustment. Results explicitly checks a candidate confound: CYP2D6 extensive-metabolizer proportions were compared between opioid- and cocaine-dependent groups and found 'not significantly different... (data not shown).' Discussion also attributes the null cocaine Desire-to-Use/Intention-to-Use findings 'in part because of floor effects at pre-ibogaine assessments and because of the small sample size,' a substantive discussion of a moderating factor.",
+      "MediatingYN": "No formal mediation analysis (indirect effect test, Baron-and-Kenny-style regression) was conducted. The Discussion's suggestion that noribogaine's pharmacology 'may explain' craving/mood effects is a narrative mechanistic hypothesis, not a tested mediation model, so this is 0 rather than 1.",
+      "ModeratingYN": "Methods state that 'primary drug of abuse (opiates versus cocaine)' was entered as a between-subjects factor alongside treatment phase as a within-subjects factor, which nominally could support a group-by-time interaction test (a moderation analysis). However, Results present the two drug-of-abuse groups' craving analyses entirely separately (Tables 2 and 3, each with its own F/p values) and no interaction F-statistic or p-value for a group-by-phase interaction is ever reported. Coded 0 because no formal interaction result is actually reported, not 3, since a candidate moderator (drug-of-abuse group) was measured and nominally modeled.",
       "InclusionExclusionCriteria": "1. Methods states subjects 'met inclusion/exclusion criteria' and specifies several: DSM-IV criteria for cocaine or opioid dependence, positive urine screens at entry, no history of stroke/epilepsy/axis I psychotic disorders, and ECG/labs within predetermined limits.",
       "BaseStatus": "'.' No DSM-5-style severity specifier or count of dependence criteria is reported (study used DSM-IV, which lacks a built-in severity grade), and no ASI composite/severity score is reported in Results despite the ASI having been administered at admission. Inpatient detoxification and clinically significant baseline BDI scores (>=11) suggest substantial severity but do not support a specific Mild/Moderate/Severe assignment without fabricating a threshold not given in the article.",
       "Age_Median": "Methods reports two subgroup means, not one overall figure: 'The mean age was 34.6 +/- 1.9 years old for the opiate group and 37.5 +/- 2.9 years old for the cocaine group.' Both fall within the 30-50 bracket, so '30-50' is used despite no single combined mean being stated.",
@@ -118,7 +119,8 @@
       "AnyAEReported": "'N'. The single safety statement in the article ('well tolerated... in agreement with our previous findings') is a positive tolerability claim with no adverse event of any kind named, counted, or described anywhere in the text. Treated as equivalent to an explicit no-AEs-occurred statement per the three-state framework, rather than 'AEs reported but not counted', since no specific AE is ever named.",
       "NumDistinctAEs": "0, required by AnyAEReported = 'N'.",
       "NParticipantsWithAE": "0, consistent with AnyAEReported = 'N' (no AE of any kind was named).",
-      "AE_denominator": "27. All enrolled participants received ibogaine under the single-arm open-label protocol described in Methods; no separate 'safety population' distinct from the 27 enrolled is defined."
+      "AE_denominator": "27. All enrolled participants received ibogaine under the single-arm open-label protocol described in Methods; no separate 'safety population' distinct from the 27 enrolled is defined.",
+      "SchemaRevisionNote": "2026-09-03 schema-revision splice: ConfoundYN/PVal removed, MediatingYN/ModeratingYN/HypothesisTestReportedYN added, sourced from a separate v3 extraction run (PromptVersion v1.3) rather than this file's own v1.2 run. Every other field in this file is unchanged from the original v1.2 extraction -- this file is now a hybrid of two runs for these 3 fields only. See clinical_adjudication.md '2026-09-03 -- Coding-scheme revision' for the full rationale."
     },
     "ae_events": {},
     "config_proposal": {

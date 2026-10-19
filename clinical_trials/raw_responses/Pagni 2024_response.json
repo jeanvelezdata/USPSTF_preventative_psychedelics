@@ -17,7 +17,6 @@
       "EligibilityFailedCriterion": "NA",
       "Outcome": "Alcohol-cue treatment-by-time interaction: 8 activation + 17 deactivation clusters, whole-brain (psilocybin vs placebo, p-unc<.005, k=10)",
       "SD": ".",
-      "PVal": "<0.005",
       "SampleSize_NFinal": 11,
       "Pos Result Y/N": 1,
       "Clincial Trial YN": 1,
@@ -28,7 +27,9 @@
       "PrimaryCare": 0,
       "Power": 1,
       "Retention (%)": 78.57,
-      "ConfoundYN": 1,
+      "MediatingYN": 0,
+      "ModeratingYN": 0,
+      "HypothesisTestReportedYN": 1,
       "InclusionExclusionCriteria": 1,
       "ValidatedScaleMeasYN": 1,
       "MethodologyDescribedYN": 1,
@@ -82,7 +83,6 @@
       "EligibleYN": "(a) Clinical trial: satisfied via the secondary-analysis boundary case — participants were randomized within the parent RCT protocol (psilocybin vs diphenhydramine) with prospectively planned fMRI outcome assessment; this is not a retrospective or naturalistic study. (b) SUD-related outcome: satisfied by the Craving data section, which reports pre-to-post psilocybin-group reduction in cue-elicited craving ratings (t(3)=5.568, p=0.0114) — craving is an explicitly listed qualifying SUD outcome. Both criteria met, so EligibleYN=Y even though the article's own stated primary outcome is neural reactivity, not drinking or craving.",
       "Outcome": "Abstract and Results state the study's aim/primary outcome is psilocybin-induced neural reactivity to alcohol (and emotional) cues, not a drinking or craving endpoint — this is a genuine primary-outcome/SUD-outcome discrepancy (craving is secondary here; see EligibleYN and Pos Result Y/N notes). The alcohol-cue task is listed and reported first among the three cue types and matches the article's title, so it is treated as the primary comparison (Results 'Alcohol cue neural reactivity', Table 2). The analysis is a whole-brain voxelwise treatment-by-time interaction yielding many discrete significant clusters (8 activation, 17 deactivation; Table 2) rather than one scalar primary effect size, so a single number would misrepresent the design. Coded as a short labelled descriptor rather than picking one cluster, which would arbitrarily privilege that cluster over dozens of co-equal exploratory findings and bias interpretation.",
       "SD": "No single paired dispersion/test statistic exists for a whole-brain cluster map: Table 2 reports per-cluster voxel extents and cluster-/peak-level p-values individually (e.g., L MFG activation cluster: 188 voxels, cluster p-unc=0.002, peak p-unc<0.001). Coded '.' because pairing one cluster's statistic with the Outcome descriptor (which spans all 8+17 clusters) would misrepresent a single-cluster value as representative of the whole finding.",
-      "PVal": "The uniform whole-brain statistical threshold applied to define significant clusters for the alcohol-cue treatment-by-time interaction was p-uncorrected < 0.005 (k=10 voxel extent), stated in Methods ('fMRI modeling and analyses') and used consistently in Table 2. Reported as the threshold string exactly as used, since no single omnibus p-value applies to the composite multi-cluster Outcome.",
       "SampleSize_NFinal": "Eleven participants (psilocybin n=5, placebo n=6) comprised the final analyzed fMRI sample after excluding 3 of the original 14 ancillary-study enrollees (2 did not complete both visits; 1 had fMRI malfunction at the pre-intervention visit) — Results, 'Demographics'. This N=11 is the denominator for all cue-reactivity results in Tables 2-4, including the alcohol-cue Outcome.",
       "MethodologyDescribedYN": {
         "criteria": {
@@ -104,10 +104,13 @@
       "SocioeconomicStatusYN": "Annual income is reported by group (psilocybin $97,500; placebo $148,333; Table 1), but the Limitations section explicitly characterizes the sample as 'of middle-to-high socioeconomic status' with no low-income eligibility pathway or public-insurance criterion described. Coded 0 because the field asks whether low-SES participants were explicitly included/described, not merely whether income was reported.",
       "Country_USvsNonUS": "All sites are in the United States (NYU Langone/NYU Grossman School of Medicine, New York, NY; Columbia University imaging center; Penn State co-author affiliation) — Methods and author affiliations.",
       "RecruitmentRepresentYN": "Limitations explicitly states the sample was 'nondiverse, homogeneous... primarily Caucasian, of young adult age, and of middle-to-high socioeconomic status,' and participants were drawn from a screened phase II RCT (SCID-confirmed AUD, extensive exclusion criteria) rather than a real-world/community-representative sample.",
-      "ConfoundYN": "Baseline group differences were formally tested (t-tests/chi-squared across sex, age, weight, craving, PHDD, DPD, PDD, framewise displacement; Table 1), one of which (PDD) differed significantly and is discussed as a caveat. Six realignment (motion) parameters were entered as covariates in first-level fMRI models. Age, sex, and smoking status are explicitly flagged in Limitations as unaddressed potential confounds. Coded 1 for substantive assessment/discussion, even though full statistical adjustment for demographic confounds was not performed (small-sample degrees-of-freedom limitation, noted in Limitations).",
+      "MediatingYN": "No formal mediation analysis (indirect-effect test, causal mediation model, Baron-and-Kenny regression sequence) was conducted anywhere in the article. The Introduction/Discussion speculate narratively that neural changes 'may account for' therapeutic effects without any formal test being run; the candidate intermediate (neural activity) was measured, so this is coded 0 (narrative claim, no test) rather than 3 (no mediator ever measured).",
+      "ModeratingYN": "No formal interaction or subgroup-by-treatment moderation test was reported. Sex, age, income, and baseline drinking/craving variables were measured (Table 1), but the Limitations section explicitly states these were not controlled for or tested due to the small sample ('lack of control for variables which may contribute to BOLD response... biological sex, smoking status, and age'). Because candidate moderators were measured but never formally tested, coded 0 rather than 3.",
+      "HypothesisTestReportedYN": "The primary whole-brain interaction analysis reports cluster- and peak-level p-values (Table 2) at a pre-specified threshold — an inferential signal is present for the primary outcome, so coded 1.",
       "Followup in months": "This article's own post-treatment assessment window is the second fMRI scan, obtained a mean of 1.45 days (SD=0.68, range 1-3) after the first drug administration (Results, 'Demographics') — there is no longer-horizon follow-up reported in this article itself. Converted 1.45 days / 30 = 0.048, rounded to 0.05 months. Note this is far shorter than the parent trial's own primary-outcome follow-up (8 months post-treatment, ref. 16), which is not part of this article's reported analyses.",
       "SafetyReported": "This article contains no Adverse Events, Safety, or Side-effects section, table, or sentence of any kind — it is a neuroimaging mechanism paper; harms/safety reporting for this cohort appears to live in the parent trial publication (ref. 16), not here. Coded SafetyReported=N per the 'article silent on AEs/safety entirely' convention, cascading AnyAEReported/NumDistinctAEs/NParticipantsWithAE=NA, AE_denominator='.', ArmScope=NA, WorstSeverity=NA, and ae_events=[].",
-      "HarmsAssessed": "Coded 0 to agree with SafetyReported=N per the required HarmsAssessed/SafetyReported concordance rule; this article does not state whether harms were or were not assessed for this fMRI sub-sample."
+      "HarmsAssessed": "Coded 0 to agree with SafetyReported=N per the required HarmsAssessed/SafetyReported concordance rule; this article does not state whether harms were or were not assessed for this fMRI sub-sample.",
+      "SchemaRevisionNote": "2026-09-03 schema-revision splice: ConfoundYN/PVal removed, MediatingYN/ModeratingYN/HypothesisTestReportedYN added, sourced from a separate v3 extraction run (PromptVersion v1.3) rather than this file's own v1.2 run. Every other field in this file is unchanged from the original v1.2 extraction -- this file is now a hybrid of two runs for these 3 fields only. See clinical_adjudication.md '2026-09-03 -- Coding-scheme revision' for the full rationale."
     },
     "ae_events": {},
     "config_proposal": {

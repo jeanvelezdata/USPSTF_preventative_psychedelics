@@ -8,7 +8,7 @@ Outputs:
     <Condition>_Descriptive_Analyses.docx   five tables for the manuscript:
         Table 1. Study Characteristics, stratified by era
         Table 2. Methodological Quality, stratified by era
-        Table 3. USPSTF Indicator Gap Heat Map (52 indicators across 6 domains)
+        Table 3. USPSTF Indicator Gap Heat Map (53 indicators across 6 domains)
         Table 4. Outcomes Measured, stratified by era
         Table 5. Follow-up Duration Distribution
 
@@ -335,7 +335,8 @@ METHODOLOGY_INDICATORS = [
     ('Power reported or discussed',         'Power',                    'binary'),
     ('≥80% retention',                      'Retention (%)',            'retention'),
     ('Validated outcome scale',             'ValidatedScaleMeasYN',     'binary'),
-    ('Confounders assessed',                'ConfoundYN',               'binary'),
+    ('Mediation analysis conducted',        'MediatingYN',              'binary'),
+    ('Moderation analysis conducted',       'ModeratingYN',             'binary'),
     ('Inclusion/exclusion criteria stated', 'InclusionExclusionCriteria','binary'),
     ('≥13/14 design criteria described',    'MethodologyDescribedYN',   'binary'),
     ('Funding/COI disclosed',               'Funding/COI YN',           'binary'),
@@ -363,13 +364,13 @@ def build_table2(strata: list[Stratum]) -> list[list[str]]:
 
 
 # =============================================================================
-# Table 3 — USPSTF gap heat map (52 indicators across 6 domains)
+# Table 3 — USPSTF gap heat map (53 indicators across 6 domains)
 # =============================================================================
 
 USPSTF_INDICATORS = [
     # (domain, indicator label, column, eval_type)
     # eval_type: 'binary' (% with ==1), 'reported' (% non-null), 'retention80'
-    # Domain 1: Study Identification & Design (15)
+    # Domain 1: Study Identification & Design (16)
     ('Study Identification & Design', 'Study design type reported',           'Study Design Type',           'reported'),
     ('Study Identification & Design', 'Clinical trial (any type)',            'Clincial Trial YN',           'binary'),
     ('Study Identification & Design', 'Randomization performed',              'RandomizationYN',             'binary'),
@@ -381,7 +382,8 @@ USPSTF_INDICATORS = [
     ('Study Identification & Design', 'Power reported or discussed',          'Power',                       'binary'),
     ('Study Identification & Design', '≥80% retention',                       'Retention (%)',               'retention80'),
     ('Study Identification & Design', 'Validated scale used',                 'ValidatedScaleMeasYN',        'binary'),
-    ('Study Identification & Design', 'Confounders assessed',                 'ConfoundYN',                  'binary'),
+    ('Study Identification & Design', 'Mediation analysis conducted',         'MediatingYN',                 'binary'),
+    ('Study Identification & Design', 'Moderation analysis conducted',        'ModeratingYN',                'binary'),
     ('Study Identification & Design', 'Inclusion/exclusion criteria stated',  'InclusionExclusionCriteria',  'binary'),
     ('Study Identification & Design', '≥13/14 design criteria present',       'MethodologyDescribedYN',      'binary'),
     ('Study Identification & Design', 'Funding/COI disclosed',                'Funding/COI YN',              'binary'),
@@ -405,7 +407,7 @@ USPSTF_INDICATORS = [
     ('Outcomes & Follow-Up',          'Positive primary result',              'Pos Result Y/N',              'binary'),
     ('Outcomes & Follow-Up',          'Effect size reported',                 'Outcome',                     'reported'),
     ('Outcomes & Follow-Up',          'Test statistic reported',              'SD',                          'reported'),
-    ('Outcomes & Follow-Up',          'P-value reported',                     'PVal',                        'reported'),
+    ('Outcomes & Follow-Up',          'Hypothesis test reported',             'HypothesisTestReportedYN',    'binary'),
     ('Outcomes & Follow-Up',          'Follow-up duration reported',          'Followup in months',          'reported'),
     ('Outcomes & Follow-Up',          'Behavioral changes measured',          'BehaviorChangeMeasured',      'binary'),
     ('Outcomes & Follow-Up',          'Physical/biological measured',         'PhysicalChangeMeasured',      'binary'),
@@ -656,7 +658,7 @@ def generate_for_condition(condition: str) -> None:
                 italic=True)
 
     # ---------------- Table 3 ----------------
-    add_heading(doc, 'Table 3. USPSTF Indicator Gap Heat Map (52 Indicators \xd7 6 Domains)')
+    add_heading(doc, 'Table 3. USPSTF Indicator Gap Heat Map (53 Indicators \xd7 6 Domains)')
     add_caption(doc,
                 f'Cell shading reflects % of all studies (n={n_total}) meeting/reporting '
                 f'each indicator. Red = low (gap); green = high (well covered). '

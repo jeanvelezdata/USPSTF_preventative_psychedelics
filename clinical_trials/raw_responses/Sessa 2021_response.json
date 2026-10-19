@@ -17,7 +17,6 @@
       "EligibilityFailedCriterion": "NA",
       "Outcome": "12/14 (85.7%) completed both MDMA sessions; 0 unexpected AEs",
       "SD": ".",
-      "PVal": ".",
       "SampleSize_NFinal": 14,
       "Pos Result Y/N": 1,
       "Clincial Trial YN": 1,
@@ -28,7 +27,9 @@
       "PrimaryCare": 0,
       "Power": 0,
       "Retention (%)": 85.7,
-      "ConfoundYN": 1,
+      "MediatingYN": 0,
+      "ModeratingYN": 0,
+      "HypothesisTestReportedYN": 0,
       "InclusionExclusionCriteria": 1,
       "ValidatedScaleMeasYN": 1,
       "MethodologyDescribedYN": 1,
@@ -120,7 +121,6 @@
     "article": {
       "Outcome": "The article's stated main/primary outcome measures are safety and tolerability endpoints (Methods: 'number of patients completing the 8-week psychotherapy course, the number accepting the second booster dose of MDMA... and adverse events'), not the drinking-behaviour data, which the Methods explicitly label a secondary outcome. Per the primary-vs-secondary boundary rule, Outcome is coded from the primary endpoint: 12/14 (85.7%) participants received both MDMA sessions (Results, 'Physiological and Tolerability Effects' section) and the Adverse Events section states no unexpected AEs occurred. No formal completion-rate statistic for the full 8-week course is given as a single number. This is a discrepancy worth flagging: the article's only SUD-related outcome (drinking units/week, TLFB) is secondary, which is why the article passes eligibility criterion (b), but Outcome itself reflects the primary safety/tolerability endpoint, not the drinking data.",
       "SD": "No dispersion or test statistic accompanies the primary completion/AE outcome; the study explicitly performed no hypothesis testing ('As this is a non-RTC, open label study, no hypothesis testing was performed').",
-      "PVal": "No p-value is reported for the primary outcome; consistent with the stated absence of hypothesis testing in this open-label feasibility study.",
       "SampleSize_NFinal": "14 is the full enrolled/dosed cohort ('14 were enrolled'; 'n=14 eligible participants who underwent the course of MDMA-assisted psychotherapy') and is the denominator for the primary completion and AE reporting.",
       "MethodologyDescribedYN": {
         "criteria": {
@@ -133,7 +133,9 @@
         "note": "Design, setting (Addaction substance misuse service, Clinical Research and Imaging Centre), full inclusion/exclusion lists, intervention dosing, absence of comparator/randomization/blinding, outcomes, results, AEs, and funding/COI ('Alexander Mosely Charitable Foundation'; 'Declaration of Interests: None') are all explicitly described. Only sample_size_power fails: the article states no formal statistical/power justification for the N=14 sample beyond noting 'a relatively small sample size' as a post-hoc limitation, with no a priori or post hoc power discussion."
       },
       "Retention (%)": "Study is not randomized, so the enrolled N (14) is the denominator per the non-randomized rule. Numerator is ambiguous: the clearest single completion figure reported is '12 of the fourteen participants received both sessions of MDMA-assisted psychotherapy' (85.7%). An alternative reading from the Figure 3 caption ('One participant dropped out of the study at 3-months and two patients failed to provide data at 9-month follow-up') would suggest 13/14 (92.9%) if only the formal drop-out counts as attrition. The 12/14 figure was chosen because it ties directly to completion of the core MDMA-assisted intervention, which is the study's stated primary retention-relevant outcome.",
-      "ConfoundYN": "Coded 1 based on the Discussion's substantive treatment of non-randomization as a confound when comparing BIMA outcomes to the historical 'Outcomes Study' comparator cohort ('it is not appropriate to statistically compare these two studies – as patients were not randomised into the studies').",
+      "MediatingYN": "No formal mediation analysis (indirect-effect test, causal mediation model, Baron-and-Kenny-style regression) is reported. Candidate mediators (empathy/compassion scales) were measured but the article states those results 'will be published in forthcoming papers,' so a mediator was measured but not formally tested here — this is 0 (measured, no test), not 3 (never measured). The Discussion's claims about mechanism (e.g., MDMA 'may contribute to improved self-awareness') are narrative only.",
+      "ModeratingYN": "No formal moderation analysis (interaction term, subgroup-by-treatment interaction, stratified effect-modification test) is reported anywhere. Candidate moderators (age, sex, baseline AUD severity) were measured, so 0 (measured, no formal test) rather than 3 (never measured).",
+      "HypothesisTestReportedYN": "Coded 0 on the explicit statement in Data Analysis: 'As this is a non-RTC, open label study, no hypothesis testing was performed.' The primary outcomes (completion counts, booster acceptance, AE occurrence) are reported purely descriptively (counts/percentages), with no p-value, CI excluding null, named test statistic, or verbal significance claim anywhere for them.",
       "Power": "No a priori or post hoc power calculation or discussion is present anywhere in the text. The Limitations section states only 'a relatively small sample size', which does not explicitly invoke statistical power, so this was not treated as meeting the 'bare statement of underpowered' threshold.",
       "PrimaryCare": "Recruitment was from a specialist community substance-misuse service (Addaction) and academic/NHS mental-health/neuropsychopharmacology centres; no interface with primary-care (GP) settings or providers is described.",
       "BaseStatus": "The article reports AUD severity as spanning both bands ('most eligible participants in the moderate to severe range', Figure 1/SADQ/SIP). Given the closed enum forces a single value, 'Severe' was chosen as best judgment, supported by the population's detoxification requirement and high rates of alcohol-related blackouts (64%), withdrawal seizures (14%), risky incidents (86%) and forensic history (75%). This is a genuine judgment call given the mixed 'moderate to severe' description.",
@@ -146,7 +148,8 @@
       "Comparator/RandomizationYN/BlindingYN/Double+Blind": "Open-label, single-arm, non-placebo-controlled feasibility study ('this trial... it was an open-label, non-placebo-controlled study. Therefore all patients knew they would be getting MDMA'). Per PromptVersion v1.2, these four design elements are coded 0 (absent), not 3, since the concept clearly applies to this design and was simply not implemented.",
       "QualityOfLifeMeasured": "Quality of life was listed as a secondary outcome and data were collected ('changes... quality of life measures... will be published in forthcoming papers'), but detailed QoL results are deferred to a future paper and not reported quantitatively here.",
       "Implementation Outcome": "The study's stated main outcome measures include completion of the 8-week course and acceptance of the second booster MDMA dose, which are feasibility/acceptability implementation outcomes.",
-      "EligibilityNote / EligibilityFailedCriterion": "Both coded 'NA' because EligibleYN = 'Y': the article reports a prospectively planned open-label clinical trial (criterion a) with a secondary SUD outcome (drinking units/week via TLFB, criterion b)."
+      "EligibilityNote / EligibilityFailedCriterion": "Both coded 'NA' because EligibleYN = 'Y': the article reports a prospectively planned open-label clinical trial (criterion a) with a secondary SUD outcome (drinking units/week via TLFB, criterion b).",
+      "SchemaRevisionNote": "2026-09-03 schema-revision splice: ConfoundYN/PVal removed, MediatingYN/ModeratingYN/HypothesisTestReportedYN added, sourced from a separate v3 extraction run (PromptVersion v1.3) rather than this file's own v1.2 run. Every other field in this file is unchanged from the original v1.2 extraction -- this file is now a hybrid of two runs for these 3 fields only. See clinical_adjudication.md '2026-09-03 -- Coding-scheme revision' for the full rationale."
     },
     "ae_events": {
       "Sessa 2021_AE01": "Included despite being framed by the authors as an expected, benign drug effect, per the instruction not to silently absorb reported safety-monitoring findings; graded Mild because the article states values stayed within normal limits and no intervention was required for any participant except the one captured separately in AE02.",

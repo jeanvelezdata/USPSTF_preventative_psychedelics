@@ -24,7 +24,8 @@ from docx.shared import Inches, Pt, RGBColor
 
 BINARY_COLS: list[str] = [
     'Pos Result Y/N', 'Clincial Trial YN', 'RandomizationYN', 'BlindingYN',
-    'Double+Blind', 'Comparator', 'PrimaryCare', 'Power', 'ConfoundYN',
+    'Double+Blind', 'Comparator', 'PrimaryCare', 'Power',
+    'MediatingYN', 'ModeratingYN', 'HypothesisTestReportedYN',
     'InclusionExclusionCriteria', 'ValidatedScaleMeasYN', 'MethodologyDescribedYN',
     'Funding/COI YN', 'SocioeconomicStatusYN', 'RecruitmentRepresentYN',
     'InterventionTherapy', 'HarmsAssessed', 'CulturalFraming',

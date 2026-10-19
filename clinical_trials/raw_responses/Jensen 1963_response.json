@@ -14,7 +14,6 @@
       "Temperature": 1,
       "Outcome": "74% vs 41%",
       "SD": ".",
-      "PVal": ">.01",
       "SampleSize_NFinal": 91,
       "Pos Result Y/N": 1,
       "Clincial Trial YN": 1,
@@ -25,7 +24,9 @@
       "PrimaryCare": 0,
       "Power": 0,
       "Retention (%)": 72.8,
-      "ConfoundYN": 0,
+      "MediatingYN": 0,
+      "ModeratingYN": 0,
+      "HypothesisTestReportedYN": 1,
       "InclusionExclusionCriteria": 0,
       "ValidatedScaleMeasYN": 0,
       "MethodologyDescribedYN": 0,
@@ -146,7 +147,6 @@
     "article": {
       "Outcome": "The article's Results section reports a single explicit inferential test: 'A chi-square test showed that significantly more of the alcoholics treated with LSD were dry or improved at the time of follow-up, than patients receiving group therapy alone or of the controls.' The dichotomization actually tested is dry-or-improved vs. unimproved. Counting: LSD-treated dry-or-improved = 39+7=46 of 62 followed up = 74.2% (rounds to 74%); controls dry-or-improved = 8+4=12 of 29 followed up = 41.4% (rounds to 41%). The article also separately breaks out a dry-only rate (39/62=63% LSD vs 8/29=27% control), but this narrower category is a descriptive component, not itself the category the printed chi-square test evaluated; the dry-or-improved dichotomy was chosen as Outcome because it is the one the authors' own stated inferential test addresses. This is a non-obvious judgment call — a reviewer could reasonably prefer the dry-only breakdown (63% vs 27%) instead.",
       "SD": "No chi-square statistic value or degrees of freedom is printed anywhere in the article; the authors state only that 'a chi-square test showed' the group difference, followed by a parenthetical p-value notation (captured in PVal). With no numeric test statistic to report, SD is coded '.'.",
-      "PVal": "Printed exactly as '(P> .01)' immediately after the chi-square sentence. Transcribed verbatim as '>.01' per the non-fabrication rule against constructing a decoding theory for a number that looks internally inconsistent: the prose claims the LSD group was 'significantly' better, which conventionally implies P<.01, yet the printed inequality reads P>.01 (greater than, not less than). This is flagged as a likely typographical/OCR inversion of '<' vs '>', but the value is reported exactly as printed rather than silently corrected.",
       "SampleSize_NFinal": "91 = 62 (LSD-treated patients followed up 6-18 months, of the 70 who received the full LSD programme, 8 lost to follow-up) + 29 (controls followed up, of 55 total, 26 lost to follow-up). This is the combined denominator underlying the 74%-vs-41% dry-or-improved comparison used in Outcome.",
       "MethodologyDescribedYN": {
         "criteria": {
@@ -175,7 +175,9 @@
       "Comparator": "1. A non-randomized comparator group of 55 patients exists — those admitted when no beds were available for the LSD programme, who instead 'received individual treatment by other psychiatrists.' This is a naturalistic/administrative comparator, not a randomized or matched control, which is noted here as a design limitation.",
       "Power": "0. No a priori or post hoc power discussion appears anywhere in the article.",
       "Retention (%)": "72.8 = (62 LSD followed-up + 29 control followed-up) / (70 LSD enrolled + 55 control enrolled) x 100 = 91/125 = 72.8%. The study is not randomized, so the enrolled N (not a randomized N) is used as the denominator per convention. Component counts ('eight were lost to follow-up' of 70; '26 lost to follow-up' of 55) are given directly in the Results section.",
-      "ConfoundYN": "0. The article notes that referred patients were generally severe cases ('their policy has been to refer their most severe or chronic cases to the Saskatchewan Hospital'), which is background/prognostic framing for the treated population as a whole, but no statistical adjustment, stratification, or explicit comparison of baseline severity between the LSD and control groups is performed or discussed. Judgment call — a reviewer could argue this framing constitutes a substantive discussion of a potential confound.",
+      "MediatingYN": "No formal mediation analysis (indirect-effect test, Baron-and-Kenny-style regression) is reported. The paper narratively discusses possible mechanisms (abreaction, transcendental surrender, breakdown of defences) but runs no statistical test of them as mediators — coded 0, not 1.",
+      "ModeratingYN": "No interaction term or subgroup-by-treatment test is reported. Case 5's use of a higher (400 gamma) second dose after a poor response to 200 gamma is an individual clinical decision, not a formal moderation analysis — coded 0, not 1.",
+      "HypothesisTestReportedYN": "A chi-square test is explicitly reported for the primary dry-or-improved comparison ('a chi-square test showed that significantly more...'), satisfying the field even though the statistic's numeric value and df are not given (see SD).",
       "InclusionExclusionCriteria": "0. Only a referral-source policy is described (severity-based triage from the Alcoholic Counselling Centre in Regina); no formal inclusion or exclusion criteria (diagnostic criteria, comorbidity exclusions, age limits) for study entry are stated.",
       "ValidatedScaleMeasYN": "0. Outcome is classified by follow-up interview into dry/improved/unimproved categories devised by the authors; no named validated scale or psychometric instrument (e.g., AUDIT, ASI) is used.",
       "Funding/COI YN": "0. No funding source, grant support, or conflict-of-interest disclosure appears anywhere in the article text; only the presentation venue (Third World Congress of Psychiatry, 1961) and author affiliation are given.",
@@ -195,7 +197,8 @@
       "RelapseMeasured": "1, judgment call. The dry classification explicitly accounts for 'a short testing bout of drinking immediately after discharge,' and the unimproved category tracks continued/returned drinking, indicating that return-to-use was tracked as part of follow-up classification, even though no distinct time-to-relapse metric is reported.",
       "EligibleYN": "Y. (a) Clinical trial: a prospectively planned single LSD-25 administration under a defined 2-month inpatient research programme, with an assigned regimen and prospective 6-18 month outcome assessment against a comparator group — passes. (b) SUD outcome: drinking status (dry/improved/unimproved) is the article's central reported outcome — passes.",
       "EligibilityNote": "NA because EligibleYN='Y'.",
-      "EligibilityFailedCriterion": "NA because EligibleYN='Y'."
+      "EligibilityFailedCriterion": "NA because EligibleYN='Y'.",
+      "SchemaRevisionNote": "2026-09-03 schema-revision splice: ConfoundYN/PVal removed, MediatingYN/ModeratingYN/HypothesisTestReportedYN added, sourced from a separate v3 extraction run (PromptVersion v1.3) rather than this file's own v1.2 run. Every other field in this file is unchanged from the original v1.2 extraction -- this file is now a hybrid of two runs for these 3 fields only. See clinical_adjudication.md '2026-09-03 -- Coding-scheme revision' for the full rationale."
     },
     "ae_events": {
       "Jensen 1963_AE01": "SeverityIndeterminate='Y'. The article states only that higher-than-routine doses (>200 gamma) produce 'confusion or amnesia' that is 'undesirable and sometimes even disturbing,' with no information on duration, whether it resolved within the session or persisted, or whether any intervention was needed. Absent such signals, defaulted to Mild per the under-specified-AE rule, flagged indeterminate rather than silently absorbed into a confident grade. Onset coded 'post-session-acute' because the text frames the difficulty as arising 'later, when he is trying to establish for himself the reality of the experience,' i.e. after the acute drug effect, though this too is imprecise.",

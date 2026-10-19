@@ -17,7 +17,6 @@
       "EligibilityFailedCriterion": "NA",
       "Outcome": "~50% vs ~60% relapsed by 3 months (high vs low dose)",
       "SD": ".",
-      "PVal": "<0.05",
       "SampleSize_NFinal": 70,
       "Pos Result Y/N": 1,
       "Clincial Trial YN": 1,
@@ -28,7 +27,9 @@
       "PrimaryCare": 0,
       "Power": 0,
       "Retention (%)": 100,
-      "ConfoundYN": 1,
+      "MediatingYN": 0,
+      "ModeratingYN": 3,
+      "HypothesisTestReportedYN": 1,
       "InclusionExclusionCriteria": 1,
       "ValidatedScaleMeasYN": 1,
       "MethodologyDescribedYN": 1,
@@ -94,7 +95,6 @@
     "article": {
       "Outcome": "Section 2.10: 'The rate of abstinence and relapse was considered the primary outcome variable.' Fig. 1 plots monthly abstinence/relapse over 24 months but its picture-text is not legibly recoverable from the converted markdown, and no single summary statistic for the full 24-month comparison is printed in prose. The clearest textual quantification of the primary high-vs-low-dose comparison is the Discussion's statement (Section 4): 'Almost 50% of patients in the high dose group and 60% of subjects in the low dose group relapsed within the first 3 months after KPT.' Coded as this two-group descriptor rather than fabricating a point estimate for the full follow-up.",
       "SD": "No dispersion or test statistic (t, F, chi-square) is printed for the abstinence/relapse comparison anywhere in the text; Fig. 1 marks significance with asterisks only (caption: '* p<.05; ** p<.01'), and the figure's underlying values are not recoverable from the garbled picture-text in the converted document. Coded not reported.",
-      "PVal": "Section 3.2 states the high-vs-low dose difference in abstinence/relapse 'were statistically significant starting from the first month and then for almost all of the 24 months of follow-up.' Fig. 1's caption gives the significance thresholds used ('* p < .05; ** p < .01') but no single exact p-value is printed for the overall primary comparison, so the minimum threshold from the figure legend is used per the printed-threshold convention.",
       "SampleSize_NFinal": "All 70 randomized subjects (35 high dose, 35 low dose; Section 2.2) were tracked for the abstinence/relapse primary outcome via monthly self/relative report and urine testing through 24 months (Sections 2.7.2, 3.2); no differential loss to the primary-outcome analysis prior to relapse itself is reported, so N=70 is used as the analyzed denominator.",
       "MethodologyDescribedYN": {
         "criteria": {
@@ -109,7 +109,9 @@
       "Comparator": "Coded 1 per the dose-comparison rule: the low-dose (0.2 mg/kg) ketamine arm is explicitly described as an 'active placebo' condition (Sections 2.1, 2.3) receiving identical psychotherapy but a sub-hallucinogenic dose, contrasted with the high-dose (2.0 mg/kg) psychedelic arm. This is a within-substance dose-comparison design, not a placebo-vs-drug or drug-vs-no-treatment design.",
       "BaseStatus": "Coded 'Severe': inclusion required an ICD-10/DSM-IV diagnosis of current Heroin Dependence for at least one year (Section 2.4.1), intravenous use is implied (follow-up examined 'evidence of injection sites over the subject's veins,' Section 2.7.2), and all subjects required inpatient detoxification before enrollment (Section 2.2) — consistent with a severe, physiologically dependent population. No formal severity instrument/score is reported, so this is inferred from diagnostic and clinical-course description rather than a graded scale.",
       "Retention (%)": "Coded 100 with denominator 70 (the randomized N, equal to the enrolled/screened N per Section 2.2: 'All 70 subjects were screened, evaluated and randomized'). No dropout prior to or during the single KPT session is reported; all subjects were 'discharged from the hospital after they completed KPT' (Section 2.2). Post-treatment loss to follow-up occurs only after relapse ('We were unable to follow patients after they relapsed to heroin,' Section 2.7.2), which is the outcome event itself (RelapseMeasured), not protocol attrition, so it is not treated as a retention loss.",
-      "ConfoundYN": "Coded 1: Section 2.2 reports formal statistical comparison of the two dose groups on age, duration of heroin addiction, and duration of pre-treatment abstinence, finding no significant baseline differences — a between-group confound check, though no covariate adjustment is applied in the outcome analyses themselves.",
+      "MediatingYN": "The Discussion narratively proposes that 'the higher rate of abstinence in the high dose group was to some extent due to positive effects of ketamine on craving' (craving was measured via the VASC), but no formal mediation/indirect-effect model or Baron-and-Kenny-style test is reported. Per the prompt's rule, a narrative mechanistic claim with a measured candidate variable but no formal test is coded 0, not 1 or 3.",
+      "ModeratingYN": "No interaction term or subgroup-by-treatment effect-modification test was reported. Baseline variables (age, sex distribution, duration of addiction/abstinence) were compared only to establish inter-group balance at baseline, not analyzed as effect modifiers of the treatment-dose effect. Because no candidate moderator was ever tested for effect modification (only compared for balance), coded 3 rather than 0.",
+      "HypothesisTestReportedYN": "The primary abstinence/relapse comparison is described in text as 'statistically significant' from month 1 through nearly all of the 24-month follow-up, and Fig. 1's legend carries explicit significance asterisks (*p<.05, **p<.01), satisfying the 'explicit verbal significance claim' criterion even though no test-statistic/df pair is recoverable from the converted text for SD.",
       "ArmScope": "Coded 'pooled': the article's only quantified adverse-event statement ('The only side effect noted in all subjects was an acute increase in...blood pressure,' Section 3.12) is not broken out by dose group, so the AE figures span both the high-dose (psychedelic) and low-dose (active-placebo/comparator) arms rather than the psychedelic arm alone.",
       "PhysicalChangeMeasured": "Coded 1: acute blood pressure change during the ketamine session (Section 3.12) and urine drug testing at each follow-up point (Section 2.7.2) are physiological/biochemical measures, distinct from the behavioral and psychometric outcomes.",
       "QualityOfLifeMeasured": "Coded 0: the Purpose-in-Life Test and Spirituality Changes Scale (Sections 2.6.2, 3.9-3.10) assess meaning/purpose and spiritual development, not a validated quality-of-life instrument; no QoL-labeled measure appears in the assessment battery.",
@@ -117,7 +119,8 @@
       "RecruitmentRepresentYN": "Coded 0: eligibility restricted the sample to ages 18-30 with at least a high-school education, a stable address and home phone, a relative willing to assist with follow-up, no current probation, and exclusion of psychiatric comorbidity or polydrug/alcohol dependence (Section 2.4) — a substantially screened, volunteer clinical-trial sample rather than a representative cross-section of heroin-dependent patients.",
       "Power": "Coded 0: no a priori or post hoc statistical power or sample-size justification appears anywhere in Methods (Section 2.10) or elsewhere in the article.",
       "PercentFem": "8/35 female in the high-dose group plus 7/35 in the low-dose group (Section 2.2) = 15/70 = 21.4%.",
-      "MortalityMeasured": "Coded 0: overdose mortality is mentioned only as background context on the Russian heroin-addicted population generally ('Many individuals die because of overdose,' Section 2.2), not tracked or reported as a study outcome or adverse event."
+      "MortalityMeasured": "Coded 0: overdose mortality is mentioned only as background context on the Russian heroin-addicted population generally ('Many individuals die because of overdose,' Section 2.2), not tracked or reported as a study outcome or adverse event.",
+      "SchemaRevisionNote": "2026-09-03 schema-revision splice: ConfoundYN/PVal removed, MediatingYN/ModeratingYN/HypothesisTestReportedYN added, sourced from a separate v3 extraction run (PromptVersion v1.3) rather than this file's own v1.2 run. Every other field in this file is unchanged from the original v1.2 extraction -- this file is now a hybrid of two runs for these 3 fields only. See clinical_adjudication.md '2026-09-03 -- Coding-scheme revision' for the full rationale."
     },
     "ae_events": {
       "Krupitsky 2002_AE01": "Section 3.12: 'There were no complications, such as protracted psychosis or flashbacks, after KPT... The only side effect noted in all subjects was an acute increase in systolic and particularly diastolic blood pressure of 20-30% during the session.' No CTCAE grade or SAE label is assigned by the authors, so severity was graded via the rubric: a transient, expected physiological effect of ketamine dosing, with no reported pharmacological intervention and explicit authorial statement that 'no such complications occurred' -> Mild, not indeterminate. Reported as affecting 'all subjects' without a per-dose-group breakdown, so NAffected/AE_denominator = 70 and ArmScope is coded pooled rather than psychedelic_arm."

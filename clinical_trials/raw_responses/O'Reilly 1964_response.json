@@ -17,7 +17,6 @@
       "EligibilityFailedCriterion": "NA",
       "Outcome": "38% abstinence (26/68) at follow-up; single-arm, no comparator",
       "SD": ".",
-      "PVal": ".",
       "SampleSize_NFinal": 68,
       "Pos Result Y/N": 1,
       "Clincial Trial YN": 1,
@@ -28,7 +27,9 @@
       "PrimaryCare": 0,
       "Power": 0,
       "Retention (%)": 89.7,
-      "ConfoundYN": 1,
+      "MediatingYN": 0,
+      "ModeratingYN": 0,
+      "HypothesisTestReportedYN": 1,
       "InclusionExclusionCriteria": 1,
       "ValidatedScaleMeasYN": 0,
       "MethodologyDescribedYN": 0,
@@ -120,7 +121,6 @@
     "article": {
       "Outcome": "Findings section: 'Twenty-six patients, or 38% of the total group were found to be abstaining from alcohol in the two months preceding follow-up' (26/68). This is the article's sole quantitative treatment-outcome result (no comparator group exists), consistent with the Summary. The secondary correlate finding (46% of abstainers vs 6% of non-abstainers showed the depression/transcendental-experience pattern) is a predictor analysis, not the primary treatment outcome, so it was not chosen as Outcome.",
       "SD": "No dispersion or test statistic is reported alongside the 38% abstinence proportion itself; the only significance testing reported ('.01 level of significance') attaches to the depression/transcendental-experience correlate analysis, a different (secondary) analysis, so it cannot be paired with Outcome. Coded '.'.",
-      "PVal": "No p-value is reported for the primary abstinence proportion (26/68 = 38%) itself; the article states only that 'there was no significant change in abstinence... between the two periods' (a different, within-subject comparison), without a printed p-value or threshold. Coded '.'.",
       "SampleSize_NFinal": "68 is the denominator the authors themselves used for the headline rate: 26/68 = 38% ('Twenty-six patients, or 38% of the total group'). This is despite the separate note that 'complete information was available on all but seven patients' (61/68) — that 61/68 figure describes data-completeness, not the denominator used for Outcome.",
       "MethodologyDescribedYN": {
         "criteria": {
@@ -137,7 +137,9 @@
       "PrimaryCare": "26 of 68 referrals came from the Bureau of Alcoholism and 42 from private physicians, but this describes only the referral source, not an interface between the treatment/study itself and primary-care settings or providers — treatment was entirely psychiatric-ward-based. Coded 0.",
       "Retention (%)": "Study was not randomized, so denominator is the enrolled N=68. 'Complete information was available on all but seven patients' → 61/68 = 89.7%, used as Retention (%). This reflects follow-up data completeness rather than treatment dropout, since nearly all patients completed the single LSD session before discharge.",
       "ValidatedScaleMeasYN": "No validated psychometric scale or SUD instrument (e.g., AUDIT, ASI) is named anywhere; abstinence status was determined via questionnaire and corroborating-source report, not a standardized instrument. Coded 0.",
-      "ConfoundYN": "Findings section statistically tested age, marital status, educational level, AA/church membership, years of uncontrolled drinking, psychiatric diagnosis, number of prior psychiatric treatments, and treating psychiatrist as potential correlates of abstinence (all non-significant except the depression/transcendental-experience factor). Coded 1.",
+      "MediatingYN": "The 'nature of the experience' (depression and/or transcendental quality) is examined as a correlate of abstinence via a simple contingency/correlation ('identified 46% of the abstainers and occurred with only 6% of the non-abstainers,' significant at .01), not as a formal mediator of an LSD-to-abstinence pathway — no indirect-effect test, product-of-coefficients test, or Baron-and-Kenny-style regression sequence is reported. Under the v1.3 formal-analysis threshold this is 0, not 1.",
+      "ModeratingYN": "Age, marital status, educational level, AA/church membership, years of uncontrolled drinking, psychiatric diagnosis, number of prior psychiatric treatments, and treating psychiatrist are each tested for bivariate association with abstinence and reported side by side (all non-significant); no interaction term or treatment-by-factor moderation model is reported, and the single-arm design has no treatment-effect contrast to moderate against in the first place. Coded 0 under the formal-analysis threshold — not 3, since these candidate moderators were explicitly measured and tested, just not via a formal interaction model.",
+      "HypothesisTestReportedYN": "The primary outcome (38% abstinence, 26/68) is itself reported descriptively with no attached test statistic (see SD). However, inferential tests were run on abstinence-related comparisons within the same outcome domain: 'there was no significant change in abstinence or indulgence between the two periods' and the depression/transcendental correlate 'was found to correlate significantly with abstinence, at the .01 level of probability' — both explicit verbal significance claims tied to the study's primary outcome. Coded 1.",
       "BaseStatus": "62% of the cohort was diagnosed 'Chronic Alcoholism,' ~60% had been drinking uncontrolledly >10 years, and all were admitted to an inpatient psychiatric ward for treatment, indicating a severe, treatment-resistant baseline population. Coded 'Severe'.",
       "Age_Median": "Mean age 37 (range 20-62) falls in the 30-50 bracket.",
       "PercentFem": "8 females of 68 total = 11.8%.",
@@ -150,7 +152,8 @@
       "ReductionMeasured": "Article explicitly states non-abstainers were classed as such 'whether or not they showed some improvement,' i.e., partial reduction was not separately quantified or reported as a distinct outcome. Coded 0.",
       "RelapseMeasured": "Abstinence was compared between the 2-month post-treatment window and the last 2 months of the follow-up period specifically to detect change/relapse over time ('no significant change in abstinence or indulgence between the two periods'), and patients with repeat LSD treatments were analyzed on their most recent episode. Coded 1.",
       "SafetyReported / HarmsAssessed": "The article devotes discussion to adverse effects (citing Cohen & Ditman 1963) and reports its own safety findings (1/68 hospitalized for a psychotic reaction, plus physical-distress/post-treatment-disturbance correlates), so harms were assessed. SafetyReported='Y' and HarmsAssessed=1 per the required agreement rule.",
-      "NParticipantsWithAE / AE_denominator": "AE_denominator=68, the full treated cohort ('out of 68 patients only one patient...'). NParticipantsWithAE is coded '.' because only the psychotic-reaction count (n=1) is explicit; the physical-distress and post-treatment-disturbance categories carry no reported counts, so a reliable aggregate participant count cannot be given."
+      "NParticipantsWithAE / AE_denominator": "AE_denominator=68, the full treated cohort ('out of 68 patients only one patient...'). NParticipantsWithAE is coded '.' because only the psychotic-reaction count (n=1) is explicit; the physical-distress and post-treatment-disturbance categories carry no reported counts, so a reliable aggregate participant count cannot be given.",
+      "SchemaRevisionNote": "2026-09-03 schema-revision splice: ConfoundYN/PVal removed, MediatingYN/ModeratingYN/HypothesisTestReportedYN added, sourced from a separate v3 extraction run (PromptVersion v1.3) rather than this file's own v1.2 run. Every other field in this file is unchanged from the original v1.2 extraction -- this file is now a hybrid of two runs for these 3 fields only. See clinical_adjudication.md '2026-09-03 -- Coding-scheme revision' for the full rationale."
     },
     "ae_events": {
       "O'Reilly 1964_AE01": "Findings section states the abstinence-correlated (better-outcome) group showed 'no signs of physical distress' at follow-up, implying some patients did display physical distress after LSD, but no count, description, or duration is given anywhere in the article. Graded Mild per the rubric's default for under-specified AEs; SeverityIndeterminate=Y because no intervention/impairment/duration detail exists to grade further. SeveritySource='rubric' since the authors (pre-1980, pre-CTCAE) never assigned this event a severity label themselves.",

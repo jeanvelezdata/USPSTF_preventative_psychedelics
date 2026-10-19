@@ -181,5 +181,6 @@ Five things that are easy to get wrong here:
 When the user corrects your approach, append a one-line rule here before ending the session. Write it concretely ("Always use X for Y"), never abstractly ("be careful with Y"). If an existing line already covers the correction, tighten it instead of adding a new one. Remove lines when the underlying issue goes away (model upgrades, refactors, process changes).
 
 - Always invoke Python as `C:/Users/jeanv/miniforge3/python.exe`; the `python` and `py` shims resolve to the Microsoft Store stub and do nothing.
+- When trimming the authors' manuscript prose, delete only: keep every surviving sentence word-for-word. The only in-sentence edits allowed are logged corrections of numbers, citations and cross-references. Verify this with a script before handing the text over; never paraphrase, merge sentences or add framing unless asked.
 
 ---

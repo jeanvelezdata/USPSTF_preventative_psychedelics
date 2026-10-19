@@ -17,7 +17,6 @@
       "EligibilityFailedCriterion": "NA",
       "Outcome": 6.88,
       "SD": "F(1,26) = 6.88",
-      "PVal": 0.014,
       "SampleSize_NFinal": 28,
       "Pos Result Y/N": 1,
       "Clincial Trial YN": 1,
@@ -28,7 +27,9 @@
       "PrimaryCare": 0,
       "Power": 0,
       "Retention (%)": 100,
-      "ConfoundYN": 1,
+      "MediatingYN": 1,
+      "ModeratingYN": 0,
+      "HypothesisTestReportedYN": 1,
       "InclusionExclusionCriteria": 1,
       "ValidatedScaleMeasYN": 1,
       "MethodologyDescribedYN": 0,
@@ -80,7 +81,6 @@
     "article": {
       "Outcome": "The article headers its Results 'Primary outcome: Engagement (psychological and physical) in MBI' and the Aims state the study set out to test 'whether esketamine enhances engagement in MBI... and whether enhanced engagement has any impact on alcohol-related outcomes' -- so engagement, not the alcohol craving/consumption findings, is the stated primary outcome. Alcohol craving and consumption are explicitly analysed as secondary outcomes ('Alcohol-related secondary outcomes...were assessed using the ACQ-SF-R... and the TLFB'), so per the boundary-case rule for trials whose only SUD outcome is secondary, Outcome is coded from the primary (engagement) result and the discrepancy with the SUD-outcome-eligibility basis is flagged here. Of the three psychological-engagement statistics reported for the same analysis (group main effect F(1,26)=6.88, p=.014; time main effect F(2,56)=5.47, p=.007; time-by-group interaction F(2,52)=6.45, p=.003), the group main effect is used as Outcome/SD/PVal because it is the single-numerator-df test of the trial's primary condition comparison (esketamine vs placebo) and is cleanly convertible; the 2-df interaction and the esketamine-arm-only simple-effects t-test (t(52)=-3.29, p=.002) are alternative candidates for the same underlying finding but were not chosen. This selection among three co-equal-looking statistics is a genuine judgment call.",
       "SD": "'F(1, 26) = 6.88' is printed in the same sentence as the chosen group main-effect statistic (Results, 'Primary outcome: Engagement' paragraph: 'a significant main effect of group (F(1, 26) = 6.88, p = 0.014)'); degrees of freedom included in parentheses as required.",
-      "PVal": "0.014, printed immediately after the F-statistic in the same sentence (Results, 'Primary outcome' paragraph).",
       "SampleSize_NFinal": "N=28, the full randomized and analysed sample. The CONSORT flow diagram (Figure 2) shows Randomized (n=28) -> Esketamine (n=14)/Placebo (n=14) -> Received allocated drug (n=14 each) -> Completed 7-day follow-up (n=14 each) -> Analysed (n=14 each), i.e., zero attrition after randomization. This matches the mixed-model group-effect error df of 26 (28 participants - 2 groups = 26).",
       "MethodologyDescribedYN": {
         "criteria": {
@@ -110,8 +110,11 @@
       "PhysicalChangeMeasured": "Coded 0: BMI and blood pressure appear only as screening/eligibility criteria (Participants), and the pre-dose breathalyser check is a procedural safety gate rather than a reported outcome. CADSS and BSS are self-report subjective-experience scales (dissociation, bodily symptoms), not objective biomarkers, vital signs, or CO-level measures, and are captured instead under the mental-health/subjective-effects constructs; no physical or biological outcome is reported.",
       "QualityOfLifeMeasured": "Coded 0: the WEMWBS is a general mental well-being scale (captured under MentalHealthChangeMeasured), not a dedicated quality-of-life instrument (e.g., WHOQOL, SF-36); no such instrument is used in the study. Judgment call given the conceptual overlap between well-being and quality-of-life constructs.",
       "Implementation Outcome": "Coded 1: 'physical engagement' (self-reported frequency/dose of mindfulness practice) is one of the trial's two co-primary engagement outcomes, an adherence/feasibility-type measure explicitly adapted from Banerjee et al. (2018) (Measures, 'Engagement').",
-      "ConfoundYN": "Coded 1: a formal mediation analysis (Results, 'Mediation') tested psychological engagement as a mediator of the esketamine-to-alcohol-craving relationship (paths a, b, c'), directly assessing a mediating factor.",
-      "Followup in months": "Two horizons are reported: from baseline (day 1) to final follow-up (day 14) = ~2 weeks (0.5 months), and from end-of-treatment/drug administration (day 8) to final follow-up (day 14), which the authors themselves repeatedly label 'seven days post-drug' (e.g., 'a significant difference between pre-drug and seven days post-drug'; Figure 2's 'Completed 7-day follow-up'). Per the end-of-treatment measurement rule, the 7-days-post-drug (1-week) horizon is used: 0.25 months. This differs materially (roughly 2x) from the ~2-week from-baseline horizon."
+      "MediatingYN": "Coded 1: a formal mediation analysis is reported under its own 'Mediation' subheading (Results) -- a regression-based path model (path a: esketamine to psychological engagement; path b: engagement to alcohol craving; path c': direct effect of esketamine on craving) run in the jAMM module in Jamovi with bias-corrected 95% CIs and 5000-sample bootstrapping, testing the indirect effect (beta=0.03, p=.565). This is a Baron-and-Kenny-style formal mediation test, not a narrative mechanism claim, so it meets the field's 'formal analysis' threshold even though the indirect effect itself was non-significant.",
+      "ModeratingYN": "Coded 0, not 3: candidate moderators were measured (age, sex, prior mindfulness experience, prior recreational ketamine/cannabis use, ethnicity -- all reported at baseline in Table 1), but no interaction term, subgroup-by-treatment interaction test, or stratified effect-modification analysis using any of them was conducted anywhere in the article. The time-by-group interaction reported for the primary outcome tests the study's own repeated-measures design structure (time is the within-subjects factor, not a measured participant-level moderator such as age, sex, or baseline severity), so it is not treated as a moderation analysis in the codebook's sense. Because genuine candidate moderators were measured but never tested via a formal interaction, 0 (not 3) is coded.",
+      "HypothesisTestReportedYN": "Coded 1: the primary outcome (psychological engagement) has multiple explicit inferential tests reported in the same paragraph -- F(1,26)=6.88, p=.014 (group main effect); F(2,56)=5.47, p=.007 (time main effect); F(2,52)=6.45, p=.003 (time-by-group interaction); plus simple-effects t-tests (t(52)=-3.29, p=.002 for esketamine; t(52)=1.71, p=.093 for placebo). Regardless of which single statistic is selected for Outcome/SD, a hypothesis test was unambiguously and repeatedly reported for the primary outcome, so this is 1 either way.",
+      "Followup in months": "Two horizons are reported: from baseline (day 1) to final follow-up (day 14) = ~2 weeks (0.5 months), and from end-of-treatment/drug administration (day 8) to final follow-up (day 14), which the authors themselves repeatedly label 'seven days post-drug' (e.g., 'a significant difference between pre-drug and seven days post-drug'; Figure 2's 'Completed 7-day follow-up'). Per the end-of-treatment measurement rule, the 7-days-post-drug (1-week) horizon is used: 0.25 months. This differs materially (roughly 2x) from the ~2-week from-baseline horizon.",
+      "SchemaRevisionNote": "2026-09-03 schema-revision splice: ConfoundYN/PVal removed, MediatingYN/ModeratingYN/HypothesisTestReportedYN added, sourced from a separate v3 extraction run (PromptVersion v1.3) rather than this file's own v1.2 run. Every other field in this file is unchanged from the original v1.2 extraction -- this file is now a hybrid of two runs for these 3 fields only. See clinical_adjudication.md '2026-09-03 -- Coding-scheme revision' for the full rationale."
     },
     "ae_events": {},
     "config_proposal": {

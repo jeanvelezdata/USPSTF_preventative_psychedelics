@@ -73,7 +73,7 @@ _NULL_COLOR = '#4d4d4d'  # null (g=0) reference line
 
 plt.rcParams.update({
     'font.family':        'sans-serif',
-    'font.size':          9,
+    'font.size':          7,
     'axes.spines.top':    False,
     'axes.spines.right':  False,
     'axes.linewidth':     0.8,
@@ -153,19 +153,19 @@ def _draw_row(ax, r: dict, y: float) -> None:
     color    = SUBSTANCE_COLORS.get(str(r['substance']), '#444')
     is_clean = r['confidence'] == 'clean'
     alpha    = 1.0 if is_clean else 0.70
-    ms       = float(np.clip(1.0 / r['var_g'] * 14, 36, 300))
+    ms       = float(np.clip(1.0 / r['var_g'] * 4.6, 12, 100))
 
     ax.plot([r['ci_lo'], r['ci_hi']], [y, y],
-            color=color, alpha=alpha, lw=1.5, zorder=2, solid_capstyle='round')
+            color=color, alpha=alpha, lw=1.0, zorder=2, solid_capstyle='round')
     for x_cap in (r['ci_lo'], r['ci_hi']):
         ax.plot([x_cap, x_cap], [y - 0.17, y + 0.17],
-                color=color, alpha=alpha, lw=1.3)
+                color=color, alpha=alpha, lw=0.9)
     if is_clean:
         ax.scatter(r['g'], y, s=ms, color=color, marker='s',
-                   edgecolors='white', linewidths=0.7, zorder=3)
+                   edgecolors='white', linewidths=0.5, zorder=3)
     else:
         ax.scatter(r['g'], y, s=ms, facecolors='white',
-                   edgecolors=color, marker='s', linewidths=1.5, zorder=3)
+                   edgecolors=color, marker='s', linewidths=1.0, zorder=3)
 
 
 # ── Main plot ──────────────────────────────────────────────────────────────────
@@ -188,9 +188,11 @@ def make_unified_forest_plot(out_path: Path) -> None:
     # y positions: header at y_top, rows descend from y_top - 1
     y_top  = n_rows + 1
 
-    row_h  = 0.36          # inches per layout row
-    fig_h  = max(7.0, row_h * n_rows + 3.2)
-    fig_w  = 13.0
+    # Drawn at final print size (Elsevier full-page width, 190 mm) so text
+    # stays >= 7 pt without downscaling.
+    row_h  = 0.19          # inches per layout row
+    fig_h  = max(3.5, row_h * n_rows + 1.3)
+    fig_w  = 7.48
 
     fig = plt.figure(figsize=(fig_w, fig_h), facecolor='white')
     gs  = fig.add_gridspec(1, 3, width_ratios=[2.9, 4.5, 2.2], wspace=0.02)
@@ -222,14 +224,15 @@ def make_unified_forest_plot(out_path: Path) -> None:
     # ── Column headers ─────────────────────────────────────────────────────────
     hdr_y = y_top + 0.3
     ax_lbl.text(0.04, hdr_y, 'Study', fontweight='bold',
-                va='center', ha='left', fontsize=10)
+                va='center', ha='left', fontsize=7.5)
     ax_lbl.text(0.96, hdr_y, 'N', fontweight='bold',
-                va='center', ha='right', fontsize=10)
+                va='center', ha='right', fontsize=7.5)
     ci_mid = (x_min + x_max) / 2
     ax_ci.text(ci_mid, hdr_y, "Hedges' g  (95% CI)",
-               fontweight='bold', va='center', ha='center', fontsize=10)
+               fontweight='bold', va='center', ha='center', fontsize=7.5,
+               bbox=dict(facecolor='white', edgecolor='none', pad=1.5), zorder=5)
     ax_stat.text(0.04, hdr_y, 'g  [95% CI]', fontweight='bold',
-                 va='center', ha='left', fontsize=10, family='monospace')
+                 va='center', ha='left', fontsize=7.5, family='monospace')
 
     # Thin rule below column headers
     rule_y = y_top - 0.35
@@ -245,21 +248,21 @@ def make_unified_forest_plot(out_path: Path) -> None:
                 ax.axhspan(y - 0.48, y + 0.52, color=_COND_BG, zorder=0, lw=0)
             # Left border accent (thin coloured bar at x=0 edge)
             ax_lbl.plot([0.005, 0.005], [y - 0.48, y + 0.52],
-                        color=_COND_FG, lw=3.5, zorder=5,
+                        color=_COND_FG, lw=2.5, zorder=5,
                         solid_capstyle='butt', clip_on=False)
             ax_lbl.text(0.04, y, item['text'],
-                        fontweight='bold', fontsize=11,
+                        fontweight='bold', fontsize=8,
                         va='center', ha='left', color=_COND_FG)
 
         elif item['kind'] == 'substance_header':
             label_text = SUBSTANCE_DISPLAY.get(item['text'], item['text'])
             sub_color  = SUBSTANCE_COLORS.get(item['text'], _SUB_FG)
             # Small colour swatch before the label
-            ax_lbl.scatter([0.045], [y], s=36, color=sub_color,
+            ax_lbl.scatter([0.045], [y], s=14, color=sub_color,
                            marker='s', zorder=3)
             ax_lbl.text(0.10, y, label_text,
                         fontweight='bold', fontstyle='italic',
-                        fontsize=9.5, va='center', ha='left', color=_SUB_FG)
+                        fontsize=7, va='center', ha='left', color=_SUB_FG)
             ax_ci.axhline(y - 0.5, color=_SEP_COLOR, lw=0.5, zorder=0)
 
         elif item['kind'] == 'spacer':
@@ -271,14 +274,14 @@ def make_unified_forest_plot(out_path: Path) -> None:
 
             study_label = r['study']
             ax_lbl.text(0.14, y, study_label,
-                        va='center', ha='left', fontsize=9)
+                        va='center', ha='left', fontsize=7)
             ax_lbl.text(0.96, y, f"{int(r['N'])}",
-                        va='center', ha='right', fontsize=9)
+                        va='center', ha='right', fontsize=7)
 
             tag   = '' if r['confidence'] == 'clean' else '†'
             stats = f"{r['g']:+.2f}  [{r['ci_lo']:+.2f}, {r['ci_hi']:+.2f}]{tag}"
             ax_stat.text(0.04, y, stats, va='center', ha='left',
-                         fontsize=8.5, family='monospace')
+                         fontsize=7, family='monospace')
 
     # ── X-axis ticks and label ─────────────────────────────────────────────────
     step    = 0.5
@@ -286,18 +289,13 @@ def make_unified_forest_plot(out_path: Path) -> None:
     t_end   = np.floor(x_max / step) * step
     x_ticks = np.arange(t_start, t_end + step * 0.1, step)
     ax_ci.set_xticks(x_ticks)
-    ax_ci.tick_params(axis='x', labelsize=8.5, length=3, width=0.8, pad=3)
+    ax_ci.tick_params(axis='x', labelsize=7, length=3, width=0.8, pad=3)
     ax_ci.set_xlabel(
-        "← Favours comparator          Hedges' g          Favours psychedelic →",
-        fontsize=9, labelpad=6
+        "← Favours comparator      Hedges' g      Favours psychedelic →",
+        fontsize=7, labelpad=4
     )
 
-    # ── Title ─────────────────────────────────────────────────────────────────
-    fig.suptitle(
-        "Tier 1 Standardized Effect Sizes: Psychedelic-Assisted Therapies "
-        "for Substance Use Disorders",
-        fontsize=12, fontweight='bold', y=0.995, va='top',
-    )
+    # No in-image title: the journal carries titles in the figure caption.
 
     # ── Legend ────────────────────────────────────────────────────────────────
     present_subs = {
@@ -323,18 +321,19 @@ def make_unified_forest_plot(out_path: Path) -> None:
         handles=[clean_h, approx_h, weight_h] + sub_handles,
         loc='lower center', bbox_to_anchor=(0.5, 0.0),
         ncol=min(4, 3 + len(sub_handles)),
-        fontsize=8.5, framealpha=0.95, edgecolor='#bbbbbb',
-        columnspacing=1.2, handlelength=1.5,
+        fontsize=7, framealpha=0.95, edgecolor='#bbbbbb',
+        columnspacing=1.0, handlelength=1.3,
     )
 
     n_legend_rows = max(1, (3 + len(sub_handles) + 3) // 4)
-    bottom_pad    = max(0.08, (1.0 + 0.32 * n_legend_rows) / fig_h)
-    fig.subplots_adjust(top=0.97, bottom=bottom_pad, left=0.02, right=0.98)
+    bottom_pad    = max(0.06, (0.6 + 0.16 * n_legend_rows) / fig_h)
+    fig.subplots_adjust(top=0.99, bottom=bottom_pad, left=0.02, right=0.98)
 
     # ── Save ──────────────────────────────────────────────────────────────────
 
     out_path.parent.mkdir(parents=True, exist_ok=True)
     fig.savefig(out_path, dpi=300, bbox_inches='tight', facecolor='white')
+    fig.savefig(out_path.with_suffix('.pdf'), bbox_inches='tight', facecolor='white')
     plt.close(fig)
     print(f"Unified forest plot written to: {out_path}")
 

@@ -1,6 +1,6 @@
 # Clinical-Trial Extraction Codebook
 
-**Purpose.** Field-by-field conventions for the clinical-trial extraction (52 source variables + 2 identity columns + 19 added fields, one of them derived rather than extracted, over 48 articles), producing `clinical_trials/outputs/clinical_master.csv` and the linked `ae_events.csv`. Authoritative reference for the implementation pass and for the pinned per-article prompt. Architecture and workflow are in `clinical_system_design.md`; old↔new comparability is in `archived/migration/clinical_old_new_mapping.md`.
+**Purpose.** Field-by-field conventions for the clinical-trial extraction (53 source variables + 2 identity columns + 19 added fields, one of them derived rather than extracted, over 48 articles), producing `clinical_trials/outputs/clinical_master.csv` and the linked `ae_events.csv`. Authoritative reference for the implementation pass and for the pinned per-article prompt. Architecture and workflow are in `clinical_system_design.md`; old↔new comparability is in `archived/migration/clinical_old_new_mapping.md`. **A 2026-09 coding-scheme revision changed three of the 52 original source variables — see §11.**
 
 **Design principles.** Be precise, conservative, evidence-based. Assert only what is explicitly stated or clearly inferable. Never guess a number to fill a field — code it not-reported. Every non-obvious judgment is recorded in the `rationale` half, never buried in a value. Two additions specific to this codebook: for the four fields that position the forest plot (§4.3), a rationale entry is mandatory on *every* article, not only the non-obvious ones; and for adverse events, the cardinal error remains understating harm, so the observational pipeline's flag-don't-bury discipline (§6) carries over intact.
 
@@ -13,8 +13,8 @@
 | Group | Source | Stored field(s) | Table |
 |---|---|---|---|
 | Identity | `Citation/Title`, `Condition` (existing columns) | `Citation/Title`, `Condition`, plus derived `StudyID` | `clinical_master` |
-| Effect size (Tier 1) | `Outcome`, `SD`, `PVal`, `SampleSize_NFinal` | same names; `metric` / `measure` derived at clean time from `EFFECT_SIZE_EXTRACTIONS` | `clinical_master` → plot frame |
-| Design & methodological quality | 15 source variables | same names | `clinical_master` |
+| Effect size (Tier 1) | `Outcome`, `SD`, `SampleSize_NFinal` | same names; `metric` / `measure` derived at clean time from `EFFECT_SIZE_EXTRACTIONS` | `clinical_master` → plot frame |
+| Design & methodological quality | 16 source variables | same names | `clinical_master` |
 | Population & generalizability | 7 source variables | same names | `clinical_master` |
 | Intervention & harms | `InterventionDescription`, `InterventionTherapy`, `HarmsAssessed` | same names, **plus** the AE gate block (§4.10) and one row per distinct AE | both |
 | Equity & cultural framing | 3 source variables | same names | `clinical_master` |
@@ -23,7 +23,7 @@
 | — | eligibility screen (added, decision 9) | `EligibleYN`, `EligibilityFailedCriterion`, `EligibilityNote` | `clinical_master` |
 | — | AE severity (added, decision 6) | `SafetyReported`, `AnyAEReported`, `NumDistinctAEs`, `NParticipantsWithAE`, `AE_denominator`, `ArmScope`, `WorstSeverity` + `ae_events` rows | both |
 | — | provenance (added) | `text_source`, `text_format`, `SourcePDF`, `Model`, `PromptVersion`, `RubricVersion`, `Temperature` | `clinical_master` |
-| — | **dropped** | `url or link to pdf`, `Study Design Type` — removed per PI instruction. `Study Design Type` held the constant `"Clinical Trial"` in all 44 frozen rows and carried no information. | — |
+| — | **dropped** | `url or link to pdf`, `Study Design Type` — removed per PI instruction. `Study Design Type` held the constant `"Clinical Trial"` in all 44 frozen rows and carried no information. `ConfoundYN` and `PVal` were removed by the 2026-09 coding-scheme revision (§11); see `MediatingYN`, `ModeratingYN`, `HypothesisTestReportedYN` below for what replaced them. | — |
 
 **Composite detail.** `MethodologyDescribedYN` stays a single binary in the data half; its 14-criterion breakdown is captured as a structured object in the rationale half (§4.4). This is the one field whose rationale entry has a fixed schema rather than free text.
 
@@ -35,7 +35,7 @@ This is a **standalone dataset**. It shares no key with the observational datase
 
 | Table | Path | Grain |
 |---|---|---|
-| `clinical_master` | `clinical_trials/outputs/clinical_master.csv` (+ `.xlsx` export) | one row per article, 72 columns |
+| `clinical_master` | `clinical_trials/outputs/clinical_master.csv` (+ `.xlsx` export) | one row per article, 73 columns |
 | `ae_events` | `clinical_trials/outputs/ae_events.csv` | one row per distinct AE, FK `StudyID` |
 | `rationale_log` | `clinical_trials/outputs/rationale_log.md` | per-article and per-AE non-obvious calls |
 | `human_review_queue` | `clinical_trials/outputs/human_review_queue.csv` | `SeverityIndeterminate = Y` rows, ineligible articles, pending config proposals |
@@ -125,13 +125,12 @@ All seven provenance fields must be non-empty on every row (§8).
 
 ### 4.3 Tier-1 effect-size fields — stricter rules
 
-These four determine forest-plot position (constraint 3): `Outcome` drives `metric`/`measure`, `measure` and `SampleSize_NFinal` are the two arguments to `_lib.compute()`, and `SampleSize_NFinal` additionally sets marker size via `variance_g()` and CI width via `se_g`. An error here renders as a confident, correctly-styled marker in the wrong place, which is worse than a visible gap. **A `rationale.article` entry is mandatory for all four on every article**, whether or not the call was obvious — the only fields in this codebook with that requirement. The entry states which passage or table the value came from, and for `Outcome` which of the article's reported statistics was chosen and why.
+These three determine forest-plot position (constraint 3): `Outcome` drives `metric`/`measure`, `measure` and `SampleSize_NFinal` are the two arguments to `_lib.compute()`, and `SampleSize_NFinal` additionally sets marker size via `variance_g()` and CI width via `se_g`. An error here renders as a confident, correctly-styled marker in the wrong place, which is worse than a visible gap. **A `rationale.article` entry is mandatory for all three on every article**, whether or not the call was obvious — the only fields in this codebook with that requirement. The entry states which passage or table the value came from, and for `Outcome` which of the article's reported statistics was chosen and why. (`PVal` was a fourth member of this group before the 2026-09 revision; it never fed `_lib.compute()` and is now `HypothesisTestReportedYN`, a general design-quality binary — see §4.4 and §11.)
 
 | Field | Type | Valid values / rule |
 |---|---|---|
 | `Outcome` | text / numeric | The effect size or outcome statistic for **the study's stated primary outcome**, on the study's primary comparison. Numeric where possible (`1.23`), else a short labelled descriptor (`"OR = 2.1"`, `"63% vs 27%"`), else `"."`. **Sharpened** from "the largest or primary effect size": largest and primary are different statistics, and choosing the largest biases the forest plot upward. Precedence when no primary is designated: (1) the outcome the authors designate primary anywhere in the article; (2) the SUD-behavioral outcome the abstract leads with; (3) among genuinely co-equal primaries, the largest — and only then, with the tie and the choice recorded in `rationale`. |
 | `SD` | text | The dispersion or test statistic **paired with the value in `Outcome`** — not a different analysis's statistic. Report the label and value together, and **include degrees of freedom in parentheses whenever the statistic has them**: `"F(1,48) = 6.45"`, `"t(23) = 2.10"`, `"χ²(1) = 7.19"`, `"SD = 4.3"`, `"SE = 0.21"`. `"."` if not reported. **Sharpened**: `convert_to_d()` requires `df_error` for `method = "F"` and assumes 1 df for `chi2`; the frozen dataset lost df into free-text notes, which is why several studies were downgraded to `excluded`. A reported `F` without df is still reported as printed, with the absence noted. |
-| `PVal` | numeric / text | The p-value for the same primary outcome. Exact value when printed (`0.032`); the threshold string exactly as printed when only a threshold is given (`"<0.05"`, `">0.05"`). **Never convert `"NS"`, `"not significant"`, or `"ns"` into a number or a threshold** — record `"NS"` verbatim. `"."` if no p-value is reported at all. |
 | `SampleSize_NFinal` | integer | Final analyzed sample size **for the analysis that produced `Outcome`** — the denominator that `Outcome` was computed over, not the enrolled or randomized N unless those are the same. If the effect size comes from a subgroup or a completers-only analysis, this is that subgroup's N and `rationale` says so. `"."` if not derivable. **Sharpened**: `variance_g()` assumes `n1 = n2 = N/2` on exactly this number, so a mismatched N mis-sizes the marker and mis-widths the CI while leaving the point estimate looking correct. |
 
 `metric` and `measure` are **not** extracted fields. They are added at clean time by `_lib.extract_effect_size_fields()` from `EFFECT_SIZE_EXTRACTIONS`, keyed on `(surname, Year)`. The model's proposals for those entries go in `rationale.config_proposal`, never in `data` (`clinical_system_design.md` §5.3).
@@ -149,7 +148,9 @@ These four determine forest-plot position (constraint 3): `Outcome` drives `metr
 | `PrimaryCare` | binary | Did any aspect interface with primary care settings or providers? `1`/`0`/`3`/`"."`. |
 | `Power` | binary | Was statistical power reported or discussed (a priori calculation or post hoc)? `1`/`0`/`3`/`"."`. A bare statement that the study was underpowered counts as discussed (`1`). |
 | `Retention (%)` | number 0–100 | Percent of participants who completed the study. **Denominator sharpened**: use the randomized N when both randomized and enrolled are reported, since attrition after randomization is what the criterion measures; use enrolled when the study was not randomized. Calculate as `completers / denominator × 100` if not directly stated, and state the two counts used in `rationale`. `"."` if not calculable. Consumed by Table 2 and Table 3 at the ≥ 80% threshold, so a value near 80 warrants an explicit rationale entry. |
-| `ConfoundYN` | binary | Were confounding, moderating, or mediating factors assessed — statistically adjusted, stratified, or substantively discussed? `1`/`0`/`3`/`"."`. |
+| `MediatingYN` | binary | Was a formal mediation analysis conducted — an indirect-effect test, a causal mediation model, a Baron-and-Kenny-style regression sequence — examining whether a measured intermediate variable explains the mechanism between the intervention and the outcome? `1`/`0`/`3`/`"."`. **Formal-analysis threshold**: a narrative claim that some mechanism "may explain" the result, with no test run, is `0`, not `1` — say so in `rationale`. `3` when no mediator was ever measured, so the question does not apply. |
+| `ModeratingYN` | binary | Was a formal moderation analysis conducted — an interaction term, a subgroup-by-treatment interaction test, a stratified effect-modification analysis — examining whether the intervention's effect varied by a measured factor? `1`/`0`/`3`/`"."`. **Formal-analysis threshold**: reporting subgroup results side by side with no interaction test is `0`, not `1` — say so in `rationale`. `3` when no candidate moderator was ever measured. |
+| `HypothesisTestReportedYN` | binary | Was any inferential hypothesis test reported for the study's primary outcome — a p-value, a confidence interval excluding the null, a named test statistic (`t`/`F`/`χ²`), or an explicit verbal significance claim ("significantly different")? `1` if any inferential test was reported for the primary comparison; `0` if the primary result was reported purely descriptively (means, percentages, case narrative) with no inferential test anywhere for it; `3` if there is no primary comparison to test (e.g. a single-arm case series with no pre/post or between-group contrast); `"."` if the analysis approach cannot be determined from the article. **Replaces `PVal`** (§11) — this field asks only whether a test was reported, not what its value was; the actual statistic, when present, still lives in `SD`. |
 | `InclusionExclusionCriteria` | binary | Were inclusion and/or exclusion criteria clearly stated? `1`/`0`/`3`/`"."`. |
 | `ValidatedScaleMeasYN` | binary | Was at least one validated scale or psychometric measure used as an outcome? `1`/`0`/`3`/`"."`. Biochemical verification (CO, cotinine, urine screen) is not a scale; code it under `PhysicalChangeMeasured`. |
 | `MethodologyDescribedYN` | binary | Were **at least 13 of 14** design criteria present or described: (1) study objective, (2) study design, (3) setting, (4) eligibility criteria, (5) intervention, (6) comparator, (7) outcomes, (8) sample size / power, (9) randomization, (10) blinding, (11) statistical methods, (12) results, (13) harms / AEs, (14) funding / COI. `1` = ≥ 13 met; `0` = < 13; `"."` = cannot be assessed. **A criterion is met when the element is *described*, including when it is described as absent** — "no blinding was used" satisfies criterion (10) while `BlindingYN = 0`. Conflating "described" with "present" would penalize exactly the well-reported studies. |
@@ -350,7 +351,7 @@ The model returns, per article, a **single JSON object** with two halves and not
   },
   "rationale": {
     "article": {
-      "Outcome": "…", "SD": "…", "PVal": "…", "SampleSize_NFinal": "…",
+      "Outcome": "…", "SD": "…", "SampleSize_NFinal": "…",
       "MethodologyDescribedYN": { "criteria": { … }, "n_met": 12, "note": "…" },
       "FieldName": "why this non-obvious call was made"
     },
@@ -368,7 +369,7 @@ Rules:
 
 - Both halves are valid JSON. `data` is machine-validated against §4–§5 and the §8 gate; `rationale` is split into `rationale_log.md` at merge.
 - Source-variable binaries use only `1`, `0`, `3`, `"."` — never `"Y"`, `"N"`, `true`, `false`, or other strings. Added QC/provenance fields use only their listed string enums (§3.2).
-- `rationale.article` requires entries for `Outcome`, `SD`, `PVal`, `SampleSize_NFinal` on **every** article, and for `MethodologyDescribedYN` as the structured object above. Other fields need entries only where the call was non-obvious — but every use of `3`, every use of `"NA"`, every `SeverityIndeterminate = Y`, and every field affected by garbled input must be explained.
+- `rationale.article` requires entries for `Outcome`, `SD`, `SampleSize_NFinal` on **every** article, and for `MethodologyDescribedYN` as the structured object above. Other fields need entries only where the call was non-obvious — but every use of `3`, every use of `"NA"`, every `SeverityIndeterminate = Y`, and every field affected by garbled input must be explained.
 - `rationale.config_proposal` is the model's *proposal* for the `_config_<condition>.py` entries. It never enters `data` and is applied only through the ratification rule in `clinical_system_design.md` §5.3.
 - If input text appears garbled or truncated, code the affected fields not-reported and say so in `rationale`. **Never construct a decoding theory for garbled or internally inconsistent numbers** — report the number exactly as printed, or code it not-reported, and flag the inconsistency. A fabricated decode is worse than an honest "not reported."
 
@@ -380,7 +381,7 @@ Deterministic, run at merge. **Blocking failures prevent any output table from b
 
 **Blocking**
 
-- **Column set** exactly the 54 carried + 18 added names, spelled verbatim including `Clincial Trial YN`, `Funding/COI YN`, `Retention (%)`, `Followup in months`, `Implementation Outcome`, `Double+Blind`, `Pos Result Y/N`.
+- **Column set** exactly the 55 carried + 19 added names, spelled verbatim including `Clincial Trial YN`, `Funding/COI YN`, `Retention (%)`, `Followup in months`, `Implementation Outcome`, `Double+Blind`, `Pos Result Y/N`.
 - **Type/enum** per field against §4–§5. Source binaries ∈ {`1`, `0`, `3`, `"."`}; `BaseStatus` ∈ {`Severe`, `Moderate`, `Mild`, `"."`}; `Age_Median` ∈ {`<30`, `30-50`, `50+`, `"."`}; `Country_USvsNonUS` ∈ {`US`, `NonUS`, `Both`, `"."`}; percent fields numeric 0–100; `Followup in months` numeric ≥ 0.
 - **Eligibility** — `EligibilityFailedCriterion = NA` iff `EligibleYN = Y`; `EligibilityNote` non-empty and not `"."`/`"NA"` whenever `EligibleYN = N`; no contradiction with `Clincial Trial YN` (§4.2).
 - **Harms/safety** — `SafetyReported = Y` ⟺ `HarmsAssessed = 1`.
@@ -391,7 +392,7 @@ Deterministic, run at merge. **Blocking failures prevent any output table from b
 - **Identity** — `first_author_surname(Citation/Title)` equals the frozen manifest surname; `(surname, Year)` unique across the master.
 - **Config-key existence** — every eligible study has `EFFECT_SIZE_EXTRACTIONS` and `CONVERSION_RULES` entries, and every Tier-1-excluded eligible study has a `TIER2_RATINGS` entry; reported as a named list of `(surname, year)` tuples, never a bare `KeyError`.
 - **Config proposal discipline** — `confidence = clean` only for `d`, `g`, `eta_p`, `F`, `chi2`, `OR`, `RR`; `method = "F"` requires numeric `df_error`.
-- **Rationale completeness** — `Outcome`, `SD`, `PVal`, `SampleSize_NFinal`, and the structured `MethodologyDescribedYN` object present in `rationale.article` for every article.
+- **Rationale completeness** — `Outcome`, `SD`, `SampleSize_NFinal`, and the structured `MethodologyDescribedYN` object present in `rationale.article` for every article.
 
 **Warning (reported, non-blocking)**
 
@@ -435,3 +436,22 @@ Every change from `archived/prompts/opus_extraction_prompt.md`, so a reviewer ca
 - Architecture, workflow, conversion, adapter, validation gate, visual regression: `clinical_system_design.md`.
 - Old↔new field crosswalk, row identity, comparison procedure, acceptance criteria: `archived/migration/clinical_old_new_mapping.md`.
 - Severity rubric source of record and the observational pipeline it is shared with: `observational_codebook.md` §5, `observational_studies_system_design.md` §3.
+
+---
+
+## 11. 2026-09 coding-scheme revision
+
+Requested by Jean 2026-09-01: split the compound `ConfoundYN` field into separate mediating and moderating fields while dropping confounding as a coded concept, and replace `PVal`'s p-value capture with a verification that a hypothesis test was reported at all. This section documents what changed and why, so a reader of §4 sees the current fields while a reader of the old raw responses or `clinical_adjudication.md` can still make sense of what they coded against.
+
+| # | Field | Change |
+|---|---|---|
+| 16 | `ConfoundYN` | **Dropped entirely, no successor concept.** The field asked about confounding, moderating, *and* mediating in one binary — conflating three distinct methodological questions into one code that could not distinguish "this trial statistically adjusted for a confounder" from "this trial tested mediation." Confounding assessment is not re-coded anywhere; a trial's confounding risk is still visible indirectly through `Comparator`, `RandomizationYN`, and `MethodologyDescribedYN`. |
+| 17 | `MediatingYN` | **New**, one of the two fields `ConfoundYN` was split into. Restricted to a **formal analysis only** — an indirect-effect test, a causal mediation model, a Baron-and-Kenny-style regression sequence. A narrative claim that a mechanism "may explain" the result, with no test run, codes `0`. This is narrower than `ConfoundYN`'s old "statistically adjusted, stratified, or substantively discussed" standard, deliberately: a discussion-counts standard could not be checked against the text, whereas "was a named analysis run" can. |
+| 18 | `ModeratingYN` | **New**, the other field `ConfoundYN` was split into. Same formal-analysis threshold as `MediatingYN` — an interaction term or a subgroup-by-treatment interaction test, not a side-by-side subgroup table with no interaction test. |
+| 19 | `PVal` → `HypothesisTestReportedYN` | **Replaced.** `PVal` never fed `_lib.compute()` — only `SD` and `SampleSize_NFinal` do — so its role was a Table 2/Table 3 completeness indicator ("was a p-value printed") and a mandatory Tier-1 rationale entry, not a value with numeric consequences. `HypothesisTestReportedYN` keeps the completeness-indicator role but broadens what counts: `1` for *any* inferential signal (p-value, CI excluding the null, a named test statistic, or an explicit verbal significance claim), not only a printed p-value or threshold. The exact statistic, when reported, still lives in `SD`; this field only asks whether an inferential test exists at all. Consequence: `PVal` leaves `TIER1_FIELDS` (§4.3) — the mandatory-every-article rationale requirement no longer applies to it, since a completeness binary does not carry the wrong-marker risk that justified that requirement. |
+
+**Column-count consequence.** 52 source variables → 53 (−2 for `ConfoundYN`/`PVal`, +3 for `MediatingYN`/`ModeratingYN`/`HypothesisTestReportedYN`). `clinical_master` grows from 72 to 73 columns. `TIER1_FIELDS` shrinks from four fields to three (`Outcome`, `SD`, `SampleSize_NFinal`).
+
+**Versioning.** `PromptVersion` bumps to `v1.3` (`clinical_extraction_prompt_v1_1.md`, per the file's existing in-place-versioning convention — see that file's own header). All 48 articles are re-extracted against the revised schema, since every row needs the three new fields and no row has valid values for the two dropped ones. `RubricVersion` is unaffected.
+
+**`clinical_adjudication.md` consequence.** Every existing adjudication row keyed to `ConfoundYN` (18 rows) or `PVal` (19 rows) is superseded — those columns no longer exist in the master, so the rows have nothing left to adjudicate. They are archived to a dated section at the end of that file rather than deleted, since they remain the record of what was decided about the source text under the old scheme. New adjudication for `MediatingYN`, `ModeratingYN`, and `HypothesisTestReportedYN` happens after re-extraction surfaces disagreements, on the same case-by-case basis as every other field — it is not pre-populated from the old rows, since the old rows answered a different question.

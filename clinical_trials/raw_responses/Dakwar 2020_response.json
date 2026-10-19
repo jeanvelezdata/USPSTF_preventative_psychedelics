@@ -17,7 +17,6 @@
       "EligibilityFailedCriterion": "NA",
       "Outcome": 25.1,
       "SD": "F(1,797) = 25.1",
-      "PVal": "<0.001",
       "SampleSize_NFinal": 40,
       "Pos Result Y/N": 1,
       "Clincial Trial YN": 1,
@@ -28,7 +27,9 @@
       "PrimaryCare": 0,
       "Power": 1,
       "Retention (%)": 85,
-      "ConfoundYN": 1,
+      "MediatingYN": 0,
+      "ModeratingYN": 0,
+      "HypothesisTestReportedYN": 1,
       "InclusionExclusionCriteria": 1,
       "ValidatedScaleMeasYN": 1,
       "MethodologyDescribedYN": 1,
@@ -134,7 +135,6 @@
       "Year": "Article states 'published online Dec. 2, 2019' but the version-of-record issue header reads 'Am J Psychiatry 2020; 177:125-133' / 'Am J Psychiatry 177:2, February 2020'. Per the request's Year=2020 and the issue-year rule, 2020 (issue) is used; 2019 (online-first) is the noted discrepancy.",
       "Outcome": "Primary outcome is self-reported alcohol abstinence (dichotomized abstinent/nonabstinent days) over 21 days postinfusion, per the longitudinal logistic mixed-effects model (Methods 'Statistical Analysis'; Results 'Primary Outcome: Alcohol Abstinence'). The time-by-treatment interaction is the test of ketamine vs. midazolam on this primary outcome: F=25.1, df=1,797. Outcome is coded as the bare F value (25.1); the labelled statistic with df is carried in SD.",
       "SD": "Same sentence as Outcome ('Primary Outcome: Alcohol Abstinence' paragraph): 'the time-by-treatment interaction (F=25.1, df=1, 797, p,0.001)'. Reported as 'F(1,797) = 25.1' with df in parentheses as required.",
-      "PVal": "Printed in the text as 'p,0.001' (Primary Outcome paragraph). The comma is a clear OCR/typographic substitution for '<' — the identical 'p,0.001' pattern recurs verbatim later in the Secondary Outcomes section for a different F-test, while a nearby correctly-rendered value in the same paragraph reads 'p=0.004'. Read through as '<0.001' per the instruction to read through unambiguous punctuation artifacts; this is a punctuation correction, not a fabricated number.",
       "SampleSize_NFinal": "N=40, the full randomized/intent-to-treat sample ('40 were randomly assigned in an intent-to-treat analysis', Results/Participants), consistent with the primary model using all randomized participants with missing days imputed as nonabstinent.",
       "MethodologyDescribedYN": {
         "criteria": {
@@ -155,7 +155,8 @@
       "RaceEthnicity_BIPOCPercent": "Table 1: Asian 5.4% + Black or African American 13.5% + Multiracial 10.8% = 29.7% (consistent with White=70.3%; 100-70.3=29.7).",
       "SocioeconomicStatusYN": "No income, low-income eligibility, or public-insurance criteria are described anywhere in the article; only employment status is reported (71.8% employed), which does not meet the SES-description definition. Coded 0.",
       "RecruitmentRepresentYN": "Sample was treatment-seeking and heavily screened: 95 screened, 45 excluded pre-enrollment (31 did not meet criteria, 14 not interested/lost contact), plus exclusions for psychiatric/medical comorbidity, current depressive symptoms, and severe withdrawal history. Coded 0 as not representative of real-world community/clinical populations.",
-      "AE_denominator": "40 = sum of both randomized arms (ketamine N=17 + midazolam N=23), both of which received an infusion and were monitored for adverse effects (Results/Participants; CONSORT diagram)."
+      "AE_denominator": "40 = sum of both randomized arms (ketamine N=17 + midazolam N=23), both of which received an infusion and were monitored for adverse effects (Results/Participants; CONSORT diagram).",
+      "SchemaRevisionNote": "2026-09-03 schema-revision splice: ConfoundYN/PVal removed, MediatingYN/ModeratingYN/HypothesisTestReportedYN added, sourced from a separate v3 extraction run (PromptVersion v1.3) rather than this file's own v1.2 run. Every other field in this file is unchanged from the original v1.2 extraction -- this file is now a hybrid of two runs for these 3 fields only. See clinical_adjudication.md '2026-09-03 -- Coding-scheme revision' for the full rationale."
     },
     "ae_events": {
       "Dakwar 2020_AE01": "Results/Participants paragraph reports sedation as the most common adverse effect, given per-arm (midazolam N=12; ketamine N=8). Ketamine-arm N=8 used for NAffected (ArmScope=psychedelic_arm); midazolam's N=12 is retained in Description for completeness rather than summed. Graded Mild: transient, no intervention or persistence noted, resolved ~12h postinfusion.",

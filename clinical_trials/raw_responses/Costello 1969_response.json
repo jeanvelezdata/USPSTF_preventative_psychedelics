@@ -17,7 +17,6 @@
       "EligibilityFailedCriterion": "not_clinical_trial",
       "Outcome": ".",
       "SD": ".",
-      "PVal": ".",
       "SampleSize_NFinal": ".",
       "Pos Result Y/N": 3,
       "Clincial Trial YN": 0,
@@ -28,7 +27,9 @@
       "PrimaryCare": 0,
       "Power": 0,
       "Retention (%)": ".",
-      "ConfoundYN": 1,
+      "MediatingYN": 3,
+      "ModeratingYN": 3,
+      "HypothesisTestReportedYN": 3,
       "InclusionExclusionCriteria": 3,
       "ValidatedScaleMeasYN": 3,
       "MethodologyDescribedYN": 0,
@@ -172,7 +173,6 @@
     "article": {
       "Outcome": "This article is a narrative review with no original trial and no single stated primary outcome of its own; it synthesizes improvement/abstinence rates from six LSD studies (Table II, mean 75% improvement, range 50-93%) and multiple aversion-therapy studies, but designates no single primary comparison of its own. Coded '.' rather than selecting one reviewed study's statistic, which would misattribute another trial's effect size to this record.",
       "SD": "No dispersion or test statistic is paired with a primary outcome of this article's own; individual reviewed studies' statistics (e.g., Table I's chi-squared values for Madill et al.'s craving-reduction comparison) belong to those separate trials, not to this review. Coded '.'.",
-      "PVal": "No p-value for a primary outcome of this article's own. Table I reports chi-squared = 5.123 (non-significant) for the Madill et al. craving-reduction comparison, but that is a cited study's statistic, not this review's finding. Coded '.'.",
       "SampleSize_NFinal": "No original analyzed sample exists; the article synthesizes studies with heterogeneous Ns (145 in the unpublished Saskatchewan report, 10/10/10 in Smart et al. 1966, 68 in O'Reilly & Funk 1964, etc.). Coded '.'.",
       "MethodologyDescribedYN": {
         "criteria": {
@@ -193,7 +193,9 @@
       "PrimaryCare": "Coded 0: unlike randomization/blinding/comparator, this asks a straightforward question answerable directly from the text regardless of whether an original trial exists -- nothing in the article ties any aspect to primary-care settings or providers.",
       "Power": "Coded 0: statistical power is a topic a review could discuss even without an original trial (e.g., as a critique of the reviewed studies), but this article never raises it anywhere.",
       "Retention (%)": "Coded '.': no original enrolled/randomized sample exists to compute a completion percentage for.",
-      "ConfoundYN": "Coded 1: the article substantively discusses confounding/moderating variables that should be controlled in future aversion/LSD studies (employment status, personality traits such as extraversion and anxiety level, brain damage) and explicitly flags a confound in Smart et al.'s own design (employment imbalance across randomized groups: 8/10 unemployed in the LSD arm vs 4/10 and 5/10 in the others).",
+      "MediatingYN": "Coded 3 (does not apply): no original trial exists for the author to have run a formal mediation analysis on; this presupposes an original study with a measured intermediate variable and an indirect-effect test, which is absent here for the same reason as RandomizationYN/Comparator. No mediator was ever measured because no original study was conducted.",
+      "ModeratingYN": "Coded 3 (does not apply): same reasoning as MediatingYN -- no original trial or measured candidate moderator exists for the author to have tested for an interaction effect. (The article does discuss candidate moderators, such as employment status and personality traits, as topics future research should investigate, but names no formal moderation test conducted on any data of the author's own.)",
+      "HypothesisTestReportedYN": "Coded 3: there is no primary outcome/comparison belonging to this article's own (nonexistent) trial to test, consistent with Outcome='.'. Individual reviewed studies report their own inferential tests (e.g., Table I's chi-squared=5.123, non-significant, for Madill et al.'s craving-reduction comparison; Smart et al.'s non-significant LSD-vs-ephedrine-vs-control comparison), but those tests belong to those separate trials, not to this review's own primary comparison, which does not exist.",
       "InclusionExclusionCriteria": "Coded 3 (does not apply): the author enrolled no participants of his own, so there are no inclusion/exclusion criteria to state.",
       "ValidatedScaleMeasYN": "Coded 3 (does not apply): no original outcome measurement was performed by the author.",
       "Funding/COI YN": "Coded 0: the only provenance note is that the paper was based on a 1967 conference presentation; no funding source or conflict-of-interest statement appears anywhere in the text.",
@@ -225,7 +227,8 @@
       "NParticipantsWithAE": "Coded '.': no article-wide count of participants experiencing at least one AE is given; the only count present is n=15 for the apnea-duration statistic, not for AE incidence overall.",
       "AE_denominator": "Coded 'Not numbered': the AEs are drawn from a narrative synthesis of several different reviewed sources with different sample sizes (e.g., the succinylcholine physiological data come from a 15-patient pilot study, while the emetic-drug side-effect list cites no denominator at all); no single assessed population size applies to the set as a whole.",
       "ArmScope": "Coded 'NA': the AE data are pooled narratively across multiple distinct non-trial sources (a 15-patient succinylcholine pilot study and an unspecified emetic-drug literature) rather than drawn from one trial's exposed arm(s), so neither 'psychedelic_arm' nor 'pooled' cleanly applies; this is a genuine case where arm scope does not apply rather than merely a single-arm study.",
-      "WorstSeverity": "Coded 'Moderate': the maximum Severity among the seven ae_events is Moderate (succinylcholine apnea/paralysis, rubric-graded; and author-graded 'light to moderate' neuromuscular disturbances)."
+      "WorstSeverity": "Coded 'Moderate': the maximum Severity among the seven ae_events is Moderate (succinylcholine apnea/paralysis, rubric-graded; and author-graded 'light to moderate' neuromuscular disturbances).",
+      "SchemaRevisionNote": "2026-09-03 schema-revision splice: ConfoundYN/PVal removed, MediatingYN/ModeratingYN/HypothesisTestReportedYN added, sourced from a separate v3 extraction run (PromptVersion v1.3) rather than this file's own v1.2 run. Every other field in this file is unchanged from the original v1.2 extraction -- this file is now a hybrid of two runs for these 3 fields only. See clinical_adjudication.md '2026-09-03 -- Coding-scheme revision' for the full rationale."
     },
     "ae_events": {
       "Costello 1969_AE01": "Apnea duration (mean 90.4s, SD 24s, range 63-150s) is reported for Sanderson, Campbell & Laverty's 15-patient succinylcholine pilot study (ref 27), relayed narratively by Costello rather than measured by him. Graded Moderate/rubric because respiratory paralysis is the deliberate, monitored unconditioned stimulus of the method (saline-drip access, three therapists present) and self-resolves within the reported duration, but the article gives no detail on clinical management or complications beyond duration, so SeverityIndeterminate=Y; a stricter reading of 'life-threatening' under FDA seriousness criteria could argue for Severe instead. NAffected=15 because the duration statistics are reported across the full pilot sample.",

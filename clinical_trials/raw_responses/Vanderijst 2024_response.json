@@ -17,7 +17,6 @@
       "EligibilityFailedCriterion": "both",
       "Outcome": ".",
       "SD": ".",
-      "PVal": ".",
       "SampleSize_NFinal": ".",
       "Pos Result Y/N": 3,
       "Clincial Trial YN": 0,
@@ -28,7 +27,9 @@
       "PrimaryCare": 0,
       "Power": 1,
       "Retention (%)": ".",
-      "ConfoundYN": 1,
+      "MediatingYN": 0,
+      "ModeratingYN": 3,
+      "HypothesisTestReportedYN": ".",
       "InclusionExclusionCriteria": 1,
       "ValidatedScaleMeasYN": 1,
       "MethodologyDescribedYN": 1,
@@ -80,7 +81,6 @@
     "article": {
       "Outcome": "This is a study protocol (BMC Psychiatry, 2024, DOI s12888-024-05502-y). At the time of publication no participants had been enrolled or dosed; the article describes the planned primary clinical outcome (between-group change in % heavy drinking days, baseline to 4 weeks posthospital discharge, Methods 'Primary clinical outcome') but reports no observed effect size anywhere in the text. Coded '.'.",
       "SD": "No dispersion or test statistic is reported; the Data analysis section names the planned statistical models (mixed-model ANOVA with Helmert contrasts, GLMM, mediation analyses) but presents no computed values. Coded '.'.",
-      "PVal": "No p-value is reported anywhere in the article; the trial has not been run. Coded '.'.",
       "SampleSize_NFinal": "The protocol specifies a planned total N=62 (31 high-dose/31 active-placebo, powered for 46 completers assuming 25% attrition; Methods 'Sample size'), but this is a target enrollment figure, not a final analyzed N from a completed analysis of Outcome. No analysis has occurred, so coded '.' rather than substituting the planned N.",
       "MethodologyDescribedYN": {
         "criteria": {
@@ -125,7 +125,8 @@
       "BaseStatus": "Coded 'Severe': inclusion criteria require a DSM-5-TR diagnosis of severe alcohol use disorder (6 or more criteria), explicitly stated in both Background ('sAUD') and inclusion criteria.",
       "QualityOfLifeMeasured": "Coded 1: the secondary hypotheses explicitly state the high-dose group is expected to show 'a greater improvement in health-related quality of life compared to the active placebo group' (Background/Proposed study, secondary hypotheses), and Table 1 tracks 'Global functioning' as a planned outcome.",
       "RecruitmentRepresentYN": "Coded 1: recruitment is planned from the routine inpatient alcohol-detoxification pathway at a public university hospital (real-world clinical population), explicitly framed by the authors as 'pragmatic' (Background: 'trials that are more pragmatic in nature'; Recruitment section). Flagged as non-obvious because the Discussion itself notes this pragmatic aim is constrained by 'strict and rather restrictive inclusion and exclusion criteria', which somewhat limits representativeness.",
-      "RelapseMeasured": "Coded 1: the primary and secondary clinical outcomes (percentage of heavy drinking days, percentage of days of abstinence, drinks per day, tracked from baseline through 4 weeks and 6 months posthospital discharge) function as a return-to-use/relapse measure, though the article does not use the word 'relapse' as a named instrument; treated as functionally equivalent tracking of return to problematic drinking after detoxification."
+      "RelapseMeasured": "Coded 1: the primary and secondary clinical outcomes (percentage of heavy drinking days, percentage of days of abstinence, drinks per day, tracked from baseline through 4 weeks and 6 months posthospital discharge) function as a return-to-use/relapse measure, though the article does not use the word 'relapse' as a named instrument; treated as functionally equivalent tracking of return to problematic drinking after detoxification.",
+      "SchemaRevisionNote": "2026-09-03 schema-revision splice: ConfoundYN/PVal removed, MediatingYN/ModeratingYN/HypothesisTestReportedYN added, sourced from a separate v3 extraction run (PromptVersion v1.3) rather than this file's own v1.2 run. Every other field in this file is unchanged from the original v1.2 extraction -- this file is now a hybrid of two runs for these 3 fields only. See clinical_adjudication.md '2026-09-03 -- Coding-scheme revision' for the full rationale."
     },
     "ae_events": {},
     "config_proposal": {

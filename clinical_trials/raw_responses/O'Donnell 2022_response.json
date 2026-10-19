@@ -14,7 +14,6 @@
       "Temperature": 1,
       "Outcome": ".",
       "SD": ".",
-      "PVal": ".",
       "SampleSize_NFinal": ".",
       "Pos Result Y/N": 3,
       "Clincial Trial YN": 0,
@@ -25,7 +24,9 @@
       "PrimaryCare": 1,
       "Power": 0,
       "Retention (%)": ".",
-      "ConfoundYN": 1,
+      "MediatingYN": 0,
+      "ModeratingYN": 0,
+      "HypothesisTestReportedYN": 3,
       "InclusionExclusionCriteria": 1,
       "ValidatedScaleMeasYN": 1,
       "MethodologyDescribedYN": 0,
@@ -82,7 +83,6 @@
       "Citation/Title": "This is the design/rationale paper for the trial whose primary results are reported in the companion publication: Bogenschutz, M.P., et al. (2022). Percentage of heavy drinking days following psilocybin-assisted psychotherapy vs placebo... JAMA Psychiatry 79(10), 953-962 (ref [9] in this article). Extracted citation elements from the title page/header of the supplied text.",
       "Outcome": "No effect size is reported anywhere in this text. The article states its primary outcome is 'the proportion of heavy drinking days during the 32 weeks after the first dosing session' (Sec 2.1.1), but explicitly defers all results to the companion publication [9] ('The primary outcomes have been published elsewhere'; 'Trial status' section). Coded '.'.",
       "SD": "No dispersion or test statistic for any outcome is reported in this text; only the statistical *methods* (MMRM, RM MANOVA) are described (Sec 4.2), with no computed values. Coded '.'.",
-      "PVal": "No p-value is reported anywhere in this text; results are deferred to ref [9]. Coded '.'.",
       "SampleSize_NFinal": "No analysis is reported in this article, so there is no analyzed-N to record. The text gives only enrollment/randomization counts: 96 participants randomized, 93 of whom received at least one dose of study medication (Sec 3.1) -- these are not an analysis denominator. Coded '.'.",
       "Pos Result Y/N": "Coded 3 (cannot be determined): no outcome data of any kind is reported in this protocol/design article; directionality of the treatment effect is not stated or determinable from this text.",
       "Clincial Trial YN": "Coded 0 to avoid the required internal-consistency contradiction with EligibilityFailedCriterion including a failure of criterion (a) (per the prompt: 'Clincial Trial YN = 1 with a failed criterion (a)... is an internal contradiction and will be rejected'). This does not mean no trial was conducted -- NCT02061293 was in fact completed with 96 randomized participants -- only that this particular article does not itself report the trial's conduct or outcomes, so the field is aligned with the eligibility verdict as the schema requires.",
@@ -93,7 +93,9 @@
       "PrimaryCare": "Coded 1 on a narrow basis: Table 1's blood-pressure footnote states participants with mildly elevated BP at screening 'may be provisionally included and referred to their primary care provider for management of hypertension.' This is a single incidental safety-referral touchpoint, not integration of care delivery within a primary-care setting -- a borderline call, flagged here.",
       "Power": "Coded 0. The article describes a planned enrollment target (100-180) with a planned sample-size re-estimation after 100 randomizations (Sec 3.1), but does not describe a formal a priori or post hoc power calculation, nor state the study was underpowered. No explicit 'power' discussion found in the text.",
       "Retention (%)": "Not calculable: the article reports only randomized N (96) and number who received >=1 dose (93); no study-completion or attrition counts are given (results deferred to ref [9]). Coded '.'.",
-      "ConfoundYN": "Coded 1: the statistical analysis plan (Sec 4.2) explicitly includes fixed covariates, treatment-by-assessment interactions, and planned tests of statistical mediation/moderation of the treatment effect (Aims 3-4) using a product-of-coefficients bootstrapping approach. This reflects planned methodology, not applied/reported adjusted results, since no results appear in this text.",
+      "MediatingYN": "Section 4.2 pre-specifies a formal mediation analysis: 'Tests of statistical mediation of the treatment effect (Aims 3-4) used a product-of-coefficients approach with a bootstrapping procedure [17][18].' Self-efficacy, craving, and motivation are explicitly measured as candidate mediators (Table 2). However, this article reports no results — 'Analysis of secondary outcomes is ongoing' (Trial status) — so the mediation test has not been conducted/reported in this document. Coded 0 (planned method, not yet executed/reported here) rather than 1 (would require an executed, reported result) or 3 (a mediator was in fact measured and a formal method specified).",
+      "ModeratingYN": "The Abstract states 'We will also explore moderators and mediators of the primary outcome,' indicating a planned but not-yet-executed moderation analysis; no formal interaction/effect-modification test result is reported in this article. Coded 0 (planned, not conducted/reported here) rather than 3, since candidate moderators were identified as a study aim.",
+      "HypothesisTestReportedYN": "This is a protocol/design paper; no result of any kind (descriptive or inferential) is reported for the primary outcome (percent heavy drinking days, weeks 4-36) in this document — 'The primary outcomes will be published elsewhere' (Abstract) and 'have been published elsewhere [9]' (Trial status). Coded 3 (no primary comparison tested in this document) as the closest available fit; flagged as a borderline call since a primary comparison does exist for the underlying trial, it simply is not reported here.",
       "BaseStatus": "Sample is defined by DSM-IV alcohol dependence diagnosis plus a heavy-drinking-days threshold (Table 1), but no explicit severity grading (e.g., an AUDIT score or stated mild/moderate/severe classification) is given in this text. Coded '.' rather than inferring a severity band from the diagnosis alone.",
       "Age_Median": "Inclusion criteria specify an eligible age range of 25-65 (Table 1), but no sample mean/median age is reported in this design paper (would appear in the companion results paper). Coded '.'.",
       "PercentFem": "Not reported in this text; no sample demographic breakdown is given (design paper only).",
@@ -129,7 +131,8 @@
         },
         "n_met": 12,
         "note": "Objective (Sec 2.1.1), design (Sec 2.1), setting (NYU/UNM), eligibility (Table 1), intervention (Sec 4.1.2-4.1.4), comparator (Sec 5.4), outcomes (primary/secondary listed in Sec 2.1.1), randomization procedure (Sec 4.1.1), blinding (Sec 4.1.2), statistical methods (Sec 4.2), harms-assessment plan (Sec 5.1, Table 2), and funding/COI (dedicated sections) are all explicitly described. Fails 'sample_size_power' (enrollment target and re-estimation plan given, but no formal power calculation stated) and 'results' (this is a protocol/design paper; all outcome results are explicitly deferred to the companion publication, ref [9]). 12 of 14 met, below the 13-of-14 threshold, so MethodologyDescribedYN=0."
-      }
+      },
+      "SchemaRevisionNote": "2026-09-03 schema-revision splice: ConfoundYN/PVal removed, MediatingYN/ModeratingYN/HypothesisTestReportedYN added, sourced from a separate v3 extraction run (PromptVersion v1.3) rather than this file's own v1.2 run. Every other field in this file is unchanged from the original v1.2 extraction -- this file is now a hybrid of two runs for these 3 fields only. See clinical_adjudication.md '2026-09-03 -- Coding-scheme revision' for the full rationale."
     },
     "ae_events": {},
     "config_proposal": {

@@ -7,7 +7,7 @@ import from here so the column set and value domains are defined exactly once.
 Two missingness conventions coexist in clinical_master and the split is by
 field origin, not field meaning (codebook §3):
 
-  * the 54 carried source variables use the numeric codes 1 / 0 / 3 / "."
+  * the 55 carried source variables use the numeric codes 1 / 0 / 3 / "."
     so scripts/_lib.recode_binary(), BINARY_COLS and descriptive_analyses.py
     keep working untouched;
   * the 18 added QC/provenance fields use Y/N-style string enums so the AE
@@ -22,17 +22,21 @@ from typing import Any, Callable
 
 # ── Column sets (design §6.1) ────────────────────────────────────────────
 
-# The 54 columns carried verbatim from the frozen files: all 56 original
-# columns minus `url or link to pdf` and `Study Design Type`. Spellings are
-# preserved exactly, including the misspelling `Clincial Trial YN` and the
-# punctuation in `Funding/COI YN`, `Retention (%)`, `Followup in months`,
-# `Implementation Outcome`, `Double+Blind` and `Pos Result Y/N`.
+# The 55 columns carried verbatim from the frozen files, adjusted by the
+# 2026-09 coding-scheme revision (design §10 / codebook §11): `ConfoundYN` is
+# dropped and `PVal` is replaced by `HypothesisTestReportedYN`, and
+# `MediatingYN` / `ModeratingYN` are added as the fields it was split into.
+# Spellings are preserved exactly for the remaining originals, including the
+# misspelling `Clincial Trial YN` and the punctuation in `Funding/COI YN`,
+# `Retention (%)`, `Followup in months`, `Implementation Outcome`,
+# `Double+Blind` and `Pos Result Y/N`.
 CARRIED_FIELDS: list[str] = [
     'Citation/Title', 'Condition', 'Year',
-    'Pos Result Y/N', 'Outcome', 'SD', 'PVal',
+    'Pos Result Y/N', 'Outcome', 'SD',
     'Clincial Trial YN', 'RandomizationYN', 'BlindingYN', 'Double+Blind',
     'Comparator', 'SampleSize_NFinal', 'PrimaryCare', 'Power', 'Retention (%)',
-    'ConfoundYN', 'InclusionExclusionCriteria', 'ValidatedScaleMeasYN',
+    'MediatingYN', 'ModeratingYN', 'HypothesisTestReportedYN',
+    'InclusionExclusionCriteria', 'ValidatedScaleMeasYN',
     'MethodologyDescribedYN', 'Funding/COI YN',
     'BaseStatus', 'Age_Median', 'PercentFem', 'RaceEthnicity_BIPOCPercent',
     'SocioeconomicStatusYN', 'Country_USvsNonUS', 'RecruitmentRepresentYN',
@@ -75,16 +79,21 @@ PROVENANCE_FIELDS: list[str] = [
     'text_source', 'text_format', 'SourcePDF',
 ]
 
-# The four fields that position the forest plot (codebook §4.3). A rationale
+# The three fields that position the forest plot (codebook §4.3). A rationale
 # entry is mandatory for each on every article, not only the non-obvious ones.
-TIER1_FIELDS: list[str] = ['Outcome', 'SD', 'PVal', 'SampleSize_NFinal']
+# `PVal` was dropped from this group by the 2026-09 revision: its replacement,
+# `HypothesisTestReportedYN`, is a completeness binary rather than a value that
+# feeds the effect-size math, so it no longer carries the wrong-marker risk
+# that justifies the mandatory-every-article rule (codebook §11).
+TIER1_FIELDS: list[str] = ['Outcome', 'SD', 'SampleSize_NFinal']
 
 # ── Value domains ────────────────────────────────────────────────────────
 
 # Numeric-coded binaries accepting 1 / 0 / 3 / "." (codebook §3.1).
 BINARY_SOURCE_COLS: list[str] = [
     'Pos Result Y/N', 'Clincial Trial YN', 'RandomizationYN', 'BlindingYN',
-    'Double+Blind', 'Comparator', 'PrimaryCare', 'Power', 'ConfoundYN',
+    'Double+Blind', 'Comparator', 'PrimaryCare', 'Power',
+    'MediatingYN', 'ModeratingYN', 'HypothesisTestReportedYN',
     'InclusionExclusionCriteria', 'ValidatedScaleMeasYN', 'MethodologyDescribedYN',
     'Funding/COI YN', 'SocioeconomicStatusYN', 'RecruitmentRepresentYN',
     'InterventionTherapy', 'HarmsAssessed', 'CulturalFraming',
@@ -152,7 +161,7 @@ TIER2_CATEGORIES: tuple[str, ...] = (
 
 # Pinned versions stamped into every request and asserted on every response.
 MODEL = 'claude-sonnet-5'
-PROMPT_VERSION = 'v1.2'
+PROMPT_VERSION = 'v1.3'
 RUBRIC_VERSION = 'v1'
 TEMPERATURE = 0
 
@@ -297,7 +306,6 @@ ARTICLE_VALIDATORS: dict[str, Callable[[Any], bool]] = {
     # legitimate text.
     'Outcome':           free_text,
     'SD':                free_text,
-    'PVal':              free_text,
     'SampleSize_NFinal': positive_integer_or(NOT_REPORTED),
 
     # Design and methodological quality
@@ -310,7 +318,9 @@ ARTICLE_VALIDATORS: dict[str, Callable[[Any], bool]] = {
     'PrimaryCare':                binary_code(),
     'Power':                      binary_code(),
     'Retention (%)':              percent,
-    'ConfoundYN':                 binary_code(),
+    'MediatingYN':                binary_code(),
+    'ModeratingYN':               binary_code(),
+    'HypothesisTestReportedYN':   binary_code(),
     'InclusionExclusionCriteria': binary_code(),
     'ValidatedScaleMeasYN':       binary_code(),
     'MethodologyDescribedYN':     binary_code(),
@@ -386,9 +396,9 @@ AE_EVENT_VALIDATORS: dict[str, Callable[[Any], bool]] = {
     'MeetsFDASerious':       one_of('Y', 'N', allow_missing=False),
 }
 
-assert len(CARRIED_FIELDS) == 54, f'expected 54 carried fields, got {len(CARRIED_FIELDS)}'
+assert len(CARRIED_FIELDS) == 55, f'expected 55 carried fields, got {len(CARRIED_FIELDS)}'
 assert len(ADDED_FIELDS) == 19, f'expected 19 added fields, got {len(ADDED_FIELDS)}'
-assert len(ARTICLE_FIELDS) == 73, f'expected 73 master columns, got {len(ARTICLE_FIELDS)}'
+assert len(ARTICLE_FIELDS) == 74, f'expected 74 master columns, got {len(ARTICLE_FIELDS)}'
 assert set(ARTICLE_VALIDATORS) == set(ARTICLE_FIELDS), (
     'validator set and column set disagree: '
     f'{set(ARTICLE_FIELDS) ^ set(ARTICLE_VALIDATORS)}'

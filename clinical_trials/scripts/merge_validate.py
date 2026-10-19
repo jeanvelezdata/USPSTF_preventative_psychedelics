@@ -133,7 +133,7 @@ def sha256_file(path: Path) -> str:
 # ── Blocking checks ──────────────────────────────────────────────────────
 
 def check_columns(article: dict) -> list[str]:
-    """Check 2 — column set exactly the 54 carried + 19 added names, less the
+    """Check 2 — column set exactly the 55 carried + 19 added names, less the
     fields write_outputs derives after the merge (never present on input)."""
     got, want = set(article), set(lib.ARTICLE_FIELDS) - lib.DERIVED_FIELDS
     return (
@@ -376,7 +376,7 @@ def check_config_proposals(proposals: dict[str, dict]) -> list[str]:
 
 
 def check_rationale_completeness(sid: str, rationale: dict) -> list[str]:
-    """Codebook §8 — the four Tier-1 fields need a rationale on every article."""
+    """Codebook §8 — the three Tier-1 fields need a rationale on every article."""
     return [f"rationale.article is missing the mandatory '{f}' entry"
             for f in lib.TIER1_FIELDS
             if not str(rationale.get(f, '')).strip()]
@@ -630,10 +630,16 @@ def build_review_queue(articles: list[dict], events: list[dict], rat_article: di
 def write_outputs(articles: list[dict], events: list[dict], rat_article: dict,
                   rat_events: dict, proposals: dict, dispositions: dict,
                   out_dir: Path) -> None:
+    # astype(object): a column with no "." anywhere across the corpus (all-numeric
+    # binaries, "." never hit) infers a numpy int64 dtype, which then raises
+    # TypeError the moment apply_adjudication writes a string 'Old' value into it.
+    # Every ARTICLE_VALIDATORS check and the codebook's own value domain treat
+    # cells as strings/numbers interchangeably, never as a fixed numpy dtype, so
+    # forcing object here is a correction, not a behavior change.
     master = pd.DataFrame(
         [{f: a.get(f) for f in lib.ARTICLE_FIELDS} for a in articles],
         columns=lib.ARTICLE_FIELDS,
-    ).sort_values(['Condition', 'StudyID']).reset_index(drop=True)
+    ).astype(object).sort_values(['Condition', 'StudyID']).reset_index(drop=True)
 
     # The human adjudication in clinical_adjudication.md is a durable layer on top of the raw
     # extraction, not a one-shot edit of the CSV. Re-applying it here means a

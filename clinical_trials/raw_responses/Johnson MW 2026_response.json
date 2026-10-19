@@ -17,7 +17,6 @@
       "EligibilityFailedCriterion": "NA",
       "Outcome": "OR = 6.12",
       "SD": "95% CI, 1.99-23.26",
-      "PVal": 0.003,
       "SampleSize_NFinal": 82,
       "Pos Result Y/N": 1,
       "Clincial Trial YN": 1,
@@ -28,7 +27,9 @@
       "PrimaryCare": 0,
       "Power": 1,
       "Retention (%)": 82.9,
-      "ConfoundYN": 1,
+      "MediatingYN": 0,
+      "ModeratingYN": 0,
+      "HypothesisTestReportedYN": 1,
       "InclusionExclusionCriteria": 1,
       "ValidatedScaleMeasYN": 1,
       "MethodologyDescribedYN": 1,
@@ -341,7 +342,6 @@
     "article": {
       "Outcome": "A priori primary outcome is 6-month biochemically verified prolonged smoking abstinence; the reported effect size for the primary between-group comparison is OR = 6.12 (95% CI, 1.99-23.26; P = .003) from binary logistic regression, stated in the Abstract and the 'Smoking Cessation Outcomes' section of Results. Not the largest available statistic (7-day point-prevalence OR = 3.30 is secondary; the exploratory zero-inflated mixed model's incidence rate ratio is a tertiary/exploratory analysis) — Outcome reflects the designated primary endpoint per the precedence rule.",
       "SD": "95% CI, 1.99-23.26 is the dispersion measure the article pairs directly with the primary OR of 6.12 (Abstract; Results).",
-      "PVal": "P = .003 is reported immediately alongside the primary OR of 6.12 in the Abstract and Results.",
       "SampleSize_NFinal": "Intention-to-treat analysis for the primary 6-month prolonged-abstinence outcome included all N = 82 randomized participants (42 psilocybin, 40 nicotine patch); participants who discontinued or were lost to follow-up were counted as nonabstinent rather than excluded, so 82 (not the 68 who completed the 6-month visit) is the denominator over which the primary OR was computed (Methods, 'Statistical Analysis'; Results).",
       "MethodologyDescribedYN": {
         "criteria": {
@@ -355,7 +355,9 @@
       },
       "Power": "Coded 1 because the article explicitly discusses the absence of a formal a priori power calculation ('Sample size was informed by financial rather than statistical considerations because of limited data on effect size from prior research'), which the coding rule treats as 'discussed' even without a completed calculation (Methods).",
       "Retention (%)": "82.9 = 68/82 (completers of the 6-month primary follow-up / total randomized N), matching the article's directly stated figure ('68 [82.9%] completing the 6-month follow-up'). Randomized N used as denominator per the randomized-study convention.",
-      "ConfoundYN": "Coded 1 because (a) the primary logistic-regression models were run without covariates on the stated basis of 'highly comparable group baseline characteristics' (an explicit baseline-balance justification), (b) an exploratory analysis specifically tested whether prior lifetime psychedelic use — a plausible confounder — was associated with outcome (it was not), and (c) baseline CPD was included as a covariate in the exploratory mixed-effects model of daily cigarette use.",
+      "MediatingYN": "No formal mediation/indirect-effect model was reported in this article; the Discussion only narratively speculates about possible psychological mechanisms ('may instead act via higher-order psychological systems') and explicitly defers mechanistic analysis to a future, separately published paper ('crossover, and fMRI and potential mechanisms will be published separately'). Narrative speculation with no test run codes 0, not 1.",
+      "ModeratingYN": "The Results/Limitations report an exploratory analysis comparing abstinence by prior lifetime classic-psychedelic use ('Exploratory analysis suggested prolonged abstinence did not differ based on prior lifetime psychedelic use'), described only in an appendix not reproduced in the extracted text. Because the main text does not confirm a formal interaction/moderation term (vs. a simple stratified comparison), this is coded 0 rather than 1, consistent with the rule that side-by-side subgroup description without a stated interaction test is 0.",
+      "HypothesisTestReportedYN": "Both the primary (prolonged abstinence, OR 6.12, P = .003) and secondary (7-day point prevalence, OR 3.30, P = .01) outcomes carry explicit inferential statistics with p-values, so 1.",
       "BaseStatus": "Coded 'Moderate': mean FTCD (Fagerstrom Test for Cigarette Dependence) was 4.6-4.7 (borderline low-to-moderate on the 0-10 scale) and mean CPD was ~15.7/day with a median of 6 prior failed quit attempts — indicating an established, moderately dependent smoking population rather than a minimally dependent or an extreme/heaviest-use (severe) sample.",
       "RaceEthnicity_BIPOCPercent": "11.0 = 100 - 89.0% White = 3.7% Black/African American + 4.9% East/Southeast Asian + 2.4% multiracial (Results, total-sample race breakdown, N = 82).",
       "SocioeconomicStatusYN": "Coded 0: the article reports educational attainment (bachelor's degree or higher) but no income, low-income eligibility criterion, or public-insurance data, so low-SES inclusion is not explicitly described.",
@@ -370,7 +372,8 @@
       "NumDistinctAEs": "Coded 'Not numbered' rather than an integer. Table 2 is explicitly restricted to 'adverse events reported in >=2 participants during the trial' and lists 20 named AE types with psilocybin-arm counts, but the article states a full listing (including presumably singleton AEs affecting only 1 participant) is in eTable 2 of Supplement 2, which is not part of the converted text available for this extraction. The 20-type count from Table 2 is therefore a floor, not the true total, so it is coded 'Not numbered' per the non-fabrication rule. Additionally, the extracted Table 2 markdown is itself garbled/column-shifted around the 'Elevated blood pressure' row, reinforcing that a confident integer total cannot be asserted.",
       "AE_denominator": "Coded 82 (total randomized N), matching the headline statement '70 participants (85.4%) reported an AE' (70/82 = 85.4%, confirming this denominator). Note: the per-event breakdown in Table 2 uses a narrower population (n = 40 psilocybin-arm and n = 40 nicotine-patch-arm participants who received the study intervention, per footnote b, N = 80 total, excluding 2 psilocybin-randomized participants who did not receive the drug). 82 is used here as the article's overall/primary safety-population denominator; the per-event ae_events NAffected values are drawn from the n = 40 psilocybin-arm column specifically (noted in each event's Description).",
       "ArmScope": "Coded 'pooled' at the article level because Table 2 as designed reports AE values for both the psilocybin arm and the nicotine-patch (comparator) arm side by side, mixing exposed and comparator participants; the headline 70/82 AE-prevalence figure likewise spans both arms. Individual ae_events NAffected values in this extraction come from the psilocybin-arm column specifically (the only column reliably parseable from the garbled table), which is flagged in each event's Description.",
-      "WorstSeverity": "Coded 'Moderate': the article states no serious AEs occurred, but one psilocybin-administration case of elevated blood pressure required active pharmacological intervention (0.4 mg sublingual nitroglycerin), which meets the rubric's Moderate band (intervention required, no FDA seriousness criterion met, no further sequelae). No event in the article meets an FDA seriousness criterion or is author-labeled an SAE, so no event reaches Severe."
+      "WorstSeverity": "Coded 'Moderate': the article states no serious AEs occurred, but one psilocybin-administration case of elevated blood pressure required active pharmacological intervention (0.4 mg sublingual nitroglycerin), which meets the rubric's Moderate band (intervention required, no FDA seriousness criterion met, no further sequelae). No event in the article meets an FDA seriousness criterion or is author-labeled an SAE, so no event reaches Severe.",
+      "SchemaRevisionNote": "2026-09-03 schema-revision splice: ConfoundYN/PVal removed, MediatingYN/ModeratingYN/HypothesisTestReportedYN added, sourced from a separate v3 extraction run (PromptVersion v1.3) rather than this file's own v1.2 run. Every other field in this file is unchanged from the original v1.2 extraction -- this file is now a hybrid of two runs for these 3 fields only. See clinical_adjudication.md '2026-09-03 -- Coding-scheme revision' for the full rationale."
     },
     "ae_events": {
       "Johnson MW 2026_AE01": "Depression is listed in Table 2 with a psilocybin-arm count (12/40) but no detail on severity, duration, or whether intervention was needed; defaulted to Mild per the under-specified-AE rule and flagged indeterminate.",

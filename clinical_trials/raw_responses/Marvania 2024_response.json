@@ -14,7 +14,6 @@
       "Temperature": 1,
       "Outcome": "51.98% increase in mean AASE (Alcohol Abstinence Self-Efficacy Scale) confidence score from baseline to the final 2-week follow-up assessment",
       "SD": "T = -4.982",
-      "PVal": "<0.05",
       "SampleSize_NFinal": 18,
       "Pos Result Y/N": 1,
       "Clincial Trial YN": 1,
@@ -25,7 +24,9 @@
       "PrimaryCare": 0,
       "Power": 0,
       "Retention (%)": 100,
-      "ConfoundYN": 0,
+      "MediatingYN": 3,
+      "ModeratingYN": 0,
+      "HypothesisTestReportedYN": 1,
       "InclusionExclusionCriteria": 1,
       "ValidatedScaleMeasYN": 1,
       "MethodologyDescribedYN": 0,
@@ -80,7 +81,6 @@
     "article": {
       "Outcome": "Abstract and Table 1: the abstract's headline result is 'a final assessment showing a 51.98% increase in confidence from baseline,' matching Table 1's row 'Pre versus finalpost 2 week' (change 51.98%). AASE confidence-to-abstain is the study's stated primary aim ('to evaluate the efficacy of ketamine in enhancing confidence levels to abstain from alcohol'), and the 2-week final assessment is the outcome the abstract and conclusion close on, so it was chosen over the intermediate post-session-1/2/3 comparisons in the same table, which reflect cumulative in-treatment change rather than the sustained/primary endpoint.",
       "SD": "Table 1, 'Pre versus finalpost 2 week' row, 'T statistics' column = -4.982. No degrees of freedom were printed for this paired t-test in Table 1 (N=18 would imply df=17, but this is not stated in the article, so it is not appended).",
-      "PVal": "Table 1, same row, 'P' column = '<0.05'; the article states this threshold applies 'across all comparisons.'",
       "SampleSize_NFinal": "Results: 'The study included 18 participants.' No dropout or loss to follow-up is reported anywhere in the text; abstinence status ('seven participants had maintained abstinence... the rest gave a history of consuming alcohol') is reported for what appears to be the full enrolled sample, so N=18 is used as the analyzed sample for the final-assessment comparison.",
       "MethodologyDescribedYN": {
         "criteria": {
@@ -112,7 +112,8 @@
       "RelapseMeasured": "Coded 1 because return-to-use status was explicitly tracked at the final follow-up ('the rest gave a history of consuming alcohol'), even though no drinking-days or quantity detail is given beyond this binary status.",
       "AE_denominator": "Not explicitly stated as a separate 'safety population'; taken as the full enrolled/treated sample of 18, since the article's single blanket statement of no adverse effects appears to cover all ketamine-treated participants.",
       "NParticipantsWithAE": "Inferred as 0 from AnyAEReported='N' (article states no adverse effects were reported for the ketamine dose used); not itself given as an explicit count in the text.",
-      "EligibleYN": "Passes (a): prospectively planned add-on intervention (ketamine, fixed dose/schedule) delivered under an IRB-approved protocol (IECHRPGR reference number given) with defined enrollment (Nov 2023-Jan 2024), explicit inclusion/exclusion criteria, and prospective outcome assessment (AASE at baseline, after each session, and at 2-week follow-up) -- this is a clinical trial despite lacking randomization/blinding/comparator (single-arm trials are eligible per the v1.2 boundary case). Passes (b): AASE (a validated alcohol self-efficacy/craving instrument), AUDIT scores, and abstinence/relapse status are all substance-use outcomes."
+      "EligibleYN": "Passes (a): prospectively planned add-on intervention (ketamine, fixed dose/schedule) delivered under an IRB-approved protocol (IECHRPGR reference number given) with defined enrollment (Nov 2023-Jan 2024), explicit inclusion/exclusion criteria, and prospective outcome assessment (AASE at baseline, after each session, and at 2-week follow-up) -- this is a clinical trial despite lacking randomization/blinding/comparator (single-arm trials are eligible per the v1.2 boundary case). Passes (b): AASE (a validated alcohol self-efficacy/craving instrument), AUDIT scores, and abstinence/relapse status are all substance-use outcomes.",
+      "SchemaRevisionNote": "2026-09-03 schema-revision splice: ConfoundYN/PVal removed, MediatingYN/ModeratingYN/HypothesisTestReportedYN added, sourced from a separate v3 extraction run (PromptVersion v1.3) rather than this file's own v1.2 run. Every other field in this file is unchanged from the original v1.2 extraction -- this file is now a hybrid of two runs for these 3 fields only. See clinical_adjudication.md '2026-09-03 -- Coding-scheme revision' for the full rationale."
     },
     "ae_events": {},
     "config_proposal": {

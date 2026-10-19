@@ -17,7 +17,6 @@
       "EligibilityFailedCriterion": "NA",
       "Outcome": "100% (5 of 5) met clinical response criteria (≥50% MADRS improvement) by their fourth ketamine infusion",
       "SD": ".",
-      "PVal": ".",
       "SampleSize_NFinal": 5,
       "Pos Result Y/N": 1,
       "Clincial Trial YN": 1,
@@ -28,7 +27,9 @@
       "PrimaryCare": 0,
       "Power": 0,
       "Retention (%)": 80,
-      "ConfoundYN": 0,
+      "MediatingYN": 3,
+      "ModeratingYN": 0,
+      "HypothesisTestReportedYN": 0,
       "InclusionExclusionCriteria": 1,
       "ValidatedScaleMeasYN": 1,
       "MethodologyDescribedYN": 0,
@@ -80,7 +81,6 @@
     "article": {
       "Outcome": "Methods states the primary outcome measure is clinical response (≥50% MADRS improvement from baseline at 4 hours postinfusion). Results reports two time points for this measure: 60% (3/5) responded after the initial dose and 100% (5/5) responded by the fourth dose. The cumulative, endpoint figure (100%, 5/5) was chosen as the primary-comparison value since it represents the study's full-course result on the designated primary outcome; the earlier 60% figure is the interim assessment after dose 1.",
       "SD": "No dispersion measure, test statistic, or df is reported anywhere in the article for the MADRS response-rate outcome; this is a research letter reporting only raw counts/percentages, so SD is coded not reported.",
-      "PVal": "No p-value is reported for the clinical-response outcome (or for any outcome in the article); coded not reported.",
       "SampleSize_NFinal": "The 100% (5 of 5) response-by-fourth-dose figure explicitly states N=5 as its denominator (Results paragraph), so SampleSize_NFinal=5. Note an apparent internal tension: the same sentence also states '1 patient left the trial after receiving 2 ketamine infusions,' which is not decoded or reconciled here per the never-construct-a-decoding-theory rule — the article's own stated denominator (5 of 5) is reported as printed rather than inferred down to 4.",
       "MethodologyDescribedYN": {
         "criteria": {
@@ -91,7 +91,8 @@
         },
         "n_met": 12,
         "note": "Brief research-letter format. sample_size_power=N: no sample-size justification or power calculation is discussed anywhere. statistical_methods=N: results are reported as raw percentages/counts with no statistical-testing methodology described. comparator=Y and randomization=Y are coded as 'described as absent': the title and Methods explicitly frame the design as a 'case series' and 'open-label pilot study,' which is an explicit (if terse) statement that no control/comparator arm and no randomization were used, satisfying the described-as-absent standard rather than mere silence. n_met=12 < 13, so MethodologyDescribedYN=0."
-      }
+      },
+      "SchemaRevisionNote": "2026-09-03 schema-revision splice: ConfoundYN/PVal removed, MediatingYN/ModeratingYN/HypothesisTestReportedYN added, sourced from a separate v3 extraction run (PromptVersion v1.3) rather than this file's own v1.2 run. Every other field in this file is unchanged from the original v1.2 extraction -- this file is now a hybrid of two runs for these 3 fields only. See clinical_adjudication.md '2026-09-03 -- Coding-scheme revision' for the full rationale."
     },
     "ae_events": {},
     "config_proposal": {

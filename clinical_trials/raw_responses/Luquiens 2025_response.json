@@ -17,7 +17,6 @@
       "EligibilityFailedCriterion": "NA",
       "Outcome": "95% vs 60% (completed 2nd dosing session)",
       "SD": ".",
-      "PVal": 0.031,
       "SampleSize_NFinal": 30,
       "Pos Result Y/N": 1,
       "Clincial Trial YN": 1,
@@ -28,7 +27,9 @@
       "PrimaryCare": 0,
       "Power": 1,
       "Retention (%)": 96.7,
-      "ConfoundYN": 1,
+      "MediatingYN": 0,
+      "ModeratingYN": 0,
+      "HypothesisTestReportedYN": 1,
       "InclusionExclusionCriteria": 1,
       "ValidatedScaleMeasYN": 1,
       "MethodologyDescribedYN": 1,
@@ -328,7 +329,6 @@
     "article": {
       "Outcome": "Primary outcome is explicitly feasibility ('The primary outcome was feasibility, assessed as the number of patients completing both psilocybin sessions, and screening and inclusion rates' — Abstract Measurements, Methods 'Measures'). The Statistical analysis section names the primary-endpoint test explicitly ('The rate of patients completing both dosing sessions (primary endpoint) was compared between groups via a Fischer test'). Results 'Feasibility' section reports this comparison: 95% (19/20) in the 25 mg group vs 60% (6/10) in the 1 mg group, P=0.031. This is a feasibility endpoint, not a substance-use outcome; the key SUD-related secondary outcome was 12-week abstinence (55% vs 11%, P=0.043; Table 2, Results 'Preliminary efficacy'), reported here for transparency but not used as Outcome per the boundary-case rule that Outcome must be the stated primary even when the SUD outcome is only secondary.",
       "SD": "Fisher's exact test was used for the primary feasibility comparison (2nd-dose completion); the article reports only the resulting P-value (0.031, Results 'Feasibility'), with no separate test statistic (e.g., chi-square value) printed for this comparison. Coded '.'.",
-      "PVal": "P=0.031 for 2nd-dose completion (95% vs 60%), reported verbatim in Results 'Feasibility' section ('P-value = 0.031').",
       "SampleSize_NFinal": "The feasibility/primary-endpoint comparison (2nd-dose completion) was computed over the full randomized, as-treated per-protocol sample: n=20 (25 mg) + n=10 (1 mg) = 30, consistent with the reported percentages (19/20=95%, 6/10=60%).",
       "MethodologyDescribedYN": {
         "criteria": {
@@ -344,7 +344,9 @@
       "PrimaryCare": "Study conducted in a specialized inpatient addiction/rehabilitation unit (CHU Nîmes), not a primary-care setting; no primary-care setting or provider involvement is described anywhere in the article. Coded 0.",
       "Power": "No formal a priori power calculation is reported; the 20:10 sample size was determined per Hertzog's pilot-study sample-size recommendations (Statistical analysis, 'Sample size'), not a power analysis. However, the Discussion explicitly states a possible 'lack of power' for the antidepressant-subgroup comparison, which per the rubric's rule ('a bare statement that the study was underpowered counts as discussed') is coded 1.",
       "Retention (%)": "30 participants randomized and analyzed as-treated (20:10, per-protocol). The Statistical analysis section states 'only 1 week 12 endpoint was missing' (one 1 mg-group participant lost to follow-up before week 12); no other losses to the analyzed population are reported. 29/30 = 96.7%. Denominator is the randomized N (30) per rule, since randomized and as-treated N coincide here.",
-      "ConfoundYN": "Coded 1: the study explicitly assessed subgroup/moderator effects — antidepressant use on drinking/depression outcomes (Table 3, dedicated subsection), and baseline PCL-5 as a factor associated with abstinence response.",
+      "MediatingYN": "No formal mediation analysis (indirect-effect test, causal mediation model, Baron-and-Kenny-style sequence) was conducted anywhere in the article. Candidate intermediate variables were measured (5D-ASC dimensions, antidepressant use, PCL-5, DERS) and discussed narratively as possible mechanisms ('this could be because of a lack of power'; discussion of SSRIs/SNRIs attenuating acute experience), but none were tested as a formal mediator of the treatment-outcome relationship. Coded 0, not 3, because candidate mediating variables were in fact measured — only the formal test is absent.",
+      "ModeratingYN": "No formal moderation analysis (interaction term, subgroup-by-treatment interaction test) was conducted. The article reports two side-by-side subgroup comparisons — antidepressant use vs. not, within the 25 mg group only (Table 3, 'Role of antidepressants on drinking outcomes'), and baseline PCL-5 in abstainers vs. non-abstainers (Table S5) — but these are simple between-subgroup comparisons, not treatment-by-moderator interaction tests, and the antidepressant comparison is not even run across both randomized arms. Per the rule that subgroup results reported side by side with no interaction test are 0, not 1, coded 0.",
+      "HypothesisTestReportedYN": "An explicit P-value (0.031, Fisher's exact test) is reported for the primary feasibility comparison (2nd-dose completion rate) in the Results 'Feasibility' section and Statistical analysis section. Coded 1. (Note: an inferential test was also clearly reported for the secondary 12-week abstinence outcome, P=0.043, 95% CI excluding the null — so a hypothesis test was reported under either candidate primary outcome.)",
       "Age_Median": "Abstract reports mean age 49 ± 10; Table 1 reports median age 50 (IQR 42-57). The two values straddle the '30-50'/'50+' bracket boundary. Coded '30-50' based on the explicitly-labeled mean (49), noting the median (50) sits exactly at the bracket boundary.",
       "RaceEthnicity_BIPOCPercent": "Race/ethnicity data are not reported anywhere in the article (French single-center cohort). Coded '.'.",
       "Country_USvsNonUS": "Single-center study at CHU Nîmes, France; approved by the French Ethics Committee (Comité de Protection des Personnes) and French national medicines agency. Coded 'NonUS'.",
@@ -353,7 +355,8 @@
       "InterventionTherapy": "Coded 1: structured preparation (day before) and integration (day after) psychotherapy sessions accompany both dosing sessions, plus non-directive supportive psychotherapy during dosing itself, per a study therapeutic manual.",
       "Followup in months": "Longest follow-up assessment was at week 12 post-inclusion (12 weeks / 4 = 3 months). This horizon is measured from inclusion/baseline (not end of treatment) and is used consistently for the week-3/6/12 assessment schedule throughout the article (2nd dose occurs at week 3), so there is no separate end-of-treatment horizon to reconcile against.",
       "MortalityMeasured": "No deaths occurred or were reported anywhere in the article; the complete AE listing (Table 4) contains no fatal event. Mortality was not established as a formal outcome measure. Coded 0 (rather than '.') since the absence of any death is confirmable from the exhaustive AE table and narrative.",
-      "ArmScope": "Both study arms (25 mg and 1 mg) received psilocybin — there is no non-exposed comparator; the 'control' arm is a low, sub-active dose, not a placebo. Coded 'psychedelic_arm' because the entire per-protocol sample (n=30) is psilocybin-exposed by design, even though Table 4 breaks AE counts out by dose group; NumDistinctAEs (19), NParticipantsWithAE (16, = 10 in 25 mg + 6 in 1 mg) and AE_denominator (30) aggregate across both dose groups accordingly."
+      "ArmScope": "Both study arms (25 mg and 1 mg) received psilocybin — there is no non-exposed comparator; the 'control' arm is a low, sub-active dose, not a placebo. Coded 'psychedelic_arm' because the entire per-protocol sample (n=30) is psilocybin-exposed by design, even though Table 4 breaks AE counts out by dose group; NumDistinctAEs (19), NParticipantsWithAE (16, = 10 in 25 mg + 6 in 1 mg) and AE_denominator (30) aggregate across both dose groups accordingly.",
+      "SchemaRevisionNote": "2026-09-03 schema-revision splice: ConfoundYN/PVal removed, MediatingYN/ModeratingYN/HypothesisTestReportedYN added, sourced from a separate v3 extraction run (PromptVersion v1.3) rather than this file's own v1.2 run. Every other field in this file is unchanged from the original v1.2 extraction -- this file is now a hybrid of two runs for these 3 fields only. See clinical_adjudication.md '2026-09-03 -- Coding-scheme revision' for the full rationale."
     },
     "ae_events": {
       "Luquiens 2025_AE01": "Onset coded 'delayed' (event occurred about 3 weeks after the first dose, days before the scheduled second); severity Severe as a life-threatening cardiovascular event (FDA seriousness criterion), though the article states it was unrelated to treatment. InterventionRequired coded '.' since the article does not describe the clinical management given.",

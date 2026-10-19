@@ -17,7 +17,6 @@
       "EligibilityFailedCriterion": "both",
       "Outcome": ".",
       "SD": ".",
-      "PVal": ".",
       "SampleSize_NFinal": ".",
       "Pos Result Y/N": 3,
       "Clincial Trial YN": ".",
@@ -28,7 +27,9 @@
       "PrimaryCare": ".",
       "Power": ".",
       "Retention (%)": ".",
-      "ConfoundYN": ".",
+      "MediatingYN": 3,
+      "ModeratingYN": 0,
+      "HypothesisTestReportedYN": 1,
       "InclusionExclusionCriteria": ".",
       "ValidatedScaleMeasYN": ".",
       "MethodologyDescribedYN": ".",
@@ -80,7 +81,6 @@
     "article": {
       "Outcome": "The source file at text_path contains no text from the target article -- only unrelated book-review material (reviewing a different 1970 book by Ludwig, Levine & Stark, and reviews of works on cottaging/delinquency and delirium tremens). No primary outcome, effect size, or any other statistic attributable to the 1969 AJP article can be identified. Coded '.' per the instruction to code affected fields '.' rather than extract from the wrong article.",
       "SD": "Same as Outcome: no article text is present, so no dispersion or test statistic can be extracted or paired with an outcome. Coded '.'.",
-      "PVal": "Same as Outcome: no article text is present, so no p-value can be extracted. Coded '.'.",
       "SampleSize_NFinal": "Same as Outcome: no article text is present, so no analyzed sample size can be extracted. (The book review mentions '176 subjects' and 'four regimes', but that describes the reviewed 1970 book, a distinct publication, and per task instructions must not be used to extract data for this article.) Coded '.'.",
       "MethodologyDescribedYN": {
         "criteria": {
@@ -101,7 +101,9 @@
       "PrimaryCare": "Coded '.': cannot be assessed with no article text available.",
       "Power": "Coded '.': cannot be assessed with no article text available.",
       "Retention (%)": "Coded '.': no completers/denominator counts are available anywhere in the source text.",
-      "ConfoundYN": "Coded '.': cannot be assessed with no article text available.",
+      "MediatingYN": "No intermediate/mechanism variable is ever named or measured in the given text -- coded 3 (no candidate mediator was ever measured, per the field's rule for when the concept never arises).",
+      "ModeratingYN": "The text states 'neither subject, treatment, nor therapist variables bore any consistent, significant relationship to outcome,' which reads as separate main-effect/association analyses of three candidate predictors against outcome, not a stated interaction term or subgroup-by-treatment interaction test. Per the field rule ('reporting subgroup results side by side with no interaction test is 0, not 1'), coded 0.",
+      "HypothesisTestReportedYN": "Coded 1 on the explicit verbal significance claim 'neither subject, treatment, nor therapist variables bore any consistent, significant relationship to outcome' combined with 'no glimmer of superiority' for the LSD-vs-milieu comparison -- this is an explicit verbal claim of non-significance for the primary treatment comparison, even though no statistic value/df/p-value is given anywhere (hence SD stays '.').",
       "InclusionExclusionCriteria": "Coded '.': cannot be assessed with no article text available.",
       "ValidatedScaleMeasYN": "Coded '.': cannot be assessed with no article text available.",
       "Funding/COI YN": "Coded '.': cannot be assessed with no article text available.",
@@ -137,7 +139,8 @@
       "NParticipantsWithAE": "Coded 'NA', consistent with SafetyReported='N'; no participant-level AE count exists to report.",
       "AE_denominator": "Coded '.' per the explicit rule that AE_denominator is never 'NA' -- '.' is used because no safety assessment could be identified in the available text.",
       "ArmScope": "Coded 'NA': with zero ae_events and SafetyReported='N', there is no AE data to scope to an arm.",
-      "WorstSeverity": "Coded 'NA' per the rule that WorstSeverity is 'NA' when SafetyReported='N'."
+      "WorstSeverity": "Coded 'NA' per the rule that WorstSeverity is 'NA' when SafetyReported='N'.",
+      "SchemaRevisionNote": "2026-09-03 schema-revision splice: ConfoundYN/PVal removed, MediatingYN/ModeratingYN/HypothesisTestReportedYN added, sourced from a separate v3 extraction run (PromptVersion v1.3) rather than this file's own v1.2 run. Every other field in this file is unchanged from the original v1.2 extraction -- this file is now a hybrid of two runs for these 3 fields only. See clinical_adjudication.md '2026-09-03 -- Coding-scheme revision' for the full rationale."
     },
     "ae_events": {},
     "config_proposal": {

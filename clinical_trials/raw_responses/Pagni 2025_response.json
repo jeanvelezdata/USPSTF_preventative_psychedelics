@@ -17,7 +17,6 @@
       "EligibilityFailedCriterion": "NA",
       "Outcome": 0.06,
       "SD": "F(1,18) = 5.20",
-      "PVal": 0.03,
       "SampleSize_NFinal": 84,
       "Pos Result Y/N": 1,
       "Clincial Trial YN": 1,
@@ -28,7 +27,9 @@
       "PrimaryCare": 0,
       "Power": 1,
       "Retention (%)": 88.4,
-      "ConfoundYN": 1,
+      "MediatingYN": 0,
+      "ModeratingYN": 0,
+      "HypothesisTestReportedYN": 1,
       "InclusionExclusionCriteria": 0,
       "ValidatedScaleMeasYN": 1,
       "MethodologyDescribedYN": 0,
@@ -82,7 +83,6 @@
       "EligibleYN": "Criterion (a): eligible as a secondary analysis of trial data per the boundary case rule -- the parent RCT (Bogenschutz et al. 2022) randomized 95 adults with AUD to psilocybin vs. active placebo with a prospectively planned intervention; this paper reuses that trial's design and prospectively collected personality/drinking measures. Criterion (b): satisfied because substance-use outcomes (drinks-per-day change/posttreatment DpD via TLFB, WHO drinking-risk categories) are reported throughout Results, even though they are secondary to this article's own stated primary personality outcome.",
       "Outcome": "This article's stated primary outcome is personality-trait change (five preplanned between-group ANCOVAs on NEO-PI-R factors: neuroticism, extraversion, openness, agreeableness, conscientiousness), NOT a drinking outcome -- flagged per instructions as a discrepancy from the AUD-review's usual SUD-outcome focus. Among the four traits explicitly hypothesized a priori (neuroticism, extraversion, openness, conscientiousness), reported between-group partial eta-squared values are numerically tied at 0.07 for extraversion/openness/conscientiousness vs. 0.06 for neuroticism (Table 1, 'Effect of Treatment' columns), so no single trait is unambiguously 'largest.' I selected neuroticism as the representative co-equal primary because it is listed first in both the Abstract's Results sentence and the Introduction's hypothesis ordering, and because it is the trait mechanistically tied to this article's central AUD-specific hypothesis (the neuroticism facet impulsiveness is separately correlated with drinking outcomes) -- unlike openness, whose increase paradoxically moved further from normative levels and is not cleanly 'favorable.' This is a judgment call; extraversion or openness (both eta_p=0.07) would be equally defensible alternate picks and are recorded here for transparency. Value taken from Table 1, first data row (Neuroticism), 'Effect of Treatment' block.",
       "SD": "Table 1 prints the between-group ANCOVA treatment-effect statistic for neuroticism as 'F (df=1,18) = 5.20.' This df is internally inconsistent with the ANCOVA covariate-term df reported elsewhere in the Results text for the same model family ('F=2.29, df=1, 81, p=0.13' for the openness covariate), which implies an error df near 81 (consistent with N=84). The printed '18' may be a transposition/OCR artifact of '81,' but per protocol I report the value exactly as printed rather than constructing a decoding theory. Downstream users should verify the correct df before relying on this statistic.",
-      "PVal": "Uncorrected p=0.03 for the neuroticism between-group treatment effect, paired with F(1,18)=5.20 in the same Table 1 row. The FDR-corrected value is pFDR=0.05 (also printed in the same row); both survive the study's own significance threshold, but the uncorrected value is reported per the field rule to pair exactly with the SD statistic.",
       "SampleSize_NFinal": "N=84 (psilocybin N=44, placebo N=40) is the full analyzed sample for all reported ANCOVA/t-test results, per Methods: 'Of the original 95 participants who were randomized to treatment, two were not treated with study medication and nine did not complete pre- and posttreatment NEO questionnaires. Thus, 84 participants... were included in the analyses.'",
       "MethodologyDescribedYN": {
         "criteria": {
@@ -117,7 +117,8 @@
       "NParticipantsWithAE": "Coded 'NA' because SafetyReported='N'; no AE participant counts appear in this article's text.",
       "AE_denominator": "Coded '.' (never 'NA' per field rule) because no safety assessment was reported in this article, so no AE-assessed population denominator exists to report.",
       "ArmScope": "Coded 'NA': with no AE data reported at all in this article, arm scope for AE reporting genuinely does not apply.",
-      "WorstSeverity": "Coded 'NA' because SafetyReported='N', per the three-state coding table."
+      "WorstSeverity": "Coded 'NA' because SafetyReported='N', per the three-state coding table.",
+      "SchemaRevisionNote": "2026-09-03 schema-revision splice: ConfoundYN/PVal removed, MediatingYN/ModeratingYN/HypothesisTestReportedYN added, sourced from a separate v3 extraction run (PromptVersion v1.3) rather than this file's own v1.2 run. Every other field in this file is unchanged from the original v1.2 extraction -- this file is now a hybrid of two runs for these 3 fields only. See clinical_adjudication.md '2026-09-03 -- Coding-scheme revision' for the full rationale."
     },
     "ae_events": {},
     "config_proposal": {

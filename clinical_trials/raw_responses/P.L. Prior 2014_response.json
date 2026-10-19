@@ -14,7 +14,6 @@
       "Temperature": 1,
       "Outcome": "Lower positive-urine (relapse) rate in the ibogaine group (corresponding to ~10% of the sample) vs the placebo group across the 24-week follow-up",
       "SD": "F(3,12) = 2.45",
-      "PVal": 0.023,
       "SampleSize_NFinal": 20,
       "Pos Result Y/N": 1,
       "Clincial Trial YN": 1,
@@ -25,7 +24,9 @@
       "PrimaryCare": 1,
       "Power": 0,
       "Retention (%)": 100,
-      "ConfoundYN": 1,
+      "MediatingYN": 3,
+      "ModeratingYN": 3,
+      "HypothesisTestReportedYN": 1,
       "InclusionExclusionCriteria": 1,
       "ValidatedScaleMeasYN": 1,
       "MethodologyDescribedYN": 0,
@@ -94,7 +95,6 @@
     "article": {
       "Outcome": "Primary outcome is explicitly designated by the authors: 'the reduction in percentage of positive urine samples was considered the primary outcome' (Methods). The only reported statistic for this outcome describes a lower positive-urine (relapse) rate in the ibogaine group, 'corresponding to 10% of the sample,' vs a higher, unquantified rate in placebo (Results/Discussion, urine-sample paragraph). No paired absolute percentages for both arms are given, so Outcome is coded as a labelled descriptor rather than a number.",
       "SD": "Test statistic paired with the urine-positivity primary outcome, taken from the same sentence: 'F=2,450; df=3,12; p=0,023; ANOVA repeated measures.' Numerator df=3 is unusual for what otherwise reads as a 2-group comparison; the article never explains the 3 numerator df. This is flagged as an internal-consistency oddity rather than resolved or reinterpreted, per the no-decoding-theory rule.",
-      "PVal": "p=0,023, reported directly alongside the F statistic for the urine-positivity primary outcome (same sentence as SD).",
       "SampleSize_NFinal": "N=20 (10 ibogaine, 10 placebo) enrolled. The Results open with 'There were no defects from either group during the 6 month evaluation period,' read here as no dropouts/attrition given its context alongside baseline-comparability reporting; no participant losses are described anywhere else, and the urine analysis is stated as using 'the total samples collected from the 24 week period.' 'Defects' is an apparent OCR/translation artifact (the authors are Brazilian); 'dropouts' is the most contextually consistent reading, but this is not fully unambiguous and is flagged per the non-fabrication rule.",
       "MethodologyDescribedYN": {
         "criteria": {
@@ -127,7 +127,8 @@
       "RecruitmentRepresentYN": "Coded 0 -- despite community-clinic recruitment (NAPS), exclusion criteria are extensive (other substance dependence, major cardiac/renal/hepatic/endocrine disease, any psychotic or bipolar disorder history, active suicidality, current psychotropic medication), narrowing the sample well below a representative real-world cocaine-dependent population, many of whom have exactly these comorbidities.",
       "PrimaryCare": "Coded 1 -- participants were recruited from NAPS, explicitly described as 'a municipal institution... specialized in primary care in mental health,' with outpatient follow-up delivered through that same referral pathway.",
       "Power": "Coded 0 -- no a priori or post hoc power calculation or explicit statement that the study was underpowered appears anywhere; the conclusion's call for 'studies with larger samples... in order to establish its efficacy and validity' is generic future-research language, not treated as a power discussion.",
-      "ConfoundYN": "Coded 1 -- authors explicitly report checking baseline comparability between arms ('no statistically significant differences from both groups regarding age, demographic, ethnicity or physical comorbidities at first evaluation'), treated as a substantive assessment of potential confounders.",
+      "MediatingYN": "No formal mediation analysis (indirect-effect test, causal mediation model, or Baron-and-Kenny-style regression) was conducted or described anywhere in the article, and no candidate intermediate/mediator variable was ever measured — so the concept does not apply. Coded 3, not 0.",
+      "ModeratingYN": "No formal moderation analysis (interaction term, subgroup-by-treatment test, stratified effect-modification analysis) was conducted, and no candidate moderator was measured. The only related statement — 'no statistically significant differences from both groups regarding age, demographic, ethnicity or physical comorbidities at first evaluation' — is a baseline-comparability check between arms, not a mediation/moderation test, and does not satisfy this field. Coded 3, not 0.",
       "InterventionTherapy": "Coded 0 -- post-dose care is described only as biweekly outpatient psychiatric consultations for craving/BIS-11 assessment and urine collection; no structured psychotherapy, preparation, or integration sessions are described.",
       "MentalHealthChangeMeasured": "Coded 0 -- the BIS-11 measures trait impulsiveness, not a depression/anxiety/PTSD/well-being construct; judged not to meet this field's intent, though it is a borderline call.",
       "MortalityMeasured": "Coded 0 -- mortality was not a designated outcome. The ambiguous 'no defects from either group' sentence (see SampleSize_NFinal) could be read as 'no deaths,' but mortality is not tracked as a defined outcome measure anywhere in the Methods.",
@@ -135,7 +136,8 @@
       "IndigenousFramework": "Coded 0 -- ibogaine's origin as a plant used in West Central African initiatory rituals is mentioned once in the Introduction as background, not integrated into the study's design, consent process, or framework, per the prompt's 'origin mentioned in passing is not integration' guidance.",
       "CulturalFraming": "Coded 0 -- no reference to participants' racial/ethnic identity, historical/intergenerational trauma, or culturally specific framing of the intervention; the single mention of ibogaine's African ritual origin is background pharmacology, not cultural framing of this study's population or design.",
       "ArmScope": "Coded 'psychedelic_arm' with AE_denominator=10 -- the only reported AE (visual hallucinations) is stated as occurring in 'patients from the ibogaine group' specifically; the placebo group is not reported to have experienced hallucinations, so the value is not pooled across arms.",
-      "HarmsAssessed": "Coded 1, consistent with SafetyReported='Y' -- baseline and serial (every 6h during the 72h admission) ECGs, clinical evaluation of somatic symptoms, and explicit reporting of hallucinations and absence of cardiovascular events are all described."
+      "HarmsAssessed": "Coded 1, consistent with SafetyReported='Y' -- baseline and serial (every 6h during the 72h admission) ECGs, clinical evaluation of somatic symptoms, and explicit reporting of hallucinations and absence of cardiovascular events are all described.",
+      "SchemaRevisionNote": "2026-09-03 schema-revision splice: ConfoundYN/PVal removed, MediatingYN/ModeratingYN/HypothesisTestReportedYN added, sourced from a separate v3 extraction run (PromptVersion v1.3) rather than this file's own v1.2 run. Every other field in this file is unchanged from the original v1.2 extraction -- this file is now a hybrid of two runs for these 3 fields only. See clinical_adjudication.md '2026-09-03 -- Coding-scheme revision' for the full rationale."
     },
     "ae_events": {
       "P.L. Prior 2014_AE01": "Visual hallucinations are the only AE explicitly reported as having occurred in this study ('Patients from the ibogaine group experienced several visual hallucinations during the 72 hour period after exposure, mainly in the first 24 hours'). Classified as challenging_experience rather than a standard clinical AE because it reads as expected ibogaine-induced perceptual phenomenology with varied content, no reported distress, and no documented intervention. Onset coded post-session-acute (24-72h inpatient window) rather than in-session because there is no discrete guided-dosing 'session' described, only an inpatient observation period following capsule administration. NAffected is coded '.' because the text says only 'several' patients without a number. Severity graded Mild via rubric (no author CTCAE/SAE grading; expected effect, no intervention documented, no reported persistence past the 72h inpatient period), SeverityIndeterminate='N' given the reasonably specific description of timing and content. A separate sentence -- 'No other medications (expect for symptomatic for general symptoms such as nausea) were provided' -- was considered as a possible second AE (nausea) but was NOT added as an ae_events row: it describes the protocol's allowed rescue medications, not a confirmed report that any patient actually experienced nausea, and adding an AE row from it would risk fabricating an event the article never clearly asserts occurred. Likewise, ibogaine's known side effects (nausea, ataxia, xerostomia, QT prolongation) listed earlier in Methods as background literature justifying ECG monitoring are not this study's own observed events and are excluded from ae_events on the same basis."

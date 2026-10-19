@@ -17,7 +17,6 @@
       "EligibilityFailedCriterion": "NA",
       "Outcome": "4/4 (100%) tolerated the MDMA course with no SAEs; 2/4 alcohol-free, 2/4 single low-dose lapse only, none returned to daily/harmful drinking",
       "SD": ".",
-      "PVal": ".",
       "SampleSize_NFinal": 4,
       "Pos Result Y/N": 1,
       "Clincial Trial YN": 1,
@@ -28,7 +27,9 @@
       "PrimaryCare": 0,
       "Power": 0,
       "Retention (%)": 100,
-      "ConfoundYN": 1,
+      "MediatingYN": 0,
+      "ModeratingYN": 0,
+      "HypothesisTestReportedYN": 3,
       "InclusionExclusionCriteria": 1,
       "ValidatedScaleMeasYN": 1,
       "MethodologyDescribedYN": 0,
@@ -107,7 +108,6 @@
     "article": {
       "Outcome": "This paper's stated aim is a 'safety and tolerability proof of concept study' (Summary); the authors explicitly defer the drinking-behaviour outcome ('We are not reporting detailed outcome data in respect of drinking behaviour... as the study is still ongoing'). Per precedence rule, the authors' designated primary outcome (tolerability) governs, not the largest or most complete statistic. No comparator exists, so Outcome is coded as the single-arm rate: 4/4 tolerated with no SAEs, plus the secondary drinking pattern reported in the Outcome-and-follow-up section (Case Presentations / Outcome and follow-up sections).",
       "SD": "No dispersion statistic or test statistic is reported anywhere in the article for the tolerability or drinking outcomes; this is a purely narrative case series with no inferential statistics computed.",
-      "PVal": "No p-value is reported anywhere in the article for any outcome; figures show only descriptive means with SEM error bars (figure 1), not significance tests.",
       "SampleSize_NFinal": "N=4, the four case-series participants who completed the 8-week course and are the subject of this report ('this paper focuses on... the first four participants'); the parent study has screened 16 and 7 have completed overall, but only these 4 are analyzed/reported here.",
       "MethodologyDescribedYN": {
         "criteria": {
@@ -118,7 +118,8 @@
         },
         "n_met": 10,
         "note": "10 of 14 elements described (objective, design, setting, eligibility, intervention, outcomes, blinding [explicit 'open-label'], results, harms, funding/COI). No explicit discussion of a comparator's absence, no sample-size/power justification, no explicit statement on randomization, and no statistical-methods section, consistent with a purely descriptive open-label case series with no inferential statistics."
-      }
+      },
+      "SchemaRevisionNote": "2026-09-03 schema-revision splice: ConfoundYN/PVal removed, MediatingYN/ModeratingYN/HypothesisTestReportedYN added, sourced from a separate v3 extraction run (PromptVersion v1.3) rather than this file's own v1.2 run. Every other field in this file is unchanged from the original v1.2 extraction -- this file is now a hybrid of two runs for these 3 fields only. See clinical_adjudication.md '2026-09-03 -- Coding-scheme revision' for the full rationale."
     },
     "ae_events": {
       "Sessa 2019_AE01": "Onset coded post-session-acute per 'in the days after the MDMA sessions.' Severity graded Mild using the authors' own descriptor 'minor tinnitus,' which the authors themselves attribute to chronic postwithdrawal phenomena rather than MDMA; no intervention was reported, and no FDA seriousness criterion is met, so SeverityIndeterminate = N despite the absence of a formal CTCAE grade.",

@@ -17,7 +17,6 @@
       "EligibilityFailedCriterion": "no_sud_outcome",
       "Outcome": ".",
       "SD": ".",
-      "PVal": ".",
       "SampleSize_NFinal": ".",
       "Pos Result Y/N": 0,
       "Clincial Trial YN": 1,
@@ -28,7 +27,9 @@
       "PrimaryCare": 0,
       "Power": 0,
       "Retention (%)": 56.9,
-      "ConfoundYN": 1,
+      "MediatingYN": 3,
+      "ModeratingYN": 0,
+      "HypothesisTestReportedYN": 1,
       "InclusionExclusionCriteria": 0,
       "ValidatedScaleMeasYN": 1,
       "MethodologyDescribedYN": 0,
@@ -80,7 +81,6 @@
     "article": {
       "Outcome": "No single primary outcome is designated. The study ran nine comparisons (three timepoint-pairs x Treatment/Control, plus cross-group comparisons at each timepoint) across five instruments (MMPI, Lorr Scale, IPAT, Eysenck/Maudsley Personality Inventory, and a Background/Follow-up Questionnaire) and reports only counts of statistically significant differences per instrument against the number expected by chance at p<.05 (e.g. 'six statistically significant differences... out of a total of 126 comparisons, five per cent of 126 or six... could be expected on the basis of chance'). No instrument or comparison is identified as primary, no SUD-specific outcome is reported anywhere (see EligibilityNote), and the one comparison flagged as 'the only area in which positive results were obtained' (a general-health question) is explicitly deemed 'insufficient to justify rejection of the null hypothesis' by the authors themselves. Selecting any one instrument's count as 'the' effect size would misrepresent a multi-comparison chance-rate analysis as a single primary result, so this is coded '.' per the anti-fabrication rule rather than guessing among five co-equal, non-designated measures.",
       "SD": "No statistic is paired with a primary Outcome because none was identified (see Outcome rationale). Coded '.'.",
-      "PVal": "No p-value belongs to a single primary comparison; the article reports only significant-vs-chance-expected counts per instrument, not one p-value for one designated outcome. Coded '.'.",
       "SampleSize_NFinal": "No single analysis produces 'the' Outcome, so no single denominator applies. For context: 51 patients were accepted overall (25 Treatment / 26 Control, derived from 'the twenty-five members of the Treatment group' and 51 total); 17 patients per group (34/51) completed 6-month ratings; 13 Treatment and 16 Control (29/51) completed 12-month ratings, with partial data from about half of the remainder. Coded '.'.",
       "MethodologyDescribedYN": {
         "criteria": {
@@ -101,7 +101,9 @@
       "PrimaryCare": "0. Treatment was delivered in a general hospital setting by referring psychiatrists (specialist, not primary-care, providers); no aspect of the study is described as interfacing with primary-care settings or providers.",
       "Power": "0. No a priori or post hoc statistical power calculation or discussion appears anywhere; the article discusses only the expected chance rate of significant findings at p<.05 across many comparisons, which is a multiplicity/chance argument, not a power discussion.",
       "Retention (%)": "56.9 = 29/51 x 100, using the randomized N (51; enrolled and randomized are the same cohort here) as denominator and the longest-follow-up (12-month) completers as the numerator: 13 Treatment + 16 Control = 29 of 51 patients completed 12-month ratings ('this had fallen to 13 in the Treatment group and 16 from the Controls'). Not calculated from the 6-month figure (17+17=34/51=66.7%) because Followup in months (12) reflects the longest reported horizon. Not within 2 points of 80, so no additional near-threshold flag applies.",
-      "ConfoundYN": "1. The article substantively discusses a confound: baseline (time-1) differences between Treatment and Control on the Questionnaire data (Control patients more frequently reported seeing their doctor about physical complaints and that their feelings interfered with work), explicitly interpreted as evidence 'that the matching of Treatment and Control samples was not perfect,' though judged to have 'no bearing on the effects of treatment.'",
+      "MediatingYN": "3. No candidate mediator variable (e.g., dose, session count, in-session experience intensity, therapeutic alliance) was ever measured as an intermediate step between LSD treatment and outcome, and no formal indirect-effect or Baron-and-Kenny-style analysis was conducted anywhere. The concept does not apply to this design.",
+      "ModeratingYN": "0. Sex and psychiatric diagnosis (alcoholism vs. the several neurotic diagnoses) were measured as baseline characteristics (Table I), so candidate moderators existed, but no formal interaction term, subgroup-by-treatment test, or stratified effect-modification analysis was reported anywhere -- diagnosis-specific outcome results are never presented at all (see EligibilityNote), let alone tested for interaction with treatment. Judgment call: coded 0 rather than 3 because measured candidate moderators existed, even though never formally tested.",
+      "HypothesisTestReportedYN": "1. No single primary outcome is designated (see Outcome rationale), but extensive inferential testing (t-tests for group means; chi-square for the questionnaire data) was reported for the overall Treatment-vs-Control comparison across all five instruments, and the article's own conclusion ('results...were interpreted as negative') rests on that inferential framework (observed significant-difference counts vs. the count expected by chance at p<.05). Judgment call: coded 1 because inferential signal was clearly reported for the treatment-vs-control comparison broadly, even though it is not organized around one designated primary endpoint.",
       "InclusionExclusionCriteria": "0. No explicit inclusion/exclusion criteria are stated beyond psychiatrist referral 'for LSD treatment' and subsequent 'acceptance' into the study; no diagnostic thresholds, age limits, or medical/psychiatric exclusions are given.",
       "ValidatedScaleMeasYN": "1. The test battery comprised the Eysenck Personality Inventory, the IPAT Objective Anxiety Scale, the MMPI, and the Lorr Multidimensional Rating Scale (Out-patient Form) -- all validated psychometric instruments.",
       "Funding/COI YN": "1. 'This project was supported by National Health Research Grant 607-7-68.' No separate conflict-of-interest statement appears, but funding source disclosure alone satisfies this field.",
@@ -134,7 +136,8 @@
       "AE_denominator": "'.' (never 'NA' per convention) because no safety assessment was reported.",
       "ArmScope": "NA because SafetyReported='N'; no AE values exist to scope to an arm.",
       "WorstSeverity": "NA because SafetyReported='N'.",
-      "EligibleYN": "N. Criterion (a) is met (a genuine randomized controlled trial with defined enrollment, assigned regimen, and prospective outcome assessment). Criterion (b) fails: the five outcome instruments (MMPI, Eysenck, IPAT, Lorr, general follow-up questionnaire) are personality/psychiatric-symptom measures; no consumption, abstinence, cessation, relapse, craving, withdrawal, dependence-severity, or validated-SUD-instrument outcome is reported anywhere in the text, despite the sample including alcoholics."
+      "EligibleYN": "N. Criterion (a) is met (a genuine randomized controlled trial with defined enrollment, assigned regimen, and prospective outcome assessment). Criterion (b) fails: the five outcome instruments (MMPI, Eysenck, IPAT, Lorr, general follow-up questionnaire) are personality/psychiatric-symptom measures; no consumption, abstinence, cessation, relapse, craving, withdrawal, dependence-severity, or validated-SUD-instrument outcome is reported anywhere in the text, despite the sample including alcoholics.",
+      "SchemaRevisionNote": "2026-09-03 schema-revision splice: ConfoundYN/PVal removed, MediatingYN/ModeratingYN/HypothesisTestReportedYN added, sourced from a separate v3 extraction run (PromptVersion v1.3) rather than this file's own v1.2 run. Every other field in this file is unchanged from the original v1.2 extraction -- this file is now a hybrid of two runs for these 3 fields only. See clinical_adjudication.md '2026-09-03 -- Coding-scheme revision' for the full rationale."
     },
     "ae_events": {},
     "config_proposal": {

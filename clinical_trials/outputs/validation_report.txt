@@ -8,7 +8,7 @@ Config proposals: carried-forward=33  pending=16
 
 Gate coverage: design §8 checks 1-10 and 12 run here. Checks 11 and 13 run
 in gate_rebuild.py (they need the ratified config); check 14 runs in
-visual_regression.py (it needs the rebuilt artifacts).
+archived/migration/visual_regression.py (it needs the rebuilt artifacts).
 
 VALIDATION PASSED — 0 blocking issues. Output tables written.
 

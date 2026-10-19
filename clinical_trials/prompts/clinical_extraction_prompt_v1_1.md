@@ -1,6 +1,12 @@
-# Clinical-Trial Extraction Prompt — v1.2
+# Clinical-Trial Extraction Prompt — v1.3
 
-**Status:** Pinned, version-pinned. `PromptVersion = v1.2`. Changed from v1.1: single-arm and open-label
+**Status:** Pinned, version-pinned. `PromptVersion = v1.3`. Changed from v1.2 (2026-09-01 coding-scheme
+revision — `clinical_system_design.md` §10, `clinical_codebook.md` §11): `ConfoundYN` is dropped;
+`MediatingYN` and `ModeratingYN` are added as the two fields it was split into, each gated on a
+*formal* mediation/moderation analysis rather than the old field's "or substantively discussed"
+standard; `PVal` is replaced by `HypothesisTestReportedYN`, which verifies that some inferential
+test was reported rather than capturing the p-value's text. All 48 articles are re-run against this
+version. Changed from v1.1: single-arm and open-label
 studies code the four design binaries `0`, not `3`, resolving a contradiction
 between the codebook's eligibility boundary case and its field table — the
 frozen dataset uses `0` in all 33 alcohol rows and never uses `3`. Changed from v1: `3` is explicitly restricted to binary
@@ -21,7 +27,7 @@ Source of record: `clinical_codebook.md` §4–§7, `clinical_system_design.md` 
 You are extracting one article into a structured record for a systematic
 evidence review of psychedelic-assisted therapies for substance use disorder.
 You will be given the converted full text of **one** article and its
-identifying metadata. Extract **all 72 study-level fields**, an **adverse-event
+identifying metadata. Extract **all 73 study-level fields**, an **adverse-event
 array**, a **rationale**, and a **config proposal**, and return them as a
 single JSON object.
 
@@ -119,7 +125,7 @@ rejected.
 
 Two conventions coexist, split by field origin. Do not mix them.
 
-**The 54 carried source variables** use numeric codes:
+**The 55 carried source variables** use numeric codes:
 
 | Value | Meaning |
 |---|---|
@@ -144,7 +150,7 @@ Binaries are the JSON numbers `1`, `0`, `3` or the JSON string `"."`. Never
 string values or `"."` — never `3`, never a number. When the concept does not
 apply to the article at all (a review with no participants, say), the value is
 `"."`. Likewise the ten substance flags take only `1` or `0`, and the nine
-outcome binaries take only `1`, `0` or `"."`. Only the twenty binaries listed
+outcome binaries take only `1`, `0` or `"."`. Only the twenty-two binaries listed
 under "Design and methodological quality", "Population and generalizability",
 "Intervention and harms" and "Equity and cultural framing" accept `3`.
 
@@ -156,7 +162,7 @@ units.
 
 ---
 
-## Step 2 — The 72 study-level fields
+## Step 2 — The 73 study-level fields
 
 ### Identity, condition, provenance
 
@@ -170,17 +176,19 @@ units.
 
 ### Tier-1 effect-size fields — stricter rules
 
-These four alone determine forest-plot position. An error renders as a
+These three alone determine forest-plot position. An error renders as a
 confident, correctly-styled marker in the wrong place, which is worse than a
-visible gap. **A `rationale.article` entry is mandatory for all four on every
+visible gap. **A `rationale.article` entry is mandatory for all three on every
 article**, obvious or not — naming the passage or table the value came from,
 and for `Outcome` which of the article's reported statistics you chose and why.
+(A reported p-value is not captured here — record whether one was reported at
+all under `HypothesisTestReportedYN` below, and the statistic it belongs to,
+with its df, under `SD`.)
 
 | Field | Rule |
 |---|---|
 | `Outcome` | The effect size or outcome statistic for **the study's stated primary outcome**, on its primary comparison. Numeric where possible (`1.23`), else a short labelled descriptor (`"OR = 2.1"`, `"63% vs 27%"`), else `"."`. **Primary, not largest** — choosing the largest biases the forest plot upward. Precedence when no primary is designated: (1) the outcome the authors designate primary anywhere in the article; (2) the SUD-behavioral outcome the abstract leads with; (3) among genuinely co-equal primaries, the largest — and only then, with the tie and the choice recorded in `rationale`. |
 | `SD` | The dispersion or test statistic **paired with the value in `Outcome`**, not a different analysis's statistic. Report label and value together, and **include degrees of freedom in parentheses whenever the statistic has them**: `"F(1,48) = 6.45"`, `"t(23) = 2.10"`, `"χ²(1) = 7.19"`, `"SD = 4.3"`, `"SE = 0.21"`. A reported `F` without df is reported as printed, with the absence noted in `rationale`. `"."` if not reported. |
-| `PVal` | The p-value for the same primary outcome. Exact value when printed (`0.032`); the threshold string exactly as printed when only a threshold is given (`"<0.05"`, `">0.05"`). **Never convert `"NS"`, `"not significant"`, or `"ns"` into a number or a threshold** — record `"NS"` verbatim. `"."` if no p-value is reported at all. |
 | `SampleSize_NFinal` | Final analyzed sample size **for the analysis that produced `Outcome`** — the denominator `Outcome` was computed over, not the enrolled or randomized N unless those are the same. If the effect size comes from a subgroup or a completers-only analysis, this is that subgroup's N and `rationale` says so. Integer or `"."`. |
 
 ### Design and methodological quality
@@ -198,7 +206,9 @@ All are `1`/`0`/`3`/`"."` unless stated.
 | `PrimaryCare` | Did any aspect interface with primary-care settings or providers? |
 | `Power` | Was statistical power reported or discussed (a priori or post hoc)? A bare statement that the study was underpowered counts as discussed (`1`). |
 | `Retention (%)` | Number 0–100. Percent completing the study. **Denominator: the randomized N when both randomized and enrolled are reported** (attrition after randomization is what the criterion measures); enrolled when the study was not randomized. Calculate `completers / denominator × 100` if not stated directly, and give the two counts in `rationale`. `"."` if not calculable. A value near 80 flips a downstream cell — give an explicit rationale entry within 2 points of 80. |
-| `ConfoundYN` | Were confounding, moderating or mediating factors assessed — statistically adjusted, stratified, or substantively discussed? |
+| `MediatingYN` | Was a **formal mediation analysis** conducted — an indirect-effect test, a causal mediation model, a Baron-and-Kenny-style regression sequence — examining whether a measured intermediate variable explains the mechanism between the intervention and the outcome? A narrative claim that some mechanism "may explain" the result, with no test run, is `0`, not `1`. `3` when no mediator was ever measured. |
+| `ModeratingYN` | Was a **formal moderation analysis** conducted — an interaction term, a subgroup-by-treatment interaction test, a stratified effect-modification analysis — examining whether the intervention's effect varied by a measured factor? Reporting subgroup results side by side with no interaction test is `0`, not `1`. `3` when no candidate moderator was ever measured. |
+| `HypothesisTestReportedYN` | Was any inferential hypothesis test reported for the study's **primary outcome** — a p-value, a confidence interval excluding the null, a named test statistic (t/F/χ²), or an explicit verbal significance claim ("significantly different")? `1` if any inferential signal was reported for the primary comparison; `0` if the primary result is purely descriptive (means, percentages, case narrative) with no inferential test anywhere for it; `3` if there is no primary comparison to test at all (e.g. a single-arm case series with no pre/post or between-group contrast). This asks only *whether* a test was reported — the statistic itself, when present, goes in `SD` above. |
 | `InclusionExclusionCriteria` | Were inclusion and/or exclusion criteria clearly stated? |
 | `ValidatedScaleMeasYN` | Was at least one validated scale or psychometric measure used as an outcome? Biochemical verification (CO, cotinine, urine screen) is **not** a scale — that goes under `PhysicalChangeMeasured`. |
 | `MethodologyDescribedYN` | `1` if **at least 13 of the 14** criteria below are met, `0` if fewer, `"."` if it cannot be assessed. See the mandatory structured rationale. |
@@ -472,7 +482,7 @@ human two minutes; a wrong `"clean"` reaches a published forest plot.
 
 `rationale.article` **must** contain an entry for:
 
-- `Outcome`, `SD`, `PVal`, `SampleSize_NFinal` — on **every** article, obvious
+- `Outcome`, `SD`, `SampleSize_NFinal` — on **every** article, obvious
   or not.
 - `MethodologyDescribedYN` — as the structured object above.
 
@@ -498,12 +508,12 @@ is more useful than "reported in the paper".
 ```json
 {
   "data": {
-    "article": { "…all 72 fields, exact spellings…" },
+    "article": { "…all 73 fields, exact spellings…" },
     "ae_events": [ { "…all 11 fields, one object per distinct AE…" } ]
   },
   "rationale": {
     "article": {
-      "Outcome": "…", "SD": "…", "PVal": "…", "SampleSize_NFinal": "…",
+      "Outcome": "…", "SD": "…", "SampleSize_NFinal": "…",
       "MethodologyDescribedYN": { "criteria": {…}, "n_met": 12, "note": "…" }
     },
     "ae_events": { "{StudyID}_AE01": "…" },
@@ -516,7 +526,7 @@ is more useful than "reported in the paper".
 }
 ```
 
-Every one of the 72 field names must be present in `data.article`, spelled
+Every one of the 73 field names must be present in `data.article`, spelled
 exactly as given above — including the misspelling `Clincial Trial YN` and the
 punctuation in `Funding/COI YN`, `Retention (%)`, `Followup in months`,
 `Implementation Outcome`, `Double+Blind`, `Pos Result Y/N`. A missing or

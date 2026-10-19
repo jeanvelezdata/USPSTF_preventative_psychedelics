@@ -17,7 +17,6 @@
       "EligibilityFailedCriterion": "NA",
       "Outcome": "OR ≈ 5 (23.5% vs 47.8%, Table 2)",
       "SD": ".",
-      "PVal": "<0.05",
       "SampleSize_NFinal": 40,
       "Pos Result Y/N": 1,
       "Clincial Trial YN": 1,
@@ -28,7 +27,9 @@
       "PrimaryCare": 0,
       "Power": 1,
       "Retention (%)": 100,
-      "ConfoundYN": 1,
+      "MediatingYN": 1,
+      "ModeratingYN": 0,
+      "HypothesisTestReportedYN": 1,
       "InclusionExclusionCriteria": 1,
       "ValidatedScaleMeasYN": 1,
       "MethodologyDescribedYN": 1,
@@ -82,7 +83,6 @@
       "Year": "Masthead shows 'Journal of Psychopharmacology 2021, Vol. 35(2) 150-158 © The Author(s) 2020', i.e. an online-first 2020 copyright with a 2021 print-issue year. Coded Year=2021 (issue year) per the request's Year field and the field rule to prefer issue year, with the 2020 online-first copyright noted here as the discrepancy.",
       "Outcome": "Primary outcome is explicitly named in Methods/'Drinking outcome measures': '\"At-risk\" drinking post-infusion was used as the primary outcome measure' (NIAAA-defined heavy-use threshold over the 3-week post-infusion window). Its reported effect, in Results/'Infusion effects': 'Ketamine decreased the odds of engaging in at-risk drinking by approximately five times (p<0.05)' via binary logistic robust regression — no exact OR/CI is printed for this specific model. Table 2 gives the underlying raw proportions (ketamine 4/17 = 23.5% vs midazolam 11/23 = 47.8% engaged in at-risk drinking), which is the numeric pairing recorded here alongside the article's own 'approximately five times' language. This is the study's own primary comparison, distinct from the mediation analysis (HMS/CADSS) that is the paper's stated aim — per the prompt's precedence rule, Outcome is the stated primary outcome/comparison, not the mediation result the abstract emphasizes.",
       "SD": "No test statistic, standard error, or confidence interval is printed for the binary logistic robust regression that produced the 'approximately five times' odds estimate — only 'p<0.05' is given (Results/'Infusion effects'). Coded '.' rather than fabricating a value.",
-      "PVal": "Printed exactly as 'p<0.05' immediately following the odds-ratio statement in Results/'Infusion effects', paired with the same at-risk-drinking primary outcome as Outcome and SD.",
       "SampleSize_NFinal": "Table 2 shows the primary at-risk-drinking analysis was run on all N=40 randomized participants (23 midazolam + 17 ketamine). Results/'Post-infusion drinking' confirms: 'Post-infusion drinking behavior was recorded for all 40 participants.' This N differs from the N=35 used in the separate mediation analysis (3 missing HMS, 2 missing CADSS, per Results/'Participants'), which is not the analysis that produced Outcome.",
       "MethodologyDescribedYN": {
         "criteria": {
@@ -104,7 +104,8 @@
       "Followup in months": "Study design combines a 5-week (~1.15-month) MET/monitoring program with phone follow-up 'at 1 and 3 months following the completion of the study' (Study design and procedures). Measuring from end of treatment, the longest reported horizon is the 3-month post-completion phone follow-up; the primary at-risk-drinking outcome itself is assessed over a shorter 3-week (21-day) post-infusion window nested within the 5-week program.",
       "CessationMeasured": "Coded 1 because '% Days abstinent' is reported as a distinct outcome (Table 3), which functions as a cessation-oriented measure alongside the partial-reduction measures (heavy drinking days, % heavy drinking days) that justify ReductionMeasured=1.",
       "ArmScope": "Coded 'pooled' because the no-AE statements cover both arms jointly: 'All participants tolerated study procedures without adverse events' (Participants) and 'No adverse events were reported as a result of either the ketamine or midazolam infusions' (Infusion effects) — values are not reported separately for the ketamine-exposed arm alone.",
-      "SafetyReported": "Coded 'Y' (not silence) because the article makes an explicit, affirmative safety statement in two places (Participants section and Results/'Infusion effects') rather than simply omitting an AE discussion — this distinguishes 'assessed, none occurred' from 'never looked.'"
+      "SafetyReported": "Coded 'Y' (not silence) because the article makes an explicit, affirmative safety statement in two places (Participants section and Results/'Infusion effects') rather than simply omitting an AE discussion — this distinguishes 'assessed, none occurred' from 'never looked.'",
+      "SchemaRevisionNote": "2026-09-03 schema-revision splice: ConfoundYN/PVal removed, MediatingYN/ModeratingYN/HypothesisTestReportedYN added, sourced from a separate v3 extraction run (PromptVersion v1.3) rather than this file's own v1.2 run. Every other field in this file is unchanged from the original v1.2 extraction -- this file is now a hybrid of two runs for these 3 fields only. See clinical_adjudication.md '2026-09-03 -- Coding-scheme revision' for the full rationale."
     },
     "ae_events": {},
     "config_proposal": {
